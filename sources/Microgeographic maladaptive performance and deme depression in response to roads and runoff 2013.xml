@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">163</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.163</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Conservation Biology</subject>
+          <subject>Ecology</subject>
+          <subject>Environmental Sciences</subject>
+          <subject>Evolutionary Studies</subject>
+          <subject>Toxicology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Microgeographic maladaptive performance and deme depression in response to roads and runoff</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Brady</surname>
+            <given-names>Steven P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1"/>
+          <email>brady.steven@gmail.com</email>
+        </contrib>
+        <aff id="aff-1">
+               <institution>School of Forestry &amp; Environmental Studies, Yale University</institution>, <addr-line>New Haven, CT</addr-line>, <country>USA</country>
+            </aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Sorci</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-09-17">
+        <day>17</day>
+        <month>9</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e163</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-05-10">
+          <day>10</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-08-28">
+          <day>28</day>
+          <month>8</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Brady</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Brady</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/163"/>
+      <abstract>
+        <p>Despite theoretical understanding and empirical detection of local adaptation in natural environments, our knowledge of such divergence in fragmented habitats remains limited, especially in the context of microgeographic spatial scales and contemporary time scales. I used a combination of reciprocal transplant and common garden exposure experiments to evaluate potential microgeographic divergence in a pool-breeding amphibian occupying a landscape fragmented by roads. As indicated by reduced rates of survival and increased rates of malformation, I found evidence for maladaptation in road adjacent populations. This response is in direct counterpoint to recently described local adaption by a cohabiting species of amphibian. These results suggest that while divergence might commonly follow habitat modification, the direction of its outcome cannot be generalized even in identical habitats. Further, maladaptive responses can be associated with a more generalized depression effect that transcends the local environment. Alongside recent reports, these results suggest that maladaptive responses may be an emerging consequence of human-induced environmental change. Thus future studies should carefully consider the population unit as a key level for inference.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Microgeographic differentiation</kwd>
+        <kwd>Adaptation and maladaptation</kwd>
+        <kwd>Contemporary evolution</kwd>
+        <kwd>Road salt</kwd>
+        <kwd>Conservation</kwd>
+        <kwd>Roads and runoff</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>National Science Foundation grant DEB</funding-source>
+          <award-id>1011335</award-id>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>Mianus River Gorge Preserve Research Assistantship Program</funding-source>
+        </award-group>
+        <award-group id="fund-3">
+          <funding-source>Yale Carpenter/Sperry/Mellon fund</funding-source>
+        </award-group>
+        <award-group id="fund-4">
+          <funding-source>Yale Institute for Biospheric Studies</funding-source>
+        </award-group>
+        <award-group id="fund-5">
+          <funding-source>Hixon Center for Urban Ecology</funding-source>
+        </award-group>
+        <award-group id="fund-6">
+          <funding-source>American Museum of Natural History Theodore Roosevelt Fund</funding-source>
+        </award-group>
+        <award-group id="fund-7">
+          <funding-source>Federated Garden Club of Connecticut</funding-source>
+        </award-group>
+        <funding-statement>This research was supported by funding from the National Science Foundation grant DEB 1011335, the Mianus River Gorge Preserve Research Assistantship Program, the Yale Carpenter/Sperry/Mellon fund, the Yale Institute for Biospheric Studies, the Hixon Center for Urban Ecology, the American Museum of Natural History Theodore Roosevelt Fund, and the Federated Garden Club of Connecticut. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Identifying informative scales and levels of biological organization for investigation has long been regarded as a critical challenge in ecology, limiting our ability to describe variation in the natural world (<xref ref-type="bibr" rid="ref-24">Levin, 1992</xref>). Population level approaches—which are bringing to light profound variation that occurs across small spatial and temporal scales (<xref ref-type="bibr" rid="ref-29">Pigliucci, 2005</xref>)—offer a promising advancement on this challenge. Variation observed at this level can reveal dramatic differences among local populations, even across microgeographic spatial scales (<xref ref-type="bibr" rid="ref-37">Skelly, 2004</xref>; <xref ref-type="bibr" rid="ref-43">Urban, 2010</xref>). For example, spatially heterogeneous selection pressures coupled with heritable phenotypic variation has often been found to result in local adaptation (<xref ref-type="bibr" rid="ref-18">Hereford, 2009</xref>; <xref ref-type="bibr" rid="ref-21">Kawecki &amp; Ebert, 2004</xref>). Evidenced by a specific form of gene-by-environment interaction (G × E), local adaptation results when the local population has higher fitness than a foreign population measured within the local environment (<xref ref-type="bibr" rid="ref-21">Kawecki &amp; Ebert, 2004</xref>). However, gene flow and genetic drift can constrain local adaptation, rendering populations equivalently adapted between environments, or even maladapted to their local environment (<xref ref-type="bibr" rid="ref-9">Crespi, 2000</xref>; <xref ref-type="bibr" rid="ref-13">Falk et al., 2012</xref>; <xref ref-type="bibr" rid="ref-39">Stearns &amp; Sage, 1980</xref>; <xref ref-type="bibr" rid="ref-42">Urban, 2006</xref>). Though evident in wild populations (<xref ref-type="bibr" rid="ref-26">Moore &amp; Hendry, 2009</xref>), such empirical examples of population level maladaptation are rare (<xref ref-type="bibr" rid="ref-38">Spitzer, 2006</xref>). Rather, most examples of maladaptation in general describe reduced fitness across higher levels of organization, typically in host-parasite or host-pathogen systems, where coevolution can generate reciprocating dynamics of maladaptation and adaptation (<xref ref-type="bibr" rid="ref-40">Thompson, 1999</xref>).</p>
+      <p>In human-altered contexts, where novel selection pressures and reduced gene flow can yield adaptive responses (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>) and/or genetic drift (<xref ref-type="bibr" rid="ref-11">Delaney, Riley &amp; Fisher, 2010</xref>), and the rates of phenotypic change are high relative to undisturbed settings (<xref ref-type="bibr" rid="ref-10">Darimont et al., 2009</xref>; <xref ref-type="bibr" rid="ref-17">Hendry, Farrugia &amp; Kinnison, 2008</xref>), the potential for population divergence should be elevated. Given this increased potential, population level approaches should be viewed as essential for fulfilling conservation imperatives aimed at understanding the long-term fates of populations influenced by human activities. Here, I report the population specific responses of a pool-breeding amphibian (the wood frog, <italic>Rana sylvatica</italic>  =  <italic>Lithobates sylvaticus</italic>) occupying a landscape fragmented by roads. Given the suite of novel selection pressures associated with road fragmentation and runoff—along with previously documented contemporary local adaptation to temperature by the wood frog in this landscape (<xref ref-type="bibr" rid="ref-37">Skelly, 2004</xref>)—I expected that road adjacent populations of this species would be locally adapted to the roadside environment. In particular, I expected road runoff contaminants—especially road salt (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>)—to act as the selective pressure conducing local adaptation in these populations. This outcome seems especially likely in light of recent evidence of local adaptation to roads by another amphibian (the spotted salamander, <italic>Ambystoma maculatum</italic>) breeding and dwelling in the same locations (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>).</p>
+      <p>I hypothesized (1) that the roadside environment would induce negative effects on the aquatic life stages of the wood frog, and (2) that within a common roadside environment, roadside populations would outperform woodland populations (i.e., the local adaptation hypothesis). I used a field-based reciprocal transplant experiment (<xref ref-type="fig" rid="fig-1">Figs. 1</xref> and <xref ref-type="supplementary-material" rid="supp-3">S1</xref>) coupled with a series of lab-based exposure experiments to test these hypotheses across a total of 10 populations (five roadside, five woodland). Each of these populations occupied a distinct seasonal pool, which comprises natural, typical breeding habitat. To evaluate demographic consequences of roads in this system, I surveyed wild population size and female reproductive effort. Finally, to investigate potential mechanisms by which road proximity influences wood frog performance, I characterized the environment at each pool by estimating a suite of abiotic variables associated with amphibian distribution and performance (<xref ref-type="bibr" rid="ref-44">Wellborn, Skelly &amp; Werner, 1996</xref>). I expected that these characteristics might vary with road proximity, and thus act as potential agents of natural selection in roadside pools.</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.163/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title>Population locations and reciprocal transplant design.</title>
+          <p>Locations of the 10 pools comprising transplants are shown. Asterisk on inset indicates approximate study location in northeastern Connecticut, USA. Like symbols indicate paired pools (red  =  roadside; blue  =  woodland). Interstate highway (I-84) and on/off-ramp infrastructure is indicated in yellow. Primary roads are heavily shaded, while secondary and unpaved roads are lightly shaded. Bar graph shows average specific conductance (µS; ±1 SE) in the woodland and roadside pools. From among a suite of abiotic variables, I found that pools differed only with respect to specific conductance, which indicates elevated ionic concentration, reflecting the increased presence of chloride ions in roadside pools that originate from road salt runoff.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/163/fig-1.png"/>
+      </fig>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Natural history and site selection</title>
+        <p>The wood frog is widely distributed throughout eastern North America and much of Canada, with a range extending from within the Arctic Circle to the southeastern United States. Within the study region, populations of this species breed in late March or early April, when adults migrate from upland terrestrial habitat into ephemeral wetlands to reproduce. The wood frog is an explosive breeder, with the majority of oviposition for a given population occurring in a single night (<xref ref-type="bibr" rid="ref-5">Berven &amp; Grudzien, 1990</xref>). Populations in this study region typically breed synchronously within several days of one another, when each female oviposits one egg mass containing approximately 800 eggs per mass. Embryos develop over two-three weeks before hatching, and continue to develop as aquatic larvae throughout spring and early summer until they metamorphose into terrestrial juveniles.</p>
+        <p>My method for selecting populations for this study is previously reported in a reciprocal transplant study that indicated local adaptation to roads in the spotted salamander (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>). Briefly, I selected the five roadside pools with the highest conductivity (µS) values (an indicator of road salt runoff) and with a breeding population comprising at least 10 wood frog families. For each roadside pool, a nearby woodland pool was then selected to minimize confounding effects. Specifically, I selected woodland pools based on the criterion of maximizing similarity in the abiotic conditions of canopy cover, pool size, and the presence and type of emergent vegetation. Reciprocal transplants (described below) were conducted within each of these five pool pairs (see <xref ref-type="fig" rid="fig-1">Figs. 1</xref> and <xref ref-type="supplementary-material" rid="supp-3">S1</xref> for overview and schematic). Eight of the 10 pools selected during the aforementioned spotted salamander study (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>) were also selected here; the remaining two pools did not have breeding populations of the wood frog and thus two different pools were selected for the present study. Inference from these overlapping populations provides an especially strong basis for comparison of responses between two amphibians occupying identical habitats. When referring to the full complement of roadside or woodland populations, I use the term ‘deme’. Thus, ‘roadside deme’ refers collectively to the five roadside populations while ‘woodland deme’ refers collectively to the five woodland populations.</p>
+      </sec>
+      <sec>
+        <title>Reciprocal transplant experiment</title>
+        <p>In spring 2008, I collected from each of 10 pools (five roadside, five woodland) a subset of embryos from 10 egg masses less than 36 h old. To ensure collection within this timeframe, pools were monitored daily as the breeding season approached. Roadside pools were located &lt;10 m from a paved road while woodland pools were located &gt;200 m from the nearest paved road and at least 100 m from the nearest dirt road (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Dirt roads in this region typically see low traffic use and do not receive winter deicing salts. While roadside egg masses appeared somewhat more compact than woodland egg masses (<xref ref-type="bibr" rid="ref-20">Karraker &amp; Gibbs, 2011</xref>), there were no conspicuous differences in the embryos themselves between sites, and selection of embryos from within each egg mass was haphazard. Thus, any potential carryover effect of the &lt;36 h exposure did not bias the selection of the subset of embryos employed in the experiment. The consequences of such potential effects are elaborated upon in the Discussion. Each egg mass was collected whole in a plastic 710 ml container. From each egg mass, I separated out two clusters of embryos. Each cluster was photographed and stocked into one of five experimental enclosures in the origin pool and the transplant pool (<xref ref-type="supplementary-material" rid="supp-3">Fig. S1</xref>). (Details of the experimental enclosures are described elsewhere (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>) and an image can be found in <xref ref-type="supplementary-material" rid="supp-3">Fig. S1</xref>.) For a subset of egg masses, this procedure occurred in the field. However, heavy rains impeded photography; remaining egg masses were instead transported to the lab on ice for processing, stored overnight in an 8°C incubator, and returned for stocking the following day. Each pool contained five experimental blocks. I targeted stocking approximately 50 embryos from each of two egg masses per enclosure, yielding one unique pairing of egg masses (hereafter “clutch pair”) that was replicated across, but not within pool pairs. This design was chosen to maximize family level diversity while maintaining an additional level of replication at the clutch pair level, while at the same time balancing logistics of resources and spatial constraints within pools. Enclosure assignment was haphazard for each clutch pair. In total across 10 pools, I stocked 100 enclosures containing approximately 100 embryos each. Breeding began first at the two most southerly pools on 2 April 2008. 8 April 2008 was the last day that breeding began in a new pool. Given the proximity between each pair of pools (i.e., the complement of a woodland-roadside pairing), breeding began within a one-day period across all pairs. Stocking of enclosures occurred in a pairwise manner between each roadside and woodland pond. In this way, there were no systematic differences in the timing of collection or stocking. I used a dissecting stereoscopic microscope to estimate the developmental stage of each egg mass upon collection from the field. For each embryo cluster (<italic>n</italic> = 200) I estimated egg size from photographs. Specifically, I used ImageJ (<xref ref-type="bibr" rid="ref-31">Rasband, 1997–2012</xref>) to measure the two-dimensional surface area of 15 embryos per cluster represented by a best-fit ellipse (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>). At the conclusion of the experiment, when all eggs had either hatched and reached feeding stage or died, I estimated survival, developmental stage (<xref ref-type="bibr" rid="ref-15">Gosner, 1960</xref>), and snout-vent length (SVL) at the container level. One enclosure was removed from analysis due to predator intrusion.</p>
+      </sec>
+      <sec>
+        <title>Chronic road salt exposure experiment</title>
+        <p>Of the 10 egg masses collected from each pool, nine were haphazardly assigned into groups of three (hereafter “clutch triad”). From each egg mass, three separate clusters—each of approximately 30 embryos—were separated out and haphazardly assigned by clutch triad to each of three road salt treatments. Each cluster (<italic>n</italic> = 270) was photographed and embryo size was estimated as described above. Each experimental unit comprised one clutch triad, the unique composition of which was maintained across treatments providing an additional random effect. In total, each of 10 pools contributed representatives from nine egg masses, grouped in clutches of three, and exposed to three treatments for a total of 90 experimental units (3 clutch triads per treatment × 3 treatments × 10 pools  =  90). The three treatments (low, medium, high) reflected the range of specific conductance found in the study region. All treatments comprised aged and conditioned tap water. Road salt comprising at least 95% NaCl obtained from the Connecticut Department of Transportation was added to the medium and high treatments to achieve specific conductance values of 1,000 µS and 4,000 µS respectively, which approximate the mean and maximum values I detected in roadside pools in the study region. No road salt was added to the low treatment, which had a natural specific conductance of approximately 175 µS. Embryos were reared in 11.3 l plastic containers (42 × 28 × 18 cm) filled with approximately 8 l of assigned treatment water. Each container was fitted with mesh hardware cloth to suspend embryos in the water column off the bottom of the container. Containers were housed on tables in an outdoor facility under 50% shade cloth. Concentrations of roadsalt were maintained in response to evaporation and rain by adding lower or higher concentration treatment water respectively, and through routine, complete water changes. When all embryos hatched or died, I estimated survival, developmental stage, SVL, and prevalence of axial malformations (<xref ref-type="bibr" rid="ref-1">Bantle et al., 1991</xref>).</p>
+      </sec>
+      <sec>
+        <title>Acute road salt exposure experiment</title>
+        <p>Following assignment of embryo clusters to reciprocal transplant and chronic exposure experiments described above, egg masses were retained within collection containers and placed haphazardly within 150 L plastic wading pools that served as incubators, located in an outdoor enclosure covered with 50% shade cloth. When embryos reached developmental stage 18, I separated out approximately 45 embryos from each egg mass and placed them into a common garden environment consisting of a 150 L wading pool filled with aged, conditioned tap water. Embryos were grouped by origin such that each wading pool contained embryos from each of the 10 egg masses representing a single natural pool. Upon approaching feeding stage (Gosner developmental stage 25 (<xref ref-type="bibr" rid="ref-15">Gosner, 1960</xref>)), larvae were fed a mixture of 3:1 ground rabbit chow and fish flakes at a daily ration of 10% average body mass. When all individuals appeared to reach feeding stage, I exposed wood frog larvae to a series of five concentrations of road salt, ranging from 0.5 to 10.0 g/L. These concentrations were selected to represent previously documented acute exposure assays of the wood frog (<xref ref-type="bibr" rid="ref-35">Sanzo &amp; Hecnar, 2006</xref>). From each pool, 10 larvae were randomly stocked into each treatment and replicated across four experimental units per treatment (10 pools × 5 concentrations × 4 replicates = 200 experimental units). A 5.1 L container (33 × 20 × 11 cm) filled with 4 L of treatment water comprised each experimental unit. Larvae in each experimental unit were given a four-day food ration at the start of the experiment. After 96 h of exposure, I evaluated larval survival. In order to standardize developmental stage of larvae in the experiment, exposure was conducted in two separate, consecutive 96-hour rounds—the first comprising six pools (representing three pool pairs) and the second comprising four pair-wise pools (representing two pool pairs).</p>
+      </sec>
+      <sec>
+        <title>Population size and female fecundity</title>
+        <p>In spring 2008 following the conclusion of natural oviposition, I conducted visual counts of wood frog egg masses in each of the 10 pools to estimate population size of breeding females. In spring 2010, I collected 56 pairs of inbound wood frog adults from a subset of six pools (three roadside, three woodland) and haphazardly assigned male–female combinations grouped by origin pool. Pairs were placed in 11.3 L plastic containers filled with 2.5 L of aged spring water, equipped with a small branch and one white oak leaf (<italic>Quercus alba</italic>) to provide a substrate for oviposition. Containers were positioned on a slight angle to create a depth cline, and adults were allowed to amplex and oviposit. Following oviposition, egg masses were photographed and fecundity was estimated from each photo using ImageJ (<xref ref-type="bibr" rid="ref-31">Rasband, 1997–2012</xref>) to manually count the total number of eggs oviposited per female.</p>
+      </sec>
+      <sec>
+        <title>Characterizing the environment</title>
+        <p>In each pool, I measured seven environmental characteristics associated with amphibian distribution and performance (<xref ref-type="bibr" rid="ref-44">Wellborn, Skelly &amp; Werner, 1996</xref>). Specific conductance, dissolved oxygen, pH, and wetland depth were measured once during the experiment, while temperature was measured every thirty minutes using deployed temperature loggers. Global site factor—a measure of solar radiation reaching the pool—was calculated from hemispherical photographs, while wetland area was estimated from visual rangefinder measurements. Specific methods are reported elsewhere (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>). I also collected water samples at eight pools (four roadside, four woodland) to assay the concentration of chloride ions using liquid chromatography.</p>
+      </sec>
+      <sec>
+        <title>Statistical analyses</title>
+        <p>All statistical analyses were conducted in R V. 2.15.0 (<xref ref-type="bibr" rid="ref-30">R Development Core Team, 2012</xref>). I employed AIC based selection procedures to compose a suite of mixed effects models to evaluate performance variables across the G × E interaction both for transplant and exposure experiments. I analyzed survival and malformation each as bivariate responses of successes and failures. Growth and developmental rates were derived as exponential functions of change in size and stage, respectively, in relation to the number of days elapsed (e.g., [ln(final size)− ln(initial size)]/period). Initial size was defined as embryo diameter derived from estimates of embryo area, while final size comprised hatchling snout-vent length (SVL). These derived rates were characterized by Gaussian distributions in the statistical models. All models of performance variables were composed with and without embryo size as a covariate in order to estimate the potential influence of egg size mediated maternal effects (<xref ref-type="bibr" rid="ref-23">Laugen, Laurila &amp; Merilä, 2002</xref>). Each response variable was evaluated across a suite of models that differed in random effects structure (see <xref ref-type="supplementary-material" rid="supp-7">Tables S1</xref>–<xref ref-type="supplementary-material" rid="supp-9">S3</xref>). For each response variable, I evaluated for inference the most parsimonious model with respect to both the significance of interacting main effects and the random effect structure as indicated by lowest AIC score (see <xref ref-type="supplementary-material" rid="supp-10">Tables S4</xref>–<xref ref-type="supplementary-material" rid="supp-12">S6</xref>). I also used mixed effects models to evaluate the influence of pool type on embryo size and fecundity. I used a combination of MCMC randomization methods and log-likelihood approaches to conduct inference (<xref ref-type="bibr" rid="ref-6">Bolker et al., 2009</xref>). I used MANOVA to evaluate the suite of abiotic variables characterizing the roadside and woodland environment. I used a standard linear model to evaluate the influence of pool type on population size, which was scaled to pool area and log-transformed to meet model assumptions. The full details regarding these analyses are described in the <xref ref-type="supplementary-material" rid="supp-1">Text S1</xref>. Data for this study are deposited in the Dryad Repository: <uri xlink:href="http://doi.org/10.5061/dryad.fb8tk">http://doi.org/10.5061/dryad.fb8tk</uri>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>Within the field experiment, I found that regardless of the pool environment in which wood frog embryos were reared, the average survival of the roadside deme was lower than that of the woodland deme (Posterior mean  = −0.964; 95% HPD  = −1.492 to −0.454; <italic>P<sub>mcmc</sub></italic> = 0.001). Specifically, survival of embryos originating from the roadside deme averaged 73%, as compared to 86% for the woodland deme (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Thus, across both environments, survival of the roadside deme was 15% lower than that of the woodland deme. I found analogous outcomes when wood frog embryos and larvae were exposed to road salt, a predominant contaminant in roadside pools. Exposure to road salt throughout embryonic development resulted in an increased proportion of hatchlings with axial malformations (χ<sup>2</sup> = 11.95, df  =  8, 2, <italic>P</italic> = 0.003). At the highest concentration of road salt—corresponding to the maximum detected in roadside pools in this region—49% of roadside hatchlings developed axial malformations, as compared to 33% for woodland hatchlings (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>); thus, axial malformations were on average 50% more prevalent in the roadside deme. In the acute exposure experiment across a series of five concentrations of roadsalt, survival by the roadside deme averaged just 56% compared to 72% for the woodland deme (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>), yielding a 22% relative reduction in survival (Posterior mean  = −7.569; 95% HPD  = −14.517 to −0.508; <italic>P<sub>mcmc</sub></italic> = 0.038). No responses were influenced by embryo size (all <italic>P</italic> &gt; 0.22, <xref ref-type="supplementary-material" rid="supp-10">Tables S4</xref> and <xref ref-type="supplementary-material" rid="supp-11">S5</xref>). Similarly, embryo size did not differ across deme (MCMC mean  =  0.0017; 95% HPD  = −0.0006–0.0041; <italic>P<sub>mcmc</sub></italic> = 0.127). Despite a suite of negative consequences of road adjacency and road salt exposure (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>; see also <xref ref-type="supplementary-material" rid="supp-1">Text S1</xref> and <xref ref-type="supplementary-material" rid="supp-3">Figs. S1</xref> and <xref ref-type="supplementary-material" rid="supp-4">S2</xref>), I found no difference in the population size of breeding females between roadside and woodland pools (F  =  0.033, df  =  8, 1, <italic>P</italic> = 0.861). However, female size and origin interacted such that the number of eggs provisioned by roadside as compared to woodland females increased at a steeper rate with respect to body size (Posterior mean  =  21.856 95% HPD  =  3.763–39.380; <italic>P<sub>mcmc</sub></italic> = 0.017). Across all populations, female length averaged 53.4 mm SVL. At this size, females from the roadside deme lay 10.5% more eggs than females from the woodland deme (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). With regard to abiotic pool conditions, only specific conductance varied with respect to environment (<xref ref-type="supplementary-material" rid="supp-13">Table S7</xref>), reflecting the input of chloride ions from road runoff. There was weak evidence that dissolved oxygen varied between the two environments (<italic>T</italic> = −2.19, df  =  <italic>8, 1</italic>, <italic>P</italic> = 0.060), with roadside pools averaging 2.38 mg l<sup>−1</sup> (±0.108 SE) as compared to 2.632 mg l<sup>−1</sup> (±0.043 SE) in woodland pools. Roadside pools contained an average chloride concentration of 147 mg l<sup>−1</sup> as compared to 3.4 mg l<sup>−1</sup> in woodland pools, contributing to the 26-fold increase in specific conductance found in roadside pools (<xref ref-type="fig" rid="fig-1">Fig. 1</xref> bar graph).</p>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.163/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <title>Embryonic <italic>Rana sylvatica</italic> survival across the G × E interaction.</title>
+          <p>Survival (±1 SE) is shown here as the mean proportion of individuals surviving to feeding stage across all experimental units (<italic>N</italic> = 99). The woodland deme is represented by open circles while the roadside deme is represented by filled squares. The environment in which the animals were grown out is on the x-axis.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/163/fig-2.png"/>
+      </fig>
+      <fig id="fig-3">
+        <object-id pub-id-type="doi">10.7717/peerj.163/fig-3</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Malformations and survival following road salt exposure.</title>
+          <p><italic>Rana sylvatica</italic> responses to experimental road salt exposure. Values (±1 SE) represent means of container level responses. (A) Proportion of embryos surviving to hatchling with axial malformations following chronic exposure to three concentrations of road salt: Low  =  175 µS; medium  =  1,000 µS; high  =  4,000 µS (<italic>n</italic> = 90). Open bars represent woodland deme; filled bars represent roadside deme. (B) Proportion of hatchling survival following acute exposure to road salt (<italic>n</italic> = 200). Open circles represent woodland deme; filled squares represent roadside deme. Concentrations of total roadsalt (g/L) are shown. From lowest to highest, these concentrations yielded specific conductance values of 1,300, 6,430, 9,370, 13,150, and 17,830 µS, respectively.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/163/fig-3.png"/>
+      </fig>
+      <fig id="fig-4">
+        <object-id pub-id-type="doi">10.7717/peerj.163/fig-4</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title>Wood frog fecundity in relation to female size and deme.</title>
+          <p>Female <italic>Rana sylvatica</italic> fecundity. Number of eggs laid per female (<italic>n</italic> = 56) is shown in relation to female body size (snout-vent length [SVL]). Open circles represent females from the woodland deme; filled squares represent females from the roadside deme.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/163/fig-4.png"/>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Despite strong negative effects associated with the roadside environment, I found no evidence of local adaptation, but instead found evidence for maladaptive performance. Specifically, compared to the woodland deme, the roadside deme survived at lower rates, both in the roadside environment and when experimentally exposed to road salt; similarly, the roadside deme accrued more malformations following road salt exposure. Strikingly, the presence of a maladaptive response was not limited to these roadside contexts—even when reared in woodland pools, survival of the roadside deme remained lower than that of the woodland deme (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). This suggests that the maladaptive performance induced by the roadside environment further spurs a generalized depression effect on the roadside deme, which manifests independently of the immediate negative influences of both the roadside environment and road salt exposure.</p>
+      <p>Because adult wood frogs exhibit high site fidelity (<xref ref-type="bibr" rid="ref-4">Berven, 1990</xref>) and have shown phenotypic differentiation across microgeographic environmental gradients (<xref ref-type="bibr" rid="ref-37">Skelly, 2004</xref>), I assumed that the embryos I collected represent a lineage of wood frogs specific to the collection pool (i.e., ‘population’). While I later discuss the implications of relaxing this assumption, for now I assume that the offspring entered into this experiment represent an independent population potentially connected by some level of dispersal and gene flow. With this in mind, the pattern of maladaptive performance seen here suggests that negative effects associated with exposure to the roadside environment are transmitted from parent to offspring prior to birth. In this way, embryos may be predisposed to reduced performance prior to any direct encounter with the roadside environment. Alternatively, maladaptive performance may have been caused by early embryonic exposure to roadside pools. Specifically, the first 36 h following natural oviposition but preceding collection—during which time embryos were exposed to their natal environment—may have had strong negative effects on embryos. Though such early exposure alone could explain the putative maladaptive response, preliminary evidence suggests that early exposure has no such carryover effect in this system (SP Brady, unpublished data).</p>
+      <p>In addition to any potential effect caused by early exposure, the overall pattern of parentally mediated maladaptive performance described here is consistent with several potential mechanisms, including maladaptation, non-genetic inherited effects (e.g., maternal effects), and demographic processes such as phenotype-biased habitat-oriented dispersal. Maladaptation can be defined most generally as a deviation from an adaptive peak caused by genetic processes (<xref ref-type="bibr" rid="ref-9">Crespi, 2000</xref>). As an empirical phenomenon, maladaptation is less common than local adaptation (<xref ref-type="bibr" rid="ref-9">Crespi, 2000</xref>; <xref ref-type="bibr" rid="ref-38">Spitzer, 2006</xref>). Yet even in reciprocal transplant studies where local adaptation was hypothesized and evaluated, maladaptation frequently occurs. In a review of this literature, <xref ref-type="bibr" rid="ref-18">Hereford (2009)</xref> found the frequency of maladaptation to be 0.29, as compared to the frequency of local adaptation, which was 0.71. Where it has been described, maladaptation at the population level is typically the consequence of migration load (<xref ref-type="bibr" rid="ref-16">Hanski, Mononen &amp; Ovaskainen, 2011</xref>), resulting when asymmetrical gene flow from non-adapted source populations yields genotypes of sub-optimal fitness in the recipient population (<xref ref-type="bibr" rid="ref-14">Garcia-Ramos &amp; Kirkpatrick, 1997</xref>). In the present study however, given the relative survival advantage of the woodland deme of wood frogs, regardless of environment, it seems unlikely that asymmetrical gene flow (i.e., from the woodland deme to the roadside deme) is limiting the local adaptation capacity of the roadside deme. If this were the case, we would expect similar phenotypes between populations grown out within the roadside environment. Likewise, phenotypic homogeneity would be expected if we view maladaptation through the lens of the adaptive phenotypic landscapes framework (<xref ref-type="bibr" rid="ref-36">Simpson, 1944</xref>), which predicts that maladaptation is a ubiquitous outcome of dynamic environments because the response to selection always lags one generation behind selection itself; therefore, the adaptive high point is constantly shifting before phenotypes can reach their adaptive peak (<xref ref-type="bibr" rid="ref-9">Crespi, 2000</xref>). However, this process alone does not explain the maladaptation seen here. Specifically, if we assume that the roadside deme did not differ from the woodland deme prior to the recent influence of roads, then we would again expect comparable performance declines between populations when exposed to the roadside environment.</p>
+      <p>In addition to the potential role for genetic based maladaptation, non-genetic processes may be responsible for the observed maladaptive performance of the roadside deme. For example, maternal effects, broadly defined as “a direct effect of a parent’s phenotype on the phenotype of its offspring” (<xref ref-type="bibr" rid="ref-2">Bernardo, 1996</xref>) may be associated with the roadside deme’s reduced ability to survive. In this system, if we assume that parents were born in a roadside pool, maternal effects could originate from their exposure to roadside water during their period of aquatic development, which spans newly laid embryos through metamorphosis. Similarly, aspects of the terrestrial roadside environment might propagate negative maternal effects. Yet, I found no evidence that egg size—a maternally mediated trait known to influence amphibian performance (reviewed by <xref ref-type="bibr" rid="ref-27">Mousseau &amp; Fox, 1998</xref>)—varied across deme or had any effect on performance variables. Still, maternal effects in this system may be mediated by mechanisms independent of size. For example, nutrient availability and/or allocation of resources to egg quality may differ between these two environments. Alternatively, roadside embryos might accrue chemical contaminants as in utero eggs through maternal transfer. This possibility is supported by outcomes from studies in which coal combustion waste contaminants such as strontium and selenium are maternally transferred, negatively affecting offspring survival and development in two species of toads (<xref ref-type="bibr" rid="ref-19">Hopkins et al., 2006</xref>; <xref ref-type="bibr" rid="ref-25">Metts et al., 2012</xref>).</p>
+      <p>Demographic processes might also lead to maladaptive performance of the roadside deme. For example, if we assume that roadside adults face higher mortality risk—either through carryover effects from the aquatic environment, or through terrestrial road pressures such as roadkill—then the average age of roadside breeders should be lower, a condition associated with poorer offspring provisioning in wood frogs (<xref ref-type="bibr" rid="ref-3">Berven, 1988</xref>). On the other hand, demographic processes might also explain how the roadside deme can persist in spite of the negative effects of the roadside environment and given a predisposition for lower survival. Specifically, across demes, I detected no difference in population size of breeding females. As one possible explanation of this demographic pattern, I found that on average, and adjusted for mean body size, females from the roadside deme lay 10.5% more eggs than females from the woodland deme. Thus while average survival is 15% lower for roadside embryos, the differential in numerical reproductive output per female is less substantial. For example, based on the overall average female size, roadside wood frogs lay 890 eggs per clutch while woodland wood frogs lay 795 eggs per clutch. If we apply the deme respective survival rates (73% versus 86% respectively), we can estimate that for the average sized female, 684 embryos survive to feeding stage in the woodland deme as compared to 650 embryos in the roadside deme. This amounts to just a 5% decrease in reproductive success per female of the roadside deme. Thus, differential reproductive efforts may potentially offset average reductions in offspring survival, mitigating the detriment to demographic success. This increase in reproductive effort may serve to buffer the population against stochastic effects in the face of intense of selection. Ultimately, given the interacting effects of female size and deme (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), the adaptive significance of this increased reproductive effort will depend upon the distribution of female size. Similarly, the potential for a tradeoff between quality and quantity of eggs will affect the utility of this apparent strategy.</p>
+      <p>A second demographic possibility is that roadside pools may serve as sink habitats, wherein roadside populations are augmented through immigration from woodland populations, bolstering the chance of persistence. However, here again, if this were true, we might expect that the migration of woodland individuals into roadside pools would yield homogenized performance responses between the roadside and woodland deme, which is inconsistent with the observed pattern. Still, source–sink dynamics could occur if we assume that putative migrants arriving to breed in roadside pools are themselves depressed in some way. For example, younger or otherwise misfit adults may breed more frequently in the suboptimal conditions found in roadside as compared to woodland pools, potentially through competitive exclusions or the process of ‘matching habitat choice’ (<xref ref-type="bibr" rid="ref-12">Edelaar, Siepielski &amp; Clobert, 2008</xref>). As an alternative explanation of persistence, it is possible that the negative effects on the aquatic stages of roadside wood frogs might be reversed at later life history stages. For example, the surviving individuals from the roadside deme may produce inferior embryos and larvae, but superior adults.</p>
+      <p>It is surprising to consider that the maladaptive response of the roadside deme was unabated in woodland pools, where survival is typically high. While this generalized depression effect (hereafter ‘deme depression’) is not well described in the literature (but see <xref ref-type="bibr" rid="ref-13">Falk et al., 2012</xref>), there are conceptual analogues worth considering. As one such example, inbreeding depression can arise in the context of reduced effective population size (<xref ref-type="bibr" rid="ref-28">Newman &amp; Pilson, 1997</xref>) that could result from intense selection (<xref ref-type="bibr" rid="ref-33">Robertson, 1961</xref>) in the roadside environment. However, inbreeding depression is predicted to be minimal in the context of intense maladaptation (<xref ref-type="bibr" rid="ref-34">Ronce et al., 2009</xref>). Still, roads can act as barriers to migration, which can potentially spur inbreeding depression. However, the types of roads in this system do not appear to limit gene flow between wood frog populations in surrounding landscapes separated by similar or larger distances of space (<xref ref-type="bibr" rid="ref-32">Richardson, 2012</xref>). A similar argument for gene flow could therefore be made against genetic drift as a mechanism driving these patterns. As an alternative possibility, genetic mutations or epigenetic modifications could lead to maladaptive responses and overall deme depression. This may be especially likely in harsh roadside environments, where mutagens such as heavy metals are known to accumulate from road runoff (<xref ref-type="bibr" rid="ref-41">Trombulak &amp; Frissell, 2000</xref>).</p>
+      <p>Regardless of mechanism, the maladaptive performance of the roadside deme of wood frogs occurs in direct contrast to the local adaptation of the roadside deme of spotted salamanders breeding and dwelling in the very same pools (<xref ref-type="bibr" rid="ref-7">Brady, 2012</xref>). That deme divergence has been detected for two different species occupying identical habitats suggests that population differentiation may be a common consequence of landscape modification. That these outcomes occurred in opposing directions highlights the complex nature of population level responses across species—even when they occupy identical habitats—suggesting that more generalized approaches may be inadequate, and reinforcing the imperative for population specific investigations. Though microgeographic population outcomes have received little attention, there is reason to believe that maladaptive responses may be an emerging and prominent consequence of human environmental modification. For example, phenotypes of species harvested for human consumption have undergone rapid and substantial change (<xref ref-type="bibr" rid="ref-10">Darimont et al., 2009</xref>) in directions believed to oppose adaptation to the increased environmental variation predicted to occur with climate change (<xref ref-type="bibr" rid="ref-22">Koons, 2009</xref>). Similarly, hatchery-reared fish have become locally adapted to the hatchery environment at the cost of maladaptation to the wild (<xref ref-type="bibr" rid="ref-8">Christie et al., 2012</xref>). It is worth noting how the conservation implications of these cited examples of maladaptation differ from that of the maladaptive responses reported here. Wherein harvest regimes and hatcheries induce maladaptation through selection as a consequence of a specific management strategy, roads induce maladaptive performance as a collateral effect of global change and for a species that is a bystander to human actions, not a direct target. Thus, even indirect human activities in relatively undeveloped settings can induce maladaptive responses in wild populations.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/BradyPeerJSupplementalTextR1.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-1</object-id>
+        <label>Text S1</label>
+        <caption>
+          <title>Supplemental Text</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/Brady_PeerJSupplementalMethods&amp;AnalysesR1.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-2</object-id>
+        <label>Supplemental Information S2</label>
+        <caption>
+          <title>Supplemental Methods and Statistical Analyses</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/163/RecipTransplantDesign.001.png">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-3</object-id>
+        <label>Figure S1</label>
+        <caption>
+          <title>Overview of reciprocal transplant experimental methods.</title>
+          <p>Procedural steps for stocking reciprocal transplant enclosures. The reciprocal transplant was conducted pairwise across ponds. Specifically, each of five roadside pools was paired with each of five nearby woodland pools; the transplantation of embryos occurred within each of these five pairs (see main text and <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Text color corresponds to indicator arrows and ellipses. From top to bottom: 10 wood frog egg masses were collected from each of 10 pools (Step 1). A breeding pair of wood frogs is shown; red circles indicate the approximate extent of individual egg masses. “Clutch pairs” were formed by subsampling and combining ca. 50 embryos from each of two masses per population (Steps 2, 3, 5). Photographs were captured with a scale in view to allow estimation of embryo size (Step 4). Replicate cutch pairs were stocked into natal and transplant pools respectively; enclosures are shown. (Step 6).</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-4" mimetype="application" mime-subtype="postscript" xlink:href="https://peerj.com/articles/163/embsurvByPop_1_ed.eps">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-4</object-id>
+        <label>Figure S2</label>
+        <caption>
+          <title>Population level embryonic survival across the G × E interaction</title>
+          <p>Wood frog survival at the population level shown across the genotype × environment (G × E) interaction. Open symbols (connected by dashed lines) represent woodland populations; closed symbols (connected by solid lines) represent roadside populations. Like colors and symbols represent paired pools across which transplants were conducted. Hatchling survival (<italic>n</italic> = 99 was assessed when animals reached feeding stage. Deme level responses (i.e., averaged across populations) can be found in the main text (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) and reproduced below (<xref ref-type="supplementary-material" rid="supp-5">Fig. S3</xref>, panel a). Values (±1 SE) represent population level means of enclosure level responses.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-5" mimetype="application" mime-subtype="postscript" xlink:href="https://peerj.com/articles/163/EmbComposite.eps">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-5</object-id>
+        <label>Figure S3</label>
+        <caption>
+          <title>Wood frog survival, growth, and development across the G × E interaction.</title>
+          <p>Wood frog performance across genotype x environment (G × E) interaction. Hatchling survival (<italic>n</italic> = 99), growth, and development (each <italic>n</italic> = 95) were assessed when animals reached feeding stage. Values (±1 SE) represent means of enclosure level responses. Panel ‘a’ is reproduced here from the main article for reference.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-6" mimetype="application" mime-subtype="postscript" xlink:href="https://peerj.com/articles/163/ChronPerformAll.eps">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-6</object-id>
+        <label>Figure S4</label>
+        <caption>
+          <title>Wood frog performance following chronic exposure to road salt.</title>
+          <p>Wood frog performance following chronic exposure to road salt. Hatchling survival (a), growth (b), and development (c; each <italic>n</italic> = 90) were assessed when all animals hatched from eggs or died. Values (±1 SE) represent means of container level responses. There was no evidence that road salt affected these performance variables over the period of embryonic development. Solid bars represent the roadside deme; open bars represent the woodland deme.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-7" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS1.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-7</object-id>
+        <label>Table S1</label>
+        <caption>
+          <title>Reciprocal transplant model selection results</title>
+          <p>Reciprocal transplant model selection results. A set of candidate models differing in random effects structure was composed for the analysis of each response variable. An observation level term (“obs”) was included to test and account for over-dispersion in the binomial model of survival. The model containing the fewest parameters with the lowest Akaike Information Criterion (AIC) score by a differential value of less than two was chosen for inference, and is indicated by a dagger (†). There was no significant genotype x environment (G x E) interaction in the model for survival, growth rate, or developmental rate.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-8" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS2.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-8</object-id>
+        <label>Table S2</label>
+        <caption>
+          <title>Chronic exposure model selection results</title>
+          <p>Chronic exposure model selection results. Candidate models were composed for survival, growth, development, and malformations across the interaction of genotype (G) x environment (E); here environment refers to the three different road salt treatments. Model selection is described in caption for Table S1. An observation level term (“obs”) was included to test and account for over-dispersion in the binomial models. There was no significant G x E interaction in the model for survival, growth rate, or developmental rate.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-9" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS3.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-9</object-id>
+        <label>Table S3</label>
+        <caption>
+          <title>Acute exposure model selection results</title>
+          <p>
+                  <bold>Table S3.</bold> Acute exposure model selection results. Candidate models were composed for survival across the interaction of genotype (G) x environment (E); here environment refers to the five different road salt treatments. The model with the fewest parameters and lowest Akaike Information Criterion (AIC) score by a differential value of less than two was inferred, and is indicated by a dagger (†). Experiment block was nested within experiment round (“rnd”) because it was assumed that potential blocking effects would not be independent of experiment round. An observation level term (“obs”) was included to test and account for over-dispersion.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-10" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS4.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-10</object-id>
+        <label>Table S4</label>
+        <caption>
+          <title>Parameter estimates, confidence intervals and p-values of field transplant models selected for inference</title>
+          <p>Parameter estimates, confidence intervals and p-values of field transplant models selected for inference. All models were composed with and without egg size as a covariate.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-11" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS5.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-11</object-id>
+        <label>Table S5</label>
+        <caption>
+          <title>Contrasts of G × E interaction on prevalence of malformations</title>
+          <p>Contrasts of G × E interaction on prevalence of malformations. Environment (E) refers to the three different road salt treatments. The model was composed with the original interaction effect of G × Ereformulated as one main effect (referred to as G × E<sup>†</sup>) comprising six levels (two demes X three treatments). Three contrasts were selected to infer responses between demes (R = roadside; W = woodland) within each treatment (L = low; M = medium; H = high). The remaining two orthogonal contrasts tested for differences between treatments irrespective of deme.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-12" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS6.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-12</object-id>
+        <label>Table S6</label>
+        <caption>
+          <title>Parameter estimates, confidence intervals and p-values of acute exposure model selected for inference</title>
+          <p>Parameter estimates, confidence intervals and p-values of acute exposure model selected for inference. The interaction term was marginally significant and so was retained in the model. Embryo size could not be included in the model because clutch groupings were not separately maintained in the experiment.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-13" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/163/TableS7.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.163/supp-13</object-id>
+        <label>Table S7</label>
+        <caption>
+          <title>Parameter estimates of environmental variables</title>
+          <p>Parameter estimates of environmental variables. Estimates were obtained from univariate ANOVAs on each environmental variable following an overall significant MANOVA (Pillai’s Trace  =  1.00, df  =  8, 1, <italic>P</italic> = 0.016). For each variable, estimates are given for both the intercept and the pool type, the latter showing the effect with respect to roadside pools designated as the reference level. Specific conductance and pool area were log-transformed to improve normality. The multivariate analysis was conducted in R using the function <italic>manova</italic>, while univariate analyses were conducted using the function <italic>lm</italic>, both of which are in the Base Package.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>I am grateful to the Leopold Schepp Foundation for their support of my work through scholarship. I thank D Skelly, S Alonzo, P Turner, M Urban, A Hendry, and R Calsbeek for key guidance and project advice. I am grateful to A Brady and S Bolden for extensive support. I thank the reviewers for their constructive and keen feedback on the original manuscript. I thank D Cholewiak, D Risch, and D Sigourney for helpful discussions. S Attwood, J Burmeister, G Antonioli, J Richardson, M Manickam, M Rogalski, H McMillan all assisted in the field. Z, M, and A Ladzinkski and S and R Brady greatly assisted with infrastructure. J Bushey provided chemical analysis. The Connecticut Department of Transportation provided road salt for exposure assays.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The author declares no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p>
+               <xref ref-type="contrib" rid="author-1">Steven P. Brady</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>Yale University Institutional Animal Care and Use, project numbers 2006-11024 and 2009-11024.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Field Study Permissions</title>
+        <fn id="addinfo-2" fn-type="other">
+          <p>The following information was supplied relating to field study permissions (i.e., approving body and any reference numbers):</p>
+          <p>Animal collections were permitted by the State of Connecticut Department of Environmental Protection. Permission to use study sites was granted by the Yale School Forests and by private land-owners.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Data Deposition</title>
+        <fn id="addinfo-3" fn-type="other">
+          <p>Data for this study are deposited in the Dryad Repository: <uri xlink:href="http://doi.org/10.5061/dryad.fb8tk">http://doi.org/10.5061/dryad.fb8tk</uri>.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Bantle et al. (1991)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Bantle</surname><given-names>JA</given-names></name>
+                  <name><surname>Finch</surname><given-names>RA</given-names></name>
+                  <name><surname>Burton</surname><given-names>DT</given-names></name>
+                  <name><surname>Linder</surname><given-names>G</given-names></name>
+               </person-group>
+          <source>Atlas of abnormalities: a guide for the performance of FETAX</source>
+          <year iso-8601-date="1991">1991</year>
+          <publisher-loc>Stillwater, Oklahoma</publisher-loc>
+          <publisher-name>Oklahoma State University</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Bernardo (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bernardo</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Maternal effects in animal ecology</article-title>
+          <source>American Zoologist</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>36</volume>
+          <fpage>83</fpage>
+          <lpage>105</lpage>
+          <pub-id pub-id-type="doi">10.1093/icb/36.2.83</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Berven (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Berven</surname><given-names>KA</given-names></name>
+               </person-group>
+          <article-title>Factors affecting variation in reproductive traits within a population of wood frogs <italic>(Rana sylvatica)</italic></article-title>
+          <source>Copeia</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>1988</volume>
+          <fpage>605</fpage>
+          <lpage>615</lpage>
+          <pub-id pub-id-type="doi">10.2307/1445378</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Berven (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Berven</surname><given-names>KA</given-names></name>
+               </person-group>
+          <article-title>Factors affecting population fluctuations in larval and adult stages of the wood frog <italic>(Rana Sylvatica)</italic></article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>71</volume>
+          <fpage>1599</fpage>
+          <lpage>1608</lpage>
+          <pub-id pub-id-type="doi">10.2307/1938295</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Berven &amp; Grudzien (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Berven</surname><given-names>KA</given-names></name>
+                  <name><surname>Grudzien</surname><given-names>TA</given-names></name>
+               </person-group>
+          <article-title>Dispersal in the wood frog <italic>(Rana sylvatica)</italic>- implications for genetic population-structure</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>44</volume>
+          <fpage>2047</fpage>
+          <lpage>2056</lpage>
+          <pub-id pub-id-type="doi">10.2307/2409614</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Bolker et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bolker</surname><given-names>BM</given-names></name>
+                  <name><surname>Brooks</surname><given-names>ME</given-names></name>
+                  <name><surname>Clark</surname><given-names>CJ</given-names></name>
+                  <name><surname>Geange</surname><given-names>SW</given-names></name>
+                  <name><surname>Poulsen</surname><given-names>JR</given-names></name>
+                  <name><surname>Stevens</surname><given-names>MHH</given-names></name>
+                  <name><surname>White</surname><given-names>JSS</given-names></name>
+               </person-group>
+          <article-title>Generalized linear mixed models: a practical guide for ecology and evolution</article-title>
+          <source>Trends in Ecology &amp; Evolution</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>24</volume>
+          <fpage>127</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tree.2008.10.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Brady (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Brady</surname><given-names>SP</given-names></name>
+               </person-group>
+          <article-title>Road to evolution? Local adaptation to road adjacency in an amphibian (<italic>Ambystoma maculatum</italic>)</article-title>
+          <source>Scientific Reports</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>2</volume>
+          <fpage>235</fpage>
+          <pub-id pub-id-type="doi">10.1038/srep00235</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Christie et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Christie</surname><given-names>M</given-names></name>
+                  <name><surname>Marine</surname><given-names>M</given-names></name>
+                  <name><surname>French</surname><given-names>R</given-names></name>
+                  <name><surname>Blouin</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Genetic adaptation to captivity can occur in a single generation</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>109</volume>
+          <fpage>238</fpage>
+          <lpage>242</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1111073109</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Crespi (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Crespi</surname><given-names>BJ</given-names></name>
+               </person-group>
+          <article-title>The evolution of maladaptation</article-title>
+          <source>Heredity</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>84</volume>
+          <fpage>623</fpage>
+          <lpage>629</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2540.2000.00746.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Darimont et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Darimont</surname><given-names>CT</given-names></name>
+                  <name><surname>Carlson</surname><given-names>SM</given-names></name>
+                  <name><surname>Kinnison</surname><given-names>MT</given-names></name>
+                  <name><surname>Paquet</surname><given-names>PC</given-names></name>
+                  <name><surname>Reimchen</surname><given-names>TE</given-names></name>
+                  <name><surname>Wilmers</surname><given-names>CC</given-names></name>
+               </person-group>
+          <article-title>Human predators outpace other agents of trait change in the wild</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>106</volume>
+          <fpage>952</fpage>
+          <lpage>954</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0809235106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Delaney, Riley &amp; Fisher (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Delaney</surname><given-names>KS</given-names></name>
+                  <name><surname>Riley</surname><given-names>SPD</given-names></name>
+                  <name><surname>Fisher</surname><given-names>RN</given-names></name>
+               </person-group>
+          <article-title>A rapid, strong, and convergent genetic response to urban habitat fragmentation in four divergent and widespread vertebrates</article-title>
+          <source>PLoS ONE</source>
+          <issue>9</issue>
+          <year iso-8601-date="2010">2010</year>
+          <volume>5</volume>
+          <elocation-id>e12767</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0012767</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Edelaar, Siepielski &amp; Clobert (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Edelaar</surname><given-names>P</given-names></name>
+                  <name><surname>Siepielski</surname><given-names>AM</given-names></name>
+                  <name><surname>Clobert</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Matching habitat choice causes directed gene flow: a neglected dimension in evolution and ecology</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>62</volume>
+          <fpage>2462</fpage>
+          <lpage>2472</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1558-5646.2008.00459.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Falk et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Falk</surname><given-names>JJ</given-names></name>
+                  <name><surname>Parent</surname><given-names>CE</given-names></name>
+                  <name><surname>Agashe</surname><given-names>D</given-names></name>
+                  <name><surname>Bolnick</surname><given-names>DI</given-names></name>
+               </person-group>
+          <article-title>Drift and selection entwined: asymmetric reproductive isolation in an experimental niche shift</article-title>
+          <source>Evolutionary Ecology Research</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>14</volume>
+          <fpage>403</fpage>
+          <lpage>423</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Garcia-Ramos &amp; Kirkpatrick (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Garcia-Ramos</surname><given-names>G</given-names></name>
+                  <name><surname>Kirkpatrick</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Genetic models of adaptation and gene flow in peripheral populations</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>51</volume>
+          <fpage>21</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="doi">10.2307/2410956</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Gosner (1960)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gosner</surname><given-names>KL</given-names></name>
+               </person-group>
+          <article-title>A simplified table for staging anuran embryos and larvae with notes on identification</article-title>
+          <source>Herpetologiea</source>
+          <year iso-8601-date="1960">1960</year>
+          <volume>16</volume>
+          <fpage>183</fpage>
+          <lpage>190</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Hanski, Mononen &amp; Ovaskainen (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hanski</surname><given-names>I</given-names></name>
+                  <name><surname>Mononen</surname><given-names>T</given-names></name>
+                  <name><surname>Ovaskainen</surname><given-names>O</given-names></name>
+               </person-group>
+          <trans-title>Eco-evolutionary metapopulation dynamics and the spatial scale of adaptation</trans-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>177</volume>
+          <fpage>29</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="doi">10.1086/657625</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Hendry, Farrugia &amp; Kinnison (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hendry</surname><given-names>AP</given-names></name>
+                  <name><surname>Farrugia</surname><given-names>TJ</given-names></name>
+                  <name><surname>Kinnison</surname><given-names>MT</given-names></name>
+               </person-group>
+          <article-title>Human influences on rates of phenotypic change in wild animal populations</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>17</volume>
+          <fpage>20</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2007.03428.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Hereford (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hereford</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>A quantitative survey of local adaptation and fitness trade-offs</article-title>
+          <source>American Naturalist</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>173</volume>
+          <fpage>579</fpage>
+          <lpage>588</lpage>
+          <pub-id pub-id-type="doi">10.1086/597611</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Hopkins et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hopkins</surname><given-names>WA</given-names></name>
+                  <name><surname>DuRant</surname><given-names>SE</given-names></name>
+                  <name><surname>Brandon Patrick</surname><given-names>S</given-names></name>
+                  <name><surname>Rowe</surname><given-names>CL</given-names></name>
+                  <name><surname>Jackson</surname><given-names>BP</given-names></name>
+               </person-group>
+          <article-title>Reproduction, embryonic development, and maternal transfer of contaminants in the amphibian <italic>Gastrophryne carolinensis</italic></article-title>
+          <source>Environmental Health Perspectives</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>114</volume>
+          <fpage>661</fpage>
+          <lpage>666</lpage>
+          <pub-id pub-id-type="doi">10.1289/ehp.8457</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Karraker &amp; Gibbs (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Karraker</surname><given-names>N</given-names></name>
+                  <name><surname>Gibbs</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Contrasting road effect signals in reproduction of long- versus short-lived amphibians</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>664</volume>
+          <fpage>213</fpage>
+          <lpage>218</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10750-010-0592-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Kawecki &amp; Ebert (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Kawecki</surname><given-names>TJ</given-names></name>
+                  <name><surname>Ebert</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Conceptual issues in local adaptation</article-title>
+          <source>Ecology Letters</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>7</volume>
+          <fpage>1225</fpage>
+          <lpage>1241</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1461-0248.2004.00684.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Koons (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Koons</surname><given-names>DN</given-names></name>
+               </person-group>
+          <article-title>Does harvest select for maladaptation in an increasingly variable world?</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>106</volume>
+          <elocation-id>E32</elocation-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.0900520106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Laugen, Laurila &amp; Merilä (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Laugen</surname><given-names>AT</given-names></name>
+                  <name><surname>Laurila</surname><given-names>A</given-names></name>
+                  <name><surname>Merilä</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Maternal and genetic contributions to geographical variation in <italic>Rana temporaria</italic> larval life-history traits</article-title>
+          <source>Biological Journal of the Linnean Society</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>76</volume>
+          <fpage>61</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1095-8312.2002.tb01714.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Levin (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Levin</surname><given-names>SA</given-names></name>
+               </person-group>
+          <article-title>The problem of pattern and scale in ecology</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>73</volume>
+          <fpage>1943</fpage>
+          <lpage>1967</lpage>
+          <pub-id pub-id-type="doi">10.2307/1941447</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Metts et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Metts</surname><given-names>BS</given-names></name>
+                  <name><surname>Buhlmann</surname><given-names>KA</given-names></name>
+                  <name><surname>Scott</surname><given-names>DE</given-names></name>
+                  <name><surname>Tuberville</surname><given-names>TD</given-names></name>
+                  <name><surname>Hopkins</surname><given-names>WA</given-names></name>
+               </person-group>
+          <article-title>Interactive effects of maternal and environmental exposure to coal combustion wastes decrease survival of larval southern toads <italic>(Bufo terrestris)</italic></article-title>
+          <source>Environmental Pollution</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>164</volume>
+          <fpage>211</fpage>
+          <lpage>218</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.envpol.2012.01.042</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Moore &amp; Hendry (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Moore</surname><given-names>J-S</given-names></name>
+                  <name><surname>Hendry</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Can gene flow have negative demographic consequences? Mixed evidence from stream threespine stickleback</article-title>
+          <source>Philosophical Transactions of the Royal Society Biological Sciences</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>364</volume>
+          <fpage>1533</fpage>
+          <lpage>1542</lpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2009.0007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Mousseau &amp; Fox (1998)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Mousseau</surname><given-names>TE</given-names></name>
+                  <name><surname>Fox</surname><given-names>CW</given-names></name>
+               </person-group>
+          <article-title>Maternal effects as adaptations</article-title>
+          <source>Maternal effects, developmental plasticity, and life history evolution</source>
+          <year iso-8601-date="1998">1998</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>244</fpage>
+          <lpage>260</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Newman &amp; Pilson (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Newman</surname><given-names>D</given-names></name>
+                  <name><surname>Pilson</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Increased probability of extinction due to decreased genetic effective population size: experimental populations of <italic>Clarkia pulchella</italic></article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>51</volume>
+          <fpage>354</fpage>
+          <lpage>362</lpage>
+          <pub-id pub-id-type="doi">10.2307/2411107</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Pigliucci (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Pigliucci</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Evolution of phenotypic plasticity: where are we going now?</article-title>
+          <source>Trends in Ecology &amp; Evolution</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>20</volume>
+          <fpage>481</fpage>
+          <lpage>486</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tree.2005.06.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>R Development Core Team (2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <collab>
+                     <institution>R Development Core Team</institution>
+                  </collab>
+               </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <pub-id pub-id-type="other">3-900051-07-0</pub-id>
+          <comment><italic>R: a language and environment for statistical computing</italic>. R Foundation for Statistical Computing, Vienna, Austria. <italic>Available at <uri xlink:href="http://www.R-project.org/">http://www.R-project.org/</uri></italic></comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Rasband (1997–2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <name><surname>Rasband</surname><given-names>WS</given-names></name>
+               </person-group>
+          <year iso-8601-date="1997--2012">1997–2012</year>
+          <comment>ImageJ. Bethesda, Maryland: US National Institutes of Health. <italic>Available at <uri xlink:href="http://imagej.nih.gov/ij/">http://imagej.nih.gov/ij/</uri></italic></comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Richardson (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Richardson</surname><given-names>JL</given-names></name>
+               </person-group>
+          <article-title>Divergent landscape effects on population connectivity in two co-occurring amphibian species</article-title>
+          <source>Molecular Ecology</source>
+          <issue>18</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>21</volume>
+          <fpage>4437</fpage>
+          <lpage>4451</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2012.05708.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Robertson (1961)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Robertson</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Inbreeding in artificial selection programmes</article-title>
+          <source>Genetical Research</source>
+          <issue>2</issue>
+          <year iso-8601-date="1961">1961</year>
+          <volume>2</volume>
+          <fpage>189</fpage>
+          <lpage>194</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0016672300000690</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Ronce et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ronce</surname><given-names>O</given-names></name>
+                  <name><surname>Shaw</surname><given-names>F</given-names></name>
+                  <name><surname>Rousset</surname><given-names>F</given-names></name>
+                  <name><surname>Shaw</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>Is inbreeding depression lower in maladapted populations? A quantitative genetics model</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>63</volume>
+          <fpage>1807</fpage>
+          <lpage>1819</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1558-5646.2009.00678.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Sanzo &amp; Hecnar (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Sanzo</surname><given-names>D</given-names></name>
+                  <name><surname>Hecnar</surname><given-names>SJ</given-names></name>
+               </person-group>
+          <article-title>Effects of road de-icing salt (NaCl) on larval wood frogs <italic>(Rana sylvatica)</italic></article-title>
+          <source>Environmental Pollution</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>140</volume>
+          <fpage>247</fpage>
+          <lpage>256</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.envpol.2005.07.013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Simpson (1944)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Simpson</surname><given-names>GG</given-names></name>
+               </person-group>
+          <source>Tempo and mode in evolution</source>
+          <year iso-8601-date="1944">1944</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Columbia University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Skelly (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Skelly</surname><given-names>DK</given-names></name>
+               </person-group>
+          <article-title>Microgeographic countergradient variation in the wood frog, <italic>Rana sylvatica</italic></article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>58</volume>
+          <fpage>160</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="doi">10.1554/03-425</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Spitzer (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Spitzer</surname><given-names>B</given-names></name>
+               </person-group>
+          <article-title>Local maladaptation in the soft scale insect <italic>Saissetia coffeae</italic> (Hemiptera: Coccidae)</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>60</volume>
+          <fpage>1859</fpage>
+          <lpage>1867</lpage>
+          <pub-id pub-id-type="doi">10.1554/05-407.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Stearns &amp; Sage (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Stearns</surname><given-names>SC</given-names></name>
+                  <name><surname>Sage</surname><given-names>RD</given-names></name>
+               </person-group>
+          <article-title>Maladaptation in a marginal population of the mosquito fish, <italic>Gambusia-Affinis</italic></article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1980">1980</year>
+          <volume>34</volume>
+          <fpage>65</fpage>
+          <lpage>75</lpage>
+          <pub-id pub-id-type="doi">10.2307/2408315</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Thompson (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Thompson</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Specific hypotheses on the geographic mosaic of coevolution</article-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>153</volume>
+          <fpage>S1</fpage>
+          <lpage>S14</lpage>
+          <pub-id pub-id-type="doi">10.1086/303208</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Trombulak &amp; Frissell (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Trombulak</surname><given-names>SC</given-names></name>
+                  <name><surname>Frissell</surname><given-names>CA</given-names></name>
+               </person-group>
+          <article-title>Review of ecological effects of roads on terrestrial and aquatic communities</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>14</volume>
+          <fpage>18</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.2000.99084.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Urban (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Urban</surname><given-names>MC</given-names></name>
+               </person-group>
+          <article-title>Maladaptation and mass effects in a metacommunity: consequences for species coexistence</article-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>168</volume>
+          <fpage>28</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="doi">10.1086/505159</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Urban (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Urban</surname><given-names>MC</given-names></name>
+               </person-group>
+          <article-title>Microgeographic adaptations of spotted salamander morphological defenses in response to a predaceous salamander and beetle</article-title>
+          <source>Oikos</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>119</volume>
+          <fpage>646</fpage>
+          <lpage>658</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-0706.2009.17970.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-44">
+        <label>Wellborn, Skelly &amp; Werner (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Wellborn</surname><given-names>GA</given-names></name>
+                  <name><surname>Skelly</surname><given-names>DK</given-names></name>
+                  <name><surname>Werner</surname><given-names>EE</given-names></name>
+               </person-group>
+          <article-title>Mechanisms creating community structure across a freshwater habitat gradient</article-title>
+          <source>Annual Review of Ecology and Systematics</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>27</volume>
+          <fpage>337</fpage>
+          <lpage>363</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.27.1.337</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

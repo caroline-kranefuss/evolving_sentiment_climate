@@ -1,0 +1,4574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5827</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5827</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Animal Behavior</subject>
+<subject>Ecology</subject>
+<subject>Zoology</subject>
+<subject>Population Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Seasonal and predator-prey effects on circadian activity of free-ranging mammals revealed by camera traps</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-1763-8970</contrib-id>
+<name name-style="western">
+<surname>Caravaggi</surname>
+<given-names>Anthony</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>ar.caravaggi@gmail.com</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Gatta</surname>
+<given-names>Maria</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Vallely</surname>
+<given-names>Marie-Claire</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Hogg</surname>
+<given-names>Kayleigh</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name name-style="western">
+<surname>Freeman</surname>
+<given-names>Marianne</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Fadaei</surname>
+<given-names>Erfan</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author">
+<name name-style="western">
+<surname>Dick</surname>
+<given-names>Jaimie T.A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-8" contrib-type="author">
+<name name-style="western">
+<surname>Montgomery</surname>
+<given-names>W. Ian</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-9" contrib-type="author">
+<name name-style="western">
+<surname>Reid</surname>
+<given-names>Neil</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-10" contrib-type="author">
+<name name-style="western">
+<surname>Tosh</surname>
+<given-names>David G.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-6">6</xref>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>School of Biological Sciences, Queen’s University Belfast</institution>, <country>UK</country></aff>
+<aff id="aff-2"><label>2</label><institution>School of Biological Earth and Environmental Sciences, University College Cork</institution>, <addr-line>Cork</addr-line>, <country>Ireland</country></aff>
+<aff id="aff-3"><label>3</label><institution>School or Animal, Plant and Environmental Sciences, University of Witwatersrand</institution>, <country>South Africa</country></aff>
+<aff id="aff-4"><label>4</label><institution>Northern Ireland Environment Agency</institution>, <country>UK</country></aff>
+<aff id="aff-5"><label>5</label><institution>Institute of Global Food Security (IGFS), Queen’s University Belfast</institution>, <country>UK</country></aff>
+<aff id="aff-6"><label>6</label><institution>National Museums Northern Ireland</institution>, <country>UK</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Forbes</surname>
+<given-names>Valery</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-21">
+<day>21</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5827</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-03-21">
+<day>21</day>
+<month>3</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-09-25">
+<day>25</day>
+<month>9</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Caravaggi et al.</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Caravaggi et al.</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5827"/>
+<abstract>
+<p>Endogenous circadian and seasonal activity patterns are adapted to facilitate effective utilisation of environmental resources. Activity patterns are shaped by physiological constraints, evolutionary history, circadian and seasonal changes and may be influenced by other factors, including ecological competition and interspecific interactions. Remote-sensing camera traps allow the collection of species presence data throughout the 24 h period and for almost indefinite lengths of time. Here, we collate data from 10 separate camera trap surveys in order to describe circadian and seasonal activity patterns of 10 mammal species, and, in particular, to evaluate interspecific (dis)associations of five predator-prey pairs. We recorded 8,761 independent detections throughout Northern Ireland. Badgers, foxes, pine martens and wood mice were nocturnal; European and Irish hares and European rabbits were crepuscular; fallow deer and grey and red squirrels were diurnal. All species exhibited significant seasonal variation in activity relative to the timing of sunrise/sunset. Foxes in particular were more crepuscular from spring to autumn and hares more diurnal. Lagged regression analyses of predator-prey activity patterns between foxes and prey (hares, rabbits and wood mice), and pine marten and prey (squirrel and wood mice) revealed significant annual and seasonal cross-correlations. We found synchronised activity patterns between foxes and hares, rabbits and wood mice and pine marten and wood mice, and asynchrony between squirrels and pine martens. Here, we provide fundamental ecological data on endemic, invasive, pest and commercially valuable species in Ireland, as well as those of conservation importance and those that could harbour diseases of economic and/or zoonotic relevance. Our data will be valuable in informing the development of appropriate species-specific methodologies and processes and associated policies.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Temporal co-occurrence</kwd>
+<kwd>Mammal species</kwd>
+<kwd>Circadian activity</kwd>
+<kwd>Camera traps</kwd>
+<kwd>Citizen science</kwd>
+<kwd>Seasonality</kwd>
+<kwd>Wildlife</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Northern Ireland Challenge Fund</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Northern Ireland Environment Agency’s Natural Heritage Research Partnership</funding-source>
+</award-group>
+<award-group id="fund-3">
+<funding-source>Natural Heritage Research Partnership (NHRP)</funding-source>
+</award-group>
+<award-group id="fund-4">
+<funding-source>Northern Ireland Environment Agency (NIEA) and Quercus</funding-source>
+</award-group>
+<award-group id="fund-5">
+<funding-source>Queen’s University Belfast (QUB)</funding-source>
+</award-group>
+<award-group id="fund-6">
+<funding-source>People’s Trust for Endangered Species (PTES)</funding-source>
+</award-group>
+<award-group id="fund-7">
+<funding-source>Department of Environment, Agriculture and Rural Affairs (DAERA) or Department for the Economy (DfE)</funding-source>
+</award-group>
+<funding-statement>Both squirrel studies were funded under the Northern Ireland Challenge Fund and supported by the Northern Ireland Environment Agency’s Natural Heritage Research Partnership. Hare surveys were commissioned and funded by the Natural Heritage Research Partnership (NHRP), between the Northern Ireland Environment Agency (NIEA) and Quercus, Queen’s University Belfast (QUB) with part-funding from the People’s Trust for Endangered Species (PTES). Deer surveys were part of Department of Environment, Agriculture and Rural Affairs (DAERA) or Department for the Economy (DfE) funded PhD studentships. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Animal activity patterns are influenced by a variety of environmental pressures, including food availability (<xref ref-type="bibr" rid="ref-49">Larivière, Huot &amp; Samson, 1994</xref>; <xref ref-type="bibr" rid="ref-74">Pereira, 2010</xref>), foraging efficiency (<xref ref-type="bibr" rid="ref-54">Lode, 1995</xref>; <xref ref-type="bibr" rid="ref-78">Prugh &amp; Golden, 2014</xref>), predator/prey activity (<xref ref-type="bibr" rid="ref-28">Fenn &amp; Macdonald, 1995</xref>; <xref ref-type="bibr" rid="ref-64">Middleton et al., 2013</xref>), human disturbance (<xref ref-type="bibr" rid="ref-106">Van Doormaal et al., 2015</xref>; <xref ref-type="bibr" rid="ref-107">Wang, Allen &amp; Wilmers, 2015</xref>), mate availability and activity (<xref ref-type="bibr" rid="ref-99">Thompson et al., 1989</xref>; <xref ref-type="bibr" rid="ref-34">Halle &amp; Stenseth, 2000</xref>), and ecological competition (<xref ref-type="bibr" rid="ref-88">Rychlik, 2005</xref>; <xref ref-type="bibr" rid="ref-67">Monterroso, Alves &amp; Ferreras, 2014</xref>). Circadian (i.e. recurring every 24 h) and seasonal patterns of activity are adaptive behavioural traits which allow species to effectively exploit their environment and the resources contained therein (<xref ref-type="bibr" rid="ref-37">Hetem et al., 2012</xref>; <xref ref-type="bibr" rid="ref-76">Phillips et al., 2013</xref>). Mammals exhibit a great diversity and flexibility in their activity patterns. A recent study of 4,477 mammal species classified 69% as nocturnal (i.e. night-active), 20% diurnal (i.e. day-active), 8.5% cathemeral (i.e. active throughout the 24 h cycle) and 2.5% crepuscular (i.e. dawn- and/or dusk-active, e.g. lesser mouse deer; <xref ref-type="bibr" rid="ref-5">Bennie et al., 2014</xref>).</p>
+<p>Activity patterns evolved in response to cyclical changes in the environment that encouraged organisms to respond on a physiological and behavioural basis (<xref ref-type="bibr" rid="ref-19">Daan, 1981</xref>; <xref ref-type="bibr" rid="ref-46">Kronfeld-Schor &amp; Dayan, 2003</xref>; <xref ref-type="bibr" rid="ref-84">Roll, Dayan &amp; Kronfeld-Schor, 2006</xref>; <xref ref-type="bibr" rid="ref-5">Bennie et al., 2014</xref>). Activity patterns are frequently related to daily oscillation in illumination (e.g. changes in sunrise/sunset; <xref ref-type="bibr" rid="ref-34">Halle &amp; Stenseth, 2000</xref>) and, hence, the time(s) of the day during which species are active may vary according to season (i.e. spring, summer, autumn and winter). Indeed, it has been suggested that photic cues are the dominant factor underlying behavioural rhythmicity and that a species’ potential to adapt to non-photic cues (e.g. ecological competitors, predators) may be constrained such that responses are manifest within the normal active period rather than as a shift to a different rhythm (<xref ref-type="bibr" rid="ref-46">Kronfeld-Schor &amp; Dayan, 2003</xref>). The capacity for adaptive behavioural plasticity, while limited in some species (<xref ref-type="bibr" rid="ref-46">Kronfeld-Schor &amp; Dayan, 2003</xref>), is demonstrated in others by observations of intraspecific variation of activity patterns (<xref ref-type="bibr" rid="ref-3">Ashby, 1972</xref>; <xref ref-type="bibr" rid="ref-36">Hertel et al., 2016</xref>) that can result in temporal niche switching (<xref ref-type="bibr" rid="ref-28">Fenn &amp; Macdonald, 1995</xref>; <xref ref-type="bibr" rid="ref-26">Ensing et al., 2014</xref>). For example, <xref ref-type="bibr" rid="ref-26">Ensing et al. (2014)</xref> found that red deer (<italic>Cervus elaphus</italic>) were mostly diurnal in Canada, while conspecifics in the Netherlands were mostly nocturnal. The difference in activity patterns was attributed to higher levels of human disturbance and a lack of natural predators in the Netherlands.</p>
+<p>The island of Ireland has a depauperate terrestrial mammalian community due to its prolonged isolation since the last Glacial Maximum (<xref ref-type="bibr" rid="ref-68">Montgomery et al., 2014</xref>). The behavioural ecologies of mammals in Ireland are almost entirely unknown and assumptions of behavioural equivalence between Ireland and locations elsewhere in the species’ range may not apply given differences in land use, human activity and ecosystem composition. Quantifying fundamental ecological parameters such as activity patterns has direct relevance to the management of endemic (e.g. Irish hare, <italic>Lepus timidus hibernicus</italic>, Bell 1837; <xref ref-type="bibr" rid="ref-81">Reid &amp; Montgomery, 2007</xref>), invasive (e.g. European brown hares, <italic>L. europaeus</italic>, Pallas 1778; <xref ref-type="bibr" rid="ref-10">Caravaggi, Montgomery &amp; Reid, 2015</xref>), pest (e.g. red foxes, <italic>Vulpes vulpes</italic>, Linnaeus 1758; <xref ref-type="bibr" rid="ref-4">Baker &amp; Harris, 2006</xref>) and commercially valuable (e.g. deer; <xref ref-type="bibr" rid="ref-13">Carden et al., 2011</xref>) species, as well as those that could harbour diseases of economic (e.g. badgers, <italic>Meles meles</italic>, Linnaeus 1758; <xref ref-type="bibr" rid="ref-32">Griffin et al., 2005</xref>) and/or zoonotic relevance. The relative dearth of mammalian herbivores and their predators in Ireland also makes the island an ideal study system in which to investigate predator-prey relationships. However, recording and quantifying daily activity patterns of wild, free-ranging mammals presents significant challenges, including overcoming the observer effect whereby the presence of an observer influences the behaviour of the subject (<xref ref-type="bibr" rid="ref-94">Stewart, Ellwood &amp; Macdonald, 1997</xref>), and collecting sufficient data to address scientific and conservation questions (<italic>sensu</italic> <xref ref-type="bibr" rid="ref-8">Cagnacci et al., 2010</xref>). A number of methodological techniques have been used to overcome such challenges such as radio-tracking, GPS collars and live trapping, each with varying degrees of success (<xref ref-type="bibr" rid="ref-7">Bridges &amp; Noss, 2011</xref>). Radio-tracking has inherent limitations, including periodic (i.e. non-constant) sampling (<xref ref-type="bibr" rid="ref-55">Lovari, Valier &amp; Lucchi, 1994</xref>) and the application of considerable survey effort (<xref ref-type="bibr" rid="ref-73">Palomares &amp; Delibes, 1991</xref>; <xref ref-type="bibr" rid="ref-117">Reid, McDonald &amp; Montgomery, 2010</xref>). Furthermore, they may result in small sample sizes (<xref ref-type="bibr" rid="ref-7">Bridges &amp; Noss, 2011</xref>), capture a limited proportion of the population (<xref ref-type="bibr" rid="ref-89">Sadlier et al., 2004</xref>), and may be subject to signal-based error and/or omission (<xref ref-type="bibr" rid="ref-8">Cagnacci et al., 2010</xref>) or alter the behaviour of tagged animals (<xref ref-type="bibr" rid="ref-112">Wilson et al., 2011</xref>). GPS collars have similar constraints to radio-tracking, particularly with regards to sample sizes and potential signal issues. Moreover, inferences made from GPS collar data can lead to misleading results and much depends on the frequency with which location fixes are obtained (<xref ref-type="bibr" rid="ref-63">Merrill &amp; Mech, 2003</xref>). Live trapping has been used to investigate activity patterns of small mammals, where each successful capture (i.e. the presence of an animal in a trap) is taken as indicating activity (e.g. <xref ref-type="bibr" rid="ref-25">Elton et al., 1931</xref>; <xref ref-type="bibr" rid="ref-6">Bradley, 1967</xref>; <xref ref-type="bibr" rid="ref-41">Hoogenboom et al., 1984</xref>). However, live trapping requires considerable time and effort, is relatively inefficient, may have implications with regards to animal welfare (<xref ref-type="bibr" rid="ref-103">Torre, Guixe &amp; Sort, 2010</xref>), and is subject to species- and trap-specific variations in capture probability (<xref ref-type="bibr" rid="ref-52">Leso &amp; Kropil, 2010</xref>).</p>
+<p>Remote-sensing camera traps (i.e. remotely activated cameras that are activated via motion or infra-red sensors or light beams; <xref ref-type="bibr" rid="ref-95">Swann et al., 2004</xref>) are increasingly popular in conservation and ecological studies (<xref ref-type="bibr" rid="ref-47">Kucera &amp; Barrett, 2011</xref>) as they are non-invasive and are subject to continuing technological improvements and decreasing costs (<xref ref-type="bibr" rid="ref-100">Tobler et al., 2008a</xref>). They have been used in studies investigating population densities (<xref ref-type="bibr" rid="ref-104">Trolle &amp; Kéry, 2003</xref>; <xref ref-type="bibr" rid="ref-44">Karanth et al., 2006</xref>; <xref ref-type="bibr" rid="ref-11">Caravaggi et al., 2016</xref>), behaviour (<xref ref-type="bibr" rid="ref-57">Maffei et al., 2005</xref>), ecosystem biodiversity (<xref ref-type="bibr" rid="ref-93">Silveira, Jácomo &amp; Diniz-Filho, 2003</xref>; <xref ref-type="bibr" rid="ref-101">Tobler et al., 2008b</xref>), and site occupancy of rare or cryptic species (<xref ref-type="bibr" rid="ref-53">Linkie et al., 2007</xref>). Camera traps afford researchers the means to conduct long-term surveys while minimising in situ survey effort and disturbance of the focal species (<xref ref-type="bibr" rid="ref-45">Kays &amp; Slauson, 2008</xref>). As such, data derived from camera trap surveys of common species and/or conducted at high camera densities are well suited to investigations of wildlife activity patterns (<xref ref-type="bibr" rid="ref-22">Di Cerbo &amp; Biancardi, 2013</xref>; <xref ref-type="bibr" rid="ref-12">Carbajal-Borges, Godínez-Gómez &amp; Mendoza, 2014</xref>; <xref ref-type="bibr" rid="ref-1">Allen, Peterson &amp; Krofel, 2018</xref>). The size and scope of camera trap surveys are limited only by the cost of equipment and personnel to conduct fieldwork and review and analyse data, while the length of time cameras can be left in situ is restricted by available memory, battery life and the possibility of mechanical failure. There may be a trade-off between the proximity and angle of cameras with regards to targets, and the likelihood of detecting and identifying species of varying size (<xref ref-type="bibr" rid="ref-39">Hofmeester, Rowcliffe &amp; Jansen, 2017</xref>). Downward-facing cameras, for example, are more efficient at detecting small mammals (<xref ref-type="bibr" rid="ref-119">De Bondi et al., 2010</xref>). However, species identification is difficult where similar species occur in sympatry (<xref ref-type="bibr" rid="ref-16">Claridge, Paull &amp; Barry, 2010</xref>; <xref ref-type="bibr" rid="ref-61">Meek, Vernes &amp; Falzon, 2013</xref>; <xref ref-type="bibr" rid="ref-71">Oliveira-Santos et al., 2010</xref>). This is often particularly true of small mammals (<xref ref-type="bibr" rid="ref-16">Claridge, Paull &amp; Barry, 2010</xref>; <xref ref-type="bibr" rid="ref-60">Meek &amp; Vernes, 2016</xref>). However, Ireland is home to six species of rodent and two species of shrew, few of which occur in sympatry and all of which are uniquely identifiable.</p>
+<p>Here, we describe the first study into temporal activity patterns of 10 mammal species found in Ireland, from 14 g (wood mouse, <italic>Apodemus sylvaticus</italic>, Linnaeus 1758) to 60 kg (fallow deer, <italic>Dama dama</italic>, Linnaeus 1758), captured via camera traps. In addition, we investigate interspecific relationships, specifically whether predator-prey activity patterns demonstrate (a)synchrony, demonstrating temporal (dis)association between ecologically-linked species. We hypothesised that predator-prey pairs would exhibit non-random, interrelated distribution of activity throughout the diel cycle. This distribution would either display a considerable overlap between predators and prey (i.e. predators are attracted to prey), or asynchrony between the species (i.e. temporal avoidance of predators by prey).</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>We collated data from 10 camera trap studies conducted in Northern Ireland, where land use is predominantly agricultural (75%) and forest cover, mixed and deciduous woodland and coniferous forest plantations, is 8% of land area (<xref ref-type="bibr" rid="ref-21">Department of Agriculture, Environment and Rural Affairs, 2018</xref>; <xref ref-type="bibr" rid="ref-30">Forestry Comission, 2018</xref>). The focal species of the 10 studies were fallow deer (<italic>Dama dama</italic>, Linnaeus 1758; <italic>n</italic> = 6), Eurasian red squirrel (<italic>Sciurus vulgaris</italic>, Linnaeus 1758) and Eastern North American grey squirrel (<italic>S. carolinensis</italic>, Gmelin 1788; <italic>n</italic> = 2) and European brown hare and Irish mountain hare (<italic>n</italic> = 2). However, as is common for camera trap studies, non-target species were also detected. Therefore, in addition to the five focal species, we present additional information on a further five species: (i) European badger; (ii) European rabbit (<italic>Oryctolagus cuniculus</italic>, Linnaeus 1758); (iii) wood mouse; (iv) pine marten (<italic>Martes martes</italic>, Linneus 1758); and (v) red fox (hereafter ‘fox’). The data presented here resulted from a total of 1,164 camera deployments at 431 locations (defined herein as broad study areas, rather than individual camera placements; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Deer surveys were conducted from June 2013 to November 2016, squirrel surveys from January to March 2014 and January to May 2015 and hare surveys from April 2013 to August 2015, non-inclusive. Constituent surveys were independent thus methodologies were not standardised. There was no evidence of intrageneric variation in the activity patterns of hare (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>) and squirrel (<xref ref-type="supplementary-material" rid="supp-2">Fig. S2</xref>) species, and, hence, both were grouped (i.e. ‘hares’ and ‘squirrels’) for the purposes of the current study.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5827/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Locations of sites used in camera trap wildlife studies in Northern Ireland from 2013 to 2016.</title>
+<p>For species-specific maps, see <xref ref-type="supplementary-material" rid="supp-3">Fig. S3</xref>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/fig-1.png"/>
+</fig>
+<sec>
+<title>Species surveys</title>
+<p>We included data from six independent deer studies (D1—6) in our analyses. D1 was conducted over 15 1 km<sup>2</sup> squares with an average of 10 cameras per km<sup>2</sup> and five additional one km<sup>2</sup> squares set at a higher density of 20 camera traps per km<sup>2</sup>. In total 38 camera trap units were randomly deployed over 255 individual camera trap placements (<xref ref-type="table" rid="table-1">Table 1</xref>) using a combination of Bushnell Trophy Cam (119467), Bushnell Trophy Cam HD (119477), Reconyx (HC600) and Scoutguard Camera (SG560P-8M)—the number of each model used differed between sites. Camera traps were set at a height of 30 cm, perpendicular to the ground. Cameras were set to capture the maximum photographs per trigger (3–10 photographs depending on camera model) and no delay between triggers. Cameras were left for 14 days before being collected and relocated. D2–D4 surveyed smaller areas of 0.02, 0.04 and 0.05 km<sup>2</sup> using 10 Bushnell Trophy Cam HD (119677) at each site. Each camera was set at a height of 40 cm from the ground and set to capture bursts of three still pictures and a 60 s video per trigger, with a delay of 1 s between triggers. Cameras were left in situ for 7 days. D5–D6 were focussed on areas of 0.05 and 0.02 km<sup>2</sup>, respectively and used Bushnell Trophy Cam HDs (119477, 119577, 119676, 119677). Cameras were set at a height of 40 cm and set to capture either three still pictures or a 30 s video, depending on the camera model, with a 1 s delay between triggers. Cameras were deployed for 7 days.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5827/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Number of remote-sensing camera traps deployed (i.e. ‘camera locations’) by mammal studies carried out in Northern Ireland between 2013 and 2016.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Focal species</th>
+<th>Year</th>
+<th>Total survey area (km<sup>2</sup>)</th>
+<th>Active cameras</th>
+<th>Deployments</th>
+<th>Total camera locations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deer (D1)</td>
+<td>2013–2014</td>
+<td>20.00</td>
+<td>38</td>
+<td>23</td>
+<td>255</td>
+</tr>
+<tr>
+<td>Deer (D2)</td>
+<td>2015</td>
+<td>0.05</td>
+<td>10</td>
+<td>4</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Deer (D3)</td>
+<td>2015</td>
+<td>0.02</td>
+<td>10</td>
+<td>2</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Deer (D4)</td>
+<td>2015</td>
+<td>0.04</td>
+<td>10</td>
+<td>2</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Deer (D5)</td>
+<td>2015</td>
+<td>0.05</td>
+<td>17</td>
+<td>1</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Deer (D6)</td>
+<td>2015</td>
+<td>0.02</td>
+<td>21</td>
+<td>1</td>
+<td>21</td>
+</tr>
+<tr>
+<td>Hares</td>
+<td>2013–2014</td>
+<td>17.00</td>
+<td>20</td>
+<td>17</td>
+<td>340</td>
+</tr>
+<tr>
+<td>Hares</td>
+<td>2015</td>
+<td>6.00</td>
+<td>12</td>
+<td>6</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Squirrels (S1)</td>
+<td>2014</td>
+<td>n/a</td>
+<td>16</td>
+<td>63</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Squirrels (S2)</td>
+<td>2015</td>
+<td>n/a</td>
+<td>65</td>
+<td>314</td>
+<td>314</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Contributory studies were independent, thus methodologies were not standardised; study locations (size, shape) and camera array densities varied considerably. For more information, see the main Methods section. Squirrel surveys were focussed on presence and did not attempt to quantify the effective survey area of all camera placements.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Hare surveys were conducted over two independent studies (<xref ref-type="table" rid="table-1">Table 1</xref>) across a total of 23 1 km<sup>2</sup> squares. Each square contained 20 randomly placed Bushnell Trophy Cam HD (119477) camera traps that were positioned on vertical aspects of linear features (i.e. trees in hedgerows, fence posts), to a total of 412 camera locations (<xref ref-type="table" rid="table-1">Table 1</xref>). Cameras were set at a height of 30 cm from the ground, at a 45–90° angle away from the linear feature, with a 10–15° downward tilt. Cameras were set to record video for a period of 60 s with a 60 s delay between triggers. Cameras were deployed for 7 days. The use of video footage allowed the detection of closely-associated conspecifics (see <xref ref-type="bibr" rid="ref-11">Caravaggi et al., 2016</xref> for more on this study).</p>
+<p>Data from two arboreal squirrel surveys are presented in this study. The first survey (S1) was undertaken in 2014, within 63 forested areas &gt;5 ha in size within Co. Fermanagh. A total of 16 Bushnell Trophy Cameras (119438) were deployed by seven volunteers (‘citizen scientists’) and one scientist during a 3-month period (<xref ref-type="table" rid="table-1">Table 1</xref>). Cameras were attached to trees at a height of three to four m and positioned up to four m distant from and opposite a wooden squirrel feeder (Northumbrian Wildlife Trust design) baited with peanuts and sunflower seeds. Cameras were left in situ for a minimum of seven and maximum of 24 days (median = 8). The second survey (S2) was conducted in 314 forested areas &gt;5 ha in size across Northern Ireland by 70 citizen scientists and one scientist during a 5-month period in 2015. A total of 65 Bushnell Trophy Cameras (16 × 119438; 12 × 119577; 37 × 119676) were deployed during this time for a minimum of six and maximum of 33 days (median = 7). Cameras were deployed at head height (1.5–2 m) on a tree opposite either a wooden (as in 2014) or metal squirrel feeder (CJ Wildlife Product code 12335). In both years, cameras were set to take three photos per burst with an interval of 1–20 s between triggers. In these surveys all citizen scientists were trained in the use of camera traps by the scientist (DT) overseeing the research.</p>
+<p>In deer and hare surveys, cameras were placed according to <italic>n<sub>i</sub></italic> randomly generated points within each focal area and a clear field of view was ensured by clearing prominent vegetation where appropriate. The density of deployed camera trap arrays means that it was possible that the same individual would be captured more than once during the sampling period. Similarly, cameras were pseudo-randomly placed during squirrel surveys according to suitably paired trees (one for the camera, one for the feeder) of which there were an abundance in all locations. Recaptures were highly likely given the use of baited stations. Surveys with &gt;1 camera trap model did not systematically deploy models predictably within and across arrays. In all surveys, cameras were equipped with eight GB HDSD cards, secured with Python security cables, motion detectors were set to medium sensitivity and each capture was stamped with the date and time.</p>
+</sec>
+<sec>
+<title>Activity analysis</title>
+<p>We assumed that images were independent when separated by 1 h (<xref ref-type="bibr" rid="ref-18">Cusack et al., 2015</xref>) and that temporal detection frequency was a true reflection of circadian activity patterns of the focal species. Animals can only be detected on camera traps when active, specifically, when in motion. The number of detections per hour therefore reflects the level of activity across the circadian period. Prior to analysis, data for individual species were grouped into 1 h time intervals, beginning at the hour mark (e.g. 11:00–11:59). In cases where a group of individuals of the same species (e.g. fallow deer) was detected in one image, a single event was recorded. Detection frequencies were normalised to ease plot interpretation using the formula <inline-formula><alternatives><inline-graphic xlink:href="https://peerj.com/articles/5827/ieqn-1.png"/><tex-math id="tex-ieqn-1"><![CDATA[${z_i} = {{{x_i}-{x_{{\rm{min}}}}} \over {{x_{{\rm{max}}}}-{x_{{\rm{min}}}}}}$]]></tex-math><mml:math id="mml-ieqn-1"><mml:mrow><mml:msub><mml:mi>z</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mtext>min</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:mtext>min</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>, where <italic>z<sub>i</sub></italic> = normalised detection frequency at the <italic>i</italic>th interval, and <italic>x</italic> = (<italic>x<sub>1</sub></italic>…, <italic>x<sub>n</sub></italic>).</p>
+<p>Variations in day length throughout the year has direct consequences for wildlife (<xref ref-type="bibr" rid="ref-69">Nouvellet et al., 2012</xref>). For example, an ostensibly nocturnal species may be more likely to remain active into daylight hours during the summer months due to shortening nights in order to meet its energetic requirements (<xref ref-type="bibr" rid="ref-90">Schai-Braun, Rödel &amp; Hackländer, 2012</xref>). To investigate intra-annual variation in activity relative to sunrise/sunset (i.e. whether nocturnal/diurnal activity differed between seasons; solar cycle historical data obtained from the <xref ref-type="bibr" rid="ref-38">HM Nautical Almanac Office, 2016</xref>), data were grouped according to season: spring (March—May); summer (June—August); autumn (September—November); and winter (December—February). Detections between 00:00 and 11:59 were offset relative to sunrise; detections between 12:00 and 23:59 were offset relative to sunset. All daytime offsets were converted to positive integers, night-time to negative. For example, a detection timed at 22:10, with sunset at 20:00, would have an offset value of −2 h and 10 min, indicating nocturnal activity. We investigated intraspecific differences in seasonal offsets via one-way Analysis of Variance with post hoc Tukey tests where the dependent variable was the sunrise/sunset offset, and season was the explanatory variable.</p>
+<p>We defined the diurnal period as the time between 1 h after sunrise and 1 h before sunset, and the nocturnal period as the time between 1 h before sunrise and 1 h after sunset. We defined the crepuscular periods, dawn and dusk, as the hour before and the hour after sunrise and sunset, respectively, (after <xref ref-type="bibr" rid="ref-97">Theuerkauf et al., 2003</xref>; <xref ref-type="bibr" rid="ref-85">Ross et al., 2013</xref>). Species activity patterns were classified according to the diel period with the most activity.</p>
+<p>We used overlap metrics and lagged regression cross-correlation functions (CCFs) to examine annual and seasonal relationships between predator-prey pairs (i.e. autocorrelation), specifically: fox and hare; fox and rabbit; fox and wood mouse; pine marten and squirrel; and pine marten and wood mouse. These relationships were explored due to dietary studies indicating the potential for predator-prey dynamics within the 24 h period. Lagomorphs are primary prey items of the red fox in Ireland (<xref ref-type="bibr" rid="ref-27">Fairley, 1970</xref>). In Britain the field vole (<italic>Microtus agrestis</italic>, Linnaeus, 1761) is a secondary prey item for the red fox (<xref ref-type="bibr" rid="ref-110">Webbon et al., 2006</xref>) and primary item for the pine marten (<xref ref-type="bibr" rid="ref-14">Caryl et al., 2012</xref>) but this species does not occur in NI where the wood mouse is the most abundant small mammal species (J. P. Twining, 2018, unpublished data). Data used to examine predator prey relationships were restricted to locations where both species in each pair were detected. Sample CCFs facilitate the identification of lags in the <italic>x</italic> variable which may be predictive of <italic>y</italic>. Positive lag (<italic>h</italic>+) is the result of a correlation between <italic>x<sub>a+i</sub></italic> and <italic>y<sub>a</sub></italic>, where <italic>a</italic> = time. Conversely, negative lag (<italic>h</italic>−) is the result of a correlation between <italic>x<sub>a−i</sub></italic> and <italic>y<sub>a</sub></italic>. Significant correlations describe a non-random association between species detections at interval(s) <italic>h<sub>i</sub></italic>. Lagged regressions were calculated using the CCF function in the core library of R (<xref ref-type="bibr" rid="ref-118">R Core Team, 2016</xref>). The CCF function, however, does not return quantified measures of significance. The significance of the correlation coefficient, <italic>r</italic>, therefore, was established by calculating the <italic>t</italic> value, where <inline-formula><alternatives><inline-graphic xlink:href="https://peerj.com/articles/5827/ieqn-2.png"/><tex-math id="tex-ieqn-2"><![CDATA[$t = r\sqrt {{{n - 2} \over {1 - {r^2}}}} $]]></tex-math><mml:math id="mml-ieqn-2"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mi>r</mml:mi><mml:msqrt><mml:mrow><mml:mfrac><mml:mrow><mml:mi>n</mml:mi><mml:mo>−</mml:mo><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:msqrt></mml:mrow></mml:math></alternatives></inline-formula> and where the critical <italic>t</italic> value (<italic>p</italic> = 0.05, 22 degrees of freedom, one-tailed) = 1.72. We calculated the degree of overlap between each species pair on an annual basis and for each season using the <italic>overlap</italic> package (<xref ref-type="bibr" rid="ref-62">Meredith &amp; Ridout, 2017</xref>). Data were resampled 1,000 times per pair, per category, to generate 95% Confidence Intervals (CIs). We defined overlap &lt;0.5 as low overlap, 0.5–0.75 as moderate overlap and &gt; 0.75 as high overlap (<xref ref-type="bibr" rid="ref-67">Monterroso, Alves &amp; Ferreras, 2014</xref>). All statistical analyses were carried out in R 3.4.3 (<xref ref-type="bibr" rid="ref-79">R Core Team, 2017</xref>; see <xref ref-type="bibr" rid="ref-9">Caravaggi et al., 2018</xref>, for data and code).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<p>A total of 8,761 independent detections of the 10 species were recorded across 324 camera days (i.e. 24-hour periods across all deployed cameras). Squirrel sightings (<italic>n</italic> = 2,870; <xref ref-type="fig" rid="fig-2">Fig. 2G</xref>) comprised 33% of all records, rabbits 13% (<italic>n</italic> = 1,175; <xref ref-type="fig" rid="fig-2">Fig. 2F</xref>), pine martens 11% (<italic>n</italic> = 966; <xref ref-type="fig" rid="fig-2">Fig. 2E</xref>), badgers 11% (<italic>n</italic> = 947; <xref ref-type="fig" rid="fig-2">Fig. 2A</xref>), wood mice 9% (<italic>n</italic> = 816; <xref ref-type="fig" rid="fig-2">Fig. 2H</xref>), hares 9% (<italic>n</italic> = 751; <xref ref-type="fig" rid="fig-2">Fig. 2D</xref>), foxes 7% (<italic>n</italic> = 645; <xref ref-type="fig" rid="fig-2">Fig. 2D</xref>) and fallow deer 7% (<italic>n</italic> = 591; <xref ref-type="fig" rid="fig-2">Fig. 2B</xref>; <xref ref-type="table" rid="table-2">Table 2</xref>). Seasonal variations in the number of detections recorded reflected the time and duration of the constituent studies: 47% in spring, 24% in summer, 18% in autumn and 11% in winter (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5827/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Camera trap images of 10 mammal species detected in Northern Ireland between 2013 and 2016.</title>
+<p>(A) Badger, (B) fallow deer, (C) fox, (D) European hare, (E) Irish hare, (F) pine marten, (G) rabbit, (H) grey squirrel, (I) red squirrel and (J) wood mouse (circled). Images provided by A. Caravaggi A, D, E, J, K. Hogg and M. Freeman (B, C, G) and D.G. Tosh F, H, I.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/fig-2.png"/>
+</fig>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.5827/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Total number of species detections during camera trap surveys in Northern Ireland from 2013 to 2016.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th colspan="3">Species</th>
+<th colspan="4">Season</th>
+<th/>
+</tr>
+<tr>
+<th>Common name</th>
+<th>Latin name</th>
+<th>BM (kg)</th>
+<th>Spring</th>
+<th>Summer</th>
+<th>Autumn</th>
+<th>Winter</th>
+<th>Σ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fallow deer</td>
+<td><italic>Dama dama</italic></td>
+<td>57.00</td>
+<td>38</td>
+<td>484</td>
+<td>61</td>
+<td>8</td>
+<td>591</td>
+</tr>
+<tr>
+<td>Badger</td>
+<td><italic>Meles meles</italic></td>
+<td>11.00</td>
+<td>618</td>
+<td>225</td>
+<td>36</td>
+<td>68</td>
+<td>947</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td><italic>Vulpes vulpes</italic></td>
+<td>4.80</td>
+<td>198</td>
+<td>183</td>
+<td>149</td>
+<td>115</td>
+<td>645</td>
+</tr>
+<tr>
+<td>Hare</td>
+<td><italic>Lepus sp.</italic></td>
+<td>3.46</td>
+<td>301</td>
+<td>339</td>
+<td>105</td>
+<td>6</td>
+<td>751</td>
+</tr>
+<tr>
+<td>Rabbit</td>
+<td><italic>Oryctolagus cuniculus</italic></td>
+<td>1.59</td>
+<td>492</td>
+<td>417</td>
+<td>238</td>
+<td>28</td>
+<td>1,175</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td><italic>Martes martes</italic></td>
+<td>1.30</td>
+<td>251</td>
+<td>73</td>
+<td>356</td>
+<td>286</td>
+<td>966</td>
+</tr>
+<tr>
+<td>Squirrel</td>
+<td><italic>Sciurus sp.</italic></td>
+<td>0.44</td>
+<td>1,798</td>
+<td>317</td>
+<td>462</td>
+<td>293</td>
+<td>2,870</td>
+</tr>
+<tr>
+<td>Wood mouse</td>
+<td><italic>Apodemus sylvaticus</italic></td>
+<td>0.02</td>
+<td>449</td>
+<td>57</td>
+<td>119</td>
+<td>191</td>
+<td>816</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<p>Hare = Irish hare (<italic>Lepus timidus hibernicus</italic>) and European hare (<italic>L. europaeus</italic>); squirrel = grey squirrel (<italic>Sciurus carolinensis</italic>) and red squirrel (<italic>S. vulgaris</italic>). BM = body mass (<xref ref-type="bibr" rid="ref-43">Jones et al., 2009</xref>). Hare and squirrel body mass are given as a mean of the two detected species: European hare = 3.82 kg; Irish hare = 3.11 kg; grey squirrel = 0.55 kg; red squirrel = 0.33 kg. Species are ordered according to body mass.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<sec>
+<title>Species-specific activity patterns</title>
+<p>Foxes exhibited a nocturnal activity pattern, with some irregular diurnal activity. Nearly three-quarters of all fox activity (73%) occurred between 21:00 and 07:00 (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Pine marten activity was nocturnal, with 70% of all detections occurring between 21:00 and 06:00 (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). Badgers were nocturnal with a unimodal pattern of activity; the number of detections increased rapidly after dusk and decreased rapidly around dawn. Fewer than 15% of all badger detections were recorded between 06:00 and 19:00, indicating little diurnal activity (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>). Hare activity patterns were bimodal, demonstrating predominantly crepuscular behaviour with 71% of all activity occurring between 04:00 and 08:00 (47%) and 20:00–23:00 (24%; <xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Rabbits were also crepuscular, with 35% and 32% of all detections occurring between 04:00 and 08:00 and 17:00–23:00, respectively (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Squirrels were diurnal, being active from dawn to dusk with fewer than 5% of triggers occurring between 19:00 and 05:00 (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). Wood mice were nocturnal with 81% of activity occurring between 21:00 and 06:00 (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). Fallow deer were diurnal with 63% of detections occurring between 06:00 and 18:00 (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5827/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Circadian activity patterns of 10 mammal species detected during camera trap surveys in Northern Ireland from 2013 to 2016.</title>
+<p>(A) Fox (<italic>Vulpes vulpes</italic>) hare (Irish hare, <italic>Lepus timidus hibernicus</italic> and European hare, <italic>L. europaeus;</italic> see <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>) and rabbit (<italic>Oryctolagus cuniculus</italic>); (B) pine marten (<italic>Martes martes</italic>), wood mouse (<italic>Apodemus sylvaticus</italic>) and squirrel (grey squirrel, <italic>Sciurus californicus</italic> and red squirrel, <italic>Sciurus vulgaris;</italic> see <xref ref-type="supplementary-material" rid="supp-2">Fig. S2</xref>); (C) badger (<italic>Meles meles</italic>) and fallow deer (<italic>Dama dama</italic>). Shaded areas represent night time.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/fig-3.png"/>
+</fig>
+<p>There were significant differences in offsets across seasons in fox activity patterns (<italic>F</italic><sub>33,641</sub> = 23.36, <italic>p</italic> &lt; 0.0001); winter was significantly different from all other seasons due to decreased activity during daylight and crepuscular periods (<xref ref-type="fig" rid="fig-4">Fig. 4C</xref>). Significant differences were observed across and between all seasons (<italic>F</italic><sub>3,962</sub> = 86.28, <italic>p</italic> &lt; 0.0001), except spring-autumn in pine marten activity patterns (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). Badger activity patterns exhibited significant differences in offsets across seasons (<italic>F</italic><sub>3,943</sub> = 32.54, <italic>p</italic> &lt; 0.0001; <xref ref-type="fig" rid="fig-4">Fig. 4C</xref>) except for winter-autumn and summer-spring. Seasonal offsets differed significantly in hare activity patterns (<italic>F</italic><sub>3,747</sub> = 19.33, <italic>p</italic> &lt; 0.0001), specifically between spring and summer (<italic>p</italic> &lt; 0.0001) and summer and autumn (<italic>p</italic> &lt; 0.001; <xref ref-type="fig" rid="fig-4">Fig. 4D</xref>); hares exhibited more diurnal activity both in spring and in autumn. There were significant differences in offsets across and between seasons in rabbit (<italic>F</italic><sub>3,1171</sub> = 12.93, <italic>p</italic> &lt; 0.0001; <xref ref-type="fig" rid="fig-4">Fig. 4F</xref>) and squirrel activity patterns (<italic>F</italic><sub>3,2866</sub> = 76.52, <italic>p</italic> &lt; 0.0001; <xref ref-type="fig" rid="fig-4">Fig. 4G</xref>). Offsets were significantly different across seasons in wood mouse activity patterns (<italic>F</italic><sub>3,812</sub> = 39.31, <italic>p</italic> &lt; 0.0001), with diurnal activity increasing in summer (<xref ref-type="fig" rid="fig-4">Fig. 4H</xref>). Fallow deer activity patterns exhibited significant differences in offsets across seasons (<italic>F</italic><sub>3,587</sub> = 16.7, <italic>p</italic> &lt; 0.0001), specifically between spring and autumn (<italic>p</italic> &lt; 0.0001) and summer and autumn (<italic>p</italic> &gt; 0.0001; <xref ref-type="fig" rid="fig-4">Fig.4B</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5827/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Time of detection relative to sunrise/sunset during spring, summer, autumn and winter for 10 mammal species observed during camera trap surveys in Northern Ireland between 2013 and 2016.</title>
+<p>(A) Badger, (B) fallow deer, (C) fox, (D) hare (Irish hare and European hare), (E) pine marten, (F) rabbit, (G) squirrel (grey squirrel and red squirrel), and (H) wood mouse. The upper, unshaded area denotes daytime, the lower, shaded area denotes night. Dashed lines indicate mean annual offset. Boxes represent the mean ± Standard Deviation. Raincloud plots (<xref ref-type="bibr" rid="ref-121">Allen et al., 2018a</xref>, <xref ref-type="bibr" rid="ref-122">2018b</xref>) represent the density and spread of all contributing data points.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/fig-4.png"/>
+</fig>
+</sec>
+<sec>
+<title>Predator-prey relationships</title>
+<p>There was evidence of correlative relationships between all predator-prey pairs, both annually and between seasons. Fox and hare annual activity patterns showed 73% overlap (CI [68–77%]; <xref ref-type="table" rid="table-3">Table 3</xref>) and were significantly positively correlated with a peak at −2 h (peak lag = <italic>pl</italic>, hereafter; <italic>r</italic> = 0.663, <italic>t</italic><sub>22</sub> = 4.15, <italic>p</italic> &lt; 0.0005; <xref ref-type="table" rid="table-4">Table 4</xref>). The degree of overlap peaked in spring at 75% (CI [64–84%]; <xref ref-type="table" rid="table-3">Table 3</xref>; <italic>pl</italic> = 1 h, <italic>r</italic> = −0.554, <italic>t</italic><sub>22</sub> = 3.12, <italic>p</italic> &lt; 0.005; <xref ref-type="table" rid="table-4">Table 4</xref>). There were significant correlations in the summer (<xref ref-type="table" rid="table-4">Table 4</xref>). Annual activity patterns of foxes and rabbits overlapped by 80% (CI [75–83%]; <xref ref-type="table" rid="table-3">Table 3</xref>) and were significantly correlated, with a peak at −1 h (<italic>pl</italic> = −1 h, <italic>r</italic> = 0.661, <italic>t</italic><sub>22</sub> = 4.13, <italic>p</italic> &lt; 0.0005; <xref ref-type="table" rid="table-4">Table 4</xref>). Overlap was greatest during spring at 89% (CI [86–98%]; <xref ref-type="table" rid="table-3">Table 3</xref>; <italic>pl</italic> = 1 h, <italic>r</italic> = 0.701, <italic>t</italic><sub>22</sub> = 4.61, <italic>p</italic> &lt; 0.0005; <xref ref-type="table" rid="table-4">Table 4</xref>) and lowest during winter (51 CI [31–71%]; <xref ref-type="table" rid="table-3">Table 3</xref>). Seasonal activity patterns between foxes and rabbits were positively correlated during spring and summer (<xref ref-type="table" rid="table-4">Table 4</xref>), but there were no significant correlations evident during the rest of the year. Fox and wood mouse annual activity patterns overlapped by 81% (CI [75–87%]; <xref ref-type="table" rid="table-3">Table 3</xref>). Overlap was high in all seasons but was greatest in summer with at 85% (CI [81–92%]; <xref ref-type="table" rid="table-3">Table 3</xref>). Annual activity was significantly correlated (<italic>pl</italic> = 1 h, <italic>r</italic> = 0.754, <italic>t</italic><sub>22</sub> = 5.39, <italic>p</italic> ≤ 0.0001; <xref ref-type="table" rid="table-4">Table 4</xref>), with similar peaks in cross-correlation coefficients in spring (<xref ref-type="table" rid="table-4">Table 4</xref>) and autumn, with greatest correlation occurring in summer (<italic>pl</italic> = 0 h, <italic>r</italic> = 0.761, <italic>t</italic><sub>22</sub> = 5.50, <italic>p</italic> ≤ 0.0001; <xref ref-type="fig" rid="fig-4">Fig. 4</xref>; <xref ref-type="table" rid="table-4">Table 4</xref>).</p>
+<table-wrap id="table-3">
+<object-id pub-id-type="doi">10.7717/peerj.5827/table-3</object-id>
+<label>Table 3</label>
+<caption>
+<title>Annual and seasonal overlap (%, with 95% Confidence Intervals (CIs)) in the activity patterns of five predator-prey pairs.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/table-3.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">Species</th>
+<th/>
+<th colspan="4">Season</th>
+</tr>
+<tr>
+<th>Predator</th>
+<th>Prey</th>
+<th>Annual</th>
+<th>Spring</th>
+<th>Summer</th>
+<th>Autumn</th>
+<th>Winter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fox</td>
+<td>Hare</td>
+<td>73 (68–77)</td>
+<td>75 (64–84)</td>
+<td>67 (60–73)</td>
+<td>48 (31–52)</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>80 (75–83)</td>
+<td>89 (86–98)</td>
+<td>78 (71–85)</td>
+<td>52 (38–55)</td>
+<td>51 (31–71)</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Wood mouse</td>
+<td>81 (75–87)</td>
+<td>78 (67–89)</td>
+<td>85 (81–92)</td>
+<td>69 (57–74)</td>
+<td>68 (65–98)</td>
+</tr>
+<tr>
+<td>Marten</td>
+<td>Squirrel</td>
+<td>40 (33–41)</td>
+<td>28 (16–30)</td>
+<td>54 (41–60)</td>
+<td>40 (32–41)</td>
+<td>5 (0–5)</td>
+</tr>
+<tr>
+<td>Marten</td>
+<td>Wood mouse</td>
+<td>71 (64–74)</td>
+<td>69 (57–82)</td>
+<td>71 (56–82)</td>
+<td>63 (52–66)</td>
+<td>77 (66–93)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-3fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-3fn1" fn-type="other">
+<p>Animals were detected during camera trap surveys in Northern Ireland between 2013 and 2016. Hare = Irish hare (<italic>Lepus timidus hibernicus</italic>) and European hare (<italic>L. europaeus</italic>); squirrel = grey squirrel (<italic>Sciurus carolinensis</italic>) and red squirrel (<italic>S. vulgaris</italic>). Few hares were detected during winter. Activity data were resampled 1,000 times per pair, per category, to generate CIs. For annual overlap plots, see <xref ref-type="supplementary-material" rid="supp-4">Fig. S4</xref>.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<table-wrap id="table-4">
+<object-id pub-id-type="doi">10.7717/peerj.5827/table-4</object-id>
+<label>Table 4</label>
+<caption>
+<title>Temporal (dis)associations between activity patterns of five predator-prey pairs.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5827/table-4.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th/>
+<th/>
+<th/>
+<th colspan="2">Lag (hrs)</th>
+<th/>
+<th/>
+<th/>
+</tr>
+<tr>
+<th>Predator</th>
+<th>Prey</th>
+<th>Season</th>
+<th>From</th>
+<th>To</th>
+<th>Peak lag</th>
+<th><italic>t</italic></th>
+<th><italic>r</italic></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fox</td>
+<td>Hare</td>
+<td>Annual</td>
+<td>−4</td>
+<td>0</td>
+<td>−2</td>
+<td>4.15</td>
+<td>0.663**</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Hare</td>
+<td>Spring</td>
+<td>−2</td>
+<td>3</td>
+<td>1</td>
+<td>3.12</td>
+<td>−0.554*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Hare</td>
+<td>Summer</td>
+<td>−5</td>
+<td>0</td>
+<td>−3</td>
+<td>3.54</td>
+<td>0.602**</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Hare</td>
+<td>Autumn</td>
+<td>−3</td>
+<td>−1</td>
+<td>−3</td>
+<td>2.08</td>
+<td>0.405*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Annual</td>
+<td>−10</td>
+<td>−8</td>
+<td>−9</td>
+<td>2.13</td>
+<td>0.413*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Annual</td>
+<td>−3</td>
+<td>1</td>
+<td>−1</td>
+<td>4.13</td>
+<td>0.661**</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Annual</td>
+<td>8</td>
+<td>11</td>
+<td>10</td>
+<td>2.10</td>
+<td>−0.409*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Spring</td>
+<td>−1</td>
+<td>2</td>
+<td>1</td>
+<td>4.61</td>
+<td>0.701***</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Spring</td>
+<td>–</td>
+<td>–</td>
+<td>11</td>
+<td>2.14</td>
+<td>−0.415*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Summer</td>
+<td>−12</td>
+<td>−9</td>
+<td>−4</td>
+<td>2.52</td>
+<td>−0.473*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Rabbit</td>
+<td>Summer</td>
+<td>−4</td>
+<td>1</td>
+<td>−1</td>
+<td>4.06</td>
+<td>0.654**</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Mouse</td>
+<td>Annual</td>
+<td>−12</td>
+<td>−10</td>
+<td>−11</td>
+<td>2.56</td>
+<td>−0.480*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Wood mouse</td>
+<td>Annual</td>
+<td>−2</td>
+<td>3</td>
+<td>1</td>
+<td>5.39</td>
+<td>0.754***</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Wood mouse</td>
+<td>Spring</td>
+<td>−2</td>
+<td>3</td>
+<td>1</td>
+<td>3.26</td>
+<td>0.570*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Wood mouse</td>
+<td>Summer</td>
+<td>−10</td>
+<td>−9</td>
+<td>−10</td>
+<td>2.09</td>
+<td>−0.407*</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Wood mouse</td>
+<td>Summer</td>
+<td>−1</td>
+<td>1</td>
+<td>0</td>
+<td>5.50</td>
+<td>0.761***</td>
+</tr>
+<tr>
+<td>Fox</td>
+<td>Wood mouse</td>
+<td>Autumn</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>3.04</td>
+<td>0.544*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Annual</td>
+<td>−12</td>
+<td>−7</td>
+<td>−9</td>
+<td>2.15</td>
+<td>0.416*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Annual</td>
+<td>−1</td>
+<td>4</td>
+<td>1</td>
+<td>3.72</td>
+<td>−0.621**</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Spring</td>
+<td>−10</td>
+<td>−4</td>
+<td>−6</td>
+<td>2.50</td>
+<td>0.470*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Spring</td>
+<td>0</td>
+<td>5</td>
+<td>1</td>
+<td>3.76</td>
+<td>−0.625**</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Summer</td>
+<td>−4</td>
+<td>−1</td>
+<td>−2</td>
+<td>2.79</td>
+<td>−0.512*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Summer</td>
+<td>–</td>
+<td>–</td>
+<td>8</td>
+<td>2.46</td>
+<td>0.464*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Winter</td>
+<td>−9</td>
+<td>−7</td>
+<td>−8</td>
+<td>2.79</td>
+<td>0.511*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Winter</td>
+<td>−2</td>
+<td>3</td>
+<td>−1</td>
+<td>4.18</td>
+<td>−0.665**</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Squirrel</td>
+<td>Winter</td>
+<td>9</td>
+<td>11</td>
+<td>10</td>
+<td>3.11</td>
+<td>0.553*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Wood mouse</td>
+<td>Annual</td>
+<td>−1</td>
+<td>1</td>
+<td>0</td>
+<td>2.98</td>
+<td>0.536*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Wood mouse</td>
+<td>Spring</td>
+<td>7</td>
+<td>11</td>
+<td>10</td>
+<td>2.29</td>
+<td>−0.440*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Wood mouse</td>
+<td>Summer</td>
+<td>3</td>
+<td>−2</td>
+<td>−2</td>
+<td>2.24</td>
+<td>0.431*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Wood mouse</td>
+<td>Summer</td>
+<td>–</td>
+<td>–</td>
+<td>8</td>
+<td>2.46</td>
+<td>0.464*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Wood mouse</td>
+<td>Winter</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>2.73</td>
+<td>−0.503*</td>
+</tr>
+<tr>
+<td>Pine marten</td>
+<td>Wood mouse</td>
+<td>Winter</td>
+<td>6</td>
+<td>7</td>
+<td>6</td>
+<td>2.05</td>
+<td>0.400*</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-4fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-4fn1" fn-type="other">
+<p>Lag range and peak lag were calculated using cross-correlation functions (CCFs). <italic>t</italic> = <italic>t</italic>-value, where the critical value (<italic>p</italic> = 0.05, df = 22) = 1.72. <italic>r</italic> = correlation coefficient. Positive values indicate that detections of predators preceded/succeeded those of prey species. Negative values indicate the opposite. Statistical significance is indicated by asterisks, where, * ≤ 0.05; ** ≤ 0.001; *** ≤ 0.0001.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Pine marten and wood mouse annual activity patterns were correlated with a 71% (CI [64–74%]) overlap (<italic>pl</italic> = 0 h, <italic>r</italic> = 0.536, <italic>t</italic><sub>22</sub> = 2.98, <italic>p</italic> ≤ 0.05; <xref ref-type="table" rid="table-4">Table 4</xref>). Overlap was greater than 50% for all seasons with a peak of 77% (CI [66–93%]) occurring in winter months (<xref ref-type="table" rid="table-3">Table 3</xref>). Activity patterns were significantly correlated in spring (<italic>pl</italic> = 10 h, <italic>r</italic> = −0.44, <italic>t</italic><sub>22</sub> = 2.29, <italic>p</italic> ≤ 0.05; <xref ref-type="table" rid="table-4">Table 4</xref>) and winter (<italic>pl</italic> = 3 h, <italic>r</italic> = −0.503, <italic>t</italic><sub>22</sub> = 2.73, <italic>p</italic> ≤ 0.05). Pine marten and squirrel annual patterns overlapped by 40% (CI [33–41%]; <xref ref-type="table" rid="table-3">Table 3</xref>) and their activity was significantly correlated (<italic>pl</italic> = 2 h, <italic>r</italic> = −0.621, <italic>t</italic><sub>22</sub> = 3.72, <italic>p</italic> &lt; 0.001; <xref ref-type="table" rid="table-4">Table 4</xref>). Seasonal overlap peaked during summer at 54% (CI [41–60%]) but was almost entirely absent during winter (<xref ref-type="table" rid="table-3">Table 3</xref>). Significant correlations between seasonal activity patterns were observed in all seasons except during autumn: spring, <italic>pl</italic> = 1 hr, (<italic>r</italic> = −0.625, <italic>t</italic><sub>22</sub> = 3.76, <italic>p</italic> &gt; 0.001); summer, <italic>pl</italic> = −2 h (<italic>r</italic> = −0.512, <italic>t</italic><sub>22</sub> = 2.79, <italic>p</italic> &lt; 0.001); and winter, <italic>pl</italic> = −1 h (<italic>r</italic> = −0.665, <italic>t</italic><sub>22</sub> = 4.18, <italic>p</italic> &lt; 0.0005; <xref ref-type="table" rid="table-4">Table 4</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>This study describes the first investigation into the activity patterns of a range of mammal species on the island of Ireland, adding to information gathered from across the species’ ranges and to those for which little is recorded. The study also contributes to the growing body of literature that uses remote camera traps to infer activity (<xref ref-type="bibr" rid="ref-7">Bridges &amp; Noss, 2011</xref>; <xref ref-type="bibr" rid="ref-66">Monterroso, Alves &amp; Ferreras, 2013</xref>; <xref ref-type="bibr" rid="ref-85">Ross et al., 2013</xref>; <xref ref-type="bibr" rid="ref-12">Carbajal-Borges, Godínez-Gómez &amp; Mendoza, 2014</xref>; <xref ref-type="bibr" rid="ref-1">Allen, Peterson &amp; Krofel, 2018</xref>) and reveals that our focal species exhibit differences in activity relative to sunrise/sunset and throughout the year. In some cases, activity changed markedly. For example, pine martens and rabbits were more diurnal in the summer while during the rest of the year they were nocturnal and cathemeral, respectively. Similarly, predator-prey relationships were also found to vary throughout the year. The temporal overlap between the activity patterns of foxes, lagomorphs (rabbits and hares) and wood mice, were high (&gt;0.75) during the spring and summer and declined during autumn and winter. It is important to acknowledge that a wide variety of factors affect activity patterns and, while our data show positive correlations in activity between some predator and prey species that could be indicative of a causal relationship, we do not attempt to describe observed patterns as being driven by any specific stimulus.</p>
+<p>Foxes were nocturnal with their activity increasing during dusk and decreasing at dawn, although there was also some activity during daylight. The bimodal activity pattern suggested by previous studies (<xref ref-type="bibr" rid="ref-83">Reynolds &amp; Tapper, 1995</xref>) was not evident. Rural fox activity may be influenced by anthropogenic disturbance; diurnal activity is more common where disturbance is low (<xref ref-type="bibr" rid="ref-23">Díaz-Ruiz et al., 2016</xref>). In the present study, however, diurnal activity may have been facilitated, not by a lack of disturbance, but by the timing of the disturbance. Foxes are subject to nocturnal lethal control (i.e. shooting, facilitated by high-powered spot-lamps and other methods) across Northern Ireland, such that nocturnal disturbance by hunting parties is likely to be considerably greater than that which occurs during the day, albeit periodically. However, nocturnal control, while frequent, is regionally variable and intermittent. Furthermore, the most abundant and commonly taken prey animals are nocturnal (e.g. small rodents) or crepuscular (e.g. lagomorphs). Irregularities in the activity patterns described herein may therefore be indicative of the true activity signal along with occasional temporal displacement.</p>
+<p>Hares were active throughout the night, with peaks of activity occurring between 20:00 and 23:00, and 04:00 and 08:00. Diurnal activity was most commonly recorded in the summer months, when nights are shortest (<italic>sensu</italic> <xref ref-type="bibr" rid="ref-29">Flux &amp; Angermann, 1990</xref>; <xref ref-type="bibr" rid="ref-40">Holley, 1992</xref>; <xref ref-type="bibr" rid="ref-48">Langbein et al., 1999</xref>). This study is the first to quantify activity patterns of the Irish hare, which exhibited the same bimodal crepuscular-nocturnal behaviour as the European hare. The Irish hare is a subspecies of mountain hare that is endemic to Ireland while the European hare is almost exclusively found in Mid-Ulster, likely having been introduced in the 1970s (<xref ref-type="bibr" rid="ref-10">Caravaggi, Montgomery &amp; Reid, 2015</xref>). Previous studies have demonstrated that the species are ecologically similar (<xref ref-type="bibr" rid="ref-80">Reid, 2011</xref>; <xref ref-type="bibr" rid="ref-10">Caravaggi, Montgomery &amp; Reid, 2015</xref>), occur in sympatry (<xref ref-type="bibr" rid="ref-11">Caravaggi et al., 2016</xref>) and exhibit a high degree of bidirectional hybridisation (<xref ref-type="bibr" rid="ref-77">Prodohl et al., 2013</xref>). The similarity in activity patterns described herein adds additional support to the suggestion that strong interspecific competition is likely where they occur in sympatry where resources are limiting. The activity patterns of rabbits were similar to those in the Mediterranean region where rabbits were active throughout the day, but most activity occurred in the early morning and late afternoon (<xref ref-type="bibr" rid="ref-66">Monterroso, Alves &amp; Ferreras, 2013</xref>). However, while our data suggest a similar bimodal pattern, the second, evening peak was weak in our dataset.</p>
+<p>Overall, pine marten were nocturnal with activity becoming more diurnal between spring and early autumn, similar to patterns reported elsewhere in the species’ range (<xref ref-type="bibr" rid="ref-66">Monterroso, Alves &amp; Ferreras, 2013</xref>; <xref ref-type="bibr" rid="ref-114">Zalewski, 2007</xref>; <xref ref-type="bibr" rid="ref-115">Zielinski, Spencer &amp; Barrett, 1983</xref>). Previous studies have suggested that pine marten activity patterns may be linked to those of prey species (<xref ref-type="bibr" rid="ref-115">Zielinski, Spencer &amp; Barrett, 1983</xref>). The relationship between predator and prey is highlighted by the suggestion that pine martens may play a role in the control of the invasive grey squirrel, to the benefit of the native red (<xref ref-type="bibr" rid="ref-91">Sheehy &amp; Lawton, 2014</xref>). Pine marten activity in this study overlapped considerably with that of the wood mouse in summer and winter. Studies indicate the importance of wood mice to pine marten in Ireland in the absence of field voles (<xref ref-type="bibr" rid="ref-56">Lynch &amp; McCann, 2007</xref>; <xref ref-type="bibr" rid="ref-72">O’Meara et al., 2013</xref>; J. P. Twining, 2018, unpublished data) and seasonal comparisons, in particular, show that wood mice are a major food source in all seasons but autumn (J. P. Twining, 2018, unpublished data) which is reflected in the correlation of activity reported here.</p>
+<p>Squirrel activity peaked several hours after dawn and ceased before sunset. The species were almost exclusively diurnal between seasons, with detections occurring throughout the day (<xref ref-type="bibr" rid="ref-102">Tonkin, 1983</xref>; <xref ref-type="bibr" rid="ref-33">Gurnell &amp; Hare, 2008</xref>). There was some evidence of variation of circadian patterns between seasons, with detections suggesting a bimodal pattern in the summer, and a unimodal pattern in the winter. The bimodularity observed in summer was caused by low activity around midday, possibly in response to increased temperatures (<xref ref-type="bibr" rid="ref-102">Tonkin, 1983</xref>; <xref ref-type="bibr" rid="ref-116">Zub et al., 2013</xref>). Similar seasonal variation in activity has been observed in previous studies (<xref ref-type="bibr" rid="ref-98">Thompson, 1977</xref>; <xref ref-type="bibr" rid="ref-102">Tonkin, 1983</xref>; <xref ref-type="bibr" rid="ref-33">Gurnell &amp; Hare, 2008</xref>). Sunrise/set offsets revealed some crepuscular/diurnal activity, particularly during autumn and winter, behaviour that has not been reported previously (<xref ref-type="bibr" rid="ref-102">Tonkin, 1983</xref>; <xref ref-type="bibr" rid="ref-108">Wauters &amp; Dhondt, 1987</xref>; <xref ref-type="bibr" rid="ref-109">Wauters, Swinnen &amp; Dhondt, 1992</xref>). Foraging animals balance the risk of predation against the benefits of energy gains (<xref ref-type="bibr" rid="ref-20">Dammhahn &amp; Almeling, 2012</xref>) and the acuity of squirrel eyesight is sub-optimal in low-light conditions (i.e. dawn/dusk; <xref ref-type="bibr" rid="ref-42">Jacobs, Birch &amp; Blakeslee, 1982</xref>). Crepuscular activity may, therefore, be a response to local, diurnal predator activity, thus rendering an apparently suboptimal strategy contextually advantageous (<xref ref-type="bibr" rid="ref-20">Dammhahn &amp; Almeling, 2012</xref>). The drivers of the observed crepuscular behaviour are, however, unknown and are worthy of further study.</p>
+<p>Wood mice were nocturnal, although there was an increase in crepuscular and diurnal activity recorded during summer when shorter nights may provide insufficient foraging time for lactating female wood mice to meet their daily energetic requirements. Juveniles recently out of the nest also may be active during daylight hours (I. Montgomery, 2018, personal observation). The species has previously been reported to exhibit temporal variability in activity patterns between seasons (<xref ref-type="bibr" rid="ref-65">Miller &amp; Elton, 1955</xref>; <xref ref-type="bibr" rid="ref-113">Wolton, 1983</xref>). Wood mouse detections were chance occurrences as none of the camera trap projects that comprise this study specifically focussed on small mammals. While small mammals may present identification challenges to camera trap studies (<xref ref-type="bibr" rid="ref-16">Claridge, Paull &amp; Barry, 2010</xref>; <xref ref-type="bibr" rid="ref-60">Meek &amp; Vernes, 2016</xref>), wood mice were attracted to arboreal baiting stations, often being the most recorded species. In contrast to other small mammals in Ireland, wood mice are known to be arboreal, so the methodology used could be applied elsewhere in the world to improve our knowledge of cryptic small mammals.</p>
+<p>Anti-predator behaviours, which include avoidance (<xref ref-type="bibr" rid="ref-17">Curé et al., 2013</xref>), facilitate the survival of prey by mitigating predation (<xref ref-type="bibr" rid="ref-92">Sih &amp; Christensen, 2001</xref>). In the current study, foxes consistently occurred in sympatry with hares and rabbits, both of which are putative prey species (<xref ref-type="bibr" rid="ref-82">Reynolds &amp; Aebischer, 1991</xref>). Both predator-prey annual cross-correlations indicated that foxes and lagomorphs are likely to be active simultaneously. In temperate zones, foxes typically mate in late winter/early spring; litters may contain up to 12 cubs, with food availability being a significant factor (<xref ref-type="bibr" rid="ref-50">Larivière &amp; Pasitschniak-Arts, 1996</xref>). Here we describe foxes as becoming increasingly crepuscular in late-spring and summer, thus increasing the potential for temporal overlap with both species of lagomorph. This suggests that predation of these species may increase during the fox breeding season. Indeed, lagomorphs may become an increasingly important food source as the cubs grow, particularly if the vixen has many offspring, as both lagomorphs are amongst the most substantial meals available to a medium-sized terrestrial predator in Northern Ireland. Given the relative lack of carnivores in the country, we can be reasonably confident that the behavioural repertoires of both hares and rabbits in Northern Ireland include fox-specific anti-predator behaviours. Pine marten and squirrels showed a direct negative correlation in the annual comparison, as well as during spring, summer, and winter. Thus, predator and prey activity are simultaneously different (i.e. when pine martens are most active, squirrels are least active and vice-versa). Squirrels are also subject to predation by diurnal birds of prey (<xref ref-type="bibr" rid="ref-75">Petty, Lurz &amp; Rushton, 2003</xref>); by avoiding nocturnal predators, the animals become diurnally vulnerable. However, while squirrels have relatively poor nocturnal vision (<xref ref-type="bibr" rid="ref-2">Arden &amp; Silver, 1962</xref>); their spatial acuity improves under brighter conditions (<xref ref-type="bibr" rid="ref-42">Jacobs, Birch &amp; Blakeslee, 1982</xref>). Foraging during the night thus greatly increases the risk of predation.</p>
+<p>It was not possible to optimise the present study <italic>a priori</italic>, comprising, as it does, several individually-designed surveys. For example, there was considerable variation in the effective densities of camera trapping arrays. Higher density arrays increase the chances of capturing an animal in-transit, being placed near a resting site (i.e. sett, drey, form, etc.), and capturing the focal species if it occurs at low densities. Camera trap surveys, therefore, would ideally consistently use high-density arrays to return an abundance of data. This is rarely feasible, however, given time, personnel, and financial constraints, all of which were limiting factors to the contributing surveys, though, the involvement of trained citizen scientists spreads workload and increases the amount or data available for analysis (<xref ref-type="bibr" rid="ref-96">Swanson et al., 2015</xref>). However, one of the key strengths of camera trap research is the ability to collate data from disparate, methodologically unique studies to describe fundamental ecological parameters. Moreover, the potential importance of bycatch data from camera trap surveys cannot be over-stated and it is important that data can be aggregated across independent surveys to answer relevant questions.</p>
+<p>In contrast to terrestrial animals that move on a 2D plain, arboreal animals move within 3D space, thus decreasing the likelihood of a random capture in transit. Squirrels were enticed to specific locations for image capture by the use of baited stations. While baiting is certainly effective, it is not without its problems. For example, animals may identify bait stations as a reliable source of food, and thus frequently revisit them, thereby inflating counts (<xref ref-type="bibr" rid="ref-86">Rowcliffe &amp; Carbone, 2008</xref>). Moreover, feeding animals may spend a considerable amount of time in front of the camera if undisturbed than those captured in transit, again affecting interpretations. The degree of uncertainty increases considerably where the focal species does not exhibit individually-identifiable colouration or markings. Captures from baited stations, therefore, may only represent one, or a handful of individuals (<xref ref-type="bibr" rid="ref-104">Trolle &amp; Kéry, 2003</xref>; <xref ref-type="bibr" rid="ref-111">Weckel, Giuliano &amp; Silver, 2006</xref>). However, the present study is only concerned with activity, and, hence, the detection of any individual during a given time period was assumed to be representative of the species as a whole.</p>
+<p>It should also be noted that the data used in the present study are uncorrected for detection probability. Thus, observed patterns could represent changes in animal activity, abundance or detectability over time. For example, ambient noise can affect individual behaviour (<xref ref-type="bibr" rid="ref-31">Francis &amp; Barber, 2013</xref>), subsequently impacting the number of detections recorded during camera trap surveys along with associated data and inferences. While we acknowledge that many factors will impact the detectability of a species, including the height of emergent vegetation, camera placement, lighting condition (e.g. daytime/night time) and the density and behaviour of the focal species (<xref ref-type="bibr" rid="ref-120">O’Brien, Kinnaird &amp; Wibisono, 2003</xref>; <xref ref-type="bibr" rid="ref-87">Royle &amp; Nichols, 2003</xref>; <xref ref-type="bibr" rid="ref-93">Silveira, Jácomo &amp; Diniz-Filho, 2003</xref>; <xref ref-type="bibr" rid="ref-51">Larrucea et al., 2007</xref>; <xref ref-type="bibr" rid="ref-35">Harmsen et al., 2010</xref>; <xref ref-type="bibr" rid="ref-70">O’Connell, Nichols &amp; Karanth, 2010</xref>; <xref ref-type="bibr" rid="ref-15">Chandler, Royle &amp; King, 2011</xref>; <xref ref-type="bibr" rid="ref-59">Meek et al., 2014</xref>; <xref ref-type="bibr" rid="ref-18">Cusack et al., 2015</xref>; <xref ref-type="bibr" rid="ref-58">Meek, Ballard &amp; Falzon, 2016</xref>), we are confident that, given our sample sizes, the data presented herein reflect actual activity patterns of the reported species.</p>
+<p>Understanding the activity patterns of wildlife, and seasonal variations thereof, is of considerable benefit in furthering our understanding of species ecologies and informing future research (e.g. the development and application of efficient ecological surveys), thus paving the way for the development of appropriate management policies and/or conservation programmes. Knowing when a species is most or least likely to be active can lead to considerable methodological improvements, including potentially reducing the probability of achieving false-negatives, particularly for scarce or cryptic species. Camera trap surveys seeking to investigate circadian and intra-annual species activity patterns should, ideally, be conducted over the course of an entire year, focussing on areas which the focal species are known to frequent, and employing a large number of traps. Furthermore, additional data such as climate, topography and habitat may further inform interpretations and facilitate the application of statistical models. While the temporal distribution of data herein are arguably suboptimal due to the application of varied (i.e. non-standardised) methodologies, and environmental data are lacking, they are nevertheless of great utility in describing fundamental aspects of species’ ecologies.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>Camera traps allow practitioners to concurrently survey across a wide range of species and habitats, providing data that may be of great utility in informing subsequent investigations and/or answering important ecological questions. In the present study, we draw together several disparate, and very different camera trap surveys to describe fundamental behavioural parameters of 10 mammal species. We found that focal-species-specific and associated bycatch data derived from camera traps are effective in providing insight into the daily lives of mammals. In particular, they have provided an effective means of describing circadian activity patterns and seasonal variations in temporal activity. In addition, they have utility in investigating temporal aspects of interspecific interactions and directing further research into such relationships. Invasive alien species are an ongoing issue and mitigating the threats posed to Irish hares and red squirrels by their respective conspecifics and potential predators requires accurate ecological data to effectively guide conservation efforts. Furthermore, prey switching is an issue with regards to carnivores of conservation interest (e.g. pine martens) and shifts in the activity patterns of disease vectors (e.g. deer, badgers) are relevant to their control. As many of the species described herein are of economic, management and/or conservation interest, our data will help inform the development of appropriate species-specific methodologies and processes and associated policies.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5827/Fig_S1.png">
+<object-id pub-id-type="doi">10.7717/peerj.5827/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Figure S1. Activity patterns of European hares (<italic>Lepus europeaus</italic>) and Irish hares (<italic>L. timidus hibernicus</italic>).</title>
+<p>Due to the close similarities in activity patterns, species were grouped as ‘hares’ for the purposes of this study.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5827/Fig_S2.png">
+<object-id pub-id-type="doi">10.7717/peerj.5827/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Figure S2. Activity patterns of grey squirrels (<italic>Sciurus carolinensis</italic>) and red squirrels (<italic>Sciurus vulgaris</italic>) and Irish hares (<italic>L. timidus hibernicus</italic>).</title>
+<p>Due to the close similarities in activity patterns, species were grouped as ‘squirrels’ for the purposes of this study.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5827/Fig_S3.png">
+<object-id pub-id-type="doi">10.7717/peerj.5827/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Figure S3. Survey sites with detections of one of ten mammal species observed in camera trap studies in Northern Ireland.</title>
+<p><bold>(a)</bold> Badger (<italic>Meles meles</italic>), <bold>(b)</bold> fallow deer (<italic>Dama dama</italic>), <bold>(c)</bold> fox (<italic>Vulpes vulpes</italic>), <bold>(d)</bold> hare (Irish hare, <italic>Lepus timidus hibernicus</italic> and European hare, <italic>L. europaeus</italic>), <bold>(e)</bold> pine marten (<italic>Martes martes</italic>), <bold>(f)</bold> rabbit (<italic>Oryctolagus cuniculus</italic>), <bold>(g)</bold> squirrel (grey squirrel, <italic>Sciurus carolinensis</italic> and red squirrel, <italic>S. vulgaris</italic>), and <bold>(h)</bold> wood mouse (<italic>Apodemus sylvaticus</italic>). • = species detected at that location; ○ = species not detected at that location.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5827/Fig_S4.png">
+<object-id pub-id-type="doi">10.7717/peerj.5827/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Figure S4. Overlap between diel activity patterns of (A) fox and hare, (B) fox and rabbit, (C) fox and wood mouse, (D) pine marten and squirrel, and (E) pine marten and wood mouse.</title>
+<p>The overlap coefficient (Δ) ± 95% Confidence Intervals (CIs) are also given.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>Thanks to the great many support staff, fieldworkers and landowners who were involved in the surveys which contributed to this manuscript. We also thank three reviewers, whose feedback helped guide improvements to the manuscript.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Anthony Caravaggi</xref> conceived and designed the experiments, performed the experiments, analysed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Maria Gatta</xref> analysed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Marie-Claire Vallely</xref> contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Kayleigh Hogg</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Marianne Freeman</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Erfan Fadaei</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-7">
+<p><xref ref-type="contrib" rid="author-7">Jaimie T.A. Dick</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-8">
+<p><xref ref-type="contrib" rid="author-8">W. Ian Montgomery</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-9">
+<p><xref ref-type="contrib" rid="author-9">Neil Reid</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-10">
+<p><xref ref-type="contrib" rid="author-10">David G. Tosh</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>GitHub: <uri xlink:href="https://github.com/arcaravaggi/PeerJ_mammal_activity">https://github.com/arcaravaggi/PeerJ_mammal_activity</uri></p>
+<p>Caravaggi A, Gatta M, Vallely M-C, Hogg K, Freeman M, Fadei E, Dick J, Montgomery WI, Reid N, Tosh D. 2018. arcaravaggi/PeerJ_mammal_activity: Code &amp; data archive (Version v1.0.0). Zenodo. <uri xlink:href="http://doi.org/10.5281/zenodo.1420397">http://doi.org/10.5281/zenodo.1420397</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Allen, Peterson &amp; Krofel (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Allen</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Peterson</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Krofel</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>No respect for apex carnivores: distribution and activity patterns of honey badgers in the Serengeti</article-title>
+<source>Mammalian Biology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>89</volume>
+<fpage>90</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mambio.2018.01.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-121">
+<label>Allen et al. (2018a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Allen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Poggiali</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Whitaker</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>TR</given-names>
+</name>
+<name>
+<surname>Kievit</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Raincloud plots: a multi-platform tool for robust data visualization</article-title>
+<source>PeerJ Preprints</source>
+<year iso-8601-date="2018a">2018a</year>
+<volume>6</volume>
+<elocation-id>e27137v1</elocation-id>
+<pub-id pub-id-type="doi">10.7287/peerj.preprints.27137v1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-122">
+<label>Allen et al. (2018b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Allen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Poggiali</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Whitaker</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>TR</given-names>
+</name>
+<name>
+<surname>Kievit</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>RainCloudPlots tutorials and codebase</article-title>
+<source>Zenodo</source>
+<version designator="1.0">Version v1.0</version>
+<year iso-8601-date="2018b">2018b</year>
+<pub-id pub-id-type="doi">10.5281/zenodo.1402959</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Arden &amp; Silver (1962)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arden</surname>
+<given-names>GB</given-names>
+</name>
+<name>
+<surname>Silver</surname>
+<given-names>PH</given-names>
+</name>
+</person-group>
+<article-title>Visual thresholds and spectral sensitivities of the grey squirrel (<italic>Sciurus carolinensis leucotis</italic>)</article-title>
+<source>Journal of Physiology</source>
+<year iso-8601-date="1962">1962</year>
+<volume>163</volume>
+<issue>3</issue>
+<fpage>540</fpage>
+<lpage>557</lpage>
+<pub-id pub-id-type="doi">10.1113/jphysiol.1962.sp006992</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Ashby (1972)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ashby</surname>
+<given-names>KR</given-names>
+</name>
+</person-group>
+<article-title>Patterns of daily activity in mammals</article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="1972">1972</year>
+<volume>1</volume>
+<issue>7–8</issue>
+<fpage>171</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2907.1972.tb00088.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Baker &amp; Harris (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baker</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Harris</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Does culling reduce fox (<italic>Vulpes vulpes</italic>) density in commercial forests in Wales, UK?</article-title>
+<source>European Journal of Wildlife Research</source>
+<year iso-8601-date="2006">2006</year>
+<volume>52</volume>
+<issue>2</issue>
+<fpage>99</fpage>
+<lpage>108</lpage>
+<pub-id pub-id-type="doi">10.1007/s10344-005-0018-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Bennie et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bennie</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Duffy</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Inger</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Gaston</surname>
+<given-names>KJ</given-names>
+</name>
+</person-group>
+<article-title>Biogeography of time partitioning in mammals</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2014">2014</year>
+<volume>111</volume>
+<issue>38</issue>
+<fpage>13727</fpage>
+<lpage>13732</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1216063110</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Bradley (1967)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bradley</surname>
+<given-names>WG</given-names>
+</name>
+</person-group>
+<article-title>Home range, activity patterns, and ecology of the antelope ground squirrel in southern Nevada</article-title>
+<source>Southwestern Naturalist</source>
+<year iso-8601-date="1967">1967</year>
+<volume>12</volume>
+<issue>3</issue>
+<fpage>231</fpage>
+<lpage>251</lpage>
+<pub-id pub-id-type="doi">10.2307/3669112</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Bridges &amp; Noss (2011)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bridges</surname>
+<given-names>AS</given-names>
+</name>
+<name>
+<surname>Noss</surname>
+<given-names>AJ</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>O’Connell</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Karanth</surname>
+<given-names>KU</given-names>
+</name>
+</person-group>
+<article-title>Behaviour and activity patterns</article-title>
+<source>Camera Traps in Animal Ecology: Methods and Analyses</source>
+<year iso-8601-date="2011">2011</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>57</fpage>
+<lpage>69</lpage>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Cagnacci et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cagnacci</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Boitani</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Powell</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Boyce</surname>
+<given-names>MS</given-names>
+</name>
+</person-group>
+<article-title>Animal ecology meets GPS-based radiotelemetry: a perfect storm of opportunities and challenges</article-title>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2010">2010</year>
+<volume>365</volume>
+<issue>1550</issue>
+<fpage>2157</fpage>
+<lpage>2162</lpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2010.0107</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Caravaggi et al. (2018)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Caravaggi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Gatta</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Vallely</surname>
+<given-names>M-C</given-names>
+</name>
+<name>
+<surname>Hogg</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Freeman</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fadei</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Dick</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Tosh</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<data-title>arcaravaggi/PeerJ_mammal_activity: Code &amp; data archive</data-title>
+<year iso-8601-date="2018">2018</year>
+<version designator="1.2.1">Version v1.2.1</version>
+<comment>Zenodo</comment>
+<pub-id pub-id-type="doi">10.5281/zenodo.1470320</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Caravaggi, Montgomery &amp; Reid (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caravaggi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares <italic>Lepus europaeus</italic> and endemic Irish hares <italic>Lepus timidus hibernicus</italic></article-title>
+<source>Biological Invasions</source>
+<year iso-8601-date="2015">2015</year>
+<volume>17</volume>
+<issue>2</issue>
+<fpage>687</fpage>
+<lpage>698</lpage>
+<pub-id pub-id-type="doi">10.1007/s10530-014-0759-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Caravaggi et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caravaggi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Zaccaroni</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Riga</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Schai-Braun</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Dick</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>An invasive-native mammalian species replacement process captured by camera trap survey random encounter models</article-title>
+<source>Remote Sensing in Ecology and Conservation</source>
+<year iso-8601-date="2016">2016</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>45</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1002/rse2.11</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Carbajal-Borges, Godínez-Gómez &amp; Mendoza (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Carbajal-Borges</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Godínez-Gómez</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Mendoza</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Density, abundance and activity patterns of the endangered <italic>Tapirus bairdii</italic> in one of its last strongholds in southern Mexico</article-title>
+<source>Tropical Conservation Science</source>
+<year iso-8601-date="2014">2014</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>100</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="doi">10.1177/194008291400700102</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Carden et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Carden</surname>
+<given-names>RF</given-names>
+</name>
+<name>
+<surname>Carlin</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Marnell</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>McElholm</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Hetherington</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Gammell</surname>
+<given-names>MP</given-names>
+</name>
+</person-group>
+<article-title>Distribution and range expansion of deer in Ireland</article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="2011">2011</year>
+<volume>41</volume>
+<issue>4</issue>
+<fpage>313</fpage>
+<lpage>325</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2907.2010.00170.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Caryl et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caryl</surname>
+<given-names>FM</given-names>
+</name>
+<name>
+<surname>Raynor</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Quine</surname>
+<given-names>CP</given-names>
+</name>
+<name>
+<surname>Park</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>The seasonal diet of British pine marten determined from genetically identified scats</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>288</volume>
+<issue>4</issue>
+<fpage>252</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.2012.00951.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Chandler, Royle &amp; King (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chandler</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Royle</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>King</surname>
+<given-names>DI</given-names>
+</name>
+</person-group>
+<article-title>Inference about density and temporary emigration in unmarked populations</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>92</volume>
+<issue>7</issue>
+<fpage>1429</fpage>
+<lpage>1435</lpage>
+<pub-id pub-id-type="doi">10.1890/10-2433.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Claridge, Paull &amp; Barry (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Claridge</surname>
+<given-names>AW</given-names>
+</name>
+<name>
+<surname>Paull</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Barry</surname>
+<given-names>SC</given-names>
+</name>
+</person-group>
+<article-title>Detection of medium-sized ground-dwelling mammals using infrared digital cameras: an alternative way forward?</article-title>
+<source>Australian Mammalogy</source>
+<year iso-8601-date="2010">2010</year>
+<volume>32</volume>
+<issue>2</issue>
+<fpage>165</fpage>
+<lpage>171</lpage>
+<pub-id pub-id-type="doi">10.1071/am09039</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Curé et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Curé</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Antunes</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Alves</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Visser</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Kvadsheim</surname>
+<given-names>PH</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>PJO</given-names>
+</name>
+</person-group>
+<article-title>Responses of male sperm whales (<italic>Physeter macrocephalus</italic>) to killer whale sounds: implications for anti-predator strategies</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2013">2013</year>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>1579</fpage>
+<pub-id pub-id-type="doi">10.1038/srep01579</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Cusack et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cusack</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Dickman</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Rowcliffe</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Carbone</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Macdonald</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Coulson</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Random versus game trail-based camera trap placement strategy for monitoring terrestrial mammal communities</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2015">2015</year>
+<volume>10</volume>
+<issue>5</issue>
+<elocation-id>e0126373</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0126373</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Daan (1981)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Daan</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Aschoff</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Adaptive daily strategies in behavior</article-title>
+<source>Biological Rhythms</source>
+<year iso-8601-date="1981">1981</year>
+<publisher-loc>Boston</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>275</fpage>
+<lpage>298</lpage>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Dammhahn &amp; Almeling (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dammhahn</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Almeling</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Is risk taking during foraging a personality trait? A field test for cross-context consistency in boldness</article-title>
+<source>Animal Behaviour</source>
+<year iso-8601-date="2012">2012</year>
+<volume>84</volume>
+<issue>5</issue>
+<fpage>1131</fpage>
+<lpage>1139</lpage>
+<pub-id pub-id-type="doi">10.1016/j.anbehav.2012.08.014</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-119">
+<label>De Bondi et al. (2010)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>De Bondi</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Stevens</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Cooke</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>A comparison of the effectiveness of camera trapping and live trapping for sampling terrestrial small-mammal communities</article-title>
+<source>Wildlife research</source>
+<year iso-8601-date="2010">2010</year>
+<volume>37</volume>
+<issue>6</issue>
+<fpage>456</fpage>
+<lpage>465</lpage>
+<pub-id pub-id-type="doi">10.1071/WR10046</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Department of Agriculture, Environment and Rural Affairs (2018)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>Department of Agriculture, Environment and Rural Affairs</institution>
+</collab>
+</person-group>
+<source>Statistical Review of Northern Ireland Agriculture 2017</source>
+<year iso-8601-date="2018">2018</year>
+<publisher-loc>Belfast</publisher-loc>
+<publisher-name>DAERA</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Di Cerbo &amp; Biancardi (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Di Cerbo</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Biancardi</surname>
+<given-names>CM</given-names>
+</name>
+</person-group>
+<article-title>Monitoring small and arboreal mammals by camera traps: effectiveness and applications</article-title>
+<source>Acta Theriologica</source>
+<year iso-8601-date="2013">2013</year>
+<volume>58</volume>
+<issue>3</issue>
+<fpage>279</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="doi">10.1007/s13364-012-0122-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Díaz-Ruiz et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Díaz-Ruiz</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Caro</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Delibes-Mateos</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Arroyo</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Ferreras</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Drivers of red fox (<italic>Vulpes vulpes</italic>) daily activity: prey availability, human disturbance or habitat structure?</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>298</volume>
+<issue>2</issue>
+<fpage>128</fpage>
+<lpage>138</lpage>
+<pub-id pub-id-type="doi">10.1111/jzo.12294</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Elton et al. (1931)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Elton</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ford</surname>
+<given-names>EB</given-names>
+</name>
+<name>
+<surname>Baker</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Gardner</surname>
+<given-names>AD</given-names>
+</name>
+</person-group>
+<article-title>The health and parasites of a wild mouse population</article-title>
+<source>Proceedings of the Zoological Society of London</source>
+<year iso-8601-date="1931">1931</year>
+<volume>101</volume>
+<issue>3</issue>
+<fpage>657</fpage>
+<lpage>721</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1096-3642.1931.tb01037.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Ensing et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ensing</surname>
+<given-names>EP</given-names>
+</name>
+<name>
+<surname>Ciuti</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>De Wijs</surname>
+<given-names>FA</given-names>
+</name>
+<name>
+<surname>Lentferink</surname>
+<given-names>DH</given-names>
+</name>
+<name>
+<surname>Ten Hoedt</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Boyce</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Hut</surname>
+<given-names>RA</given-names>
+</name>
+</person-group>
+<article-title>GPS based daily activity patterns in European red deer and North American elk (<italic>Cervus elaphus</italic>): indication for a weak circadian clock in ungulates</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014">2014</year>
+<volume>9</volume>
+<issue>9</issue>
+<elocation-id>e106997</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0106997</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Fairley (1970)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fairley</surname>
+<given-names>JS</given-names>
+</name>
+</person-group>
+<article-title>The food, reproduction, form, growth and development of the fox <italic>Vulpes vulpes</italic> (L.) in North-East Ireland</article-title>
+<source>Proceedings of the Royal Irish Academy</source>
+<year iso-8601-date="1970">1970</year>
+<volume>69</volume>
+<fpage>103</fpage>
+<lpage>137</lpage>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Fenn &amp; Macdonald (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fenn</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Macdonald</surname>
+<given-names>DW</given-names>
+</name>
+</person-group>
+<article-title>Use of middens by red foxes: risk reverses rhythms of rats</article-title>
+<source>Journal of Mammalogy</source>
+<year iso-8601-date="1995">1995</year>
+<volume>76</volume>
+<issue>1</issue>
+<fpage>130</fpage>
+<lpage>136</lpage>
+<pub-id pub-id-type="doi">10.2307/1382321</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Flux &amp; Angermann (1990)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Flux</surname>
+<given-names>JEC</given-names>
+</name>
+<name>
+<surname>Angermann</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Chapman</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Flux</surname>
+<given-names>JEC</given-names>
+</name>
+</person-group>
+<article-title>The hares and jackrabbits</article-title>
+<source>Rabbits, Hares and Pikas: Status Survey and Conservation Action Plan</source>
+<year iso-8601-date="1990">1990</year>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>IUCN/SSC Lagomorph Specialist Group</publisher-name>
+<fpage>76</fpage>
+<lpage>78</lpage>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Forestry Comission (2018)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>Forestry Comission</institution>
+</collab>
+</person-group>
+<source>Woodland area, planting and publicly funded restocking. 2018 edition, first release</source>
+<year iso-8601-date="2018">2018</year>
+<publisher-loc>Edinburgh</publisher-loc>
+<publisher-name>IFOS-Statistics, Forest Research</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Francis &amp; Barber (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Francis</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Barber</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>A framework for understanding noise impacts on wildlife: an urgent conservation priority</article-title>
+<source>Frontiers in Ecology and the Environment</source>
+<year iso-8601-date="2013">2013</year>
+<volume>11</volume>
+<issue>6</issue>
+<fpage>305</fpage>
+<lpage>313</lpage>
+<pub-id pub-id-type="doi">10.1890/120183</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Griffin et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Griffin</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>DH</given-names>
+</name>
+<name>
+<surname>Kelly</surname>
+<given-names>GE</given-names>
+</name>
+<name>
+<surname>Clegg</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>O’Boyle</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Collins</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>More</surname>
+<given-names>SJ</given-names>
+</name>
+</person-group>
+<article-title>The impact of badger removal on the control of tuberculosis in cattle herds in Ireland</article-title>
+<source>Preventive Veterinary Medicine</source>
+<year iso-8601-date="2005">2005</year>
+<volume>67</volume>
+<issue>4</issue>
+<fpage>237</fpage>
+<lpage>266</lpage>
+<pub-id pub-id-type="doi">10.1016/j.prevetmed.2004.10.009</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Gurnell &amp; Hare (2008)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Gurnell</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Hare</surname>
+<given-names>EJ</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Harris</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Yalden</surname>
+<given-names>DW</given-names>
+</name>
+</person-group>
+<article-title>Rodents</article-title>
+<source>Mammals of the British Isles</source>
+<year iso-8601-date="2008">2008</year>
+<publisher-loc>Southampton</publisher-loc>
+<publisher-name>The Mammal Society</publisher-name>
+<fpage>54</fpage>
+<lpage>199</lpage>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Halle &amp; Stenseth (2000)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Halle</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Stenseth</surname>
+<given-names>NC</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Halle</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Stenseth</surname>
+<given-names>NC</given-names>
+</name>
+</person-group>
+<article-title>Introduction</article-title>
+<source>Activity Patterns in Small Mammals—An Ecological Approach</source>
+<year iso-8601-date="2000">2000</year>
+<publisher-loc>Berlin</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>3</fpage>
+<lpage>17</lpage>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Harmsen et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harmsen</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Foster</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Silver</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ostro</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Doncaster</surname>
+<given-names>CP</given-names>
+</name>
+</person-group>
+<article-title>Differential use of trails by forest mammals and the implications for camera-trap studies: a case study from Belize</article-title>
+<source>Biotropica</source>
+<year iso-8601-date="2010">2010</year>
+<volume>42</volume>
+<issue>1</issue>
+<fpage>126</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1744-7429.2009.00544.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Hertel et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hertel</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Zedrosser</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Mysterud</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Støen</surname>
+<given-names>OG</given-names>
+</name>
+<name>
+<surname>Steyaert</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Swenson</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Temporal effects of hunting on foraging behavior of an apex predator: do bears forego foraging when risk is high?</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="2016">2016</year>
+<volume>182</volume>
+<issue>4</issue>
+<fpage>1019</fpage>
+<lpage>1029</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-016-3729-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Hetem et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hetem</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Strauss</surname>
+<given-names>WM</given-names>
+</name>
+<name>
+<surname>Fick</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Maloney</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Meyer</surname>
+<given-names>LCR</given-names>
+</name>
+<name>
+<surname>Shobrak</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fuller</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Mitchell</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Does size matter? Comparison of body temperature and activity of free-living Arabian oryx (<italic>Oryx leucoryx</italic>) and the smaller Arabian sand gazelle (<italic>Gazella subgutturosa marica</italic>) in the Saudi desert</article-title>
+<source>Journal of Comparative Physiology B</source>
+<year iso-8601-date="2012">2012</year>
+<volume>182</volume>
+<issue>3</issue>
+<fpage>437</fpage>
+<lpage>449</lpage>
+<pub-id pub-id-type="doi">10.1007/s00360-011-0620-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>HM Nautical Almanac Office (2016)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>
+<institution>HM Nautical Almanac Office</institution>
+</collab>
+</person-group>
+<article-title>HM nautical almanac office: on-line data</article-title>
+<year iso-8601-date="2016">2016</year>
+<uri>http://astro.ukho.gov.uk/nao/online/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2016-02-17">17 February 2016</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Hofmeester, Rowcliffe &amp; Jansen (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hofmeester</surname>
+<given-names>TR</given-names>
+</name>
+<name>
+<surname>Rowcliffe</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Jansen</surname>
+<given-names>PA</given-names>
+</name>
+</person-group>
+<article-title>A simple method for estimating the effective detection distance of camera traps</article-title>
+<source>Remote Sensing in Ecology and Conservation</source>
+<year iso-8601-date="2017">2017</year>
+<volume>3</volume>
+<issue>2</issue>
+<fpage>81</fpage>
+<lpage>89</lpage>
+<pub-id pub-id-type="doi">10.1002/rse2.25</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Holley (1992)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Holley</surname>
+<given-names>AJF</given-names>
+</name>
+</person-group>
+<article-title>Studies on the biology of the brown hare (<italic>Lepus europaeus</italic>) with particular reference to behaviour</article-title>
+<year iso-8601-date="1992">1992</year>
+<comment>PhD thesis</comment>
+<institution>Durham University</institution>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Hoogenboom et al. (1984)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoogenboom</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Daan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Dallinga</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Schoenmakers</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Seasonal change in the daily timing of behaviour of the common vole, <italic>Microtus arvalis</italic></article-title>
+<source>Oecologia</source>
+<year iso-8601-date="1984">1984</year>
+<volume>61</volume>
+<issue>1</issue>
+<fpage>18</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1007/bf00379084</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Jacobs, Birch &amp; Blakeslee (1982)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jacobs</surname>
+<given-names>GH</given-names>
+</name>
+<name>
+<surname>Birch</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>Blakeslee</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Visual acuity and spatial contrast sensitivity in tree squirrels</article-title>
+<source>Behavioural Processes</source>
+<year iso-8601-date="1982">1982</year>
+<volume>7</volume>
+<issue>4</issue>
+<fpage>367</fpage>
+<lpage>375</lpage>
+<pub-id pub-id-type="doi">10.1016/0376-6357(82)90008-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Jones et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>KR</given-names>
+</name>
+<name>
+<surname>Bielby</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cardillo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fritz</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>O’Dell</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Orme</surname>
+<given-names>CDL</given-names>
+</name>
+<name>
+<surname>Safi</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Sechrest</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Boakes</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Carbone</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Connolly</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Cutts</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Foster</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Grenyer</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Habib</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Plaster</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Price</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Rigby</surname>
+<given-names>EA</given-names>
+</name>
+<name>
+<surname>Rist</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Teacher</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Bininda-Emonds</surname>
+<given-names>ORP</given-names>
+</name>
+<name>
+<surname>Gittleman</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Mace</surname>
+<given-names>GM</given-names>
+</name>
+<name>
+<surname>Purvis</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>PanTHERIA: a species-level database of life history, ecology, and geography of extant and recently extinct mammals</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>90</volume>
+<issue>9</issue>
+<fpage>2648</fpage>
+<pub-id pub-id-type="doi">10.1890/08-1494.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Karanth et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Karanth</surname>
+<given-names>KU</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>NS</given-names>
+</name>
+<name>
+<surname>Hines</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Assessing tiger population dynamics using photographic capture–recapture sampling</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>87</volume>
+<issue>11</issue>
+<fpage>2925</fpage>
+<lpage>2937</lpage>
+<pub-id pub-id-type="doi">10.1890/0012-9658(2006)87[2925:atpdup]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Kays &amp; Slauson (2008)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kays</surname>
+<given-names>RW</given-names>
+</name>
+<name>
+<surname>Slauson</surname>
+<given-names>KM</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Long</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>MacKay</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zielinski</surname>
+<given-names>WJ</given-names>
+</name>
+<name>
+<surname>Ray</surname>
+<given-names>JC</given-names>
+</name>
+</person-group>
+<article-title>Remote cameras</article-title>
+<source>Noninvasive Survey Methods for Carnivores</source>
+<year iso-8601-date="2008">2008</year>
+<publisher-loc>Washington, D.C.</publisher-loc>
+<publisher-name>Island Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Kronfeld-Schor &amp; Dayan (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kronfeld-Schor</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Dayan</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Partitioning of time as an ecological resource</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2003">2003</year>
+<volume>34</volume>
+<issue>1</issue>
+<fpage>153</fpage>
+<lpage>181</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.ecolsys.34.011802.132435</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Kucera &amp; Barrett (2011)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kucera</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Barrett</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>O’Connell</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Karanth</surname>
+<given-names>KU</given-names>
+</name>
+</person-group>
+<article-title>A history of camera trapping</article-title>
+<source>Camera Traps in Animal Ecology: Methods and Analysis</source>
+<year iso-8601-date="2011">2011</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>9</fpage>
+<lpage>26</lpage>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Langbein et al. (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Langbein</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Hutchings</surname>
+<given-names>MR</given-names>
+</name>
+<name>
+<surname>Harris</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Stoate</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Tapper</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Wray</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Techniques for assessing the abundance of brown hares <italic>Lepus europaeus</italic></article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="1999">1999</year>
+<volume>29</volume>
+<issue>2</issue>
+<fpage>93</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2907.1999.00040.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Larivière, Huot &amp; Samson (1994)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Larivière</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Huot</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Samson</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Daily activity patterns of female black bears in a northern mixed-forest environment</article-title>
+<source>Journal of Mammalogy</source>
+<year iso-8601-date="1994">1994</year>
+<volume>75</volume>
+<issue>3</issue>
+<fpage>613</fpage>
+<lpage>620</lpage>
+<pub-id pub-id-type="doi">10.2307/1382508</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Larivière &amp; Pasitschniak-Arts (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Larivière</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pasitschniak-Arts</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title><italic>Vulpes vulpes</italic></article-title>
+<source>Mammalian Species</source>
+<year iso-8601-date="1996">1996</year>
+<volume>537</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.2307/3504236</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Larrucea et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Larrucea</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Brussard</surname>
+<given-names>PF</given-names>
+</name>
+<name>
+<surname>Jaeger</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Barrett</surname>
+<given-names>RH</given-names>
+</name>
+</person-group>
+<article-title>Cameras, coyotes, and the assumption of equal detectability</article-title>
+<source>Journal of Wildlife Management</source>
+<year iso-8601-date="2007">2007</year>
+<volume>71</volume>
+<issue>5</issue>
+<fpage>1682</fpage>
+<lpage>1689</lpage>
+<pub-id pub-id-type="doi">10.2193/2006-407</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Leso &amp; Kropil (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Leso</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Kropil</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Influence of some methodological modifications on trapping efficiency and mortality of small terrestrial mammals (Rodentia)</article-title>
+<source>Lynx</source>
+<year iso-8601-date="2010">2010</year>
+<volume>41</volume>
+<fpage>167</fpage>
+<lpage>173</lpage>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Linkie et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Linkie</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Dinata</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Nugroho</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Haidir</surname>
+<given-names>IA</given-names>
+</name>
+</person-group>
+<article-title>Estimating occupancy of a data deficient mammalian species living in tropical rainforests: Sun bears in the Kerinci Seblat region, Sumatra</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2007">2007</year>
+<volume>137</volume>
+<issue>1</issue>
+<fpage>20</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2007.01.016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Lode (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lode</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Activity pattern of polecats <italic>Mustela putorius</italic> L. in relation to food habits and prey activity</article-title>
+<source>Ethology</source>
+<year iso-8601-date="1995">1995</year>
+<volume>100</volume>
+<issue>4</issue>
+<fpage>295</fpage>
+<lpage>308</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1439-0310.1995.tb00334.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Lovari, Valier &amp; Lucchi (1994)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lovari</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Valier</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Lucchi</surname>
+<given-names>MR</given-names>
+</name>
+</person-group>
+<article-title>Ranging behaviour and activity of red foxes (<italic>Vulpes vulpes</italic>: Mammalia) in relation to environmental variables, in a Mediterranean mixed pinewood</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="1994">1994</year>
+<volume>232</volume>
+<issue>2</issue>
+<fpage>323</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.1994.tb01576.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Lynch &amp; McCann (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lynch</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>McCann</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>The diet of the pine marten (<italic>Martes martes</italic>) in Killarney National Park</article-title>
+<source>Biology &amp; Environment: Proceedings of the Royal Irish Academy</source>
+<year iso-8601-date="2007">2007</year>
+<volume>107</volume>
+<issue>2</issue>
+<fpage>67</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="doi">10.3318/bioe.2007.107.2.67</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Maffei et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Maffei</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Noss</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Cuéllar</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Rumiz</surname>
+<given-names>DI</given-names>
+</name>
+</person-group>
+<article-title>Ocelot (<italic>Felis pardalis</italic>) population densities, activity, and ranging behaviour in the dry forests of eastern Bolivia: data from camera trapping</article-title>
+<source>Journal of Tropical Ecology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>21</volume>
+<issue>3</issue>
+<fpage>349</fpage>
+<lpage>353</lpage>
+<pub-id pub-id-type="doi">10.1017/s0266467405002397</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Meek, Ballard &amp; Falzon (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Meek</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Ballard</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Falzon</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>The higher you go the less you will know: placing camera traps high to avoid theft will affect detection</article-title>
+<source>Remote Sensing in Ecology and Conservation</source>
+<year iso-8601-date="2016">2016</year>
+<volume>2</volume>
+<issue>4</issue>
+<fpage>204</fpage>
+<lpage>211</lpage>
+<pub-id pub-id-type="doi">10.1002/rse2.28</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Meek et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Meek</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Ballard</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Claridge</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kays</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Moseby</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>O’Brien</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>O’Connell</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sanderson</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Swann</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Tobler</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Townsend</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Recommended guiding principles for reporting on camera trapping research</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>23</volume>
+<issue>9</issue>
+<fpage>2321</fpage>
+<lpage>2343</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-014-0712-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Meek &amp; Vernes (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Meek</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Vernes</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Can camera trapping be used to accurately survey and monitor the Hastings River mouse (<italic>Pseudomys oralis</italic>)?</article-title>
+<source>Australian Mammalogy</source>
+<year iso-8601-date="2016">2016</year>
+<volume>38</volume>
+<issue>1</issue>
+<fpage>44</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="doi">10.1071/am15016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Meek, Vernes &amp; Falzon (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Meek</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Vernes</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Falzon</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>On the reliability of expert identification of small-medium sized mammals from camera trap photos</article-title>
+<source>Wildlife Biology in Practice</source>
+<year iso-8601-date="2013">2013</year>
+<volume>9</volume>
+<issue>2</issue>
+<fpage>1</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="doi">10.2461/wbp.2013.9.4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Meredith &amp; Ridout (2017)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Meredith</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ridout</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<data-title>Overlap: estimates of coefficient of overlapping for animal activity patterns</data-title>
+<year iso-8601-date="2017">2017</year>
+<version designator="0.3.0">R Package Version 0.3.0</version>
+<uri>https://CRAN.R-project.org/package=overlap</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-01-07">7 January 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Merrill &amp; Mech (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Merrill</surname>
+<given-names>SB</given-names>
+</name>
+<name>
+<surname>Mech</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>The usefulness of GPS telemetry to study wolf circadian and social activity</article-title>
+<source>Wildlife Society Bulletin</source>
+<year iso-8601-date="2003">2003</year>
+<volume>31</volume>
+<fpage>947</fpage>
+<lpage>960</lpage>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Middleton et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Middleton</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Kauffman</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>McWhirter</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Jimenez</surname>
+<given-names>MD</given-names>
+</name>
+<name>
+<surname>Cook</surname>
+<given-names>RC</given-names>
+</name>
+<name>
+<surname>Cook</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Albeke</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Sawyer</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>PJ</given-names>
+</name>
+</person-group>
+<article-title>Linking anti-predator behaviour to prey demography reveals limited risk effects of an actively hunting large carnivore</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2013">2013</year>
+<volume>16</volume>
+<issue>8</issue>
+<fpage>1023</fpage>
+<lpage>1030</lpage>
+<pub-id pub-id-type="doi">10.1111/ele.12133</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Miller &amp; Elton (1955)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miller</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Elton</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Activity rhythms in the Wood Mouse, <italic>Apodemus sylvaticus</italic> and the Bank Vole, <italic>Clethrionomys glareolus</italic></article-title>
+<source>Proceedings of the Zoological Society of London</source>
+<year iso-8601-date="1955">1955</year>
+<volume>125</volume>
+<issue>3–4</issue>
+<fpage>505</fpage>
+<lpage>519</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1096-3642.1955.tb00613.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Monterroso, Alves &amp; Ferreras (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Monterroso</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Alves</surname>
+<given-names>PC</given-names>
+</name>
+<name>
+<surname>Ferreras</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Catch me if you can: diel activity patterns of mammalian prey and predators</article-title>
+<source>Ethology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>119</volume>
+<issue>12</issue>
+<fpage>1044</fpage>
+<lpage>1056</lpage>
+<pub-id pub-id-type="doi">10.1111/eth.12156</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Monterroso, Alves &amp; Ferreras (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Monterroso</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Alves</surname>
+<given-names>PC</given-names>
+</name>
+<name>
+<surname>Ferreras</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Plasticity in circadian activity patterns of mesocarnivores in Southwestern Europe: implications for species coexistence</article-title>
+<source>Behavioral Ecology and Sociobiology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>68</volume>
+<issue>9</issue>
+<fpage>1403</fpage>
+<lpage>1417</lpage>
+<pub-id pub-id-type="doi">10.1007/s00265-014-1748-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Montgomery et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+<name>
+<surname>Provan</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>McCabe</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Yalden</surname>
+<given-names>SW</given-names>
+</name>
+</person-group>
+<article-title>Origin of British and Irish mammals: disparate post-glacial colonisation and species introductions</article-title>
+<source>Quaternary Science Reviews</source>
+<year iso-8601-date="2014">2014</year>
+<volume>98</volume>
+<fpage>144</fpage>
+<lpage>165</lpage>
+<pub-id pub-id-type="doi">10.1016/j.quascirev.2014.05.026</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Nouvellet et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nouvellet</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Rasmussen</surname>
+<given-names>GSA</given-names>
+</name>
+<name>
+<surname>Macdonald</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Courchamp</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Noisy clocks and silent sunrises: measurement methods of daily activity pattern</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>286</volume>
+<issue>3</issue>
+<fpage>179</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.2011.00864.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-120">
+<label>O’Brien, Kinnaird &amp; Wibisono (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>O’Brien</surname>
+<given-names>TG</given-names>
+</name>
+<name>
+<surname>Kinnaird</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Wibisono</surname>
+<given-names>HT</given-names>
+</name>
+</person-group>
+<article-title>Crouching tigers, hidden prey: sumatran tiger and prey populations in a tropical forest landscape</article-title>
+<source>Animal Conservation</source>
+<year iso-8601-date="2003">2003</year>
+<volume>6</volume>
+<issue>2</issue>
+<fpage>131</fpage>
+<lpage>139</lpage>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>O’Connell, Nichols &amp; Karanth (2010)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="editor">
+<name>
+<surname>O’Connell</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Karanth</surname>
+<given-names>KU</given-names>
+</name>
+</person-group>
+<source>Camera traps in animal ecology: methods and analyses</source>
+<year iso-8601-date="2010">2010</year>
+<publisher-loc>Tokyo</publisher-loc>
+<publisher-name>Springer Science &amp; Business Media</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-71">
+<label>Oliveira-Santos et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Oliveira-Santos</surname>
+<given-names>LGR</given-names>
+</name>
+<name>
+<surname>Zucco</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Antunes</surname>
+<given-names>PC</given-names>
+</name>
+<name>
+<surname>Crawshaw</surname>
+<given-names>PG</given-names>
+<suffix>Jr</suffix>
+</name>
+</person-group>
+<article-title>Is it possible to individually identify mammals with no natural markings using camera-traps? A controlled case-study with lowland tapirs</article-title>
+<source>Mammalian Biology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>75</volume>
+<issue>4</issue>
+<fpage>375</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mambio.2009.08.005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-72">
+<label>O’Meara et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>O’Meara</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Sheehy</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Turner</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>O’Mahony</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Harrington</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Denman</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Lawton</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>MacPherson</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>O’Reilly</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Non-invasive multi-species monitoring: real-time PCR detection of small mammal and squirrel prey DNA in pine marten (<italic>Martes martes</italic>) scats</article-title>
+<source>Acta Theriologica</source>
+<year iso-8601-date="2013">2013</year>
+<volume>59</volume>
+<issue>1</issue>
+<fpage>111</fpage>
+<lpage>117</lpage>
+<pub-id pub-id-type="doi">10.1007/s13364-013-0155-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-73">
+<label>Palomares &amp; Delibes (1991)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palomares</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Delibes</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Assessing three methods to estimate daily activity patterns in radio-tracked mongooses</article-title>
+<source>Journal of Wildlife Management</source>
+<year iso-8601-date="1991">1991</year>
+<volume>55</volume>
+<issue>4</issue>
+<fpage>698</fpage>
+<lpage>700</lpage>
+<pub-id pub-id-type="doi">10.2307/3809521</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-74">
+<label>Pereira (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pereira</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Activity pattern of Geoffroy’s cats (<italic>Leopardus geoffroyi</italic>) during a period of food shortage</article-title>
+<source>Journal of Arid Environments</source>
+<year iso-8601-date="2010">2010</year>
+<volume>74</volume>
+<issue>9</issue>
+<fpage>1106</fpage>
+<lpage>1109</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaridenv.2010.03.017</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-75">
+<label>Petty, Lurz &amp; Rushton (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Petty</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Lurz</surname>
+<given-names>PW</given-names>
+</name>
+<name>
+<surname>Rushton</surname>
+<given-names>DIK</given-names>
+</name>
+</person-group>
+<article-title>Predation of red squirrels by northern goshawks in a conifer forest in northern England: can this limit squirrel numbers and create a conservation dilemma?</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2003">2003</year>
+<volume>111</volume>
+<issue>1</issue>
+<fpage>105</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="doi">10.1016/s0006-3207(02)00254-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-76">
+<label>Phillips et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Phillips</surname>
+<given-names>AJK</given-names>
+</name>
+<name>
+<surname>Fulcher</surname>
+<given-names>BD</given-names>
+</name>
+<name>
+<surname>Robinson</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Klerman</surname>
+<given-names>EB</given-names>
+</name>
+</person-group>
+<article-title>Mammalian rest/activity patterns explained by physiologically based modeling</article-title>
+<source>PLOS Computational Biology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>9</volume>
+<issue>9</issue>
+<elocation-id>e1003213</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pcbi.1003213</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-77">
+<label>Prodohl et al. (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Prodohl</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Hynes</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+</person-group>
+<article-title>Molecular evidence for bidirectional hybridisation between the endemic <italic>Lepus timidus hibernicus</italic> and the invasive <italic>Lepus europaeus</italic> in Ireland</article-title>
+<source>Proceedings of the 11th International Mammalogical Congress</source>
+<year iso-8601-date="2013">2013</year>
+<publisher-loc>Belfast</publisher-loc>
+<publisher-name>Queen’s University Belfast</publisher-name>
+<fpage>77</fpage>
+</element-citation>
+</ref>
+<ref id="ref-78">
+<label>Prugh &amp; Golden (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Prugh</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Golden</surname>
+<given-names>CD</given-names>
+</name>
+</person-group>
+<article-title>Does moonlight increase predation risk? Meta-analysis reveals divergent responses of nocturnal mammals to lunar cycles</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>83</volume>
+<issue>2</issue>
+<fpage>504</fpage>
+<lpage>514</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2656.12148</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-118">
+<label>R Core Team (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>R Core Team</institution>
+</collab>
+</person-group>
+<source>R: A language and environment for statistical computing</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name>
+<uri>https://www.R-project.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-79">
+<label>R Core Team (2017)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>R Core Team</institution>
+</collab>
+</person-group>
+<source>R: A language and environment for statistical computing</source>
+<year iso-8601-date="2017">2017</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name>
+<uri>https://www.R-project.org/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-02-07">7 February 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-80">
+<label>Reid (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>European hare (<italic>Lepus europaeus</italic>) invasion ecology: implication for the conservation of the endemic Irish hare (<italic>Lepus timidus hibernicus</italic>)</article-title>
+<source>Biological Invasions</source>
+<year iso-8601-date="2011">2011</year>
+<volume>13</volume>
+<issue>3</issue>
+<fpage>559</fpage>
+<lpage>569</lpage>
+<pub-id pub-id-type="doi">10.1007/s10530-010-9849-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-117">
+<label>Reid, McDonald &amp; Montgomery (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>McDonald</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+</person-group>
+<article-title>Homogeneous habitat can meet the discrete and varied resource requirements of hares but may set an ecological trap</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2010">2010</year>
+<volume>143</volume>
+<issue>7</issue>
+<fpage>1701</fpage>
+<lpage>1706</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2010.03.041</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-81">
+<label>Reid &amp; Montgomery (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>WI</given-names>
+</name>
+</person-group>
+<article-title>Is naturalisation of the brown hare in Ireland a threat to the endemic Irish hare?</article-title>
+<source>Biology &amp; Environment: Proceedings of the Royal Irish Academy</source>
+<year iso-8601-date="2007">2007</year>
+<volume>107</volume>
+<issue>3</issue>
+<fpage>129</fpage>
+<lpage>138</lpage>
+<pub-id pub-id-type="doi">10.3318/bioe.2007.107.3.129</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-82">
+<label>Reynolds &amp; Aebischer (1991)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reynolds</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Aebischer</surname>
+<given-names>NJ</given-names>
+</name>
+</person-group>
+<article-title>Comparison and quantification of carnivore diet by faecal analysis: a critique, with recommendations, based on a study of the fox <italic>Vulpes vulpes</italic></article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="1991">1991</year>
+<volume>21</volume>
+<issue>3</issue>
+<fpage>97</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2907.1991.tb00113.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-83">
+<label>Reynolds &amp; Tapper (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reynolds</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Tapper</surname>
+<given-names>SC</given-names>
+</name>
+</person-group>
+<article-title>Predation by foxes <italic>Vulpes vulpes</italic> on brown hares <italic>Lepus europaeus</italic> in central southern England, and its potential impact on annual population growth</article-title>
+<source>Wildlife Biology</source>
+<year iso-8601-date="1995">1995</year>
+<volume>1</volume>
+<issue>1</issue>
+<fpage>145</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.2981/wlb.1995.019</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-84">
+<label>Roll, Dayan &amp; Kronfeld-Schor (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Roll</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Dayan</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Kronfeld-Schor</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>On the role of phylogeny in determining activity patterns of rodents</article-title>
+<source>Evolutionary Ecology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>20</volume>
+<issue>5</issue>
+<fpage>479</fpage>
+<lpage>490</lpage>
+<pub-id pub-id-type="doi">10.1007/s10682-006-0015-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-85">
+<label>Ross et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ross</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Hearn</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Johnson</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Macdonald</surname>
+<given-names>DW</given-names>
+</name>
+</person-group>
+<article-title>Activity patterns and temporal avoidance by prey in response to Sunda clouded leopard predation risk</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>290</volume>
+<issue>2</issue>
+<fpage>96</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1111/jzo.12018</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-86">
+<label>Rowcliffe &amp; Carbone (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rowcliffe</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Carbone</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Surveys using camera traps: are we looking to a brighter future?</article-title>
+<source>Animal Conservation</source>
+<year iso-8601-date="2008">2008</year>
+<volume>11</volume>
+<issue>3</issue>
+<fpage>185</fpage>
+<lpage>186</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-1795.2008.00180.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-87">
+<label>Royle &amp; Nichols (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Royle</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Estimating abundance from repeated presence–absence data or point counts</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2003">2003</year>
+<volume>84</volume>
+<issue>3</issue>
+<fpage>777</fpage>
+<lpage>790</lpage>
+<pub-id pub-id-type="doi">10.1890/0012-9658(2003)084[0777:eafrpa]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-88">
+<label>Rychlik (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rychlik</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Overlap of temporal niches among four sympatric species of shrews</article-title>
+<source>Acta Theriologica</source>
+<year iso-8601-date="2005">2005</year>
+<volume>50</volume>
+<issue>2</issue>
+<fpage>175</fpage>
+<lpage>188</lpage>
+<pub-id pub-id-type="doi">10.1007/bf03194481</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-89">
+<label>Sadlier et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sadlier</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Webbon</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Baker</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Harris</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Methods of monitoring red foxes <italic>Vulpes vulpes</italic> and badgers <italic>Meles meles</italic>: are field signs the answer?</article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="2004">2004</year>
+<volume>34</volume>
+<issue>1–2</issue>
+<fpage>75</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="doi">10.1046/j.0305-1838.2003.00029.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-90">
+<label>Schai-Braun, Rödel &amp; Hackländer (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schai-Braun</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Rödel</surname>
+<given-names>HG</given-names>
+</name>
+<name>
+<surname>Hackländer</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>The influence of daylight regime on diurnal locomotor activity patterns of the European hare (<italic>Lepus europaeus</italic>) during summer</article-title>
+<source>Mammalian Biology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>77</volume>
+<issue>6</issue>
+<fpage>434</fpage>
+<lpage>440</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mambio.2012.07.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-91">
+<label>Sheehy &amp; Lawton (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sheehy</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Lawton</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Population crash in an invasive species following the recovery of a native predator: the case of the American grey squirrel and the European pine marten in Ireland</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>23</volume>
+<issue>3</issue>
+<fpage>753</fpage>
+<lpage>774</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-014-0632-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-92">
+<label>Sih &amp; Christensen (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sih</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Christensen</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Optimal diet theory: when does it work, and when and why does it fail?</article-title>
+<source>Animal Behaviour</source>
+<year iso-8601-date="2001">2001</year>
+<volume>61</volume>
+<issue>2</issue>
+<fpage>379</fpage>
+<lpage>390</lpage>
+<pub-id pub-id-type="doi">10.1006/anbe.2000.1592</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-93">
+<label>Silveira, Jácomo &amp; Diniz-Filho (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Silveira</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jácomo</surname>
+<given-names>ATA</given-names>
+</name>
+<name>
+<surname>Diniz-Filho</surname>
+<given-names>JAF</given-names>
+</name>
+</person-group>
+<article-title>Camera trap, line transect census and track surveys: a comparative evaluation</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2003">2003</year>
+<volume>114</volume>
+<issue>3</issue>
+<fpage>351</fpage>
+<lpage>355</lpage>
+<pub-id pub-id-type="doi">10.1016/s0006-3207(03)00063-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-94">
+<label>Stewart, Ellwood &amp; Macdonald (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stewart</surname>
+<given-names>PD</given-names>
+</name>
+<name>
+<surname>Ellwood</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Macdonald</surname>
+<given-names>DW</given-names>
+</name>
+</person-group>
+<article-title>Remote video-surveillance of wildlife—an introduction from experience with the European badger <italic>Meles meles</italic></article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="1997">1997</year>
+<volume>27</volume>
+<issue>4</issue>
+<fpage>185</fpage>
+<lpage>204</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2907.1997.tb00448.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-95">
+<label>Swann et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Swann</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Hass</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Dalton</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Wolf</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Infrared-triggered cameras for detecting wildlife: an evaluation and review</article-title>
+<source>Wildlife Society Bulletin</source>
+<year iso-8601-date="2004">2004</year>
+<volume>32</volume>
+<issue>2</issue>
+<fpage>357</fpage>
+<lpage>365</lpage>
+<pub-id pub-id-type="doi">10.2193/0091-7648(2004)32[357:icfdwa]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-96">
+<label>Swanson et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Swanson</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kosmala</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lintott</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Simpson</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Packer</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Snapshot Serengeti, high-frequency annotated camera trap images of 40 mammalian species in an African savanna</article-title>
+<source>Scientific Data</source>
+<year iso-8601-date="2015">2015</year>
+<volume>2</volume>
+<fpage>150026</fpage>
+<pub-id pub-id-type="doi">10.1038/sdata.2015.26</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-97">
+<label>Theuerkauf et al. (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Theuerkauf</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Jędrzejewski</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Schmidt</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Okarma</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Ruczyński</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Śnieżko</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gula</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Daily patterns and duration of wolf activity in the Białowieża Forest, Poland</article-title>
+<source>Journal of Mammalogy</source>
+<year iso-8601-date="2003">2003</year>
+<volume>84</volume>
+<issue>1</issue>
+<fpage>243</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.1644/1545-1542(2003)084&lt;0243:dpadow&gt;2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-98">
+<label>Thompson (1977)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Thompson</surname>
+<given-names>DC</given-names>
+</name>
+</person-group>
+<article-title>Diurnal and seasonal activity of the grey squirrel (<italic>Sciurus carolinensis</italic>)</article-title>
+<source>Canadian Journal of Zoology</source>
+<year iso-8601-date="1977">1977</year>
+<volume>55</volume>
+<issue>7</issue>
+<fpage>1185</fpage>
+<lpage>1189</lpage>
+<pub-id pub-id-type="doi">10.1139/z77-153</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-99">
+<label>Thompson et al. (1989)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Thompson</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Fedak</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>McConnell</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Nicholas</surname>
+<given-names>KS</given-names>
+</name>
+</person-group>
+<article-title>Seasonal and sex-related variation in the activity patterns of common seals (<italic>Phoca vitulina</italic>)</article-title>
+<source>Journal of Applied Ecology</source>
+<year iso-8601-date="1989">1989</year>
+<volume>26</volume>
+<issue>2</issue>
+<fpage>521</fpage>
+<lpage>535</lpage>
+<pub-id pub-id-type="doi">10.2307/2404078</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-100">
+<label>Tobler et al. (2008a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tobler</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Carrillo-Percastegui</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Leite Pitman</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Mares</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Powell</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>An evaluation of camera traps for inventorying large- and medium-sized terrestrial rainforest mammals</article-title>
+<source>Animal Conservation</source>
+<year iso-8601-date="2008a">2008a</year>
+<volume>11</volume>
+<issue>3</issue>
+<fpage>169</fpage>
+<lpage>178</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-1795.2008.00169.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-101">
+<label>Tobler et al. (2008b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tobler</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Carrillo-Percastegui</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Leite Pitman</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Mares</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Powell</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Further notes on the analysis of mammal inventory data collected with camera traps</article-title>
+<source>Animal Conservation</source>
+<year iso-8601-date="2008b">2008b</year>
+<volume>11</volume>
+<issue>3</issue>
+<fpage>187</fpage>
+<lpage>189</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-1795.2008.00181.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-102">
+<label>Tonkin (1983)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tonkin</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Activity patterns of the Red squirrel (<italic>Sciurus vulgaris</italic>)</article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="1983">1983</year>
+<volume>13</volume>
+<issue>2–4</issue>
+<fpage>99</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2907.1983.tb00271.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-103">
+<label>Torre, Guixe &amp; Sort (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Torre</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Guixe</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Sort</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Comparing three live trapping methods for small mammal sampling in cultivated areas of NE Spain</article-title>
+<source>Italian Journal of Mammology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>21</volume>
+<fpage>147</fpage>
+<lpage>155</lpage>
+</element-citation>
+</ref>
+<ref id="ref-104">
+<label>Trolle &amp; Kéry (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Trolle</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kéry</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Estimation of ocelot density in the Pantanal using capture–recapture analysis of camera-trapping data</article-title>
+<source>Journal of Mammalogy</source>
+<year iso-8601-date="2003">2003</year>
+<volume>84</volume>
+<issue>2</issue>
+<fpage>607</fpage>
+<lpage>614</lpage>
+<pub-id pub-id-type="doi">10.1644/1545-1542(2003)084&lt;0607:eoodit&gt;2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-106">
+<label>Van Doormaal et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van Doormaal</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Ohashi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Koike</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kaji</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Influence of human activities on the activity patterns of Japanese sika deer (<italic>Cervus nippon</italic>) and wild boar (<italic>Sus scrofa</italic>) in Central Japan</article-title>
+<source>European Journal of Wildlife Research</source>
+<year iso-8601-date="2015">2015</year>
+<volume>61</volume>
+<issue>4</issue>
+<fpage>517</fpage>
+<lpage>527</lpage>
+<pub-id pub-id-type="doi">10.1007/s10344-015-0922-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-107">
+<label>Wang, Allen &amp; Wilmers (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Allen</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Wilmers</surname>
+<given-names>CC</given-names>
+</name>
+</person-group>
+<article-title>Mesopredator spatial and temporal responses to large predators and human development in the Santa Cruz Mountains of California</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2015">2015</year>
+<volume>190</volume>
+<fpage>23</fpage>
+<lpage>33</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2015.05.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-108">
+<label>Wauters &amp; Dhondt (1987)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wauters</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Dhondt</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Activity budget and foraging behaviour of the red squirrel (<italic>Sciurus vulgaris</italic>, Linnaeus, 1758) in a coniferous habitat</article-title>
+<source>Zeitschrift für Säugetierkunde</source>
+<year iso-8601-date="1987">1987</year>
+<volume>52</volume>
+<fpage>341</fpage>
+<lpage>353</lpage>
+</element-citation>
+</ref>
+<ref id="ref-109">
+<label>Wauters, Swinnen &amp; Dhondt (1992)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wauters</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Swinnen</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Dhondt</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Activity budget and foraging behaviour of red squirrels (<italic>Sciurus vulgaris</italic>) in coniferous and deciduous habitats</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="1992">1992</year>
+<volume>227</volume>
+<issue>1</issue>
+<fpage>71</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.1992.tb04345.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-110">
+<label>Webbon et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Webbon</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Baker</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Cole</surname>
+<given-names>NC</given-names>
+</name>
+<name>
+<surname>Harris</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Macroscopic prey remains in the winter diet of foxes <italic>Vulpes vulpes</italic> in rural Britain</article-title>
+<source>Mammal Review</source>
+<year iso-8601-date="2006">2006</year>
+<volume>36</volume>
+<issue>1</issue>
+<fpage>85</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2907.2006.00069.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-111">
+<label>Weckel, Giuliano &amp; Silver (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weckel</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Giuliano</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Silver</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Jaguar (<italic>Panthera onca</italic>) feeding ecology: distribution of predator and prey through time and space</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>270</volume>
+<issue>1</issue>
+<fpage>25</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.2006.00106.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-112">
+<label>Wilson et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wilson</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Arnott</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>The pitfall with PIT tags: marking freshwater bivalves for translocation induces short-term behavioural costs</article-title>
+<source>Animal Behaviour</source>
+<year iso-8601-date="2011">2011</year>
+<volume>81</volume>
+<issue>1</issue>
+<fpage>341</fpage>
+<lpage>346</lpage>
+<pub-id pub-id-type="doi">10.1016/j.anbehav.2010.10.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-113">
+<label>Wolton (1983)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wolton</surname>
+<given-names>RJ</given-names>
+</name>
+</person-group>
+<article-title>The activity of free-ranging wood mice <italic>Apodemus sylvaticus</italic></article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="1983">1983</year>
+<volume>52</volume>
+<issue>3</issue>
+<fpage>781</fpage>
+<lpage>794</lpage>
+<pub-id pub-id-type="doi">10.2307/4453</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-114">
+<label>Zalewski (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zalewski</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Does size dimorphism reduce competition between sexes? The diet of male and female pine martens at local and wider geographical scales</article-title>
+<source>Acta Theriologica</source>
+<year iso-8601-date="2007">2007</year>
+<volume>52</volume>
+<issue>3</issue>
+<fpage>237</fpage>
+<lpage>250</lpage>
+<pub-id pub-id-type="doi">10.1007/bf03194220</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-115">
+<label>Zielinski, Spencer &amp; Barrett (1983)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zielinski</surname>
+<given-names>WJ</given-names>
+</name>
+<name>
+<surname>Spencer</surname>
+<given-names>WD</given-names>
+</name>
+<name>
+<surname>Barrett</surname>
+<given-names>RH</given-names>
+</name>
+</person-group>
+<article-title>Relationship between food habits and activity patterns of pine martens</article-title>
+<source>Journal of Mammalogy</source>
+<year iso-8601-date="1983">1983</year>
+<volume>64</volume>
+<issue>3</issue>
+<fpage>387</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="doi">10.2307/1380351</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-116">
+<label>Zub et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zub</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Fletcher</surname>
+<given-names>QE</given-names>
+</name>
+<name>
+<surname>Szafrańska</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Konarzewski</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Male weasels decrease activity and energy expenditure in response to high ambient temperatures</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2013">2013</year>
+<volume>8</volume>
+<issue>8</issue>
+<elocation-id>e72646</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0072646</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>
