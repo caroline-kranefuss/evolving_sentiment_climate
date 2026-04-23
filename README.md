@@ -1,5 +1,7 @@
-# evolving_sentiment_climate
-Exploring evolving sentiment and word importance in climate research, 2013 to 2023
+# # The Climate is Changing: How is Our Sentiment?
+
+## Exploring Changing Sentiment in Climate Articles: 2013 to 2023
+
 
 
 ## Corpus Description
