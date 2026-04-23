@@ -1,0 +1,2759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">108</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.108</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Ecology</subject>
+          <subject>Marine Biology</subject>
+          <subject>Microbiology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Influence of coral and algal exudates on microbially mediated reef metabolism</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Haas</surname>
+            <given-names>Andreas F.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+          <email>andreas.florian.haas@gmail.com</email>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Nelson</surname>
+            <given-names>Craig E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Rohwer</surname>
+            <given-names>Forest</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Wegley-Kelly</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Quistad</surname>
+            <given-names>Steven D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author">
+          <name>
+            <surname>Carlson</surname>
+            <given-names>Craig A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <xref ref-type="aff" rid="aff-4">4</xref>
+        </contrib>
+        <contrib id="author-7" contrib-type="author">
+          <name>
+            <surname>Leichter</surname>
+            <given-names>James J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-8" contrib-type="author">
+          <name>
+            <surname>Hatay</surname>
+            <given-names>Mark</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-9" contrib-type="author">
+          <name>
+            <surname>Smith</surname>
+            <given-names>Jennifer E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Biology, San Diego State University</institution>, <country>United States</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Scripps Institution of Oceanography, University of California</institution>, <addr-line>San Diego</addr-line>, <country>United States</country></aff>
+        <aff id="aff-3"><label>3</label><institution>Marine Science Institute, University of California</institution>, <addr-line>Santa Barbara</addr-line>, <country>United States</country></aff>
+        <aff id="aff-4"><label>4</label><institution>Department of Ecology, Evolution and Marine Biology, University of California</institution>, <addr-line>Santa Barbara</addr-line>, <country>United States</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Medina</surname>
+            <given-names>Mónica</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-07-16">
+        <day>16</day>
+        <month>7</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e108</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-05-01">
+          <day>1</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-06-30">
+          <day>30</day>
+          <month>6</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Haas et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Haas et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/108"/>
+      <abstract>
+        <p>Benthic primary producers in tropical reef ecosystems can alter biogeochemical cycling and microbial processes in the surrounding seawater. In order to quantify these influences, we measured rates of photosynthesis, respiration, and dissolved organic carbon (DOC) exudate release by the dominant benthic primary producers (calcifying and non-calcifying macroalgae, turf-algae and corals) on reefs of Mo‘orea French Polynesia. Subsequently, we examined planktonic and benthic microbial community response to these dissolved exudates by measuring bacterial growth rates and oxygen and DOC fluxes in dark and daylight incubation experiments. All benthic primary producers exuded significant quantities of DOC (roughly 10% of their daily fixed carbon) into the surrounding water over a diurnal cycle. The microbial community responses were dependent upon the source of the exudates and whether the inoculum of microbes included planktonic or planktonic plus benthic communities. The planktonic and benthic microbial communities in the unamended control treatments exhibited opposing influences on DO concentration where respiration dominated in treatments comprised solely of plankton and autotrophy dominated in treatments with benthic plus plankon microbial communities. Coral exudates (and associated inorganic nutrients) caused a shift towards a net autotrophic microbial metabolism by increasing the net production of oxygen by the benthic and decreasing the net consumption of oxygen by the planktonic microbial community. In contrast, the addition of algal exudates decreased the net primary production by the benthic communities and increased the net consumption of oxygen by the planktonic microbial community thereby resulting in a shift towards net heterotrophic community metabolism. When scaled up to the reef habitat, exudate-induced effects on microbial respiration did not outweigh the high oxygen production rates of benthic algae, such that reef areas dominated with benthic primary producers were always estimated to be net autotrophic. However, estimates of microbial consumption of DOC at the reef scale surpassed the DOC exudation rates suggesting net consumption of DOC at the reef-scale. <italic>In situ</italic> mesocosm experiments using custom-made benthic chambers placed over different types of benthic communities exhibited identical trends to those found in incubation experiments. Here we provide the first comprehensive dataset examining direct primary producer-induced, and indirect microbially mediated alterations of elemental cycling in both benthic and planktonic reef environments over diurnal cycles. Our results highlight the variability of the influence of different benthic primary producers on microbial metabolism in reef ecosystems and the potential implications for energy transfer to higher trophic levels during shifts from coral to algal dominance on reefs.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Coral</kwd>
+        <kwd>Algae</kwd>
+        <kwd>Microbe</kwd>
+        <kwd>Organic carbon</kwd>
+        <kwd>Metabolism</kwd>
+        <kwd>Central Pacific</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>National Science Foundation (NSF; <named-content content-type="url"><uri xlink:href="http://www.nsf.gov/">http://www.nsf.gov/</uri></named-content>)</funding-source>
+          <award-id>OCE-0927415</award-id>
+          <award-id>OCE-0927411</award-id>
+        </award-group>
+        <funding-statement>This research was supported by the National Science Foundation (NSF; <uri xlink:href="http://www.nsf.gov/">http://www.nsf.gov/</uri>) award OCE-0927415 to JES and FLR and OCE-0927411 to CAC. Funds were provided to investigate the coupling between DOM, algae, and microbes on coral reef platforms. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Coral reefs, although generally located in oligotrophic environments, are one of the most biodiverse ecosystems on the planet, due largely to their high productivity and efficient nutrient recycling mechanisms (<xref ref-type="bibr" rid="ref-18">Done et al., 1996</xref>). In recent years coral reefs have suffered many impacts, from local anthropogenic influences such as pollution, fishing, and coastal development, to global climate change including warming and likely future acidification of the oceans (<xref ref-type="bibr" rid="ref-32">Hoegh-Guldberg et al., 2007</xref>). In many areas, these impacts have led to changes in community structure often resulting in a phase shift (<xref ref-type="bibr" rid="ref-38">McCook, 1999</xref>), in which the benthic communities shift from dominance by corals to fleshy algae (<xref ref-type="bibr" rid="ref-40">McManus &amp; Polsenberg, 2004</xref>, Smith et al., unpublished data). These shifts in benthic community structure have dramatic implications for the overall trophic structure of tropical reefs as corals provide habitat and shelter for numerous taxa (<xref ref-type="bibr" rid="ref-48">Paine, 1980</xref>; <xref ref-type="bibr" rid="ref-1">Alongi, 1994</xref>). In addition, different benthic primary producers influence reef communities in multiple, distinct ways by regulating the availability of various inorganic and organic resources and altering the physical structure of the benthos (<xref ref-type="bibr" rid="ref-17">Done, 1992</xref>; <xref ref-type="bibr" rid="ref-71">Wild et al., 2011</xref>).</p>
+      <p>Organic material supplied to the ecosystem by benthic primary producers as exudates is thought to play a pivotal role in community-wide transitions on coral reefs (<xref ref-type="bibr" rid="ref-34">Jones, Lawton &amp; Shachak, 1997</xref>; <xref ref-type="bibr" rid="ref-65">Wild et al., 2004a</xref>). Exudates may serve different ecological functions depending on their origin. Coral exudates may keep valuable resources in oligotrophic reef systems by trapping particles from the water column, which are remineralized by the benthic microbial communities. In contrast, algae derived exudates have been shown to stimulate rapid growth of planktonic microbies (<xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>) and community shifts towards copiotrophic and potentially pathogenic microbial communities in the water column (<xref ref-type="bibr" rid="ref-45">Nelson et al., 2013</xref>). Despite an increasing focus on microbial cycling of carbon in recent years, little is still known about the variability in microbial uptake of dissolved organic matter (DOM) and the potential influence it may have on biogeochemical cycling.</p>
+      <p>Previous studies of tropical reef-associated primary producers have shown that all primary producers release a significant portion of their photosynthetically fixed carbon immediately into their environment (<xref ref-type="bibr" rid="ref-13">Crossland, 1987</xref>; <xref ref-type="bibr" rid="ref-19">Ferrier-Pagès et al., 1998</xref>; <xref ref-type="bibr" rid="ref-70">Wild et al., 2010</xref>). It has further been established that fleshy macroalgae and especially small (&lt;2 cm) filamentous algal turfs generally have noticeably higher DOC release rates than calcifying primary producers including hermatypic corals. These results are consistent over a wide range of reef systems, comprising the Red Sea (<xref ref-type="bibr" rid="ref-24">Haas et al., 2010a</xref>; <xref ref-type="bibr" rid="ref-43">Naumann et al., 2012</xref>), the Caribbean (<xref ref-type="bibr" rid="ref-25">Haas et al., 2010b</xref>), and the Central Pacific (<xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>).</p>
+      <p>However, counter to expectations, <xref ref-type="bibr" rid="ref-44">Nelson et al. (2011)</xref> demonstrated that in a backreef system dominated by algae rather than corals, DOC concentrations were significantly lower than in the surrounding offshore waters. Other studies (<xref ref-type="bibr" rid="ref-15">Dinsdale et al., 2008</xref>) incorporating multiple islands in the central Pacific have shown similar patterns where fleshy algal abundance is inversely related to DOC concentrations in the water column. This surprising inverse correlation may be explained by a significantly more heterotrophic microbial metabolism following initially higher availability of algae derived bio-available DOC. A system wide decrease in DOC concentrations could then be the result of (a) increases in the abundance of heterotrophic microbes (<xref ref-type="bibr" rid="ref-15">Dinsdale et al., 2008</xref>) and, (b) a co-metabolism, which occurs when microbes are given an initial surplus of labile carbon, enabling this bacterial community to utilize refractory carbon sources (<xref ref-type="bibr" rid="ref-9">Carlson et al., 2002</xref>).</p>
+      <p>Recent research has shown that macroalgae derived exudates, enriched in the dissolved combined neutral sugar components Fucose and Galactose, facilitate significantly higher rates of bacterioplankton growth and concomitant DOC utilization than coral exudates or untreated seawater (<xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>; <xref ref-type="bibr" rid="ref-45">Nelson et al., 2013</xref>). Further, microbial communities growing in different exudates selectively remove different dissolved combined neutral sugar (DCNS) components, whereby the bacterial communities growing on algal exudates have significantly higher utilization rates of the sugar components which were enriched in the respective algal exudates. Analysis of microbial community composition identifies clear differentiation between the communities selected for by algae exudates and those growing on coral exudates or seawater controls. Macroalgae fostered rapid growth of less diverse communities and selected for copiotrophic bacterial populations with more opportunistic pathogens – so called super-heterotrophic communities (<xref ref-type="bibr" rid="ref-45">Nelson et al., 2013</xref>; <xref ref-type="bibr" rid="ref-16">Dinsdale &amp; Rohwer, 2011</xref>). In contrast coral exudates engendered a smaller shift in bacterioplankton community structure and maintained relatively high diversity.</p>
+      <p>The microbial landscape on tropical reefs, however, is not only restricted to the water column directly adjacent to the reef benthos (∼10<sup>5</sup>–10<sup>6</sup> cm<sup>-3</sup>) (<xref ref-type="bibr" rid="ref-2">Azam, 1983</xref>; <xref ref-type="bibr" rid="ref-39">McDole et al., 2012</xref>). In addition to microbes associated with benthic macro-organisms (&gt;10<sup>7</sup> cm<sup>-2</sup> surface area) (<xref ref-type="bibr" rid="ref-51">Rosenberg et al., 2007</xref>), those associated with calcareous reef sands (∼10<sup>9</sup> cm<sup>-3</sup>) (<xref ref-type="bibr" rid="ref-55">Schöttner et al., 2011</xref>; <xref ref-type="bibr" rid="ref-27">Hansen et al., 1987</xref>; <xref ref-type="bibr" rid="ref-58">Sørensen et al., 2007</xref>; <xref ref-type="bibr" rid="ref-52">Rusch, Hannides &amp; Gaidos, 2009</xref>) and the vast porous reef structures in the reef matrix (<xref ref-type="bibr" rid="ref-14">de Goeij et al., 2008</xref>) may also play a significant role in biogeochemical cycling (<xref ref-type="bibr" rid="ref-8">Capone et al., 1992</xref>; <xref ref-type="bibr" rid="ref-68">Wild et al., 2005</xref>; <xref ref-type="bibr" rid="ref-64">Werner et al., 2008</xref>; <xref ref-type="bibr" rid="ref-53">Scheffers et al., 2004</xref>). Surface associated microbes may carry out multiple ecological functions, such as nitrogen fixation or inhibition of potential pathogens (<xref ref-type="bibr" rid="ref-6">Brown &amp; Bythell, 2005</xref>) for their host organisms. The benthic microbial communities, living in the reef structure or reef sands, on the other hand have been recognized as important components for the reef community, as they are capable of rapidly reallocating nutrients in the otherwise oligotrophic tropical reef environments (<xref ref-type="bibr" rid="ref-50">Rasheed et al., 2004</xref>). They also may constitute an essential food source for protists and invertebrates, forming the base of benthic food webs (<xref ref-type="bibr" rid="ref-1">Alongi, 1994</xref>). Next to remineralization and redistribution of nutrients, recent studies have emphasized the role of the benthic microbial communities as important primary producers in these ecosystems (<xref ref-type="bibr" rid="ref-5">Boucher et al., 1998</xref>; <xref ref-type="bibr" rid="ref-12">Clavier &amp; Garrigue, 1999</xref>; <xref ref-type="bibr" rid="ref-29">Heil et al., 2004</xref>; <xref ref-type="bibr" rid="ref-64">Werner et al., 2008</xref>).</p>
+      <p>Like the planktonic microbial communities, benthic microbes, although significantly different in community composition (<xref ref-type="bibr" rid="ref-31">Hewson &amp; Fuhrman, 2006</xref>), are also known to be affected by primary producer derived exudates (<xref ref-type="bibr" rid="ref-56">Sjöling et al., 2005</xref>; <xref ref-type="bibr" rid="ref-66">Wild et al., 2004b</xref>). However, their responses to these different types of organic matter have rarely been investigated (<xref ref-type="bibr" rid="ref-68">Wild et al., 2005</xref>) and only one pilot study addressed these questions in the context of changing reef environments (<xref ref-type="bibr" rid="ref-69">Wild et al., 2008</xref>). Additionally, production, respiration and the contribution to the nutrient pool have been assessed independently for all of the above described groups, but their relative contribution to collective reef metabolism and their effects on each other have not been investigated on a community scale. Although there have been previous attempts to quantify primary production budgets in coral reefs (e.g., <xref ref-type="bibr" rid="ref-47">Odum, 1968</xref>; <xref ref-type="bibr" rid="ref-23">Gordon, 1971</xref>; <xref ref-type="bibr" rid="ref-59">Sournia, 1976</xref>; <xref ref-type="bibr" rid="ref-28">Hatcher, 1990</xref>) they did not account for how microbial metabolism associated with different reef organisms may influence these processes at a landscape scale (<xref ref-type="bibr" rid="ref-32">Hoegh-Guldberg et al., 2007</xref>; <xref ref-type="bibr" rid="ref-33">Hughes et al., 2007</xref>).</p>
+      <p>The goal of the present study was to quantify biochemical processes and metabolic rates of both benthic and planktonic microbial communities across different benthic assemblages over diurnal cycles. To verify the findings of our controlled incubation experiments we simultaneously conducted a series of <italic>in situ</italic> measurements, using collapsible benthic isolation tents (cBITs), which allow for continuous monitoring of enclosed portions of the reef benthos. These data present the first comprehensive assessment of how benthic primary producers influence surrounding seawater chemistry directly through metabolic processes and indirectly via changing the microbial landscape and metabolism in this ecosystem. Our study thus provides a system-wide overview of potential biochemical alterations facilitated by different primary producer communities on coral reefs.</p>
+    </sec>
+    <sec>
+      <title>Material and Methods</title>
+      <sec>
+        <title>Study site</title>
+        <p>This study was conducted at the Richard B. Gump South Pacific Research Station located on the north shore of the island of Mo‘orea, French Polynesia (17.48 S 149.84 W) from 1 to 22 September 2011. The high volcanic island of Mo‘orea is encircled by a barrier reef approximately 1 km offshore, thereby creating a semi-enclosed backreef system. The reef ecosystem consists of an outer reef slope and a lagoon system comprising a backreef platform with average water depths of 3 m, and a fringing reef bordering the island (<xref ref-type="bibr" rid="ref-30">Hench, Leichter &amp; Monismith, 2008</xref>; <xref ref-type="bibr" rid="ref-44">Nelson et al., 2011</xref>). The benthic community on the backreef platform, our main area of investigation, is composed of approximately 68.6 ± 4.9% turf- and fleshy macroalgae, 22.7 ± 4.4% hermatypic coral and 8.1 ± 2.0% sand (<uri xlink:href="http://mcr.lternet.edu/data">http://mcr.lternet.edu/data</uri>). Average daytime (06:00 to 18:00 h) PAR availability in the backreef study area during the entire study period was ∼580 µmol quanta m<sup>-2</sup> s<sup>-1</sup> as measured in LUX in a 5 min resolution with HOBO<sup>®</sup> Pendant UA-002-64 light and temperature loggers at the water depth were organisms were collected (2.0–2.5 m). Lux were converted to µmol quanta m<sup>-2</sup> s<sup>-1</sup> PAR according to the approximation established by <xref ref-type="bibr" rid="ref-62">Valiela (1984)</xref>: 1 mmol quanta m<sup>-2</sup> s<sup>-1</sup> 400–700 nm = 51.2 LUX). Average backreef <italic>in situ</italic> water temperature at this depth was 26.8 ± 0.6°C with diurnal fluctuations of 2.4 ± 0.4°C. These values were later used as reference to ensure natural light and temperature conditions during incubation experiments.</p>
+      </sec>
+      <sec>
+        <title>Sample collection</title>
+        <p>Samples from four different species of benthic primary producers, each representing one of a major functional group in this backreef system, were collected using SCUBA. The investigated species comprised (1) a hermatypic coral, <italic>Pocillopora damicornis</italic>, (2) a crustaceous coralline red alga (CCA) <italic>Hydrolithon reinboldii</italic>, (3) a common fleshy macroalga in the backreef system, <italic>Dictyota ceylanica</italic>, and (4) a typical mixed consortium of turf algae. All specimens were collected from the backreef platform approximately 500–1000 m east of Paopao Bay (Cook’s Bay) from water depths of 2.0–2.5 m and transferred in coolers to cultivation tanks within 1 h using watertight zippered polyethylene bags. Specimens were collected in replicates of at least 20. <italic>Dictyota</italic> specimens and CCA, growing as rhodoliths, were collected as whole individuals. For turfing algae pieces of reef structure at least 95% covered by the algae were collected. Fragments of <italic>Pocillopora</italic> colonies were collected using pliers, with each fragment from a different colony. <italic>Pocillopora</italic> fragments were then fixed onto ceramic tiles using small amounts of coral cement (Instant Ocean, Holdfast<sup>®</sup> Epoxy Stick) in such a way that only living coral tissue was exposed to the incubation waters. All samples were collected 5 days prior to the respective incubation experiments and incubated in common flow-through ambient water tanks to allow for healing of potential tissue lesions. Algal overgrowth on the ceramic tiles and glue junction was removed regularly and all specimens were carefully checked for potential infestation of epibionts or endolithic boring organisms to avoid potential confounding effects on experimental results. Samples of all primary producers were chosen in a way that they had comparable surface areas with an average of 87.3 ± 8.8 cm<sup>2</sup>.</p>
+      </sec>
+      <sec>
+        <title>Primary producer incubations</title>
+        <sec>
+          <title>DOC release</title>
+          <p>Each benthic specimen was incubated in an individual beaker following <xref ref-type="bibr" rid="ref-26">Haas et al. (2011)</xref> with minor modifications as follows. Primary producer incubations were conducted over a 24 h cycle to assess variations in daytime and night production rates. At dusk (1900 h) each specimen was placed into a randomized beaker containing 920 ml freshly collected filter sterilized backreef seawater (sterilized by passage through pre-flushed 142 mm polyethersulfone filters; 0.2 µm pore size). To measure initial DOC concentration, water was sampled from each beaker with an acid-washed HDPE syringe (60 ml) and filtered through a GF/F filter (Whatman; 0.7 µm nominal pore size) into precombusted glass storage vials with acid-washed Teflon septa. Parallel seawater controls were identical with no organism added. Primary producers were incubated overnight 12 h and DOC samples were again collected at ∼0700 h of the following day. Primary producers were then incubated for another 12 h in the remaining 800 ml seawater. Final DOC samples were taken at around 1900 h. Specimens were then removed from the beakers using acid-washed forceps and the remaining incubation water was processed for the different exudate incubations (see below). Surface area and volume of all specimens (DOC and DO/pH incubations) were determined using the method described in detail by <xref ref-type="bibr" rid="ref-26">Haas et al. (2011)</xref>. Specimen volume was always &lt;3% of incubation waters.</p>
+        </sec>
+        <sec>
+          <title>Effects of primary producer physiology on DO</title>
+          <p>Parallel to the DOC release incubations, assessments of primary producer physiology on DO values of the surrounding water column were conducted. These incubations were set up simultaneously with and identical to the above described DOC incubation with the only difference being that beakers were sealed airtight with a low-density polyethylene film (Saran™) over the course of the experiment. The two parallel experiments allowed for reliable measurements of DOC release and algal physiology without the potential for contamination of DOC measurements across beakers (<xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>). Initial DO readings were obtained from each beaker using a HACH LANGE HQ40 multiparameter instrument (DO: precision 0.01 mg l<sup>-1</sup>, accuracy ±0.05%). DO readings were obtained in parallel to DOC sampling (1900 h, 0700 h, 1900 h) following the protocol described by <xref ref-type="bibr" rid="ref-26">Haas et al. (2011)</xref>.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Exudate incubations</title>
+        <sec>
+          <title>Bacterial abundance and DOC fluxes</title>
+          <p>To resolve diel effects of different primary producer exudates on the ambient backreef microbial community and water chemistry, 48 h benthic and planktonic dilution culture incubations were conducted under natural light and in the dark. The remaining seawater from each replicate primary producer incubation beaker was filter-sterilized through a pre-flushed (1 L low-organic deionized water; Barnstead Nanopure) 0.2 µm polyethersulfone filter (Pall SUPOR-200) and then inoculated with (a) freshly collected unfiltered backreef seawater (100 mL incubation water : 40 mL inoculum) and (b) with freshly collected sand (15 mL sand : 125 mL incubation water) to add a compositionally-representative ambient planktonic or benthic microbial community to the sample exudate media, respectively. Of the four identical replicates generated in this way for each specimen one incubation vessel was then kept in the dark and a congruent sample under natural daylight conditions, both at <italic>in situ</italic> temperature over a time period of 48 h. Samples for DOC (DOC plus bacterial carbon) analysis and bacterial cell abundance were taken immediately after combining the exudates with the respective microbial inoculum and again at the end of the experiment. Bacterioplankton abundance was converted to carbon units assuming 20 fg C cell<sup>-1</sup> (<xref ref-type="bibr" rid="ref-37">Lee &amp; Fuhrman, 1987</xref>) and total DOC concentrations in the exudate incubation cultures was calculated by subtracting bacterial carbon from the measured DOC. All organic carbon samples (30 mL) were collected in precombusted glass vials and immediately stored at −20°C for up to four months until analysis via high temperature catalytic oxidation according to <xref ref-type="bibr" rid="ref-11">Carlson et al. (2010)</xref>. Additional samples for bacterial cell abundances (1–2 mL each) in the incubations were collected every 12 h over the 48 h incubation period. Bacterial abundance samples were immediately fixed in 0.5% paraformaldehyde and flash frozen at −80°C. Bacterial samples were stored for up to 2 months, and counted after 1X SYBR Green I (Invitrogen) staining via flow cytometry according to <xref ref-type="bibr" rid="ref-44">Nelson et al. (2011)</xref>. A parallel incubation with the remaining two congruent samples for each specimen was performed to determine DO fluxes. The remaining inoculated sub-samples were transferred to ground-glass stoppered bottles (Wheaton BOD) and initial oxygen concentration of each sub-sample was determined as described above. Samples were kept airtight under natural light conditions or in the dark at <italic>in situ</italic> temperature (26.6 ± 0.5°C) alongside DOC/microbial incubations. After 48 h DO values were measured again to assess microbially mediated oxygen fluxes.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title><italic>In situ</italic> benthic isolation tent deployment</title>
+        <p>Collapsible benthic isolation tents (cBITs) were used to assess effects of specific benthic communities <italic>in situ</italic>. The triangular pyramids, which were developed and built at the Smith and Rohwer laboratories, primarily consist of three transparent polycarbonate side panels joined by flexible polyvinyl chloride strips held erect by aluminum tubes which are connected by stainless steel cables. Tents were fixed to the ground with stainless steel pegs, with broad (25 cm) PVC flaps attached to the base of the tents to prevent water exchange, which were held flush to the sandy bottom with a 0.5-cm gauge stainless steel anchor chain. Tents enclosed a volume of approximately 0.12 m<sup>3</sup>, and covered approximately 0.43 m<sup>2</sup> of the reef surface. All tents were equipped with autonomous recording data loggers (Manta 2, Eureka environmental engineering) that monitored temperature (precision 0.01°C), DO (precision 0.01 mg l<sup>-1</sup>, accuracy ±1%, automatic temperature and pressure compensated and salinity corrected), and conductivity (accuracy ±1%, automatic temperature compensated) every 5 min over a minimum duration of 2 diurnal cycles (48 h). Further, tents were equipped with a circulation pump with tubing that recirculated water within the tents prior to sampling and, connected to a Niskin sampling bottle, served also as a sampling port (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Samples for DO, DOC, and bacterial abundance were collected every 24 h and processed as describe above. Five cBITs were set up simultaneously over 3 deployment periods (<italic>n</italic> = 15). Tents were mounted over selected benthic communities, comprising coral dominated, algae dominated, and sand dominated areas. Locations were chosen such that on each deployment period at least one representative of each of the respective benthic communities was included. After each deployment the benthic community enclosed by the cBITs was photographed for later determination benthic community composition. Photographs were processed using the digital image software Image J, allowing determination of the area occupied by the respective target organisms vs. the total projected area enclosed in each cBIT (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.108/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Tent setup.</title>
+            <p>cBIT deployed <italic>in situ</italic> over different benthic communities (examples bottom left to right: coral dominated, algae dominated, sand) with data logger (1) and circulation pump (2) connected to a Niskin sampling bottle (3).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/fig-1.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Data processing and derived variables</title>
+        <p>In all incubation experiments, rates of change in DOC and DO concentrations and, where applicable, bacterial abundances were calculated by dividing the difference between start and end concentrations by the incubation duration (12 h for primary producer incubations, 48 h for exudate incubations). The proportional release of photosynthates in primary producer incubations was calculated as the ratio of DOC:DO fluxes. Daylight rates of change in exudate incubations were calculated by subtracting the rate of change in analytes in the 48 h dark incubation experiments from the rate of change in analytes in 48 h incubations subjected to ambient day-night conditions (i.e., light = net − dark).</p>
+        <p>For incubations containing organisms or sand, rates of change in the assessed parameters were normalized per unit surface area of benthic material by dividing these rates by the surface area of the respective benthic organism or sand incubated in the starting replicate beaker (see <xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref> for surface area determination). In the case of the sand incubations, the rates of planktonic change were subtracted to account for water column effects. For all following microbial incubations, concentration independency was assumed, supported by the lack of correlation between rates of change in microbial oxygen consumption and DOC starting concentrations (least squares – Model I – regression of oxygen fluxes on DOC starting concentrations: Benthic, <italic>R</italic><sup>2</sup> = 0.000152; <italic>p</italic> = 0.9451; Planktonic, <italic>R</italic><sup>2</sup> = 0.018995; <italic>p</italic> = 0.3841).</p>
+        <p>To estimate how different benthic assemblages influence DOC and DO availability and microbial activity, rates of change were extrapolated to the backreef community of our study site. To apply proportional impacts of the collective benthic and planktonic microbial community on the reef water column we assumed an average of 3 m water column depth containing the planktonic microbial community above a 7 mm thick layer of permeable calcareous reef sands containing the benthic microbial community. Sand permeability depth was calculated using a custom porewater sampler to (1) isolate a 45 cm diameter patch of sand, (2) withdraw sequential 2L volumes in which we (3) measure DO relative to overlying water; DO concentrations became hypoxic after 4L volume giving a permeability depth estimate of roughly 7 mm. This depth of exchangeable sand volume was replicated in the bottle experiments (15 mL sand across the 50 mm diameter glass bottle gives roughly 7 mm sand depth).</p>
+        <p>To assess rates of DOC concentration changes facilitated by the community enclosed in the respective cBITs, the difference between the concentrations in DOC samples collected at 0 and 24 h, were divided by the time between each the two sampling events (24 h). To calculate change in DO, sensor readings from deployment day 1 were subtracted from values measured at the exact same time point on deployment day 2. Hourly rates were then calculated by dividing the mean change from each measuring point from day one to day two by 24 (See <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>).</p>
+        <p>Statistics were performed using SAS within the software package JMP (v10; SAS Institute 1989–2011). All statistical tests were conducted on log-transformed data to meet assumptions of normality. We tested whether derived rates differed from control treatments using analysis of variance (ANOVA) followed by Dunnett’s post hoc test with α = 0.05. To test whether rates differed among the treatments we used Tukey’s post hoc tests with α = 0.05. All rates are given in mean ± standard error (SE) where applicable.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Exudate release rates and photosynthesis of benthic producers</title>
+        <p>Mean rates of oxygen production during daylight by primary producers ranged from 24.5 ± 0.9 µmol L<sup>-1</sup> h<sup>-1</sup> (<italic>Pocillopora</italic>) to 35.1 ± 2.5 µmol L<sup>-1</sup> h<sup>-1</sup> (<italic>Dictyota</italic>). Nighttime oxygen consumption ranged from 5.7 ± 0.6 µmol L<sup>-1</sup> h<sup>-1</sup> (CCA) to 7.0 ± 0.7 µmol L<sup>-1</sup> h<sup>-1</sup> (turf). Rates of DOC release ranged from 0.9 ± 0.3 µmol L<sup>-1</sup> h<sup>-1</sup> (<italic>Pocillopora</italic>) to 5.5 ± 1.8 µmol L<sup>-1</sup> h<sup>-1</sup> (<italic>Dictyota</italic>) during daytime and 0.3 ± 0.3 µmol L<sup>-1</sup> h<sup>-1</sup> (CCA) to 1.2 ± 0.3 µmol L<sup>-1</sup> h<sup>-1</sup> (<italic>Dictyota</italic>) during night. Seawater control fluxes during both daylight and nighttime were significantly smaller for DO (−1.08 and −0.57 µmol L<sup>-1</sup> h<sup>-1</sup>; Dunnett’s <italic>p</italic> &lt; 0.001) and were on average smaller for DOC (0.29 and −0.28 µmol L<sup>-1</sup> h<sup>-1</sup>). Due to the small sample size, resulting from a loss of seawater control DOC samples, the latter was not statistically significant. All raw values of DO and DOC fluxes, facilitated by the primary producers are shown in <xref ref-type="supplementary-material" rid="supp-2">Figs. S2</xref> and <xref ref-type="supplementary-material" rid="supp-3">S3</xref>. When using oxygen production as a proxy for photosynthesis (<xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>), the investigated primary producers released a mean of 12.6 ± 2.5% of their photosynthetically fixed carbon as DOC in the surrounding reef waters. On average, the fleshy macroalga <italic>Dictyota</italic> released the highest proportion (21.6 ± 3.4%) of the assimilated carbon followed by turf algae (9.6 ± 4.2%), CCA (9.4 ± 3.4%), and <italic>Pocillopora</italic> (7.2 ± 4.2%) as DOC.</p>
+        <p>In order to compare between effects facilitated by the different taxa, DO and DOC fluxes were corrected by normalizing the resulting values to the surface area of the respective organism. During daylight, oxygen production rates of primary producers significantly differed (ANOVA, <italic>F</italic><sub>4,20</sub> = 27.9700, <italic>p</italic> &lt; 0.0001). Algae incubations showed significantly higher oxygen production rates than the seawater controls, whereby turf algae had the highest oxygen release rates per surface area of all incubated organisms (Tukey <italic>p</italic> &lt; 0.05) (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). During dark incubations the primary producers exhibited significant differences in oxygen consumption rates (ANOVA, <italic>F</italic><sub>4,20</sub> = 20.7842, <italic>p</italic> &lt; 0.0001). Congruent to daytime release rates, nighttime consumption was highest for turf, followed by <italic>Dictyota</italic>, CCA, and <italic>Pocillopora</italic> (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.108/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Diurnally resolved responses.</title>
+            <p>Diurnally resolved direct effects of (A) different primary producer functional groups on surrounding DO and DOC concentrations (surface area corrected) and effects facilitated by (B) the pelagic and (C) benthic microbial communities as response to the respective exudates. Bars show mean values with standard error whiskers. Treatments with the same letter are not significantly different at α = 0.05.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/fig-2.png"/>
+        </fig>
+        <p>There were also significant differences in daytime DOC release rates between treatments (ANOVA, <italic>F</italic><sub>4,7</sub> = 4.8069, <italic>p</italic> &lt; 0.0350). The non-calcifying alga <italic>Dictyota</italic> showed the highest release rates followed by turf, CCA, and <italic>Pocillopora</italic> (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). There was no statistically significant difference in DOC release rates detectable between the primary producers during dark incubations. However, similar to the daylight period, non-calcifying algae released, on average, higher amounts than the calcifying primary producers.</p>
+        <p>Over a whole diurnal cycle, net metabolic oxygen fluxes were significantly different between treatments (ANOVA, <italic>F</italic><sub>4,20</sub> = 27.0087, <italic>p</italic> &lt; 0.0001). Turf algae had the highest rates of net oxygen production (50.2 ± 1.7 mmol m<sup>-2</sup> d<sup>-1</sup>), followed by <italic>Dictyota</italic> (35.8 ± 4.1 mmol m<sup>-2</sup> d<sup>-1</sup>) and the calcifying organisms CCA (25.0 ± 1.7 mmol m<sup>-2</sup> d<sup>-1</sup>) and <italic>Pocillopora</italic> (15.6 ± 5.3 mmol m<sup>-2</sup> d<sup>-1</sup>) (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Similar differences were also detectable for net DOC release rates (ANOVA, <italic>F</italic><sub>4,6</sub> = 16.6025, <italic>p</italic> = 0.0021) whereby the fleshy alga <italic>Dictyota</italic> (7.25 ± 0.58 mmol m<sup>-2</sup> d<sup>-1</sup>) and turf (4.30 ± 0.72 mmol m<sup>-2</sup> d<sup>-1</sup>) had the highest diurnal DOC release rates followed by the calcifying organisms CCA (2.28 ± 0.60 mmol m<sup>-2</sup> d<sup>-1</sup>) and <italic>Pocillopora</italic> (1.32 ± 0.72 mmol m<sup>-2</sup> d<sup>-1</sup>).</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.108/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Net responses.</title>
+            <p>Daily net fluxes of DO and DOC per m<sup>2</sup> reef area dominated by the respective primary producer functional group. (A) Changes facilitated directly by the producers (B) Fluxes facilitated by the pelagic and (C) Benthic microbial community as a response to the respective exudates. (D) Combined pelagic and benthic microbial fluxes and (E) combined net producer and, responding to their respective exudates, microbially facilitated fluxes. Bars show mean values with standard error whiskers. Treatments with the same letter are not significantly different at α = 0.05.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/fig-3.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Microbial response</title>
+        <sec>
+          <title>Bacterial growth on organic matter released by benthic producers</title>
+          <p>There were significant differences in bacterial growth rates in both the benthic and pelagic communities depending on the source of the exudates (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>) and the type of incubation (light vs. dark). Although the rate of bacterioplankton growth in the 48 h dark incubations was not significantly different between the exudate treatments (ANOVA <italic>F</italic><sub>4,19</sub> = 1.2482, <italic>p</italic> &gt; 0.05), there were noticeable differences under daylight conditions (ANOVA <italic>F</italic><sub>4,18</sub> = 5.9043, <italic>p</italic> = 0.0032). Exudates from turf algae resulted in the largest increase in bacterioplankton growth followed by CCA and <italic>Dictyota</italic> (<xref ref-type="fig" rid="fig-4">Fig. 4C</xref>). Coral exudates caused an average decrease in bacterial cells during daylight hours. These patterns, where turf algal exudates increased and coral exudates decreased pelagic bacterial abundance, were also detectable over the whole diurnal cycle (ANOVA <italic>F</italic><sub>4,18</sub> = 4.6153, <italic>p</italic> = 0.0090), (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>).</p>
+          <fig id="fig-4">
+            <object-id pub-id-type="doi">10.7717/peerj.108/fig-4</object-id>
+            <label>Figure 4</label>
+            <caption>
+              <title>Bacterial growth rates.</title>
+              <p>Bacterial growth rates in the respective exudate incubations. (A) raw values, (B) light phase resolved pelagic and (C) benthic response, and (D) combined pelagic and benthic growth over a whole 24 h time period.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/fig-4.png"/>
+          </fig>
+          <p>While the bacterial communities overlying the benthos responded differently to the exudate treatments in both the light (ANOVA <italic>F</italic><sub>4,17</sub> = 8.7659, <italic>p</italic> = 0.0005) and dark (ANOVA <italic>F</italic><sub>4,19</sub> = 7.2631, <italic>p</italic> = 0.0010), the response was opposite that of planktonic bacterial community (<xref ref-type="fig" rid="fig-4">Fig. 4D</xref>). Under both light and dark conditions, turf algal exudates decreased bacterial cell growth, while coral exudates caused the highest growth rate for the bacterial community associated with the reef sands (<xref ref-type="fig" rid="fig-4">Fig. 4D</xref>). Accordingly, these patterns were also detectable when both rates of daylight and dark benthic bacterial growth were combined to calculate benthic bacterial growth rates over a full diurnal cycle (ANOVA <italic>F</italic><sub>4,18</sub> = 16.7236, <italic>p</italic> &lt; 0.0001).</p>
+        </sec>
+        <sec>
+          <title>Planktonic microbially mediated effects</title>
+          <p>Planktonic dilution cultures, in which different exudates were added to ambient bacterioplankton communities, showed significant differences in DO fluxes between the treatments both during daylight (ANOVA, <italic>F</italic><sub>4,19</sub> = 4.2349, <italic>p</italic> = 0.0128) and during dark (ANOVA, <italic>F</italic><sub>4,20</sub> = 3.4412, <italic>p</italic> = 0.0270) conditions. Exudates from the fleshy alga <italic>Dictyota</italic> and from turf algae resulted in the highest planktonic oxygen consumption rates both during dark and daylight conditions (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). While all treatments containing algal exudates and the seawater controls exhibited decreases in DO concentrations during the day, incubations containing DOM derived from the coral <italic>Pocillopora</italic> displayed an average increase in DO (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>).</p>
+          <p>Significant differences were also detectable in daytime planktonic DOC consumption rates (ANOVA, <italic>F</italic><sub>4,13</sub> = 4.6474, <italic>p</italic> = 0.0150), where microbial communities growing on exudates derived from <italic>Dictyota</italic> and turf showed highest carbon draw down rates. As with DO fluxes, incubations with coral exudates were the only treatments that resulted in increases of DOC concentrations during daylight incubations (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). Even though there were no statistical significant differences in DOC changes of planktonic microbial dilution cultures between the treatments during dark incubations, in general, there was a trend whereby treatments containing algal exudates showed higher C drawdown rates than treatments containing coral exudates or seawater controls suggesting enhanced mineralization processes, data also supported by the oxygen concentration measurements (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). Over a whole diurnal cycle the planktonic microbial community had net consumption of DO and DOC (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>) in all treatments where DOC algal exudates were amended. Coral exudate incubations, which yielded net increases in DOC indicates that photoautotrophy was stimulated via delivery of inorganic nutrients in coral exudate. Exudates of fleshy algae, and especially turf algae, resulted in significantly higher DO and DOC consumption rates than exudates derived from calcifying organisms (ANOVA, <italic>F</italic><sub>4,20</sub> = 4.3867, <italic>p</italic> = 0.0104 and ANOVA, <italic>F</italic><sub>4,13</sub> = 4.9089, <italic>p</italic> = 0.0124, respectively).</p>
+        </sec>
+        <sec>
+          <title>Benthic microbially mediated effects</title>
+          <p>Benthic incubations, where primary producer exudates were amended to ambient microbenthos communities, showed significant differences in DO release rates among treatments during daylight incubations (ANOVA, <italic>F</italic><sub>4,19</sub> = 9.5684, <italic>p</italic> = 0.0002). Relative to control incubations, turf algae exudates resulted in significantly lower benthic microbial oxygen production, while the microbial community growing in coral exudate treatments showed a greater photosynthetic oxygen production rate (<xref ref-type="fig" rid="fig-2">Fig. 2C</xref>).</p>
+          <p>Significant differences in DO consumption rates were seen between the treatments during dark incubations (ANOVA, <italic>F</italic><sub>4,19</sub> = 5.2539, <italic>p</italic> = 0.0051) (<xref ref-type="fig" rid="fig-2">Fig. 2C</xref>), with the highest oxygen consumption rates for incubations containing exudates from the fleshy alga <italic>Dictyota</italic>. Algal exudate incubations showed generally lower DOC release rates during daylight hours than the benthic microbial communities growing on coral exudates or seawater controls. However, there was no significant difference in benthic microbe mediated DOC fluxes between the different treatments (<xref ref-type="fig" rid="fig-2">Fig. 2C</xref>). However, algal exudate incubations showed generally lower DOC release rates during daylight hours than the benthic microbial communities growing on coral exudates or seawater controls.</p>
+          <p>Oxygen production rates of the microphytobenthos during the day living in the calcareous reef sands were always higher than the consumption rates during the night resulting in a net autotrophic metabolism over a whole diurnal cycle in all treatments (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>). There were however significant differences between the treatments in net oxygen fluxes (ANOVA, <italic>F</italic><sub>4,19</sub> = 13.6474, <italic>p</italic> &lt; 0.0001); turf algae exudates significantly decreased the productivity of the benthic microbial community, while coral exudates significantly increased microbial productivity. Exudates derived from macroalgae and calcifying algae had no significant effect on oxygen production rates of the microbenthic communities growing on sand (Tukey <italic>p</italic> &gt; 0.05). All treatments showed DOC release of the benthic microbial community over a full diurnal cycle, though there were no statistically significant differences detectable between among the treatments (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>).</p>
+        </sec>
+        <sec>
+          <title>Combined microbial effects</title>
+          <p>When extrapolated to a landscape scale within the lagoon on Mo‘orea’s backreef, the combined benthic and planktonic microbial metabolism in the seawater controls was net autotrophic during the daylight hours and heterotrophic during the night. These rates were roughly equal, thus over a diurnal cycle the combined microbial community metabolism (planktonic net heterotrophic and benthic net autotrophic) was balanced with neither DO nor DOC concentrations changing noticeably over 24 h (<xref ref-type="fig" rid="fig-3">Fig. 3D</xref>). The addition of exudates had significant effects on the net microbial community metabolism for DO (ANOVA, <italic>F</italic><sub>4,19</sub> = 5.7686, <italic>p</italic> &lt; 0.0033) and DOC (ANOVA, <italic>F</italic><sub>4,8</sub> = 7.7374, <italic>p</italic> &lt; 0.0074) fluxes. Exudates derived from non-calcifying algae, especially turf, significantly increased oxygen (Dunnett’s <italic>p</italic> &lt; 0.0299) and DOC (Dunnett’s <italic>p</italic> &lt; 0.0467) consumption rates as a whole with an increase in planktonic microbial consumption and a decrease in benthic microbial production (<xref ref-type="fig" rid="fig-3">Figs. 3D</xref> and <xref ref-type="fig" rid="fig-5">5</xref>). In contrast, the combined microbial community metabolism resulted in increased net oxygen production in the presence of coral exudates, facilitating increases in DO and DOC concentrations of the surrounding water column. The shift towards an increasingly autotrophic microbial community in coral exudate incubations was due to reduced consumption rates by the planktonic microbial community and increases in the productivity of the benthic microbial community (<xref ref-type="fig" rid="fig-3">Figs. 3B</xref>–<xref ref-type="fig" rid="fig-3">3D</xref>).</p>
+          <fig id="fig-5">
+            <object-id pub-id-type="doi">10.7717/peerj.108/fig-5</object-id>
+            <label>Figure 5</label>
+            <caption>
+              <title>Exudate influences.</title>
+              <p>Schematic model of exudate influences on benthic and pelagic microbial community metabolism. Without exudates present the net heterotrophic pelagic and net autotrophic benthic microbial community exhibit comparable magnitudes in their opposing influences on DO availability. Coral exudates facilitate a shift towards a net autotrophic system by increasing the net production of the benthic and decreasing the net consumption of the pelagic community. In contrast, algal exudates facilitate a shift towards a net heterotrophic system by decreasing the net production of the benthic and increasing the net consumption of the pelagic microbial community.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/fig-5.png"/>
+          </fig>
+        </sec>
+      </sec>
+      <sec>
+        <title>Community wide (microbial + macrobial) effects</title>
+        <p>Comparison of the extent of DOC and DO change facilitated by primary producer exudates and subsequent microbial metabolism showed that the high oxygen production rates of primary producers exceeded consumption by the combined planktonic and benthic microbial communities (<xref ref-type="fig" rid="fig-3">Fig. 3E</xref>), maintaining overall net autotrophy in the system. Despite the elevated O<sub>2</sub> production for the non-calcifying algae (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>) there was sufficient stimulation of heterotrophic bacterial respiration (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>) such that no resolvable difference could be resolved in the net metabolism between the amended treatments (<xref ref-type="fig" rid="fig-3">Fig. 3E</xref>).</p>
+        <p>In contrast to dissolved oxygen dynamics, exudates from non-calcifying algae strongly increased planktonic microbial DOC consumption rates to values that exceed the release rates of the exudates, leading to a net removal of DOC in turf and macroalgae (at least of the species measured here) dominated reef environments (<xref ref-type="fig" rid="fig-3">Figs. 3E</xref> and <xref ref-type="fig" rid="fig-6">6</xref>). Estimating rates of DO and DOC change in the investigated lagoons of Mo‘orea based on reported benthic cover data (Turf, 35%; Macroalgae, 35%; Coral, 22%; Sand, 8%, see Methods above) yielded a net excess of oxygen production ( + 7.6 µmol L<sup>-1</sup> d<sup>-1</sup>) and net consumption of DOC (−2.2 µmol L<sup>-1</sup> d<sup>-1</sup>). However, these broad extrapolations should be treated with caution as there may be important species specific rates of production and DOC release within each of the benthic functional groups that we have yet not accounted for.</p>
+        <fig id="fig-6">
+          <object-id pub-id-type="doi">10.7717/peerj.108/fig-6</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Beaker incubation to tent comparison.</title>
+            <p>Calculated change for the respective benthic cover on a lagoonal scale compared to <italic>in situ</italic> cBIT community metabolism measurements. Bars show mean values with standard error whiskers. Treatments with the same letter are not significantly different at α = 0.05.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/fig-6.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>In-situ mesocosm fluxes</title>
+        <p>To evaluate the calculations obtained from the beaker incubations, we compared our estimates of reef-scale ecosystem fluxes with results from <italic>in situ</italic> mesocosm incubations using cBITs. DO and temperature loggers deployed within each of these semi-closed mesocosms showed that DO values significantly increased in all the tents containing coral (pairwise two-tailed t-test <italic>p</italic> &lt; 0.0033) or turf algae (pairwise two-tailed t-test <italic>p</italic> &lt; 0.0001) over a 24 h period. Tents deployed on sand; however, showed no statistically significant changes in oxygen concentrations over a 24 h interval (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). DOC concentrations increased on average in tents deployed above corals and sand flats and showed an average decrease in tents enclosing algae-dominated communities. The magnitude and direction of DO and DOC fluxes matched those derived from extrapolations based on the bottle incubation experiments described above (see <xref ref-type="fig" rid="fig-6">Fig. 6</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Our study reports for the first time how the responses of different microbial compartments (benthic and planktonic) to benthic primary producer exudates contribute to the reef-scale community metabolism of oxygen and DOC. By coupling these responses with measurements of photosynthesis and exudate release by benthic producers, we are able to model the influence of benthic community structure on reef community metabolism. Previous work has described how antagonistic coral reef associated ecosystem engineers (<xref ref-type="bibr" rid="ref-4">Berkenbusch &amp; Rowden, 2003</xref>) like coral and non-calcifying algae have the potential to alter biogeochemical cycling and microbial processes (<xref ref-type="bibr" rid="ref-71">Wild et al., 2011</xref>). While previous work has measured rates of benthic primary production (e.g., <xref ref-type="bibr" rid="ref-63">Wanders, 1976</xref>; <xref ref-type="bibr" rid="ref-28">Hatcher, 1990</xref>), organic matter release by benthic producers (e.g., <xref ref-type="bibr" rid="ref-7">Brylinsky, 1977</xref>; <xref ref-type="bibr" rid="ref-61">Tanaka et al., 2008</xref>; <xref ref-type="bibr" rid="ref-42">Muscatine et al., 1984</xref>) and subsequent exudate remineralization by the planktonic microbial community (e.g., <xref ref-type="bibr" rid="ref-20">Ferrier-Pagès et al., 2000</xref>; <xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>), we believe our study is the first to address the cumulative effects of these processes over diurnal cycles and at a landscape scale to holistically estimate the effects of benthic primary producers on reef metabolism.</p>
+      <p>Similar to previous studies (<xref ref-type="bibr" rid="ref-28">Hatcher, 1990</xref>; <xref ref-type="bibr" rid="ref-70">Wild et al., 2010</xref>; <xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>), the algae investigated here (particularly the non-calcifying taxa) showed significantly higher rates of net primary production than the hermatypic coral. Concomitantly, the fleshy algae fixed more inorganic carbon during photosynthetic processes (estimated as higher DO production) and also exuded significantly higher amounts of DOC into their surrounding environment. DOC release rates of the different primary producers (8–57 µmol dm<sup>-2</sup> d<sup>-1</sup>) were comparable to release rates previously published from reef locations around the world (<xref ref-type="bibr" rid="ref-43">Naumann et al., 2012</xref>, Red Sea corals: 6–56 µmol dm<sup>-2</sup> d<sup>-1</sup>; <xref ref-type="bibr" rid="ref-25">Haas et al., 2010b</xref>, Mexican Caribbean algae: 28–208 µmol dm<sup>-2</sup> d<sup>-1</sup>, <xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>, Central Pacific coral and macroalgae: 48–336 µmol dm<sup>-2</sup> d<sup>-1</sup>). In the present study, over a full diurnal cycle, benthic primary producers released about 10% of their daily fixed carbon as DOC in the surrounding waters.</p>
+      <p>Responses of the associated microbial communities to these exudates varied widely and were dependent on the source of the exudates as well as the habitat that the microbes originated from. Contrary to previous studies which generally linked the abundance of highly productive macroalgae to an overall increase in net metabolic balance (<xref ref-type="bibr" rid="ref-63">Wanders, 1976</xref>; <xref ref-type="bibr" rid="ref-28">Hatcher, 1990</xref>), our study indicates that, as a result of subsequent increased remineralization of exudates by planktonic and benthic microbial communities, the estimated net oxygen production does not vary significantly between coral and algae dominated reef systems on a community scale. Further, our results suggest that, with shifts from coral to algae dominated systems, dissolved organic carbon concentrations in the water column will decrease as a result of an elevated heterotrophic microbial community metabolism, congruent with demonstrated DOC depletion in shallow reefs (<xref ref-type="bibr" rid="ref-44">Nelson et al., 2011</xref>).</p>
+      <p>Results from the beaker incubations containing either benthic or planktonic microbes and seawater only showed that while the planktonic microbial community was consistently net heterotrophic the benthic microbial community metabolism was net autotrophic due to daytime photosynthesis, producing significantly higher amounts of oxygen during the daylight hours than it consumed over a 24 h period. Scaled volumetrically to the scale of a 3 m deep reef ecosystem, the effects of the respective net autotrophic benthic and net heterotrophic planktonic microbial communities had comparable magnitudes, resulting in a combined neutral net microbial community metabolism with no significant change of DOC and DO values over a whole diurnal cycle.</p>
+      <p>The introduction of exudates, however, had noticeable and significantly diverging influences on this balanced community metabolism. Coral exudates increased the net planktonic microbial community production, changing the net oxygen production towards an average positive balance during daylight hours. Coral exudates also enhanced the inherently autotrophic character of the microphytobenthos, such that at the reef scale coral exudates overall stimulated net ecosystem productivity (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). Significant increases in the abundance of autotrophic microbes as a result of available coral exudates have been previously reported (<xref ref-type="bibr" rid="ref-20">Ferrier-Pagès et al., 2000</xref>). Although the autotrophic cells do not necessarily rely on organic nutrients, it has been demonstrated that they can also take up DOM, such as amino acids, as an inorganic nutrient source (<xref ref-type="bibr" rid="ref-21">Flynn &amp; Butler, 1986</xref>; <xref ref-type="bibr" rid="ref-49">Palenik &amp; Morel, 1990</xref>). Autotrophic microbial biomass enhancement may thus be mediated by an increase in bioavailable inorganic nutrients, supplied by heterotrophic remineralization of coral exudates in the biocatalytic reef sands (<xref ref-type="bibr" rid="ref-60">Szmant, Ferrer &amp; FitzGerald, 1990</xref>; <xref ref-type="bibr" rid="ref-54">Schlichter &amp; Liebezeit, 1991</xref>; <xref ref-type="bibr" rid="ref-20">Ferrier-Pagès et al., 2000</xref>; <xref ref-type="bibr" rid="ref-65">Wild et al., 2004a</xref>; <xref ref-type="bibr" rid="ref-67">Wild, Woyt &amp; Huettel, 2005</xref>). In contrast, addition of algal exudates, most noticeably exudates derived from turf algae, stimulated heterotrophic oxygen and organic carbon consumption rates by the planktonic and benthic microbial community, mediating an overall shift toward a significantly more heterotrophic microbial community metabolism. Although the changes in the combined microbial community metabolism did not outweigh the high oxygen production rates of benthic algae, the exudates did result in increased microbial DOC consumption which exceeded measured DOC exudation rates (<xref ref-type="fig" rid="fig-3">Figs. 3A</xref>–<xref ref-type="fig" rid="fig-3">3E</xref>). When scaled to the 3 m deep reef ecosystem this imbalance resulted in a net bacterial carbon demand which exceeded the rate of carbon exudation by algae, suggesting a possible mechanism for observed depletion of DOC in waters overlying the reef relative to oceanic inputs (<xref ref-type="bibr" rid="ref-44">Nelson et al., 2011</xref>). Our previous study conducted in this reef system demonstrated that exudates from fleshy macroalgae were enriched in specific carbohydrate components and were more labile than exudates derived from corals, fostering rapid but inefficient growth of primarily copiotrophic bacterioplankton in the surrounding water column. By facilitating the remineralization of semi-labile DOC inputs from the open ocean (sensu <xref ref-type="bibr" rid="ref-9">Carlson et al., 2002</xref>) the high carbon demand of inefficient copiotrophic “super-heterotrophs” (<xref ref-type="bibr" rid="ref-16">Dinsdale &amp; Rohwer, 2011</xref>) may be a mechanism fueling the excessive carbon consumption rates estimated here and the subsequent depletion of DOC (<xref ref-type="bibr" rid="ref-44">Nelson et al., 2011</xref>) on reefs dominated by fleshy algae such as the backreef of Mo‘orea.</p>
+      <p>In contrast, the shift towards a net autotrophic metabolism of the collective microbial community stimulated by coral exudates likely compensates for the initially lower photosynthetic oxygen production rates of corals compared to algae (<xref ref-type="bibr" rid="ref-63">Wanders, 1976</xref>; <xref ref-type="bibr" rid="ref-28">Hatcher, 1990</xref>). In our estimates this resulted in comparable net oxygen fluxes of the combined community metabolism in coral compared to algae dominated locations. Coral exudates facilitated changes in the microbial community metabolism towards higher primary production rates and led to an overall increase in DOC concentrations (resulting from net coral and microbial DOC release). Together these results suggest that reefs dominated by corals, by stimulating microbial primary production, may maintain comparable net ecosystem productivity to those dominated by fleshy algae, but additionally may maintain elevated levels of potentially labile DOC available for remineralization and recycling by microbial communities.</p>
+      <p>Our reef-scale estimates of benthic productivity and benthic and pelagic microbial metabolism from habitat-specific bottle incubations were validated by <italic>in situ</italic> measurements using contained benthic incubation tents (cBITs; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>); net metabolic balances of both oxygen and DOC assessed in benthic tents over a whole diurnal cycle showed the same trends as suggested by the reef wide calculations derived from our incubation experiments (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). This study may thus suggest potential explanations for previously observed discrepancies of primary producer effects on <italic>in situ</italic> values of DO and DOC concentrations. For example, while some studies identified higher net primary production, and concomitant O<sub>2</sub> production, of fleshy algae compared to corals (<xref ref-type="bibr" rid="ref-63">Wanders, 1976</xref>; <xref ref-type="bibr" rid="ref-28">Hatcher, 1990</xref>; <xref ref-type="bibr" rid="ref-17">Done, 1992</xref>; <xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>), <italic>in situ</italic> measurements revealed lower oxygen concentrations in algae dominated areas compared to reef locations with high cover of hermatypic corals or other calcifying organisms (<xref ref-type="bibr" rid="ref-25">Haas et al., 2010b</xref>; <xref ref-type="bibr" rid="ref-46">Niggl, Haas &amp; Wild, 2010</xref>). This is also the case for the proposed effects of the primary producer communities on surrounding DOC concentrations. While multiple studies in various coral reef systems have shown that coral reef associated primary producers, and particularly fleshy macro- and turf algae, release a noticeable portion of their photosynthetically fixed carbon as dissolved material into their surroundings (<xref ref-type="bibr" rid="ref-70">Wild et al., 2010</xref>; <xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>), recent <italic>in situ</italic> assessments of tropical reef environments identified significantly lower DOC concentrations associated with higher algal abundance (<xref ref-type="bibr" rid="ref-15">Dinsdale et al., 2008</xref>; <xref ref-type="bibr" rid="ref-44">Nelson et al., 2011</xref>) throughout the tropical Pacific. This apparent discrepancy has been suggested to be caused by a co-metabolism of refractory carbon that occurs when microbes are given an excess labile carbon (<xref ref-type="bibr" rid="ref-9">Carlson et al., 2002</xref>; <xref ref-type="bibr" rid="ref-15">Dinsdale et al., 2008</xref>; <xref ref-type="bibr" rid="ref-44">Nelson et al., 2011</xref>). The differences between the direct influences of the different primary producers on oxygen and DOC (i.e., high production rates of non-calcifying algae) and the resulting values measured <italic>in situ</italic> values (low DO/DOC concentrations associated with high algal cover) may be explained by the unaccounted-for influences of algal and coral exudates on collective microbial metabolism demonstrated here.</p>
+      <p>Beyond the direct effects of primary producers and the indirect effects of microbes on key environmental parameters (DO, DOC), this study also shows noticeable influences of specific primary producer exudates on the community metabolism and the abundance of microbes in the different reef habitats (benthic vs. planktonic). While turf algal exudates led to significant increases in the abundance of the collectively net heterotrophic microbial community, they simultaneously mediated a significant decrease of bacterial growth rates in the generally net autotrophic benthic environment. Coral exudates in contrast showed no considerable effect on cell abundance in the planktonic environment, but fostered significantly higher growth rates than all other treatments in the predominately autotrophic benthic associated microbial community.</p>
+      <p>A possible caveat of our study is that we assumed concentration independency on influences of the different exudates on the microbial communities. Although the data supports this assumption partly as there is no direct relation between the starting DOC concentrations and the microbial oxygen draw down rates, and a related study (<xref ref-type="bibr" rid="ref-45">Nelson et al., 2013</xref>) showed that the composition of the respective exudates has a significant influence on the microbial community, there may be concentration thresholds at which the overall amount of the organic carbon supplied to the system will play a role in microbial metabolism. Nevertheless, the fact that the contrasting effects of the exudates derived from coral and algae change the metabolism in the planktonic and benthic environment relative to the controls regardless of the amount of exudate used suggests that the mechanisms described above are of ecological significance. Additional validation of these mechanisms is given with the data collected from the <italic>in situ</italic> cBITs.</p>
+    </sec>
+    <sec>
+      <title>Conclusion</title>
+      <p>This study primarily highlights the variability of benthic primary producer influences in different ecosystem compartments. It indicates their diverging effects on planktonic and benthic microbial ecology and subsequently on biogeochemical resources. The shift from net autotrophic towards net heterotrophic microbial community metabolism, accompanying changes from coral to algal dominance, may thereby have potential negative implications on energy transfer to higher trophic levels (<xref ref-type="bibr" rid="ref-39">McDole et al., 2012</xref>). Our results suggest that the bioavailable energy (DOC) provided by the macrobial photosynthetic organisms will not be able to support the multitude of trophic levels found in this otherwise oligotrophic coral reef environment, but rather fuels a short linked and inefficient (<xref ref-type="bibr" rid="ref-26">Haas et al., 2011</xref>; <xref ref-type="bibr" rid="ref-45">Nelson et al., 2013</xref>) microbial metabolism. Finally, our use of controlled incubations, coupled with <italic>in situ</italic> mesocosm experiments, provides the first comprehensive view of benthic primary producer-induced, and microbially-mediated alterations of biochemical cycling over diurnal cycles in both benthic and pelagic shallow reef environments. While it is uncommon for researchers to simultaneously assess the independent and combined contribution of macro- and micro-organisms to reef-scale metabolism, our results suggest that this approach will be necessary if we are to accurately predict how reef communities will change in response to the multitude of global and local stressors currently impacting them.</p>
+    </sec>
+    <sec>
+      <title>Summary</title>
+      <p>The following collection of studies supports the idea that the microbial and macrobial community are strongly interrelated and subjected to positive feedback loops in which contribute to phase shifts from coral to algal dominance.</p>
+      <p>Microbes inhabiting coral surfaces are subjected to shifts in community composition and elevated activity in response to increased availability of algae derived DOM. This increased microbial activity, facilitated by bioavailable algae derived OM, has been identified as a key mechanism leading to coral mortality. First, <xref ref-type="bibr" rid="ref-36">Kuntz et al. (2005)</xref> and <xref ref-type="bibr" rid="ref-35">Kline et al. (2006)</xref> showed that elevated concentrations of organic compounds were more detrimental to coral health than increased availability of inorganic nutrients. Concurrently, <xref ref-type="bibr" rid="ref-57">Smith et al. (2006)</xref> conducted an empirical study which demonstrated that coral mortality was mediated by algal released dissolved compounds which induced microbe facilitated hypoxia. Supporting results have been provided by <xref ref-type="bibr" rid="ref-3">Barott et al. (2009)</xref> and a recent study by <xref ref-type="bibr" rid="ref-41">Morrow et al. (2012)</xref> who identified consistent patterns in physiology and microbial community differentiation across different types of coral-algal competitive interactions. Here turf- or macroalgae interactions with corals created a zone of hypoxia and altered pigmentation in the coral tissue. In the companion articles (<xref ref-type="bibr" rid="ref-24">Haas et al., 2010a</xref>; <xref ref-type="bibr" rid="ref-25">Haas et al., 2010b</xref>) we can provide the first direct visualization of oxygen gradients originating from corals and algae, as well as at the interfaces. The study shows 2 dimensional images of oxygen gradients over time in varying flow conditions and can thereby provide compelling evidence for the existence of hypoxic zones in coral-algae interaction processes. By using oxygen optodes as biological sensors, <xref ref-type="bibr" rid="ref-22">Gregg et al., 2013</xref>, revealed that in these processes the source of DOC, rather than the microbial community is the driving factor for microbial oxygen drawdown.</p>
+      <p>On a larger scale <xref ref-type="bibr" rid="ref-15">Dinsdale et al. (2008)</xref> described an increase of the microbial density by an order of magnitude from islands dominated by hermatypic corals and coralline algae towards islands dominated by fleshy macro- and turf algae. This study also demonstrated that on islands with high cover of fleshy macro- and turf algae the microbial community was dominated by heterotrophs, including a large percentage of potential pathogens. Adding to this, <xref ref-type="bibr" rid="ref-45">Nelson et al. (2013)</xref> showed that, in contrast to coral exudates, which facilitated high microbial diversity with few virulence factors, macroalgal exudates selected for less diverse communities heavily enriched in copiotrophic lineages, containing pathogens with increased virulence factors. These copiotrophic lineages, which are selected for in energy-rich surroundings resulting from labile, algae derived organic material have been previously described as “super-heterotrophs” (<xref ref-type="bibr" rid="ref-16">Dinsdale &amp; Rohwer, 2011</xref>).</p>
+      <p>This shift towards higher abundance of planktonic microbes has been described in a recent study by <xref ref-type="bibr" rid="ref-39">McDole et al. (2012)</xref> as “Microbialization”. Here, a microbialization score was applied to each site representing the percentage of the microbial metabolic energy consumption opposed to macro-organism facilitated energy fluxes in an ecosystem. A survey of 99 locations across the tropical Pacific demonstrated a strong correlation between these reef microbialization scores and human impact. In impacted systems <xref ref-type="bibr" rid="ref-39">McDole et al. (2012)</xref> identified a reallocation of bioavailable energy, provided by the primary producers from more complex organisms (e.g., fish biomass) to microbes. While T McDole, unpublished data (companion manuscript) suggest that in stages of intermediate degradation (noticeable, but limited human impact, e.g., Molokai, Hawaii/Saipan, Northern Mariana Islands) a disproportionately high amount of energy is dissipated by autotrophic microbes, they further suggest that in severely degraded reef systems (high human impact, e.g., Oahu &amp; Niihau, Hawaii), pathways of energy flow are reestablished through heterotrophic microbes with more pathogen-like or copiotrophic growth strategies.</p>
+      <p>Collectively, these studies show that in coral reef systems, organic matter dynamics are tightly coupled with the benthic primary producers and the associated microbial community. Further it becomes evident that these factors strongly influence each other and may create positive feedback loops by (a) fostering ineffective and more pathogenic microbial communities, which (b) facilitate regions of decreased oxygen availability through metabolic activities, and (c) alter the transfer of energy to higher trophic levels, during shifts from coral to algal dominance on tropical reefs.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/Fig_S1.png">
+        <object-id pub-id-type="doi">10.7717/peerj.108/supp-1</object-id>
+        <label>Figure S1</label>
+        <caption>
+          <title>Oxygen logger data</title>
+          <p>Examples of DO fluxes assessed by autonomously working data loggers in cBITs over a 48 h period. Red line shows values from 0–24 h, blue line from 24–48 h. Decreases over 24 h at a given time point are highlighted by a red area, increases by blue. Lower panels show change at each the respective daytime over 24 h. Mean change is indicated by the dotted line.</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/Fig_S2_1.png">
+        <object-id pub-id-type="doi">10.7717/peerj.108/supp-2</object-id>
+        <label>Figure S2</label>
+        <caption>
+          <title>Dissolved oxygen raw values</title>
+          <p>Raw values of DO measurements in dark and daylight incubations over the period exposed to the respective light conditions</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/108/Fig_S3_1.png">
+        <object-id pub-id-type="doi">10.7717/peerj.108/supp-3</object-id>
+        <label>Figure S3</label>
+        <caption>
+          <title>DOC raw values</title>
+          <p>Raw values of DOC measurements in dark and daylight incubations over the period exposed to the respective light conditions.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to give special thanks to Dr. Nichole Price for her help with the design and construction of the collapsible benthic isolation tents (cBIT).</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>There are no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Andreas F. Haas</xref>, <xref ref-type="contrib" rid="author-2">Craig E. Nelson</xref>, <xref ref-type="contrib" rid="author-4">Linda Wegley-Kelly</xref> and <xref ref-type="contrib" rid="author-5">Steven D. Quistad</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Forest Rohwer</xref>, <xref ref-type="contrib" rid="author-6">Craig A. Carlson</xref> and <xref ref-type="contrib" rid="author-9">Jennifer E. Smith</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-7">James J. Leichter</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-8">Mark Hatay</xref> conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Alongi (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alongi</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>Zonation and seasonality of benthic primary production and community respiration in tropical mangrove forests</article-title>
+          <source>Oecologia</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>98</volume>
+          <fpage>320</fpage>
+          <lpage>327</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00324220</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Azam (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Azam</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Fenchel</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Field</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Meyer-Reil</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Thingstad</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>The ecological role of water-column microbes in the sea</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1983">1983</year>
+          <volume>10</volume>
+          <fpage>257</fpage>
+          <lpage>263</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps01027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Barott et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barott</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Dinsdale</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hatay</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sandin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>FL</given-names>
+            </name>
+          </person-group>
+          <article-title>Hyperspectral and physiological analyses of coral-algal interactions</article-title>
+          <source>PLoS ONE</source>
+          <issue>11</issue>
+          <year iso-8601-date="2009">2009</year>
+          <volume>4</volume>
+          <elocation-id>e8043</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0008043</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Berkenbusch &amp; Rowden (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berkenbusch</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Rowden</surname>
+              <given-names>AA</given-names>
+            </name>
+          </person-group>
+          <article-title>Ecosystem engineering-moving away from “just-so” stories</article-title>
+          <source>New Zealand Journal of Ecology</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>27</volume>
+          <fpage>67</fpage>
+          <lpage>73</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Boucher et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boucher</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Clavier</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hily</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gattuso</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Contribution of soft-bottoms to the community metabolism (primary production and calcification) of a barrier reef flat (Moorea, French Polynesia)</article-title>
+          <source>Journal of Experimental Marine Biology and Ecology</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>225</volume>
+          <fpage>269</fpage>
+          <lpage>283</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-0981(97)00227-X</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Brown &amp; Bythell (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>BE</given-names>
+            </name>
+            <name>
+              <surname>Bythell</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Perspectives on mucus secretion in reef corals</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>296</volume>
+          <fpage>291</fpage>
+          <lpage>309</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps296291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Brylinsky (1977)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brylinsky</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Release of dissolved organic matter by some marine macrophytes</article-title>
+          <source>Marine Biology</source>
+          <year iso-8601-date="1977">1977</year>
+          <volume>39</volume>
+          <fpage>213</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00390995</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Capone et al. (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capone</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Dunham</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Horrigan</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Duguay</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>Microbial nitrogen transformations in unconsolidated coral reef sediments</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>80</volume>
+          <fpage>75</fpage>
+          <lpage>88</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps080075</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Carlson et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carlson</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Giovannoni</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Hansell</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Goldberg</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Otero</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Vergin</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wheeler</surname>
+              <given-names>BR</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of nutrient amendments on bacterioplankton production, community structure, and DOC utilization in the northwestern Sargasso Sea</article-title>
+          <source>Aquatic Microbial Ecology</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>30</volume>
+          <fpage>19</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.3354/ame030019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Carlson et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carlson</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Giovannoni</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Hansell</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Goldberg</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Vergin</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Interactions between DOC, microbial processes, and community structure in the mesopelagic zone of the northwestern Sargasso Sea</article-title>
+          <source>Limnology and Oceanography</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>49</volume>
+          <fpage>1073</fpage>
+          <lpage>1083</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.2004.49.4.1073</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Carlson et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carlson</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Hansell</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>NB</given-names>
+            </name>
+            <name>
+              <surname>Siegel</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Smethie</surname>
+              <given-names>WMJ</given-names>
+            </name>
+            <name>
+              <surname>Khatiwala</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Meyers</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Halewood</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Dissolved organic carbon export and subsequent remineralization in the mesopelagic and bathypelagic realms of the North Atlantic basin</article-title>
+          <source>Deep Sea Research Part II: Topical Studies in Oceanography</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>57</volume>
+          <fpage>1433</fpage>
+          <lpage>1445</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.dsr2.2010.02.013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Clavier &amp; Garrigue (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clavier</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Garrigue</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Annual sediment primary production and respiration in a large coral reef lagoon (SW New Caledonia)</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>191</volume>
+          <fpage>79</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps191079</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Crossland (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crossland</surname>
+              <given-names>CJ</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>In situ</italic> release of mucus and DOC-lipid from the corals <italic>Acropora variabilis</italic> and <italic>Stylophora pjstillata</italic></article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="1987">1987</year>
+          <volume>6</volume>
+          <fpage>35</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00302210</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>de Goeij et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Goeij</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Moodley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Houtekamer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Carballeira</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>van Duyl</surname>
+              <given-names>FC</given-names>
+            </name>
+          </person-group>
+          <article-title>Tracing C-13-enriched dissolved and particulate organic carbon in the bacteria-containing coral reef sponge Halisarca caerulea: evidence for DOM feeding</article-title>
+          <source>Limnology and Oceanography</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>53</volume>
+          <fpage>1376</fpage>
+          <lpage>1386</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.2008.53.4.1376</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Dinsdale et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dinsdale</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Pantos</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Smriga</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Angly</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Wegley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hatay</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Haynes</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Krause</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Sala</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sandin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Thurber</surname>
+              <given-names>RV</given-names>
+            </name>
+            <name>
+              <surname>Willis</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Azam</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Knowlton</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Microbial ecology of four coral atolls in the Northern Line Islands</article-title>
+          <source>PLoS ONE</source>
+          <issue>2</issue>
+          <year iso-8601-date="2008">2008</year>
+          <volume>3</volume>
+          <elocation-id>e1584</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0001584</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Dinsdale &amp; Rohwer (2011)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dinsdale</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dubinsky</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Stambler</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Fish or germs? Microbial dynamics associated with changing trophic structures on coral reefs</article-title>
+          <source>Coral reefs: an ecosystem in transition</source>
+          <year iso-8601-date="2011">2011</year>
+          <publisher-loc>Dordrecht</publisher-loc>
+          <publisher-name>Springer Verlag</publisher-name>
+          <fpage>231</fpage>
+          <lpage>240</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Done (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Done</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase shifts in coral reef communities and their ecological significance</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>247</volume>
+          <fpage>121</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00008211</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Done et al. (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Done</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <name>
+              <surname>Ogden</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Wiebe</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Rosen</surname>
+              <given-names>BR</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Mooney</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Cushman</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Medina</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sala</surname>
+              <given-names>OE</given-names>
+            </name>
+            <name>
+              <surname>Schulze</surname>
+              <given-names>ED</given-names>
+            </name>
+          </person-group>
+          <article-title>Biodiversity and ecosystem function of coral reefs</article-title>
+          <source>Functional roles of biodiversity: a global perspective</source>
+          <year iso-8601-date="1996">1996</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>John Wiley &amp; Sons Ltd</publisher-name>
+          <fpage>393</fpage>
+          <lpage>429</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Ferrier-Pagès et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrier-Pagès</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gattuso</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Cauwet</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Jaubert</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Allemand</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Release of dissolved organic carbon and nitrogen by the zooxanthellate coral <italic>Galaxea fascicularis</italic></article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>172</volume>
+          <fpage>265</fpage>
+          <lpage>274</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps172265</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Ferrier-Pagès et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrier-Pagès</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Leclercq</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Jaubert</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pelegrí</surname>
+              <given-names>SP</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhancement of pico-and nanoplankton growth by coral exudates</article-title>
+          <source>Aquatic Microbial Ecology</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>21</volume>
+          <fpage>203</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="doi">10.3354/ame021203</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Flynn &amp; Butler (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Flynn</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Butler</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitrogen sources for the growth of microalgae: role of dissolved free amino acids</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1986">1986</year>
+          <volume>34</volume>
+          <fpage>281</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps034281</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Gregg et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gregg</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Hatay</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Robinett</surname>
+              <given-names>NL</given-names>
+            </name>
+            <name>
+              <surname>Barott</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Vermeij</surname>
+              <given-names>MJA</given-names>
+            </name>
+            <name>
+              <surname>Marhaver</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Meirelles</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological oxygen demand optode analysis of coral reef-associated microbial communities exposed to algal exudates</article-title>
+          <source>PeerJ</source>
+          <volume>1</volume>
+          <elocation-id>e107</elocation-id>
+          <pub-id pub-id-type="doi">10.7717/peerj.107</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Gordon (1971)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gordon</surname>
+              <given-names>DC</given-names>
+              <suffix>Jr</suffix>
+            </name>
+          </person-group>
+          <article-title>Organic carbon budget of Fanning Island Lagoon</article-title>
+          <source>Pacific Science</source>
+          <year iso-8601-date="1971">1971</year>
+          <volume>25</volume>
+          <fpage>222</fpage>
+          <lpage>227</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Haas et al. (2010a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Naumann</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Struck</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Mayr</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>el-Zibdah</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Organic matter release by coral reef associated benthic algae in the Northern Red Sea</article-title>
+          <source>Journal of Experimental Marine Biology and Ecology</source>
+          <year iso-8601-date="2010">2010a</year>
+          <volume>389</volume>
+          <fpage>53</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jembe.2010.03.018</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Haas et al. (2010b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Jantzen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Naumann</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Iglesias-Prieto</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Organic matter release by the dominant primary producers in a Caribbean reef lagoon: implication for in situ O<sub>2</sub> availability</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2010">2010b</year>
+          <volume>409</volume>
+          <fpage>27</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps08631</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Haas et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Carlson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wegley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Leichter</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of coral reef benthic primary producers on dissolved organic carbon and microbial activity</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>6</volume>
+          <elocation-id>e27973</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0027973</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Hansen et al. (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hansen</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Alongi</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Moriarty</surname>
+              <given-names>DJW</given-names>
+            </name>
+            <name>
+              <surname>Pollard</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>The dynamics of benthic microbial communities at Davies Reef, central Great Barrier Reef</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="1987">1987</year>
+          <volume>6</volume>
+          <fpage>63</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00301375</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Hatcher (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hatcher</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <article-title>Coral reef primary productivity. A hierarchy of pattern and process</article-title>
+          <source>Trends in Ecology &amp; Evolution</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>5</volume>
+          <fpage>149</fpage>
+          <lpage>155</lpage>
+          <pub-id pub-id-type="doi">10.1016/0169-5347(90)90221-X</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Heil et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heil</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Chaston</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bird</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Longstaff</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Costanzo</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dennison</surname>
+              <given-names>WC</given-names>
+            </name>
+          </person-group>
+          <article-title>Benthic microalgae in coral reef sediments of the southern Great Barrier Reef, Australia</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>23</volume>
+          <fpage>336</fpage>
+          <lpage>343</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00338-004-0390-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Hench, Leichter &amp; Monismith (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hench</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Leichter</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Monismith</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <article-title>Episodic circulation and exchange in a wave-driven coral reef and lagoon system</article-title>
+          <source>Limnology &amp; Oceanography</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>53</volume>
+          <fpage>2681</fpage>
+          <lpage>2694</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.2008.53.6.2681</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Hewson &amp; Fuhrman (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hewson</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Fuhrman</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Spatial and vertical biogeography of coral reef sediment bacterial and diazotroph communities</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>306</volume>
+          <fpage>79</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps306079</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Hoegh-Guldberg et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoegh-Guldberg</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Mumby</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Hooten</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Steneck</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Greenfield</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gomez</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Harvell</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Sale</surname>
+              <given-names>PF</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Caldeira</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Knowlton</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Eakin</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Iglesias-Prieto</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Muthiga</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Bradbury</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Dubi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hatziolos</surname>
+              <given-names>ME</given-names>
+            </name>
+          </person-group>
+          <article-title>Coral reefs under rapid climate change and ocean acidification</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>318</volume>
+          <fpage>1737</fpage>
+          <lpage>1742</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1152509</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Hughes et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hughes</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Rodrigues</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bellwood</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ceccarelli</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hoegh-Guldberg</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>McCook</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Moltschaniwskyj</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Pratchett</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Steneck</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Willis</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Phase shifts, herbivory, and the resilience of coral reefs to climate change</article-title>
+          <source>Current Biology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>17</volume>
+          <fpage>360</fpage>
+          <lpage>365</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cub.2006.12.049</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Jones, Lawton &amp; Shachak (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Lawton</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Shachak</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Positive and negative effects of organisms as physical ecosystem engineers</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>78</volume>
+          <fpage>1946</fpage>
+          <lpage>1957</lpage>
+          <pub-id pub-id-type="doi">10.1890/0012-9658(1997)078[1946:PANEOO]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Kline et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kline</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Kuntz</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Breitbart</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Knowlton</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of elevated organic carbon levels and microbial activity in coral mortality</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>314</volume>
+          <fpage>119</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps314119</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Kuntz et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kuntz</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Kline</surname>
+              <given-names>DI</given-names>
+            </name>
+            <name>
+              <surname>Sandin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathologies and mortality rates caused by organic carbon and nutrient stressors in three Caribbean coral species</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>294</volume>
+          <fpage>173</fpage>
+          <lpage>180</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps294173</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Lee &amp; Fuhrman (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fuhrman</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationships between biovolume and biomass of naturally derived marine bacterioplankton</article-title>
+          <source>Applied Environmental Microbiology</source>
+          <year iso-8601-date="1987">1987</year>
+          <volume>53</volume>
+          <fpage>1298</fpage>
+          <lpage>1303</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>McCook (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCook</surname>
+              <given-names>LJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Macroalgae, nutrients and phase shifts on coral reefs: scientific issues and management consequences for the Great Barrier Reef</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>18</volume>
+          <fpage>357</fpage>
+          <lpage>367</lpage>
+          <pub-id pub-id-type="doi">10.1007/s003380050213</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>McDole et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McDole</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Nulton</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Barott</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Felts</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hand</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hatay</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Nadon</surname>
+              <given-names>MO</given-names>
+            </name>
+            <name>
+              <surname>Nosrat</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Salamon</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sandin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Vargas-Angel</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Youle</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zgliczynski</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Brainard</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessing coral reefs on a Pacific-wide scale using the microbialization score</article-title>
+          <source>PLoS ONE</source>
+          <issue>9</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>7</volume>
+          <elocation-id>e43233</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0043233</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>McManus &amp; Polsenberg (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McManus</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Polsenberg</surname>
+              <given-names>JF</given-names>
+            </name>
+          </person-group>
+          <article-title>Coral–algal phase shifts on coral reefs: ecological and environmental aspects</article-title>
+          <source>Progress in Oceanography</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>60</volume>
+          <fpage>263</fpage>
+          <lpage>279</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pocean.2004.02.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Morrow et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morrow</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Ritson-Williams</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Liles</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>VJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Macroalgal extracts induce bacterial assemblage shifts and sublethal tissue stress in Caribbean corals</article-title>
+          <source>PLoS ONE</source>
+          <issue>9</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>7</volume>
+          <elocation-id>e44859</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0044859</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Muscatine et al. (1984)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muscatine</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Falkowski</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Porter</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Dubinsky</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Fate of photosynthetic fixed carbon in light-and shade-adapted colonies of the symbiotic coral Stylophora pistillata</article-title>
+          <source>Proceedings of the Royal Society of London. Series B. Biological Sciences</source>
+          <year iso-8601-date="1984">1984</year>
+          <volume>222</volume>
+          <fpage>181</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.1984.0058</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Naumann et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naumann</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Mott</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>el-Zibdah</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Manasrah</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Budget of coral-derived organic carbon in a fringing coral reef of the Gulf of Aqaba, Red Sea</article-title>
+          <source>Journal of Marine Systems</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>105–108</volume>
+          <fpage>20</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmarsys.2012.05.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-44">
+        <label>Nelson et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Alldredge</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>McCliment</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Amaral-Zettler</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Carlson</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Depleted dissolved organic carbon and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem</article-title>
+          <source>The ISME Journal</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>5</volume>
+          <fpage>1374</fpage>
+          <lpage>1387</lpage>
+          <pub-id pub-id-type="doi">10.1038/ismej.2011.12</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-45">
+        <label>Nelson et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nelson</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Goldberg</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>LW</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Carlson</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Coral and macroalgal exudates vary in neutral sugar composition and differentially enrich reef bacterioplankton lineages</article-title>
+          <source>The ISME Journal</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>7</volume>
+          <fpage>962</fpage>
+          <lpage>979</lpage>
+          <pub-id pub-id-type="doi">10.1038/ismej.2012.161</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-46">
+        <label>Niggl, Haas &amp; Wild (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niggl</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Benthic community composition affects O<sub>2</sub> availability and variability in a Northern Red Sea fringing reef</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>644</volume>
+          <fpage>401</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10750-010-0200-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-47">
+        <label>Odum (1968)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Odum</surname>
+              <given-names>EP</given-names>
+            </name>
+          </person-group>
+          <article-title>Energy flow in ecosystems: a historical review</article-title>
+          <source>American Zoologist</source>
+          <year iso-8601-date="1968">1968</year>
+          <volume>8</volume>
+          <fpage>11</fpage>
+          <lpage>18</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-48">
+        <label>Paine (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paine</surname>
+              <given-names>RT</given-names>
+            </name>
+          </person-group>
+          <article-title>Food Webs: linkage, interaction strength and community infrastructure</article-title>
+          <source>Journal of Animal Ecology</source>
+          <year iso-8601-date="1980">1980</year>
+          <volume>49</volume>
+          <fpage>666</fpage>
+          <lpage>685</lpage>
+          <pub-id pub-id-type="doi">10.2307/4220</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-49">
+        <label>Palenik &amp; Morel (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Palenik</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Morel</surname>
+              <given-names>FMM</given-names>
+            </name>
+          </person-group>
+          <article-title>Amino acid utilization by marine phytoplankton: a novel mechanism</article-title>
+          <source>Limnology and Oceanography</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>35</volume>
+          <fpage>260</fpage>
+          <lpage>269</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.1990.35.2.0260</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-50">
+        <label>Rasheed et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Franke</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Huettel</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Benthic photosynthesis and oxygen consumption in permeable carbonate sediments at Heron Island, Great Barrier Reef, Australia. Estuarine</article-title>
+          <source>Coastal and Shelf Science</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>59</volume>
+          <fpage>139</fpage>
+          <lpage>150</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecss.2003.08.013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-51">
+        <label>Rosenberg et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Koren</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Reshef</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Efrony</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zilber-Rosenberg</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of microorganisms in coral health, disease and evolution</article-title>
+          <source>Nature Reviews Microbiology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>5</volume>
+          <fpage>355</fpage>
+          <lpage>362</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrmicro1635</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-52">
+        <label>Rusch, Hannides &amp; Gaidos (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rusch</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hannides</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Gaidos</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Diverse communities of active bacteria and archaea along oxygen gradients in coral reef sediments</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>28</volume>
+          <fpage>15</fpage>
+          <lpage>26</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00338-008-0427-y</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-53">
+        <label>Scheffers et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scheffers</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Nieuwland</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Bak</surname>
+              <given-names>RPM</given-names>
+            </name>
+            <name>
+              <surname>Van Duyl</surname>
+              <given-names>FC</given-names>
+            </name>
+          </person-group>
+          <article-title>Removal of bacteria and nutrient dynamics within the coral reef framework of Curaçao (Netherlands Antilles)</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>23</volume>
+          <fpage>413</fpage>
+          <lpage>422</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00338-004-0400-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-54">
+        <label>Schlichter &amp; Liebezeit (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schlichter</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Liebezeit</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>The natural release of amino acids from the symbiotic coral Heteroxenia fuscescens (Ehrb.) as a function of photosynthesis</article-title>
+          <source>Journal of Experimental Marine Biology and Ecology</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>150</volume>
+          <fpage>83</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-0981(91)90107-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-55">
+        <label>Schöttner et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schöttner</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Pfitzner</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Grünke</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ramette</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Drivers of bacterial diversity dynamics in permeable carbonate and silicate coral reef sands from the Red Sea</article-title>
+          <source>Environmental Microbiology</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>13</volume>
+          <fpage>1815</fpage>
+          <lpage>1826</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1462-2920.2011.02494.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-56">
+        <label>Sjöling et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sjöling</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mohammed</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Lyimo</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <name>
+              <surname>Kyaruzi</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Benthic bacterial diversity and nutrient processes in mangroves: impact of deforestation</article-title>
+          <source>Estuarine, Coastal and Shelf Science</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>63</volume>
+          <fpage>397</fpage>
+          <lpage>406</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecss.2004.12.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-57">
+        <label>Smith et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Obura</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Pantos</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Sala</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sandin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Smriga</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hatay</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rohwer</surname>
+              <given-names>FL</given-names>
+            </name>
+          </person-group>
+          <article-title>Indirect effects of algae on coral: algae-mediated, microbe-induced coral mortality</article-title>
+          <source>Ecology Letters</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>9</volume>
+          <fpage>835</fpage>
+          <lpage>845</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1461-0248.2006.00937.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-58">
+        <label>Sørensen et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sørensen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Glazer</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hannides</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gaidos</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Spatial structure of the microbial community in sandy carbonate sediment</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>346</volume>
+          <fpage>61</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps06996</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-59">
+        <label>Sournia (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sournia</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Oxygen metabolism of a fringing reef in French Polynesia</article-title>
+          <source>Helgoländer Wissenschaftliche Meeresuntersuchungen</source>
+          <year iso-8601-date="1976">1976</year>
+          <volume>28</volume>
+          <fpage>401</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01610589</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-60">
+        <label>Szmant, Ferrer &amp; FitzGerald (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szmant</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Ferrer</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>FitzGerald</surname>
+              <given-names>LM</given-names>
+            </name>
+          </person-group>
+          <article-title>Nitrogen excretion and 0:N ratios in reef corals: evidence for conservation of nitrogen</article-title>
+          <source>Marine Biology</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>104</volume>
+          <fpage>119</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01313165</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-61">
+        <label>Tanaka et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Miyajima</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Koike</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Hayashibara</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ogawa</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Production of dissolved and particulate organic matter by the reef-building corals <italic>Porites cylindrica</italic> and <italic>Acropora pulchra</italic></article-title>
+          <source>Bulletin of Marine Science</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>82</volume>
+          <fpage>237</fpage>
+          <lpage>245</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-62">
+        <label>Valiela (1984)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valiela</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <source>Marine ecological processes</source>
+          <year iso-8601-date="1984">1984</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Springer-Verlag</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-63">
+        <label>Wanders (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wanders</surname>
+              <given-names>JBW</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of benthic algae in the shallow reef of Curacao (Netherlands Antilles). I: Primary productivity in the coral reef</article-title>
+          <source>Aquatic Botany</source>
+          <year iso-8601-date="1976">1976</year>
+          <volume>2</volume>
+          <fpage>235</fpage>
+          <lpage>270</lpage>
+          <pub-id pub-id-type="doi">10.1016/0304-3770(76)90023-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-64">
+        <label>Werner et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Werner</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Blazejak</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bird</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Eickert</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Schoon</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Abed</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Bissett</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>de Beer</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Microbial photosynthesis in coral reef sediments (Heron Reef, Australia)</article-title>
+          <source>Estuarine, Coastal and Shelf Science</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>76</volume>
+          <fpage>876</fpage>
+          <lpage>888</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecss.2007.08.015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-65">
+        <label>Wild et al. (2004a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Huettel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Klueter</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kremb</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jørgensen</surname>
+              <given-names>BB</given-names>
+            </name>
+          </person-group>
+          <article-title>Coral mucus functions as an energy carrier and particle trap in the reef ecosystem</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="2004">2004a</year>
+          <volume>428</volume>
+          <fpage>66</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature02344</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-66">
+        <label>Wild et al. (2004b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Werner</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Franke</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Johnstone</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Huettel</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Degradation and mineralization of coral mucus in reef environments</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2004">2004b</year>
+          <volume>267</volume>
+          <fpage>159</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps267159</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-67">
+        <label>Wild, Woyt &amp; Huettel (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Woyt</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Huettel</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of coral mucus on nutrient fluxes in carbonate sediments</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>287</volume>
+          <fpage>87</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps287087</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-68">
+        <label>Wild et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Jantzen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Struck</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Huettel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Boetius</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Benthic metabolism and degradation of natural particulate organic matter in silicate and carbonate sands of the Northern Red Sea</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>298</volume>
+          <fpage>69</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps298069</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-69">
+        <label>Wild et al. (2008)</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Naumann</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mayr</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>el-Zibdah</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative investigation of organic matter release by corals and benthic reef algae – implications for pelagic and benthic microbial metabolism</article-title>
+          <source>Proceedings of the 11th international coral reef symposium</source>
+          <volume>2</volume>
+          <year iso-8601-date="2008">2008</year>
+          <conf-date>7–11 July 2008</conf-date>
+          <conf-loc>Ft. Lauderdale, Florida</conf-loc>
+          <fpage>1325</fpage>
+          <lpage>1329</lpage>
+          <comment>(Session number 25)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-70">
+        <label>Wild et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Niggl</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Naumann</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>AF</given-names>
+            </name>
+          </person-group>
+          <article-title>Organic matter release by Red Sea coral reef organisms - potential effects on microbial activity and in-situ O<sub>2</sub> availability</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>411</volume>
+          <fpage>61</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps08653</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-71">
+        <label>Wild et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wild</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hoegh-Guldberg</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Naumann</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Colombo-Pallotta</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Ateweberhan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fitt</surname>
+              <given-names>WK</given-names>
+            </name>
+            <name>
+              <surname>Iglesias-Prieto</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Bythell</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Ortiz</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Loya</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>van Woesik</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Climate change impedes scleractinian corals as primary reef ecosystem engineers</article-title>
+          <source>Marine &amp; Freshwater Research</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>62</volume>
+          <fpage>205</fpage>
+          <lpage>215</lpage>
+          <pub-id pub-id-type="doi">10.1071/MF10254</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

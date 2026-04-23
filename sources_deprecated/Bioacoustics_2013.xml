@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">103</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.103</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Animal Behavior</subject>
+          <subject>Biodiversity</subject>
+          <subject>Conservation Biology</subject>
+          <subject>Human-Computer Interaction</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Real-time bioacoustics monitoring and automated species identification</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Aide</surname>
+            <given-names>T. Mitchell</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <email>tmaide@yahoo.com</email>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Corrada-Bravo</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Campos-Cerqueira</surname>
+            <given-names>Marconi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Milan</surname>
+            <given-names>Carlos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Vega</surname>
+            <given-names>Giovany</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author">
+          <name>
+            <surname>Alvarez</surname>
+            <given-names>Rafael</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Biology, University of Puerto Rico-Rio Piedras</institution>, <addr-line>San Juan, Puerto Rico</addr-line>, <country>United States</country></aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Computer Science, University of Puerto Rico - Rio Piedras</institution>, <addr-line>San Juan, Puerto Rico</addr-line>, <country>United States</country></aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Huang</surname>
+            <given-names>Xiaolei</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-07-16">
+        <day>16</day>
+        <month>7</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e103</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-05-07">
+          <day>7</day>
+          <month>5</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-06-22">
+          <day>22</day>
+          <month>6</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Aide et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Aide et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/103"/>
+      <abstract>
+        <p>Traditionally, animal species diversity and abundance is assessed using a variety of methods that are generally costly, limited in space and time, and most importantly, they rarely include a permanent record. Given the urgency of climate change and the loss of habitat, it is vital that we use new technologies to improve and expand global biodiversity monitoring to thousands of sites around the world. In this article, we describe the acoustical component of the Automated Remote Biodiversity Monitoring Network (ARBIMON), a novel combination of hardware and software for automating data acquisition, data management, and species identification based on audio recordings. The major components of the cyberinfrastructure include: a solar powered remote monitoring station that sends 1-min recordings every 10 min to a base station, which relays the recordings in real-time to the project server, where the recordings are processed and uploaded to the project website (<uri xlink:href="http://arbimon.net/arbimon/">arbimon.net</uri>). Along with a module for viewing, listening, and annotating recordings, the website includes a species identification interface to help users create machine learning algorithms to automate species identification. To demonstrate the system we present data on the vocal activity patterns of birds, frogs, insects, and mammals from Puerto Rico and Costa Rica.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Acoustic monitoring</kwd>
+        <kwd>Machine learning</kwd>
+        <kwd>Animal vocalization</kwd>
+        <kwd>Long-term monitoring</kwd>
+        <kwd>Species-specific algorithms</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>DOD Legacy program</funding-source>
+          <award-id>W912DY-07-2-0006- P00001, P00002, P0003</award-id>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>National Science Foundation</funding-source>
+          <award-id>0640143</award-id>
+        </award-group>
+        <award-group id="fund-3">
+          <funding-source>University of Puerto Rico-Rio Piedras</funding-source>
+          <award-id>FIPI</award-id>
+        </award-group>
+        <funding-statement>Funds for this research were provided by the DOD Legacy program (W912DY-07-2-0006- P00001, P00002, P0003), National Science Foundation (0640143), and the University of Puerto Rico-Rio Piedras (FIPI). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Ecologists, conservation biologists, and park and resource managers are expected to make decisions to mitigate or manage the threats of climate change and the high rates of species loss. Unfortunately, they rarely have the information needed to make informed decisions because our understanding of most biological systems is based on very limited spatial and temporal coverage. In most biomes, data collection, particularly of the fauna, is concentrated in a few sites, and this highly aggregated distribution of information, limits our ability to understand large-scale ecological processes and to properly manage fauna in large areas (<xref ref-type="bibr" rid="ref-12">Gentry, 1990</xref>; <xref ref-type="bibr" rid="ref-37">Terborgh et al., 1990</xref>; <xref ref-type="bibr" rid="ref-10">Condit, 1995</xref>; <xref ref-type="bibr" rid="ref-31">Porter et al., 2005</xref>; <xref ref-type="bibr" rid="ref-40">Underwood, Hambäck &amp; Inouye, 2005</xref>; <xref ref-type="bibr" rid="ref-32">Porter et al., 2009</xref>). Furthermore, long-term information is needed to understand the implications of land and climate change on biological systems (<xref ref-type="bibr" rid="ref-31">Porter et al., 2005</xref>). From both a conceptual and management perspective there is an urgent challenge to increase biological data collection over large areas and through time.</p>
+      <p>What is needed are long-term population and distribution data for thousands of species across their range. For some economically important species (e.g., salmon) we have long-term data (<xref ref-type="bibr" rid="ref-24">Niemela, Julkunen &amp; Erkinaro, 2000</xref>), but for the majority of species the data is limited to a few years and a few populations. Other areas of science, such as meteorology and land change science have taken advantage of new technologies, such as inexpensive sensors, wireless communication, and satellite images to expand their data sets to the global scale (<xref ref-type="bibr" rid="ref-32">Porter et al., 2009</xref>). Given the urgency of the biodiversity crisis, it is essential that we take advantage of all available tools to improve biodiversity monitoring to thousands of sites around the world.</p>
+      <p>Traditionally, biodiversity is assessed using a variety of methods that are generally costly, limited in space and time (e.g., <xref ref-type="bibr" rid="ref-27">Parker, 1991</xref>; <xref ref-type="bibr" rid="ref-35">Sauer, Peterjohn &amp; Link, 1994</xref>; <xref ref-type="bibr" rid="ref-36">Sueur et al., 2008</xref>), and most importantly, they rarely include a permanent record. Furthermore, most fauna monitoring protocols require the presence of experts in the field because data are often acquired through indirect cues (e.g., animal vocalizations). This creates various problems. First, in terms of acoustic identification, there are few experts that can confidently identify animals based on vocalization, yet there are many studies that could benefit from this information. Second, experts vary in their abilities to correctly identify species, and this leads to observer bias (<xref ref-type="bibr" rid="ref-11">Fitzpatrick et al., 2009</xref>). Additionally, these protocols often collect data over a very limited spatial and temporal scale, and these constraints reduce the researcher’s ability to understand the dynamic patterns of animal populations. Furthermore, most traditional sampling methodologies do not include a permanent record and, thus, there is no way to validate the data.</p>
+      <p>In contrast, automated digital recording systems can monitor animal populations 24 h a day, every day of the year, in stations across a variety of habitats simultaneously, and all recordings can be permanently stored (<xref ref-type="bibr" rid="ref-2">Acevedo &amp; Villanueva-Rivera, 2006</xref>; <xref ref-type="bibr" rid="ref-5">Brandes, 2008</xref>; <xref ref-type="bibr" rid="ref-18">Lammers et al., 2008</xref>; <xref ref-type="bibr" rid="ref-36">Sueur et al., 2008</xref>; <xref ref-type="bibr" rid="ref-1">Acevedo et al., 2009</xref>; <xref ref-type="bibr" rid="ref-16">Hoeke et al., 2009</xref>; <xref ref-type="bibr" rid="ref-39">Tricas &amp; Boyle, 2009</xref>). This type of monitoring can be effective because in most ecosystems a large proportion of the fauna emits sounds for a variety of reasons including inter- and intraspecific communication, orientation (<xref ref-type="bibr" rid="ref-29">Peter &amp; Slabbekoorn, 2004</xref>), and detection and localization of prey and predators (<xref ref-type="bibr" rid="ref-33">Richardson et al., 1995</xref>), but most importantly, these sounds are species specific.</p>
+      <p>Automated data collection systems can collect an overwhelming amount of data, creating problems with data management and analysis (<xref ref-type="bibr" rid="ref-41">Villanueva-Rivera &amp; Pijanowski, 2012</xref>). To help solve these problems, researchers have developed algorithms to automate species identification of vocalizations of bats (<xref ref-type="bibr" rid="ref-14">Herr, Klomp &amp; Atkinson, 1997</xref>; <xref ref-type="bibr" rid="ref-42">Walters et al., 2012</xref>; <xref ref-type="bibr" rid="ref-28">Parsons &amp; Jones, 2000</xref>), whales (<xref ref-type="bibr" rid="ref-23">Murray, Mercado &amp; Roitblat, 1998</xref>; <xref ref-type="bibr" rid="ref-5">Brandes, 2008</xref>; <xref ref-type="bibr" rid="ref-20">Marques et al., 2012</xref>; <xref ref-type="bibr" rid="ref-21">Mellinger &amp; Clark, 2000</xref>; <xref ref-type="bibr" rid="ref-22">Moore et al., 2006</xref>), dolphins (<xref ref-type="bibr" rid="ref-26">Oswald, Barlow &amp; Norris, 2003</xref>), insects (<xref ref-type="bibr" rid="ref-7">Chesmore, 2004</xref>; <xref ref-type="bibr" rid="ref-8">Chesmore &amp; Ohya, 2004</xref>), and birds and amphibians (<xref ref-type="bibr" rid="ref-3">Anderson, Dave &amp; Margoliash, 1996</xref>; <xref ref-type="bibr" rid="ref-17">Kogan &amp; Margoliash, 1998</xref>; <xref ref-type="bibr" rid="ref-2">Acevedo &amp; Villanueva-Rivera, 2006</xref>; <xref ref-type="bibr" rid="ref-15">Hilje &amp; Aide, 2012</xref>; <xref ref-type="bibr" rid="ref-25">Ospina et al., 2013</xref>). A limitation with this approach is that most users do not have the programming or math skills to develop these algorithms. Furthermore, most projects have only produced algorithms for one or a few target species.</p>
+      <p>In this manuscript, we describe the acoustical component of the Automated Remote Biodiversity Monitoring Network (ARBIMON), a novel combination of hardware and software (cyberinfrastructure) for automating data acquisition, data management, and identification of multiple species of amphibians, birds, insects, and mammals. The main objectives of the manuscript are to demonstrate: (1) how detailed, long-term acoustical data can be collected and managed, (2) how users can create species-specific identification algorithms with no machine learning experience, and (3) how the information created by the system can be used to better understand the activity patterns and long-term population trends of the fauna. To demonstrate this system we present data on the activity patterns of nine species (4-amphibians, 2-birds, 1-mammals, and 2-insects) from an herbaceous wetland in Puerto Rico and a lowland tropical forest in La Selva Biological Station in Costa Rica.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Data acquisition</title>
+        <p>The cyberinfrastructure for collecting and storing the audio recordings includes: (1) the acoustic permanent station, (2) the field base station, and (3) the ARBIMON server (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The permanent monitoring station includes an iPod Touch (2G) with a pre-amplifier, which is powered with a 50 W solar panel, voltage converter, a router, and a 12 V car battery (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). A microphone with a frequency response range from 20 Hz to 20 kHz is attached to the iPod via the pre-amplifier. The battery, pre-amplifier, voltage converter, router, and iPod are housed in a water/shock proof case. The pre-amplifier has three gain settings. The gain was set at the intermediate level. Informal experiments suggest that this recording systems will detect the common coqui (<italic>Eleutherodactylus coqui</italic>) in a forest habitat up to approximately 50 m, suggesting that for this species the sampling area would be approximately 1 ha. An application in the iPod controls the duration of the recording and the time between recordings. Presently, it is programmed to record 1 min of audio every 10 min for a total of 144 1-min recordings per day. The recording schedule can be easily modified depending on the objectives of each project. The application generates a filename for each recording, instructs the software to make the recording, and sends the recording using Secure Copy (SCP) to a MacMini computer at the base station. These files are forwarded by wireless communication from the iPod to a router that is connected to a directional antenna (Avalan Wireless 900 MHz Radio Ethernet extender), which forwards the file to the receiving antenna that is connected to the base station computer. Our experience shows that this radio/antenna system can maintain a strong connection at a distance of 2 km through vegetation and up to 40 km if there is line-of-sight between the antennas.</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.103/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Workflow of data acquisition, processing, and management.</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/103/fig-1.png"/>
+        </fig>
+        <p>The main functions of the base station are to provide internet access, store all data files locally on a 1Tb external hard drive, compress the recordings to reduce the file size, and to forward these files to the project server at the University of Puerto Rico (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). These functions are activated every time a recording is received via a folder action and an Applescript. The script converts the recording from stereo to mono, and compresses it using flac format (an open source alternative for lossless compression and decompression of audio files, <uri xlink:href="http://flac.sourceforge.net/">http://flac.sourceforge.net/</uri>), stores the file locally, and sends a copy to the project server. The project server, an Apple Xserve (2.8 GHz Quad-Core Intel Xeon, 4–12 GB 800 MHz DDR2 FB-DIMM) running MacOS X 10.5.4 Server, Apache 2.2, Php 5.2.5 and MySQL5.0.45, is used for data storage, data backup, data management, analysis, and web hosting. The server also includes a Promise VTrak E610f RAID Subsystem with 12TB configured as a RAID6 for a total of 9TB of available space.</p>
+        <p>In addition, acoustic files collected using portable recorders (e.g., Passive Acoustic Monitoring (PAM) equipment) can be uploaded to the database. These files are managed and analyzed in the same way as the recordings from the acoustic permanent stations.</p>
+      </sec>
+      <sec>
+        <title>Database and data management</title>
+        <p>A normalized open source database schema using the MySQL database system is the cornerstone of our web application. The database is general enough so that it can be used for any acoustic project, allowing researchers to work with the data of their specific projects, but when appropriate it allows the merger and sharing of data among projects.</p>
+        <p>The centerpieces of the design are the sensors that acquire the data and the methods used to process the data, allowing our system to handle a variety of sensors, use different configurations of these sensors, and to create an efficient way to relate the data with the type of sensor and configuration. Additionally, this database architecture provides easy access to the data at different points in the processing path. This was accomplished by handling the data as both input and output, thus each data entity is output in one instance and input in the other. Up to now the principal sensors have been the recording stations described above and the core data of the database are the audio recordings (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) with their associated attributes: recording site (id, name, longitude, latitude and elevation) and study area (id, name, organization in charge and time zone).</p>
+        <sec>
+          <title>Database management</title>
+          <p>Although anyone can view and listen to the recordings on the project website, only approved users can analyze or annotate recordings. To manage projects and users within projects we have developed an administrative interface, which has three sections: administration, project creation and management, and global security. The administration component maintains the databases of all projects, keeps a log of all users’ activity, and documents any security breach or system failure. The project creation and management component allows a new user to (1) create a project, (2) specify site names, location, and time zone, and (3) assign users with different privilege levels of to the project. The global security component manages users and their privileges.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Data processing</title>
+        <p>When the audio files arrive to the project server, they are archived, and then sent to a program that extracts the raw data from the wav format to create a spectrogram of the recording. This spectrogram is created using a short-time Fourier transform (STFT) using 512 samples and a Hann window overlapping 256 samples. For one-minute recordings with a sample rate of 44,100 samples per second each cell of the matrix represents 86 Hz by 0.005 s. This matrix is used to generate the spectrogram image of the recording and is the input for another program that demarks areas of high energy within the recording as regions of interest (ROIs). In addition, an mp3 file is generated using LAME (<uri xlink:href="http://lame.sourceforge.net/">http://lame.sourceforge.net/</uri>) a high quality MPEG Audio Layer III (MP3) encoder licensed under the Lesser General Public License (LGPL). The smaller size of mp3 files makes them more appropriate for the web application, but the quality of the spectrogram or ROIs are not affected because they were generated using the original wav files.</p>
+        <p>The algorithm to create the regions of interest (ROIs) starts by analyzing the frequency-time matrix to determine the level of background noise within each frequency band. This information is used to define thresholds of audio intensity that the input signals in the recording must surpass to be considered as an acoustic event. For each frequency band, we determine the mean intensity value and keep only the samples that are greater than 10% above the mean. This process greatly reduces the data, making it suitable for storing as a compressed sparse matrix (CSR). We analyze the CSR containing the acoustic events using a depth-first search algorithm to create neighborhoods of pixels into a single region of interest (ROI). Once, the sample is used in a ROI they are removed from the CSR and the algorithm selects another event until all samples that were selected as an acoustic event participates in a ROI. The time and frequency variables that describe the bounding box of each ROI (minimum and maximum frequency, duration, maximum intensity and bandwidth) are the variables that are later used to create the automated species identification algorithms.</p>
+      </sec>
+      <sec>
+        <title>User interface for automating species identification</title>
+        <p>To automate species detection, we developed an application that uses Hidden Markov Models (HMMs). The application was designed so that the users can develop their own models using tools to view and listen to their recordings and to create, test, and validate species-specific identification models. The four major components that make up this interface included: (1) visualizer, (2) species validation, (3) model builder, and (4) model application.</p>
+        <sec>
+          <title>Visualizer</title>
+          <p>This module is used for viewing, listening, and annotating recordings. The visualizer was developed in OpenLaszlo (a flash framework) so that it would be compatibility across browsers. The interface can accept recordings of any length and from most recording devices. The visualizer includes tools/features (e.g., zoom, filters) to facilitate viewing, listening, and data analysis.</p>
+        </sec>
+        <sec>
+          <title>Species validation</title>
+          <p>This tool allows the user to specify which species/vocalization is present or absent in each recording (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Users need to have a validation data set to verify the accuracy and precision of each model. In addition, the user can determine if the particular vocalization is correctly marked by the automated ROI generator.</p>
+          <fig id="fig-2">
+            <object-id pub-id-type="doi">10.7717/peerj.103/fig-2</object-id>
+            <label>Figure 2</label>
+            <caption>
+              <title>The ARBIMON-acoustic web-based tools for creating, testing, and applying the species-specific identification models.</title>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/103/fig-2.png"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Model builder</title>
+          <p>This component has four sub-components. <list id="list-1" list-type="alpha-lower"><list-item><label>a.</label><p>Training data – The first step in developing a species-specific model is to provide training data for the model (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The user provides the training data by identifying examples of the vocalization. Each model is based on a specific vocalization of a species. The user selects a series of ROIs from the recording that reflect the desired vocalization model. For example, two chirps followed by a shrill. This process is repeated to provide the program with additional training examples. This information is saved in the database and is later used for the optimization of the model using the Baum-Welch algorithm (<xref ref-type="bibr" rid="ref-4">Baum et al., 1970</xref>).</p></list-item><list-item><label>b.</label><p>Model creation – We describe the sequence of a song as a Hidden Markov Model (HMM). The model is expressed as λ = (<italic>A</italic>, <italic>B</italic>, π) where <italic>A</italic> is a probability matrix for the transitions between states, <italic>B</italic> is a probability matrix for the emissions given the state and π is a vector of the probabilities of each state in the sequence. These probabilities are then optimized based on the observations in the training set using the Baum-Welch algorithm. The application requires the user to define the number and types of tones/notes in the species vocalization (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Then, using the training data acquired by the users, the program calculates the initial probabilities for the transition and emission matrices. The result of the Baum-Welch algorithm are the three optimized matrices <italic>A</italic>′, <italic>B</italic>′, π′ that are then used to calculate the probability that a given observation was generated by the model λ.</p></list-item><list-item><label>c.</label><p>Applying model – The initial model can be applied to any number of recordings (e.g., the default is 500 random recordings) in the database. The web application allows the user to visualize the results of the initial model, select correct responses, incorporate the correct responses into the training data to improve the model, and then reanalyze the data if necessary. These tools and the iterative process quickly allow the user to build an accurate species identification model. Once the user is satisfied with the model, it can then be tested against the validation data.</p></list-item><list-item><label>d.</label><p>Validation – In this step, the system applies the model only to the recordings that were validated for the presence/absence of the species/vocalization (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Next, the user is provided with an error matrix and statistics on the accuracy and precision of the model. Based on these statistics the user can modify the model by varying the range of values (e.g., minimum frequency, duration) used in determining which ROIs are used in the model. In addition, in this component the user can review the results. For example, the user can inspect recordings with false positives to determine how to improve the model.</p></list-item></list>
+               </p>
+          <p>The error or confusion matrix shows the number of true positives (species/vocalization determined as present by the user and detected by algorithm), true negative (species/vocalization determined as absent by the user and not detected by the algorithm), false positives (species/vocalization determined as absent by the user, but detected by the algorithm) and false negatives (species/vocalization determined as present by the user, but was not detected by the algorithm). In addition, the output includes estimates of precision and accuracy, which are calculated as: <list id="list-2" list-type="order"><list-item><label>(1)</label><p>Precision = true positives/ (true positives  + false positives)</p></list-item><list-item><label>(2)</label><p>Accuracy  = (true positives  + true negatives) / total</p></list-item></list>
+               </p>
+        </sec>
+        <sec>
+          <title>Model application</title>
+          <p>In this component, the user can apply the model to their complete data set (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). In our case, we have tested the system with more than five years of 1-min recordings (<italic>n</italic> = 173,526) from our original permanent recording station site in Sabana Seca, Puerto Rico, and 19,043 recordings from La Selva Biological Station in Costa Rica. The system took less than two hours to run the three models for Sabana Seca through all of the recordings. The results from this analysis can be exported in cvs format for further analyses. In addition, the user can “publish” the model, making it available to other users and other projects.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Study site and study species</title>
+        <p>To demonstrate the use of the ARBIMON-acoustic application we created species-specific models for amphibians, birds, mammals, and insects based on recordings from a site in Puerto Rico and a site in Costa Rica. The species were selected to cover a range of taxa with different types of vocalizations. Vocalizations of frogs and birds were confidently identified based on our experience and comparisons with different sources of animal calls. Unfortunately, the two insect species, most likely cicadas, could not be captured and identified, but we carefully documented the call characteristics to assure that we modeled a specific species in each site.</p>
+        <p>The site in Puerto Rico, Sabana Seca (SS), is a small (180 ha) wetland near the Caribbean Primate Research Center (CPRC) in Toa Baja, Puerto Rico (18°25′56.01″ N and 66°11′45.62″ W). <italic>Typha dominguensis</italic> (cattail) is the dominant species in the wetland. This site is the only known locality of <italic>Eleutherodactylus juanariveroi</italic> (coqui llanero), an endangered frog species that was recently discovered (<xref ref-type="bibr" rid="ref-34">Rios-Lopez &amp; Thomas, 2007</xref>). The major motivation for establishing a permanent recording station in Sabana Seca was to improve the information on the calling activity and population dynamics of <italic>E. juanariveroi</italic>. The station was established in March 2008, and for this study we present the results of species-specific identification models of the endemic frog species, <italic>E. juanariveroi</italic>, an exotic frog species <italic>Rana gryllo</italic> (pig frog), and an unidentified insect (insect #1).</p>
+        <p>The other study site was La Selva Biological Station (LSBS) in Costa Rica (10°25′ N, 84°01′ W). This reserve encompasses approximately 1,510 ha of which 64% is primary tropical forest, and contains a high diversity of flora and fauna (<xref ref-type="bibr" rid="ref-9">Clark &amp; Gentry, 1991</xref>). The objective of this project was to conduct broad acoustic monitoring within mature forest for all species that contribute to the acoustic community. For this site, we created species-specific identification models for six species: <italic>Tinamus major</italic> (great tinamou), <italic>Ramphastos swainsonii</italic> (chestnut-mandibled toucan), <italic>Oophaga pumilio</italic> (strawberry poison-dart frog), <italic>Diasporus diastema</italic> (tink frog), <italic>Alouatta palliata</italic> (mantled howler monkey), and an unidentified insect (insect #2).</p>
+        <p>In addition to the recordings from the two permanent stations described in this manuscript, other recordings have been added to the ARBIMON database from other permanent stations in Puerto Rico, Hawaii, and Arizona, and from portable recording systems in Puerto Rico, Costa Rica, Argentina, and Brazil. As of May 7, 2013, the system has &gt;1.3 million 1-min recordings, which can be freely accessed through the project web page (<uri xlink:href="http://arbimon.net/arbimon/">arbimon.net</uri>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Species identification models</title>
+        <p>To determine the accuracy and precision of the species identification models we compared the decisions made by the expert (i.e., validation data set) with the decision made by the models (<xref ref-type="table" rid="table-1">Table 1</xref>). The <italic>Oophaga pumilio</italic> vocalization model had the highest accuracy (99%), while the model for insect sp#2 had the lowest accuracy (79%). Similarly, the <italic>Oophaga pumilio</italic> vocalization model had the highest precision (100%), but the <italic>Alouatta palliata</italic> model had the lowest precision (76%) due to the high level of false positives. In general, most of the models had relatively low levels of false positives (&lt;5%), and higher levels of false negatives. For example, the <italic>Tinamous major</italic> model reported only 1 presence when the vocalization was actually absent (i.e., false positive), but 41 times the model reported the species was absent when it was really present (i.e., false negative). These results suggest that these models are relatively conservative; they rarely confused the species with another, but they do not always detect the species when it is present as determined by an expert through visual and/or aural inspection.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.103/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Confusion matrix of the species-specific models.</title>
+            <p>The confusion matrix results based on a comparison of the validation training set for each of the nine species with the model results.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/103/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Species</th>
+                  <th align="left">Site</th>
+                  <th align="left">Validation<break/>data (<italic>n</italic>)</th>
+                  <th align="left">True<break/>positives</th>
+                  <th align="left">False<break/>positives</th>
+                  <th align="left">True<break/>negatives</th>
+                  <th align="left">False<break/>negatives</th>
+                  <th align="left">Accuracy</th>
+                  <th align="left">Precision</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">
+                    <italic>Oophaga pumilio</italic>
+                  </td>
+                  <td align="left">LSBS</td>
+                  <td align="left">183</td>
+                  <td align="left">31</td>
+                  <td align="left">0</td>
+                  <td align="left">150</td>
+                  <td align="left">2</td>
+                  <td align="left">99</td>
+                  <td align="left">100</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Ramphastos swainsonii</italic>
+                  </td>
+                  <td align="left">LSBS</td>
+                  <td align="left">395</td>
+                  <td align="left">24</td>
+                  <td align="left">5</td>
+                  <td align="left">348</td>
+                  <td align="left">18</td>
+                  <td align="left">94</td>
+                  <td align="left">83</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Alouatta palliata</italic>
+                  </td>
+                  <td align="left">LSBS</td>
+                  <td align="left">342</td>
+                  <td align="left">35</td>
+                  <td align="left">11</td>
+                  <td align="left">288</td>
+                  <td align="left">8</td>
+                  <td align="left">94</td>
+                  <td align="left">76</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Tinamus major</italic>
+                  </td>
+                  <td align="left">LSBS</td>
+                  <td align="left">407</td>
+                  <td align="left">67</td>
+                  <td align="left">1</td>
+                  <td align="left">298</td>
+                  <td align="left">41</td>
+                  <td align="left">90</td>
+                  <td align="left">99</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Rana grylio</italic>
+                  </td>
+                  <td align="left">SS</td>
+                  <td align="left">127</td>
+                  <td align="left">37</td>
+                  <td align="left">6</td>
+                  <td align="left">76</td>
+                  <td align="left">8</td>
+                  <td align="left">89</td>
+                  <td align="left">86</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Eleutherodactylus juanariveroi</italic>
+                  </td>
+                  <td align="left">SS</td>
+                  <td align="left">231</td>
+                  <td align="left">109</td>
+                  <td align="left">6</td>
+                  <td align="left">88</td>
+                  <td align="left">28</td>
+                  <td align="left">85</td>
+                  <td align="left">95</td>
+                </tr>
+                <tr>
+                  <td align="left">Insect 01</td>
+                  <td align="left">SS</td>
+                  <td align="left">130</td>
+                  <td align="left">50</td>
+                  <td align="left">7</td>
+                  <td align="left">61</td>
+                  <td align="left">12</td>
+                  <td align="left">85</td>
+                  <td align="left">88</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <italic>Diaspora diastema</italic>
+                  </td>
+                  <td align="left">LSBS</td>
+                  <td align="left">190</td>
+                  <td align="left">54</td>
+                  <td align="left">4</td>
+                  <td align="left">101</td>
+                  <td align="left">31</td>
+                  <td align="left">82</td>
+                  <td align="left">93</td>
+                </tr>
+                <tr>
+                  <td align="left">Insect 02</td>
+                  <td align="left">LSBS</td>
+                  <td align="left">163</td>
+                  <td align="left">53</td>
+                  <td align="left">1</td>
+                  <td align="left">75</td>
+                  <td align="left">34</td>
+                  <td align="left">79</td>
+                  <td align="left">98</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="table-1fn">
+              <p>
+                <bold>Notes.</bold>
+              </p>
+            </fn>
+            <fn id="table-1fn1" fn-type="other">
+              <p>LSBS – La Selva Biological Station, Costa Rica; SS – Sabana Seca, Puerto Rico.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>There are two main causes for the false negatives. First, if the ROI generator does not mark the vocalization, it will not be incorporated into the analysis. This usually happens when the calling individual is far from the microphone and the vocalization was too faint to be detected by the ROI generator, but the expert could observe or hear the species in spectrogram and included the species as present in the validation data set. A second cause of false negatives occurred because we restricted the range of some parameters to minimize false positives, which could increase the number of false negatives.</p>
+        <p>There were many different causes of false positives. For example, thunderstorms created ROIs that were similar to those of <italic>Alouatta palliata</italic>. Mechanical noise caused by wind was the main cause of misidentifications of <italic>Rana grylio</italic>. The main source of false positives of <italic>Diaspora diastema</italic> was vocalizations of <italic>Oophaga pumilio</italic>. Nevertheless, this level of confusion in the identifications of <italic>D. diastema</italic> did not significantly change the description of the daily vocal activity pattern in comparison with previous studies (<xref ref-type="bibr" rid="ref-13">Graves, 1999</xref>; <xref ref-type="bibr" rid="ref-15">Hilje &amp; Aide, 2012</xref>).</p>
+      </sec>
+      <sec>
+        <title>Species daily and annual activity patterns</title>
+        <p>These species-specific models were applied to all recordings from the two sites (SS – 173,526; LSBS – 19,043), and the detection data were used to determine the patterns of daily (SS and LSBS) and annual (SS) activity.</p>
+        <p>In Sabana Seca, the vocalization patterns of the three species were concentrated during the night, but the peak in activity of each species occurred at different times (<xref ref-type="fig" rid="fig-3">Figs. 3A</xref>–<xref ref-type="fig" rid="fig-3">3C</xref>). The native species, <italic>Eleutherodactylus juanariveroi</italic> had two peaks of vocal activity, one at dawn (5:00) and a higher and narrower peak at dusk (18:00). The exotic frog, <italic>Rana grylio</italic>, had a peak of vocal activity at 4:00; while insect sp #1 had a peak of activity at 21:00. The two frog species had low levels of activity during the day (6:00–18:00), and there were virtually no detections of the insect during the day.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.103/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Vocal activity in Sabana Seca.</title>
+            <p>Daily (A–C) and monthly (D–F) vocal activity of three species from Sabana Seca, Puerto Rico. The number in parenthesis is the number of recordings where the species was detected by the model. The detection frequency was calculated as the number of recordings with a positive detection divided by the total number of recordings during the time period.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/103/fig-3.png"/>
+        </fig>
+        <p>The same data were used to visualize the pattern of vocal activity between October 2008 and April 2013 (<xref ref-type="fig" rid="fig-3">Figs. 3D</xref>–<xref ref-type="fig" rid="fig-3">3F</xref>). On average, the monthly detection frequencies of <italic>E. juanariveroi</italic> were around 0.20, but between October 2008 and May 2012 there was a significant decline in vocal activity (<xref ref-type="bibr" rid="ref-25">Ospina et al., 2013</xref>). Our data show that since May 2012 there has been a dramatic increase in detection frequency, and in September 2012, <italic>E. juanariveroi</italic> was detected in ∼30% of the recordings. The activity pattern of <italic>Rana grylio</italic> was more seasonally predictable. Each year there was a peak in vocal activity during the rainy season, between April and October, when calling activity (i.e., detection frequency) increased from &lt;0.02 during most of the year to ∼0.10 during the peaks. In 2009, the detection frequency increased to 0.30 during the peak. These results reflect the biology of this aquatic species, which breeds during the wettest and warmest time of the year (<xref ref-type="bibr" rid="ref-38">Thorson &amp; Svihla, 1943</xref>). In contrast to the seasonal pattern of <italic>R. grylio</italic>, the vocal activity of insect sp#1 was highly variable and much less frequent (<xref ref-type="fig" rid="fig-3">Fig. 3F</xref>). In some months the species was rarely detected, but the following month the detection rate could increase by 2 to 4 fold, suggesting that the population of this species is highly dynamic.</p>
+        <p>In La Selva Biological Station, the variable pattern of daily vocal activity reflects the diversity of taxa that were studied (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). The great tinamou (<italic>Tinamus major</italic>) and the chestnut-mandibled toucan (<italic>Ramphastos swainsonii</italic>) had peaks of activity at dawn and another at dusk, as is expected for most bird species (<xref ref-type="bibr" rid="ref-37">Terborgh et al., 1990</xref>). The howler monkey (<italic>Alouatta palliata</italic>) also had peaks of activity at dawn and dusk, but in contrast with the two bird species, it had a larger proportion of its detections during the day. The two frog species had very contrasting daily patterns of vocalization (<xref ref-type="fig" rid="fig-4">Figs. 4D</xref>–<xref ref-type="fig" rid="fig-4">4E</xref>). The peak in activity of <italic>Diaspora diastema</italic> occurred during the night with a peak of activity at 3:00 and small peak at 18:00, but there was also a low level of activity throughout the day. In contrast, the majority of vocal activity of <italic>Oophaga pumilio</italic> occurred during the day, with a peak (&gt;28% of detections) at 7 am. The model for insect #2 showed virtually no activity during the day and a peak in vocalization around 22:00.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.103/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Vocal activity in La Selva.</title>
+            <p>Daily vocal activity of six species from La Selva Biological Station, Costa Rica. The number in parenthesis is the number of recordings where the species was detected by the model. The detection frequency was calculated as the number of recordings with a positive detection divided by the total number of recordings during the time period.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/103/fig-4.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <sec>
+        <title>How detailed, long-term acoustical data can be collected and managed</title>
+        <p>Here we have demonstrated how frequent (sub-hourly) data collection over long time periods (years) can be carried out, and how the data can be managed, archived, and analyzed virtually in real-time. By recording one minute of audio, every 10 min, we were able to achieve fine temporal resolution, covering 24 h a day, seven days of the week over a five year period in Puerto Rico. This fine-scale and long-term temporal sampling, now needs to be matched spatially with many sensors across the landscape.</p>
+        <p>The detailed and long-term temporal sampling of these sites could not have been accomplished without automating data acquisition, processing, and management. The automation of data collection also provided additional benefits. First, recordings can be inspected visually and aurally in real-time. Recordings from the Sabana Seca station took less than 1 min to be sent from the field, to the base station, and on to the project server where it was processed, stored, and incorporated into the project’s open-access web site. This real-time monitoring can help researchers and managers respond rapidly to important events, particularly when a model that identifies a focal species has been incorporated into the data processing scripts. Another benefit of the real time processing is that we can easily detect any malfunction of the hardware or software by inspecting the recordings, and then respond quickly to limit data loss. The Sabana Seca system collected recordings between 60 and 70% of the time. The major causes of data loss were: (1) loss of power due to extended cloud cover or vegetation growing over the solar panel, (2) loss of power at the base station, and (3) network problems at the base station. Nevertheless, the real cause of missing data was a slow response by our staff to solve these problems. To accelerate the response time, we have developed an application that continuously collects information from each station and generates an alert in the form of an email to the project owner when the station is malfunctioning.</p>
+        <p>Other benefits of automating data collection include: (1) reduced observer bias and (2) each recording is a verifiable permanent record, equivalent to a museum specimen. Even if observers could stay in the field 24 hr/d throughout the year, there would still be a problem of observer bias (<xref ref-type="bibr" rid="ref-6">Cerqueira et al., in press</xref>). This is a major limitation especially when it is necessary to sample many sites simultaneously or when data are collected over many years by many different observers. The ability to detect and identify an animal vocalization correctly may require years of experience. But, there can also be high levels of variation among “experts” due to differences in the habitat being sampled, hearing ability, or biases toward certain species (<xref ref-type="bibr" rid="ref-35">Sauer, Peterjohn &amp; Link, 1994</xref>). Another benefit is that each recording is a permanent record, which allows multiple users to review them, leading to more accurate identifications and consequently more accurate estimates of population parameters. All recordings archived in ARBIMON (<uri xlink:href="http://arbimon.net/arbimon/">arbimon.net</uri>) are open access, and thus it is the equivalent of an acoustic museum, presently with &gt;1.3 million 1-min recordings.</p>
+        <p>Our approach is very different in comparison with most other collections of animal vocalizations. For example, the recordings from the Macaulay Library of the Cornell Lab of Ornithology, Xeno-canto, and the Internet Bird Collection are important collections of animal vocalizations and photographs, but their focus is species specific. Furthermore, many species are represented by one or a few recordings. In contrast, our approach is to record the environment (i.e., soundscape), frequently and over the long-term. This allows multiple users to take advantage of the recordings. For example, while the initial objective of a project may be to study a specific bird species, the vocalizations of many other species (e.g., insects, frogs, birds and mammals) are likely to be present. In addition, a soundscape index, an integrated measure of the acoustic environment, can be calculated and measured across time to estimate changes in biodiversity or other factors affecting the acoustic environment (<xref ref-type="bibr" rid="ref-36">Sueur et al., 2008</xref>; <xref ref-type="bibr" rid="ref-30">Pijanowski et al., 2011</xref>). Moreover, given that all recordings will be permanently archived, future users, with new tools and questions will be able to reanalyze these recordings in the future.</p>
+        <p>Although there are many benefits of a permanent station, the user must consider the costs and other limitations. The initial cost of establishing a permanent recording stations will vary depending on the site and logistics, and could range from approximately US $10,000 to $20,000. Another important cost is the processing and long-term storage of the audio files. We have estimated the cost at US $0.15 per 1-min recording. Other limitations associated with any monitoring program that depends on audio recordings include: (1) poor or no detection of species or individuals that rarely use acoustic signals for communication (e.g., females and juvenile), (2) a single permanent or fixed station will only record biotic activity in a limited radius around the station and this distance will vary among species depending on the sound pressure generated by the calling individual (<xref ref-type="bibr" rid="ref-19">Llusia, Marquez &amp; Bowker, 2011</xref>), and (3) using models to identify species-specific vocalizations in recordings with varying degrees of intense background noise (e.g., other species, rain, wind, automobile traffic) could result in misidentifications.</p>
+      </sec>
+      <sec>
+        <title>Species-specific identification models and daily and long-term activity patterns</title>
+        <p>For many studies, presence/absence data or an index of relative abundance can be very useful, but it is not easy to extract this information from thousands of recordings. While some researchers have the programming skills to manage and analyze their recordings, most do not. Typically, researchers resort to listening to a subset of their recordings, which can be very time consuming and leads to a considerable loss of data. In contrast, the ARBIMON-acoustic software allows the user to reduce the time analyzing recordings, while taking advantage of the complete data set. To do this the user must only inspect a subset of the recordings to provide examples of the species-specific vocalization (i.e., training data) and create the validation data set, which is needed for training the initial model and to evaluate the accuracy and precision of each model, respectively. Our results illustrate that the species-specific identification models created using the ARBIMON-acoustic system worked well for birds, mammals, amphibians and insects, and the models had high levels of accuracy and precision. These models allowed us to process 100,000s of recordings to generate detailed information on daily and monthly vocalization patterns for these species. Another important feature is that these models can be used in other projects, allowing new users to dedicate their time to producing new models of other vocalizations made by the same species or of other species. Most importantly, these web-based tools greatly simplify the process of extracting useful results for researchers and managers from the raw data (i.e., recordings), which should help the users to improve and expand their ecological monitoring programs.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the past and present members of the ARBIMON team for their support in developing and maintaining the hardware and software. We thank the personnel of the Caribbean Primate Research Center and La Selva Biological Station (LSBS) in Costa Rica for their logistical support.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors declare no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">T. Mitchell Aide</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Carlos Corrada-Bravo</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Marconi Campos-Cerqueira</xref> performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Carlos Milan</xref>, <xref ref-type="contrib" rid="author-5">Giovany Vega</xref> and <xref ref-type="contrib" rid="author-6">Rafael Alvarez</xref> performed the experiments, contributed reagents/materials/analysis tools.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Acevedo et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Acevedo</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Corrada-Bravo</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Corrada-Bravo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Villanueva-Rivera</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Aide</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <article-title>Automated classification of bird and amphibian calls using machine learning: a comparison of methods</article-title>
+          <source>Ecological Informatics</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>4</volume>
+          <fpage>206</fpage>
+          <lpage>214</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecoinf.2009.06.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Acevedo &amp; Villanueva-Rivera (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Acevedo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Villanueva-Rivera</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Using automated digital recording systems as effective tools for the monitoring of birds and amphibians</article-title>
+          <source>Wildlife Society Bulletin</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>34</volume>
+          <fpage>211</fpage>
+          <lpage>214</lpage>
+          <pub-id pub-id-type="doi">10.2193/0091-7648(2006)34[211:UADRSA]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Anderson, Dave &amp; Margoliash (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anderson</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Dave</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Margoliash</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Template-based automatic recognition of birdsong syllables from continuous recordings</article-title>
+          <source>The Journal of the Acoustical Society of America</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>100</volume>
+          <fpage>1209</fpage>
+          <lpage>1219</lpage>
+          <pub-id pub-id-type="doi">10.1121/1.415968</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Baum et al. (1970)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baum</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Petrie</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Soules</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Weiss</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>A maximization technique occurring in the statistical analysis of probabilistic functions of Markov Chains</article-title>
+          <source>The Annals of Mathematical Statistics</source>
+          <year iso-8601-date="1970">1970</year>
+          <volume>41</volume>
+          <fpage>164</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="doi">10.1214/aoms/1177697196</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Brandes (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brandes</surname>
+              <given-names>ST</given-names>
+            </name>
+          </person-group>
+          <article-title>Automated sound recording and analysis techniques for bird surveys and conservation</article-title>
+          <source>Bird Conservation International</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>18</volume>
+          <fpage>163</fpage>
+          <lpage>173</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Cerqueira et al. (in press)</label>
+        <element-citation publication-type="other">
+          <person-group>
+            <name>
+              <surname>Cerqueira</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Cohn-Haft</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vargas</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Nader</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Andretti</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>TVV</given-names>
+            </name>
+            <name>
+              <surname>Sberze</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hines</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <comment>Rare or elusive? A test of expert knowledge about rarity of Amazon forest birds. <italic>Diversity and Distributions</italic> (in press)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Chesmore (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chesmore</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Automated bioacoustic identification of species</article-title>
+          <source>Anais da Academia Brasileira de Ciências</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>76</volume>
+          <fpage>436</fpage>
+          <lpage>440</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0001-37652004000200037</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Chesmore &amp; Ohya (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chesmore</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Ohya</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Automated identification of field-recorded songs of four British grasshoppers using bioacoustic signal recognition</article-title>
+          <source>Bulletin of Entomological Research</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>94</volume>
+          <fpage>319</fpage>
+          <lpage>330</lpage>
+          <pub-id pub-id-type="doi">10.1079/BER2004306</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Clark &amp; Gentry (1991)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clark</surname>
+              <given-names>DB</given-names>
+            </name>
+            <name>
+              <surname>Gentry</surname>
+              <given-names>AH</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Gentry</surname>
+              <given-names>AH</given-names>
+            </name>
+          </person-group>
+          <article-title>La Selva Biological Station: a blueprint for stimulating tropical research</article-title>
+          <source>Four neotropical rainforests</source>
+          <year iso-8601-date="1991">1991</year>
+          <publisher-loc>New Haven</publisher-loc>
+          <publisher-name>Yale University Press</publisher-name>
+          <fpage>9</fpage>
+          <lpage>27</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Condit (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Condit</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Research in large, long-term tropical forest plots</article-title>
+          <source>Trends in Ecology &amp; Evolution</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>10</volume>
+          <fpage>18</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0169-5347(00)88955-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Fitzpatrick et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fitzpatrick</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Preisser</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Ellison</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Elkinton</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Observer bias and the detection of low-density populations</article-title>
+          <source>Ecological Applications</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>19</volume>
+          <fpage>1673</fpage>
+          <lpage>1679</lpage>
+          <pub-id pub-id-type="doi">10.1890/09-0265.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Gentry (1990)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gentry</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>Four neotropical rainforests</source>
+          <year iso-8601-date="1990">1990</year>
+          <publisher-loc>New Haven</publisher-loc>
+          <publisher-name>Yale University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Graves (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Graves</surname>
+              <given-names>BM</given-names>
+            </name>
+          </person-group>
+          <article-title>Diel activity patterns of the sympatric poison dart frogs, <italic>Dendrobates auratus</italic> and <italic>D. pumilio</italic>, in Costa Rica</article-title>
+          <source>Journal of Herpetology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>33</volume>
+          <fpage>375</fpage>
+          <lpage>381</lpage>
+          <pub-id pub-id-type="doi">10.2307/1565634</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Herr, Klomp &amp; Atkinson (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herr</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Klomp</surname>
+              <given-names>NI</given-names>
+            </name>
+            <name>
+              <surname>Atkinson</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of bat echolocation calls using a decision tree classification system</article-title>
+          <source>Complexity International</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>4</volume>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Hilje &amp; Aide (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hilje</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Aide</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <article-title>Calling activity of the common tink frog (<italic>Diasporus diastema</italic>) (Eleutherodactylidae) in secondary forests of the Caribbean of Costa Rica</article-title>
+          <source>Tropical Conservation Science</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>5</volume>
+          <fpage>25</fpage>
+          <lpage>37</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Hoeke et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoeke</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Gove</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Fisher-Pool</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lammers</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vetter</surname>
+              <given-names>OJ</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>KB</given-names>
+            </name>
+            <name>
+              <surname>Brainard</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <article-title>Coral reef ecosystem integrated observing system: in-situ oceanographic observations at the US Pacific islands and atolls</article-title>
+          <source>Journal of Operational Oceanography</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>2</volume>
+          <fpage>3</fpage>
+          <lpage>14</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Kogan &amp; Margoliash (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kogan</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Margoliash</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Automated recognition of bird song elements from continuous recordings using dynamic time warping and Hidden Markov Models: a comparative study</article-title>
+          <source>The Journal of the Acoustical Society of America</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>103</volume>
+          <fpage>2185</fpage>
+          <lpage>2196</lpage>
+          <pub-id pub-id-type="doi">10.1121/1.421364</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Lammers et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lammers</surname>
+              <given-names>MO</given-names>
+            </name>
+            <name>
+              <surname>Brainard</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Au</surname>
+              <given-names>WWL</given-names>
+            </name>
+            <name>
+              <surname>Mooney</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>KB</given-names>
+            </name>
+          </person-group>
+          <article-title>An ecological acoustic recorder (EAR) for long-term monitoring of biological and anthropogenic sounds on coral reefs and other marine habitats</article-title>
+          <source>The Journal of the Acoustical Society of America</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>123</volume>
+          <fpage>1720</fpage>
+          <lpage>1728</lpage>
+          <pub-id pub-id-type="doi">10.1121/1.2836780</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Llusia, Marquez &amp; Bowker (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Llusia</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Marquez</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bowker</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Terrestrial sound monitoring systems, a methodology for quantitative calibration</article-title>
+          <source>Bioacoustics</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>20</volume>
+          <fpage>277</fpage>
+          <lpage>286</lpage>
+          <pub-id pub-id-type="doi">10.1080/09524622.2011.9753651</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Marques et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marques</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Mellinger</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Moretti</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Tyack</surname>
+              <given-names>PL</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimating animal population density using passive acoustics</article-title>
+          <source>Biological Reviews of the Cambridge Philosophical Society</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>88</volume>
+          <fpage>287</fpage>
+          <lpage>309</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Mellinger &amp; Clark (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mellinger</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>CW</given-names>
+            </name>
+          </person-group>
+          <article-title>Recognizing transient low-frequency whale sounds by spectrogram correlation</article-title>
+          <source>The Journal of the Acoustical Society of America</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>107</volume>
+          <fpage>3518</fpage>
+          <lpage>3529</lpage>
+          <pub-id pub-id-type="doi">10.1121/1.429434</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Moore et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Stafford</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Mellinger</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Hildebrand</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Listening for large whales in the offshore waters of Alaska</article-title>
+          <source>BioScience</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>56</volume>
+          <fpage>49</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1641/0006-3568(2006)056[0049:LFLWIT]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Murray, Mercado &amp; Roitblat (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murray</surname>
+              <given-names>SO</given-names>
+            </name>
+            <name>
+              <surname>Mercado</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Roitblat</surname>
+              <given-names>HL</given-names>
+            </name>
+          </person-group>
+          <article-title>The neural network classification of false killer whale (<italic>Pseudorca crassidens</italic>) vocalizations</article-title>
+          <source>The Journal of the Acoustical Society of America</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>104</volume>
+          <fpage>3626</fpage>
+          <lpage>3633</lpage>
+          <pub-id pub-id-type="doi">10.1121/1.423945</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Niemela, Julkunen &amp; Erkinaro (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Niemela</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Julkunen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Erkinaro</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative electrofishing for juvenile salmon densities: assessment of the catchability during a long-term monitoring programme</article-title>
+          <source>Fisheries Research</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>48</volume>
+          <fpage>15</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0165-7836(00)00113-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Ospina et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ospina</surname>
+              <given-names>OE</given-names>
+            </name>
+            <name>
+              <surname>Villanueva-Rivera</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Corrada-Bravo</surname>
+              <given-names>CJ</given-names>
+            </name>
+            <name>
+              <surname>Aide</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <article-title>Variable response of anuran calling activity to daily precipitation and temperature: implications for climate change</article-title>
+          <source>Ecosphere</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>4</volume>
+          <comment>article #47</comment>
+          <pub-id pub-id-type="doi">10.1890/ES12-00258.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Oswald, Barlow &amp; Norris (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oswald</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Barlow</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Norris</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Acoustic identification of nine delphinid species in the eastern tropical Pacific Ocean</article-title>
+          <source>Marine Mammal Science</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>19</volume>
+          <fpage>20</fpage>
+          <lpage>37</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1748-7692.2003.tb01090.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Parker (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parker</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>On the use of tape recorders in avifaunal surveys</article-title>
+          <source>The Auk</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>108</volume>
+          <fpage>443</fpage>
+          <lpage>444</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Parsons &amp; Jones (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parsons</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Acoustic identification of twelve species of echolocating bat by discriminant function analysis and artificial neural networks</article-title>
+          <source>The Journal of Experimental Biology</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>203</volume>
+          <fpage>2641</fpage>
+          <lpage>2656</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Peter &amp; Slabbekoorn (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Peter</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Slabbekoorn</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <source>Nature’s music: the science of birdsong</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>San Diego</publisher-loc>
+          <publisher-name>Academic Press/Elsevier</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Pijanowski et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pijanowski</surname>
+              <given-names>BC</given-names>
+            </name>
+            <name>
+              <surname>Villanueva-Rivera</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Dumyahn</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Farina</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Krause</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Napoletano</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Gage</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Pieretti</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Soundscape ecology: the science of sound in the landscape</article-title>
+          <source>BioScience</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>61</volume>
+          <fpage>203</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="doi">10.1525/bio.2011.61.3.6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Porter et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Porter</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Arzberger</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Braun</surname>
+              <given-names>H-W</given-names>
+            </name>
+            <name>
+              <surname>Bryant</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gage</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hansen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hanson</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>C-C</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>F-P</given-names>
+            </name>
+            <name>
+              <surname>Kratz</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Michener</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Shapiro</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Wireless sensor networks for ecology</article-title>
+          <source>BioScience</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>55</volume>
+          <fpage>561</fpage>
+          <lpage>572</lpage>
+          <pub-id pub-id-type="doi">10.1641/0006-3568(2005)055[0561:WSNFE]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Porter et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Porter</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Nagy</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kratz</surname>
+              <given-names>TK</given-names>
+            </name>
+            <name>
+              <surname>Hanson</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>New eyes on the world: advanced sensors for ecology</article-title>
+          <source>BioScience</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>59</volume>
+          <fpage>385</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="doi">10.1525/bio.2009.59.5.6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Richardson et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Richardson</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Finley</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>GW</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Koski</surname>
+              <given-names>WR</given-names>
+            </name>
+          </person-group>
+          <article-title>Feeding, social and migration behavior of bowhead whales, <italic>Balaena mysticeus</italic>, in Baffin Bay vs. the Beaufort Sea - regions with different amounts of human activity</article-title>
+          <source>Marine Mammal Science</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>11</volume>
+          <fpage>1</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1748-7692.1995.tb00272.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Rios-Lopez &amp; Thomas (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rios-Lopez</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>A new species of palustrine Eleutherodactylus (Anura: Leptodactylidae) from Puerto Rico</article-title>
+          <source>Zootaxa</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>1512</volume>
+          <fpage>51</fpage>
+          <lpage>64</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Sauer, Peterjohn &amp; Link (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sauer</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Peterjohn</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>WA</given-names>
+            </name>
+          </person-group>
+          <article-title>Observer differences in the North America breeding bird survey</article-title>
+          <source>The Auk</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>111</volume>
+          <fpage>50</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="doi">10.2307/4088504</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Sueur et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sueur</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pavoine</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hamerlynck</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Duvail</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapid acoustic survey for biodiversity appraisal</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>3</volume>
+          <comment>e4065</comment>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0004065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Terborgh et al. (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Terborgh</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>TA</given-names>
+              <suffix>III</suffix>
+            </name>
+            <name>
+              <surname>Munn</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Pierpont</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Structure and organization of an Amazonian forest bird community</article-title>
+          <source>Ecological Monographs</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>60</volume>
+          <fpage>213</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="doi">10.2307/1943045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Thorson &amp; Svihla (1943)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thorson</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Svihla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Correlation of the habitats of amphibians with their ability to survive the loss of body water</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1943">1943</year>
+          <volume>24</volume>
+          <fpage>374</fpage>
+          <lpage>381</lpage>
+          <pub-id pub-id-type="doi">10.2307/1930538</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Tricas &amp; Boyle (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tricas</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Boyle</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Validated reef fish sound scans of passive acoustic monitors on Hawaiian coral reefs</article-title>
+          <source>The Journal of the Acoustical Society of America</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>125</volume>
+          <fpage>2589</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Underwood, Hambäck &amp; Inouye (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Underwood</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Hambäck</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Inouye</surname>
+              <given-names>BD</given-names>
+            </name>
+          </person-group>
+          <article-title>Large-scale questions and small-scale data: empirical and theoretical methods for scaling up in ecology</article-title>
+          <source>Oecologia</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>145</volume>
+          <fpage>176</fpage>
+          <lpage>177</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00442-005-0057-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Villanueva-Rivera &amp; Pijanowski (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Villanueva-Rivera</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Pijanowski</surname>
+              <given-names>BC</given-names>
+            </name>
+          </person-group>
+          <article-title>Pumilio: a web-based management system for ecological recordings</article-title>
+          <source>Emerging Technologies</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>93</volume>
+          <fpage>71</fpage>
+          <lpage>81</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Walters et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walters</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Freeman</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Collen</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Dietz</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Brock Fenton</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Obrist</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Puechmaille</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Sattler</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Siemers</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>KE</given-names>
+            </name>
+          </person-group>
+          <article-title>A continental-scale tool for acoustic identification of European bats</article-title>
+          <source>Journal of Applied Ecology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>49</volume>
+          <fpage>1064</fpage>
+          <lpage>1074</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2664.2012.02182.x</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

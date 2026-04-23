@@ -1,0 +1,2861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">peerj-cs</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ Comput. Sci.</journal-id>
+<journal-id journal-id-type="publisher-id">peerj-cs</journal-id>
+<journal-title-group>
+<journal-title>PeerJ Computer Science</journal-title>
+<abbrev-journal-title abbrev-type="publisher">PeerJ Comput. Sci.</abbrev-journal-title> 
+</journal-title-group>
+<issn pub-type="epub">2376-5992</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">cs-1623</article-id>
+<article-id pub-id-type="doi">10.7717/peerj-cs.1623</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Computer Networks and Communications</subject>
+<subject>Internet of Things</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Internet of Things-based sustainable environment management for large indoor facilities</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<name name-style="western">
+<surname>Lashari</surname>
+<given-names>Muhammad Hanif</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-1983-0843</contrib-id>
+<name name-style="western">
+<surname>Karim</surname>
+<given-names>Sarang</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>sarangkarim@quest.edu.pk</email>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Alhussein</surname>
+<given-names>Musaed</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Hoshu</surname>
+<given-names>Ayaz Ahmed</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0003-3647-8578</contrib-id>
+<name name-style="western">
+<surname>Aurangzeb</surname>
+<given-names>Khursheed</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Anwar</surname>
+<given-names>Muhammad Shahid</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>Department of Electrical and Computer Engineering, Iowa State University</institution>, <addr-line>Ames</addr-line>, <country>United States</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Department of Telecommunication Engineering, Quaid-e-Awan University of Engineering, Science &amp; Technology</institution>, <addr-line>Nawabshah</addr-line>, <country>Pakistan</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Department of Computer Engineering, College of Computer and Information Sciences, King Saud University</institution>, <addr-line>Riyadh</addr-line>, <country>Saudi Arabia</country></aff>
+<aff id="aff-4">
+<label>4</label><institution>Department of Electronic Engineering, Quaid-e-Awam University of Engineering, Science and Technology</institution>, <addr-line>Larkana Campus</addr-line>, <country>Pakistan</country></aff>
+<aff id="aff-5">
+<label>5</label><institution>Department of AI and Software, Gachon University</institution>, <addr-line>Seongnam-si</addr-line>, <country>South Korea</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Al-Hadhrami</surname>
+<given-names>Tawfik</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-10-09"><day>9</day><month>10</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>9</volume>
+<elocation-id>e1623</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-03-10"><day>10</day><month>3</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-09-08"><day>8</day><month>9</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Lashari et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Lashari et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ Computer Science) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/cs-1623"/>
+<abstract>
+<p>Due to global warming and climate change, the poultry industry is heavily impacted, especially the broiler industry, due to the sensitive immune system of broiler chickens. However, the continuous monitoring and controlling of the farm’s environmental parameters can help to curtail the negative impacts of the environment on chickens’ health, leading to increased meat production. This article presents smart solutions to such issues, which are practically implemented, and have low production and operational costs. In this article, an Internet of Things (IoT) based environmental parameters monitoring has been demonstrated for the poultry farmhouse. This system enables the collection and visualization of crucially sensed data automatically and reliably, and at a low cost to efficiently manage and operate a poultry farm. The proposed IoT-based remote monitoring system collects and visualizes environmental parameters, such as air temperature, relative humidity (RH), oxygen level (O<sub>2</sub>), carbon dioxide (CO<sub>2</sub>), carbon monoxide (CO), and ammonia (NH<sub>3</sub>) gas concentrations. The wireless sensor nodes have been designed and deployed for efficient data collection of the essential environmental parameters that are key for monitoring and decision-making process. The hardware is implemented and deployed successfully at a site within the control shed of the poultry farmhouse. The results revealed important findings related to the environmental conditions within the poultry farm. The temperature inside the control sheds remained within the desired range throughout the monitoring period, with daily average values ranging from 32 °C to 34 °C. The RH showed slight variations monitoring period, ranging from 65% to 75%, with a daily average of 70%. The O<sub>2</sub> concentration exhibited an average value of 17% to 18.5% throughout the monitoring period. The CO<sub>2</sub> levels showed occasional increases, reaching a maximum value of 1,100 ppm. However, this value was below the maximum permissible level of 2,500 ppm, indicating that the ventilation system was effective in maintaining acceptable CO<sub>2</sub> levels within the control sheds. The NH<sub>3</sub> gas concentration remained consistently low throughout the duration, with an average value of 50 parts per million (ppm).</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Internet of Things</kwd>
+<kwd>Environmental management</kwd>
+<kwd>Remote monitoring</kwd>
+<kwd>Indoor facilities</kwd>
+<kwd>Poultry farm</kwd>
+<kwd>Smart farming</kwd>
+<kwd>Wireless sensor networks</kwd>
+<kwd>Environmental monitoring</kwd>
+<kwd>Data collection</kwd>
+<kwd>Broiler chicken</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Researchers Supporting Project Number</funding-source>
+<award-id>RSPD2023R947</award-id>
+</award-group>
+<funding-statement>This research is funded by the Researchers Supporting Project Number (RSPD2023R947), King Saud University, Riyadh, Saudi Arabia. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>One of the most popular and widely consumed varieties of poultry products is chicken, which is frequently consumed as a better animal protein than red meat (<xref ref-type="bibr" rid="ref-11">Chodkowska, Wódz &amp; Wojciechowski, 2022</xref>; <xref ref-type="bibr" rid="ref-20">Ferrari et al., 2022</xref>). Compared to other domestic animals, chickens are less expensive to raise for meat. Due to the exponential growth in human consumption, both the supply and demand for chicken meat are increasing daily across the majority of all countries (<xref ref-type="bibr" rid="ref-26">Istiak &amp; Khaliduzzaman, 2022</xref>). This is due to the high-quality protein, low cholesterol, and low saturated fat content in poultry meat. Due to the wide range of recipes available, poultry meat is highly sought-after at restaurants, hotels, fast food restaurants, parties, <italic>etc</italic>. The usage of chicken in daily meals has also raised the profitability of the chicken industry. In fact, the production demand has been increasing with the passage of time. poultry meat can be obtained from two farm methods, one is open-shed poultry farms (conventional farms with the natural environment) and another one is controlled-shed poultry farms (modern farms with a controlled environment). Control-shed poultry farms are more productive and less time-consuming as compared to conventional ones. The amount of chicken meat produced is strongly correlated with the environment in which the chicks are grown up, the length of time it takes to raise the chicks, and the intensive care practices used on the farm (<xref ref-type="bibr" rid="ref-23">Hafez &amp; Attia, 2020</xref>).</p>
+<p>Lack of care at the farmhouses leads to a variety of health problems in the chickens, including breathing problems, digestive problems, and behavioural abnormalities in the control shed. In addition, broiler chicks are more sensitive than breeder chicks (<xref ref-type="bibr" rid="ref-14">Curtin, Daley &amp; Anderson, 2014</xref>). Because high temperatures in the control shed might result in the usage of a lot of water, the environment must be carefully monitored (<xref ref-type="bibr" rid="ref-38">Mahale &amp; Sonavane, 2016</xref>). Additionally, more trips and energy spent on cooling pads, more medication needed in case of illness, and more visits require high expenditures and biosecurity hazards. Ultimately, the current manual operation of a poultry farm’s environmental components may lead to unhealthy food for consumers, higher costs, and slower business growth. There are several important environmental parameters, like temperature, relative humidity (RH), oxygen (<inline-formula id="ieqn-1">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-1.png"/><tex-math id="tex-ieqn-1"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-1"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) level, and the concentration of carbon dioxide (<inline-formula id="ieqn-2">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-2.png"/><tex-math id="tex-ieqn-2"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-2"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) should be maintained in the shed. Additionally, ammonia gas (<inline-formula id="ieqn-3">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-3.png"/><tex-math id="tex-ieqn-3"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-3"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) concentration and carbon monoxide (CO) level must be correctly maintained for healthy poultry birds (<xref ref-type="bibr" rid="ref-48">Raghudathesh et al., 2017</xref>). Furthermore, appropriate management of these environmental parameters will also ensure overall environmental sustainability for the farm and the world.</p>
+<p>The basic motivation is the role of digital technologies in the development of sustainable management of poultry farms and the growing research attention in the field of smart farming. On the other hand, the rapid population growth has spurred the desire for more food, especially the production of chicken meat, which is in great demand. This is related to the increased requirement for using natural resources more sustainably, such as water, food, and other resources. According to the United Nations Food and Agriculture Organization (<xref ref-type="bibr" rid="ref-28">Janczak &amp; Riber, 2015</xref>), digital innovation in agriculture has a huge potential to reduce poverty and hunger while simultaneously reducing the consequences of climate change (<xref ref-type="bibr" rid="ref-62">Wijerathna-Yapa &amp; Pathirana, 2022</xref>). All facets of the agro-food production chain will change as a result of digitization because, the processing of enormous amounts of data in real-time enables more effective operations, larger economic returns, more environmental advantages, and better working conditions in the field (<xref ref-type="bibr" rid="ref-7">Bolfe et al., 2020</xref>).</p>
+<sec>
+<title>Research motivation</title>
+<p>The use of modern technological instruments in poultry farming has already provided a significant gain in the poultry industry. Moreover, the growing connectivity in the rural environment and greater integration of data from sensor systems, remote sensing, equipment, and smartphones have paved the way for new concepts. More recently, the term “Smart Farming” has been applied to a trend that stresses the use of information and communication technologies in the digital farm management cycle, utilizing modern technologies like the Internet of Things (IoT), Wireless Sensor Networks (WSN), cloud computing, artificial intelligence, and big data (<xref ref-type="bibr" rid="ref-52">Shaikh et al., 2022a</xref>; <xref ref-type="bibr" rid="ref-49">Rahu et al., 2022</xref>; <xref ref-type="bibr" rid="ref-53">Shaikh et al., 2022b</xref>; <xref ref-type="bibr" rid="ref-63">Wolfert et al., 2017</xref>; <xref ref-type="bibr" rid="ref-31">Karim &amp; Shaikh, 2017</xref>).</p>
+<p>To help ensure that poultry is raised in a healthy environment and has a favourable influence on consumer health, we are providing a smart environment management system for poultry farms in this article. The system will help poultry managers to reduce harmful environmental elements to a bare minimum by using remote visualization and live monitoring. The proposed IoT-based smart management system will also promote sustainable business growth promote the sustainable use of critical environmental resources. The novelty of this work lies in its practical implementation of IoT technology for continuous monitoring of environmental parameters in poultry farms, its cost-effectiveness, customized sensor nodes, comprehensive data collection, and the valuable insights gained from the deployed system. By addressing the challenges specific to broiler chicken health and meat production in the context of global environmental changes, the research contributes significantly to the field of sustainable agriculture and IoT-based solutions for animal welfare and productivity. The main contributions of this article are outlined below, and are based on our previous work (<xref ref-type="bibr" rid="ref-34">Lashari et al., 2018</xref>):
+<list list-type="bullet">
+<list-item><p>Practical implementation of IoT-based sustainable environment management for large indoor monitoring system in a poultry farmhouse.</p></list-item>
+<list-item><p>Low-cost and efficient management of poultry farms through real-time data collection and visualization.</p></list-item>
+<list-item><p>Provides findings on environmental conditions within the poultry farm, including air temperature, relative humidity (RH), oxygen level (<inline-formula id="ieqn-4">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-4.png"/><tex-math id="tex-ieqn-4"><![CDATA[${\rm O_2}$]]></tex-math><mml:math id="mml-ieqn-4"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>), carbon dioxide (<inline-formula id="ieqn-5">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-5.png"/><tex-math id="tex-ieqn-5"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-5"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>), carbon monoxide (CO), and ammonia (<inline-formula id="ieqn-6">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-6.png"/><tex-math id="tex-ieqn-6"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-6"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) gas concentrations.</p></list-item>
+<list-item><p>Discusses the limitations of the proposed work and suggests future recommendations to enhance this work.</p></list-item></list></p>
+<p>The remaining sections of the article are organized as follows. “Background” discusses the background followed by existing work on IoT-based poultry farm management and monitoring system. “Proposed System” provides details about the proposed system along with software and hardware implementations. “Results and Discussion” discuss the findings for the key parameters as mentioned earlier. “Limitations and Future Roadmap” highlights the limitations of this study and also provides a future roadmap. The article is concluded in “Conclusions”.</p>
+</sec>
+</sec>
+<sec>
+<title>Background</title>
+<p>This section provides a detailed discussion of previous studies on poultry farm environment management. In addition, we also discuss the importance of the poultry farm environment.</p>
+<sec>
+<title>Poultry farm environment</title>
+<p>Different researchers have highlighted the issues in the poultry farmhouse environment and highlighted the importance of environmental parameters.</p>
+<p><xref ref-type="bibr" rid="ref-4">Arhipova et al. (2021)</xref> explored the utilization of technological innovations in poultry farming to enhance productivity and mitigate greenhouse gas emissions. The authors analyze existing smart poultry management systems that enable optimal feeding processes intending to reduce (<inline-formula id="ieqn-7">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-7.png"/><tex-math id="tex-ieqn-7"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-7"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) and (<inline-formula id="ieqn-8">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-8.png"/><tex-math id="tex-ieqn-8"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-8"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) emissions. The study examines various technologies and research directions related to smart poultry management systems, focusing on their potential to improve productivity, predict health and welfare outcomes, and reduce greenhouse gas emissions. It provides valuable insights into the implementation of smart technologies in the poultry industry to optimize feeding processes, enhance productivity, and minimize greenhouse gas emissions. Additionally, the article emphasizes the research gap in multi-criteria decision-making and discusses the challenges associated with the implementation of such a smart platform.</p>
+<p><xref ref-type="bibr" rid="ref-28">Janczak &amp; Riber (2015)</xref> explained how the environmental circumstances in which poultry are bred directly affect the productivity and well-being of hens and broiler chickens. <xref ref-type="bibr" rid="ref-21">Gebregeziabhear &amp; Ameha (2015)</xref> noted that the thermal comfort range of chickens changes mostly based on their age, it is preferred that the temperature in the shed stay within the prescribed range for each age group during the breeding time. Stress from heat or cold can affect a flock’s mortality rate, welfare, and food intake and can make the birds more susceptible to illness. <xref ref-type="bibr" rid="ref-42">Najafi et al. (2015)</xref> described as being between 50% and 70% relative humidity within the shed. Low relative humidity accelerates the rate of heat loss through evaporation, causing dryness of their mucous membranes and airways. On the other hand, high temperatures and high relative humidity may deteriorate the performance of broiler chickens.</p>
+<p><xref ref-type="bibr" rid="ref-43">Naseem &amp; King (2018)</xref> have shown that the biggest source of environmental contamination from chicken farming is ammonia (<inline-formula id="ieqn-9">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-9.png"/><tex-math id="tex-ieqn-9"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-9"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>). When birds eat protein, they create uric acid, which under favourable circumstances is ultimately transformed into <inline-formula id="ieqn-10">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-10.png"/><tex-math id="tex-ieqn-10"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-10"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, pH, temperature, moisture content, kind of litter, bird age, manure age, RH, and Ventilation Rate (VR) are all factors that boost output. In chicken buildings, <inline-formula id="ieqn-11">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-11.png"/><tex-math id="tex-ieqn-11"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-11"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> emissions and concentration are influenced by VR, as well as by the seasons. The ecosystem, environment, and health of both people and birds are negatively impacted by <inline-formula id="ieqn-12">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-12.png"/><tex-math id="tex-ieqn-12"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-12"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>. <inline-formula id="ieqn-13">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-13.png"/><tex-math id="tex-ieqn-13"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-13"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> exposure level should be less than 10 parts per million (ppm), although levels of up to 25 ppm are still safe. <xref ref-type="bibr" rid="ref-57">Sousa et al. (2016)</xref> in the traditional broiler chicken breeding technique, the birds are kept in a masonry shed with a floor that is often made of wood and covered in broiler litter. This is an example of the physical environment. Moisture from bird excrement may be absorbed by broiler litter and other items in the vicinity.</p>
+<p><xref ref-type="bibr" rid="ref-47">Oro &amp; do Prado Guirro (2014)</xref> have addressed the traditional setup for the chicks. The majority of the hens used for egg production in the intensive system are caged, and excreta is frequently stored for many weeks in the shed. <xref ref-type="bibr" rid="ref-44">Nkoa (2014)</xref> has explained how <inline-formula id="ieqn-14">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-14.png"/><tex-math id="tex-ieqn-14"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-14"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> is produced. As a result, (<inline-formula id="ieqn-15">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-15.png"/><tex-math id="tex-ieqn-15"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-15"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) can be produced in both methods of chicken husbandry when microbes break down organic waste found in excreta and/or litter. <xref ref-type="bibr" rid="ref-16">David et al. (2015)</xref> highlighted the dangers of <inline-formula id="ieqn-16">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-16.png"/><tex-math id="tex-ieqn-16"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-16"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>. <inline-formula id="ieqn-17">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-17.png"/><tex-math id="tex-ieqn-17"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-17"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> is a hazardous gas, and hence it is advised that its airborne concentration be monitored and kept below 10 ppm to prevent harming bird and crew health as well as animal performance.</p>
+<p><xref ref-type="bibr" rid="ref-29">Jácome, Rossi &amp; Borille (2014)</xref> described how improved egg quality is affected by light. Due to their photosensitivity, birds can be affected by exposure to daily light periods that are shorter or longer than what is ideal, which can affect their ability to reproduce. Therefore, in light of considerations, it is necessary to continuously monitor the environmental factors in the control sheds. This procedure is crucial because it enables poultry producers to act quickly when it becomes clear that the chicks’ habitat needs to be improved. The standard parameters for poultry farmhouses within the control shed from weeks 1 to 4 are given in <xref ref-type="table" rid="table-1">Table 1</xref> (<xref ref-type="bibr" rid="ref-2">Ammad-Uddin et al., 2014</xref>).</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Standard ranges of physical parameters within poultry farm (<xref ref-type="bibr" rid="ref-2">Ammad-Uddin et al., 2014</xref>; <xref ref-type="bibr" rid="ref-15">Czarick &amp; Fairchild, 2007</xref>).</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Physical parameters</th>
+<th>First week</th>
+<th>Second week</th>
+<th>Third week</th>
+<th>Fourth week</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Temperature</td>
+<td>34–32 °C</td>
+<td>32–30 °C</td>
+<td>30–28 °C</td>
+<td>29–27 °C</td>
+</tr>
+<tr>
+<td>Relative humidity</td>
+<td>80–60%</td>
+<td>80–60%</td>
+<td>80–60%</td>
+<td>80–60%</td>
+</tr>
+<tr>
+<td>Carbon monoxide</td>
+<td>Must be 0 ppm</td>
+<td>&lt;10 ppm</td>
+<td>&lt;25 ppm</td>
+<td>&lt;50 ppm</td>
+</tr>
+<tr>
+<td>Carbon dioxide</td>
+<td>&lt;1,000 ppm</td>
+<td>&lt;2,000 ppm</td>
+<td>&lt;2,500 ppm</td>
+<td>&lt;2,500 ppm</td>
+</tr>
+<tr>
+<td>Ammonia level</td>
+<td>Near to 0 ppm</td>
+<td>&lt;10 ppm</td>
+<td>&lt;20 ppm</td>
+<td>&lt;25 ppm</td>
+</tr>
+<tr>
+<td>Oxygen level</td>
+<td>16–18%</td>
+<td>16–18%</td>
+<td>16–18%</td>
+<td>16–19%</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec>
+<title>Previous studies</title>
+<p>Some researchers have presented their work with different techniques for IoT implementation in poultry farms and we will discuss them in this section.</p>
+<p><xref ref-type="bibr" rid="ref-3">Archana, Uma &amp; Babu (2018)</xref> suggested that Raspberry Pi3 could be used to monitor and control poultry farms by measuring environmental parameters such as temperature, humidity, and air quality using four sensors (smoke, temperature, humidity, and gas). The watering system is also controlled by a float sensor, and all of the sensors are integrated with the Raspberry Pi3, which can collect and analyze data.</p>
+<p><xref ref-type="bibr" rid="ref-65">Zhang &amp; Chen (2020)</xref> created an Android-based intelligent portable terminal to enable real-time and remote wireless monitoring for indoor hazardous gas concentration, illuminance, and environment temperature and humidity farm.</p>
+<p><xref ref-type="bibr" rid="ref-60">Thomas et al. (2020)</xref> presented a sensor technology and microcontroller-based system that monitors internal parameters within the farm. The temperature and humidity (measured using a DHT11 sensor) are monitored using a microcontroller, and a fan or heater is activated as needed to maintain optimal conditions.</p>
+<p><xref ref-type="bibr" rid="ref-19">Du et al. (2021)</xref> offered a gateway design approach based on low-power Bluetooth technology that may be used to monitor a breeding environment. The implementation of the priority queue and feedback mechanism into the gateway design successfully addresses the issues of Bluetooth devices’ limited communication range and low efficiency.</p>
+<p><xref ref-type="bibr" rid="ref-32">Kodali, Yerroju &amp; Sahu (2018)</xref> discussed various wireless communication technologies used in the IoT. One example given was the use of long-range radio (LoRa) to transmit sensor data, such as temperature, humidity, and soil moisture, from a transmitter node to a receiver node. The receiver node, which is equipped with Wireless Fidelity (Wi-Fi), uses Message Queuing Telemetry Transport (MQTT) services to check the data in the IBM Watson IoT platform and store it in the IBM cloud database service.</p>
+<p><xref ref-type="bibr" rid="ref-12">Choukidar &amp; Dawande (2017)</xref> described involves the use of a combination of wireless sensors and a General Packet Radio Services (GPRS) network to control and monitor environmental parameters in a poultry farm. The identified and defined environmental parameters are necessary for the optimal growth of chickens. An integrated solution using a WSN and GPRS network is proposed to transmit data and maintain a detailed record of the status of environmental conditions in poultry farms on a webpage.</p>
+<p><xref ref-type="bibr" rid="ref-56">So-In, Poolsanguan &amp; Rujirakul (2014)</xref> focused on blending the use of mobile devices and sensor network technology to remotely regulate and monitor environmental factors in a chicken poultry farm. By sending Short Messaging Services (SMS) to the owner’s registered cellphone number, this system enables the owner to keep track of numerous environmental indicators including changes in temperature and humidity. When the system does not receive a command at a specific time, it will automatically start the needed action. The owner can start a required action by sending a message back to the system to execute. As a result, the system’s architecture offers an effective, automated, and novel approach to monitoring chicken farms.</p>
+<p><xref ref-type="bibr" rid="ref-5">Bang et al. (2014)</xref>, described the use of a Light Emitting Diode (LED) smart lighting control system in poultry farms to address the low energy efficiency and high power consumption of traditional systems using incandescent bulbs for illumination. The proposed smart control system has several benefits, including improved energy efficiency, increased illumination control ranges (up to 10 times more than the existing system in the poultry farms), and the ability for a farmer to remotely manage their poultry farms through real-time environmental monitoring using a Personal Computer (PC) or smartphone.</p>
+<p><xref ref-type="bibr" rid="ref-17">Dong &amp; Zhang (2009)</xref> advised the need for real-time monitoring of poultry farms in the environment. Thus, an online monitoring system based on the ZigBee module was developed. It offers a network of real-time monitoring systems. The ZigBee-based CC2430 from TI serves as the node controller, data receiver, data transmitter, and control node for the network of real-time monitoring systems. Different environmental characteristics are detected by (<inline-formula id="ieqn-18">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-18.png"/><tex-math id="tex-ieqn-18"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-18"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) sensors using TGS4161, and temperature and humidity sensors using SHT75. By analyzing the system’s data transmission, the ZigBee protocol stack was made simpler, and the system’s data transmission protocols and communication formats were created.</p>
+<p><xref ref-type="bibr" rid="ref-46">Olaniyi et al. (2014)</xref> highlighted that low production costs and high levels of employee participation on chicken farms might result in poor profit and a low return on investment. This research was motivated by problems in the inadequate chicken feeding system, and the study led to the creation of a clever fuzzy logic-based system that could take the place of the poultry workers by providing water and food for the birds at predetermined intervals. The device is meant to sense the level of the water and feed and intelligently dispense it in response to fluctuations in the level as the hens consume the food and water. The burden on the poultry attendants is lessened by this approach, which also enhances cost savings and produces strong returns on investment for the poultry farming system (<xref ref-type="bibr" rid="ref-46">Olaniyi et al., 2014</xref>).</p>
+<p><xref ref-type="bibr" rid="ref-41">Muttha et al. (2014)</xref> noted that poultry farming is currently done manually, limiting the benefits that farmers can achieve. In the past, it was common to feed chickens whole cereals as scratch feed or as part of a complete diet. However, with the growth of large-scale poultry production, automatic feeding systems using full-fed complete diets have become the dominant choice. One of the key tasks in poultry farming is controlling and monitoring environmental parameters to ensure the proper care of chickens, which can be achieved through the use of a sensor-based system. Automation using a programmable logic controller (PLC) can be used to create an environmentally controlled poultry shed that is monitored 24 h a day to improve efficiency, reduce the need for human labour, and minimize human error.</p>
+<p><xref ref-type="bibr" rid="ref-9">Boopathy et al. (2014)</xref> outlined the measurement of various environmental factors at the poultry farm, such as temperature change, humidity fluctuation, water level management, and valve adjustment. The calibration of the temperature sensor was carried out using a two-point formula. The level sensor can gauge and output the fuel level in the generator.</p>
+<p><xref ref-type="bibr" rid="ref-45">Okada et al. (2013)</xref> developed a low-power wireless sensor node for regular monitoring of activity for animal health care. The measurement of body temperature is sufficient for health care purposes and effective at reducing power usage. The proposed approach involves an ultra-low-power technique for regular activity measures using a customized large-scale integration (LSI) circuit with an estimated power usage of 320 nW in the standby state and micro-electromechanical systems (MEMS) piezoelectric micro-cantilever.</p>
+<p><xref ref-type="bibr" rid="ref-24">Huang et al. (2023)</xref> propose an intelligent algorithm called Energy Control and Computation Offloading (ECCO) to address the challenges of real-time data processing and minimizing the Age of Information (AoI) in the Industrial Internet of Things (IIoT) systems. The authors focus on optimizing energy consumption while satisfying AoI constraints by leveraging deep reinforcement learning (DRL) techniques. They conduct extensive analyses on real-world IoT datasets, develop queueing models for IoT devices and edge servers, and formulate a dynamic optimization problem using Markov Decision Process (MDP). The ECCO algorithm is designed to adapt to the dynamic IIoT environment and is evaluated through experimental simulations. The results demonstrate its superiority over existing DRL and non-DRL algorithms in terms of minimizing AoI and energy consumption. Overall, the article presents a solution that combines energy control, computation offloading, and AoI optimization to enhance the performance of IIoT systems in industrial settings.</p>
+</sec>
+<sec>
+<title>Why LoRaWAN?</title>
+<p>Due to the massive high-speed data coverage they provide, cellular networks are extremely popular. On the other hand, IoT applications do not have an immediate requirement for high-speed data. However, the battery life of devices accessing cellular networks is frequently relatively short. There are some flaws with the network coverage as well. Mesh networks identical to ZigBee, however, are frequently employed in home automation. This is a result of the low to medium-distance performance it provides. However, mesh networks catastrophically fail over extended distances (a few kilometres). Although Bluetooth has a reasonably good data rate, its range severely limits its use. Because of its limited coverage, Bluetooth is a poor choice for long-range IoT applications.</p>
+<p>Among all wireless technologies, the IEEE802.11 WLAN (Wireless Local Area Network) standard is undoubtedly one of the most popular. This is the result of its high bandwidth and data rate alone. On the other hand, its range has some limitations and it puts strain on the battery. Wi-Fi-enabled devices frequently need to be close to the Wi-Fi access point in order to link successfully and they have a short lifespan. However, because the sheds in poultry farms are far apart from one another, adding more access points or routers due to Wi-Fi use can raise the cost of network growth. Additionally, because of the high working frequencies (2.4 and 5 GHz), it is difficult for the waves to pass through obstructions (<xref ref-type="bibr" rid="ref-32">Kodali, Yerroju &amp; Sahu, 2018</xref>).</p>
+<p>Other options such as NarrowBand-Internet of Things (NB-IoT) and Sigfox are suitable for these types of applications (<xref ref-type="bibr" rid="ref-52">Shaikh et al., 2022a</xref>). But these technologies are not fully functional all around the globe. Therefore, NB-IoT is a licensed protocol and Sigfox has low bandwidth. Neither has coverage in developing countries, such as Pakistan. These issues can be resolved by utilizing the IoT as a network of web-connected devices that communicate with one another (<xref ref-type="bibr" rid="ref-61">Want, Schilit &amp; Jenson, 2015</xref>). Finally, for these types of applications, the solution perfectly fits in the Low Power Wide Area Networks (LPWAN). The primary shortcomings of existing wireless communication technologies, such as limited bandwidth, higher power consumption, and coverage limitations, are solved by IoT applications using LPWAN. Designing the IoT applications, the LoRaWAN (Long Range Wide Area Network) protocol or LoRa in the LPWAN domain offers greater benefits including scalability, security, and resilience (<xref ref-type="bibr" rid="ref-32">Kodali, Yerroju &amp; Sahu, 2018</xref>).</p>
+<p>LoRaWAN technology is rapidly developing, and IoT-driven applications will use it in many different contexts. It is well suited for those applications where the data rate is not a priority. LoRa (<xref ref-type="bibr" rid="ref-22">Griva et al., 2023</xref>) is an unlicensed protocol as compared to the Cellular network and NB-IoT. LoRa with Cellular or NB-IoT can solve this problem. Farms are in remote areas where internet connectivity is limited, only 2G coverage is available in remote areas. The LoRa wide area network protocol sometimes referred to as LoRa, offers benefits including compatibility between LPWAN networks, simple installation, increased affordability, flexibility, scalability, bi-directionality, security, and encryption. A significant fraction of the billions of devices needed to foresee the Internet of Things is supported by LPWAN technology. For anticipated volumes of sensor-based Internet of Things applications where just a limited quantity of sensed data needs to be carried over vast distances, this LPWAN technology delivers an effective battery lifespan. The cost for such IoT applications LoRaWAN is built in the LPWAN domain to improve range and battery longevity (<xref ref-type="bibr" rid="ref-35">Lavric &amp; Popa, 2017</xref>).</p>
+</sec>
+</sec>
+<sec>
+<title>Proposed system</title>
+<sec>
+<title>Software implementation</title>
+<p>The software implementation for IoT-based sustainable environment management for large indoor poultry farms requires careful consideration to measure the environmental parameters. The overall steps of the software implementation for IoT-based sustainable environment management for large indoor poultry farms are depicted in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Flowchart of the proposed IoT-based sustainable environment management.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-1.png"/>
+</fig>
+<p><bold>Start:</bold> This is the starting point of the software implementation. It indicates the beginning of the process.</p>
+<p><bold>Initialize the IoT devices:</bold> The code begins by initializing the IoT devices and sensors used in the poultry farm system. This step ensures that all the necessary hardware components are set up and ready for data collection. It includes establishing connections with sensors, configuring communication protocols, and ensuring the proper functioning of the devices.</p>
+<p><bold>Data collection and transmission:</bold> This step involves configuring the data collection and transmission protocols. It ensures that the sensors are properly connected to the IoT network and are capable of transmitting data to the monitoring system.</p>
+<p><bold>Set threshold values:</bold> In this step, we define the desired threshold values for each parameter, such as temperature, RH, ammonia, carbon monoxide, carbon dioxide, and oxygen. These thresholds serve as reference values for determining whether the parameter readings are within the acceptable range or not.</p>
+<p><bold>Readings and visualization:</bold> The system reads the sensor values using appropriate methods or functions. This could involve querying the sensors for specific data or receiving data through a communication interface. The retrieved sensor values are then displayed on an LCD screen for real-time visualization and monitoring.</p>
+<p><bold>Generate a notification (SMS alert):</bold> This step involves checking if the sensor value exceeds the predefined threshold. If the value exceeds the threshold, it indicates an abnormal reading. In such cases, the system generates a notification, such as an SMS alert, to notify the relevant stakeholders or responsible personnel about the abnormal condition for immediate action.</p>
+<p><bold>Store the data in the database:</bold> The system stores the collected sensor data in a database for future reference and analysis. This includes recording the sensor values along with their associated timestamps to create a historical dataset for trend analysis and decision-making.</p>
+<p><bold>Delay:</bold> This step introduces a delay or pause in the execution flow. It allows for a specific interval between sensor readings, which can be adjusted based on the system requirements and the desired frequency of data collection. The delay ensures efficient resource utilization and avoids excessive data collection.</p>
+<p><bold>Repeat to read the sensor value:</bold> After the delay, the flowchart loops back to the step of reading the sensor value. This enables continuous monitoring and data collection in a cyclic manner.</p>
+<p><bold>End:</bold> This is the endpoint of the software implementation. It indicates the completion of the monitoring process.</p>
+</sec>
+<sec>
+<title>Hardware implementation</title>
+<p>In this article, the poultry environment monitoring system using LoRa communication is presented. The system has two types of nodes, aggression nodes, and sensor nodes. The aggression node is compromised of the LoRa gateways (<xref ref-type="bibr" rid="ref-37">Loyse, 2017</xref>) and works as a fog computing device that sends data to the web server. It consists of a Raspberry Pi, Global System for Mobile Communication (GSM) module, and LoRa transceiver. Sensor nodes are designed to acquire real-time data, they consist of Arduino with LoRa Transceiver and sensors.</p>
+<p>The overall concept of the proposed system is depicted in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>. Here, we have shown three poultry farmhouses and each of them consists of three control sheds. Our system collects data from each shed and sends it to the LoRa gateways. Gateways subsequently send data using GSM technology to the cloud (AWS (Amazon Web Services), in our case) for storing and analysis purposes. This stored data not only be viewed but also monitored easily. With the help of this scheme, different poultry farmhouses can be connected and monitored. We can access multiple sites by using a single dashboard. The system is very flexible, so poultry farmhouses can be connected easily just to plug and play from any site. Different sensor nodes can be connected with a single aggression node or gateway. Since there is a single gateway in each farmhouse, a single Subscriber Identity Module (SIM) for 2G connectivity is needed. This saves network costs and fewer installation efforts are needed. This was an issue in our previous work that resulted in high expenses due to multiple GSM and SIMs as mentioned in (<xref ref-type="bibr" rid="ref-34">Lashari et al., 2018</xref>).</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>System model of the proposed IoT-based sustainable environment management.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-2.png"/>
+</fig>
+<p>The experimental setup involved the strategic placement of sensors to ensure comprehensive coverage of the entire control shed area. The sensor placement was carefully designed to capture temperature variations in different areas of the control shed. Specifically, one sensor was positioned on the low-temperature side or cooling pad side, another sensor on the air exhaust side or fan side, and a third sensor at the center of the control shed. Moreover, devices should be placed close to the ground, two to three feet above the ground. So chick can not easily reach there, and more accurate data can be collected. Actual device placement, as shown in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>. Furthermore, each location within the control shed experiences distinct temperature patterns, and it is crucial to monitor and maintain a consistent environment throughout the shed.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Sensor nodes placement.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-3.png"/>
+</fig>
+<p>In addition to the physical sensor placement, the study also incorporated an IoT-based infrastructure to collect and transmit the acquired data. The sensor nodes/devices utilized the LoRa communication protocol to send the collected data to a central gateway. This gateway served as a data aggregation point for further processing and analysis.</p>
+<p>The strategic arrangement of sensors within a controlled environment is known as the “control shed.” The sensors being discussed are specifically intended to measure parameters like temperature, humidity, and gas concentrations (CO, CO<sub>2</sub>, and NH<sub>3</sub>). This spatial arrangement is depicted in a diagram referred to as <xref ref-type="fig" rid="fig-3">Fig. 3</xref>.</p>
+<p>The primary purpose of this visual representation is to illustrate how these sensors are positioned within the control shed. The careful positioning of these sensor nodes/devices has been done deliberately at three distinct locations within the control shed. This strategic placement has been designed to ensure comprehensive coverage of the entire spatial area, allowing for effective and accurate monitoring of temperature fluctuations across the entirety of the control shed.</p>
+<p>In essence, <xref ref-type="fig" rid="fig-3">Fig. 3</xref> offers a detailed illustration of how sensors measuring temperature, humidity, and gas concentrations (CO, CO<sub>2</sub>, and NH<sub>3</sub>) are strategically situated at different points within the control shed. This arrangement has been methodically devised to provide optimal coverage, enabling the monitoring of temperature variations across the entire space of the control shed. This visual representation aids in comprehending the practical implementation and positioning of these sensors for effective data collection and analysis.</p>
+<sec>
+<title>Sensor nodes or devices</title>
+<p>Control sheds are normally tunnel-shaped and have an average size of about 50 × 400 feet. Keeping these dimensions in mind, three devices are placed in each control shed. If any poultry farmhouse has three control sheds in it, at least nine devices are needed for proper data acquisition. These devices are Arduino-based with LoRaWAN communication. The devices were placed in the control shed of the poultry farmhouse for real-time data extraction and collection. The detailed block diagram of a sensor node is shown in <xref ref-type="fig" rid="fig-4">Fig. 4</xref>.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Connection diagram of IoT devices.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-4.png"/>
+</fig>
+<p>Initially, we tested different types of sensors. In the end, we got some very good quality sensors, and we used these in our final sensor node product. The sensor node or device consists of Arduino Mega (2560), LCD (Liquid Crystal Display) 16 × 2 module for data display, LoRa Transceiver module for data transmission, and different air quality sensors. The list of sensor name and their respective model numbers is given in <xref ref-type="table" rid="table-2">Table 2</xref>.</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/table-2</object-id>   
+<label>Table 2</label>
+<caption>
+<title>List of sensors: model number, calibration and their ranges.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Sensor model</th>
+<th>Calibration method</th>
+<th>Measurement range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Temperature and humidity</td>
+<td>SHT20</td>
+<td>Factory calibrated</td>
+<td>−40 °C to 125 °C</td>
+</tr>
+<tr>
+<td>Oxygen (<inline-formula id="ieqn-19">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-19.png"/><tex-math id="tex-ieqn-19"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-19"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) Level</td>
+<td>Grove <inline-formula id="ieqn-20">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-20.png"/><tex-math id="tex-ieqn-20"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-20"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> EN0322</td>
+<td>Periodic calibration</td>
+<td align="char" char=".">0% to 30%</td>
+</tr>
+<tr>
+<td>Carbon dioxide (<inline-formula id="ieqn-21">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-21.png"/><tex-math id="tex-ieqn-21"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-21"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>)</td>
+<td>MQ-135</td>
+<td>Manual calibration</td>
+<td>0 to 10,000 ppm</td>
+</tr>
+<tr>
+<td>Carbon monoxide (CO)</td>
+<td>Winson-ZE07-CO</td>
+<td>Periodic calibration</td>
+<td>0 to 500 ppm</td>
+</tr>
+<tr>
+<td>Ammonia (<inline-formula id="ieqn-22">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-22.png"/><tex-math id="tex-ieqn-22"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-22"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>)</td>
+<td>Winson-ME3NH3</td>
+<td>Periodic calibration</td>
+<td>0 to 100 ppm</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p><bold>SHT20:</bold> The SHT20 sensor functions as a slave in Inter-Integrated Circuit (I2C) communication. Upon request by the microcontroller, the sensor starts a process of measuring temperature and humidity. After completing the measurement, the sensor sends the data to the microcontroller and enters an idle mode to minimize energy consumption. The time required to measure temperature and humidity ranges from 5 to 30 s (<xref ref-type="bibr" rid="ref-18">Du et al., 2017</xref>).</p>
+<p><bold>Grove <inline-formula id="ieqn-23">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-23.png"/><tex-math id="tex-ieqn-23"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-23"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> sensor:</bold> A Grove oxygen sensor is used to measure the concentration of oxygen as a percentage in the air. This sensor is modelled after the concept of the electrochemical cell in the original work. This sensor is adequate for detecting oxygen levels in the environment. This works on an organic reaction module, it can give a small amount of current when exposed to air (<xref ref-type="bibr" rid="ref-8">Boonsong et al., 2017</xref>).</p>
+<p><bold>MQ-135:</bold> The MQ-135 gas sensor was the only available option we have for measuring the <inline-formula id="ieqn-24">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-24.png"/><tex-math id="tex-ieqn-24"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-24"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>. Within the sealed environment, it detects <inline-formula id="ieqn-25">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-25.png"/><tex-math id="tex-ieqn-25"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-25"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>. This gas sensor requires a voltage range of 2.5 to 5.0 V. The MQ-135 sensor is sensitive to a wide range of gases and is particularly sensitive to NH3, NOx, alcohol, Benzene, smoke, and CO2. The output is an analogue voltage that can be read by a microcontroller to determine the concentration of the target gas (<xref ref-type="bibr" rid="ref-55">Shukla &amp; Suman, 2021</xref>).</p>
+<p><bold>CO sensor:</bold> An electrochemical carbon monoxide (CO) detector module, such as the ZE07-CIO, is a device used to detect the presence of CO gas in the air. It typically works by using an electrochemical cell to measure the concentration of CO gas in the air. The ZE07-CIO, specifically, is a CO sensor module that uses an electrochemical cell sensor to detect the presence of CO gas. This type of sensor is known for its high accuracy and stability, making it suitable for use in a wide range of applications, including home safety, industrial process control, and automotive exhaust systems (<xref ref-type="bibr" rid="ref-6">Barot, Kapadia &amp; Pandya, 2020</xref>).</p>
+<p><bold><inline-formula id="ieqn-26">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-26.png"/><tex-math id="tex-ieqn-26"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-26"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> sensor:</bold> The <inline-formula id="ieqn-27">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-27.png"/><tex-math id="tex-ieqn-27"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-27"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> sensor is another electrochemical sensor that determines gas concentration by measuring current. It works on the electrochemical principle and uses the electrochemical oxidation of the target gas on the working electrode inside the electrolytic cell. As per Faraday’s law, the current produced in the electrochemical reaction of the target gas is directly inversely proportional to its concentration (<xref ref-type="bibr" rid="ref-59">Sun, Palaoag &amp; Quan, 2022</xref>).</p>
+</sec>
+<sec>
+<title>Constraints and concerns</title>
+<p>The implementation of an IoT-based sustainable environment management system in poultry farms involves the deployment of various sensors to monitor and regulate environmental conditions. These sensors play a critical role in ensuring optimal conditions for poultry health, growth, and overall farm productivity. However, there are specific concerns and constraints associated with using sensors in such environments, particularly due to potential animal interactions and their impact on measurement precision.</p>
+<p><bold>(a) Animal interaction with sensors:</bold> Poultry’s natural curiosity and behavior might lead them to interact with or peck at sensors. This interaction could potentially disrupt sensor functionality or damage the sensors themselves. Steps need to be taken to design sensor enclosures or mounting strategies that minimize such interference.</p>
+<p><bold>(b) Measurement precision and accuracy:</bold> Poultry interactions or environmental factors might affect the accuracy and precision of sensor measurements. For instance, animals crowding around a temperature sensor might block proper airflow, leading to inaccurate readings. Careful sensor placement and calibration are essential to mitigate these issues.</p>
+<p><bold>(c) Data noise and interpretation:</bold> Poultry movement or interactions could introduce noise into the sensor data, making it challenging to distinguish between normal behavior and potential anomalies. Advanced data filtering and analysis techniques may be required to extract meaningful insights.</p>
+<p><bold>(d) Sensor maintenance and replacement:</bold> In an agricultural setting, sensors can be exposed to dust, debris, and moisture, potentially affecting their longevity and reliability. Regular maintenance and timely replacement of damaged sensors are crucial to ensure continuous monitoring.</p>
+<p><bold>(e) Energy efficiency:</bold> Ensuring sensors operate efficiently without causing stress to the poultry is important. Bright LED lights on sensors, for instance, might disturb the birds, affecting their behavior and health.</p>
+<p><bold>(f) Integration with farm practices:</bold> The deployment of sensors should align with the overall management practices of the poultry farm. Sensors should complement existing protocols and practices rather than disrupt them.</p>
+<p>Addressing these constraints requires a combination of thoughtful sensor design, strategic placement, data analytics techniques, and a deep understanding of poultry behavior. Despite these challenges, IoT-based sustainable environment management holds significant promise for improving poultry farm operations and animal welfare.</p>
+</sec>
+<sec>
+<title>Gateway design</title>
+<p>A single gateway is designed to collect all the data coming from different sensor nodes/devices and send this data to a cloud server using GSM. The communication between devices and the gateway is done through LoRa-based protocol. The gateway consists of Raspberry Pi, a GSM module, and a LoRa transceiver. Sensor nodes send data every 60 s to the gateway. Furthermore, Raspberry Pi acts as a fog computing device that collects data from different nodes and processes the data, stores the data within the node, and then sends it to the main server. It also sends critical information in emergence mode. Usually, Raspberry Pi receives a huge amount of sensor data, but it only sends important data, such as average values, to the cloud to minimize cloud charges/costs. It sends data after a 4 to 5 min delay (we can increase or decrease the data sending period according to requirement). Raspberry Pi also send SMS alert or notifications to the supervisor, doctor, and owner of the poultry farmhouse, allowing them to take immediate action.</p>
+<p>In cases where the internet is temporarily unavailable at the site, the data will be stored in Raspberry Pi. Raspberry Pi can store the data of a complete flock/cycle and send data whenever it gets internet connectivity. In case of any failure in the sensor nodes, we can access data remotely through the TeamViewer software installed on Pi. This can be accessed using an id and password. The Block diagram of the pi-based gateway is shown in <xref ref-type="fig" rid="fig-5">Fig. 5</xref>.</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Gateway circuit diagram.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-5.png"/>
+</fig>
+</sec>
+<sec>
+<title>Real-time deployment</title>
+<p>We have successfully deployed a real-time IoT-based sustainable environment management for large indoor poultry farms, which is depicted in <xref ref-type="fig" rid="fig-6">Fig. 6</xref>. This system, as shown in <xref ref-type="fig" rid="fig-6">Fig. 6</xref>, enables continuous monitoring and analysis of various environmental parameters in poultry farms. It collects data from sensors installed throughout the farm, including temperature, humidity, air quality, and light intensity. The collected data is then transmitted wirelessly to a central server for processing and analysis. This system provides farmers with valuable insights into the environmental conditions of their poultry farms, allowing them to make informed decisions and take necessary actions to optimize the well-being and productivity of their poultry.</p>
+<fig id="fig-6">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-6</object-id>
+<label>Figure 6</label>
+<caption>
+<title>Real-time deployment of IoT nodes.</title>
+<p>(A) Scenario 1: setup (B) Scenario 2: monitoring.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-6.png"/>
+</fig>
+</sec>
+<sec>
+<title>Software application</title>
+<p>The Poultry Environment Monitoring System (PEMS) comprises a cohesive software and hardware infrastructure. Operating under the Software as a Service (SaaS) paradigm, PEMS employs a suite of diverse software tools to ensure its functionality. These tools include:</p>
+<p><bold>(a) Eclipse (<xref ref-type="bibr" rid="ref-1">Alizadehsani et al., 2022</xref>):</bold> Eclipse, a widely-used integrated development environment (IDE), plays a pivotal role in facilitating the creation, modification, and management of PEMS’s software components. It provides a robust platform for coding, debugging, and testing, ensuring efficient software development.</p>
+<p><bold>(b) MySQL (Structured Query Language) (<xref ref-type="bibr" rid="ref-36">Liiv, 2021</xref>):</bold> MySQL, a robust relational database management system, underpins PEMS’s data storage and retrieval mechanisms. Employing SQL, MySQL efficiently handles the structured data that PEMS collects and processes, ensuring the system can manage poultry farm data effectively.</p>
+<p><bold>(c) MySQL Workbench (<xref ref-type="bibr" rid="ref-33">Krogh, 2020</xref>):</bold> MySQL Workbench is a graphical tool that complements MySQL’s functionality. It aids in the design, modelling, and administration of the database schema, enabling streamlined interaction with the underlying data structure.</p>
+<p><bold>(d) WildFly (<xref ref-type="bibr" rid="ref-58">Stancapiano, 2017</xref>):</bold> WildFly, a potent, modular, and lightweight application server, empowers the creation of exceptional applications. Previously recognized as JBoss AS or simply JBoss, WildFly originates from JBoss and is presently nurtured by Red Hat. Crafted using Java, WildFly adheres to the Java Platform, Enterprise Edition specification, ensuring seamless implementation of enterprise-level solutions. The WildFly application server provides a runtime environment for PEMS’s web-based application. It manages the execution of Java-based components, ensuring seamless communication between the application and the underlying hardware.</p>
+<p><bold>(e) Java Development Kit (JDK):</bold> The Java Development Kit is an essential toolkit for PEMS’s software development. It includes the Java compiler, runtime environment, and various libraries, enabling the creation of the application’s core functionality using the Java programming language.</p>
+<p>PEMS itself serves as a dynamic web-based application, leveraging the capabilities of Amazon Web Services (AWS) for deployment. Its primary purpose is to monitor and manage diverse poultry farmhouses. Through a secure user authentication system, authorized users access the application <italic>via</italic> a URL. This access empowers them to monitor environmental conditions, track data trends, and make informed decisions to optimize poultry health and production within the farmhouses.</p>
+<p>In essence, PEMS harnesses the capabilities of these software tools to deliver a comprehensive solution that enhances the monitoring and management of poultry farm environments. The seamless integration of Eclipse, MySQL, MySQL Workbench, WildFly, and JDK forms the technological backbone that empowers PEMS to provide real-time insights and actionable data for effective poultry farm management.</p>
+</sec>
+</sec>
+</sec>
+<sec sec-type="results|discussion">
+<title>Results and discussion</title>
+<p>We conducted comprehensive monitoring of six crucial air quality parameters in the control shed of the poultry farmhouse using a range of sensors. These parameters included temperature (°C), relative humidity (RH), oxygen (<inline-formula id="ieqn-28">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-28.png"/><tex-math id="tex-ieqn-28"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-28"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) level, carbon dioxide (<inline-formula id="ieqn-29">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-29.png"/><tex-math id="tex-ieqn-29"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-29"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) level, carbon monoxide (CO) level, ammonia (<inline-formula id="ieqn-30">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-30.png"/><tex-math id="tex-ieqn-30"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-30"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) gas concentrations, inside the shed. The deployment of these sensors took place in the control shed located in Sehwan, Sindh, Pakistan. Sensor nodes were strategically placed on-site and monitored remotely. The figures presented in the study represent the temporal variation of each physical parameter, with the magnitude on the vertical axis and time on the horizontal axis.</p>
+<p>While the data presented reflects real-time information collected from the poultry farmhouse, it is important to note that the effectiveness and robustness of the monitoring system’s algorithm were validated through extensive testing. The algorithm demonstrated its ability to provide accurate and reliable alerts and graphical representations of the data to the supervisor in the farmhouse. The supervisor found the system instrumental in making informed decisions and taking immediate actions when necessary.</p>
+<p>Furthermore, the system facilitated the storage and analysis of data from different poultry flocks, enabling the farm owner to make informed decisions about flock management. This information was invaluable in determining the optimal conditions for starting a new flock and ensuring favourable conditions for their growth and well-being.</p>
+<p>The integration of sensor data, algorithm validation, and practical applications highlights the effectiveness of the monitoring system in providing real-time insights and facilitating decision-making processes in the poultry farmhouse environment.</p>
+<sec>
+<title>Result</title>
+<p>In the following section, we provide a detailed analysis of the results for each sensing parameter. The data presented represents the daily average of sensor readings collected at 30-min intervals over the course of 1 week.</p>
+<sec>
+<title>Temperature sensor</title>
+<p>Maintaining a consistent and suitable temperature inside the control shed of a poultry farmhouse is crucial for the well-being and growth of the chicks. In order to monitor the temperature, the SHT20 sensor was employed in this system to collect temperature data, measured in degrees Celsius (°C). The first-week data is presented in <xref ref-type="fig" rid="fig-7">Fig. 7</xref>, with the X-axis representing the dates and the Y-axis indicating the daily average temperature. Analyzing <xref ref-type="fig" rid="fig-7">Fig. 7</xref>, it can be observed that the temperature inside the control shed remained within an acceptable range over the specified dates, with a maximum value of 34 °C, which adheres to the upper limit recommended by the standards (<xref ref-type="bibr" rid="ref-2">Ammad-Uddin et al., 2014</xref>). However, it is worth noting that the temperature fell below the lower limit of 30 °C for the last 2 days of the measured period. To ensure that the temperature remains within the desired range, the proposed system is designed to send an alert to the supervisor whenever the temperature drops below 30 °C on specific dates. This notification prompts the supervisor to take appropriate actions, such as activating the vents or cooling pads, to regulate the temperature and maintain the desired conditions for the chicks’ comfort and well-being. Looking ahead, the integration of this system with different IoT actuators will allow for fully controlled operations within the poultry farmhouse. By providing real-time data, the system enables better decision-making, automates processes, and offers a more efficient and cost-effective approach to managing and monitoring operations. This integration of sensors and actuators in an IoT framework empowers the poultry farm to optimize temperature control and other environmental factors, ensuring optimal conditions for the growth and health of the chicks while minimizing manual intervention.</p>
+<fig id="fig-7">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-7</object-id>
+<label>Figure 7</label>
+<caption>
+<title>Temperature values in Celsius.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-7.png"/>
+</fig>
+</sec>
+<sec>
+<title>Relative humidity (RH)</title>
+<p>Relative humidity is a pivotal parameter that determines the moisture content present in the air and holds significant importance in diverse applications, including poultry farming. <xref ref-type="disp-formula" rid="eqn-1">Equation (1)</xref> provides a precise method for calculating relative humidity (<inline-formula id="ieqn-31">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-31.png"/><tex-math id="tex-ieqn-31"><![CDATA[$\phi$]]></tex-math><mml:math id="mml-ieqn-31"><mml:mi>ϕ</mml:mi></mml:math>
+</alternatives></inline-formula>) by comparing the partial pressure of water vapor (<inline-formula id="ieqn-32">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-32.png"/><tex-math id="tex-ieqn-32"><![CDATA[${p_{{H_2}O}}$]]></tex-math><mml:math id="mml-ieqn-32"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mi>O</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) with the equilibrium vapor pressure of water (<inline-formula id="ieqn-33">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-33.png"/><tex-math id="tex-ieqn-33"><![CDATA[$p_{{H_2}O}^*$]]></tex-math><mml:math id="mml-ieqn-33"><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mi>O</mml:mi></mml:mrow><mml:mo>∗</mml:mo></mml:msubsup></mml:math>
+</alternatives></inline-formula>).</p>
+<p><disp-formula id="eqn-1">
+<label>(1)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[$$\phi = {{{p_{{H_2}O}}} \over {p_{{H_2}O}^*}}$$]]></tex-math><mml:math id="mml-eqn-1" display="block"><mml:mi>ϕ</mml:mi><mml:mo>=</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mi>O</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow><mml:mrow><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mi>O</mml:mi></mml:mrow><mml:mo>∗</mml:mo></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow></mml:math>
+</alternatives></disp-formula></p>
+<p>The IoT system introduced in this study incorporates the SHT20 humidity sensor to effectively monitor and evaluate relative humidity levels within the poultry farm. By utilizing <xref ref-type="disp-formula" rid="eqn-1">Eq. (1)</xref>, the humidity sensor provides accurate readings that facilitate the calculation of relative humidity. To align with this study’s focus, the collected relative humidity values are transformed into a percentage scale. The resulting dataset is then visualized in <xref ref-type="fig" rid="fig-8">Fig. 8</xref>, offering insights into the daily average relative humidity levels over a specified timeframe. In this graphical representation, the X-axis corresponds to the dates, while the Y-axis denotes the percentage values of relative humidity.</p>
+<fig id="fig-8">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-8</object-id>
+<label>Figure 8</label>
+<caption>
+<title>Relative humidity (RH%) value.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-8.png"/>
+</fig>
+<p>Sustaining an optimal relative humidity level significantly influences the well-being and growth of poultry. Conventionally, a relative humidity level of 80% is deemed ideal for poultry farming. However, the observations during the first week unveiled that the average relative humidity values consistently hovered around 70%, as depicted in <xref ref-type="fig" rid="fig-8">Fig. 8</xref>.</p>
+<p>To ensure that relative humidity conditions remain conducive for the chickens, the IoT system is intelligently designed to generate notifications for the farm supervisor if the relative humidity percentage falls below a predefined threshold. Upon receiving such notifications, the supervisor can promptly initiate corrective measures, such as activating a humidifier, to uphold the required humidity percentage. This proactive approach guarantees that the poultry farm promptly addresses any deviations from the optimal humidity levels, thereby promoting the overall health and growth of the avian inhabitants.</p>
+</sec>
+<sec>
+<title>Oxygen sensor (<inline-formula id="ieqn-34">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-34.png"/><tex-math id="tex-ieqn-34"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-34"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>)</title>
+<p>Maintaining an optimal level of oxygen concentration within the confines of poultry farm control sheds is of paramount importance to avert congestion-related concerns and foster the healthy development of young chicks. As emphasized by <xref ref-type="bibr" rid="ref-51">Saleeva et al. (2020)</xref>, sustaining an oxygen concentration of 21% volume (Vol) is deemed ideal for ensuring optimal growth within poultry farms. To gauge the oxygen concentration, the deployed system integrates the Grove <inline-formula id="ieqn-35">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-35.png"/><tex-math id="tex-ieqn-35"><![CDATA[$\rm {O^2}$]]></tex-math><mml:math id="mml-ieqn-35"><mml:mrow><mml:msup><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:math>
+</alternatives></inline-formula> sensor. The resultant dataset is then utilized to compute the daily average, subsequently visualized in <xref ref-type="fig" rid="fig-9">Fig. 9</xref>. In this graphical representation, the X-axis corresponds to dates, while the Y-axis depicts the oxygen concentration in terms of percentage volume.</p>
+<fig id="fig-9">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-9</object-id>
+<label>Figure 9</label>
+<caption>
+<title>Oxygen (<inline-formula id="ieqn-36">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-36.png"/><tex-math id="tex-ieqn-36"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-36"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) value.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-9.png"/>
+</fig>
+<p>Upon scrutinizing the dataset showcased in <xref ref-type="fig" rid="fig-9">Fig. 9</xref>, it is evident that the early weeks witnessed relatively lower oxygen concentration levels. However, with the passage of time, a noteworthy enhancement is discernible, with oxygen concentration levels approaching the vicinity of 18%. This progression aligns more closely with the recommended oxygen concentration level posited by <xref ref-type="bibr" rid="ref-51">Saleeva et al. (2020)</xref>. Importantly, maintaining a higher oxygen concentration within the control sheds contributes to a more favorable and comfortable environment for the chicks, thereby fostering superior growth rates. This underscored the significance of adequate oxygen levels underscores their pivotal role in promoting the overall health and well-being of the avian occupants.</p>
+<p>Drawing insights from the system-generated data, a critical threshold of 16% oxygen concentration was identified. To ensure that oxygen levels consistently exceed this critical threshold, the system is adeptly configured to initiate an SMS notification to the farm supervisor whenever the oxygen concentration registers a dip below this prescribed minimum. This notification serves as an alert, compelling the supervisor to implement requisite measures, such as optimizing ventilation or augmenting airflow, to promptly reestablish and sustain the requisite oxygen concentration levels. Through the continuous vigilance and regulation of oxygen concentration levels within the control sheds. The poultry farm is empowered to provide an environment conducive to healthy and optimal chick development. By averting congestion-related challenges and ensuring oxygen-rich surroundings, the poultry farm can ensure unfettered growth and well-being for its avian inhabitants.</p>
+</sec>
+<sec>
+<title>Carbon dioxide sensor (<inline-formula id="ieqn-37">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-37.png"/><tex-math id="tex-ieqn-37"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-37"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>)</title>
+<p>Carbon dioxide (<inline-formula id="ieqn-38">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-38.png"/><tex-math id="tex-ieqn-38"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-38"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) gas is an inherent byproduct of chick respiration. Monitoring and regulating <inline-formula id="ieqn-39">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-39.png"/><tex-math id="tex-ieqn-39"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-39"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> levels within poultry farm environments is imperative, as elevated concentrations can adversely affect the respiratory health of the avian inhabitants. While typical ambient conditions yield <inline-formula id="ieqn-40">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-40.png"/><tex-math id="tex-ieqn-40"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-40"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> levels of approximately 450 parts per million (ppm) (<xref ref-type="bibr" rid="ref-13">Chung, 2021</xref>), it remains pivotal to ensure that the maximum <inline-formula id="ieqn-41">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-41.png"/><tex-math id="tex-ieqn-41"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-41"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> level within the poultry farm remains below 2,500 ppm to preempt respiratory issues among the chicks.</p>
+<p>The measurement of <inline-formula id="ieqn-42">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-42.png"/><tex-math id="tex-ieqn-42"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-42"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas concentration within this system leverages the MQ-135 sensor. Subsequent to data collection, a daily average is computed, subsequently rendered in <xref ref-type="fig" rid="fig-10">Fig. 10</xref>. In this graphical depiction, the X-axis delineates the dates, while the Y-axis denotes the <inline-formula id="ieqn-43">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-43.png"/><tex-math id="tex-ieqn-43"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-43"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas concentration expressed in ppm. Notably, <xref ref-type="fig" rid="fig-10">Fig. 10</xref> chronicles the peak <inline-formula id="ieqn-44">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-44.png"/><tex-math id="tex-ieqn-44"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-44"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas concentration within the poultry farm, which approached 1,100 ppm during the documented period. It is imperative to underscore that this recorded timeframe coincides with a period of shed closure aimed at maintaining the requisite temperature. The escalated <inline-formula id="ieqn-45">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-45.png"/><tex-math id="tex-ieqn-45"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-45"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> levels observed in confined settings underscore the significance of efficacious ventilation and robust monitoring systems to obviate the accumulation of noxious gases.</p>
+<fig id="fig-10">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-10</object-id>
+<label>Figure 10</label>
+<caption>
+<title>Carbon dioxide (<inline-formula id="ieqn-46">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-46.png"/><tex-math id="tex-ieqn-46"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-46"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) value.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-10.png"/>
+</fig>
+<p>In the pursuit of timely intervention and the perpetuation of a secure environment for the chicks, the system is astutely configured to dispatch an SMS notification to the farm supervisor upon the <inline-formula id="ieqn-47">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-47.png"/><tex-math id="tex-ieqn-47"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-47"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas level surpassing the 500 ppm threshold. This demarcation operates as an early alert, propelling the supervisor to undertake judicious measures, such as calibrating ventilation systems or instituting supplemental protocols to attenuate the <inline-formula id="ieqn-48">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-48.png"/><tex-math id="tex-ieqn-48"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-48"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> concentration. Through the continuous oversight and management of <inline-formula id="ieqn-49">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-49.png"/><tex-math id="tex-ieqn-49"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-49"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas levels, the poultry farm is primed to provide a salubrious and congenial milieu for the chicks. This concerted approach mitigates the specter of respiratory ailments and concomitantly nurtures the holistic well-being of the avian occupants.</p>
+</sec>
+<sec>
+<title>Carbon monoxide sensor (CO)</title>
+<p>Carbon monoxide (CO) gas, characterized by its colorless and odorless nature (<xref ref-type="bibr" rid="ref-25">Ibrahim, 2018</xref>), poses a profound threat due to its highly toxic attributes. Predominantly encountered as an industrial hazard, CO gas carries substantial implications for both human and animal well-being. Within the precincts of a poultry farm, CO gas can emanate from diverse sources, including the operation of diesel generators within the shed or the decomposition of manure generated by the chicks.</p>
+<p><xref ref-type="fig" rid="fig-11">Figure 11</xref> captures the measurements of CO gas levels amassed through the orchestrated system, facilitated by the Winson ZEO7-CO sensor. The data is succinctly depicted as the average daily concentration of CO gas, conveyed in parts per million (ppm). In this graphical portrayal, the X-axis delineates the temporal evolution, while the Y-axis signifies the CO gas concentration in ppm.</p>
+<fig id="fig-11">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-11</object-id>
+<label>Figure 11</label>
+<caption>
+<title>Carbon monoxide (CO) value.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-11.png"/>
+</fig>
+<p>Analyzing <xref ref-type="fig" rid="fig-12">Fig. 12</xref>, it is discernible that the CO gas concentration exhibited an initial period of dormancy, subsequently ascending to a pinnacle of 10 ppm, only to descend towards the culmination of the observed week. This oscillatory pattern underscores the potential interplay of multiple sources and conditions precipitating CO gas generation within the poultry farm milieu.</p>
+<fig id="fig-12">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/fig-12</object-id>
+<label>Figure 12</label>
+<caption>
+<title>Ammonia gas (<inline-formula id="ieqn-52">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-52.png"/><tex-math id="tex-ieqn-52"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-52"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) value.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/cs-1623/fig-12.png"/>
+</fig>
+<p>The criticality of maintaining CO gas concentrations at safe and acceptable levels cannot be overstated, particularly given its perilous ramifications, especially for susceptible chicks. Prolonged exposure to elevated CO gas levels engenders severe health consequences (<xref ref-type="bibr" rid="ref-25">Ibrahim, 2018</xref>). Consequently, the surveillance and regulation of CO gas levels within the poultry farm environment are indispensable.</p>
+<p>In the overarching endeavor to safeguard the well-being of the chicks, the IoT system assumes a pivotal role by effectuating continuous CO gas level monitoring. This perpetual vigilance facilitates the timely discernment of substantial deviations, thereby enabling prompt interventions and ameliorative measures to avert potential harm to the avian occupants.</p>
+</sec>
+<sec>
+<title>Ammonia (<inline-formula id="ieqn-50">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-50.png"/><tex-math id="tex-ieqn-50"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-50"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) gas sensor</title>
+<p>Ammonia (<inline-formula id="ieqn-51">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-51.png"/><tex-math id="tex-ieqn-51"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-51"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>) gas, characterized by its pungent odor, arises as a byproduct of manure decomposition within poultry farmhouses. The presence of ammonia in such environments engenders significant risks to the health and welfare of chickens. Exposure to elevated ammonia concentrations, such as 80 parts per million (ppm), can precipitate a spectrum of health issues, ranging from ocular ulcers to severe respiratory tract impairment (<xref ref-type="bibr" rid="ref-43">Naseem &amp; King, 2018</xref>). These afflictions culminate in discomfort, irritation, and potentially respiratory distress for the avian inhabitants.</p>
+<p>The meticulous surveillance of ammonia gas concentration within poultry farmhouses is undertaken through an advanced sensing paradigm. The deployed system incorporates a Winson-ME3NH3 sensor, meticulously designed to gauge and monitor ammonia gas levels accurately. The ensuing dataset is subjected to comprehensive analysis and subsequently translated into a graphical representation, capturing the daily average ammonia gas concentration over time. <xref ref-type="fig" rid="fig-12">Figure 12</xref> furnishes an illustrative rendition of this measured data, wherein the temporal progression is depicted along the X-axis, while the ammonia gas concentration in parts per million (ppm) is charted along the Y-axis.</p>
+<p>The pivotal implication conveyed by <xref ref-type="fig" rid="fig-12">Fig. 12</xref> is the sustenance of ammonia levels well below the prescribed upper limits, a fundamental prerequisite for upholding a salubrious environment for poultry. The continuous monitoring orchestrated by the IoT system assures expeditious identification and mitigation of potential issues.</p>
+<p>To further fortify safety protocols within poultry farmhouses, the IoT framework incorporates an automatic mechanism. Upon surpassing the 80 ppm threshold, a high-priority alert is instantaneously disseminated to both the supervisor and the farm’s medical personnel. This expeditious notification mechanism facilitates timely intervention and prudent remedial measures to counteract ammonia accumulation, thereby safeguarding the well-being and vitality of the avian occupants.</p>
+</sec>
+</sec>
+<sec>
+<title>Discussion and lesson learned</title>
+<p>This section details the valuable experience we have gained during the implementation of the PEMS system in the field. As we can see from the results presented in “Result”, environmental parameters contribute heavily to the health and the growth of the birds and thus to the profitability of the farm. Monitoring live environment parameters and implementing associated alert systems can ensure healthy growth to optimize the productivity of a chick farm. More importantly, by live monitoring of gases, such as <inline-formula id="ieqn-53">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-53.png"/><tex-math id="tex-ieqn-53"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-53"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-54">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-54.png"/><tex-math id="tex-ieqn-54"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-54"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, and CO, a farmer can reduce the level of gases that are very harmful to the health of birds. This system has revealed some lessons that can be useful for future smart farming practices in chicken farming. These lessons are summarized below.
+<list list-type="bullet">
+<list-item><p>The environment within the control sheds of the poultry farms is dusty all the time. However, the dust particles will impact the ageing and performance of sensors, controllers, and electronic components. Thus, the proper protection and timely cleaning of the devices themselves are very important.</p></list-item>
+<list-item><p>The placements of sensors are very important because in control sheds every corner has different temperature and humidity levels. Temperature and humidity extremes occur at the pad side (low-temperature side) and the fan side (dry area).</p></list-item>
+<list-item><p>For accurate measurement of the data, strategic sensor placement with reliable data interpretation and analysis is needed.</p></list-item>
+<list-item><p>The reading range of LoRa modules is affected by the civil structure of the shed because it is shaped like a tunnel. Thus, modules with antennae are better options.</p></list-item></list></p>
+</sec>
+</sec>
+<sec>
+<title>Limitations and future roadmap</title>
+<p>In this section, we discuss the limitations of this study and also provide a future roadmap to enhance this work.</p>
+<sec>
+<title>Limitations</title>
+<p>Despite the promising findings and contributions of this study, some limitations should be acknowledged.</p>
+<p>Firstly, the data collection was limited to a span of 1 week, which may not capture long-term variations or seasonal effects. Secondly, the study focused on a specific poultry farm, and the results may not be directly generalizable to other farms with different setups or geographic locations. Variations in farm size, ventilation systems, and management practices could influence the observed sensor readings. Thirdly, while the IoT-based sensor systems provided valuable real-time data, they were limited to monitoring and alerting functionalities.</p>
+</sec>
+<sec>
+<title>Future roadmap</title>
+<p>Building upon the limitations and opportunities identified, several avenues for future research and development can be explored.</p>
+<p>Firstly, expanding the study to encompass multiple poultry farms would provide a broader understanding of the variations and challenges across different farm settings. Comparing and analyzing data from various farms could lead to the identification of best practices and guidelines for optimal environmental management (<xref ref-type="bibr" rid="ref-40">Murugeswari et al., 2023</xref>).</p>
+<p>Secondly, incorporating machine learning and data analytics techniques (<xref ref-type="bibr" rid="ref-10">Castro et al., 2023</xref>; <xref ref-type="bibr" rid="ref-64">Yang et al., 2023</xref>) could enhance the capabilities of IoT-based sensor systems. By leveraging advanced algorithms, it would be possible to detect patterns, predict potential deviations, and recommend proactive interventions to maintain optimal environmental conditions.</p>
+<p>Furthermore, integrating the sensor systems with automated actuators and control mechanisms would enable real-time adjustments based on the sensor readings (<xref ref-type="bibr" rid="ref-39">Mazunga et al., 2023</xref>). This would create a more intelligent and self-regulating farm environment, reducing the reliance on manual interventions and optimizing resource utilization. Besides, utilizing energy harvesting techniques (<xref ref-type="bibr" rid="ref-30">Karim et al., 2018</xref>) for the longevity of IoT nodes may also be recommended.</p>
+<p>Additionally, exploring the integration of other relevant environmental parameters, such as light intensity and air quality, would provide a more comprehensive understanding of the poultry farm environment. These additional parameters can contribute to a holistic approach to environmental management and further enhance animal welfare and productivity (<xref ref-type="bibr" rid="ref-50">Ramteke &amp; Dongre, 2023</xref>).</p>
+<p>Finally, long-term studies encompassing multiple seasons and variations in weather conditions would provide a more complete understanding of the environmental dynamics in poultry farms (<xref ref-type="bibr" rid="ref-27">Jacobs et al., 2023</xref>). This would enable farmers to develop targeted strategies and interventions to mitigate potential risks and optimize conditions for the birds’ health and growth. Autonomous vehicles can also be utilized to augment the production of poultry farms (<xref ref-type="bibr" rid="ref-54">Shi et al., 2023</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>This study focused on implementing an advanced technology-based system for the efficient management of chickens in poultry farms by continuously monitoring environmental parameters. The continuous monitoring of temperature, RH, O, CO<sub>2</sub> levels, CO levels, and <inline-formula id="ieqn-55">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-55.png"/><tex-math id="tex-ieqn-55"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-55"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas concentration, allowed for a comprehensive understanding of the farm’s environmental conditions.</p>
+<p>The findings highlighted the importance of maintaining appropriate levels of these parameters to ensure the health and well-being of the chicks. The temperature remained within the desired range, ensuring a comfortable environment for the chicks without exceeding the recommended upper limit. The <inline-formula id="ieqn-56">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-56.png"/><tex-math id="tex-ieqn-56"><![CDATA[$\rm {O_2}$]]></tex-math><mml:math id="mml-ieqn-56"><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> concentration levels showed a gradual improvement over the entire period of monitoring, but occasional drops below the minimum threshold necessitated immediate action to restore optimal conditions for the birds’ growth and development. The consistently low levels of <inline-formula id="ieqn-57">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-57.png"/><tex-math id="tex-ieqn-57"><![CDATA[$\rm N{H_3}$]]></tex-math><mml:math id="mml-ieqn-57"><mml:mi>N</mml:mi><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> gas and CO indicated a safe respiratory environment, while occasional fluctuations in RH and <inline-formula id="ieqn-58">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/cs-1623/ieqn-58.png"/><tex-math id="tex-ieqn-58"><![CDATA[$\rm C{O_2}$]]></tex-math><mml:math id="mml-ieqn-58"><mml:mi>C</mml:mi><mml:mrow><mml:msub><mml:mi>O</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> levels emphasized the need for consistent monitoring and management.</p>
+<p>The implementation of IoT-based sensor systems offers significant advantages in poultry farm management, enabling real-time data collection, improved decision-making, and automated processes. Further enhancements could involve integrating these systems with actuators for precise control of environmental conditions, further optimizing the growth and health of the poultry.</p>
+<p>Overall, this study demonstrates the potential of IoT technologies in enhancing poultry farm management, promoting animal welfare, and improving operational efficiency. By harnessing the power of sensors and IoT connectivity, poultry farmers can create a safer, healthier, and more sustainable environment for their birds.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/cs-1623/Poultry1.zip">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Source code.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/cs-1623/Data.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj-cs.1623/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Sehwani Poultry Farm data.</title>
+<p>The dataset is collected from Sehwani Poultry Farm, Sehwan, Sindh, Pakistan</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<glossary content-type="abbreviations" id="glossary-1">
+<title>NOMENCLATURE</title>
+<def-list>
+<def-item>
+<term>AoI</term>
+<def>
+<p>Age of Information</p>
+</def>
+</def-item>
+<def-item>
+<term>AWS</term>
+<def>
+<p>Amazon Web Server</p>
+</def>
+</def-item>
+<def-item>
+<term>CO</term>
+<def>
+<p>Carbon monoxide</p>
+</def>
+</def-item>
+<def-item>
+<term>CO<sub>2</sub></term>
+<def>
+<p>Carbon dioxide</p>
+</def>
+</def-item>
+<def-item>
+<term>NH<sub>3</sub></term>
+<def>
+<p>Ammonia</p>
+</def>
+</def-item>
+<def-item>
+<term>DRL</term>
+<def>
+<p>Deep Reinforcement Learning</p>
+</def>
+</def-item>
+<def-item>
+<term>EECO</term>
+<def>
+<p>Energy Control and Computation Offloading</p>
+</def>
+</def-item>
+<def-item>
+<term>GHz</term>
+<def>
+<p>Giga Hertz</p>
+</def>
+</def-item>
+<def-item>
+<term>GPRS</term>
+<def>
+<p>General Packet Radio Services</p>
+</def>
+</def-item>
+<def-item>
+<term>GSM</term>
+<def>
+<p>Global System for Mobile Communication</p>
+</def>
+</def-item>
+<def-item>
+<term>GUI</term>
+<def>
+<p>Graphical User Interface</p>
+</def>
+</def-item>
+<def-item>
+<term>I2C</term>
+<def>
+<p>Inter-Integrated Circuit</p>
+</def>
+</def-item>
+<def-item>
+<term>IBM</term>
+<def>
+<p>International Business Machines</p>
+</def>
+</def-item>
+<def-item>
+<term>IIoT</term>
+<def>
+<p>Industrial Internet of Things</p>
+</def>
+</def-item>
+<def-item>
+<term>IoT</term>
+<def>
+<p>Internet of Things</p>
+</def>
+</def-item>
+<def-item>
+<term>JDK</term>
+<def>
+<p>Java Development Kit</p>
+</def>
+</def-item>
+<def-item>
+<term>LCD</term>
+<def>
+<p>Liquid Crystal Display</p>
+</def>
+</def-item>
+<def-item>
+<term>LED</term>
+<def>
+<p>Light Emitting Diode</p>
+</def>
+</def-item>
+<def-item>
+<term>LoRa</term>
+<def>
+<p>Long Range Radio</p>
+</def>
+</def-item>
+<def-item>
+<term>LoRaWAN</term>
+<def>
+<p>Long Range Wide Area Network</p>
+</def>
+</def-item>
+<def-item>
+<term>LPWAN</term>
+<def>
+<p>Low Power Wide Area Networks</p>
+</def>
+</def-item>
+<def-item>
+<term>LSI</term>
+<def>
+<p>Large-Scale Integration</p>
+</def>
+</def-item>
+<def-item>
+<term>MDP</term>
+<def>
+<p>Markov Decision Process</p>
+</def>
+</def-item>
+<def-item>
+<term>MEMS</term>
+<def>
+<p>Micro-Electromechanical Systems</p>
+</def>
+</def-item>
+<def-item>
+<term>MQTT</term>
+<def>
+<p>Message Queuing Telemetry Transport</p>
+</def>
+</def-item>
+<def-item>
+<term>MySQL</term>
+<def>
+<p>My Structured Query Language</p>
+</def>
+</def-item>
+<def-item>
+<term>NB-IoT</term>
+<def>
+<p>NarrowBand-Internet of Things</p>
+</def>
+</def-item>
+<def-item>
+<term>PC</term>
+<def>
+<p>Personal Computer</p>
+</def>
+</def-item>
+<def-item>
+<term>PEMS</term>
+<def>
+<p>Portable Emissions Measurement System</p>
+</def>
+</def-item>
+<def-item>
+<term>PLC</term>
+<def>
+<p>Programmable Logic Controller</p>
+</def>
+</def-item>
+<def-item>
+<term>ppm</term>
+<def>
+<p>parts per million</p>
+</def>
+</def-item>
+<def-item>
+<term>RH</term>
+<def>
+<p>Relative Humidity</p>
+</def>
+</def-item>
+<def-item>
+<term>SaaS</term>
+<def>
+<p>Software as a System</p>
+</def>
+</def-item>
+<def-item>
+<term>SIM</term>
+<def>
+<p>Subscriber Identity Module</p>
+</def>
+</def-item>
+<def-item>
+<term>SMS</term>
+<def>
+<p>Short Messaging Services</p>
+</def>
+</def-item>
+<def-item>
+<term>URL</term>
+<def>
+<p>Uniform Resource Locator</p>
+</def>
+</def-item>
+<def-item>
+<term>Vol</term>
+<def>
+<p>Volume</p>
+</def>
+</def-item>
+<def-item>
+<term>VR</term>
+<def>
+<p>Ventilation Rate</p>
+</def>
+</def-item>
+<def-item>
+<term>Wi-Fi</term>
+<def>
+<p>Wireless Fidelity</p>
+</def>
+</def-item>
+<def-item>
+<term>WLAN</term>
+<def>
+<p>Wireless Local Area Network</p>
+</def>
+</def-item>
+<def-item>
+<term>WSN</term>
+<def>
+<p>Wireless Sensor Network</p>
+</def>
+</def-item>
+</def-list>
+</glossary>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>Khursheed Aurangzeb is an Academic Editor for PeerJ.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Muhammad Hanif Lashari</xref> conceived and designed the experiments, performed the experiments, analyzed the data, performed the computation work, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Sarang Karim</xref> conceived and designed the experiments, performed the experiments, performed the computation work, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Musaed Alhussein</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Ayaz Ahmed Hoshu</xref> performed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Khursheed Aurangzeb</xref> conceived and designed the experiments, performed the experiments, performed the computation work, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Muhammad Shahid Anwar</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The source code and dataset are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Alizadehsani et al. (2022)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Alizadehsani</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Gomez</surname>
+<given-names>EG</given-names>
+</name>
+<name>
+<surname>Ghaemi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>González</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Jordan</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Fernández</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pérez-Lancho</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Modern integrated development environment (IDEs)</article-title>
+<source>Sustainable Smart Cities and Territories</source>
+<year iso-8601-date="2022">2022</year>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>274</fpage>
+<lpage>288</lpage>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Ammad-Uddin et al. (2014)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Ammad-Uddin</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ayaz</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Aggoune</surname>
+<given-names>E-H</given-names>
+</name>
+<name>
+<surname>Sajjad</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Wireless sensor network: a complete solution for poultry farming</article-title>
+<year iso-8601-date="2014">2014</year><conf-name>2014 IEEE 2nd International Symposium on Telecommunication Technologies (ISTT)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>321</fpage>
+<lpage>325</lpage>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Archana, Uma &amp; Babu (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Archana</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Uma</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Babu</surname>
+<given-names>TR</given-names>
+</name>
+</person-group>
+<article-title>A survey on: monitoring of poultry farm using IoT</article-title>
+<source>International Research Journal of Engineering and Technology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>5</volume>
+<issue>4</issue>
+<fpage>4635</fpage>
+<lpage>4638</lpage>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Arhipova et al. (2021)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Arhipova</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Vitols</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Paura</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jankovska</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Smart platform designed to improve poultry productivity and reduce greenhouse gas emissions</article-title>
+<year iso-8601-date="2021">2021</year><conf-name>Proceedings of Sixth International Congress on Information and Communication Technology: ICICT 2021</conf-name>
+<volume>1</volume>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>35</fpage>
+<lpage>46</lpage>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Bang et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Noh</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lim</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Oh</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Design and implementation of a smart control system for poultry breeding’s optimal LED environment</article-title>
+<source>International Journal of Control and Automation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>7</volume>
+<issue>2</issue>
+<fpage>99</fpage>
+<lpage>108</lpage>
+<pub-id pub-id-type="doi">10.14257/ijca.2014.7.2.10</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Barot, Kapadia &amp; Pandya (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Barot</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Kapadia</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Pandya</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>QoS enabled IoT based low cost air quality monitoring system with power consumption optimization</article-title>
+<source>Cybernetics and Information Technologies</source>
+<year iso-8601-date="2020">2020</year>
+<volume>20</volume>
+<issue>2</issue>
+<fpage>122</fpage>
+<lpage>140</lpage>
+<pub-id pub-id-type="doi">10.2478/cait-2020-0021</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Bolfe et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bolfe</surname>
+<given-names>ÉL</given-names>
+</name>
+<name>
+<surname>Jorge</surname>
+<given-names>LAC</given-names>
+</name>
+<name>
+<surname>Sanches</surname>
+<given-names>ID</given-names>
+</name>
+<name>
+<surname>Luchiari Júnior</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>da Costa</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Victoria</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Inamasu</surname>
+<given-names>RY</given-names>
+</name>
+<name>
+<surname>Grego</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>Ferreira</surname>
+<given-names>VR</given-names>
+</name>
+<name>
+<surname>Ramirez</surname>
+<given-names>AR</given-names>
+</name>
+</person-group>
+<article-title>Precision and digital agriculture: adoption of technologies and perception of brazilian farmers</article-title>
+<source>Agriculture</source>
+<year iso-8601-date="2020">2020</year>
+<volume>10</volume>
+<issue>12</issue>
+<lpage>653</lpage>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Boonsong et al. (2017)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Boonsong</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Chimparos</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Adeleke</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Ismail</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Real-time air monitoring using oxygen sensor embedded RFID with wireless mesh sensor network platform</article-title>
+<year iso-8601-date="2017">2017</year><conf-name>2017 International Conference on Electronics, Information and Communication</conf-name>
+<fpage>472</fpage>
+<lpage>477</lpage>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Boopathy et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boopathy</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Satheesh</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Mohamed Feroz</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Dinesh</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Performance optimization of poultry farm by using instrumentation with help of embedded automation</article-title>
+<source>International Journal of Innovative Research in Computer and Communication Engineering</source>
+<year iso-8601-date="2014">2014</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>9</lpage>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Castro et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Castro</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Chai</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Arango</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Owens</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Reichelt</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>DuBois</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Menconi</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Poultry industry paradigms: connecting the dots</article-title>
+<source>Journal of Applied Poultry Research</source>
+<year iso-8601-date="2023">2023</year>
+<volume>32</volume>
+<issue>1</issue>
+<fpage>100310</fpage>
+<pub-id pub-id-type="doi">10.1016/j.japr.2022.100310</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Chodkowska, Wódz &amp; Wojciechowski (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chodkowska</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Wódz</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Wojciechowski</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Sustainable future protein foods: the challenges and the future of cultivated meat</article-title>
+<source>Foods</source>
+<year iso-8601-date="2022">2022</year>
+<volume>11</volume>
+<issue>24</issue>
+<fpage>4008</fpage>
+<pub-id pub-id-type="doi">10.3390/foods11244008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Choukidar &amp; Dawande (2017)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Choukidar</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Dawande</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Smart poultry farm automation and monitoring system</article-title>
+<year iso-8601-date="2017">2017</year><conf-name>2017 International Conference on Computing, Communication, Control and Automation (ICCUBEA)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>1</fpage>
+<lpage>5</lpage>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Chung (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Chung</surname>
+<given-names>JH</given-names>
+</name>
+</person-group>
+<article-title>Carbon dioxide generation by fungal mycelium during spawn run</article-title>
+<year iso-8601-date="2021">2021</year>
+<comment>PhD thesis. The University of Arizona</comment>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Curtin, Daley &amp; Anderson (2014)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Curtin</surname>
+<given-names>RR</given-names>
+</name>
+<name>
+<surname>Daley</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>DV</given-names>
+</name>
+</person-group>
+<article-title>Classifying broiler chicken condition using audio data</article-title>
+<year iso-8601-date="2014">2014</year><conf-name>2014 IEEE Global Conference on Signal and Information Processing (GlobalSIP)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>1141</fpage>
+<lpage>1144</lpage>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Czarick &amp; Fairchild (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Czarick</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fairchild</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Carbon monoxide measuring and monitoring</article-title>
+<source>Poultry Housing Tips</source>
+<year iso-8601-date="2007">2007</year>
+<volume>19</volume>
+<issue>3</issue>
+<fpage>4</fpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>David et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>David</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Mejdell</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Michel</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Lund</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Moe</surname>
+<given-names>RO</given-names>
+</name>
+</person-group>
+<article-title>Air quality in alternative housing systems may have an impact on laying hen welfare. Part II—ammonia</article-title>
+<source>Animals</source>
+<year iso-8601-date="2015">2015</year>
+<volume>5</volume>
+<issue>3</issue>
+<fpage>886</fpage>
+<lpage>896</lpage>
+<pub-id pub-id-type="doi">10.3390/ani5030389</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Dong &amp; Zhang (2009)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Dong</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Wireless sensor networks applied on environmental monitoring in fowl farm</article-title>
+<year iso-8601-date="2009">2009</year><conf-name>International Conference on Computer and Computing Technologies in Agriculture</conf-name>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>479</fpage>
+<lpage>486</lpage>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Du et al. (2017)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Du</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Guo</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>Q</given-names>
+</name>
+</person-group>
+<article-title>A remote monitoring system of temperature and humidity based on onenet cloud service platform</article-title>
+<year iso-8601-date="2017">2017</year><conf-name>2017 IEEE Electrical Design of Advanced Packaging and Systems Symposium (EDAPS)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>1</fpage>
+<lpage>3</lpage>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Du et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Du</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Zheng</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Qu</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Design and implementation of intelligent gateway system for monitoring livestock and poultry feeding environment based on bluetooth low energy</article-title>
+<source>Information</source>
+<year iso-8601-date="2021">2021</year>
+<volume>12</volume>
+<issue>6</issue>
+<fpage>218</fpage>
+<pub-id pub-id-type="doi">10.3390/info12060218</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Ferrari et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ferrari</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Panaite</surname>
+<given-names>S-A</given-names>
+</name>
+<name>
+<surname>Bertazzo</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Visioli</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Animal-and plant-based protein sources: a scoping review of human health outcomes and environmental impact</article-title>
+<source>Nutrients</source>
+<year iso-8601-date="2022">2022</year>
+<volume>14</volume>
+<issue>23</issue>
+<fpage>5115</fpage>
+<pub-id pub-id-type="doi">10.3390/nu14235115</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Gebregeziabhear &amp; Ameha (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gebregeziabhear</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Ameha</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>The effect of stress on productivity of animals: a review</article-title>
+<source>Journal of Biology, Agriculture and Healthcare</source>
+<year iso-8601-date="2015">2015</year>
+<volume>5</volume>
+<issue>15</issue>
+<fpage>14</fpage>
+<lpage>22</lpage>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Griva et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Griva</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Boursianis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sarigiannidis</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Psannis</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Karagiannidis</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Goudos</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>LoRa-based IoT network assessment in rural and urban scenarios</article-title>
+<source>Sensors</source>
+<year iso-8601-date="2023">2023</year>
+<volume>23</volume>
+<issue>3</issue>
+<fpage>1695</fpage>
+<pub-id pub-id-type="doi">10.3390/s23031695</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Hafez &amp; Attia (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hafez</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Attia</surname>
+<given-names>YA</given-names>
+</name>
+</person-group>
+<article-title>Challenges to the poultry industry: current perspectives and strategic future after the COVID-19 outbreak</article-title>
+<source>Frontiers in Veterinary Science</source>
+<year iso-8601-date="2020">2020</year>
+<volume>7</volume>
+<fpage>516</fpage>
+<pub-id pub-id-type="doi">10.3389/fvets.2020.00516</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Huang et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Gao</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Wan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>AoI-aware energy control and computation offloading for industrial IoT</article-title>
+<source>Future Generation Computer Systems</source>
+<year iso-8601-date="2023">2023</year>
+<volume>139</volume>
+<fpage>29</fpage>
+<lpage>37</lpage>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Ibrahim (2018)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Ibrahim</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Carbon dioxide and carbon monoxide level detector</article-title>
+<year iso-8601-date="2018">2018</year><conf-name>2018 21st International Conference of Computer and Information Technology (ICCIT)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>1</fpage>
+<lpage>5</lpage>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Istiak &amp; Khaliduzzaman (2022)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Istiak</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Khaliduzzaman</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Khaliduzzaman</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Poultry and egg production: an overview</article-title>
+<source>Informatics in Poultry Production</source>
+<year iso-8601-date="2022">2022</year>
+<publisher-loc>Singapore</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>3</fpage>
+<lpage>12</lpage>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Jacobs et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jacobs</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Blatchford</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>De Jong</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Erasmus</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Levengood</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Newberry</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Regmi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Riber</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Weimer</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Enhancing their quality of life: environmental enrichment for poultry</article-title>
+<source>Poultry Science</source>
+<year iso-8601-date="2023">2023</year>
+<volume>102</volume>
+<issue>1</issue>
+<fpage>102233</fpage>
+<pub-id pub-id-type="doi">10.1016/j.psj.2022.102233</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Janczak &amp; Riber (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Janczak</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Riber</surname>
+<given-names>AB</given-names>
+</name>
+</person-group>
+<article-title>Review of rearing-related factors affecting the welfare of laying hens</article-title>
+<source>Poultry Science</source>
+<year iso-8601-date="2015">2015</year>
+<volume>94</volume>
+<issue>7</issue>
+<fpage>1454</fpage>
+<lpage>1469</lpage>
+<pub-id pub-id-type="doi">10.3382/ps/pev123</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Jácome, Rossi &amp; Borille (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jácome</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Rossi</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Borille</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Influence of artificial lighting on the performance and egg quality of commercial layers: a review</article-title>
+<source>Brazilian Journal of Poultry Science</source>
+<year iso-8601-date="2014">2014</year>
+<volume>16</volume>
+<issue>4</issue>
+<fpage>337</fpage>
+<lpage>344</lpage>
+<pub-id pub-id-type="doi">10.1590/1516-635X1604337-344</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Karim et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Karim</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rahu</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Mirani</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Jatoi</surname>
+<given-names>GM</given-names>
+</name>
+</person-group>
+<article-title>Energy harvesting for water quality monitoring using floating sensor networks: a generic framework</article-title>
+<source>Sukkur IBA Journal of Emerging Technologies</source>
+<year iso-8601-date="2018">2018</year>
+<volume>1</volume>
+<issue>2</issue>
+<fpage>19</fpage>
+<lpage>32</lpage>
+<pub-id pub-id-type="doi">10.30537/sjet.v1i2.193</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Karim &amp; Shaikh (2017)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Karim</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Shaikh</surname>
+<given-names>FK</given-names>
+</name>
+</person-group>
+<article-title>Wireless sensor network–based smart agriculture</article-title>
+<source>Opportunistic Networking</source>
+<year iso-8601-date="2017">2017</year>
+<publisher-loc>New York, USA</publisher-loc>
+<publisher-name>CRC Press</publisher-name>
+<fpage>239</fpage>
+<lpage>264</lpage>
+<pub-id pub-id-type="doi">10.1201/9781315200804</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Kodali, Yerroju &amp; Sahu (2018)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Kodali</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Yerroju</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sahu</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Smart farm monitoring using lora enabled IoT</article-title>
+<year iso-8601-date="2018">2018</year><conf-name>2018 Second International Conference on Green Computing and Internet of Things (ICGCIoT)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>391</fpage>
+<lpage>394</lpage>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Krogh (2020)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Krogh</surname>
+<given-names>JW</given-names>
+</name>
+</person-group>
+<source>MySQL 8 query performance tuning: a systematic method for improving execution speeds</source>
+<year iso-8601-date="2020">2020</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Apress</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Lashari et al. (2018)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Lashari</surname>
+<given-names>MH</given-names>
+</name>
+<name>
+<surname>Memon</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Shah</surname>
+<given-names>SAA</given-names>
+</name>
+<name>
+<surname>Nenwani</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Shafqat</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>IoT based poultry environment monitoring system</article-title>
+<year iso-8601-date="2018">2018</year><conf-name>2018 IEEE International Conference on Internet of Things and Intelligence System (IOTAIS)</conf-name>
+<fpage>1</fpage>
+<lpage>5</lpage>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Lavric &amp; Popa (2017)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Lavric</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Popa</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Internet of things and lora<sup>TM</sup> low-power wide-area networks: a survey</article-title>
+<year iso-8601-date="2017">2017</year><conf-name>2017 International Symposium on Signals, Circuits and Systems (ISSCS)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>1</fpage>
+<lpage>5</lpage>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Liiv (2021)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Liiv</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Exploration with structured query language</article-title>
+<source>Data Science Techniques for Cryptocurrency Blockchains. Behaviormetrics: Quantitative Approaches to Human Behavior</source>
+<year iso-8601-date="2021">2021</year>
+<volume>9</volume>
+<publisher-loc>Singapore</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<pub-id pub-id-type="doi">10.1007/978-981-16-2418-6_2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Loyse (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Loyse</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Raspberry-pi documentation</article-title>
+<year iso-8601-date="2017">2017</year>
+<fpage>37</fpage><uri>https://www.raspberrypi.com/documentation/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2022-12-20">20 December 2022</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Mahale &amp; Sonavane (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mahale</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Sonavane</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Smart poultry farm monitoring using IoT and wireless sensor networks</article-title>
+<source>International Journal of Advanced Research in Computer Science</source>
+<year iso-8601-date="2016">2016</year>
+<volume>7</volume>
+<issue>3</issue>
+<fpage>187</fpage>
+<lpage>190</lpage>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Mazunga et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mazunga</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Mzikamwi</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Mazunga</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Mashasha</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Mazheke</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>IoT based remote poultry monitoring systems for improving food security and nutrition: recent trends and issues</article-title>
+<source>Journal of Agriculture, Science and Technology</source>
+<year iso-8601-date="2023">2023</year>
+<volume>22</volume>
+<issue>2</issue>
+<fpage>4</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.4314/jagst.v22i2.2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Murugeswari et al. (2023)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Murugeswari</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Jegadeesh</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>GN</given-names>
+</name>
+<name>
+<surname>Babu</surname>
+<given-names>SN</given-names>
+</name>
+<name>
+<surname>Samar</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Revolutionizing poultry farming with IoT: an automated management system</article-title>
+<year iso-8601-date="2023">2023</year><conf-name>2023 4th International Conference on Signal Processing and Communication (ICSPC)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>22</fpage>
+<lpage>27</lpage>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Muttha et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Muttha</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Deshpande</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Chaudhari</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wagh</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Plc based poultry automation system</article-title>
+<source>International Journal of Science and Research</source>
+<year iso-8601-date="2014">2014</year>
+<volume>3</volume>
+<issue>3</issue>
+<pub-id pub-id-type="doi">10.36106/ijsr</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Najafi et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Najafi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zulkifli</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Jajuli</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Farjam</surname>
+<given-names>AS</given-names>
+</name>
+<name>
+<surname>Ramiah</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Amir</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>O’Reily</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Eckersall</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Environmental temperature and stocking density effects on acute phase proteins, heat shock protein 70, circulating corticosterone and performance in broiler chickens</article-title>
+<source>International Journal of Biometeorology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>59</volume>
+<issue>11</issue>
+<fpage>1577</fpage>
+<lpage>1583</lpage>
+<pub-id pub-id-type="doi">10.1007/s00484-015-0964-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Naseem &amp; King (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Naseem</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>King</surname>
+<given-names>AJ</given-names>
+</name>
+</person-group>
+<article-title>Ammonia production in poultry houses can affect health of humans, birds, and the environment—techniques for its reduction during poultry production</article-title>
+<source>Environmental Science and Pollution Research</source>
+<year iso-8601-date="2018">2018</year>
+<volume>25</volume>
+<issue>16</issue>
+<fpage>15269</fpage>
+<lpage>15293</lpage>
+<pub-id pub-id-type="doi">10.1007/s11356-018-2018-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Nkoa (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nkoa</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Agricultural benefits and environmental risks of soil fertilization with anaerobic digestates: a review</article-title>
+<source>Agronomy for Sustainable Development</source>
+<year iso-8601-date="2014">2014</year>
+<volume>34</volume>
+<issue>2</issue>
+<fpage>473</fpage>
+<lpage>492</lpage>
+<pub-id pub-id-type="doi">10.1007/s13593-013-0196-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Okada et al. (2013)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Okada</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Nogami</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kobayashi</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Masuda</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Itoh</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Development of ultra low power wireless sensor node with piezoelectric accelerometer for health monitoring</article-title>
+<year iso-8601-date="2013">2013</year><conf-name>2013 Transducers &amp; Eurosensors XXVII: The 17th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS &amp; EUROSENSORS XXVII)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>26</fpage>
+<lpage>29</lpage>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Olaniyi et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Olaniyi</surname>
+<given-names>OM</given-names>
+</name>
+<name>
+<surname>Salami</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Adewumi</surname>
+<given-names>OO</given-names>
+</name>
+<name>
+<surname>Ajibola</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Design of an intelligent poultry feed and water dispensing system using fuzzy logic control technique</article-title>
+<source>Control Theory and Informatics</source>
+<year iso-8601-date="2014">2014</year>
+<volume>4</volume>
+<issue>9</issue>
+<fpage>61</fpage>
+<lpage>72</lpage>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Oro &amp; do Prado Guirro (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Oro</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>do Prado Guirro</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Influence of ammonia from the avian bed on the well-being of broilers</article-title>
+<source>Veterinary Journal in Focus</source>
+<year iso-8601-date="2014">2014</year>
+<volume>12</volume>
+<issue>1</issue>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Raghudathesh et al. (2017)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Raghudathesh</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Deepak</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Prasad</surname>
+<given-names>GK</given-names>
+</name>
+<name>
+<surname>Arun</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Balekai</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Yatnalli</surname>
+<given-names>VC</given-names>
+</name>
+<name>
+<surname>Lata</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>BS</given-names>
+</name>
+</person-group>
+<article-title>IoT based intelligent poultry management system using Linux embedded system</article-title>
+<year iso-8601-date="2017">2017</year><conf-name>2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>449</fpage>
+<lpage>454</lpage>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Rahu et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rahu</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Karim</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Shams</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Soomro</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Chandio</surname>
+<given-names>AF</given-names>
+</name>
+</person-group>
+<article-title>Wireless sensor networks-based smart agriculture: sensing technologies, application and future directions</article-title>
+<source>Sukkur IBA Journal of Emerging Technologies</source>
+<year iso-8601-date="2022">2022</year>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>13</fpage>
+<lpage>32</lpage>
+<pub-id pub-id-type="doi">10.30537/sjet.v5i2.1104</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Ramteke &amp; Dongre (2023)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Ramteke</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Dongre</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Implementation of smart poultry farm using internet of things</article-title>
+<year iso-8601-date="2023">2023</year><conf-name>Inventive Computation and Information Technologies: Proceedings of ICICIT 2022</conf-name>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>679</fpage>
+<lpage>686</lpage>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Saleeva et al. (2020)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Saleeva</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Sklyar</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Marinchenko</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Postnova</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ivanov</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Efficiency of poultry house heating and ventilation upgrading</article-title>
+<year iso-8601-date="2020">2020</year><conf-name>IOP Conference Series: Earth and Environmental Science</conf-name>
+<volume>433</volume>
+<publisher-name>IOP Publishing</publisher-name>
+<fpage>012041</fpage>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Shaikh et al. (2022a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shaikh</surname>
+<given-names>FK</given-names>
+</name>
+<name>
+<surname>Karim</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Zeadally</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Nebhen</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Recent trends in internet-of-things-enabled sensor technologies for smart agriculture</article-title>
+<source>IEEE Internet of Things Journal</source>
+<year iso-8601-date="2022a">2022a</year>
+<volume>9</volume>
+<issue>23</issue>
+<fpage>23583</fpage>
+<lpage>23598</lpage>
+<pub-id pub-id-type="doi">10.1109/JIOT.2022.3210154</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Shaikh et al. (2022b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shaikh</surname>
+<given-names>FK</given-names>
+</name>
+<name>
+<surname>Memon</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Mahoto</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Zeadally</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Nebhen</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Artificial intelligence best practices in smart agriculture</article-title>
+<source>IEEE Micro</source>
+<year iso-8601-date="2022b">2022b</year>
+<volume>42</volume>
+<issue>1</issue>
+<fpage>17</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="doi">10.1109/MM.2021.3121279</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Shi et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cong</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Guizani</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>A two-stage strategy for UAV-enabled wireless power transfer in unknown environments</article-title>
+<source>IEEE Transactions on Mobile Computing</source>
+<year iso-8601-date="2023">2023</year>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.1109/TMC.2023.3240763</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Shukla &amp; Suman (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shukla</surname>
+<given-names>SS</given-names>
+</name>
+<name>
+<surname>Suman</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Arduino based alcohol detection system</article-title>
+<source>i-Manager’s Journal on Information Technology</source>
+<year iso-8601-date="2021">2021</year>
+<volume>10</volume>
+<issue>3</issue>
+<fpage>33</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="doi">10.26634/jit.10.3.15073</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>So-In, Poolsanguan &amp; Rujirakul (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>So-In</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Poolsanguan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rujirakul</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>A hybrid mobile environmental and population density management system for smart poultry farms</article-title>
+<source>Computers and Electronics in Agriculture</source>
+<year iso-8601-date="2014">2014</year>
+<volume>109</volume>
+<issue>2</issue>
+<fpage>287</fpage>
+<lpage>301</lpage>
+<pub-id pub-id-type="doi">10.1016/j.compag.2014.10.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Sousa et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sousa</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Tinôco</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Paula</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Silva</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Souza</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Batista</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Barbari</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Medidas para minimizar a emissão de amônia na produção de frangos de corte: revisão/actions to minimize ammonia emission in broiler production</article-title>
+<source>Revista Brasileira de Engenharia de Biossistemas</source>
+<year iso-8601-date="2016">2016</year>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>51</fpage>
+<lpage>61</lpage>
+<pub-id pub-id-type="doi">10.18011/bioeng2016v10n1p51-61</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Stancapiano (2017)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Stancapiano</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<source>Mastering Java EE development with WildFly</source>
+<year iso-8601-date="2017">2017</year>
+<publisher-name>Packt Publishing Ltd</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Sun, Palaoag &amp; Quan (2022)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Sun</surname>
+<given-names>HD</given-names>
+</name>
+<name>
+<surname>Palaoag</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Quan</surname>
+<given-names>Q</given-names>
+</name>
+</person-group>
+<article-title>Design of automatic monitoring and control system for livestock and poultry house environment based on internet of things robot</article-title>
+<year iso-8601-date="2022">2022</year><conf-name>2022 4th Asia Pacific Information Technology Conference</conf-name>
+<fpage>224</fpage>
+<lpage>230</lpage>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Thomas et al. (2020)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Thomas</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Reji</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Joys</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Jose</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Automated poultry farm with microcontroller based parameter monitoring system and conveyor mechanism</article-title>
+<year iso-8601-date="2020">2020</year><conf-name>2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>639</fpage>
+<lpage>643</lpage>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Want, Schilit &amp; Jenson (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Want</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Schilit</surname>
+<given-names>BN</given-names>
+</name>
+<name>
+<surname>Jenson</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Enabling the internet of things</article-title>
+<source>Computer</source>
+<year iso-8601-date="2015">2015</year>
+<volume>48</volume>
+<issue>1</issue>
+<fpage>28</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="doi">10.1109/MC.2015.12</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Wijerathna-Yapa &amp; Pathirana (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wijerathna-Yapa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pathirana</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Sustainable agro-food systems for addressing climate change and food security</article-title>
+<source>Agriculture</source>
+<year iso-8601-date="2022">2022</year>
+<volume>12</volume>
+<issue>10</issue>
+<fpage>1554</fpage>
+<pub-id pub-id-type="doi">10.3390/agriculture12101554</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Wolfert et al. (2017)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Wolfert</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ge</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Verdouw</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Bogaardt</surname>
+<given-names>M-J</given-names>
+</name>
+</person-group>
+<source>Big data in smart farming–a review</source>
+<year iso-8601-date="2017">2017</year>
+<volume>153</volume>
+<publisher-name>Elsevier</publisher-name>
+<fpage>69</fpage>
+<lpage>80</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agsy.2017.01.023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Yang et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Bist</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Subedi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Chai</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>A deep learning method for monitoring spatial distribution of cage-free hens</article-title>
+<source>Artificial Intelligence in Agriculture</source>
+<year iso-8601-date="2023">2023</year>
+<volume>8</volume>
+<issue>22</issue>
+<fpage>20</fpage>
+<lpage>29</lpage>
+<pub-id pub-id-type="doi">10.1016/j.aiia.2023.03.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Zhang &amp; Chen (2020)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Design and implementation of an android-based broiler production environment monitoring system</article-title>
+<year iso-8601-date="2020">2020</year><conf-name>2020 IEEE 3rd International Conference on Automation, Electronics and Electrical Engineering (AUTEEE)</conf-name>
+<publisher-loc>Piscataway</publisher-loc>
+<publisher-name>IEEE</publisher-name>
+<fpage>125</fpage>
+<lpage>128</lpage>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

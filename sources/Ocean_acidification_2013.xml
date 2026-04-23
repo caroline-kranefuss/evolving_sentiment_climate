@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">208</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.208</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories"><subject>Biological Oceanography</subject><subject>Climate Change Biology</subject><subject>Environmental Sciences</subject><subject>Marine Biology</subject></subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effects of ocean acidification on the dissolution rates of reef-coral skeletons</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author" corresp="yes">
+          <name>
+            <surname>van Woesik</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <email>rvw@fit.edu</email>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>van Woesik</surname>
+            <given-names>Kelly</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>van Woesik</surname>
+            <given-names>Liana</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>van Woesik</surname>
+            <given-names>Sandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Florida Institute of Technology</institution>, <addr-line>Melbourne, FL</addr-line>, <country>USA</country>
+            </aff>
+        <aff id="aff-2"><label>2</label><addr-line>Melbourne, FL</addr-line>, <country>USA</country>
+            </aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Medina</surname>
+            <given-names>Mónica</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-11-21">
+        <day>21</day>
+        <month>11</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e208</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-08-26">
+          <day>26</day>
+          <month>8</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-10-22">
+          <day>22</day>
+          <month>10</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 van Woesik et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>van Woesik et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/208"/>
+      <abstract>
+        <p>Ocean acidification threatens the foundation of tropical coral reefs. This study investigated three aspects of ocean acidification: (i) the rates at which perforate and imperforate coral-colony skeletons passively dissolve when pH is 7.8, which is predicted to occur globally by 2100, (ii) the rates of passive dissolution of corals with respect to coral-colony surface areas, and (iii) the comparative rates of a vertical reef-growth model, incorporating passive dissolution rates, and predicted sea-level rise. By 2100, when the ocean pH is expected to be 7.8, perforate <italic>Montipora</italic> coral skeletons will lose on average 15 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>, which is approximately −10.5 mm of vertical reduction of reef framework per year. This rate of passive dissolution is higher than the average rate of reef growth over the last several millennia and suggests that reefs composed of perforate <italic>Montipora</italic> coral skeletons will have trouble keeping up with sea-level rise under ocean acidification. Reefs composed of primarily imperforate coral skeletons will not likely dissolve as rapidly, but our model shows they will also have trouble keeping up with sea-level rise by 2050.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Corals</kwd>
+        <kwd>Ocean acidication</kwd>
+        <kwd>Coral reefs</kwd>
+        <kwd>Reef growth</kwd>
+        <kwd>Sea-level rise</kwd>
+        <kwd>Climate</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>There was no funding for this work.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <sec>
+        <title>Ocean acidification</title>
+        <p>As humans continue to burn fossil fuels at an unprecedented rate, the concentration of carbon dioxide (CO<sub>2</sub>) in the atmosphere is presently higher than it has been for the last 420,000 years (<xref ref-type="bibr" rid="ref-32">Petit et al., 1999</xref>; <xref ref-type="bibr" rid="ref-17">Hansen et al., 2006</xref>; <xref ref-type="bibr" rid="ref-18">Hoegh-Guldberg et al., 2007</xref>). The oceans uptake a large proportion of the atmospheric CO<sub>2</sub>, increasing the concentrations of both carbonic acid and bicarbonate ions, and reducing the concentration of carbonate ions, shifting the ocean’s acid–base balance toward a lower pH (<xref ref-type="bibr" rid="ref-5">Broecker, 1983</xref>; <xref ref-type="bibr" rid="ref-8">Caldeira &amp; Wickett, 2003</xref>; <xref ref-type="bibr" rid="ref-38">Silverman et al., 2009</xref>). The increase in ocean acidification directly threatens calcifying marine organisms, such as reef-building corals and the myriad of species that rely on corals for protection and sustenance (<xref ref-type="bibr" rid="ref-18">Hoegh-Guldberg et al., 2007</xref>; <xref ref-type="bibr" rid="ref-36">Rodolfo-Metalpa et al., 2011</xref>).</p>
+        <p>Ocean pH has already decreased by 0.1 pH units since the 18th century, and is expected to drop by another 0.2–0.4 pH units by 2100. Yet the oceans are not homogenous in regard to rates of reductions in carbonate ions. Although warm waters increase reaction rates, thermodynamic principles and Henry’s Law tells us that cool temperate and polar waters absorb asymmetrically more CO<sub>2</sub> than tropical waters, and are therefore closer to unity than the more super-saturated tropical waters (<xref ref-type="bibr" rid="ref-5">Broecker, 1983</xref>). Yet the tropical oceans are changing at a more rapid rate and are acidifying more quickly than the cooler waters most likely because of the relationship of rapidly increasing ocean temperature and reaction rates (<xref ref-type="bibr" rid="ref-48">Zeebe et al., 2008</xref>). Moreover, the Pacific Ocean is more acidic than the Atlantic Ocean, and shoaling saturation depth is around 500 m in the Pacific and 4500 m in the Atlantic (<xref ref-type="bibr" rid="ref-14">Feely et al., 2004</xref>; <xref ref-type="bibr" rid="ref-28">Millero, 2007</xref>).</p>
+        <p>There is increasing evidence that ocean acidification, through the increase in the partial pressure of carbon dioxide (<italic>p</italic>CO<sub>2</sub>) and the subsequent changes in the concentration of carbonate and bicarbonate ions, reduces rates of coral calcification, which are directly proportional to the saturation state of aragonite in the shallow oceans (<xref ref-type="bibr" rid="ref-23">Langdon &amp; Atkinson, 2005</xref>). Other studies have shown that calcification rates are proportional to the concentration of carbonate ions in the water column (<xref ref-type="bibr" rid="ref-4">Anthony et al., 2008</xref>; <xref ref-type="bibr" rid="ref-26">Marubini et al., 2008</xref>). These studies are essentially synonymous, however, because the aragonite and calcite saturation state (Ω) is the product of the concentrations of calcium and carbonate ions divided by an equilibrium constant. Since the salt concentration, including calcium ions, stemming from terrestrial weathering hasn’t changed in the oceans for over 1.5 billion years, the aragonite saturation state is essentially a measure of carbonate ions in the oceans.</p>
+        <p>Perhaps more importantly is the strong interaction effects between temperature and ocean acidification on coral calcification rates (<xref ref-type="bibr" rid="ref-34">Reynaud et al., 2003</xref>; <xref ref-type="bibr" rid="ref-13">Erez et al., 2010</xref>). Indeed, the optimal window of physiological performance of a given marine species at a given temperature will be narrowed under acidification (<xref ref-type="bibr" rid="ref-33">Portner, 2010</xref>). Calcification of corals under ambient temperature do not necessarily change with increased <italic>p</italic>CO<sub>2</sub>, but calcification decreases when both temperature and <italic>p</italic>CO<sub>2</sub> are elevated (<xref ref-type="bibr" rid="ref-34">Reynaud et al., 2003</xref>). Yet several studies have shown that many corals are unaffected by external carbonate ion concentrations because they have the capacity to up-regulate internal pH by actively exchanging internal hydrogen ions for calcium ions through Ca-ATPase transportation (<xref ref-type="bibr" rid="ref-2">Al-Horani, Al-Moghrabi &amp; de Beer, 2003</xref>; <xref ref-type="bibr" rid="ref-3">Allemand et al., 2004</xref>; <xref ref-type="bibr" rid="ref-27">McCulloch et al., 2012</xref>). By modifying their internal chemistry, live corals may buffer themselves from ocean acidification. Coral skeletons, however, have no internal-buffering capacity because they are not protected by coral membranes (<xref ref-type="bibr" rid="ref-36">Rodolfo-Metalpa et al., 2011</xref>; <xref ref-type="bibr" rid="ref-35">Ries, 2011</xref>). Coral skeletons are instead subjected to the raw and immediate threats of ocean acidification and will be subjected to dissolution when the ocean’s pH declines.</p>
+      </sec>
+      <sec>
+        <title>Accretion of coral reefs</title>
+        <p>The accretion of coral reefs occurs over geological time periods when rates of calcium carbonate (CaCO<sub>3</sub>) production exceed rates of destruction and dissolution (<xref ref-type="bibr" rid="ref-29">Neumann &amp; MacIntyre, 1985</xref>; <xref ref-type="bibr" rid="ref-7">Buddemeier &amp; Hopley, 1988</xref>; <xref ref-type="bibr" rid="ref-16">Glynn, 1997</xref>; <xref ref-type="bibr" rid="ref-31">Perry et al., 2013</xref>). The interaction between production and destruction depends on the consistency of coral cover through time. For example, where coral cover is consistently low, reef accretion is minimal (<xref ref-type="bibr" rid="ref-29">Neumann &amp; MacIntyre, 1985</xref>). Most modern reefs, however, support little more than 28% live coral cover (<xref ref-type="bibr" rid="ref-6">Bruno &amp; Selig, 2007</xref>), and are essentially veneers over pre-existing, antecedent foundations of CaCO<sub>3</sub> (<xref ref-type="bibr" rid="ref-1">Adey, 1978</xref>; <xref ref-type="bibr" rid="ref-19">Hopley, 1982</xref>). For example, the Florida Keys only supported, on average, 2–3% of live coral cover in 2011 (<xref ref-type="bibr" rid="ref-30">Office of National Marine Sanctuaries, 2011</xref>). Therefore, reefs with high carbonate cover and few live corals are particularly vulnerable to ocean acidification.</p>
+        <p>The average modern, shallow seaward coral reef in the Indo-Pacific, with high coral cover, has been estimated to produce about 4 kilograms of calcium carbonate per square meter of reef per year, which equates with an upward reef-growth rate of approximately 3 mm y<sup>−1</sup> (<xref ref-type="bibr" rid="ref-40">Smith &amp; Kinsey, 1976</xref>). These estimates were based on alkalinity reduction techniques subjected to a pH of 8.2, equivalent to the pH of today’s oceans. By 2100 the ocean’s pH is expected to be 7.8, and we hypothesize that the destructive processes associated with ocean acidification might outweigh the constructive processes. The rates of dissolution of reef framework may, however, also depend on flow rates, the extent of cementation of reef framework, and on the porosity of corals and their surface area.</p>
+      </sec>
+      <sec>
+        <title>Reef cementation and coral porosity</title>
+        <p>Reefs vary in porosity depending on both: (i) the local rates of sedimentation and the extent to which those sediments become consolidated, or lithified, within the reef framework, and (ii) the extent of cementation of the reef framework. Both processes depend in part on exposure to water-flow rates (<xref ref-type="bibr" rid="ref-24">MacIntyre &amp; Marshall, 1988</xref>). High-energy, windward reefs consistently exposed to large waves are generally more highly cemented than low-wave energy, leeward reefs because mass-transfer rates influence rates of cementation. Cementation involves the infilling of intra-skeletal pores with either Mg calcite or aragonite (<xref ref-type="bibr" rid="ref-24">MacIntyre &amp; Marshall, 1988</xref>). While the extent of cementation affects the dislodgment of reef substrate and the tenacity of corals to remain attached to reefs during storms (<xref ref-type="bibr" rid="ref-25">Madin, Hughes &amp; Connolly, 2012</xref>), the extent of reef cementation may also affect dissolution rates during ocean acidification because the infilling of pores by cements decreases the surface area of exposure (<xref ref-type="bibr" rid="ref-9">Cubillas et al., 2005</xref>).</p>
+        <p>Reef corals also vary in porosity (<xref ref-type="bibr" rid="ref-15">Gladfelter, 1982</xref>; <xref ref-type="bibr" rid="ref-20">Hughes, 1987</xref>). Although all modern corals secrete orthorhombic aragonite fusiform crystals, as small as 1–3 µm (<xref ref-type="bibr" rid="ref-15">Gladfelter, 1982</xref>), corals vary considerably in the arrangement of the crystals, which influences the internal surface area that is exposed (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Fast-growing corals, such as <italic>Montipora</italic> and <italic>Acropora</italic>, are mostly perforate corals (<xref ref-type="bibr" rid="ref-15">Gladfelter, 1982</xref>), whereas slow-growing corals, such as <italic>Pectinia</italic> and <italic>Symphyllia</italic>, are imperforate (<xref ref-type="table" rid="table-1">Table 1</xref>). An extreme example of imperforate skeletons is evident by the observation of occasional floating, massive <italic>Symphyllia</italic> colonies (<xref ref-type="bibr" rid="ref-11">DeVantier, 1992</xref>). Because of the fused nature of the dissepiments and their imperforate skeletons, gases are trapped in the septal chambers and upon dislodgement from reefs, for example during a storm, the colonies will float. Perforate corals, however, do not have the capacity to isolate septal chambers.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.208/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Porosity of scleractinian corals.</title>
+            <p>Scleractinian coral families, the number of species in each family, and the general porosity of the coral skeletons. Classifications were based on the porosity of the colony walls, the coenosteum, and the collumellae at the scale of 1 mm<sup>2</sup>. There are approximately 404 perforate species and 432 imperforate coral species, globally.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Family</th>
+                  <th align="left">Number of species</th>
+                  <th align="left">Porosity</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Acroporidae</td>
+                  <td align="left">271</td>
+                  <td align="left">Perforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Agariciidae</td>
+                  <td align="left">45</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Astrocoeniidae</td>
+                  <td align="left">15</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Caryophylliidae</td>
+                  <td align="left">7</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Dendrophylliidae</td>
+                  <td align="left">19</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Euphyllidae</td>
+                  <td align="left">17</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Faviidae</td>
+                  <td align="left">130</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Fungiidae</td>
+                  <td align="left">46</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Meandrinidae</td>
+                  <td align="left">12</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Merulinidae</td>
+                  <td align="left">12</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Mussidae</td>
+                  <td align="left">52</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Oculinidae</td>
+                  <td align="left">16</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Pectiniidae</td>
+                  <td align="left">29</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Pocilloporidae</td>
+                  <td align="left">31</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Poritidae</td>
+                  <td align="left">101</td>
+                  <td align="left">Perforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Siderastreidae</td>
+                  <td align="left">32</td>
+                  <td align="left">Perforate</td>
+                </tr>
+                <tr>
+                  <td align="left">Trachphylliidae</td>
+                  <td align="left">1</td>
+                  <td align="left">Imperforate</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.208/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title><italic>Montipora</italic>.</title>
+            <p>Scanning electron microscope image of <italic>Montipora</italic> skeleton; scale bar is 500 µm.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-1.png"/>
+        </fig>
+        <p>The internal porosity of coral skeletons, at the scale of 0.5–1 mm (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>), increases the available surface area of chemical exchange and therefore increases the potential rates of dissolution. <xref ref-type="bibr" rid="ref-46">Walter &amp; Morse (1984)</xref> showed that rates of dissolution of skeletal carbonates were inversely related to grain-size diameter and surface roughness, with fine grained carbonates dissolving faster than large, rough surfaces. However, we should not discount the possibility that perforate and imperforate corals also differ in other aspects, beyond the obvious differences in porosity, and therefore we question whether surface area is a useful predictor of rates of passive dissolution of both perforate and imperforate corals.</p>
+        <p>This study will examine whether the porosity and the surface area of coral skeletons will influence their rate of dissolution when the ocean pH is 7.8, which is predicted to occur by 2100. More specifically, we tested three hypotheses: (1) that perforate <italic>Montipora</italic> coral skeletons are more likely to passively dissolve than imperforate <italic>Pectinia</italic> coral skeletons at a pH of 7.8, (2) that the rates of passive dissolution of coral-colony skeletons are proportional to their surface areas, and (3) future reef accretion rates under ocean acidification will differ depending on the nature of the coral assemblages, with perforate coral assemblages unable to keep up with predicted sea-level rise and imperforate coral assemblages faring a better chance at keeping up with sea-level rise and ocean acidification.</p>
+      </sec>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Acidification experiments</title>
+        <p>In order to test the first hypothesis, perforate <italic>Montipora</italic> colonies (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) and imperforate <italic>Pectinia</italic> colonies without tissue (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) were used to make comparisons of weight loss when immersed in seawater and held in zero-flow conditions (i.e., to test passive dissolution) at a pH of 8.2, equivalent to the pH of today’s oceans, and compared with colonies held at a pH of 7.8, which is predicted to occur globally by 2100. Fifteen skeletal samples (≤5 cm) of <italic>Montipora</italic> spp. colonies and fifteen skeletal samples of <italic>Pectinia</italic> spp. were collected from the fringing reefs of Okinawa, Japan in 2001. In order to test the second hypothesis, we used a variety of growth forms of <italic>Montipora</italic>, including submassive, branching, encrusting, and foliose. Colonies of <italic>Pectinia</italic> with different surface areas were used for experimental treatments, but all samples were foliose because <italic>Pectinia</italic> is only found as foliose colonies on modern coral reefs.</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.208/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title><italic>Pectinia</italic>.</title>
+            <p>Scanning electron microscope image of <italic>Pectinia</italic> skeleton; scale bar is 500 µm.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-2.png"/>
+        </fig>
+        <p>Before pH treatments, the samples were placed in a drying oven at 40°C for 48 h and weighed (g) using a Sartorius Research Balance. Each treatment sample was then placed in a separate container of seawater that was maintained at a pH of 7.8 by adding diluted acetic acid to match the predicted pH of the seawater in the year 2100 (Intergovernmental Panel on Climate Change (<xref ref-type="bibr" rid="ref-21">IPCC, 2007</xref>)). The control samples were placed in seawater that was maintained at a pH of 8.2, to match modern ocean conditions, and maintained at 24°C and a salinity of 35. Total alkalinity was not measured in this study. Seawater was changed every 2 days. After 7 days the samples were rinsed and dried in a drying oven at 40°C for 48 h, and re-weighed. The volume of each coral sample (mL) was calculated using a displacement method and the surface area of each coral sample (cm<sup>2</sup>) was calculated using a single wax-dipping method (<xref ref-type="bibr" rid="ref-43">Veal, Carmi &amp; Fine, 2010</xref>).</p>
+      </sec>
+      <sec>
+        <title>Data analyses</title>
+        <p>The difference in dry weight (g) before and after the acid treatment was calculated for each coral sample. To correct for differences in initial weight, the loss of calcium carbonate was divided by each coral’s initial weight. To compare differences in dissolution rates that may have varied in accordance with growth form, we undertook an analysis of variance (ANOVA) and a Tukey’s post-hoc test using R (<xref ref-type="bibr" rid="ref-37">R Development Core Team, 2012</xref>). The relationship between the surface area, volume, and the loss of calcium carbonate was examined using curve fitting with Matlab<sup>®</sup>.</p>
+      </sec>
+      <sec>
+        <title>Accretion-dissolution model</title>
+        <p>The loss of calcium carbonate was extrapolated from the change in calcium carbonate per gram cm<sup>−2</sup> d<sup>−1</sup>, to the equivalent loss of calcium carbonate per kg m<sup>−2</sup> y<sup>−1</sup>. This loss was compared with the geological literature and converted to the approximate equivalent of vertical reduction of reef framework in mm per year (<xref ref-type="bibr" rid="ref-40">Smith &amp; Kinsey, 1976</xref>). The loss was compared with predicted sea-level rise (<xref ref-type="bibr" rid="ref-44">Vermeer &amp; Rahmstorf, 2009</xref>). In order to achieve this goal, the reef accretion rates were modeled as an ordinary differential equation: <disp-formula id="eqn-1"><label>(1)</label><alternatives><graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[\begin{eqnarray} \displaystyle \mathrm{d}A/\mathrm{d}t=(a.\mathrm{A})/\mathrm{A}+b.\mathrm{S}-(c.\mathrm{D})/\mathrm{A},&&\displaystyle \end{eqnarray}]]></tex-math><mml:math id="mml-eqn-1"><mml:mstyle displaystyle="true"><mml:mi mathvariant="normal">d</mml:mi><mml:mi>A</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant="normal">d</mml:mi><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mo>(</mml:mo><mml:mi>a</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">A</mml:mi><mml:mo>)</mml:mo><mml:mo>/</mml:mo><mml:mi mathvariant="normal">A</mml:mi><mml:mo>+</mml:mo><mml:mi>b</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">S</mml:mi><mml:mo>−</mml:mo><mml:mo>(</mml:mo><mml:mi>c</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">D</mml:mi><mml:mo>)</mml:mo><mml:mo>/</mml:mo><mml:mi mathvariant="normal">A</mml:mi><mml:mo>,</mml:mo></mml:mstyle></mml:math></alternatives>
+               </disp-formula> where <italic>A</italic> is the accretion of a reef relative to time (<italic>t</italic>); <italic>a</italic> is the accretion coefficient determined by coral and coralline algal growth minus the bioerosion rates (input as 7 mm y<sup>−1</sup> for reefs that accrete the maximum of 10 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>; 3 mm y<sup>−1</sup> for reefs that accrete 4 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>; and 0.75 mm y<sup>−1</sup> for reefs that accrete 1 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>, with a 50% average reef porosity, after <xref ref-type="bibr" rid="ref-22">Kinsey, 1979</xref>; <xref ref-type="bibr" rid="ref-39">Smith, 1983</xref>); <italic>b</italic> is a coefficient for sedimentation (S), input as 1 mm per year for consistency; and <italic>c</italic> is a coefficient for the dissolution (D) rates. The equations were solved using Runge–Kutta methods using the ode45 solver in Matlab<sup>®</sup> (code is available in the <xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>).</p>
+        <p>The results of passive dissolution were input into our reef-growth model and compared with projections of global sea-level rise, from 1990 to 2100 following <xref ref-type="bibr" rid="ref-44">Vermeer &amp; Rahmstorf (2009)</xref>, which did not consider regional isostatic rebound effects, regional tectonics, and local land-use effects. The sea-level rise projections used different <xref ref-type="bibr" rid="ref-21">IPCC (2007)</xref> emission scenarios, including the B1 scenario representing a +1.8°C global increase in temperature, the A2 scenario representing a +3.4°C global increase in temperature, and the A1F1 scenario representing a 4°C global increase in temperature.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>There was a significant difference (<italic>p</italic> &lt; 0.0258) in coral skeleton weight loss that was dependent on coral colony porosity (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The skeletons of foliose, perforate <italic>Montipora</italic> coral colonies passively dissolved significantly (post-hoc Tukey test, <italic>p</italic> &lt; 0.011) faster than the skeletons of foliose, imperforate <italic>Pectinia</italic> coral colonies (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The skeletons of foliose <italic>Montipora</italic> corals also lost more calcium carbonate than other <italic>Montipora</italic> growth forms (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Foliose <italic>Montipora</italic> corals also lost more calcium carbonate than other <italic>Montipora</italic> growth forms (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). There was a strong negative relationship between the surface area of <italic>Montipora</italic> corals and the loss of calcium carbonate, suggesting that the larger the surface area of <italic>Montipora</italic> colonies the more rapidly the corals dissolved (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). The rate of calcium carbonate loss followed the equation, CaCO<sub>3</sub> loss = −0.005 × exp<sup>0.017* surface area</sup>. The loss of CaCO<sub>3</sub> of perforate <italic>Montipora</italic> was approximately 0.000042 g CaCO<sub>3</sub> cm<sup>−2</sup> d<sup>−1</sup> (−0.42 g CaCO<sub>3</sub> m<sup>−2</sup> d<sup>−1</sup>, or −15.3 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−2</sup>). This loss in calcium carbonate is approximately equivalent to −10.5 mm of vertical reduction of reef framework per year.</p>
+      <fig id="fig-3">
+        <object-id pub-id-type="doi">10.7717/peerj.208/fig-3</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <title>Comparative loss of calcium carbonate.</title>
+          <p>Loss of calcium carbonate, divided by the initial weight (g), of four different coral growth forms of <italic>Montipora</italic> coral skeletons, and one growth form of <italic>Pectinia</italic> coral skeleton, when exposed to pH 7.8 seawater for 7 days. The graph also depicts the controls for <italic>Montipora</italic> and <italic>Pectinia</italic> coral skeletons, which were exposed to present-day seawater, at a pH of 8.2, for 7 days. The dashes are the data points, the horizontal lines on each ‘bean’ show the means, and each ‘bean’ shape follows the general distribution of the data relative to density (constructed using the package ‘beanplot’ in R).</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-3.png"/>
+      </fig>
+      <p>In contrast, the skeletons of imperforate <italic>Pectinia</italic> colonies showed no consistent (passive) dissolution at a pH of 7.8, suggesting that the loss of weight in low pH treatments was no different than the weight loss in controls (<xref ref-type="fig" rid="fig-3">Figs. 3</xref> and <xref ref-type="fig" rid="fig-5">5</xref>). There was no significant relationship between the surface area of <italic>Pectinia</italic> coral colonies and their rate of passive dissolution (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). There was also no significant relationship between dissolution rates and the volume of either <italic>Montipora</italic> or <italic>Pectinia</italic> colonies.</p>
+      <fig id="fig-4">
+        <object-id pub-id-type="doi">10.7717/peerj.208/fig-4</object-id>
+        <label>Figure 4</label>
+        <caption>
+          <title><italic>Montipora</italic> dissolution.</title>
+          <p>The relationship between the surface area of the <italic>Montipora</italic> coral skeletons (cm<sup>2</sup>) and the loss of calcium carbonate (CaCO<sub>3</sub>) (g) over 7 days follows the equation loss = −0.005 × exp<sup>0.017* surface area</sup>. The dots are the data points, the thick, black line represents the equation, and the dotted lines represent the 95% confidence intervals.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-4.png"/>
+      </fig>
+      <fig id="fig-5">
+        <object-id pub-id-type="doi">10.7717/peerj.208/fig-5</object-id>
+        <label>Figure 5</label>
+        <caption>
+          <title><italic>Pectinia</italic> dissolution.</title>
+          <p>The relationship between the surface area of the <italic>Pectinia</italic> coral skeletons (cm<sup>2</sup>) and the loss of calcium carbonate (CaCO<sub>3</sub>) (g) over 7 days.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-5.png"/>
+      </fig>
+      <sec>
+        <title>Accretion-dissolution model</title>
+        <p>The sea-level rise projections from 1990 to 2100 were constructed using different <xref ref-type="bibr" rid="ref-21">IPCC (2007)</xref> emission scenarios, including the B1 scenario, representing a +1.8°C global increase in temperature, the A2 scenario representing a +3.4°C global increase in temperature, and the A1F1 scenario representing a 4°C global increase in temperature (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>; <xref ref-type="bibr" rid="ref-44">Vermeer &amp; Rahmstorf, 2009</xref>). These sea-level projections were compared with three different reef-building capacities in conjunction with rates of perforate and imperforate coral skeletons (<xref ref-type="disp-formula" rid="eqn-1">Eq. (1)</xref>) under ocean acidification (<xref ref-type="fig" rid="fig-6">Figs. 6</xref> and <xref ref-type="fig" rid="fig-7">7</xref>). The modeled reef with high dissolution rates, which included perforate skeletons, and consistently high coral cover (10 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>) is not expected to keep up with sea level rise under ocean acidification (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). By contrast, the modeled reef with low dissolution rates, which included imperforate corals, is expected to continue to grow reefs and keep up with sea level rise, but only reefs consistently supporting high coral cover (10 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>) and only to 2050. Around 2050, the model shows that the rates of sea level rise are expected to increase faster than the rates at which corals can grow reefs (<xref ref-type="fig" rid="fig-7">Fig. 7</xref>).</p>
+        <fig id="fig-6">
+          <object-id pub-id-type="doi">10.7717/peerj.208/fig-6</object-id>
+          <label>Figure 6</label>
+          <caption>
+            <title>Accretion potential of perforate corals and predicted sea-level rise.</title>
+            <p>The projections of expected rates of coral-reef accretion relative to rates of dissolution of reefs composed of mainly perforate corals, with 3 different densities of corals (low, medium and high modeled as 1, 4, and 10 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>), along with projections of global sea-level rise (not considering regional isostatic rebound effects, regional tectonics, and local land-use effects) and potential reef-accretion rates from 1990 to 2100 following <xref ref-type="bibr" rid="ref-44">Vermeer &amp; Rahmstorf (2009)</xref> for different <xref ref-type="bibr" rid="ref-21">IPCC (2007)</xref> emission scenarios, where the B1 scenario is green and represents a +1.8°C global increase in temperature; the A2 scenario is blue and represents a +3.4°C global increase in temperature; the A1F1 scenario is red and represents a 4°C global increase in temperature.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-6.png"/>
+        </fig>
+        <fig id="fig-7">
+          <object-id pub-id-type="doi">10.7717/peerj.208/fig-7</object-id>
+          <label>Figure 7</label>
+          <caption>
+            <title>Accretion potential of imperforate corals and predicted sea-level rise.</title>
+            <p>The projections of expected rates of coral-reef accretion relative to rates of dissolution of reefs composed of mainly imperforate corals, with 3 different densities of corals (low, medium and high modeled as 1, 4, and 10 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>), along with projections of global sea-level rise (as in <xref ref-type="fig" rid="fig-6">Fig. 6</xref>).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/208/fig-7.png"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>This study examined whether the destructive processes involving the dissolution of calcium carbonate might over-ride the accretionary potential of coral reefs when the ocean pH drops to 7.8, which is predicted to occur by 2100. We examined the rates of skeletal dissolution of two Indo-Pacific corals, <italic>Montipora</italic> and <italic>Pectinia</italic>, subjected to a pH of 7.8. Rates of passive dissolution were directly proportional to the surface area of corals, but only for the perforate <italic>Montipora</italic>; dissolution was less predictable for the imperforate <italic>Pectinia</italic>. The average loss of <italic>Montipora</italic> CaCO<sub>3</sub> per surface area was 15.3 kg m<sup>−2</sup> y<sup>−1</sup>, which was 3 times more than the average growth rates of modern reefs (4 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>) (<xref ref-type="bibr" rid="ref-39">Smith, 1983</xref>; <xref ref-type="bibr" rid="ref-40">Smith &amp; Kinsey, 1976</xref>; <xref ref-type="bibr" rid="ref-22">Kinsey, 1979</xref>).</p>
+      <p>We should however, treat the comparative results between skeletal dissolution and reef growth with caution, even though the units match (CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup>). In the comparison above, our data were extrapolated across at least five orders of magnitude spatially, from grams per cm<sup>2</sup> to kilograms per m<sup>2</sup>, and at least six orders of magnitude temporally, from skeletal dissolution over weeks to reef growth over millennia. Yet our results, on the passive dissolution rates of porous <italic>Montipora</italic> coral skeletons (−0.42 g CaCO<sub>3</sub> m<sup>−2</sup> d<sup>−1</sup>) and the recent field results from <xref ref-type="bibr" rid="ref-10">Cyronak, Santos &amp; Eyre (2013)</xref>, on the passive dissolution rates of carbonate sediments on Heron Island (Great Barrier Reef, Australia), are the same. <xref ref-type="bibr" rid="ref-10">Cyronak, Santos &amp; Eyre (2013)</xref> also showed that adding flow to experiments more than doubled dissolution rates because of advection processes.</p>
+      <p>We also note that Smith, Kinsey, and co-workers, originally calculated calcium carbonate production using advection alkalinity reduction techniques that measured change in alkalinity across reef flats over minutes. The maximum rate of modern reef growth has been estimated at 9.6 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup> on a back-reef of Johnston Atoll (16°N, 169°W), that supported “heavy” coral cover (but the percentage coral cover was not provided in the original publication) (<xref ref-type="bibr" rid="ref-22">Kinsey, 1979</xref>). Other estimates using X-radiographs and extrapolation techniques showed similar results, ranging from 9 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup> for reefs in the Caribbean with uncharacteristically high coral cover (38%) (<xref ref-type="bibr" rid="ref-42">Stearn, Scoffin &amp; Martindale, 1977</xref>), to less than 1 kg CaCO<sub>3</sub> m<sup>−2</sup> y<sup>−1</sup> for reefs with low coral cover (<xref ref-type="bibr" rid="ref-12">Dullo, 2005</xref>).</p>
+      <p>Although our results show rapid rates of <italic>Montipora</italic> dissolution, modern-reef framework is not all <italic>Montipora</italic>. Rates of carbonate dissolution will also depend on the type of coral assemblages that are present on reefs and their densities. Globally, approximately 404 coral species are perforate, and 432 are imperforate (<xref ref-type="table" rid="table-1">Table 1</xref>), yet most Indo-Pacific reefs are dominated by <italic>Acropora, Montipora, Porites</italic>, and faviids; and Caribbean reefs are dominated by <italic>Porites</italic>, <italic>Siderastrea</italic>, and <italic>Orbicella</italic>. Therefore, most modern reefs are primarily supporting perforate corals, and these corals have disproportionately contributed to vertical reef accretion through the Holocene (<xref ref-type="bibr" rid="ref-45">Veron, 1995</xref>; <xref ref-type="bibr" rid="ref-47">Wood, 1999</xref>).</p>
+      <p>Still, changing the pH of seawater is only one of the changes that will occur to reefs subjected to climate change. Sea level will also rise with increasing global temperature (<xref ref-type="bibr" rid="ref-41">Smith &amp; Buddemeier, 1992</xref>; <xref ref-type="bibr" rid="ref-44">Vermeer &amp; Rahmstorf, 2009</xref>). The conservative estimates of sea-level rise from the <xref ref-type="bibr" rid="ref-21">IPCC (2007)</xref>, which did not consider ice-sheet dynamics, showed that sea level will increase 20–60 cm by 2100 (approximately 4 mm a year). More recent estimates of sea level rise by <xref ref-type="bibr" rid="ref-44">Vermeer &amp; Rahmstorf (2009)</xref> predict a sea level increase of 75–90 cm by 2100, which is approximately 9 mm a year. Our predictive model, although extrapolating across several spatial and temporal scales, showed that coral reefs composed of perforate skeletons and supporting few live corals, will have trouble keeping up with sea level rise under ocean acidification. These results, although tentative, suggest that more quantitative studies are necessary to determine the potential of reefs to keep up with sea level rise by hierarchically quantifying the production versus dissolution rates of reefs in relation to: (i) coral cover, (ii) coral-community composition, (iii) habitat type, and (iv) regional oceanography.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/208/van_Woesik_et_al._Appendix.docx">
+        <object-id pub-id-type="doi">10.7717/peerj.208/supp-1</object-id>
+        <label>Appendix S1</label>
+        <caption>
+          <title>Appendix</title>
+          <p>Matlab code for <xref ref-type="disp-formula" rid="eqn-1">Eq. (1)</xref>.</p>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>Our special thanks extend to Richard Turner, Biological Sciences Department, College of Science, Florida Institute of Technology, for the use of his laboratory equipment and to Gayle Duncan for preparing the scanning electron microscope images. The corals were collected at (26°21′34.47″ N, 127°44′20.96″ E) with a permit to Robert van Woesik from the Okinawan prefectural government, Japan.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors declare no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Robert van Woesik</xref> and <xref ref-type="contrib" rid="author-2">Kelly van Woesik</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-3">Liana van Woesik</xref> performed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Sandra van Woesik</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Field Study Permissions</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>The scleractinian corals were collected with a blanket permit from the Okinawan Prefectural Government to Robert van Woesik while he was faculty of the University of the Ryukyus from 1994 to 2001, Okinawa, Japan.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Adey (1978)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Adey</surname><given-names>WH</given-names></name>
+               </person-group>
+          <article-title>Coral reef morphogenesis: a multi-dimensional model</article-title>
+          <source>Science</source>
+          <year iso-8601-date="1978">1978</year>
+          <volume>202</volume>
+          <fpage>831</fpage>
+          <lpage>837</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.202.4370.831</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Al-Horani, Al-Moghrabi &amp; de Beer (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Al-Horani</surname><given-names>FA</given-names></name>
+                  <name><surname>Al-Moghrabi</surname><given-names>SM</given-names></name>
+                  <name><surname>de Beer</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>The mechanism of calcification and its relation to photosynthesis and respiration in the scleractinian coral <italic>Galaxea fascicularis</italic></article-title>
+          <source>Marine Biology</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>142</volume>
+          <fpage>419</fpage>
+          <lpage>426</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Allemand et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Allemand</surname><given-names>D</given-names></name>
+                  <name><surname>Ferrier-Pagès</surname><given-names>C</given-names></name>
+                  <name><surname>Furla</surname><given-names>P</given-names></name>
+                  <name><surname>Houlbrèque</surname><given-names>F</given-names></name>
+                  <name><surname>Puverel</surname><given-names>S</given-names></name>
+                  <name><surname>Reynaud</surname><given-names>S</given-names></name>
+                  <name><surname>Tambutté</surname><given-names>E</given-names></name>
+                  <name><surname>Tambutté</surname><given-names>S</given-names></name>
+                  <name><surname>Zoccola</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Biomineralisation in reef-building corals: from molecular mechanisms to environmental control</article-title>
+          <source>Comptes Rendus Palevol</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>3</volume>
+          <fpage>453</fpage>
+          <lpage>467</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.crpv.2004.07.011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Anthony et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Anthony</surname><given-names>KRN</given-names></name>
+                  <name><surname>Kline</surname><given-names>DI</given-names></name>
+                  <name><surname>Diaz-Pulido</surname><given-names>G</given-names></name>
+                  <name><surname>Dove</surname><given-names>S</given-names></name>
+                  <name><surname>Hoegh-Guldberg</surname><given-names>O</given-names></name>
+               </person-group>
+          <article-title>Ocean acidification causes bleaching and productivity loss in coral reef builders</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>105</volume>
+          <fpage>17442</fpage>
+          <lpage>17446</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0804478105</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Broecker (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Broecker</surname><given-names>WS</given-names></name>
+               </person-group>
+          <article-title>The ocean</article-title>
+          <source>Scientific American</source>
+          <year iso-8601-date="1983">1983</year>
+          <volume>249</volume>
+          <fpage>146</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.1038/scientificamerican0983-146</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Bruno &amp; Selig (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bruno</surname><given-names>JF</given-names></name>
+                  <name><surname>Selig</surname><given-names>ER</given-names></name>
+               </person-group>
+          <article-title>Regional decline of coral cover in the Indo-Pacific: timing, extent, and subregional comparisons</article-title>
+          <source>PLoS ONE</source>
+          <issue>8</issue>
+          <year iso-8601-date="2007">2007</year>
+          <volume>2</volume>
+          <elocation-id>e711</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0000711</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Buddemeier &amp; Hopley (1988)</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+                  <name><surname>Buddemeier</surname><given-names>RW</given-names></name>
+                  <name><surname>Hopley</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Turn-ons and turn offs: causes and mechanisms of the initiation and termination of coral reef growth</article-title>
+          <source>Proceedings of the 6th international coral reef symposium</source>
+          <volume>1</volume>
+          <year iso-8601-date="1988">1988</year>
+          <conf-date>8–12 August 1988</conf-date>
+          <publisher-name>James Cook University Press</publisher-name>
+          <conf-loc>Townsville, Australia</conf-loc>
+          <fpage>253</fpage>
+          <lpage>261</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Caldeira &amp; Wickett (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Caldeira</surname><given-names>K</given-names></name>
+                  <name><surname>Wickett</surname><given-names>ME</given-names></name>
+               </person-group>
+          <article-title>Anthropogenic carbon and ocean pH</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>425</volume>
+          <fpage>365</fpage>
+          <pub-id pub-id-type="doi">10.1038/425365a</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Cubillas et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Cubillas</surname><given-names>P</given-names></name>
+                  <name><surname>Kohler</surname><given-names>S</given-names></name>
+                  <name><surname>Prieto</surname><given-names>M</given-names></name>
+                  <name><surname>Chairat</surname><given-names>C</given-names></name>
+                  <name><surname>Oelkers</surname><given-names>EH</given-names></name>
+               </person-group>
+          <article-title>Experimental determination of the dissolution rates of calcite, aragonite, and bivalves</article-title>
+          <source>Chemical Geology</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>216</volume>
+          <fpage>59</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.chemgeo.2004.11.009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Cyronak, Santos &amp; Eyre (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Cyronak</surname><given-names>T</given-names></name>
+                  <name><surname>Santos</surname><given-names>IR</given-names></name>
+                  <name><surname>Eyre</surname><given-names>BD</given-names></name>
+               </person-group>
+          <article-title>Permeable coral reef sediment dissolution driven by elevated <italic>p</italic>CO<sub>2</sub> and pore water advection</article-title>
+          <source>Geophysical Research Letters</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>40</volume>
+          <fpage>1</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1029/2012GL054022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>DeVantier (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>DeVantier</surname><given-names>LM</given-names></name>
+               </person-group>
+          <article-title>Rafting of tropical marine organisms on buoyant coralla</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>86</volume>
+          <fpage>301</fpage>
+          <lpage>302</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps086301</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Dullo (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Dullo</surname><given-names>WC</given-names></name>
+               </person-group>
+          <article-title>Coral growth and reef growth: a brief review</article-title>
+          <source>Facies</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>51</volume>
+          <fpage>33</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10347-005-0060-y</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Erez et al. (2010)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Erez</surname><given-names>J</given-names></name>
+                  <name><surname>Reynaud</surname><given-names>S</given-names></name>
+                  <name><surname>Silverman</surname><given-names>J</given-names></name>
+                  <name><surname>Schneider</surname><given-names>K</given-names></name>
+                  <name><surname>Allemand</surname><given-names>D</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Dubinsky</surname><given-names>Z</given-names></name>
+                  <name><surname>Stambler</surname><given-names>N</given-names></name>
+               </person-group>
+          <article-title>Coral calcification under ocean acidification and global change</article-title>
+          <source>Coral reefs: an ecosystem in transition</source>
+          <year iso-8601-date="2010">2010</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+          <comment>551 pp</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Feely et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Feely</surname><given-names>RA</given-names></name>
+                  <name><surname>Christopher</surname><given-names>L</given-names></name>
+                  <name><surname>Sabine</surname><given-names>CL</given-names></name>
+                  <name><surname>Lee</surname><given-names>K</given-names></name>
+                  <name><surname>Will Berelson</surname><given-names>W</given-names></name>
+                  <name><surname>Kleypas</surname><given-names>J</given-names></name>
+                  <name><surname>Fabry</surname><given-names>VJ</given-names></name>
+                  <name><surname>Frank</surname><given-names>J</given-names></name>
+                  <name><surname>Millero</surname><given-names>FJ</given-names></name>
+               </person-group>
+          <article-title>Impact of anthropogenic CO<sub>2</sub> on the CaCO<sub>3</sub> system in the oceans</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>305</volume>
+          <fpage>362</fpage>
+          <lpage>366</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1097329</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Gladfelter (1982)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gladfelter</surname><given-names>EH</given-names></name>
+               </person-group>
+          <article-title>Skeletal development in <italic>Acropora cervicornis</italic>: I. patterns of calcium carbonate accretion in the axial corallite</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="1982">1982</year>
+          <volume>1</volume>
+          <fpage>45</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00286539</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Glynn (1997)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Glynn</surname><given-names>PW</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Birkeland</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Bioerosion and coral-reef growth: a dynamic balance</article-title>
+          <source>Life and death of coral reefs</source>
+          <year iso-8601-date="1997">1997</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <fpage>68</fpage>
+          <lpage>95</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Hansen et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hansen</surname><given-names>L</given-names></name>
+                  <name><surname>Sato</surname><given-names>M</given-names></name>
+                  <name><surname>Ruedy</surname><given-names>R</given-names></name>
+                  <name><surname>Lo</surname><given-names>K</given-names></name>
+                  <name><surname>Lea</surname><given-names>DW</given-names></name>
+                  <name><surname>Medina-Elizade</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Global temperature change</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>103</volume>
+          <fpage>14288</fpage>
+          <lpage>14293</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0606291103</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Hoegh-Guldberg et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hoegh-Guldberg</surname><given-names>O</given-names></name>
+                  <name><surname>Mumby</surname><given-names>P</given-names></name>
+                  <name><surname>Hooten</surname><given-names>AJ</given-names></name>
+                  <name><surname>Steneck</surname><given-names>RS</given-names></name>
+                  <name><surname>Greenfield</surname><given-names>P</given-names></name>
+                  <name><surname>Gomez</surname><given-names>E</given-names></name>
+                  <name><surname>Harvell</surname><given-names>CD</given-names></name>
+                  <name><surname>Sale</surname><given-names>PF</given-names></name>
+                  <name><surname>Edward</surname><given-names>AJ</given-names></name>
+                  <name><surname>Caldiera</surname><given-names>K</given-names></name>
+                  <name><surname>Knowlton</surname><given-names>N</given-names></name>
+                  <name><surname>Eakin</surname><given-names>CM</given-names></name>
+                  <name><surname>Iglesias-Prieto</surname><given-names>R</given-names></name>
+                  <name><surname>Muthiga</surname><given-names>N</given-names></name>
+                  <name><surname>Bradbury</surname><given-names>RH</given-names></name>
+                  <name><surname>Dubi</surname><given-names>A</given-names></name>
+                  <name><surname>Hatziolos</surname><given-names>ME</given-names></name>
+               </person-group>
+          <article-title>Coral reefs under rapid climate change and ocean acidification</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>318</volume>
+          <fpage>1737</fpage>
+          <lpage>1742</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1152509</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Hopley (1982)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Hopley</surname><given-names>D</given-names></name>
+               </person-group>
+          <source>The geomorphology of the Great Barrier Reef: quaternary development of coral reefs</source>
+          <year iso-8601-date="1982">1982</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>John Wiley-Interscience</publisher-name>
+          <fpage>453</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Hughes (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hughes</surname><given-names>TP</given-names></name>
+               </person-group>
+          <article-title>Skeletal density and growth form of corals</article-title>
+          <source>Marine Ecology Progress Series</source>
+          <year iso-8601-date="1987">1987</year>
+          <volume>35</volume>
+          <fpage>259</fpage>
+          <lpage>266</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps035259</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>IPCC (2007)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <collab>
+                     <institution>Intergovernmental Panel on Climate Change (IPCC)</institution>
+                  </collab>
+               </person-group>
+          <article-title>Climate Change 2007: the physical science basis</article-title>
+          <source>Contribution of working group 1 to the fourth assessment report of the intergovernmental panel on climate change</source>
+          <year iso-8601-date="2007">2007</year>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge Univ. Press</publisher-name>
+          <fpage>793</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Kinsey (1979)</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+                  <name><surname>Kinsey</surname><given-names>DW</given-names></name>
+               </person-group>
+          <article-title>Carbon turnover and accumulation by coral reefs</article-title>
+          <source>Ph.D. Dissertation thesis</source>
+          <year iso-8601-date="1979">1979</year>
+          <institution>University of Hawaii</institution>
+          <fpage>284</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Langdon &amp; Atkinson (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Langdon</surname><given-names>C</given-names></name>
+                  <name><surname>Atkinson</surname><given-names>MJ</given-names></name>
+               </person-group>
+          <article-title>Effect of elevated <italic>p</italic>CO<sub>2</sub> on photosynthesis and calcification of corals and interactions with seasonal change in temperature/irradiance and nutrient enrichment</article-title>
+          <source>Journal of Geophysical Research</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>110</volume>
+          <fpage>C09S07</fpage>
+          <pub-id pub-id-type="doi">10.1029/2004JC002576</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>MacIntyre &amp; Marshall (1988)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>MacIntyre</surname><given-names>I</given-names></name>
+                  <name><surname>Marshall</surname><given-names>JF</given-names></name>
+               </person-group>
+          <article-title>Submarine lithification in coral reefs: same facts and misconceptions</article-title>
+          <source>Proc 6th Int. Coral Reef Symp., Australia</source>
+          <volume>vol. 1</volume>
+          <year iso-8601-date="1988">1988</year>
+          <publisher-loc>Townsville, Australia</publisher-loc>
+          <publisher-name>James Cook University Press</publisher-name>
+          <fpage>263</fpage>
+          <lpage>272</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Madin, Hughes &amp; Connolly (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Madin</surname><given-names>JS</given-names></name>
+                  <name><surname>Hughes</surname><given-names>TP</given-names></name>
+                  <name><surname>Connolly</surname><given-names>SR</given-names></name>
+               </person-group>
+          <article-title>Calcification, storm damage, and population resilience of tabular corals under climate change</article-title>
+          <source>PLoS ONE</source>
+          <issue>10</issue>
+          <year iso-8601-date="2012">2012</year>
+          <volume>7</volume>
+          <elocation-id>e46637</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0046637</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Marubini et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Marubini</surname><given-names>F</given-names></name>
+                  <name><surname>Ferrier-Pages</surname><given-names>C</given-names></name>
+                  <name><surname>Furla</surname><given-names>P</given-names></name>
+                  <name><surname>Allemand</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Coral calcification responds to seawater acidification: a working hypothesis towards a physiological mechanism</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>7</volume>
+          <fpage>491</fpage>
+          <lpage>499</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00338-008-0375-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>McCulloch et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>McCulloch</surname><given-names>M</given-names></name>
+                  <name><surname>Falter</surname><given-names>J</given-names></name>
+                  <name><surname>Trotter</surname><given-names>J</given-names></name>
+                  <name><surname>Montagna</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>Coral resilience to ocean acidification and global warming through pH up-regulation</article-title>
+          <source>Nature Climate Change</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>2</volume>
+          <fpage>623</fpage>
+          <lpage>627</lpage>
+          <pub-id pub-id-type="doi">10.1038/NCLIMATE1473</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Millero (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Millero</surname><given-names>FJ</given-names></name>
+               </person-group>
+          <article-title>The marine inorganic carbon cycle</article-title>
+          <source>Chemical Reviews</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>107</volume>
+          <fpage>308</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr0503557</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Neumann &amp; MacIntyre (1985)</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+                  <name><surname>Neumann</surname><given-names>AC</given-names></name>
+                  <name><surname>MacIntyre</surname><given-names>I</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Gabrie</surname><given-names>C</given-names></name>
+                  <name><surname>Hamelin-Vivien</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Reef response to sea level rise: keep-up, catch-up or give-up</article-title>
+          <source>Proc. 5th International Coral Reef Congress</source>
+          <volume>3</volume>
+          <year iso-8601-date="1985">1985</year>
+          <conf-date>Antenne Museum-EPHE, Moorea, French Polynesia</conf-date>
+          <fpage>105</fpage>
+          <lpage>110</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Office of National Marine Sanctuaries (2011)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <collab>
+                     <institution>Office of National Marine Sanctuaries</institution>, Florida Keys National Marine Sanctuary Condition Report</collab>
+               </person-group>
+          <year iso-8601-date="2011">2011</year>
+          <comment>U.S. Department of Commerce, National Oceanic and Atmospheric Administration, Office of National Marine Sanctuaries, Silver Spring, MD, 105</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Perry et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Perry</surname><given-names>CT</given-names></name>
+                  <name><surname>Murphy</surname><given-names>GN</given-names></name>
+                  <name><surname>Kench</surname><given-names>PS</given-names></name>
+                  <name><surname>Smithers</surname><given-names>SG</given-names></name>
+                  <name><surname>Edinger</surname><given-names>EN</given-names></name>
+                  <name><surname>Steneck</surname><given-names>RS</given-names></name>
+                  <name><surname>Mumby</surname><given-names>PJ</given-names></name>
+               </person-group>
+          <article-title>Caribbean-wide decline in carbonate production threatens coral reef growth</article-title>
+          <source>Nature Communications</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>4</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1038/ncomms2409</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Petit et al. (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Petit</surname><given-names>JR</given-names></name>
+                  <name><surname>Jouzel</surname><given-names>J</given-names></name>
+                  <name><surname>Raynaud</surname><given-names>D</given-names></name>
+                  <name><surname>Barkov</surname><given-names>NI</given-names></name>
+                  <name><surname>Barnola</surname><given-names>J-M</given-names></name>
+                  <name><surname>Basile</surname><given-names>I</given-names></name>
+                  <name><surname>Bender</surname><given-names>M</given-names></name>
+                  <name><surname>Chappellaz</surname><given-names>J</given-names></name>
+                  <name><surname>Davis</surname><given-names>M</given-names></name>
+                  <name><surname>Delaygue</surname><given-names>G</given-names></name>
+                  <name><surname>Delmotte</surname><given-names>M</given-names></name>
+                  <name><surname>Kotlyakov</surname><given-names>VM</given-names></name>
+                  <name><surname>Legrand</surname><given-names>M</given-names></name>
+                  <name><surname>Lipenkov</surname><given-names>VY</given-names></name>
+                  <name><surname>Lorius</surname><given-names>C</given-names></name>
+                  <name><surname>Pepin</surname><given-names>L</given-names></name>
+                  <name><surname>Ritz</surname><given-names>C</given-names></name>
+                  <name><surname>Saltzman</surname><given-names>E</given-names></name>
+                  <name><surname>Stievenard</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Climate and atmosphere history of the past 420,000 years from the Vostok ice core, Antartica</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>399</volume>
+          <fpage>429</fpage>
+          <lpage>436</lpage>
+          <pub-id pub-id-type="doi">10.1038/20859</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Portner (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Portner</surname><given-names>H-O</given-names></name>
+               </person-group>
+          <article-title>Oxygen- and capacity-limitation of thermal tolerance: a matrix for integrating climate-related stressor effects in marine ecosystems</article-title>
+          <source>Journal of Experimental Biology</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>213</volume>
+          <fpage>881</fpage>
+          <lpage>893</lpage>
+          <pub-id pub-id-type="doi">10.1242/jeb.037523</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Reynaud et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Reynaud</surname><given-names>S</given-names></name>
+                  <name><surname>Leclercq</surname><given-names>N</given-names></name>
+                  <name><surname>Romaine-Lioud</surname><given-names>S</given-names></name>
+                  <name><surname>Ferrier-Pagès</surname><given-names>C</given-names></name>
+                  <name><surname>Jaubert</surname><given-names>J</given-names></name>
+                  <name><surname>Gattuso</surname><given-names>J-P</given-names></name>
+               </person-group>
+          <article-title>Interacting effects of CO<sub>2</sub> partial pressure and temperature on photosynthesis and calcification in a scleractinian coral</article-title>
+          <source>Global Change Biology</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>9</volume>
+          <fpage>1660</fpage>
+          <lpage>1668</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2486.2003.00678.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Ries (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ries</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Acid ocean cover up</article-title>
+          <source>Nature Climate Change</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>1</volume>
+          <fpage>294</fpage>
+          <lpage>295</lpage>
+          <pub-id pub-id-type="doi">10.1038/nclimate1204</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Rodolfo-Metalpa et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rodolfo-Metalpa</surname><given-names>R</given-names></name>
+                  <name><surname>Houlbrèque</surname><given-names>F</given-names></name>
+                  <name><surname>Tambutté</surname><given-names>E</given-names></name>
+                  <name><surname>Boisson</surname><given-names>F</given-names></name>
+                  <name><surname>Baggini</surname><given-names>C</given-names></name>
+                  <name><surname>Patti</surname><given-names>FP</given-names></name>
+                  <name><surname>Jeffree</surname><given-names>R</given-names></name>
+                  <name><surname>Fine</surname><given-names>M</given-names></name>
+                  <name><surname>Foggo</surname><given-names>A</given-names></name>
+                  <name><surname>Gattuso</surname><given-names>JP</given-names></name>
+                  <name><surname>Hall-Spencer</surname><given-names>JM</given-names></name>
+               </person-group>
+          <article-title>Coral and mollusc resistance to ocean acidification adversely affected by warming</article-title>
+          <source>Nature Climate Change</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>1</volume>
+          <fpage>308</fpage>
+          <lpage>312</lpage>
+          <pub-id pub-id-type="doi">10.1038/NCLIMATE1200</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>R Development Core Team (2012)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <collab>
+                     <institution>R Development Core Team</institution>
+                  </collab>
+               </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <pub-id pub-id-type="other">3-900051-07-0</pub-id>
+          <comment>R: a language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. <italic>Available at <uri xlink:href="http://www.R-project.org">http://www.R-project.org</uri></italic></comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Silverman et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Silverman</surname><given-names>J</given-names></name>
+                  <name><surname>Lazor</surname><given-names>B</given-names></name>
+                  <name><surname>Cao</surname><given-names>L</given-names></name>
+                  <name><surname>Caldiera</surname><given-names>K</given-names></name>
+                  <name><surname>Erez</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Coral reefs may start dissolving when atmospheric CO<sub>2</sub> doubles</article-title>
+          <source>Geophysical Research Letters</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>36</volume>
+          <fpage>L05606</fpage>
+          <pub-id pub-id-type="doi">10.1029/2008GL036282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Smith (1983)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Smith</surname><given-names>SV</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Barnes</surname><given-names>DG</given-names></name>
+               </person-group>
+          <article-title>Coral reef calcification</article-title>
+          <source>Perspectives on coral reefs</source>
+          <year iso-8601-date="1983">1983</year>
+          <publisher-loc>Australia</publisher-loc>
+          <publisher-name>Brian Clouston Publisher</publisher-name>
+          <fpage>240</fpage>
+          <lpage>247</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Smith &amp; Kinsey (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Smith</surname><given-names>SV</given-names></name>
+                  <name><surname>Kinsey</surname><given-names>DW</given-names></name>
+               </person-group>
+          <article-title>Calcium carbonate production, coral reef growth, and sea level change</article-title>
+          <source>Science</source>
+          <year iso-8601-date="1976">1976</year>
+          <volume>194</volume>
+          <fpage>937</fpage>
+          <lpage>939</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.194.4268.937</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Smith &amp; Buddemeier (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Smith</surname><given-names>SV</given-names></name>
+                  <name><surname>Buddemeier</surname><given-names>RW</given-names></name>
+               </person-group>
+          <article-title>Global change and coral reef ecosystems</article-title>
+          <source>Annual Review of Ecology and Systematics</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>23</volume>
+          <fpage>89</fpage>
+          <lpage>118</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.es.23.110192.000513</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Stearn, Scoffin &amp; Martindale (1977)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Stearn</surname><given-names>CW</given-names></name>
+                  <name><surname>Scoffin</surname><given-names>TP</given-names></name>
+                  <name><surname>Martindale</surname><given-names>W</given-names></name>
+               </person-group>
+          <article-title>Calcium carbonate budget of a fringing reef on the west coast of Barbados</article-title>
+          <source>Bulletin of Marine Science</source>
+          <year iso-8601-date="1977">1977</year>
+          <volume>27</volume>
+          <fpage>479</fpage>
+          <lpage>510</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Veal, Carmi &amp; Fine (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Veal</surname><given-names>CJ</given-names></name>
+                  <name><surname>Carmi</surname><given-names>M</given-names></name>
+                  <name><surname>Fine</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Increasing the accuracy of surface area estimation using single wax dipping of coral fragments</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>29</volume>
+          <fpage>893</fpage>
+          <lpage>897</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00338-010-0647-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-44">
+        <label>Vermeer &amp; Rahmstorf (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Vermeer</surname><given-names>M</given-names></name>
+                  <name><surname>Rahmstorf</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>Global sea level linked to global temperature</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>106</volume>
+          <fpage>21527</fpage>
+          <lpage>21532</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0907765106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-45">
+        <label>Veron (1995)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Veron</surname><given-names>JEN</given-names></name>
+               </person-group>
+          <source>Corals in space and time: the biogeography and evolution of the Scleractinia</source>
+          <year iso-8601-date="1995">1995</year>
+          <publisher-loc>Sydney</publisher-loc>
+          <publisher-name>University of New South Wales Press</publisher-name>
+          <fpage>321</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-46">
+        <label>Walter &amp; Morse (1984)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Walter</surname><given-names>LM</given-names></name>
+                  <name><surname>Morse</surname><given-names>JW</given-names></name>
+               </person-group>
+          <article-title>Reactive surface area of skeletal carbonates during dissolution: effect of grain size</article-title>
+          <source>Journal of Sedimentary Petrology</source>
+          <year iso-8601-date="1984">1984</year>
+          <volume>54</volume>
+          <fpage>1081</fpage>
+          <lpage>1090</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-47">
+        <label>Wood (1999)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Wood</surname><given-names>R</given-names></name>
+               </person-group>
+          <source>Reef evolution</source>
+          <year iso-8601-date="1999">1999</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>414</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-48">
+        <label>Zeebe et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Zeebe</surname><given-names>RE</given-names></name>
+                  <name><surname>Zachos</surname><given-names>JC</given-names></name>
+                  <name><surname>Caldira</surname><given-names>K</given-names></name>
+                  <name><surname>Tyrrell</surname><given-names>T</given-names></name>
+               </person-group>
+          <article-title>Carbon emissions and acidification</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>321</volume>
+          <fpage>51</fpage>
+          <lpage>52</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1159124</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <ref-list content-type="authoryear">
+      <title>Further reading</title>
+      <ref id="ref-49">
+        <label>Fine &amp; Tchernov (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Fine</surname><given-names>M</given-names></name>
+                  <name><surname>Tchernov</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Scleractinian coral species survive and recover from decalcification</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>315</volume>
+          <fpage>1811</fpage>
+          <pub-id pub-id-type="doi">10.1126/science.1137094</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-50">
+        <label>Hautmann (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hautmann</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Effect of End-Triassic CO<sub>2</sub> maximum on carbonate sedimentation and marine mass extinction</article-title>
+          <source>Facies</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>50</volume>
+          <fpage>257</fpage>
+          <lpage>261</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10347-004-0020-y</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-51">
+        <label>Kroeker et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Kroeker</surname><given-names>KJ</given-names></name>
+                  <name><surname>Kordas</surname><given-names>RL</given-names></name>
+                  <name><surname>Crim</surname><given-names>RN</given-names></name>
+                  <name><surname>Singh</surname><given-names>GG</given-names></name>
+               </person-group>
+          <article-title>Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms</article-title>
+          <source>Ecology Letters</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>13</volume>
+          <fpage>1419</fpage>
+          <lpage>1434</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1461-0248.2010.01518.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-52">
+        <label>Manzello et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Manzello</surname><given-names>DP</given-names></name>
+                  <name><surname>Kleypas</surname><given-names>JA</given-names></name>
+                  <name><surname>Budd</surname><given-names>DA</given-names></name>
+                  <name><surname>Eakin</surname><given-names>CM</given-names></name>
+                  <name><surname>Glynn</surname><given-names>PW</given-names></name>
+                  <name><surname>Langdon</surname><given-names>C</given-names></name>
+               </person-group>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>105</volume>
+          <fpage>10450</fpage>
+          <lpage>10455</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0712167105</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-53">
+        <label>Morse, Arvidson &amp; Luttge (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Morse</surname><given-names>JW</given-names></name>
+                  <name><surname>Arvidson</surname><given-names>RS</given-names></name>
+                  <name><surname>Luttge</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Calcium carbonate formation and dissolution</article-title>
+          <source>Chemical Reviews</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>107</volume>
+          <fpage>342</fpage>
+          <lpage>381</lpage>
+          <pub-id pub-id-type="doi">10.1021/cr050358j</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-54">
+        <label>Veron (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Veron</surname><given-names>JEN</given-names></name>
+               </person-group>
+          <article-title>Mass extinctions and ocean acidification: biological constraints on geological dilemmas</article-title>
+          <source>Coral Reefs</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>27</volume>
+          <fpage>459</fpage>
+          <lpage>472</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00338-008-0381-8</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

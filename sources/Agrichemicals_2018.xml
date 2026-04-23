@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">5801</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.5801</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Agricultural Science</subject>
+               <subject>Evolutionary Studies</subject>
+               <subject>Microbiology</subject>
+               <subject>Environmental Contamination and Remediation</subject>
+               <subject>Environmental Impacts</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Agrichemicals and antibiotics in combination increase antibiotic resistance evolution</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" equal-contrib="yes">
+               <name>
+                  <surname>Kurenbach</surname>
+                  <given-names>Brigitta</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author" equal-contrib="yes">
+               <name>
+                  <surname>Hill</surname>
+                  <given-names>Amy M.</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Godsoe</surname>
+                  <given-names>William</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>van Hamelsveld</surname>
+                  <given-names>Sophie</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-5" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Heinemann</surname>
+                  <given-names>Jack A.</given-names>
+               </name>
+               <email>jack.heinemann@canterbury.ac.nz</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>School of Biological Sciences and Centre for Integrated Research in Biosafety and Centre for Integrative Ecology, University of Canterbury</institution>, <city>Christchurch</city>, <country>New Zealand</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Bio-Protection Centre, Lincoln University</institution>, <city>Lincoln</city>, <country>New Zealand</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Anderson</surname>
+                  <given-names>Todd</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-10-12">
+            <day>12</day>
+            <month>10</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e5801</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-05-03">
+               <day>3</day>
+               <month>5</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-09-21">
+               <day>21</day>
+               <month>9</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Kurenbach et al.</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Kurenbach et al.</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/5801"/>
+         <abstract>
+            <p>Antibiotic resistance in our pathogens is medicine’s climate change: caused by human activity, and resulting in more extreme outcomes. Resistance emerges in microbial populations when antibiotics act on phenotypic variance within the population. This can arise from either genotypic diversity (resulting from a mutation or horizontal gene transfer), or from differences in gene expression due to environmental variation, referred to as adaptive resistance. Adaptive changes can increase fitness allowing bacteria to survive at higher concentrations of antibiotics. They can also decrease fitness, potentially leading to selection for antibiotic resistance at lower concentrations. There are opportunities for other environmental stressors to promote antibiotic resistance in ways that are hard to predict using conventional assays. Exploiting our previous observation that commonly used herbicides can increase or decrease the minimum inhibitory concentration (MIC) of different antibiotics, we provide the first comprehensive test of the hypothesis that the rate of antibiotic resistance evolution under specified conditions can increase, regardless of whether a herbicide increases or decreases the antibiotic MIC. Short term evolution experiments were used for various herbicide and antibiotic combinations. We found conditions where acquired resistance arises more frequently regardless of whether the exogenous non-antibiotic agent increased or decreased antibiotic effectiveness. This is attributed to the effect of the herbicide on either MIC or the minimum selective concentration (MSC) of a paired antibiotic. The MSC is the lowest concentration of antibiotic at which the fitness of individuals varies because of the antibiotic, and is lower than MIC. Our results suggest that additional environmental factors influencing competition between bacteria could enhance the ability of antibiotics to select antibiotic resistance. Our work demonstrates that bacteria may acquire antibiotic resistance in the environment at rates substantially faster than predicted from laboratory conditions.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Antibiotic resistance</kwd>
+            <kwd>Herbicide</kwd>
+            <kwd>Minimum selective concentration</kwd>
+            <kwd>Adaptive resistance</kwd>
+            <kwd>Evolution</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>New Zealand Federation of Graduate Women and UC</funding-source>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source>Brian Mason Trust</funding-source>
+            </award-group>
+            <award-group id="fund-3">
+               <funding-source> Third World Network (Malaysia)</funding-source>
+            </award-group>
+            <award-group id="fund-4">
+               <funding-source>Sustainable Food Trust (UK)</funding-source>
+            </award-group>
+            <funding-statement>Amy M. Hill received the New Zealand Federation of Graduate Women and UC for support. This project received funding from the Brian Mason Trust (to Jack A. Heinemann) and donations to the UC Foundation (to Jack A. Heinemann) including from, inter alia, donors Third World Network (Malaysia) and the Sustainable Food Trust (UK). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec>
+         <title>Significance</title>
+         <p>Neither reducing the use of antibiotics nor discovery of new ones may be sufficient strategies to avoid the post-antibiotic era. This is because bacteria may be exposed to other non-antibiotic chemicals that predispose them to evolve resistance to antibiotics more quickly. Herbicides are examples of some of the most common non-antibiotic chemicals in frequent global use. We previously showed that in some combinations the herbicides we tested made bacteria phenotypically resistant to higher concentrations of antibiotics, while in other combinations bacteria became susceptible at lower antibiotic concentrations. Here we demonstrate that in both cases the herbicides worked with antibiotics to accelerate genotypic resistance evolution. Unfortunately, antibiotic resistance may increase even if total antibiotic use is reduced, and new ones are invented, unless other environmental exposures are also controlled.</p>
+      </sec>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>As fundamental tools for infection control, antibiotics underpin diverse human systems ranging from hospital care to concentrated animal feeding operations through to crop and pollinator disease management. The loss of this tool due to antibiotic resistance will result in higher mortality and morbidity, but also deny access to many routine medical procedures for risk of subsequently untreatable infections (<xref ref-type="bibr" rid="ref-41">Teillant et al., 2015</xref>; <xref ref-type="bibr" rid="ref-42">Thomas, Smith &amp; Tilyard, 2014</xref>). Antibiotic resistances also threaten agricultural productivity (<xref ref-type="bibr" rid="ref-39">Stockwell &amp; Duffy, 2013</xref>; <xref ref-type="bibr" rid="ref-43">Van Boeckel et al., 2015</xref>). Despite over a half century of warning, neither science nor public and private innovation strategies have managed to avert the threat of a post-antibiotic era.</p>
+         <p>One stewardship strategy is reduction of use which might help increase longevity (<xref ref-type="bibr" rid="ref-9">CDC, 2013</xref>; <xref ref-type="bibr" rid="ref-13">Collingnon et al., 2016</xref>). If bacteria almost never encounter antibiotics at concentrations high enough to harm them, there would be little opportunity for resistant variants to emerge and establish. Based on this, it has been suggested that judicious and low use of antibiotics that keeps most antibiotic exposures to less than the minimum inhibitory concentration (MIC) should preserve antibiotic susceptibility in bacteria (<xref ref-type="bibr" rid="ref-3">Andersson &amp; Hughes, 2014</xref>). In practice, the lowest concentration of antibiotic leading to the evolution of resistance in a given environment, the so called minimum selective concentration (MSC), can be much lower than the MIC (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) (<xref ref-type="bibr" rid="ref-3">Andersson &amp; Hughes, 2014</xref>; <xref ref-type="bibr" rid="ref-7">Baquero et al., 1998b</xref>; <xref ref-type="bibr" rid="ref-25">Hermsen, Deris &amp; Hwa, 2012</xref>). Keeping the use of antibiotics to below MSC concentrations is more challenging still.</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Effects of herbicides on bacterial responses to antibiotics.</title>
+               <p>Herbicides can change responses to antibiotics. Solid curves indicate survival as a function of only antibiotic concentration, intersecting the <italic>x</italic>-axes at the MIC. Dashed curves show herbicides (A) increasing the MIC, (B) decreasing the MIC, and (C) having no effect on MIC but altering population survival at antibiotic concentrations below-MIC. The hypothetical MSC is the point of divergence of solid and dashed curves and the area in gray illustrates all antibiotic concentrations where the herbicide changes the response to antibiotics.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5801/fig-1.png"/>
+         </fig>
+         <p>Variation in antibiotic responses can be caused by either genetic or physiological differences between individual bacteria. The toxic effect of an antibiotic may occur at different concentrations for different individuals because some have <italic>acquired</italic> genes or alleles through mutation or horizontal gene transfer (i.e., change in genotype). Also, organisms can have <italic>innate</italic> differences between them, e.g., due to differences in permeability.</p>
+         <p>Innate resistance can also be dependent upon genes expressed or repressed conditionally, resulting in increased efflux or decreased influx of antibiotics and overall lower intracellular antibiotic concentrations (<xref ref-type="bibr" rid="ref-19">Fernandez &amp; Hancock, 2012</xref>). Such genes or expression induction thresholds may differ between species, and individuals within a species may phenotypically differ depending on whether or not they expressed those genes before being inhibited by the antibiotic. This resistance through changes in gene expression is also known as an <italic>adaptive</italic> (change in phenotype) response (<xref ref-type="bibr" rid="ref-18">Fernandez, Breidenstein &amp; Hancock, 2011</xref>) which acclimates bacteria to the environment. It can be triggered by antibiotics and other chemical toxins or environmental cues (<xref ref-type="bibr" rid="ref-8">Blair et al., 2015</xref>; <xref ref-type="bibr" rid="ref-32">Palmer &amp; Kishony, 2013</xref>; <xref ref-type="bibr" rid="ref-35">Sanchez-Romero &amp; Casadesus, 2014</xref>).</p>
+         <p>We have previously shown that concurrent exposure of <italic>Escherichia coli</italic> or <italic>Salmonella enterica</italic> sv. Typhimurium to various commercial herbicides and antibiotics from different classes can lead to adaptive increases (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>) or decreases (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>) in their susceptibility to the antibiotics. In some cases, herbicide exposures changed the survival at below-MIC antibiotic concentrations of antibiotic, while MIC itself was not affected (<xref ref-type="fig" rid="fig-1">Fig. 1C</xref>). Adaptive responses were specific for the combination of bacteria, antibiotic and herbicide used. Effects were shown for commercial formulations (<xref ref-type="bibr" rid="ref-28">Kurenbach et al., 2015</xref>), for label listed active ingredients, and for common adjuvants (<xref ref-type="bibr" rid="ref-27">Kurenbach et al., 2017</xref>).</p>
+         <p>Populations of adaptively resistant bacteria can in time produce variants with acquired resistance to even higher concentrations of antibiotic (<xref ref-type="bibr" rid="ref-12">Cohen et al., 1989</xref>; <xref ref-type="bibr" rid="ref-21">Gustafson et al., 1999</xref>; <xref ref-type="bibr" rid="ref-38">Shen, Pu &amp; Zhang, 2011</xref>). This raises the possibility that environmental stimuli that cause phenotypic antibiotic resistance variation between individuals could be hotspots for evolution of acquired antibiotic resistance.</p>
+         <p>Here we exploit our previous observations to test the novel hypothesis that both adaptive increases and decreases in antibiotic susceptibility caused by exposure to herbicide formulations can lead to an increase in the rate of acquired resistance evolution in populations of <italic>E. coli</italic> and <italic>S</italic>. <italic>typhimurium</italic>. For this purpose we conducted short term evolution experiments using either the natural variability within a monoculture of <italic>E. coli</italic> or <italic>S. typhimurium</italic>, or isogenic strains only differing in their level of antibiotic resistance, which represents natural variability.</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials and Methods</title>
+         <sec>
+            <title>Media</title>
+            <p>Strains and plasmids are listed in <xref ref-type="table" rid="table-1">Table 1</xref>. Bacteria were grown in standard rich growth medium, LB (Lennox) (Invitrogen) at 37 °C and supplemented with ampicillin (Amp, AppliChem), chloramphenicol (Cam, Sigma) ciprofloxacin (Cip, Pentex), streptomycin (Str, Sigma), tetracycline (Tet, Sigma), or nalidixic acid (Nal, Sigma) as appropriate. Liquid cultures were grown with aeration (180 rpm), and plates were incubated in plastic bags to avoid drying out. Commercial herbicide formulations used were Kamba<sup>500</sup> (Nufarm, NZ) containing 500 g/L dimethyl salt of dicamba, and Roundup Weedkiller (Monsanto, Australia) containing 360 g/L isopropylamine salt of glyphosate. Herbicide concentrations are reported in parts per million acid equivalent (ppm ae) of the active ingredient to allow for comparison with other formulations. Antibiotic and herbicide concentrations used are specified in the main text or in figure legends.</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.5801/table-1</object-id><label>Table 1</label><caption>
+                  <title>Bacteria and plasmids.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5801/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>Bacteria</th>
+                           <th>Genotype/comments</th>
+                           <th>Relevant antibiotic resistance level</th>
+                           <th>Reference/source</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td colspan="4"><italic>E. coli</italic></td>
+                        </tr>
+                        <tr>
+                           <td>BW25113</td>
+                           <td>wild-type. F<sup>−</sup>, <italic>λ</italic><sup>−</sup>, Δ<italic>(araD-araB)567</italic>, Δ<italic>lacZ4787(::rrnB-3), rph-1</italic>, Δ<italic>(rhaD-rhaB)568, hsdR514</italic></td>
+                           <td>Cip/Cip +Kamba/Cip+Roundup<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>: Solid medium: 0.01∕0.07∕0.07 µg/mL Liquid medium: 0.04∕0.05∕0.09 µg/mL</td>
+                           <td><xref ref-type="bibr" rid="ref-5">Baba et al. (2006)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>SB21</td>
+                           <td><italic>hsdS</italic>, <italic>leuB6</italic>, <italic>thr</italic></td>
+                           <td/>
+                           <td><xref ref-type="bibr" rid="ref-24">Heinemann &amp; Sprague Jr (1989)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>AH201 (Tet<sup>high</sup>)</td>
+                           <td>SB21 (pBR322)</td>
+                           <td>Tet: 125 µg/mL</td>
+                           <td>This study</td>
+                        </tr>
+                        <tr>
+                           <td>AH214(Tet<sup>low</sup>)</td>
+                           <td>SB21 (pAH14)</td>
+                           <td>Tet: 1.5 µg/mL</td>
+                           <td>This study</td>
+                        </tr>
+                        <tr>
+                           <td>JB436</td>
+                           <td>SB21 Nal<sup>R</sup></td>
+                           <td>Nal: 60 µg/mL</td>
+                           <td><xref ref-type="bibr" rid="ref-23">Heinemann, Scott &amp; Williams (1996)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>AH204 (Str<sup>high</sup>)</td>
+                           <td>JB436 (RSF1010)</td>
+                           <td>Str: 250 µg/mL</td>
+                           <td>This study</td>
+                        </tr>
+                        <tr>
+                           <td>AH211 (Str<sup>low</sup>)</td>
+                           <td>SB21 (pAH11)</td>
+                           <td>Str: 1 µg/mL</td>
+                           <td>This study</td>
+                        </tr>
+                        <tr>
+                           <td colspan="4"><italic>S. enterica</italic> sv Typhimurium</td>
+                        </tr>
+                        <tr>
+                           <td>SL3770</td>
+                           <td>LT2, <italic>pyr</italic><sup>+</sup>, <italic>rfa</italic></td>
+                           <td>Cip/Cip+Kamba/Cip+Roundup<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref>: Solid medium: 0.035∕0.1∕0.1 µg/mL Liquid medium: 0.05∕0.1∕0.2 µg/mL</td>
+                           <td><xref ref-type="bibr" rid="ref-34">Roantree, Kuo &amp; MacPhee (1977)</xref></td>
+                        </tr>
+                        <tr>
+                           <td colspan="4">Plasmids</td>
+                        </tr>
+                        <tr>
+                           <td>pBR322</td>
+                           <td>Amp<sup>R</sup>, Tet<sup>R</sup></td>
+                           <td>Amp: 100 µg/mL, Tet: 125 µg/mL</td>
+                           <td><xref ref-type="bibr" rid="ref-40">Sutcliffe (1979)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>pAH14</td>
+                           <td>pBR322 derivative, Cam<sup>R</sup>, Amp<sup>S</sup>, Tet <sup>S</sup></td>
+                           <td>Cam:20 µg/mL</td>
+                           <td>This study</td>
+                        </tr>
+                        <tr>
+                           <td>RSF1010</td>
+                           <td>Str<sup>R</sup></td>
+                           <td>Str: 250 µg/mL</td>
+                           <td><xref ref-type="bibr" rid="ref-37">Scholz et al. (1989)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>pAH11</td>
+                           <td>RSF1010 derivative, Cam<sup>R</sup>, Str<sup>S</sup></td>
+                           <td>Cam: 20 µg/mL, Str: 1 µg/mL</td>
+                           <td>This study</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+               <table-wrap-foot><fn id="table-1fn"><p><bold>Notes.</bold></p></fn><fn id="table-1fn1"><label>a</label><p>Kamba: added at 1,830 ppm ae, Roundup added at 1,240 ppm ae.</p></fn></table-wrap-foot>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Plasmid constructs</title>
+            <p>pBR322 (<xref ref-type="table" rid="table-1">Table 1</xref>) was used as the base to create a pair of plasmids that only differed in antibiotic resistance determinants. Plasmid pAH14 was created by deleting a section of the gene for Tet<sup>R</sup> by removing the <italic>Hin</italic>dIII and <italic>Bam</italic>HI fragment of pBR322 and inserting <italic>cat</italic> from pACYC184 at the <italic>Pst</italic>I site within <italic>bla</italic>. The resulting plasmid conferred resistance to chloramphenicol, but not to ampicillin or tetracycline (Cam<sup>R</sup>, Amp<sup>S</sup>, Tet<sup>S</sup>). RSF1010 (<xref ref-type="table" rid="table-1">Table 1</xref>) was the base for pAH11, which was created by insertion of <italic>cat</italic> from pACYC184 into the <italic>Eco</italic>RI and <italic>Not</italic>I sites of RSF1010, resulting in a plasmid conferring chloramphenicol but not streptomycin resistance (Cam<sup>R</sup>, Str<sup>S</sup>).</p>
+         </sec>
+         <sec>
+            <title>Culturing conditions</title>
+            <p>For the experiments described in the section “Evolution of acquired antibiotic resistance in cultures with herbicide-induced increases in MIC” <italic>E. coli</italic> or <italic>S. typhimurium</italic> were grown for 24 h in 10 mL liquid LB medium containing Cip, herbicide, both, or neither. Initial densities were ca. 10<sup>5</sup> cfu/mL for the former treatment and ca. 10<sup>6</sup> cfu/mL (<italic>E. coli</italic>) and 10<sup>5</sup> cfu/mL (<italic>S. typhimurium</italic>) for the latter three. The experiment was abandoned at this point if cultures containing Cip but not herbicide were visibly turbid. This was because in this experiment the chosen Cip concentration was above MIC in cultures not exposed to herbicide, and growth was therefore interpreted as due to a resistant mutant in the starting culture. Herbicide and antibiotic concentrations used are detailed in the Results section. Cultures were then diluted as above in the same conditions and incubated again for 24 h. A 10-fold dilution in LB without herbicides or antibiotics followed to ensure observed effects were not due to herbicide induced adaptive responses. Titers (cfu/mL) were determined at the end of each incubation step on both LB and on Cip at an initially non-permissive concentration (ca. 2×MIC) (<xref ref-type="bibr" rid="ref-14">Dan et al., 2016</xref>). The frequency of Cip resistant mutants and the number of generations was calculated.</p>
+            <p>Experiments described in the section “Herbicide-induced changes in MSC can occur without a change in MIC” were conducted similarly. However, in this case the culture supplemented with only Cip was able to grow because the chosen Cip concentration was below MIC.</p>
+         </sec>
+         <sec>
+            <title>Determination of resistance levels</title>
+            <p>Individual colonies of strains grown on solid LB medium were used to inoculate 100 µL of liquid LB in a 96 well plate. The plate was incubated with aeration to saturation before ca. 4 µL samples were stenciled onto LB plates containing the appropriate antibiotics. Plates were incubated at 37 °C for 18 h. Strains were scored positively for growth if growth was tangible.</p>
+         </sec>
+         <sec>
+            <title>Mixed culture experiments</title>
+            <p>Isogenic strains of <italic>E. coli</italic> differing only in the MIC phenotype (i.e., high vs. low) and an additional selection marker encoded on a low copy number plasmid were co-incubated in liquid LB medium containing herbicide, antibiotic, both, or neither and grown to saturation before dilution by a factor of 10<sup>3</sup> in the same conditions. The antibiotic concentration chosen was below NOEL for both strains. NOEL is defined here as the highest antibiotic concentration for which no effect on survival or selection were observed. The titer of each culture was determined by plating on non-selective medium after each incubation step. After 5 rounds of incubation, the ratio of strains was determined by selecting for the second—competition irrelevant—marker.</p>
+            <p>Natural selection was defined as the difference in the exponential growth rate of the two strains (<xref ref-type="bibr" rid="ref-31">Mallet, 2012</xref>; <xref ref-type="bibr" rid="ref-44">Van den Bosch et al., 2014</xref>). Under this interpretation, the change in the proportion of resistant individuals per unit of time is the logistic curve (<xref ref-type="bibr" rid="ref-31">Mallet, 2012</xref>) with the explicit solution <italic>p</italic> = <italic>e</italic><sup>st</sup>∕(<italic>c</italic> + <italic>e</italic><sup>st</sup>), where <italic>t</italic> = time, <italic>p</italic> = proportion of resistant individuals, <italic>s</italic> = strength of selection, <italic>c</italic> = constant describing the initial proportion of resistant individuals, <italic>c</italic> = (1∕<italic>p</italic><sub>0</sub>) − 1. The constant <italic>p</italic><sub>0</sub> is the proportion of resistant individuals at <italic>t</italic><sub>0</sub> (the start of the experiment). <italic>t</italic> is defined as the number of generations, using the generation time for the more resistant strain. By rearranging this formula, the strength of selection is <italic>s</italic> = ln(<italic>pc</italic>∕(1 − <italic>p</italic>))∕<italic>t</italic>.</p>
+         </sec>
+         <sec>
+            <title>Growth curves</title>
+            <p>Growth curves were established at 37 °C in liquid LB medium supplemented with herbicide, antibiotic, both, or neither using a FLUOstar Omega microplate reader (BMG LABTECH, Germany). The OD<sub>600</sub> was determined every 6 min for 16 h and averaged over five biological replicates. Cultures were started at densities of ca. 10<sup>6</sup> cfu/mL. Antibiotic and herbicide concentrations used are detailed in the legend of <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>.</p>
+         </sec>
+         <sec>
+            <title>Statistical analysis</title>
+            <p>R was used for all statistical analyses (<xref ref-type="bibr" rid="ref-33">R Core Team, 2013</xref>). For experiments measuring changes to MIC, an ANOVA was used to analyze the randomized complete block design, using each independent experiment as a block with presence/absence of antibiotic/herbicide as levels. Residuals were used to test for normality and equality of variances and log transformed data where appropriate. Tukey’s HSD test was used to determine which treatments were significantly different from each other.</p>
+            <p>For mixed culture experiments (changes to MSC), two sets of analyses were performed. First, we determined whether adding antibiotics increases the strength of selection at different herbicide concentrations. Second, we determined whether adding herbicides increases the strength of selection at different antibiotic concentrations. Each set of questions was tested using contrasts performed with the glht function in the multcomp package (<xref ref-type="bibr" rid="ref-26">Hothorn, Bretz &amp; Westfall, 2008</xref>) with a two-sided alternative and sequential Bonferroni procedure. These contrasts were fit to an ANOVA model treating each combination of herbicide and antibiotic as a treatment category. Residual plots confirmed that the assumptions of normality and equality of variance were met. Because residuals were approximately normally distributed we report the arithmetic mean (the maximum likelihood estimator of population mean under the assumption of normality).</p>
+         </sec>
+         <sec>
+            <title>Statistical analysis for growth curves</title>
+            <p>To estimate carrying capacity (k), a logistic growth model on the raw data using non-linear least squares (nls) was fit in R. Differences in population growth between strains in different treatments were estimated by estimating r, the intrinsic growth rate, of each strain. Data sets were log transformed and the slope of the growth curve between <italic>t</italic> = 48 min and <italic>t</italic> = 150 min was measured. A visual inspection of the plots revealed that before <italic>t</italic> = 48 min graphs were not linear. After <italic>t</italic> = 150 min, growth slowed as cells were entering stationary phase.</p>
+            <p>We tested for differences between the two strains in both r and k by calculating contrast in an ANOVA (aov). Residual plots were used to test for violations of assumptions for ANOVA. Assumptions of normality and equal variances were met in all data sets. In two data sets there were a small number of outliers. These had small influences on parameter estimates and were hence not removed. Contrasts between treatments were calculated using the glht package in R using the sequential Bonferroni correction.</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>As reported previously, simultaneous exposure to a variety of antibiotics and either various commercial herbicide formulations (<xref ref-type="bibr" rid="ref-28">Kurenbach et al., 2015</xref>) or to either active ingredients and some surfactants (<xref ref-type="bibr" rid="ref-27">Kurenbach et al., 2017</xref>), alters the survival of <italic>E. coli</italic> and <italic>S. typhimurium</italic> compared to exposure to only the antibiotics. This was due to adaptive changes in exposed bacteria. From these observations we hypothesized that particular combinations of antibiotics and these formulations alter the MSC or MIC of the antibiotic in a way that favours genetically resistant variants. To test this hypothesis, we conducted short-term evolution in antibiotics with and without additional exposures to commercial herbicide formulations.</p>
+         <p>Because the effect of the herbicide exposure was specific to the combination of herbicide and antibiotic, primarily two kinds of experiments were done. Firstly, in the case where the herbicide raised the MIC of the antibiotic, we tested whether antibiotic survivors could give rise to antibiotic resistant variants. In this case, only bacteria simultaneously exposed to both the herbicide and antibiotic would survive when the antibiotic concentration exceeded the MIC of the bacteria measured without the addition of the herbicide. Secondly, in the case where the herbicide decreased the MIC of the antibiotic, we tested whether the herbicide decreased the MSC of the antibiotic, leading to a greater rate of resistance evolution at lower concentrations of antibiotic because of exposure to the herbicide formulation.</p>
+         <sec>
+            <title>Evolution of acquired antibiotic resistance in cultures with herbicide-induced increases in MIC</title>
+            <p>Exposing either <italic>E. coli</italic> or <italic>S. typhimurium</italic> to the herbicide formulation Roundup increased the MIC of the fluoroquinolone antibiotic ciprofloxacin, as did exposing <italic>S. typhimurium</italic> to the herbicide formulation Kamba (<xref ref-type="bibr" rid="ref-28">Kurenbach et al., 2015</xref>). These three combinations were used to test the hypothesis that the survival of bacteria exposed to normally lethal concentrations of antibiotic provides the opportunity for the population to evolve higher frequencies of resistant genotypes.</p>
+            <p>The rate of acquired resistance mutations in populations of <italic>E. coli</italic> BW25113 or <italic>S. typhimurium</italic> SL3770 (all strains described in <xref ref-type="table" rid="table-1">Table 1</xref>) was measured over the course of about 25 generations in a standard rich growth medium, liquid LB, or LB+herbicide, LB+Cip, or LB+herbicide+Cip. The chosen herbicide concentration was below NOEL (no observable effect level), so had no impact on survival or selection of the bacteria on its own (<xref ref-type="table" rid="table-2">Table 2</xref>). The ciprofloxacin concentration was the same in all cultures to which it was added and was above MIC in cultures not exposed to herbicide, but below MIC for bacteria in cultures simultaneously exposed to herbicide. At the end of the experiment, bacteria were transferred to solid medium supplemented with high levels of ciprofloxacin (above MIC) and no herbicide, which was permissive only to the growth of variants with acquired resistance.</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.5801/table-2</object-id><label>Table 2</label><caption>
+                  <title>Mutation rate (mutant frequency per generation).</title>
+                  <p>Rates of acquired resistance were determined with or without herbicide and Cip exposure. Values are means of at least four independent experiments. To represent sampling uncertainty in the mean value for treatment groups we present standard errors (standard deviation/√ n) in brackets. Cip concentrations used were 0.07 µg/mL for <italic>S. enterica</italic> and 0.05 µg/mL for <italic>S. enterica</italic> in liquid culture and: 0.07 µg/mL for <italic>S. enterica</italic> and 0.06 µg/mL for <italic>E. coli</italic> for final plating. A total of 1,250 ppm ae Roundup or 1,830 ppm ae Kamba were used.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5801/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th>LB</th>
+                           <th>LB+Herbicide</th>
+                           <th>LB+Herbicide+Cip</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td><italic>S. enterica</italic></td>
+                           <td/>
+                           <td/>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td>Kamba</td>
+                           <td>3.57 × 10<sup>−6</sup>(1.27 ×10<sup>−6</sup>)<xref ref-type="fn" rid="table-2fn2"><sup>b</sup></xref></td>
+                           <td>2.01 × 10<sup>−4</sup>(1.95 ×10<sup>−4</sup>)</td>
+                           <td>1.30 ×10<sup>−2</sup> (1.29 ×10<sup>−2</sup>)<xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref></td>
+                        </tr>
+                        <tr>
+                           <td>Roundup</td>
+                           <td>3.57 × 10<sup>−6</sup>(1.27 ×10<sup>−6</sup>)<xref ref-type="fn" rid="table-2fn2"><sup>b</sup></xref></td>
+                           <td>2.91 × 10<sup>−5</sup> (2.47 ×10<sup>−5</sup>)</td>
+                           <td>2.79 ×10<sup>−2</sup> (1.71 ×10<sup>−2</sup>)<xref ref-type="fn" rid="table-2fn1"><sup>a</sup></xref><sup>,</sup><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref></td>
+                        </tr>
+                        <tr>
+                           <td><italic>E. coli</italic></td>
+                           <td/>
+                           <td/>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td>Roundup</td>
+                           <td>1.80 ×10<sup>−9</sup> (1.62 ×10<sup>−9</sup>)</td>
+                           <td>1.97 ×10<sup>−10</sup> (5.46 ×10<sup>−11</sup>)</td>
+                           <td>2.72 ×10<sup>−5</sup> (2.67 ×10<sup>−5</sup>)<xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+               <table-wrap-foot><fn id="table-2fn"><p><bold>Notes.</bold></p></fn><fn id="table-2fn1"><label>a</label><p>Herbicide+antibiotic mutation rates significantly different from LB but not from herbicide treatment, for all other combinations herbicide+antibiotic is significantly different from both LB and herbicide treatments.</p></fn><fn id="table-2fn2"><label>b</label><p><italic>S. enterica</italic> experiments were conducted concurrently, using the same LB controls for both assays. <italic>E. coli</italic> was strain BW25113.</p></fn><fn id="table-2fn3"><label>c</label><p><italic>P</italic> &lt; 0.01.</p></fn><fn id="table-2fn4"><label>d</label><p><italic>P</italic> &lt; 0.001.</p></fn></table-wrap-foot>
+            </table-wrap>
+            <p>Expectedly, cultures supplemented only with ciprofloxacin did not grow, and genotypic resistant variants were not detected. Cultures that grew for 25 generations without ciprofloxacin supplementation produced resistant variants at similar low rates regardless of exposure to the herbicide formulations. This indicated that the herbicides were not mutagens at these concentrations. In a separate standard test of mutagenicity (<xref ref-type="bibr" rid="ref-20">Funchain et al., 2001</xref>), bacteria were exposed to herbicides and plated on the antibiotic rifampicin. No difference in resistance rates was observed (<italic>p</italic> = 0.3873).</p>
+            <p>Populations of bacteria with continuous exposure to herbicide and antibiotic had significantly higher numbers of ciprofloxacin resistant variants. The rate ranged from 10<sup>2</sup> times higher for the combination of Cip+Kamba+<italic>S. typhimurium</italic> to 10<sup>5</sup> times higher for Cip+Roundup+<italic>E. coli</italic> (<xref ref-type="table" rid="table-2">Table 2</xref>). This is consistent with our prediction that herbicide-induced adaptive resistance that increases MIC allows rare spontaneously arising ciprofloxacin resistant mutants to increase a culture’s MIC. Because ciprofloxacin is mutagenic (<xref ref-type="bibr" rid="ref-11">Cirz et al., 2005</xref>), it contributes quantitatively to the genotypic heterogeneity, including acquired antibiotic resistance, among the bacteria that survive because of the effects of the herbicide.</p>
+            <p>Ciprofloxacin resistant colonies were isolated at the end of each experiment from all treatments. We determined MICs for 56 <italic>S. typhimurium</italic> isolates (isolated on 0.05 µg/mL Cip), 27 isolates from Kamba+Cip and 29 isolates from Roundup+Cip treatments. The parental strain and 2 isolates from each LB, Kamba, and Roundup treatments, also isolated on 0.05 µg/mL Cip, were included as controls.</p>
+            <p>The parental strain and six evolved isolates did not grow at 0.07 µg/mL, a concentration just above the selection concentration. We observed MICs of 0.1 µg/mL ciprofloxacin for 21 isolates and 0.2 µg/mL ciprofloxacin for 28 isolates. Only seven isolates displayed higher MICs (two from Kamba +Cip, four from Roundup+Cip, and 1 from LB), the highest being 1.25 µg/mL ciprofloxacin reached by one isolate recovered from a Roundup+Cip culture. We observed no correlation between level of resistance and original treatment, which indicates that there are no qualitative differences between the ciprofloxacin resistant variants arising in the different treatments.</p>
+         </sec>
+         <sec>
+            <title>Evolution of acquired antibiotic resistance in cultures with herbicide-induced decreases in MIC</title>
+            <p>Antibiotic resistant bacteria are becoming a fixed part of many environments despite the concentration of antibiotics often being very low (<xref ref-type="bibr" rid="ref-25">Hermsen, Deris &amp; Hwa, 2012</xref>). We hypothesized that exposure to some herbicides can shift the MSC to lower antibiotic concentrations leading to competition between individuals with different physiological responses and thus providing an environment in which genotypically resistant bacteria evolve.</p>
+            <p>Mixed cultures of <italic>E. coli</italic> were created to represent pre-existing antibiotic resistance heterogeneity within natural environments. The phenotypic differences were created using bacteria carrying isogenic plasmids with different alleles of <italic>tetA</italic> (Tet<sup>high</sup>, Tet<sup>low</sup>, <xref ref-type="table" rid="table-1">Table 1</xref>). The MIC for tetracycline of Tet<sup>low</sup> was 1.5 µg/mL and for Tet<sup>high</sup> it was 125 µg/mL.</p>
+            <fig id="fig-2">
+               <object-id pub-id-type="doi">10.7717/peerj.5801/fig-2</object-id><label>Figure 2</label><caption>
+                  <title>Competition between strains of different potential to resist tetracycline.</title>
+                  <p>Competition between tetracycline resistant (AH201, Tet<sup>high</sup>) and susceptible (AH214, Tet<sup>low</sup>) strains of <italic>E. coli</italic> in different concentrations of tetracycline with or without Kamba (K) or Roundup (R). Kamba was used at 1,830 ppm ae, Roundup at 311 ppm ae. Selection coefficients are presented as a function of tetracycline concentration, with positive values indicating a selection for the more resistant strain. Values are means of three independent experiments. To represent sampling uncertainty in the mean value for treatment groups we present error bars depicting standard errors (standard deviation/√<italic>n</italic>). * indicate the lowest tetracycline concentrations for each treatment where selection coefficients were significantly different from the -Tet/-herbicide treatment, based on a Bonferroni corrected contrast described in the ‘Materials and Methods’.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5801/fig-2.png"/>
+            </fig>
+            <p>Tet<sup>high</sup> and Tet<sup>low</sup> were competed in liquid LB, LB+Tet, and LB+Tet+Roundup media for about 42 generations. This herbicide lowers the antibiotic MIC (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). The same concentration of Roundup was used in combination with various concentrations of tetracycline, all of which were below the MIC of Tet<sup>low</sup>. Roundup reduced tetracycline MIC for Tet<sup>low</sup> to 0.5 µg/mL, but growth of Tet<sup>high</sup> was not affected for tetracycline concentrations up to 50 µg/ml, far above levels used in this experiment.</p>
+            <p>The MSC, i.e., the concentration of tetracycline at which one strain started to dominate the culture, was determined from the calculated selection coefficients. A positive coefficient indicated selection for the more resistant strain. The selection coefficient was significantly different for competitions in environments supplemented with ≥0.1 µg/mL tetracycline compared to competitions in LB medium (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Mixed cultures in LB+Tet+Roundup had significantly different selection coefficients compared to the LB competitions beginning at a tetracycline concentration of 0.05 µg/mL.</p>
+            <p>A reverse experiment was performed using Kamba instead of Roundup. This herbicide increases the MIC of Tet<sup>low</sup> from 1.5 to 3 µg/mL. When Kamba was part of the environment, the selection coefficient was significantly different from the competition in LB medium at a tetracycline concentration ≥0.5 µg/mL, compared to ≥0.1 µg/mL without Kamba (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). In both cases, MIC for the Tet<sup>low</sup> strain and MSC moved in the same direction.</p>
+         </sec>
+         <sec>
+            <title>Herbicide-induced changes in MSC can occur without a change in MIC</title>
+            <p>In addition to the observed increase or decrease of antibiotic MIC caused by herbicide formulations, we also observed combinations of antibiotic and herbicide that did not change the MIC of the antibiotic but did alter growth rate (<xref ref-type="fig" rid="fig-1">Fig. 1C</xref>). For example, <italic>E. coli</italic> cultures in medium supplemented with Kamba grew faster at some sub-lethal concentrations of ciprofloxacin, but Kamba did not change the MIC (<xref ref-type="bibr" rid="ref-28">Kurenbach et al., 2015</xref>). At the concentrations of the antibiotic at which the herbicide altered growth rate, possibly also the MSC of the antibiotic was changed.</p>
+            <p>To test this, we measured the frequency at which acquired ciprofloxacin resistance arose during culture in the combination of Cip+Kamba+<italic>E. coli</italic>. The mutation rate of an <italic>E. coli</italic> monoculture was measured over the course of about 25 generations in a standard rich growth medium, liquid LB, and in LB supplemented with Cip, Kamba, or Cip+Kamba. The experiment was similar to those described in the section “Evolution of acquired antibiotic resistance in cultures with herbicide-induced increases in MIC”, but here the ciprofloxacin concentration was below MIC and high enough to slow the growth of bacteria in cultures not supplemented with herbicide. At the end of the experiment, bacteria were transferred to solid medium supplemented with ciprofloxacin at &gt;MIC and no herbicide, which was permissive only to the growth of variants with acquired resistance.</p>
+            <p>Acquired resistance rates were the same for cultures grown in LB, LB+Kamba or LB+Cip+Kamba (for both treatment combinations <italic>p</italic> &gt; 0.2; <xref ref-type="table" rid="table-3">Table 3</xref>). The acquired resistance rate in the LB+Cip culture was about 10<sup>5</sup> times higher than the other three cultures (<italic>p</italic> &lt; 10<sup>−4</sup> for all treatment combinations), indicating that the ciprofloxacin concentration met or exceeded the MSC. The addition of Kamba neutralized the selective effect of ciprofloxacin by shifting the MSC to a higher level without changing the MIC.</p>
+            <table-wrap id="table-3">
+               <object-id pub-id-type="doi">10.7717/peerj.5801/table-3</object-id><label>Table 3</label><caption>
+                  <title>Ciprofloxacin resistant variants of <italic>E. coli</italic> BW25113 per generation.</title>
+                  <p><italic>p</italic>-value for comparison between the treatment condition and LB medium. Kamba was used at 1,830 ppm ae, ciprofloxacin concentration was 0.025 µg/mL in liquid and 0.06 µg/mL in solid media.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5801/table-3.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>Treatment</th>
+                           <th>Resistant variants/ generation</th>
+                           <th>SEM</th>
+                           <th><italic>p</italic>-value<sup>a</sup></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>LB</td>
+                           <td>7.5 ×10<sup>−9</sup></td>
+                           <td>3.9 ×10<sup>−9</sup></td>
+                           <td>na</td>
+                        </tr>
+                        <tr>
+                           <td>Kamba</td>
+                           <td>10<sup>−7</sup></td>
+                           <td>6.3 ×10<sup>−8</sup></td>
+                           <td>0.22</td>
+                        </tr>
+                        <tr>
+                           <td>Cip</td>
+                           <td>1.2 ×10<sup>−3</sup></td>
+                           <td>6.5 ×10<sup>−4</sup></td>
+                           <td>2.4 ×10<sup>−6</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Kamba+Cip</td>
+                           <td>5 ×10<sup>−7</sup></td>
+                           <td>4.5 ×10<sup>−7</sup></td>
+                           <td>0.27</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Herbicide-induced changes to MSC are herbicide concentration- dependent</title>
+            <p>Pairs of isogenic strains of <italic>E. coli</italic> (<xref ref-type="table" rid="table-1">Table 1</xref>) with either different streptomycin (Str<sup>high</sup>, Str<sup>low</sup>) or tetracycline (Tet<sup>high</sup>, Tet<sup>low</sup>) MICs were competed for about 40 generations. The frequency of each strain after competition was measured. The concentration of the appropriate antibiotic did not vary between cultures, but the concentration of herbicide did. Combinations were chosen that lead to a decrease in MIC with the chosen herbicide, namely Str+Kamba, and Tet+Roundup.</p>
+            <p>There was no differential in the fitness of paired strains when they were co-cultured in standard rich medium (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). In cultures containing antibiotic but not supplemented with herbicide neither strain had a fitness advantage, indicating that the antibiotic concentration was below MSC. Likewise, the herbicide alone did not affect fitness except for a statistically non-significant effect at the highest tested concentration of Roundup.</p>
+            <fig id="fig-3">
+               <object-id pub-id-type="doi">10.7717/peerj.5801/fig-3</object-id><label>Figure 3</label><caption>
+                  <title>Dose-response to two herbicides with (•) or without (▴) antibiotic (used at a single concentration).</title>
+                  <p>Dose-response of <italic>E. coli</italic> to two herbicides with (•) or without (▴) antibiotic (used at a single concentration). A positive selection coefficient indicates selection for the strain with a higher MIC. Results are averages of three independent experiments. To represent sampling uncertainty in the mean value for treatment groups we present error bars depicting standard errors (standard deviation/√<italic>n</italic>). (A): Kamba+Str, using strains AH204 (Str<sup>high</sup>, MIC<sub>Str</sub>: 200 μg/mL) and AH211 (Str<sup>low</sup>, MIC<sub>Str</sub>: 1 μg/mL); (B): Roundup+Tet, using strains AH201 (Tet<sup>high</sup>, MIC<sub>Tet</sub>: 125 μg/mL) and AH214 (Tet<sup>low</sup>, MIC<sub>Tet</sub>: 1.5 μg/mL). Concentrations of antibiotics were 0.25 μg/mL for Str and 0.05 μg/mL for Tet. Asterisks indicate contrasts where addition of antibiotic significantly changed the strength of selection, based on a Bonferroni corrected contrast described in the ‘Materials and Methods’, with <sup>∗</sup>, <italic>p</italic> &lt; 0.05; <sup>∗∗</sup><italic>p</italic> &lt; 0.01, <sup>∗∗∗</sup>, <italic>p</italic> &lt; 0.001.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5801/fig-3.png"/>
+            </fig>
+            <p>In each test, the combination of antibiotic and herbicide reduced MSC. The more resistant strain invariably increased relative to the isogenic competitor in a herbicide dose-dependent manner when both antibiotic and herbicide were in the environment. Selection coefficients were statistically significantly different from LB medium at 183 parts per million acid equivalent (ppm ae) Kamba and 311 ppm ae Roundup.</p>
+            <p>The observed fitness differential was due to the faster reproductive rate of the Str<sup>high</sup> and Tet<sup>high</sup> strains in environments with sub-lethal concentrations of antibiotic for both strains in each pair. This was shown by measuring the growth rate of the strains in monoculture rather than in competition (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>). No differences were observed for the monoculture growth rate (r) of matched isogenic pairs in LB medium, LB+antibiotic, or LB+herbicide (<italic>p</italic> &gt; 0.1 for all combinations; <xref ref-type="supplementary-material" rid="supp-1">Figs. S1A</xref> and <xref ref-type="supplementary-material" rid="supp-1">S1C</xref>). Only in the combined LB+herbicide+antibiotic treatment did strains with higher MICs have shorter generation times in monoculture than their lower MIC counterparts (<italic>p</italic> = 1.6 ×10<sup>−5</sup> (Kamba+Str) and <italic>p</italic> = 4.7 ×10<sup>−10</sup> (Roundup+Tet)).</p>
+            <p>Significant differences in the carrying capacity of the environments for all treatment combinations were observed for the matched strains exposed to Kamba+Str measured in monoculture. The high MIC strain achieved higher final optical densities (<italic>p</italic> &lt; 2 ×10<sup>−16</sup>; <xref ref-type="supplementary-material" rid="supp-1">Fig. S1B</xref>). In contrast, the Str<sup>low</sup> strain population grew to higher final optical densities in LB, LB+Str, and LB+Kamba treatments. In cultures with Roundup+Tet, Tet<sup>high</sup> and Tet<sup>low</sup> had similar densities (<italic>p</italic> = 0.24, <xref ref-type="supplementary-material" rid="supp-1">Fig. S1D</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>In this study we report that when bacteria are simultaneously exposed to herbicides and antibiotics, mutants with higher levels of resistance can evolve. In some cases, resistance evolved 100,000 times faster.</p>
+         <p>Herbicides can increase the MIC of some antibiotics. At what otherwise would be a lethal concentration of the antibiotic, the bacteria can continue to reproduce. Each reproductive event has a low but steady potential of producing a variant daughter with a higher MIC. We found that these strains have a fitness advantage and accumulate differentially to their low MIC cousins.</p>
+         <p>Herbicides can also decrease the MIC of some antibiotics. At what otherwise would be a concentration of antibiotic below the MSC, too low to have an effect on the fitness of two bacteria differing in their MICs, we found that the bacteria with the higher MICs replaced the bacteria with lower MICs. The shift in MSC seemed to be of a similar magnitude as the shift in MIC observed for the lower MIC strain.</p>
+         <p>Finally, herbicides can also alter survival potential at some antibiotic concentrations but not change the concentration to which the entire population is innately susceptible. In the case presented here, MSC was shifted by the herbicides, but MIC was not. The herbicide mitigated the selective pressure caused by the antibiotic, and no genotypes with higher resistance levels established in the population. Although not tested, it is likely that in the reverse case, when MSC is lowered by a substance, antibiotic resistance may arise at higher frequencies.</p>
+         <p>Our research shows that manufactured chemical products such as the herbicides can have a complex effect on the evolution of antibiotic resistance. They did not replace antibiotics, but could accelerate resistance evolution. Herbicides that reduce the MSC will be more effective at stimulating resistance evolution at the lower ends of the antibiotic concentration gradient, while herbicides that increase the MIC will be more effective at stimulating resistance evolution at the higher ends.</p>
+         <p>Antibiotics can influence acquired resistance evolution in a number of ways. First, some antibiotics may also be mutagens (<xref ref-type="bibr" rid="ref-11">Cirz et al., 2005</xref>) and at sub-lethal concentrations could increase the probability of a mutation conferring resistance arising in the population. Second, they discriminate between the reproductive rate of those with higher and lower tolerances to the toxic effects of the antibiotic, leading to different frequencies of genotypes that are less susceptible. At the environmentally relevant concentrations of herbicide formulations that we used, no mutagenic activity was detected. However, the herbicides did contribute to the ability of antibiotics to change the frequency of resistant variants in populations.</p>
+         <p>Combination treatments using a non-antibiotic to increase an antibiotic’s effectiveness have been suggested to help preserve the usefulness of antibiotics (<xref ref-type="bibr" rid="ref-1">Allen et al., 2014</xref>; <xref ref-type="bibr" rid="ref-36">Schneider et al., 2017</xref>; <xref ref-type="bibr" rid="ref-46">Wright, 2016</xref>). Indeed, various combinations are in clinical use (<xref ref-type="bibr" rid="ref-45">Worthington &amp; Melander, 2013</xref>). While this might improve or enable treatment of an infection, our results indicate that decreasing bacteria’s survival by making an antibiotic more potent may promote resistance evolution by creating more environments in which a resistance genotype is more fit.</p>
+         <p>Herbicides and different ingredients in product formulations can have antimicrobial activities, with some being more potent antimicrobial agents than are others (<xref ref-type="bibr" rid="ref-27">Kurenbach et al., 2017</xref>). For example, Roundup was more toxic than Kamba to the bacteria that we used. The low level toxicity is likely how they induce adaptive resistance, a source of phenotypic heterogeneity (<xref ref-type="bibr" rid="ref-28">Kurenbach et al., 2015</xref>). In addition, biocidal agents that are mutagens may introduce genotypic heterogeneity.</p>
+         <p>Antibiotic and herbicide gradients may be viewed as two environmental dimensions concentrating competition between bacteria of different genotypes and physiotypes. The particular concentrations of antibiotic and herbicide at any point of intersection of the gradients above a threshold level increases the frequency of the most fit strains and species, amplifying any linked or associated traits in the more fit competitor. While antibiotics can do this without herbicides (<xref ref-type="bibr" rid="ref-3">Andersson &amp; Hughes, 2014</xref>; <xref ref-type="bibr" rid="ref-6">Baquero et al., 1998a</xref>; <xref ref-type="bibr" rid="ref-15">Denamur &amp; Matic, 2006</xref>), the herbicides used in this study increased the range of concentrations under which the antibiotic affects the evolution of resistance.</p>
+         <p>The concentrations of herbicides we used were below recommended application levels and hence within relevant environmental ranges, suggesting that what we observe in the laboratory has the potential to occur in many places where both antibiotics and herbicides are found together. Simultaneous herbicide and antibiotic exposures are common. Herbicides are used in agriculture, where spray drift or walking through treated fields exposes farm livestock and pets, which may be on therapeutic or prophylactic antibiotics. Most ingested antibiotic is not metabolized and thus excreted (<xref ref-type="bibr" rid="ref-10">Chee-Sanford et al., 2009</xref>), becoming mixed with soil as crop fertilizer which <italic>in situ</italic> may be subsequently sprayed with herbicide. Microbes from these mixes may be carried by blow- and house-flies (<xref ref-type="bibr" rid="ref-47">Zurek &amp; Ghosh, 2014</xref>). Likewise honeybees may be exposed to herbicide spray or residues as they forage and return to an antibiotic-treated hive. Additionally, herbicides are used in urban environments for purposes like gardening and lawn care, including parks and roadsides (<xref ref-type="bibr" rid="ref-4">Atwood &amp; Paisley-Jones, 2017</xref>). Worldwide, herbicide use was approximately 1 ×10<sup>9</sup> kg in 2012 with up to 2 ×10<sup>8</sup> kg of the active herbicidal ingredients glyphosate, 2, 4-D and dicamba used in the US in 2012 (<xref ref-type="bibr" rid="ref-4">Atwood &amp; Paisley-Jones, 2017</xref>).</p>
+         <p>Other chemicals also have been shown to cause adaptive resistance and to increase resistance frequencies (<xref ref-type="bibr" rid="ref-16">Egeghy et al., 2012</xref>; <xref ref-type="bibr" rid="ref-21">Gustafson et al., 1999</xref>; <xref ref-type="bibr" rid="ref-29">Levy, 2001</xref>). Non-antibiotic prescription medicines and food emulsifiers select antibiotic resistant gut bacteria (<xref ref-type="bibr" rid="ref-27">Kurenbach et al., 2017</xref>; <xref ref-type="bibr" rid="ref-30">Maier et al., 2018</xref>). Approximately 8 million manufactured chemical substances are currently in commerce (<xref ref-type="bibr" rid="ref-16">Egeghy et al., 2012</xref>; <xref ref-type="bibr" rid="ref-38">Shen, Pu &amp; Zhang, 2011</xref>). According to the US Environmental Protection Agency, annual production of each of the top 3,000 chemicals is greater than 6 ×10<sup>11</sup> kg/year (<xref ref-type="bibr" rid="ref-17">EPA, 2008</xref>). They are not regulated for effects on antibiotic resistance and not tested for such effects.</p>
+         <p>The susceptibility of bacteria to antibiotics must be seen as a non-renewable resource, one that requires careful stewardship worldwide (<xref ref-type="bibr" rid="ref-2">Amabile-Cuevas, 2016</xref>; <xref ref-type="bibr" rid="ref-22">Heinemann &amp; Kurenbach, 2017</xref>). Evidence that antibiotic resistance evolution is influenced by exposure of bacteria to a wide range of substances may require us to make changes in how we manage both antibiotics and other manufactured and widely distributed chemical products. This is because many facets of the extrinsic environment induce adaptive changes, a complexity frequently ignored in standard studies of resistance. As our results show, complex effects of exposures to non-therapeutic chemicals may undermine strategies to preserve the effectiveness of antibiotics through altering just their use. To our knowledge, there has been no attempt to systematically test common chemicals to which pathogenic bacteria are chronically exposed for effects on antibiotic resistance.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>Neither reducing the use of antibiotics nor discovery of new ones may prevent the post-antibiotic era. This is because bacteria may be exposed to other non-antibiotic chemicals that predispose them to evolve resistance to antibiotics more quickly. Herbicides are examples of some of the most common non-antibiotic formulations in frequent global use. More research is necessary to see to what extend other different manufactured chemicals may contribute to this effect. Moreover, depending on how the manufactured chemicals are used, or how they move through the waste stream, there may be combinatorial effects caused by mixtures of different products. Future work should take into account likely combinations as well as different ways that microbes could be exposed to chemical products.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/5801/Supp.pdf">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Growth curves of selectively resistant strains of <italic>E. coli</italic> in monoculture with or without herbicide, antibiotic, or both</title>
+               <p>(A, C) determination of the growth rate r of Str high∕low (AH204/AH211) and Tet high∕low (AH201/AH214), respectively. The gray line represents log transformed OD<sub>600</sub> values; the dotted black line represents our estimate of growth during the exponential phase calculated using log(OD) values between 48 and 150 min, the period between the grey dashed vertical lines. In this period log(OD) increased approximately linearly with time indicating exponential growth. (B, D) determination of the carrying capacity k of Str high∕low (AH204/AH211) and Tet high∕low (AH201/AH214), respectively. The gray line represents OD <sub>600</sub> values; the dotted black line represents the estimated logistic curve calculated by fitting a logistic growth model using non-linear least squares. Antibiotics were used 0.25 μg/mL for Str and 0.05 μg/mL for Tet; herbicide concentrations were 1,830 ppm ae Kamba and 311 ppm ae Roundup.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5801/Raw_data_Figure_2.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Raw data for <xref ref-type="fig" rid="fig-2">Fig. 2</xref></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5801/Raw_data_Figure_3.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>Raw data for <xref ref-type="fig" rid="fig-3">Fig. 3</xref></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-4" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5801/Raw_data_Table_2.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-4</object-id><label>Supplemental Information 4</label><caption>
+               <title>Raw data for <xref ref-type="table" rid="table-2">Table 2</xref></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-5" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5801/Raw_data_Table_3.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-5</object-id><label>Supplemental Information 5</label><caption>
+               <title>Raw data for <xref ref-type="table" rid="table-3">Table 3</xref></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-6" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5801/Raw_data_Growth_Curves_Tet+Rup.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-6</object-id><label>Supplemental Information 6</label><caption>
+               <title>Raw data of growth curves tetracycline and roundup</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-7" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5801/Raw_data_Growth_Curves_Strep+Kamba.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5801/supp-7</object-id><label>Supplemental Information 7</label><caption>
+               <title>Raw data of growth curves streptomycin and kamba</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <glossary content-type="abbreviations" id="glossary-1">
+         <title> Abbreviations</title>
+         <def-list id="dl1">
+            <def-item>
+               <term> MIC</term>
+               <def>
+                  <p>minimum inhibitory concentration</p>
+               </def>
+            </def-item>
+            <def-item>
+               <term> MSC</term>
+               <def>
+                  <p>minimum selective concentration</p>
+               </def>
+            </def-item>
+            <def-item>
+               <term> NOEL</term>
+               <def>
+                  <p>no observable effect level</p>
+               </def>
+            </def-item>
+         </def-list>
+      </glossary>
+      <ack>
+         <p>The authors thank Mark Silby for helpful comments.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Brigitta Kurenbach</xref> performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Amy M. Hill</xref> performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">William Godsoe</xref> analyzed the data, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Sophie van Hamelsveld</xref> performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Jack A. Heinemann</xref> conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw data are provided in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Allen et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allen</surname>
+                     <given-names>HK</given-names>
+                  </name>
+                  <name>
+                     <surname>Trachsel</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Looft</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Casey</surname>
+                     <given-names>TA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Finding alternatives to antibiotics</article-title>
+               <source>Annals of the New York Academy of Sciences</source>
+               <volume>1323</volume>
+               <fpage>91</fpage>
+               <lpage>100</lpage>
+               <pub-id pub-id-type="doi">10.1111/nyas.12468</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Amabile-Cuevas (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Amabile-Cuevas</surname>
+                     <given-names>CF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Society must seize control of the antibiotics crisis</article-title>
+               <source>Nature</source>
+               <volume>533</volume>
+               <fpage>439</fpage>
+               <pub-id pub-id-type="doi">10.1038/533439a</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Andersson &amp; Hughes (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andersson</surname>
+                     <given-names>DI</given-names>
+                  </name>
+                  <name>
+                     <surname>Hughes</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Microbiological effects of sublethal levels of antibiotics</article-title>
+               <source>Nature Reviews Microbiology</source>
+               <volume>12</volume>
+               <fpage>465</fpage>
+               <lpage>478</lpage>
+               <pub-id pub-id-type="doi">10.1038/nrmicro3270</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Atwood &amp; Paisley-Jones (2017)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Atwood</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Paisley-Jones</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <source>Pesticide industry sales and usage 2008–2012 market estimates</source>
+               <publisher-name>United States Environmental Protection Agency</publisher-name>
+               <publisher-loc>Washington, D.C.</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Baba et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baba</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Ara</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Hasegawa</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Takai</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Okumura</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Baba</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Datsenko</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Tomita</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Wanner</surname>
+                     <given-names>BL</given-names>
+                  </name>
+                  <name>
+                     <surname>Mori</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Construction of <italic>Escherichia coli</italic> K-12 in-frame, single-gene knockout mutants: the Keio collection</article-title>
+               <source>Molecular Systems Biology</source>
+               <volume>2</volume>
+               <elocation-id>2006.0008</elocation-id>
+               <pub-id pub-id-type="doi">10.1038/msb4100050</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Baquero et al. (1998a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baquero</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Negri</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Morosini</surname>
+                     <given-names>MI</given-names>
+                  </name>
+                  <name>
+                     <surname>Blazquez</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998a</year>
+               <article-title>Antibiotic-selective environments</article-title>
+               <source>Clinical Infactious Diseases</source>
+               <volume>27</volume>
+               <issue>Suppl 1</issue>
+               <fpage>S5</fpage>
+               <lpage>S11</lpage>
+               <pub-id pub-id-type="doi">10.1086/514916</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Baquero et al. (1998b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baquero</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Negri</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Morosini</surname>
+                     <given-names>MI</given-names>
+                  </name>
+                  <name>
+                     <surname>Blazquez</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998b</year>
+               <article-title>Selection of very small differences in bacterial evolution</article-title>
+               <source>International Microbiology</source>
+               <volume>1</volume>
+               <fpage>295</fpage>
+               <lpage>300</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Blair et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Blair</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Webber</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Baylay</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Ogbolu</surname>
+                     <given-names>DO</given-names>
+                  </name>
+                  <name>
+                     <surname>Piddock</surname>
+                     <given-names>LJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Molecular mechanisms of antibiotic resistance</article-title>
+               <source>Nature Reviews Microbiology</source>
+               <volume>13</volume>
+               <fpage>42</fpage>
+               <lpage>51</lpage>
+               <pub-id pub-id-type="doi">10.1038/nrmicro3380</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>CDC (2013)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>CDC</collab>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <source>Antibiotic resistance threats in the United States, 2013</source>
+               <publisher-name>Centers for Disease Control and Prevention</publisher-name>
+               <publisher-loc>Atlanta</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Chee-Sanford et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chee-Sanford</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Mackie</surname>
+                     <given-names>RI</given-names>
+                  </name>
+                  <name>
+                     <surname>Koike</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Krapac</surname>
+                     <given-names>IG</given-names>
+                  </name>
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>YF</given-names>
+                  </name>
+                  <name>
+                     <surname>Yannarell</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Maxwell</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Aminov</surname>
+                     <given-names>RI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Fate and transport of antibiotic residues and antibiotic resistance genes following land application of manure waste</article-title>
+               <source>Journal of Environmental Quality</source>
+               <volume>38</volume>
+               <fpage>1086</fpage>
+               <lpage>1108</lpage>
+               <pub-id pub-id-type="doi">10.2134/jeq2008.0128</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Cirz et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cirz</surname>
+                     <given-names>RT</given-names>
+                  </name>
+                  <name>
+                     <surname>Chin</surname>
+                     <given-names>JK</given-names>
+                  </name>
+                  <name>
+                     <surname>Andes</surname>
+                     <given-names>DR</given-names>
+                  </name>
+                  <name>
+                     <surname>De Crecy-Lagard</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Craig</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Romesberg</surname>
+                     <given-names>FE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Inhibition of mutation and combating the evolution of antibiotic resistance</article-title>
+               <source>PLOS Biology</source>
+               <volume>3</volume>
+               <elocation-id>e176</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pbio.0030176</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Cohen et al. (1989)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cohen</surname>
+                     <given-names>SP</given-names>
+                  </name>
+                  <name>
+                     <surname>McMurry</surname>
+                     <given-names>LM</given-names>
+                  </name>
+                  <name>
+                     <surname>Hooper</surname>
+                     <given-names>DC</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolfson</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Levy</surname>
+                     <given-names>SB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1989">1989</year>
+               <article-title>Cross-resistance to fluoroquinolones in multiple-antibiotic-resistant (Mar) Escherichia coli selected by tetracycline or chloramphenicol: decreased drug accumulation associated with membrane changes in addition to OmpF reduction</article-title>
+               <source>Antimicrobial Agents and Chemotherapy</source>
+               <volume>33</volume>
+               <fpage>1318</fpage>
+               <lpage>1325</lpage>
+               <pub-id pub-id-type="doi">10.1128/AAC.33.8.1318</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Collingnon et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Collingnon</surname>
+                     <given-names>PC</given-names>
+                  </name>
+                  <name>
+                     <surname>Conly</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Andremont</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>McEwen</surname>
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>World Health Organization ranking of antimicrobials according to their importance in human medicine: a critical step for developing risk management strategies to control antimicrobial resistance from food and animal production</article-title>
+               <source>Clinical Infactious Diseases</source>
+               <volume>63</volume>
+               <fpage>1087</fpage>
+               <lpage>1093</lpage>
+               <pub-id pub-id-type="doi">10.1093/cid/ciw475</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Dan et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dan</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Shah</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Justo</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Bookstaver</surname>
+                     <given-names>PB</given-names>
+                  </name>
+                  <name>
+                     <surname>Kohn</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Albrecht</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Al-Hasan</surname>
+                     <given-names>MN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Prediction of fluoroquinolone resistance in gram-negative bacteria causing bloodstream infections</article-title>
+               <source>Antimicrobial Agents and Chemotherapy</source>
+               <volume>60</volume>
+               <fpage>2265</fpage>
+               <lpage>2272</lpage>
+               <pub-id pub-id-type="doi">10.1128/AAC.02728-15</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Denamur &amp; Matic (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Denamur</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Matic</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Evolution of mutation rates in bacteria</article-title>
+               <source>Molecular Microbiology</source>
+               <volume>60</volume>
+               <fpage>820</fpage>
+               <lpage>827</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2958.2006.05150.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Egeghy et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Egeghy</surname>
+                     <given-names>PP</given-names>
+                  </name>
+                  <name>
+                     <surname>Judson</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Gangwal</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Mosher</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Vail</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Cohen Ubal</surname>
+                     <given-names>EA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>The exposure data landscape for manufactured chemicals</article-title>
+               <source>Science of the Total Environment</source>
+               <volume>414</volume>
+               <fpage>159</fpage>
+               <lpage>166</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2011.10.046</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>EPA (2008)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <collab>EPA</collab>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <collab>US Environmental Protection Agency</collab>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <source>2006 inventory update reporting: data summary</source>
+               <institution>US Environmental Protection Agency</institution>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Fernandez, Breidenstein &amp; Hancock (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fernandez</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Breidenstein</surname>
+                     <given-names>EB</given-names>
+                  </name>
+                  <name>
+                     <surname>Hancock</surname>
+                     <given-names>RE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Creeping baselines and adaptive resistance to antibiotics</article-title>
+               <source>Drug Resistance Updates</source>
+               <volume>14</volume>
+               <fpage>1</fpage>
+               <lpage>21</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.drup.2011.01.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Fernandez &amp; Hancock (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fernandez</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Hancock</surname>
+                     <given-names>RE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Adaptive and mutational resistance: role of porins and efflux pumps in drug resistance</article-title>
+               <source>Clinical Microbiology Reviews</source>
+               <volume>25</volume>
+               <fpage>661</fpage>
+               <lpage>681</lpage>
+               <pub-id pub-id-type="doi">10.1128/CMR.00043-12</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Funchain et al. (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Funchain</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Yeung</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Stewart</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Clendenin</surname>
+                     <given-names>WM</given-names>
+                  </name>
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>JH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Amplification of mutator cells in a population as a result of horizontal gene transfer</article-title>
+               <source>Journal of Bacteriology</source>
+               <volume>183</volume>
+               <fpage>3737</fpage>
+               <lpage>3741</lpage>
+               <pub-id pub-id-type="doi">10.1128/JB.183.12.3737-3741.2001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Gustafson et al. (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gustafson</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Candelaria</surname>
+                     <given-names>PV</given-names>
+                  </name>
+                  <name>
+                     <surname>Fisher</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Goodridge</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name>
+                     <surname>Lichocik</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>McWilliams</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>Price</surname>
+                     <given-names>CT</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Brien</surname>
+                     <given-names>FG</given-names>
+                  </name>
+                  <name>
+                     <surname>Grubb</surname>
+                     <given-names>WB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Growth in the presence of salicylate increases fluoroquinolone resistance in Staphylococcus aureus</article-title>
+               <source>Antimicrobial Agents and Chemotherapy</source>
+               <volume>43</volume>
+               <fpage>990</fpage>
+               <lpage>992</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Heinemann &amp; Kurenbach (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heinemann</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kurenbach</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Post-antibiotic era is business as usual</article-title>
+               <source>Alliance for the Prudent Use of Antibiotics (APUA) Newsletter</source>
+               <volume>35</volume>
+               <fpage>7</fpage>
+               <lpage>9</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Heinemann, Scott &amp; Williams (1996)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heinemann</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Scott</surname>
+                     <given-names>HE</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>Doing the conjugative two-step: evidence of recipient autonomy in retrotransfer</article-title>
+               <source>Genetics</source>
+               <volume>143</volume>
+               <fpage>1425</fpage>
+               <lpage>1435</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Heinemann &amp; Sprague Jr (1989)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heinemann</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Sprague Jr</surname>
+                     <given-names>GF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1989">1989</year>
+               <article-title>Bacterial conjugative plasmids mobilize DNA transfer between bacteria and yeast</article-title>
+               <source>Nature</source>
+               <volume>340</volume>
+               <fpage>205</fpage>
+               <lpage>209</lpage>
+               <pub-id pub-id-type="doi">10.1038/340205a0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Hermsen, Deris &amp; Hwa (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hermsen</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Deris</surname>
+                     <given-names>JB</given-names>
+                  </name>
+                  <name>
+                     <surname>Hwa</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>On the rapidity of antibiotic resistance evolution facilitated by a concentration gradient</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>109</volume>
+               <fpage>10775</fpage>
+               <lpage>10780</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1117716109</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Hothorn, Bretz &amp; Westfall (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hothorn</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Bretz</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Westfall</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Simultaneous inference in general parametric models</article-title>
+               <source>Biometrical Journal</source>
+               <volume>50</volume>
+               <fpage>346</fpage>
+               <lpage>363</lpage>
+               <pub-id pub-id-type="doi">10.1002/bimj.200810425</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Kurenbach et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kurenbach</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibson</surname>
+                     <given-names>PS</given-names>
+                  </name>
+                  <name>
+                     <surname>Hill</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bitzer</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                  <name>
+                     <surname>Silby</surname>
+                     <given-names>MW</given-names>
+                  </name>
+                  <name>
+                     <surname>Godsoe</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Heinemann</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Herbicide ingredients change Salmonella enterica sv. Typhimurium and Escherichia coli antibiotic responses</article-title>
+               <source>Microbiology</source>
+               <volume>163</volume>
+               <fpage>1791</fpage>
+               <lpage>1801</lpage>
+               <pub-id pub-id-type="doi">10.1099/mic.0.000573</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Kurenbach et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kurenbach</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Marjoshi</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Amabile-Cuevas</surname>
+                     <given-names>CF</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferguson</surname>
+                     <given-names>GC</given-names>
+                  </name>
+                  <name>
+                     <surname>Godsoe</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibson</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Heinemann</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Sublethal exposure to commercial formulations of the herbicides dicamba, 2, 4-dichlorophenoxyacetic acid, and glyphosate cause changes in antibiotic susceptibility in <italic>Escherichia coli</italic> and <italic>Salmonella enterica</italic> serovar Typhimurium</article-title>
+               <source>mBio</source>
+               <volume>6</volume>
+               <elocation-id>e00009-15</elocation-id>
+               <pub-id pub-id-type="doi">10.1128/mBio.00009-15</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Levy (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levy</surname>
+                     <given-names>SB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Antibacterial household products: cause for concern</article-title>
+               <source>Emerging Infectious Diseases</source>
+               <volume>7</volume>
+               <fpage>512</fpage>
+               <lpage>515</lpage>
+               <pub-id pub-id-type="doi">10.3201/eid0707.010705</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Maier et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maier</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Pruteanu</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kuhn</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Zeller</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Telzerow</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>EE</given-names>
+                  </name>
+                  <name>
+                     <surname>Brochado</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Fernandez</surname>
+                     <given-names>KC</given-names>
+                  </name>
+                  <name>
+                     <surname>Dose</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Mori</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Patil</surname>
+                     <given-names>KR</given-names>
+                  </name>
+                  <name>
+                     <surname>Bork</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Typas</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Extensive impact of non-antibiotic drugs on human gut bacteria</article-title>
+               <source>Nature</source>
+               <volume>555</volume>
+               <fpage>623</fpage>
+               <lpage>628</lpage>
+               <pub-id pub-id-type="doi">10.1038/nature25979</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Mallet (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mallet</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>The struggle for existence: how the notion of carrying capacity, K, obscures the links between demography, Darwinian evolution, and speciation</article-title>
+               <source>Evolutionary Ecology Research</source>
+               <volume>14</volume>
+               <fpage>627</fpage>
+               <lpage>665</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Palmer &amp; Kishony (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palmer</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Kishony</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Understanding, predicting and manipulating the genotypic evolution of antibiotic resistance</article-title>
+               <source>Nature Reviews Genetics</source>
+               <volume>14</volume>
+               <fpage>243</fpage>
+               <lpage>248</lpage>
+               <pub-id pub-id-type="doi">10.1038/nrg3351</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>R Core Team (2013)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>R Core Team</collab>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <data-title>R: a language and environment for statistical computing</data-title>
+               <publisher-name>R Foundation for Statistical Computing</publisher-name>
+               <publisher-loc>Vienna</publisher-loc>
+               <uri>http://www.R-project.org/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Roantree, Kuo &amp; MacPhee (1977)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Roantree</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Kuo</surname>
+                     <given-names>TT</given-names>
+                  </name>
+                  <name>
+                     <surname>MacPhee</surname>
+                     <given-names>DG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1977">1977</year>
+               <article-title>The effect of defined lipopolysaccharide core defects upon antibiotic resistances of <italic>Salmonella typhimurium</italic></article-title>
+               <source>Journal of General Microbiology</source>
+               <volume>103</volume>
+               <fpage>223</fpage>
+               <lpage>234</lpage>
+               <pub-id pub-id-type="doi">10.1099/00221287-103-2-223</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Sanchez-Romero &amp; Casadesus (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sanchez-Romero</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Casadesus</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Contribution of phenotypic heterogeneity to adaptive antibiotic resistance</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>111</volume>
+               <fpage>355</fpage>
+               <lpage>360</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1316084111</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Schneider et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schneider</surname>
+                     <given-names>EK</given-names>
+                  </name>
+                  <name>
+                     <surname>Reyes-Ortega</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Velkov</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Antibiotic-non-antibiotic combinations for combating extremely drug-resistant Gram-negative ‘superbugs’</article-title>
+               <source>Essays in Biochemistry</source>
+               <volume>61</volume>
+               <fpage>115</fpage>
+               <lpage>125</lpage>
+               <pub-id pub-id-type="doi">10.1042/EBC20160058</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Scholz et al. (1989)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scholz</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Haring</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Wittmann-Liebold</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Ashman</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Bagdasarian</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Scherzinger</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1989">1989</year>
+               <article-title>Complete nucleotide sequence and gene organization of the broad-host-range plasmid RSF1010</article-title>
+               <source>Gene</source>
+               <volume>75</volume>
+               <fpage>271</fpage>
+               <lpage>288</lpage>
+               <pub-id pub-id-type="doi">10.1016/0378-1119(89)90273-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Shen, Pu &amp; Zhang (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shen</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Pu</surname>
+                     <given-names>XY</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>Q</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Salicylate functions as an efflux pump inducer and promotes the emergence of fluoroquinolone-resistant Campylobacter jejuni mutants</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>77</volume>
+               <fpage>7128</fpage>
+               <lpage>7133</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.00763-11</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Stockwell &amp; Duffy (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Stockwell</surname>
+                     <given-names>VO</given-names>
+                  </name>
+                  <name>
+                     <surname>Duffy</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Use of antibiotics in plant agriculture</article-title>
+               <source>Scientific and Technical Review of the Office International des Epizooties</source>
+               <volume>31</volume>
+               <fpage>199</fpage>
+               <lpage>210</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Sutcliffe (1979)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sutcliffe</surname>
+                     <given-names>JG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1979">1979</year>
+               <article-title>Complete nucleotide sequence of the <italic>Escherichia coli</italic> plasmid pBR322</article-title>
+               <source>Cold Spring Harbour Symposia on Quantitative Biology</source>
+               <volume>43</volume>
+               <issue>Pt 1</issue>
+               <fpage>77</fpage>
+               <lpage>90</lpage>
+               <pub-id pub-id-type="doi">10.1101/SQB.1979.043.01.013</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Teillant et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Teillant</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Gandra</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Barter</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Morgan</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Laxminarayan</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Potential burden of antibiotic resistance on surgery and cancer chemotherapy antibiotic prophylaxis in the USA: a literature review and modelling study</article-title>
+               <source>Lancet Infectious Diseases</source>
+               <volume>15</volume>
+               <fpage>1429</fpage>
+               <lpage>1437</lpage>
+               <pub-id pub-id-type="doi">10.1016/S1473-3099(15)00270-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Thomas, Smith &amp; Tilyard (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Tilyard</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Rising antimicrobial resistance: a strong reason to reduce excessive antimicrobial consumption in New Zealand</article-title>
+               <source>New Zealand Medical Journal</source>
+               <volume>127</volume>
+               <fpage>72</fpage>
+               <lpage>84</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Van Boeckel et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Boeckel</surname>
+                     <given-names>TP</given-names>
+                  </name>
+                  <name>
+                     <surname>Brower</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Gilbert</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Grenfell</surname>
+                     <given-names>BT</given-names>
+                  </name>
+                  <name>
+                     <surname>Levin</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Robinson</surname>
+                     <given-names>TP</given-names>
+                  </name>
+                  <name>
+                     <surname>Teillant</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Laxminarayan</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Global trends in antimicrobial use in food animals</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>112</volume>
+               <fpage>5649</fpage>
+               <lpage>5654</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1503141112</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Van den Bosch et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van den Bosch</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Oliver</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Van den Berg</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Paveley</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Governing principles can guide fungicide-resistance management tactics</article-title>
+               <source>Annual Reviews Phytopathology</source>
+               <volume>52</volume>
+               <fpage>175</fpage>
+               <lpage>195</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev-phyto-102313-050158</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Worthington &amp; Melander (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Worthington</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Melander</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Combination approaches to combat multidrug-resistant bacteria</article-title>
+               <source>Trends in Biotechnology</source>
+               <volume>31</volume>
+               <fpage>177</fpage>
+               <lpage>184</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tibtech.2012.12.006</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Wright (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wright</surname>
+                     <given-names>GD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Antibiotic adjuvants: rescuing antibiotics from resistance</article-title>
+               <source>Trends in Microbiology</source>
+               <volume>24</volume>
+               <fpage>862</fpage>
+               <lpage>871</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tim.2016.06.009</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Zurek &amp; Ghosh (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zurek</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Ghosh</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Insects represent a link between food animal farms and the urban environment for antibiotic resistance traits</article-title>
+               <source>Applied Environmental Microbiology</source>
+               <volume>80</volume>
+               <fpage>3562</fpage>
+               <lpage>3567</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.00600-14</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

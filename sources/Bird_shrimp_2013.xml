@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">200</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.200</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Biogeography</subject>
+          <subject>Ecology</subject>
+          <subject>Evolutionary Studies</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bird migratory flyways influence the phylogeography of the invasive brine shrimp <italic>Artemia franciscana</italic> in its native American range</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Muñoz</surname>
+            <given-names>Joaquín</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Amat</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Green</surname>
+            <given-names>Andy J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author">
+          <name>
+            <surname>Figuerola</surname>
+            <given-names>Jordi</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-5" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Gómez</surname>
+            <given-names>Africa</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+          <email>a.gomez@hull.ac.uk</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Department of Wetland Ecology, Estación Biológica de Doñana (CSIC)</institution>, <addr-line>Seville</addr-line>, <country>Spain</country>
+            </aff>
+        <aff id="aff-2"><label>2</label><institution>Instituto de Acuicultura de Torre de la Sal (CSIC)</institution>, <addr-line>Castellón</addr-line>, <country>Spain</country>
+            </aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Biological Sciences, University of Hull</institution>, <addr-line>Hull</addr-line>, <country>UK</country>
+            </aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Huang</surname>
+            <given-names>Xiaolei</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-11-07">
+        <day>7</day>
+        <month>11</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e200</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-07-25">
+          <day>25</day>
+          <month>7</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-10-12">
+          <day>12</day>
+          <month>10</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Muoz et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Muoz et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/200"/>
+      <abstract>
+        <p>Since Darwin’s time, waterbirds have been considered an important vector for the dispersal of continental aquatic invertebrates. Bird movements have facilitated the worldwide invasion of the American brine shrimp <italic>Artemia franciscana</italic>, transporting cysts (diapausing eggs), and favouring rapid range expansions from introduction sites. Here we address the impact of bird migratory flyways on the population genetic structure and phylogeography of <italic>A. franciscana</italic> in its native range in the Americas. We examined sequence variation for two mitochondrial gene fragments (COI and 16S for a subset of the data) in a large set of population samples representing the entire native range of <italic>A. franciscana</italic>. Furthermore, we performed Mantel tests and redundancy analyses (RDA) to test the role of flyways, geography and human introductions on the phylogeography and population genetic structure at a continental scale. <italic>A. franciscana</italic> mitochondrial DNA was very diverse, with two main clades, largely corresponding to Pacific and Atlantic populations, mirroring American bird flyways. There was a high degree of regional endemism, with populations subdivided into at least 12 divergent, geographically restricted and largely allopatric mitochondrial lineages, and high levels of population structure (Φ<sub><italic>ST</italic></sub> of 0.92), indicating low ongoing gene flow. We found evidence of human-mediated introductions in nine out of 39 populations analysed. Once these populations were removed, Mantel tests revealed a strong association between genetic variation and geographic distance (i.e., isolation-by-distance pattern). RDA showed that shared bird flyways explained around 20% of the variance in genetic distance between populations and this was highly significant, once geographic distance was controlled for. The variance explained increased to 30% when the factor human introduction was included in the model. Our findings suggest that bird-mediated transport of brine shrimp propagules does not result in substantial ongoing gene flow; instead, it had a significant historical role on the current species phylogeography, facilitating the colonisation of new aquatic environments as they become available along their main migratory flyways.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Bird migration</kwd>
+        <kwd>Passive dispersal</kwd>
+        <kwd>Migratory flyways</kwd>
+        <kwd>Continental colonization</kwd>
+        <kwd>16S rDNA</kwd>
+        <kwd>COI</kwd>
+        <kwd>Isolation-by-distance</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>National Environment Research Council (NERC) Advanced Fellowship</funding-source>
+          <award-id>NE/B501298/1</award-id>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>Junta de Andalucía Excelence Project</funding-source>
+          <award-id>P07-RNM-02511</award-id>
+        </award-group>
+        <award-group id="fund-3">
+          <funding-source>European Science Foundation (ESF)</funding-source>
+        </award-group>
+        <award-group id="fund-4">
+          <funding-source>Research Networking Program Activity</funding-source>
+          <award-id>ConGenOmics - EX/3646</award-id>
+        </award-group>
+        <award-group id="fund-5">
+          <funding-source>Spanish Ministry of Science and Innovation</funding-source>
+          <award-id>PR2008-0293</award-id>
+        </award-group>
+        <award-group id="fund-6">
+          <funding-source>Ministerio de Ciencia e Innovación</funding-source>
+          <award-id>Project CGL2010-16028</award-id>
+        </award-group>
+        <funding-statement>AG was supported by a National Environment Research Council (NERC) Advanced Fellowship (NE/B501298/1). JM was supported by a Junta de Andalucía Excelence Project (P07-RNM-02511) and a European Science Foundation (ESF) grant awarded from the Research Networking Program Activity (ConGenOmics - EX/3646). AJG’s sampling work in Canada was supported by a mobility grant from the Spanish Ministry of Science and Innovation (PR2008-0293) and help from MT Bidwell, and was otherwise supported by the Ministerio de Ciencia e Innovación (Project CGL2010-16028, including FEDER funds). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Since <xref ref-type="bibr" rid="ref-25">Darwin (1859)</xref>, the role of birds as dispersal vectors for the diapausing propagules of continental aquatic organisms has been recognized (<xref ref-type="bibr" rid="ref-17">Carlquist, 1983</xref>; <xref ref-type="bibr" rid="ref-8">Bilton, Freeland &amp; Okamura, 2001</xref>; <xref ref-type="bibr" rid="ref-40">Green &amp; Figuerola, 2005</xref>). A range of studies have emphasized the importance of dispersal at short and long range by waterbirds for both passively dispersed aquatic invertebrates – through their diapausing eggs or other dispersing stages – and plants – through their seeds – (<xref ref-type="bibr" rid="ref-31">Figuerola &amp; Green, 2002</xref>; <xref ref-type="bibr" rid="ref-40">Green &amp; Figuerola, 2005</xref>; <xref ref-type="bibr" rid="ref-42">Green et al., 2008</xref>; <xref ref-type="bibr" rid="ref-13">Brochet et al., 2010a</xref>; <xref ref-type="bibr" rid="ref-14">Brochet et al., 2010b</xref>; <xref ref-type="bibr" rid="ref-81">van Leeuwen et al., 2012a</xref>; <xref ref-type="bibr" rid="ref-82">van Leeuwen et al., 2012b</xref>). Such long-distance, bird-mediated dispersal between aquatic habitats should result in high population gene flow and reduced population or phylogeographic structure. In stark contrast to this prediction, ongoing gene flow between populations has consistently been found to be low (<xref ref-type="bibr" rid="ref-10">Boileau, Hebert &amp; Schwartz, 1992</xref>; <xref ref-type="bibr" rid="ref-27">De Meester et al., 2002</xref>) and phylogeographic structures quite marked, with high levels of endemism (<xref ref-type="bibr" rid="ref-37">Gómez, Carvalho &amp; Lunt, 2000</xref>; <xref ref-type="bibr" rid="ref-38">Gómez et al., 2007a</xref>; <xref ref-type="bibr" rid="ref-26">De Gelas &amp; De Meester, 2005</xref>; <xref ref-type="bibr" rid="ref-62">Muñoz et al., 2008</xref>). This paradox has been explained through a combination of high population growth rates, rapid local adaptation and a buffering effect of large egg banks accumulated in sediments, resulting in a monopolisation of resources by the few initial founders, reducing the impact of further immigrants on population structure – what was termed the “monopolisation hypothesis” (<xref ref-type="bibr" rid="ref-27">De Meester et al., 2002</xref>). Consistent with this hypothesis, several studies failed to uncover any relationship between the geographic distribution of genetic lineages and bird migration patterns (<xref ref-type="bibr" rid="ref-38">Gómez et al., 2007a</xref>; <xref ref-type="bibr" rid="ref-58">Mills, Lunt &amp; Gómez, 2007</xref>; <xref ref-type="bibr" rid="ref-62">Muñoz et al., 2008</xref>). In contrast, the perceived similarity between bird migratory pathways and the distribution of passively dispersed invertebrate genetic lineages suggests that waterfowl are important dispersal vectors (<xref ref-type="bibr" rid="ref-77">Taylor, Finston &amp; Hebert, 1998</xref>; <xref ref-type="bibr" rid="ref-33">Freeland, Romualdi &amp; Okamura, 2000</xref>; <xref ref-type="bibr" rid="ref-45">Hebert, Witt &amp; Adamowicz, 2003</xref>). In fact, <xref ref-type="bibr" rid="ref-32">Figuerola, Green &amp; Michot (2005)</xref> tested explicitly the relationship between bird movements and aquatic invertebrate population genetic structure, revealing a significant association between historical ringing data – used as a proxy of bird-mediated dispersal between populations – and population genetic distances for two cladocerans and a bryozoan in North America, concluding that birds significantly contributed to effective dispersal.</p>
+      <p>Given that continental aquatic invertebrates are unlikely to be in migration-drift equilibrium (<xref ref-type="bibr" rid="ref-10">Boileau, Hebert &amp; Schwartz, 1992</xref>; <xref ref-type="bibr" rid="ref-38">Gómez et al., 2007a</xref>), recent studies have interpreted population isolation-by-distance (IBD) patterns as a signature of historical patterns due to sequential colonisation events, as newly available habitats are more likely to be colonised by nearby populations, with little further impact of gene flow (<xref ref-type="bibr" rid="ref-38">Gómez et al., 2007a</xref>; <xref ref-type="bibr" rid="ref-58">Mills, Lunt &amp; Gómez, 2007</xref>; <xref ref-type="bibr" rid="ref-62">Muñoz et al., 2008</xref>). Therefore, associations between bird movements and genetic distance in aquatic invertebrates based on mitochondrial markers could result from bird-mediated historical colonisation of newly available habitats, instead of ongoing gene flow (<xref ref-type="bibr" rid="ref-32">Figuerola, Green &amp; Michot, 2005</xref>). Shedding light on the role of bird movements on the geographic distribution of genetic lineages would help us to understand the structuring of genetic diversity and phylogeography in passively dispersed aquatic invertebrates.</p>
+      <p><italic>Artemia franciscana</italic> (Kellogg, 1906)(Crustacea: Anostraca), the most widely distributed brine shrimp in America, occurs in hypersaline habitats from Canada to Chile and many Atlantic islands (<xref ref-type="bibr" rid="ref-47">Hontoria &amp; Amat, 1992</xref>). It is found in a wide diversity of isolated water bodies, including coastal rock pools and lagoons, inland playas and high mountain salt lakes, permanent prairie salt lakes and commercial salt works (<xref ref-type="bibr" rid="ref-84">Van Stappen, 2002</xref>), spanning an extreme range of water chemistry compositions and salinity from high carbonate, or high sulphate athalasic waters to seawater salterns (<xref ref-type="bibr" rid="ref-12">Bowen, Buoncristiani &amp; Carl, 1988</xref>). It is a sexual species, and females produce two types of eggs: subitaneous eggs in benign environmental conditions suitable for population growth, and diapausing eggs (i.e., cysts) during adverse conditions. <italic>Artemia</italic> cysts are amongst the most resistant animal life forms, surviving extreme environmental stresses including UV radiation, desiccation, thermal extremes and anoxia (<xref ref-type="bibr" rid="ref-22">Clegg, 2005</xref>). Cysts accumulate at the shoreline and in egg banks in lake sediments (<xref ref-type="bibr" rid="ref-61">Moscatello &amp; Belmonte, 2009</xref>), and are readily dispersed by birds, which are the main vectors between catchments. Wind dispersal occurs but over much shorter distances (&lt;1 km, <xref ref-type="bibr" rid="ref-83">Vanschoenwinkel et al., 2009</xref>). Many migratory bird species, especially shorebirds, use <italic>Artemia</italic> habitats and adult brine shrimp – often carrying viable cysts – can make up a substantial component of their diet (<xref ref-type="bibr" rid="ref-7">Anderson, 1970</xref>; <xref ref-type="bibr" rid="ref-71">Sánchez, Green &amp; Castellanos, 2005</xref>; <xref ref-type="bibr" rid="ref-85">Varo et al., 2011</xref>; <xref ref-type="bibr" rid="ref-86">Vest &amp; Conover, 2011</xref>). Birds can disperse cysts between habitats either externally – attached to their feathers or feet – or internally in their digestive tract (<xref ref-type="bibr" rid="ref-14">Brochet et al., 2010b</xref>; <xref ref-type="bibr" rid="ref-43">Green et al., 2005</xref>; <xref ref-type="bibr" rid="ref-41">Green et al., 2013</xref>; <xref ref-type="bibr" rid="ref-70">Sánchez et al., 2007</xref>; <xref ref-type="bibr" rid="ref-72">Sánchez et al., 2012</xref>). Research showing the internal transport of viable <italic>A. franciscana</italic> cysts in the field by the American Avocet, <italic>Recurvirostra americana</italic> (AJG, unpublished data), confirms shorebirds as an effective agent of dispersal in North America (see also <xref ref-type="bibr" rid="ref-43">Green et al., 2005</xref>). Recently, <xref ref-type="bibr" rid="ref-87">Viana et al. (2013)</xref> estimated the maximum dispersal for <italic>Artemia</italic> cysts via wildfowl as between 230 and 1209 km based on gut passage times of cysts ingested by captive ducks and the distances moved by wild ducks.</p>
+      <p>Populations of <italic>A. franciscana</italic> have substantial levels of genetic (<xref ref-type="bibr" rid="ref-2">Abreu-Grobois &amp; Beardmore, 1982</xref>; <xref ref-type="bibr" rid="ref-35">Gajardo et al., 1995</xref>; <xref ref-type="bibr" rid="ref-57">Maniatsi et al., 2009</xref>) and morphological variation (<xref ref-type="bibr" rid="ref-47">Hontoria &amp; Amat, 1992</xref>), and are locally adapted to the ionic composition of their habitats (<xref ref-type="bibr" rid="ref-12">Bowen, Buoncristiani &amp; Carl, 1988</xref>). Indeed, effective reproductive isolation between some populations is due to different ranges of tolerance to ionic compositions (<xref ref-type="bibr" rid="ref-12">Bowen, Buoncristiani &amp; Carl, 1988</xref>), and so this taxon is regarded by some authors as a “superspecies” (<xref ref-type="bibr" rid="ref-12">Bowen, Buoncristiani &amp; Carl, 1988</xref>). Nevertheless, despite half a century of research for aquaculture and ecotoxicology, comprehensive large-scale phylogeographic surveys of <italic>A. franciscana</italic> are lacking.</p>
+      <p>Cysts from <italic>A. franciscana</italic> – harvested mainly from populations in the San Francisco Bay saltworks and the Great Salt Lake in the USA – have been used globally as a food source in aquaculture and in the pet fish trade for decades (<xref ref-type="bibr" rid="ref-1">Abatzopoulos, 2002</xref>; <xref ref-type="bibr" rid="ref-6">Amat et al., 2005</xref>; <xref ref-type="bibr" rid="ref-5">Amat et al., 2007</xref>). Effluents from fish farms are likely to contain cysts that can potentially colonise nearby natural wetlands. In addition, the introduction of <italic>A. franciscana</italic> has been and still is promoted worldwide to increase salt production or to generate local sources of cysts until as recently as 1993 (<xref ref-type="bibr" rid="ref-75">Tackaert &amp; Sorgeloos, 1993</xref>; <xref ref-type="bibr" rid="ref-74">Sui et al., 2012</xref>). As a result of such accidental and intentional inoculations, <italic>A. franciscana</italic> has become an invasive species in saline and hypersaline wetlands worldwide (<xref ref-type="bibr" rid="ref-63">Muñoz &amp; Pacios, 2010</xref>; J Muñoz, A Gómez, J Figuerola, F Amat, C Rico, AJ Green, 2013 unpublished). For instance, this invasion has led to rapid local extinction of native <italic>Artemia</italic> species in the Mediterranean region (<xref ref-type="bibr" rid="ref-6">Amat et al., 2005</xref>). Commercial strains of <italic>A. franciscana</italic> were also introduced in various American sites in the 1970s (<xref ref-type="bibr" rid="ref-16">Camara, 2001</xref>; <xref ref-type="bibr" rid="ref-4">Amat et al., 2004</xref>). In Brazil, further spreading of the species, probably via bird movements, was noticed within a few years of its introduction in areas where it was previously absent (<xref ref-type="bibr" rid="ref-16">Camara, 2001</xref>). However, the impact of these introductions on the genetic diversity and structure of native American populations has yet to be investigated.</p>
+      <p><italic>Artemia franciscana</italic> represents a very interesting model to test the effect of bird movements on the geographic distribution of genetic lineages and patterns of genetic variation in aquatic invertebrates since (1) its distribution encompasses three continental-scale bird migratory flyways spanning both North and South America (i.e., the Pacific, Central and Atlantic flyways), but is highly fragmented due to its habitat requirements (hypersaline lakes), (2) its habitats are frequented by migratory shorebirds; <italic>Artemia</italic> is an important prey of these and other waterbirds and its cysts can be readily quantified in waterbird excreta (<xref ref-type="bibr" rid="ref-43">Green et al., 2005</xref>; <xref ref-type="bibr" rid="ref-70">Sánchez et al., 2007</xref>), and (3) the intentional or accidental inoculations outside the native range may be affecting its natural population genetic structure.</p>
+      <p>Here, we carry out the first comprehensive phylogeographic study of <italic>A. franciscana</italic> throughout its known native range (i.e., from Central Canada to southern Chile and Argentina, including the Caribbean islands) using sequence variation for two mitochondrial genes (COI and 16S). Our results indicate a high level of genetic structure and endemism at a continental scale, identify the impact of human introductions and suggest a direct link between bird migratory routes (i.e., flyways) and the historical colonization of <italic>A. franciscana</italic> throughout the Americas, revealing a key role for birds in initial founder events.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Samples, laboratory procedures, and sequences</title>
+        <p>We obtained samples from 39 <italic>A. franciscana</italic> populations across its American geographical distribution, from Canada to Chile and Argentina, including Caribbean islands and a population from Cape Verde (<xref ref-type="table" rid="table-1">Table 1</xref> and <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Most samples were cysts obtained from the ‘cyst-bank’ of the Instituto de Acuicultura de Torre de la Sal (CSIC, Castellón, Spain), collected between 1984 and 2000. Four Canadian samples were collected in the field in 2009, two of them (MANW and CHAP) as adults, which were preserved in absolute ethanol until needed. An additional cyst sample from Mono Lake (USA), collected in the 1970s was kindly provided by the Artemia Reference Centre (ARC 270). A few cyst samples that yielded poor quality DNA extractions were subject to hatching and the resulting nauplii used for DNA extractions (i.e., MexCB and GUA samples).</p>
+        <fig id="fig-1">
+          <object-id pub-id-type="doi">10.7717/peerj.200/fig-1</object-id>
+          <label>Figure 1</label>
+          <caption>
+            <title>Map of <italic>Artemia franciscana</italic> sampled sites and American bird migratory flyways.</title>
+            <p>The sampled populations are shown, with indication of the main American migratory flyways following Birdlife International (see text for details). Green shading: Pacific flyway, red shading: Central flyway, blue shading, Atlantic flyway.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/fig-1.png"/>
+        </fig>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.200/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title><italic>Artemia franciscana</italic> populations sampled.</title>
+            <p>Population code, year of sampling, COI haplotype code, number of individuals per haplotype per population (<italic>N</italic><sub>HAP</sub>) and number of individuals sequenced per population (<italic>N</italic><sub>TOTAL</sub>), are given for each sampling site. <italic>Hs</italic>, Standard gene diversity; π, Nucleotide diversity; N.A., Insufficient data to calculate <italic>Hs</italic> (the minimum sample size per population performed by RAREFAC was 11). The main commercialised USA populations (i.e., SFB and GSL) and haplotypes from these populations shared with other populations are shown in red. Populations considered as introduced are indicated in bold. Only populations collected as part of this study are included.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/table-1.png"/>
+            <table content-type="text">
+              <colgroup>
+                <col align="left"/>
+                <col align="justify"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="justify"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Code</th>
+                  <th style="text-align:left;white-space:normal;">Population (year)</th>
+                  <th>COI haplotypes</th>
+                  <th align="left">
+                    <italic>N</italic>
+                    <sub>HAP</sub>
+                  </th>
+                  <th align="left">
+                    <italic>N</italic>
+                    <sub>TOTAL</sub>
+                  </th>
+                  <th align="left">
+                    <italic>Hs</italic>
+                  </th>
+                  <th align="left">π</th>
+                  <th align="left" style="text-align:left;white-space:normal;">Refs. for introduction</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">MexCe</td>
+                  <td style="text-align:left;white-space:normal;">Celestún, Yucatán, México (1984)</td>
+                  <td>Af01</td>
+                  <td align="left">15</td>
+                  <td align="left">15</td>
+                  <td align="left">0.000</td>
+                  <td align="left">0.0000</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">Mex99</td>
+                  <td style="text-align:left;white-space:normal;">Real de las Salinas,<break/>Campeche,<break/>México (1999)</td>
+                  <td>Af01</td>
+                  <td align="left">14</td>
+                  <td align="left">14</td>
+                  <td align="left">0.000</td>
+                  <td align="left">0.0000</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">MexY</td>
+                  <td style="text-align:left;white-space:normal;">Yavaros, Sonora,<break/>México (1993)</td>
+                  <td>Af02; Af03</td>
+                  <td align="left">1; 11</td>
+                  <td align="left">12</td>
+                  <td align="left">0.167</td>
+                  <td align="left">0.0003</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">MexH</td>
+                  <td style="text-align:left;white-space:normal;">Salinas de Hidalgo,<break/>San Luis Potosí,<break/>México (1989)</td>
+                  <td>Af04; Af05; Af06; Af07; Af08; Af09</td>
+                  <td align="left">1; 1; 1; 2; 3; 3</td>
+                  <td align="left">11</td>
+                  <td align="left">0.873</td>
+                  <td align="left">0.0091</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>MexT</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Texcoco, Estado de<break/>México, México (1989)</td>
+                  <td>Af07; Af08; Af09; Af10; Af11</td>
+                  <td align="left">1; 2; 7; 1; 2</td>
+                  <td align="left">13</td>
+                  <td align="left">0.705</td>
+                  <td align="left">0.0099</td>
+                  <td align="left" style="text-align:left;white-space:normal;">Introduced from SFB in 1975 (<xref ref-type="bibr" rid="ref-18">Castro, 1993</xref>) cited in <xref ref-type="bibr" rid="ref-20">Castro et al. (2006)</xref>
+                           </td>
+                </tr>
+                <tr>
+                  <td align="left">MexCB</td>
+                  <td style="text-align:left;white-space:normal;">Salinas Casa Blanca,<break/>Cuatro Ciénagas de <break/>Carranza, Coahuila,<break/>México (1995)</td>
+                  <td>Af12; Af13; Af14; Af15; Af16; Af17</td>
+                  <td align="left">2; 6; 1; 3; 3; 1</td>
+                  <td align="left">16</td>
+                  <td align="left">0.817</td>
+                  <td align="left">0.0023</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>MexLC</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">La Colorada lagoon,<break/>Oaxaca, México (1993)</td>
+                  <td>Af18; Af19; Af20; Af21</td>
+                  <td align="left">3; 1; 8; 2</td>
+                  <td align="left">14</td>
+                  <td align="left">0.648</td>
+                  <td align="left">0.0041</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>MexSQ</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">San Quintín, Baja <break/>California, México (??)</td>
+                  <td>Af10; Af22; Af23;</td>
+                  <td align="left">12; 1; 1</td>
+                  <td align="left">14</td>
+                  <td align="left">0.275</td>
+                  <td align="left">0.0005</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>MexFSJ</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Faro San José, Baja <break/>California, <break/>México (1991)</td>
+                  <td>Af01; Af10; Af24</td>
+                  <td align="left">1; 2; 1</td>
+                  <td align="left">4</td>
+                  <td align="left">N.A.</td>
+                  <td align="left">0.0226</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>GUA</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Frank País, <break/>Guantánamo,<break/>Cuba (1994)</td>
+                  <td>Af10; Af20; Af25</td>
+                  <td align="left">6; 1; 9</td>
+                  <td align="left">16</td>
+                  <td align="left">0.575</td>
+                  <td align="left">0.0019</td>
+                  <td align="left" style="text-align:left;white-space:normal;">Introduced in the 70’s in 7 saltworks, (<xref ref-type="bibr" rid="ref-36">Gelabert &amp; Solis, 1994</xref>) cited in <xref ref-type="bibr" rid="ref-79">Tizol-Correa (2009)</xref>.</td>
+                </tr>
+                <tr>
+                  <td align="left">GSL</td>
+                  <td style="text-align:left;white-space:normal;">Great Salt Lake,<break/>Utah, USA (??)</td>
+                  <td>Af10; Af18; Af20; Af21; Af26; Af27</td>
+                  <td align="left">1; 2; 21; 2; 2; 1</td>
+                  <td align="left">29</td>
+                  <td align="left">0.475</td>
+                  <td align="left">0.0028</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">SFB</td>
+                  <td style="text-align:left;white-space:normal;">San Francisco Bay,<break/>California, USA (??)</td>
+                  <td>Af10; Af18; Af20; Af25</td>
+                  <td align="left">26; 6; 4; 1</td>
+                  <td align="left">37</td>
+                  <td align="left">0.480</td>
+                  <td align="left">0.0033</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">USSF</td>
+                  <td style="text-align:left;white-space:normal;">Salina Fraternidad, <break/>Puerto Rico, CaboRojo, <break/>USA (2000)</td>
+                  <td>Af28; Af29</td>
+                  <td align="left">12; 4</td>
+                  <td align="left">16</td>
+                  <td align="left">0.400</td>
+                  <td align="left">0.0007</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">USSB</td>
+                  <td style="text-align:left;white-space:normal;">Laguna de las Salinas <break/>Bastoncillo, Lajas, <break/>Puerto Rico, USA (2000)</td>
+                  <td>Af28; Af30; Af31; Af32; Af33; Af34</td>
+                  <td align="left">6; 4; 1; 1; 1; 1</td>
+                  <td align="left">14</td>
+                  <td align="left">0.769</td>
+                  <td align="left">0.0017</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">MANW</td>
+                  <td style="text-align:left;white-space:normal;">Little Manitou Lake, <break/>Saskatchewan, <break/>Canada (2009)</td>
+                  <td>Af35; Af36</td>
+                  <td align="left">8; 1</td>
+                  <td align="left">9</td>
+                  <td align="left">N.A.</td>
+                  <td align="left">0.0004</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">CMUS</td>
+                  <td style="text-align:left;white-space:normal;">Muskiki Lake,<break/>Saskatchewan, <break/>Canada (2009)</td>
+                  <td>Af35; Af37; Af38</td>
+                  <td align="left">12; 1; 1</td>
+                  <td align="left">14</td>
+                  <td align="left">0.275</td>
+                  <td align="left">0.0005</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">CHAP</td>
+                  <td style="text-align:left;white-space:normal;">Chaplin Lake, <break/>Saskatchewan, <break/>Canada (2009)</td>
+                  <td>Af39; Af40; Af41; Af42; Af43</td>
+                  <td align="left">11; 1; 1; 2; 1</td>
+                  <td align="left">16</td>
+                  <td align="left">0.533</td>
+                  <td align="left">0.0027</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">CMEA</td>
+                  <td style="text-align:left;white-space:normal;">Meacham Lake, <break/>Saskatchewan,<break/>Canada (2009)</td>
+                  <td>Af35; Af44; Af45; Af46; Af47</td>
+                  <td align="left">26; 1; 1; 1; 1</td>
+                  <td align="left">30</td>
+                  <td align="left">0.253</td>
+                  <td align="left">0.0005</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>BRM</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Mossoro, Grossos, <break/>Brazil (1994)</td>
+                  <td>Af10</td>
+                  <td align="left">11</td>
+                  <td align="left">11</td>
+                  <td align="left">0.000</td>
+                  <td align="left">0.0000</td>
+                  <td align="left" style="text-align:left;white-space:normal;">Introduced in 1977 from SFB (<xref ref-type="bibr" rid="ref-16">Camara, 2001</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">CGZ</td>
+                  <td style="text-align:left;white-space:normal;">Salinas de Galerazamba, Colombia (1985)</td>
+                  <td>Af48; Af49; Af50</td>
+                  <td align="left">1; 8; 7</td>
+                  <td align="left">16</td>
+                  <td align="left">0.592</td>
+                  <td align="left">0.0017</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">CM</td>
+                  <td style="text-align:left;white-space:normal;">Salinas de Manaure, Colombia (1999)</td>
+                  <td>Af51; Af52</td>
+                  <td align="left">15; 1</td>
+                  <td align="left">16</td>
+                  <td align="left">0.125</td>
+                  <td align="left">0.0002</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">CSC</td>
+                  <td style="text-align:left;white-space:normal;">Salina Cero, <break/>Colombia (1999)</td>
+                  <td>Af49; Af50; Af53; Af54; Af55</td>
+                  <td align="left">8; 4; 1; 1; 1</td>
+                  <td align="left">15</td>
+                  <td align="left">0.676</td>
+                  <td align="left">0.0015</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">CT</td>
+                  <td style="text-align:left;white-space:normal;">Tayrona, <break/>Colombia (1999)</td>
+                  <td>Af56; Af57; Af58</td>
+                  <td align="left">9; 4; 2</td>
+                  <td align="left">15</td>
+                  <td align="left">0.590</td>
+                  <td align="left">0.0023</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">PPS</td>
+                  <td style="text-align:left;white-space:normal;">Playa Salinas, Ancash, Perú (1995)</td>
+                  <td>Af59; Af60; Af61; Af62; Af63</td>
+                  <td align="left">6; 2; 1; 3; 1</td>
+                  <td align="left">13</td>
+                  <td align="left">0.756</td>
+                  <td align="left">0.0023</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">PLC</td>
+                  <td style="text-align:left;white-space:normal;">Los Chimus, <break/>Perú (1992)</td>
+                  <td>Af59; Af64</td>
+                  <td align="left">14; 1</td>
+                  <td align="left">15</td>
+                  <td align="left">0.133</td>
+                  <td align="left">0.0002</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">PV</td>
+                  <td style="text-align:left;white-space:normal;">Virrilla, Piura, <break/>Perú (1996)</td>
+                  <td>Af65</td>
+                  <td align="left">16</td>
+                  <td align="left">16</td>
+                  <td align="left">0.000</td>
+                  <td align="left">0.0000</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">PVe</td>
+                  <td style="text-align:left;white-space:normal;">Humedales de Ventanilla, Callao, Perú (1996)</td>
+                  <td>Af59; Af61; Af66; Af67</td>
+                  <td align="left">8; 1; 6; 1</td>
+                  <td align="left">16</td>
+                  <td align="left">0.642</td>
+                  <td align="left">0.0020</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">PLM</td>
+                  <td style="text-align:left;white-space:normal;">La Milagrosa, Chilca, <break/>Perú (1993)</td>
+                  <td>Af68; Af69</td>
+                  <td align="left">14; 2</td>
+                  <td align="left">16</td>
+                  <td align="left">0.233</td>
+                  <td align="left">0.0004</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">VEC</td>
+                  <td style="text-align:left;white-space:normal;">Salinas de Cumaraguas, Venezuela (1994)</td>
+                  <td>Af51; Af70; Af71</td>
+                  <td align="left">10; 4; 1</td>
+                  <td align="left">15</td>
+                  <td align="left">0.514</td>
+                  <td align="left">0.0009</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>JAYA</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Yallahs Pond, <break/>Jamaica (1998)</td>
+                  <td>Af18; Af19</td>
+                  <td align="left">15; 1</td>
+                  <td align="left">16</td>
+                  <td align="left">0.125</td>
+                  <td align="left">0.0002</td>
+                  <td align="left" style="text-align:left;white-space:normal;">Known since 1992, morphology extremely similar to SFB (<xref ref-type="bibr" rid="ref-19">Castro et al., 2000</xref>)</td>
+                </tr>
+                <tr>
+                  <td align="left">CHSL</td>
+                  <td style="text-align:left;white-space:normal;">Salar de Llamará, <break/>Chile (1994-lab)</td>
+                  <td>Af72; Af73; Af74; Af75</td>
+                  <td align="left">5; 1; 1; 2</td>
+                  <td align="left">9</td>
+                  <td align="left">N.A.</td>
+                  <td align="left">0.0014</td>
+                  <td align="left" style="text-align:left;white-space:normal;"/>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>CHLC</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Laguna Cejas,<break/>Salar de Atacama, <break/>Chile (1995-lab)</td>
+                  <td>Af18</td>
+                  <td align="left">16</td>
+                  <td align="left">16</td>
+                  <td align="left">0.000</td>
+                  <td align="left">0.0000</td>
+                  <td align="left" style="text-align:left;white-space:normal;">
+                              <xref ref-type="bibr" rid="ref-57">Maniatsi et al. (2009)</xref> found different haplotypes, which were native.</td>
+                </tr>
+                <tr>
+                  <td align="left">CHLV</td>
+                  <td style="text-align:left;white-space:normal;">Los Vilos, Poza Palo <break/>Colorado, Chile (1997)</td>
+                  <td>Af76; Af77</td>
+                  <td align="left">6; 10</td>
+                  <td align="left">16</td>
+                  <td align="left">0.500</td>
+                  <td align="left">0.0008</td>
+                  <td align="left" style="text-align:left;white-space:normal;"/>
+                </tr>
+                <tr>
+                  <td align="left">
+                              <bold>CHPI</bold>
+                           </td>
+                  <td style="text-align:left;white-space:normal;">Pichilemu Cahuil <break/>saltworks, <break/>Chile (??-lab)</td>
+                  <td>Af18; Af78</td>
+                  <td align="left">8; 8</td>
+                  <td align="left">16</td>
+                  <td align="left">0.533</td>
+                  <td align="left">0.0103</td>
+                  <td align="left" style="text-align:left;white-space:normal;">Reportedly introduced by artisanal workers (<xref ref-type="bibr" rid="ref-34">Gajardo et al., 1998</xref>) no details as to when.</td>
+                </tr>
+                <tr>
+                  <td align="left">CHP</td>
+                  <td style="text-align:left;white-space:normal;">Poza Pampilla IV Region,<break/>Chile (1997)</td>
+                  <td>Af79; Af80</td>
+                  <td align="left">14; 1</td>
+                  <td align="left">15</td>
+                  <td align="left">0.133</td>
+                  <td align="left">0.0048</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">AMC</td>
+                  <td style="text-align:left;white-space:normal;">Mar Chiquita, Córdoba,<break/>Argentina (1997)</td>
+                  <td>Af81</td>
+                  <td align="left">16</td>
+                  <td align="left">16</td>
+                  <td align="left">0.000</td>
+                  <td align="left">0.0000</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">ASG</td>
+                  <td style="text-align:left;white-space:normal;">Salinas Grandes,<break/>Córdoba,<break/>Argentina (2000)</td>
+                  <td>Af72; Af73; Af74; Af82; Af83; Af84; Af85</td>
+                  <td align="left">7; 1; 1; 1; 1; 1; 1</td>
+                  <td align="left">13</td>
+                  <td align="left">0.731</td>
+                  <td align="left">0.0018</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">AMON</td>
+                  <td style="text-align:left;white-space:normal;">Mono Lake <break/>(1970s, ARC270)</td>
+                  <td>Af87; Af88; Af89; Af90; Af91; Af92</td>
+                  <td align="left">1; 1; 1; 7; 1; 1</td>
+                  <td align="left">12</td>
+                  <td align="left">0.682</td>
+                  <td align="left">0.0016</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+                <tr>
+                  <td align="left">PLU</td>
+                  <td style="text-align:left;white-space:normal;">Pedra de Lume, Sal Island, <break/>Cape Verde (??)</td>
+                  <td>Af86; Af93</td>
+                  <td align="left">15; 1</td>
+                  <td align="left">16</td>
+                  <td align="left">0.125</td>
+                  <td align="left">0.0002</td>
+                  <td align="left" style="text-align:left;white-space:normal;">-</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>DNA extractions were carried out on individual cysts (previously rinsed in distilled water), whole nauplii or partial adults using a HotSHOT protocol (<xref ref-type="bibr" rid="ref-60">Montero-Pau, Gómez &amp; Muñoz, 2008</xref>). We used <italic>Artemia</italic>-specific primers 1/2COI_Fol-F and 1/2COI_Fol-R (<xref ref-type="bibr" rid="ref-62">Muñoz et al., 2008</xref>) to amplify and sequence a 709 bp fragment of the mitochondrial Cytochrome <italic>c</italic> Oxidase Subunit I gene (COI). We also amplified and sequenced a 535 bp fragment of the 16S ribosomal RNA gene for a subset of individuals carrying different COI haplotypes to facilitate comparison with other published sequences using primers 16Sar-5′/16Sbr-3′ (<xref ref-type="bibr" rid="ref-65">Palumbi, 1996</xref>). PCRs were performed in 20 µL total volume containing 1× reaction buffer, 2.0 mM MgCl<sub>2</sub>, 0.2 mM dNTPs, 0.6 units <italic>Taq</italic> DNA polymerase (Bioline, London, UK) and 0.5 µM of each primer. PCR conditions were as follows: 94°C for 3 min, followed by 35 cycles of 45 s at 94°C, 60 s at 45°C (60–64°C for 16S locus), and 60 s at 72°C, followed by 5 min at 72°C. PCR products were purified for sequencing using ExoSAP-IT<sup>®</sup> (Exonuclease I and Shrimp Alkaline Phosphatase in buffer; USB Corp., Ohio, USA), cleaned with Sephadex<sup>®</sup>-G50 (GE Healthcare Corp.), and labelled using the BigDye Terminator Sequencing Ready Reaction v3.1 kit (Applied Biosystems). The resulting fragments were separated on an ABI 3130xl genetic analyzer. Sequences were checked, edited, and aligned using Sequencher<sup>®</sup> v4.5 (Gene Codes Corporation, Ann Arbor, MI, USA). All sequences were deposited in GenBank [accession numbers <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF662951">KF662951</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF663043">KF663043</ext-link> and <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF725843">KF725843</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF725869">KF725869</ext-link>]. Available published sequences of the same gene fragments, to which we could assign a geographic origin, were also included in our phylogenetic analyses [GenBank: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="DQ401259">DQ401259</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="DQ401278">DQ401278</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GU248382">GU248382</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GU248387">GU248387</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="FJ007820">FJ007820</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="FJ007834">FJ007834</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="AF202735">AF202735</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="AF202753">AF202753</ext-link>].</p>
+      </sec>
+      <sec>
+        <title>Genetic analyses</title>
+        <p>Neighbour Joining (NJ) and Maximum Likelihood (ML) phylogenetic trees were inferred for both COI and 16S gene fragments. NJ trees were constructed using evolutionary distances computed using the Maximum Composite Likelihood method and 1000 bootstrap replicate tests in MEGA5 (<xref ref-type="bibr" rid="ref-76">Tamura, Peterson &amp; Peterson, 2011</xref>). The best-scoring ML trees for COI were estimated using RAxML-VI-HPC v. 7.2.8 (<xref ref-type="bibr" rid="ref-73">Stamatakis, 2006</xref>) on the CIPRES portal at the San Diego Supercomputer Center (<uri xlink:href="http://www.phylo.org">http://www.phylo.org</uri>), optimising free model parameters and executing 1000 rapid bootstraps. Average genetic distances between the main COI lineages – corrected by the K2P + G substitution model – were carried out using MEGA5. Additionally, to identify lineages in our COI dataset, we used the Automatic Barcode Gap Discovery (ABGD) approach (<xref ref-type="bibr" rid="ref-69">Puillandre et al., 2012</xref>) using the webtool (<uri xlink:href="http://wwwabi.snv.jussieu.fr/public/abgd/abgdweb.html">http://wwwabi.snv.jussieu.fr/public/abgd/abgdweb.html</uri>).</p>
+        <p>Intra-population gene diversity <italic>Hs</italic> (standardized haplotype diversity) for COI was computed using the program RAREFAC (<xref ref-type="bibr" rid="ref-66">Petit, 1998</xref>) to account for population differences in sampling size. Nucleotide diversity and pairwise Φ<sub><italic>ST</italic></sub> values for COI from all 39 sampled populations were estimated using ARLEQUIN v. 3.1. (<xref ref-type="bibr" rid="ref-30">Excoffier, Laval &amp; Schneider, 2005</xref>).</p>
+      </sec>
+      <sec>
+        <title>Testing isolation-by-distance patterns and effect of bird flyways.</title>
+        <p>The significance of correlations between pairwise genetic and geographic distances (isolation-by-distance or IBD patterns) was tested using Mantel tests on IBDWS v.3.21 (<xref ref-type="bibr" rid="ref-49">Jensen, Bohonak &amp; Kelley, 2005</xref>). Prior to analyses in this section, populations inferred to be introduced intentionally by humans (see <xref ref-type="table" rid="table-1">Table 1</xref>) were removed. For all sampled locations, precise decimal longitude and latitude coordinates were obtained using Google Earth (<uri xlink:href="http://earth.google.com">http://earth.google.com</uri>). A geographic distance matrix was then computed using Geographic Distance Matrix Generator v.1.2.3 (Ersts, American Museum of Natural History, Center for Biodiversity and Conservation, <uri xlink:href="http://biodiversityinformatics.amnh.org/open_source/gdmg">http://biodiversityinformatics.amnh.org/open_source/gdmg</uri>). We used a population geographic distance matrix (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>) and a population genetic distance matrix for COI data (Φ<sub><italic>ST</italic></sub> values using Kimura 2-Parameter as the evolutionary model, <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>). The 99% confidence intervals for the slope and intercept were estimated using Reduced Major Axis (RMA) regression with 30,000 bootstrap randomizations using log km geographical distance.</p>
+        <p>We used canonical Redundancy Analysis (RDA) in CANOCO (<xref ref-type="bibr" rid="ref-78">ter Braak &amp; Šmilauer, 2002</xref>) to estimate the relative contribution of geographic distances, migratory flyways and human introductions on genetic distance between populations. RDA, a multiple linear regression method widely used in community ecology, has recently been applied to infer the role of spatial versus environmental variables in structuring population genetics data (e.g., <xref ref-type="bibr" rid="ref-64">Orsini et al., 2013</xref>). As the dependent matrix we used the sample loadings of a Principal Components Analysis calculated on Φ<sub><italic>ST</italic></sub> values using Kimura 2-Parameter as the evolutionary model for COI data. Environmental variables were whether the flyway overlapped with the <italic>Artemia</italic> population (0 or 1 depending on the presence of birds from the Atlantic, Central or Pacific flyways in the area) and introduction history (0 or 1). We modelled spatial variables using latitude and longitude (<italic>x</italic> and <italic>y</italic>).</p>
+        <p>We used the overlap of sampled populations with the three main migratory flyways in America based on two sources (1) <xref ref-type="bibr" rid="ref-9">Boere &amp; Stroud (2006)</xref> for shorebirds and (2) Birdlife International (extracted from <uri xlink:href="http://www.birdlife.org/datazone/userfiles/file/sowb/flyways/">http://www.birdlife.org/datazone/userfiles/file/sowb/flyways/</uri>). These data were used as a proxy for bird movements between locations. This approach is likely to be a rough approximation to the probability of bird migration between locations, given that more precise estimates cannot be obtained due to the absence of sufficient shorebird ringing data for the whole of the Americas. Even if extensive ringing data was available, this would only estimate current bird movements, whereas climate changes since the Pleistocene are likely to have strongly affected bird movements (<xref ref-type="bibr" rid="ref-3">Alerstam, 1993</xref>).</p>
+        <p>RDA analyses were carried out using each set of migratory flyway data (i.e., <xref ref-type="bibr" rid="ref-9">Boere &amp; Stroud (2006)</xref>, and Birdlife International information) and the variance partitioning calculated according to <xref ref-type="bibr" rid="ref-11">Borcard, Legendre &amp; Drapeau (1992)</xref> when the model was significant. All environmental variables contributed to the full model, so we constructed two additional RDAs considering only flyway or introduction history as environmental variables (data files used in RDA are deposited in Dryad DOI <uri xlink:href="http://dx.doi.org/10.5061/dryad.7kb11">http://dx.doi.org/10.5061/dryad.7kb11</uri>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Phylogenetic relationships and geographic distribution of lineages</title>
+        <p>Once PCR primers were removed and sequences trimmed to the same length, the 604 bp COI alignment contained 603 individuals newly sequenced in this study (see <xref ref-type="table" rid="table-1">Table 1</xref>), which collapsed into 93 haplotypes. No ambiguities, insertions, deletions or stop codons were present in the alignment. There were 121 variable sites, 86 of them parsimony informative, and 104 synonymous and 15 non-synonymous substitutions.</p>
+        <p>Using the default parameters, ABGD did not find any partitions in our dataset, so we reduced X, (i.e., the minimum barcode gap width) as suggested by the program, to 1.0 and used Kimura 80, identifying 12 groups with a prior intraspecific distance of  = 0.0028 (we use the term ‘lineages’ thereafter, see below for their geographic distribution). When the prior intraspecific distance increases to 0.0046 (not high by any standards) then the number of partitions reduces again to 1.</p>
+        <p>Both phylogenetic approaches ML and NJ were highly consistent, with two highly supported main branches displaying a geographic distribution along the continent, one mainly Atlantic (lineages 9–12) and the other split between two sub-branches along the Pacific Rim (lineages 1–7) and in Central Canada (lineage 8). Overall, there were at least 12 mtDNA lineages, most of them well supported (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). With the exception of lineage 1, each of the lineages showed a restricted geographic distribution indicating a high level of regional endemism (<xref ref-type="fig" rid="fig-3">Fig. 3</xref> for the geographic distribution of the lineages). Lineage 2 was found in a single coastal site in NE Mexico, lineage 3 in the five locations in Peru, lineage 4 in two high altitude populations from Central Mexico, lineages 5 and 7 in Central Chile, lineage 6 in a single sulphate-rich location in NE Mexico, lineage 8 in four locations in Saskatchewan, Canada, lineage 9 in Puerto Rico, lineage 10 in Cape Verde, lineage 11 in several locations around the Caribbean, Baja California and SW Mexico, and lineage 12 in Argentina and Chile. In stark contrast to the rest, lineage 1 was genetically diverse and geographically widespread, found across a large geographical area across both sides of the continent, including Brazil, Chile, Cuba, Jamaica, Mexico, USA and Colombia. Out of the 27 haplotypes in lineage 1, seven haplotypes were detected in SFB and GSL, the two commercialised populations in the USA that have been sources for the invasion in the Mediterranean (J Muñoz, A Gómez, J Figuerola, F Amat, C Rico, AJ Green, 2013 unpublished) (see section <italic>Introduced populations</italic> below). In addition, lineage 1 contained six closely related haplotypes only found in Mono Lake – which harbours a population often considered as a separate species, <italic>A. monica</italic> – and haplotypes found in three Colombian populations (CSC, CT and CGZ), five Mexican populations, and the Jamaican population. Two other lineages were distributed across the continental E-W divide, creating contact zones between lineages. In lineage 12, most of the haplotypes were found in Argentinean populations, but four of these haplotypes (three of them shared across populations) were found in a Chilean Altiplano population (Salar de Llamara). Lineage 11, mainly Caribbean, has a few haplotypes in two Mexican populations from the Pacific side (Las Coloradas and Faro San José, where they coexist with lineage 1). Finally, although both lineages 1 and 11 are found in Colombia, they were not found together in any of the populations sampled. The genetic divergence between the 12 main lineages ranged from 1.8% (between lineages 1 and 4) to 6.0% (between lineages 2 and 9) (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.200/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>Phylogenetic relationships of native <italic>Artemia franciscana</italic> COI haplotypes.</title>
+            <p>The tree topology is the one obtained in the NJ analysis, with bootstrap values shown for NJ (below branches) and ML (above branches). Haplotypes found in the commercialised populations SFB and GSL are marked in red. Haplotype numbers and populations where these were found are noted at the tips. Each lineage label indicates which countries it is found in and its overlap with the Pacific, Atlantic or Central migratory flyways (P, A or C respectively).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/fig-2.png"/>
+        </fig>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.200/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>Geographic distribution of <italic>Artemia franciscana</italic> mtDNA lineages.</title>
+            <p>The distribution of each COI lineage is shown as areas with the same colour coding as in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>. Disjunct areas are linked by lines. Introduced populations are denoted by a grey bucket. Only populations sampled for this study are included. Empty circles denote unsampled <italic>A. franciscana</italic> populations.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/fig-3.png"/>
+        </fig>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.200/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Genetic divergence between <italic>Artemia franciscana</italic> mtDNA lineages using COI data.</title>
+            <p>Genetic Distance K2P + G estimated with MEGA between lineages. Genetic distances higher than (or equal to) 4% (0.04) are marked in bold.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Lineage (distribution)</th>
+                  <th align="left">1</th>
+                  <th align="left">2</th>
+                  <th align="left">3</th>
+                  <th align="left">4</th>
+                  <th align="left">5</th>
+                  <th align="left">6</th>
+                  <th align="left">7</th>
+                  <th align="left">8</th>
+                  <th align="left">9</th>
+                  <th align="left">10</th>
+                  <th align="left">11</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">1 (USA + introduced)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">2 (NE Mexico)</td>
+                  <td align="left">0.024<break/>(0.006)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">3 (Perú)</td>
+                  <td align="left">0.020<break/>(0.005)</td>
+                  <td align="left">0.029<break/>(0.007)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">4 (C Mexico)</td>
+                  <td align="left">0.018<break/>(0.005)</td>
+                  <td align="left">0.031<break/>(0.007)</td>
+                  <td align="left">0.027<break/>(0.006)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">5 (C Chile)</td>
+                  <td align="left">0.023<break/>(0.005)</td>
+                  <td align="left">0.033<break/>(0.008)</td>
+                  <td align="left">0.031<break/>(0.007)</td>
+                  <td align="left">0.023<break/>(0.006)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">6 (NE Mexico)</td>
+                  <td align="left">0.026<break/>(0.006)</td>
+                  <td align="left">0.038<break/>(0.008)</td>
+                  <td align="left">0.038<break/>(0.008)</td>
+                  <td align="left">0.028<break/>(0.007)</td>
+                  <td align="left">0.028<break/>(0.007)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">7 (C Chile)</td>
+                  <td align="left">0.032 <break/>(0.007)</td>
+                  <td align="left">
+                              <bold>0.043</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">0.032<break/>(0.007)</td>
+                  <td align="left">0.032<break/>(0.008)</td>
+                  <td align="left">0.032<break/>(0.007)</td>
+                  <td align="left">0.039<break/>(0.009)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">8 (Canada)</td>
+                  <td align="left">0.020<break/>(0.005)</td>
+                  <td align="left">0.034<break/>(0.008)</td>
+                  <td align="left">0.029<break/>(0.007)</td>
+                  <td align="left">0.019<break/>(0.005)</td>
+                  <td align="left">0.025<break/>(0.007)</td>
+                  <td align="left">0.029<break/>(0.007)</td>
+                  <td align="left">0.031<break/>(0.008)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">9 (Puerto Rico)</td>
+                  <td align="left">
+                              <bold>0.048</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.060</bold>
+                              <break/>
+                              <bold>(0.012)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.058</bold>
+                              <break/>
+                              <bold>(0.011)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.048</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.049</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.055</bold>
+                              <break/>
+                              <bold>(0.011)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.052</bold>
+                              <break/>
+                              <bold>(0.011)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.040</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">10 (Cape Verde)</td>
+                  <td align="left">
+                              <bold>0.044</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.059</bold>
+                              <break/>
+                              <bold>(0.012)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.051</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.044</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.047</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.050</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.045</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">0.032<break/>(0.008)</td>
+                  <td align="left">0.023<break/>(0.006)</td>
+                  <td align="left">-</td>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">11 (Yucatán, Colombia…)</td>
+                  <td align="left">0.035<break/>(0.008)</td>
+                  <td align="left">
+                              <bold>0.044</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.043</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">0.033 <break/>(0.008)</td>
+                  <td align="left">
+                              <bold>0.041</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.045</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.043</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">0.023<break/>(0.006)</td>
+                  <td align="left">0.038<break/>(0.008)</td>
+                  <td align="left">0.034<break/>(0.008)</td>
+                  <td align="left">-</td>
+                </tr>
+                <tr>
+                  <td align="left">12 (Argentina, Chile)</td>
+                  <td align="left">0.037<break/>(0.008)</td>
+                  <td align="left">
+                              <bold>0.048</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.046</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">0.037<break/>(0.008)</td>
+                  <td align="left">
+                              <bold>0.043</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.047</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">
+                              <bold>0.044</bold>
+                              <break/>
+                              <bold>(0.010)</bold>
+                           </td>
+                  <td align="left">0.025<break/>(0.006)</td>
+                  <td align="left">
+                              <bold>0.044</bold>
+                              <break/>
+                              <bold>(0.009)</bold>
+                           </td>
+                  <td align="left">0.036<break/>(0.008)</td>
+                  <td align="left">0.020<break/>(0.005)</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>The 16S alignment contained 408 bp from 122 individuals, which collapsed into 59 haplotypes. There were two singleton indels, 63 variable sites and 43 parsimony informative sites. In contrast to the COI analysis, the NJ and ML reconstructions were poorly resolved, especially the basal branches, but most of the lineages recovered by the COI analyses were also recovered for the 16S data, with variable levels of support (see <xref ref-type="fig" rid="fig-4">Fig. 4</xref>). COI lineages 3, 5, 7 and 9 were highly supported for both ML and NJ analyses in the 16S analysis, whereas lineages 1 and 2 on the one hand and lineages 4 and 6 on the other, collapsed into poorly supported branches. The 16S analyses allowed us to assign several previously sequenced populations, which we were unable to sample, to COI lineages, particularly in NW America and the Caribbean. In addition, the 16S analysis revealed the presence of two new lineages in the Caribbean, one in the Virgin Islands, related to lineage 9 (Puerto Rico) and another in Inague Island (Bahamas) related to lineage 12 (Argentina, Chile). Note that these maintain the relationship with Atlantic lineages. Regarding North-Western American populations – extensively sampled by Prof Sarane Bowen’s group – in New Mexico, Nevada and British Columbia, they hold private haplotypes which appear in a poorly supported branch with Mono Lake and Mexican haplotypes. Other populations (Clinton, Basque Lake, Baja California and Carrizo Soda lake) also appear in the composite lineage 1 and 2, underscoring the diversity of USA <italic>A. franciscana</italic> populations. Interestingly, 16S haplotypes from Jesse Lake (Nebraska) belong to the Central Canadian lineage (lineage 8) together with Little Manitou, Muskiki, Meacham and Chaplin haplotypes.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.200/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Phylogenetic relationships for native <italic>Artemia franciscana</italic> 16S haplotypes.</title>
+            <p>The topology obtained in the NJ analysis is shown, with bootstrap values for NJ (below branches) and ML (above branches). Haplotypes found in the commercialised populations SFB and GSL are marked in red. Bold sequences are those produced in this study and italics those from GenBank. The number of individuals sequenced in each location (unless one) is in parenthesis.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/fig-4.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Intra- and inter-population genetic diversity in COI</title>
+        <p>The number of individuals sequenced per population ranged between 4 and 37, depending on available material (average 15.97; see <xref ref-type="table" rid="table-1">Table 1</xref> for estimates of π and <italic>H</italic>, and details of the haplotypes present in each population). The number of haplotypes per population ranged from one to seven. The highest standardized gene diversity (<italic>Hs</italic>) was found in the Mexican population MexH, whereas five populations (MexCe and Mex99 from Mexico, BRM from Brazil, PV from Peru, AMC, from Argentina, and CHLC from Chile) were fixed for a single haplotype. Most haplotypes were found within single countries, except for several haplotypes shared between some countries and the two commercial USA populations SFB and GSL (see <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+        <p>Populations were strongly structured genetically (global Φ<sub><italic>ST</italic></sub> = 0.92; 0.94 when putative introduced populations were removed), with Φ<sub><italic>ST</italic></sub> being highly significant between all populations except for three lakes from Central Canada, plus one pair from Chile/Argentina (see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>).</p>
+      </sec>
+      <sec>
+        <title>Identification of introduced populations</title>
+        <p>We found genetic evidence for putative non-native populations originating from the commercialised SFB or GSL in nine sites from Mexico, Cuba, Jamaica, Brazil and Chile. In these populations, at least one sampled individual shared a haplotype with SFB and/or GSL populations (see <xref ref-type="table" rid="table-1">Table 1</xref>). Those populations showed three patterns: (1) all individuals sampled shared haplotypes with SFB and/or GSL (BRM, GUA, and CHLC); (2) populations had haplotypes shared with the commercialised populations and a further haplotype (Af19 for MEXLC and JAYA) which differs from Af18 (a common haplotype in SFB and GSL) by a single substitution; and (3) populations sharing some haplotypes with SFB and/or GSL, but which also had unrelated additional/private haplotypes (MexT, MexSQ, MexFSJ, and CHPI). For four of the nine putative introduced populations, the occurrence of intentional introductions had been previously reported either in the same or nearby sites (see references in <xref ref-type="table" rid="table-1">Table 1</xref>). Note that introduced <italic>A. franciscana</italic> populations are likely to further expand into nearby suitable habitats due to passive dispersal by birds.</p>
+      </sec>
+      <sec>
+        <title>Isolation-by-distance pattern and the role of American migratory flyways</title>
+        <p>Mantel tests on pairwise genetic and geographic distances for populations ranging from Chile-Argentina to Canada, excluding those inferred to be introduced, revealed a strong IBD pattern (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>) with a highly significant correlation between pairwise geographic and genetic distances, indicating that geographic distance between populations explains a large proportion of the genetic variability in the sampled area (<italic>R</italic><sup>2</sup>-value  = 0.323, <italic>p</italic>-value &lt; 0.001).</p>
+        <fig id="fig-5">
+          <object-id pub-id-type="doi">10.7717/peerj.200/fig-5</object-id>
+          <label>Figure 5</label>
+          <caption>
+            <title>Isolation by distance in native <italic>Artemia franciscana</italic> populations.</title>
+            <p>Genetic distance (Φ<sub><italic>ST</italic></sub>, using Kimura 2-Parameter as evolutionary model, see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>) vs. geographical distance (Log geographical distance in km), showing the RMA regression line.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/fig-5.png"/>
+        </fig>
+        <p>RDA showed that both flyway and introduction history were significantly associated to population genetic distance (<italic>p</italic> &lt; 0.02 for all the correlations with genetic distance, whether or not geographical distance was controlled for). The effect of using different flyway data was quite small. Flyway explained 18.7–21.2% of variance in population genetic distance, depending on the flyway dataset used (<xref ref-type="table" rid="table-3">Table 3</xref>). Genetic distance was also affected by historical anthropogenic introductions (15.6% of variance explained) and both factors together (i.e., flyway and anthropogenic introduction) explained 30.6–31.2% of variance in genetic distance. In comparison, geographic distance only explained 8.2–8.7% of variance.</p>
+        <table-wrap id="table-3">
+          <object-id pub-id-type="doi">10.7717/peerj.200/table-3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Redundancy analyses (RDA) assessing the contribution of spatial (geographical coordinates of populations) and environmental factors to the genetic distance between <italic>Artemia franciscana</italic> populations.</title>
+            <p>Explained variance (%) for three RDAs with different environmental variables is given in separate columns. The first RDA included flyway and human introduction as environmental variables, while the others considered only flyway or introduction. Results are given for flyway assignments made according to <xref ref-type="bibr" rid="ref-9">Boere &amp; Stroud (2006)</xref> and Birdlife International (<uri xlink:href="http://www.birdlife.org/datazone/userfiles/file/sowb/flyways/">http://www.birdlife.org/datazone/userfiles/file/sowb/flyways/</uri>) (see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref> for matrix details).</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/200/table-3.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Source of variation</th>
+                  <th align="left">Flyway + introduction</th>
+                  <th align="left">Flyway</th>
+                  <th align="left">Introduction</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Space</td>
+                  <td align="left">8.2/8.7</td>
+                  <td align="left">8.3/10.2</td>
+                  <td align="left">10.8</td>
+                </tr>
+                <tr>
+                  <td align="left">Environment</td>
+                  <td align="left">31.2/30.6</td>
+                  <td align="left">21.2/18.7</td>
+                  <td align="left">15.6</td>
+                </tr>
+                <tr>
+                  <td align="left">Environment/Space interaction</td>
+                  <td align="left">2.4/1.8</td>
+                  <td align="left">2.3/0.4</td>
+                  <td align="left">0.0</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Our analyses revealed that <italic>A. franciscana</italic> has a strong regional genetic structure in its native distribution range throughout the Americas, with twelve largely allopatric endemic lineages. Such high level of population structure, supported by a very high overall Φ<sub><italic>ST</italic></sub> value, high number of private haplotypes and significant IBD patterns, indicate that the populations studied are not connected by high ongoing gene flow, pointing instead to the effects of genetic drift and persistent founder effects during historical colonisation processes and development of local adaptation (i.e., the Monopolisation hypothesis; <xref ref-type="bibr" rid="ref-27">De Meester et al., 2002</xref>). The few population pairs with non-significant population differentiation (three lakes from Central Canada, plus one pair from Chile/Argentina) are likely to reflect recent colonisation, rather than ongoing gene flow. Our data also reveals the impact of <italic>A. franciscana</italic> introductions on the phylogeography of the species, as the lineage including the commercialised SFB and GSL populations has now achieved the widest distribution across the continent, in some cases coexisting – and presumably hybridizing – with pre-existing native populations. In addition, our results suggest that migratory birds have an important role in the colonisation of new habitats and are associated with range expansions both in the history of <italic>Artemia</italic> colonisation across the Americas, and also at a local scale, where birds facilitate the expansion of introduced lineages.</p>
+      <sec>
+        <title>The role of bird migratory flyways</title>
+        <p>Our study provides new evidence supporting the key historical role of waterbirds as the main factor shaping the population genetic structure of continental aquatic invertebrates at an intra-continental scale. The patterning of the main phylogenetic lineages, with an Atlantic, Central and Pacific distribution – instead of a North American (Nearctic) <italic>vs</italic>. South American (Neotropical) division reflecting the recognized zoogeographic regions and the long isolation of the continents (<xref ref-type="bibr" rid="ref-56">Lomolino et al., 2010</xref>; <xref ref-type="bibr" rid="ref-46">Holt et al., 2013</xref>) – strongly suggests that historical bird migratory flyways, which occur alongside both the major coasts of this continent, determined the historical spread of <italic>A. franciscana</italic> genetic lineages. Bird movements also might have allowed the subsequent persistence of this structure by facilitating colonisation along each migratory flyway, which shaped the main East-West division in mitochondrial lineages. RDA showed that the effect of migratory flyways was highly significant, and accounted for 20% of the genetic variation between populations once geographic distance was taken into account, suggesting that the distribution of genetic lineages in <italic>A. franciscana</italic> is likely to reflect the impact of historical bird flyways on native phylogeographic patterns. In addition, the strong detected IBD pattern suggests that the chances of bird-mediated colonisation are highly distance dependent (see <xref ref-type="bibr" rid="ref-87">Viana et al., 2013</xref>), although instances of long-distance dispersal and colonisation, for example from Argentina to Chile, or to Colombia from northern Caribbean populations, are also apparent from our data. A corollary of our results is that bird movements must have shown some stability, forming parallel N-S flyways during the time frame of <italic>A. franciscana</italic> population diversification (i.e., throughout the Pleistocene) extending into new breeding areas becoming available in the north and new wintering sites in the southern extreme of the continent (<xref ref-type="bibr" rid="ref-15">Buehler, Baker &amp; Piersma, 2006</xref>). These results are no surprise given the high transport rates of <italic>Artemia</italic> cysts by waterbirds (<xref ref-type="bibr" rid="ref-43">Green et al., 2005</xref>; <xref ref-type="bibr" rid="ref-70">Sánchez et al., 2007</xref>) and the lack of other dispersal vectors. Migratory waterbirds have existed since the Early Cretaceous (<xref ref-type="bibr" rid="ref-55">Lockley et al., 2012</xref>). Although now-extinct migratory mammals were once major vectors of plant dispersal in the Americas (<xref ref-type="bibr" rid="ref-48">Janzen, 1984</xref>), the hypersaline habitats used by <italic>Artemia</italic> are not conducive to dispersal by large mammals.</p>
+        <p>Our results for <italic>A. franciscana</italic> agree with other studies in North America pointing to an effect of bird movements on the genetic structure of passively dispersed aquatic invertebrates (<xref ref-type="bibr" rid="ref-32">Figuerola, Green &amp; Michot, 2005</xref>), but extends these findings to the whole of the Americas, and emphasizes the major role of bird movements in facilitating colonisation into new suitable habitats – in agreement with the patterns found in <italic>A. franciscana</italic> in the invaded Mediterranean range (J Muñoz, A Gómez, J Figuerola, F Amat, C Rico, AJ Green, 2013 unpublished), and those for <italic>A. salina</italic> in its native range (<xref ref-type="bibr" rid="ref-62">Muñoz et al., 2008</xref>). Although at a continental scale our results suggest that bird movements do not promote contemporary gene flow between <italic>Artemia</italic> populations, such gene flow may still have a role at a local scale or when new areas suitable for colonization become available.</p>
+      </sec>
+      <sec>
+        <title>Phylogeographic patterns</title>
+        <p>The high level of endemism and population structure in native <italic>A. franciscana</italic> populations, with low ongoing gene flow and occasional long-distance migration resembles the patterns found in <italic>Artemia salina</italic> (<xref ref-type="bibr" rid="ref-62">Muñoz et al., 2008</xref>), a sexual native Mediterranean brine shrimp species, and in a range of other aquatic passively dispersed taxa including sexual reproduction in their life cycles (<xref ref-type="bibr" rid="ref-37">Gómez, Carvalho &amp; Lunt, 2000</xref>; <xref ref-type="bibr" rid="ref-28">Edmands, 2001</xref>; <xref ref-type="bibr" rid="ref-26">De Gelas &amp; De Meester, 2005</xref>; <xref ref-type="bibr" rid="ref-58">Mills, Lunt &amp; Gómez, 2007</xref>; <xref ref-type="bibr" rid="ref-51">Ketmaier et al., 2008</xref>; <xref ref-type="bibr" rid="ref-53">Korn et al., 2010</xref>). Our results also expand and confirm the deep phylogenetic breaks found by <xref ref-type="bibr" rid="ref-57">Maniatsi et al. (2009)</xref> in a mtDNA and nDNA study of a more limited number of populations revealing only three lineages. As populations of these passively dispersed organisms can be founded by a small number of propagules, followed by rapid population growth and establishment of large diapausing egg banks, this favours the presence of persistent/long term founder effects, thus reducing the effect of gene flow, possibly reinforced by the development of local adaptation, according to the Monopolisation hypothesis (<xref ref-type="bibr" rid="ref-27">De Meester et al., 2002</xref>). Cysts are undoubtedly still regularly dispersed between suitable habitats by waterbirds, but they are unlikely to become established owing to the Monopolisation effects.</p>
+        <p>Given the range of genetic divergence between lineages (from 2 to 6%) the time frame of their fragmentation can be approximated roughly using a COI molecular clock for other shrimp taxa (1.4% sequence divergence per million year; <xref ref-type="bibr" rid="ref-52">Knowlton &amp; Weigt, 1998</xref>), which translates into 1.4–4.3 million years of divergence (reaching the Pliocene), between <italic>A. franciscana</italic> lineages. Even a faster rate of 2% per million years will result on pre-Pleistocene divergence times between the main lineages. Therefore, a contribution of Pliocene/Pleistocene climatic oscillations to population fragmentations after range expansions across the continent can be inferred from our data, possibly allowing survival of lineages in separate geographical areas including Caribbean islands and areas in North and South America. Mexico has the highest lineage richness, with five out of the 12 COI lineages being native to this country – including lineages from both Pacific and Atlantic clades. These findings suggest that this region is likely to have supported separate refugia during climatically adverse periods. The occurrence of a highly divergent Central Canadian prairie lineage was unexpected, as an ice sheet covered this area during the last glacial maximum (<xref ref-type="bibr" rid="ref-29">Ehlers &amp; Gibbard, 2004</xref>). However, the 16S data from GenBank suggest that this lineage also occurs in more southern areas in central USA (Nebraska), where it may have survived south of the ice sheets, and then undergone postglacial colonisation of Central Canada.</p>
+        <p>Following climate-driven turnover of hypersaline habitats, migratory shorebirds would be involved in expanding the lineages into newly appearing suitable habitats and the chances of successful spread would be strongly distance dependent. However, long-distance colonisation events must have also occurred. For example, assuming that the ancestor of lineages 9 and 10 inhabited the Caribbean area, the colonisation of Argentina by the ancestor of lineage 12 must have entailed successful transfer of some cysts between these distant areas (see <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The genetic composition of lineage 12, where most of the haplotypes were found in Argentinean populations (see also <xref ref-type="fig" rid="fig-3">Fig. 3</xref>) but four of them (three shared across populations) were found in a Chilean Altiplano population (Salar de Llamara), suggests recent colonisation from Argentina to Chile. Finally, the colonisation of Cape Verde Islands, with private haplotypes distantly related to Caribbean lineages, must have involved long-distance transport, possibly from birds accidentally landing there after storms sent them off course, although we cannot rule out the possibility of an unreported human-mediated introduction involving cysts from a Caribbean population not included in our study. Shorebirds are likely vectors for such long-distance dispersal events, and have often been implicated in the dispersal of plants between North and South America, or to oceanic islands (<xref ref-type="bibr" rid="ref-24">Cruden, 1966</xref>; <xref ref-type="bibr" rid="ref-68">Proctor, 1968</xref>).</p>
+        <p>The 16S analysis also shows higher richness of lineage 12 in Argentina with two Chilean populations (Convento and Salar de Llamara), for which evidence of nuclear DNA (nDNA) introgression among lineages exists (<xref ref-type="bibr" rid="ref-57">Maniatsi et al., 2009</xref>). Furthermore, as migratory flyways overlap on some areas, this could have occasionally resulted in transfers from the Atlantic to the Pacific coasts, as has been suggested for other passively dispersed aquatic species (<xref ref-type="bibr" rid="ref-59">Miura et al., 2011</xref>).</p>
+        <p>Natural spread of lineages from refugial areas is likely to result in contact zones between lineages, which we expect to be sharp, as we found between lineages 1 and 11 in Colombia, where despite two lineages being present in the area, there are no sites where both co-occur.</p>
+      </sec>
+      <sec>
+        <title>Taxonomic considerations</title>
+        <p>The COI gene is one of the most widely used tools for species delineation (<xref ref-type="bibr" rid="ref-44">Hebert et al., 2004</xref>; <xref ref-type="bibr" rid="ref-23">Costa et al., 2007</xref>; <xref ref-type="bibr" rid="ref-39">Gómez et al., 2007b</xref>). Sequence divergence of 3% have been proposed as a threshold for species delimitation in crustaceans (<xref ref-type="bibr" rid="ref-23">Costa et al., 2007</xref>, but see <xref ref-type="bibr" rid="ref-54">Lefébure et al., 2006</xref>), but other approaches are also used, such as GMYC (<xref ref-type="bibr" rid="ref-67">Pons et al., 2006</xref>) or automatic barcode delimitation, which we used here (<xref ref-type="bibr" rid="ref-69">Puillandre et al., 2012</xref>). Our analysis revealed 12 lineages in <italic>A. franciscana</italic>, some of them, like lineages 9 (Puerto Rico) plus 10 (Cape Verde) compared to all the others, or lineages 11 (Circum Caribbean) plus 12 (Argentina-Chile) compared to all the others, have genetic divergences of over 5%. Surprisingly, reproductive isolation – due to ecological specialisation and local adaptation – has only been reported between Mono Lake and San Francisco Bay populations (<xref ref-type="bibr" rid="ref-12">Bowen, Buoncristiani &amp; Carl, 1988</xref>) due to the inability of individuals of each of these populations to survive in each others’ ecological conditions, but our data show they are very closely related. Indeed cross-fertility has been observed in the laboratory between the San Francisco Bay population and 15 other populations from the whole range of the species, including some populations included in our study that belong to very divergent mtDNA lineages such as Inague Saltern (Bahamas), Little Manitou (Canada, lineage 8), and Puerto Rico (lineage 9) (<xref ref-type="bibr" rid="ref-21">Clark &amp; Bowen, 1976</xref>). Therefore, we concur with <xref ref-type="bibr" rid="ref-12">Bowen, Buoncristiani &amp; Carl (1988)</xref> in regarding <italic>A. franciscana</italic> as a very diverse “superspecies”, where reproductive isolation mediated by habitat adaptation might occur, but populations in intermediate habitats could act as venues for genetic exchange between ecological isolates.</p>
+      </sec>
+      <sec>
+        <title>Impact of introductions on native population structure and management implications</title>
+        <p>Given the strong phylogeographic structure of <italic>A. franciscana</italic>, and the high level of private haplotypes found, we used haplotype sharing between the commercialised populations (SFB and GSL) and distant populations as a criterion of recent human mediated introduction. Using this criterion, we identified nine populations where genetic evidence pointed to putative human introductions into Mexico, Cuba, Jamaica, Brazil and Chile. For four of these populations, the occurrence of intentional introductions in the same or nearby sites during the 1970s could be documented. Therefore, our genetic data confirms that the established <italic>A. franciscana</italic> populations in these locations are, at least partially, of introduced origin, and validates our criterion. As for the impact of introductions on native populations, four Mexican populations contained additional private haplotypes not closely related to the introduced ones, which suggests the presence of a pre-existing population before the introduction and the likely introgression of both populations with persistence of native haplotypes, although nuclear loci would be necessary to confirm this. In two populations, we found a discrepancy between our genetic results and previously published ones. The first case is the MEXLC population, which we regard as introduced (lineage 1), whereas in <xref ref-type="bibr" rid="ref-80">Tizol-Correa et al. (2009)</xref> the haplotype found is shared with populations from our lineage 11. The second case is CHLC (Laguna Cejas, Chile), which we regard as introduced whereas <xref ref-type="bibr" rid="ref-57">Maniatsi et al. (2009)</xref> found that their mtDNA was most closely related to native populations from Central Chile (which belong to our lineage 7). While these authors concluded that the discrepancies between their nDNA and mtDNA data from the latter population pointed to incomplete lineage sorting, an alternative explanation is that they are due to the population being admixed with native and introduced ancestry, as introduced <italic>A. franciscana</italic> is known to hybridize even with the genetically divergent <italic>A. persimilis</italic> (<xref ref-type="bibr" rid="ref-50">Kappas et al., 2009</xref>). This failure to detect introduced mtDNA lineages in this population might arise from reduced sample sizes, or indicate real temporal changes in these populations reflecting recent introductions, as samples are likely to have been obtained in different years (unfortunately, no collection dates for these population is reported in <xref ref-type="bibr" rid="ref-57">Maniatsi et al., 2009</xref>). Despite human introductions, haplotypes presumably from pre-existent populations have survived and coexist with introduced ones, although a possible loss of genetic diversity due to introductions cannot be ruled out, and should be investigated in the future, perhaps using sediment cores (a method widely used in the crustacean model organism <italic>Daphnia</italic>) from populations where commercialised strains were introduced.</p>
+        <p>The high genetic richness found in our COI analyses, and the presence of private haplotypes belonging to lineage 1 in distant populations away from SFB and GSL, including three Colombian and five Mexican populations likely to be native, indicates that the natural distribution of lineage 1 extended further than the two commercialized populations before any human introductions took place. This was also in evidence from our 16S analyses, which included more extended geographic coverage of NW America, and revealed further sites within lineage 1 in the W USA and British Columbia harbouring private haplotypes not found in SFB or GSL. This is also consistent with the presence of private and closely related haplotypes at Mono Lake. The peculiarity and fragmentation of the habitats used by the species, the potential of salinity and varying ionic composition to act as a strong selective agent, the capacity to produce massive quantities of resting eggs that can be readily dispersed by birds, combined with the apparent limitation in modern gene flow, makes this group an ideal system for further studies testing the role of local adaptation and mass effects on reducing gene flow between populations.</p>
+        <p>Given the impact of the invasive <italic>A. franciscana</italic> across the world, and the high genetic and ecological richness of its native populations, further population translocations should be highly discouraged, and the use of native strains as a source of cysts should be encouraged even within the Americas.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Conclusions</title>
+      <p>Our analyses suggest that <italic>A. franciscana</italic> phylogeography in its native range was shaped by (1) Pliocene/Pleistocene climate fluctuations, which contributed to changes in the areas available to the species, (2) historical bird-mediated colonization along migratory flyways, which shaped the East-West population division, (3) strong and persistent founder events, facilitated by high population growth rates and large population sizes, preventing further gene flow despite ongoing bird-mediated dispersal, and (4) human introductions coupled with regional bird dispersal, explaining the large but localised geographic range of the lineages derived from the commercially exploited North American populations. Our findings suggest that, at a continental scale, bird-mediated transport of invertebrate propagules does not result in substantial ongoing gene flow, but instead determines species phylogeography, facilitating the colonisation of newly available aquatic environments along bird flyways.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.ms-excel" xlink:href="https://peerj.com/articles/200/Supplementary_Table_1_Geographic_distances_between_populations.xls">
+        <object-id pub-id-type="doi">10.7717/peerj.200/supp-1</object-id>
+        <label>Table S1</label>
+        <caption>
+          <title>Geographic distances in km between sampled <italic>Artemia franciscana</italic> populations</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.ms-excel" xlink:href="https://peerj.com/articles/200/Supplementary_Table_2_PhiST.xls">
+        <object-id pub-id-type="doi">10.7717/peerj.200/supp-2</object-id>
+        <label>Table S2</label>
+        <caption>
+          <title>Genetic distances (PhiST) between sampled <italic>Artemia franciscana</italic> populations based on COI sequences.</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank G Van Stappen (Artemia Reference Centre) for providing the Mono Lake cyst sample and Joachim Mergeay, who read a previous version of this manuscript, and provided many constructive comments including suggesting using RDA. MT Bidwell helped with sampling in Canada.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors declare that there are no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-1">Joaquín Muñoz</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-2">Francisco Amat</xref> and <xref ref-type="contrib" rid="author-3">Andy J. Green</xref> contributed reagents/materials/analysis tools.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-4">Jordi Figuerola</xref> analyzed the data, contributed reagents/materials/analysis tools.</p>
+        </fn>
+        <fn id="contribution-4" fn-type="con">
+          <p><xref ref-type="contrib" rid="author-5">Africa Gómez</xref> conceived and designed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>DNA Deposition</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied regarding the deposition of DNA sequences:</p>
+          <p>GenBank Accession numbers for the 16S haplotypes: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF725843">KF725843-69</ext-link> and COI <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF662951">KF662951</ext-link>–<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KF663043">KF663043</ext-link>.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Data Deposition</title>
+        <fn id="addinfo-2" fn-type="other">
+          <p>The following information was supplied regarding the deposition of related data:</p>
+          <p>Dryad DOI: <uri xlink:href="http://dx.doi.org/10.5061/dryad.7kb11">http://dx.doi.org/10.5061/dryad.7kb11</uri>.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Abatzopoulos (2002)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Abatzopoulos</surname><given-names>TJ</given-names></name>
+               </person-group>
+          <source>Artemia: basic and applied biology</source>
+          <year iso-8601-date="2002">2002</year>
+          <publisher-loc>Dordrecht</publisher-loc>
+          <publisher-name>Kluwer Academic Publishing</publisher-name>
+          <comment>286 pp</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Abreu-Grobois &amp; Beardmore (1982)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Abreu-Grobois</surname><given-names>FA</given-names></name>
+                  <name><surname>Beardmore</surname><given-names>JA</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Barigozzi</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Genetic differentiation and speciation in the brine shrimp <italic>Artemia</italic></article-title>
+          <source>Mechanisms of speciation</source>
+          <year iso-8601-date="1982">1982</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Alan R. Liss</publisher-name>
+          <fpage>345</fpage>
+          <lpage>376</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Alerstam (1993)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Alerstam</surname><given-names>T</given-names></name>
+               </person-group>
+          <source>Bird migration</source>
+          <year iso-8601-date="1993">1993</year>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <comment>420 pp</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Amat et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+                  <name><surname>Cohen</surname><given-names>RG</given-names></name>
+                  <name><surname>Hontoria</surname><given-names>F</given-names></name>
+                  <name><surname>Navarro</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Further evidence and characterization of <italic>Artemia franciscana</italic> (Kellogg, 1906) populations in Argentina</article-title>
+          <source>Journal of Biogeography</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>31</volume>
+          <fpage>1735</fpage>
+          <lpage>1749</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2699.2004.01123.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Amat et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+                  <name><surname>Hontoria</surname><given-names>F</given-names></name>
+                  <name><surname>Navarro</surname><given-names>JC</given-names></name>
+                  <name><surname>Vieira</surname><given-names>N</given-names></name>
+                  <name><surname>Mura</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Biodiversity loss in the genus <italic>Artemia</italic> in the Western Mediterranean Region</article-title>
+          <source>Limnetica</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>26</volume>
+          <fpage>387</fpage>
+          <lpage>404</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Amat et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+                  <name><surname>Hontoria</surname><given-names>F</given-names></name>
+                  <name><surname>Ruiz</surname><given-names>O</given-names></name>
+                  <name><surname>Sanchez</surname><given-names>MI</given-names></name>
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+                  <name><surname>Hortas</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>The American brine shrimp as an exotic invasive species in the western Mediterranean</article-title>
+          <source>Biological Invasions</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>7</volume>
+          <fpage>37</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10530-004-9634-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Anderson (1970)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Anderson</surname><given-names>W</given-names></name>
+               </person-group>
+          <article-title>A preliminary study of the relationship of salt ponds and wildlife-South San Francisco Bay</article-title>
+          <source>California Fish and Game</source>
+          <year iso-8601-date="1970">1970</year>
+          <volume>56</volume>
+          <fpage>240</fpage>
+          <lpage>252</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Bilton, Freeland &amp; Okamura (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bilton</surname><given-names>DT</given-names></name>
+                  <name><surname>Freeland</surname><given-names>JR</given-names></name>
+                  <name><surname>Okamura</surname><given-names>B</given-names></name>
+               </person-group>
+          <article-title>Dispersal in freshwater invertebrates</article-title>
+          <source>Annual Review of Ecology and Systematics</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>32</volume>
+          <fpage>159</fpage>
+          <lpage>181</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.32.081501.114016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Boere &amp; Stroud (2006)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Boere</surname><given-names>GC</given-names></name>
+                  <name><surname>Stroud</surname><given-names>DA</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Boere</surname><given-names>GC</given-names></name>
+                  <name><surname>Galbraith</surname><given-names>CA</given-names></name>
+                  <name><surname>Stroud</surname><given-names>DA</given-names></name>
+               </person-group>
+          <article-title>The flyway concept: what it is and what it isn’t</article-title>
+          <source>Waterbirds around the world</source>
+          <year iso-8601-date="2006">2006</year>
+          <publisher-loc>Edinburgh</publisher-loc>
+          <publisher-name>The Stationery Office</publisher-name>
+          <fpage>40</fpage>
+          <lpage>47</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Boileau, Hebert &amp; Schwartz (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Boileau</surname><given-names>MG</given-names></name>
+                  <name><surname>Hebert</surname><given-names>PDN</given-names></name>
+                  <name><surname>Schwartz</surname><given-names>SS</given-names></name>
+               </person-group>
+          <article-title>Non-equilibrium gene frequency divergence: founder effects in natural populations</article-title>
+          <source>Journal of Evolutionary Biology</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>5</volume>
+          <fpage>25</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1420-9101.1992.5010025.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Borcard, Legendre &amp; Drapeau (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Borcard</surname><given-names>D</given-names></name>
+                  <name><surname>Legendre</surname><given-names>P</given-names></name>
+                  <name><surname>Drapeau</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>Partialling out the spatial component of ecological variation</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>73</volume>
+          <fpage>1045</fpage>
+          <lpage>1055</lpage>
+          <pub-id pub-id-type="doi">10.2307/1940179</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Bowen, Buoncristiani &amp; Carl (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bowen</surname><given-names>ST</given-names></name>
+                  <name><surname>Buoncristiani</surname><given-names>MR</given-names></name>
+                  <name><surname>Carl</surname><given-names>JR</given-names></name>
+               </person-group>
+          <article-title><italic>Artemia</italic> habitats: ion concentrations tolerated by one superspecies</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>158</volume>
+          <fpage>201</fpage>
+          <lpage>214</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00026278</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Brochet et al. (2010a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Brochet</surname><given-names>AL</given-names></name>
+                  <name><surname>Guillemain</surname><given-names>M</given-names></name>
+                  <name><surname>Fritz</surname><given-names>H</given-names></name>
+                  <name><surname>Gauthier-Clerc</surname><given-names>M</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+               </person-group>
+          <article-title>Plant dispersal by teal (<italic>Anas crecca</italic>) in the Camargue: duck guts are more important than their feet</article-title>
+          <source>Freshwater Biology</source>
+          <year iso-8601-date="2010">2010a</year>
+          <volume>55</volume>
+          <fpage>1262</fpage>
+          <lpage>1273</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2427.2009.02350.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Brochet et al. (2010b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Brochet</surname><given-names>AL</given-names></name>
+                  <name><surname>Gauthier-Clerc</surname><given-names>M</given-names></name>
+                  <name><surname>Guillemain</surname><given-names>M</given-names></name>
+                  <name><surname>Fritz</surname><given-names>H</given-names></name>
+                  <name><surname>Waterkeyn</surname><given-names>A</given-names></name>
+                  <name><surname>Baltanas</surname><given-names>A</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+               </person-group>
+          <article-title>Field evidence of dispersal of branchiopods, ostracods and bryozoans by teal (<italic>Anas crecca</italic>) in the Camargue (southern France)</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="2010">2010b</year>
+          <volume>637</volume>
+          <fpage>255</fpage>
+          <lpage>261</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10750-009-9975-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Buehler, Baker &amp; Piersma (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Buehler</surname><given-names>DM</given-names></name>
+                  <name><surname>Baker</surname><given-names>AJ</given-names></name>
+                  <name><surname>Piersma</surname><given-names>T</given-names></name>
+               </person-group>
+          <article-title>Reconstructing palaeoflyways of the late Pleistocene and early Holocene Red Knot <italic>Calidris canutus</italic></article-title>
+          <source>Ardea</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>94</volume>
+          <fpage>485</fpage>
+          <lpage>498</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Camara (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Camara</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Dispersal of <italic>Artemia franciscana</italic> Kellogg (Crustacea; Anostraca) populations in the coastal saltworks of Rio Grande do Norte, northeastern Brazil</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>466</volume>
+          <fpage>145</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1014575001333</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Carlquist (1983)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Carlquist</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>Intercontinental dispersal</article-title>
+          <source>Sonderbd. Naturwiss. Ver Hamburg</source>
+          <year iso-8601-date="1983">1983</year>
+          <volume>7</volume>
+          <fpage>37</fpage>
+          <lpage>47</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Castro (1993)</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+                  <name><surname>Castro</surname><given-names>B</given-names></name>
+               </person-group>
+          <article-title>Biologia y cultivo de <italic>Artemia franciscana</italic> en el Ex Lago de Texcoco, de Ecatepec, Estado de México</article-title>
+          <source>Ph.D. Thesis</source>
+          <year iso-8601-date="1993">1993</year>
+          <institution>Universidad Nacional Autónoma de México</institution>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Castro et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Castro</surname><given-names>BT</given-names></name>
+                  <name><surname>Castro</surname><given-names>MJ</given-names></name>
+                  <name><surname>Marín</surname><given-names>VRE</given-names></name>
+                  <name><surname>Young</surname><given-names>GR</given-names></name>
+                  <name><surname>Jenoure</surname><given-names>D</given-names></name>
+                  <name><surname>Castro</surname><given-names>MG</given-names></name>
+                  <name><surname>Malpica</surname><given-names>SA</given-names></name>
+                  <name><surname>De Lara</surname><given-names>AR</given-names></name>
+               </person-group>
+          <article-title>Calidad de quistes y morfometria de la poblacion de <italic>Artemia franciscana</italic> (Kellogg, 1906) de la laguna pequenya de Yallahs, Jamaica</article-title>
+          <source>Ciencias Marinas</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>26</volume>
+          <fpage>201</fpage>
+          <lpage>214</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Castro et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Castro</surname><given-names>J</given-names></name>
+                  <name><surname>Castro</surname><given-names>T</given-names></name>
+                  <name><surname>Sánchez</surname><given-names>J</given-names></name>
+                  <name><surname>Castro</surname><given-names>G</given-names></name>
+                  <name><surname>Castro</surname><given-names>A</given-names></name>
+                  <name><surname>Zaragoza</surname><given-names>J</given-names></name>
+                  <name><surname>de Lara</surname><given-names>R</given-names></name>
+                  <name><surname>del C Monroy</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Cysts and nauplii biometry characteristics of seven <italic>Artemia franciscana</italic> (Kellog, 1906) populations from Mexico</article-title>
+          <source>Revista de biología marina y oceanografía</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>41</volume>
+          <fpage>187</fpage>
+          <lpage>193</lpage>
+          <pub-id pub-id-type="doi">10.4067/S0718-19572006000200006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Clark &amp; Bowen (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Clark</surname><given-names>LS</given-names></name>
+                  <name><surname>Bowen</surname><given-names>ST</given-names></name>
+               </person-group>
+          <article-title>The genetics of <italic>Artemia salina</italic>. VII. Reproductive isolation</article-title>
+          <source>The Journal of Heredity</source>
+          <year iso-8601-date="1976">1976</year>
+          <volume>67</volume>
+          <fpage>385</fpage>
+          <lpage>388</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Clegg (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Clegg</surname><given-names>JS</given-names></name>
+               </person-group>
+          <article-title>Desiccation tolerance in encysted embryos of the animal extremophile, <italic>Artemia</italic></article-title>
+          <source>Integrative and Comparative Biology</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>45</volume>
+          <fpage>715</fpage>
+          <lpage>724</lpage>
+          <pub-id pub-id-type="doi">10.1093/icb/45.5.715</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Costa et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Costa</surname><given-names>FO</given-names></name>
+                  <name><surname>deWaard</surname><given-names>JR</given-names></name>
+                  <name><surname>Boutillier</surname><given-names>J</given-names></name>
+                  <name><surname>Ratnasingham</surname><given-names>S</given-names></name>
+                  <name><surname>Dooh</surname><given-names>RT</given-names></name>
+                  <name><surname>Hajibabaei</surname><given-names>M</given-names></name>
+                  <name><surname>Hebert</surname><given-names>PD</given-names></name>
+               </person-group>
+          <article-title>Biological identifications through DNA barcodes: the case of the Crustacea</article-title>
+          <source>Canadian Journal of Fisheries and Aquatic Sciences</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>64</volume>
+          <fpage>272</fpage>
+          <lpage>295</lpage>
+          <pub-id pub-id-type="doi">10.1139/f07-008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Cruden (1966)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Cruden</surname><given-names>RW</given-names></name>
+               </person-group>
+          <article-title>Birds as agents of long-distance dispersal for disjunct plant groups of temperate Western hemisphere</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1966">1966</year>
+          <volume>20</volume>
+          <fpage>517</fpage>
+          <lpage>532</lpage>
+          <pub-id pub-id-type="doi">10.2307/2406587</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Darwin (1859)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Darwin</surname><given-names>CR</given-names></name>
+               </person-group>
+          <source>On the origin of species by means of natural selection</source>
+          <year iso-8601-date="1859">1859</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>John Murray</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>De Gelas &amp; De Meester (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>De Gelas</surname><given-names>K</given-names></name>
+                  <name><surname>De Meester</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>Phylogeography of <italic>Daphnia magna</italic> in Europe</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>14</volume>
+          <fpage>753</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2004.02434.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>De Meester et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>De Meester</surname><given-names>L</given-names></name>
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+                  <name><surname>Okamura</surname><given-names>B</given-names></name>
+                  <name><surname>Schwenk</surname><given-names>K</given-names></name>
+               </person-group>
+          <article-title>The Monopolization Hypothesis and the dispersal–gene flow paradox in aquatic organisms</article-title>
+          <source>Acta Oecologica</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>23</volume>
+          <fpage>121</fpage>
+          <lpage>135</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1146-609X(02)01145-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Edmands (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Edmands</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>Phylogeography of the intertidal copepod <italic>Tigriopus californicus</italic> reveals substantially reduced population differentiation at northern latitudes</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>10</volume>
+          <fpage>1743</fpage>
+          <lpage>1750</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.0962-1083.2001.01306.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Ehlers &amp; Gibbard (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Ehlers</surname><given-names>J</given-names></name>
+                  <name><surname>Gibbard</surname><given-names>PL</given-names></name>
+               </person-group>
+          <source>Quaternary glaciations: extent and chronology, Part 2</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Amsterdam</publisher-loc>
+          <publisher-name>Elsevier</publisher-name>
+          <comment>450 pages</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Excoffier, Laval &amp; Schneider (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Excoffier</surname><given-names>L</given-names></name>
+                  <name><surname>Laval</surname><given-names>G</given-names></name>
+                  <name><surname>Schneider</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>Arlequin (version 3.0): an integrated software package for population genetics data analysis</article-title>
+          <source>Evolutionary Bioinformatics Online</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>1</volume>
+          <fpage>47</fpage>
+          <lpage>50</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Figuerola &amp; Green (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+               </person-group>
+          <article-title>Dispersal of aquatic organisms by waterbirds: a review of past research and priorities for future studies</article-title>
+          <source>Freshwater Biology</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>47</volume>
+          <fpage>483</fpage>
+          <lpage>494</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2427.2002.00829.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Figuerola, Green &amp; Michot (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Michot</surname><given-names>TC</given-names></name>
+               </person-group>
+          <article-title>Invertebrate eggs can fly: evidence of waterfowl-mediated gene flow in aquatic invertebrates</article-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>165</volume>
+          <fpage>274</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="doi">10.1086/427092</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Freeland, Romualdi &amp; Okamura (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Freeland</surname><given-names>JR</given-names></name>
+                  <name><surname>Romualdi</surname><given-names>C</given-names></name>
+                  <name><surname>Okamura</surname><given-names>B</given-names></name>
+               </person-group>
+          <article-title>Gene flow and genetic diversity: a comparison of freshwater bryozoan populations in Europe and North America</article-title>
+          <source>Heredity</source>
+          <issue>Pt 5</issue>
+          <year iso-8601-date="2000">2000</year>
+          <volume>85</volume>
+          <fpage>498</fpage>
+          <lpage>508</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-2540.2000.00780.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Gajardo et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gajardo</surname><given-names>GGM</given-names></name>
+                  <name><surname>Colihueque</surname><given-names>N</given-names></name>
+                  <name><surname>Parraguéz</surname><given-names>M</given-names></name>
+                  <name><surname>Sorgeloos</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>International Study on <italic>Artemia</italic> LVIII. Morphologic differentiation and reproductive isolation of <italic>Artemia</italic> populations from South America</article-title>
+          <source>International Journal of Salt Lake Research</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>7</volume>
+          <fpage>133</fpage>
+          <lpage>151</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Gajardo et al. (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gajardo</surname><given-names>GGM</given-names></name>
+                  <name><surname>Conceicao</surname><given-names>M</given-names></name>
+                  <name><surname>Weber</surname><given-names>L</given-names></name>
+                  <name><surname>Beardmore</surname><given-names>JA</given-names></name>
+               </person-group>
+          <article-title>Genetic variability and interpopulational differentiation of <italic>Artemia</italic> strains from South America</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>302</volume>
+          <fpage>21</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00006396</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Gelabert &amp; Solis (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gelabert</surname><given-names>F</given-names></name>
+                  <name><surname>Solis</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>La selección del tamaño de particulas alimenticias por <italic>Artemia</italic> de Guantánamo, Cuba</article-title>
+          <source>Revista de Investigacion Marine</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>15</volume>
+          <fpage>141</fpage>
+          <lpage>144</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Gómez, Carvalho &amp; Lunt (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+                  <name><surname>Carvalho</surname><given-names>GR</given-names></name>
+                  <name><surname>Lunt</surname><given-names>DH</given-names></name>
+               </person-group>
+          <article-title>Phylogeography and regional endemism of a passively dispersing zooplankter: mitochondrial DNA variation in rotifer resting egg banks</article-title>
+          <source>Proceedings of the Royal Society B: Biological Sciences</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>267</volume>
+          <fpage>2189</fpage>
+          <lpage>2197</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.2000.1268</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Gómez et al. (2007a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+                  <name><surname>Montero-Pau</surname><given-names>J</given-names></name>
+                  <name><surname>Lunt</surname><given-names>DH</given-names></name>
+                  <name><surname>Serra</surname><given-names>M</given-names></name>
+                  <name><surname>Campillo</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>Persistent genetic signatures of colonization in <italic>Brachionus manjavacas</italic> rotifers in the Iberian Peninsula</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2007">2007a</year>
+          <volume>16</volume>
+          <fpage>3228</fpage>
+          <lpage>3240</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2007.03372.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Gómez et al. (2007b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+                  <name><surname>Wright</surname><given-names>PJ</given-names></name>
+                  <name><surname>Lunt</surname><given-names>DH</given-names></name>
+                  <name><surname>Cancino</surname><given-names>JM</given-names></name>
+                  <name><surname>Carvalho</surname><given-names>GR</given-names></name>
+                  <name><surname>Hughes</surname><given-names>RN</given-names></name>
+               </person-group>
+          <article-title>Mating trials validate the use of DNA barcoding to reveal cryptic speciation of a marine bryozoan taxon</article-title>
+          <source>Proceedings of the Royal Society B: Biological Sciences</source>
+          <year iso-8601-date="2007">2007b</year>
+          <volume>274</volume>
+          <fpage>199</fpage>
+          <lpage>207</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.2006.3718</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Green &amp; Figuerola (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Recent advances in the study of long-distance dispersal of aquatic invertebrates via birds</article-title>
+          <source>Diversity and Distributions</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>11</volume>
+          <fpage>149</fpage>
+          <lpage>156</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1366-9516.2005.00147.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Green et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Frisch</surname><given-names>D</given-names></name>
+                  <name><surname>Michot</surname><given-names>TC</given-names></name>
+                  <name><surname>Allain</surname><given-names>LK</given-names></name>
+                  <name><surname>Barrow</surname><given-names>WC</given-names></name>
+               </person-group>
+          <article-title>Endozoochory of seeds and invertebrates by migratory waterbirds in Oklahoma, USA</article-title>
+          <source>Limnetica</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>32</volume>
+          <fpage>39</fpage>
+          <lpage>46</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Green et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Jenkins</surname><given-names>KM</given-names></name>
+                  <name><surname>Bell</surname><given-names>D</given-names></name>
+                  <name><surname>Morris</surname><given-names>PJ</given-names></name>
+                  <name><surname>Kingsford</surname><given-names>RT</given-names></name>
+               </person-group>
+          <article-title>The potential role of waterbirds in dispersing invertebrates and plants in arid Australia</article-title>
+          <source>Freshwater Biology</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>53</volume>
+          <fpage>380</fpage>
+          <lpage>392</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2427.2007.01901.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Green et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Sánchez</surname><given-names>MI</given-names></name>
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+                  <name><surname>Hontoria</surname><given-names>F</given-names></name>
+                  <name><surname>Ruiz</surname><given-names>O</given-names></name>
+                  <name><surname>Hortas</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Dispersal of invasive and native brine shrimps <italic>Artemia</italic> (Anostraca) via waterbirds</article-title>
+          <source>Limnology and Oceanography</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>50</volume>
+          <fpage>737</fpage>
+          <lpage>742</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.2005.50.2.0737</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-44">
+        <label>Hebert et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hebert</surname><given-names>PDN</given-names></name>
+                  <name><surname>Penton</surname><given-names>EH</given-names></name>
+                  <name><surname>Burns</surname><given-names>JM</given-names></name>
+                  <name><surname>Janzen</surname><given-names>DH</given-names></name>
+                  <name><surname>Hallwachs</surname><given-names>W</given-names></name>
+               </person-group>
+          <article-title>Ten species in one: DNA barcoding reveals cryptic species in the neotropical skipper butterfly <italic>Astraptes fulgerator</italic></article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>101</volume>
+          <fpage>14812</fpage>
+          <lpage>14817</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0406166101</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-45">
+        <label>Hebert, Witt &amp; Adamowicz (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hebert</surname><given-names>PDN</given-names></name>
+                  <name><surname>Witt</surname><given-names>JDS</given-names></name>
+                  <name><surname>Adamowicz</surname><given-names>SJ</given-names></name>
+               </person-group>
+          <article-title>Phylogeographical patterning in <italic>Daphnia ambigua</italic>: regional divergence and intercontinental cohesion</article-title>
+          <source>Limnology and Oceanography</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>48</volume>
+          <fpage>261</fpage>
+          <lpage>268</lpage>
+          <pub-id pub-id-type="doi">10.4319/lo.2003.48.1.0261</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-46">
+        <label>Holt et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Holt</surname><given-names>BG</given-names></name>
+                  <name><surname>Lessard</surname><given-names>J-P</given-names></name>
+                  <name><surname>Borregaard</surname><given-names>MK</given-names></name>
+                  <name><surname>Fritz</surname><given-names>SA</given-names></name>
+                  <name><surname>Araújo</surname><given-names>MB</given-names></name>
+                  <name><surname>Dimitrov</surname><given-names>D</given-names></name>
+                  <name><surname>Fabre</surname><given-names>P-H</given-names></name>
+                  <name><surname>Graham</surname><given-names>CH</given-names></name>
+                  <name><surname>Graves</surname><given-names>GR</given-names></name>
+                  <name><surname>Jønsson</surname><given-names>KA</given-names></name>
+                  <name><surname>Nogués-Bravo</surname><given-names>D</given-names></name>
+                  <name><surname>Wang</surname><given-names>Z</given-names></name>
+                  <name><surname>Whittaker</surname><given-names>RJ</given-names></name>
+                  <name><surname>Fjeldså</surname><given-names>J</given-names></name>
+                  <collab>
+                     <institution>Carsten Rahbek</institution>
+                  </collab>
+               </person-group>
+          <article-title>An update of Wallace’s zoogeographic regions of the World</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>339</volume>
+          <fpage>74</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1228282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-47">
+        <label>Hontoria &amp; Amat (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hontoria</surname><given-names>F</given-names></name>
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Morphological characterization of adult <italic>Artemia</italic> (Crustacea, Branchiopoda) from different geographical origins. American populations</article-title>
+          <source>Journal of Plankton Research</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>14</volume>
+          <fpage>1461</fpage>
+          <lpage>1471</lpage>
+          <pub-id pub-id-type="doi">10.1093/plankt/14.10.1461</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-48">
+        <label>Janzen (1984)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Janzen</surname><given-names>DH</given-names></name>
+               </person-group>
+          <article-title>Dispersal of small seeds by big herbivores - foliage is the fruit</article-title>
+          <source>American Naturalist</source>
+          <year iso-8601-date="1984">1984</year>
+          <volume>123</volume>
+          <fpage>338</fpage>
+          <lpage>353</lpage>
+          <pub-id pub-id-type="doi">10.1086/284208</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-49">
+        <label>Jensen, Bohonak &amp; Kelley (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Jensen</surname><given-names>JL</given-names></name>
+                  <name><surname>Bohonak</surname><given-names>AJ</given-names></name>
+                  <name><surname>Kelley</surname><given-names>ST</given-names></name>
+               </person-group>
+          <article-title>Isolation by distance, web service</article-title>
+          <source>BMC Genetics</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>6</volume>
+          <fpage>13</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2156-6-13</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-50">
+        <label>Kappas et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Kappas</surname><given-names>I</given-names></name>
+                  <name><surname>Baxevanis</surname><given-names>AD</given-names></name>
+                  <name><surname>Maniatsi</surname><given-names>S</given-names></name>
+                  <name><surname>Abatzopoulos</surname><given-names>TJ</given-names></name>
+               </person-group>
+          <article-title>Porous genomes and species integrity in the branchiopod <italic>Artemia</italic></article-title>
+          <source>Molecular Phylogenetics and Evolution</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>52</volume>
+          <fpage>192</fpage>
+          <lpage>204</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ympev.2009.03.012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-51">
+        <label>Ketmaier et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ketmaier</surname><given-names>V</given-names></name>
+                  <name><surname>Pirollo</surname><given-names>D</given-names></name>
+                  <name><surname>Matthaeis</surname><given-names>E</given-names></name>
+                  <name><surname>Tiedemann</surname><given-names>R</given-names></name>
+                  <name><surname>Mura</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Large-scale mitochondrial phylogeography in the halophilic fairy shrimp <italic>Phallocryptus spinosa</italic> (Milne-Edwards, 1840) (Branchiopoda: Anostraca)</article-title>
+          <source>Aquatic Sciences</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>70</volume>
+          <fpage>65</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00027-007-7028-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-52">
+        <label>Knowlton &amp; Weigt (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Knowlton</surname><given-names>N</given-names></name>
+                  <name><surname>Weigt</surname><given-names>LA</given-names></name>
+               </person-group>
+          <article-title>New dates and new rates for divergence across the Isthmus of Panama</article-title>
+          <source>Proceedings of the Royal Society B: Biological Sciences</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>265</volume>
+          <fpage>2257</fpage>
+          <lpage>2263</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.1998.0568</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-53">
+        <label>Korn et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Korn</surname><given-names>M</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Machado</surname><given-names>M</given-names></name>
+                  <name><surname>García-de-Lomas</surname><given-names>J</given-names></name>
+                  <name><surname>Cristo</surname><given-names>M</given-names></name>
+                  <name><surname>Cancela da Fonseca</surname><given-names>L</given-names></name>
+                  <name><surname>Frisch</surname><given-names>D</given-names></name>
+                  <name><surname>Pérez-Bote</surname><given-names>JL</given-names></name>
+                  <name><surname>Hundsdoerfer</surname><given-names>AK</given-names></name>
+               </person-group>
+          <article-title>Phylogeny, molecular ecology and taxonomy of southern Iberian lineages of <italic>Triops mauritanicus</italic> (Crustacea: Notostraca)</article-title>
+          <source>Organisms Diversity &amp; Evolution</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>10</volume>
+          <fpage>409</fpage>
+          <lpage>440</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13127-010-0026-y</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-54">
+        <label>Lefébure et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lefébure</surname><given-names>T</given-names></name>
+                  <name><surname>Douady</surname><given-names>CJ</given-names></name>
+                  <name><surname>Gouy</surname><given-names>M</given-names></name>
+                  <name><surname>Gibert</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Relationship between morphological taxonomy and molecular divergence within Crustacea: proposal of a molecular threshold to help species delimitation</article-title>
+          <source>Molecular Phylogenetics and Evolution</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>40</volume>
+          <fpage>435</fpage>
+          <lpage>447</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ympev.2006.03.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-55">
+        <label>Lockley et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lockley</surname><given-names>MG</given-names></name>
+                  <name><surname>Lim</surname><given-names>JD</given-names></name>
+                  <name><surname>Kim</surname><given-names>JY</given-names></name>
+                  <name><surname>Kim</surname><given-names>KS</given-names></name>
+                  <name><surname>Huh</surname><given-names>M</given-names></name>
+                  <name><surname>Hwang</surname><given-names>KG</given-names></name>
+               </person-group>
+          <article-title>Tracking Korea’s early birds: a review of Cretaceous avian ichnology and its implications for evolution and behavior</article-title>
+          <source>Ichnos</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>19</volume>
+          <fpage>17</fpage>
+          <lpage>27</lpage>
+          <pub-id pub-id-type="doi">10.1080/10420940.2012.660409</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-56">
+        <label>Lomolino et al. (2010)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Lomolino</surname><given-names>MV</given-names></name>
+                  <name><surname>Riddle</surname><given-names>BR</given-names></name>
+                  <name><surname>Whittaker</surname><given-names>R</given-names></name>
+                  <name><surname>Brown</surname><given-names>JH</given-names></name>
+               </person-group>
+          <source>Biogeography</source>
+          <year iso-8601-date="2010">2010</year>
+          <publisher-loc>Sunderland, MA</publisher-loc>
+          <publisher-name>Sinauer Associates</publisher-name>
+          <comment>878 pp</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-57">
+        <label>Maniatsi et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Maniatsi</surname><given-names>S</given-names></name>
+                  <name><surname>Kappas</surname><given-names>I</given-names></name>
+                  <name><surname>Baxevanis</surname><given-names>AD</given-names></name>
+                  <name><surname>Farmaki</surname><given-names>T</given-names></name>
+                  <name><surname>Abatzopoulos</surname><given-names>TJ</given-names></name>
+               </person-group>
+          <article-title>Sharp phylogeographic breaks and patterns of genealogical concordance in the brine shrimp <italic>Artemia franciscana</italic></article-title>
+          <source>International Journal of Molecular Sciences</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>10</volume>
+          <fpage>5455</fpage>
+          <lpage>5470</lpage>
+          <pub-id pub-id-type="doi">10.3390/ijms10125455</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-58">
+        <label>Mills, Lunt &amp; Gómez (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Mills</surname><given-names>S</given-names></name>
+                  <name><surname>Lunt</surname><given-names>DH</given-names></name>
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Global isolation by distance despite strong regional phylogeography in a small metazoan</article-title>
+          <source>BMC Evolutionary Biology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>7</volume>
+          <fpage>225</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2148-7-225</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-59">
+        <label>Miura et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Miura</surname><given-names>O</given-names></name>
+                  <name><surname>Torchin</surname><given-names>ME</given-names></name>
+                  <name><surname>Bermingham</surname><given-names>E</given-names></name>
+                  <name><surname>Jacobs</surname><given-names>DK</given-names></name>
+                  <name><surname>Hechinger</surname><given-names>RF</given-names></name>
+               </person-group>
+          <article-title>Flying shells: historical dispersal of marine snails across Central America</article-title>
+          <source>Proceedings of the Royal Society B: Biological Sciences</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>279</volume>
+          <fpage>1061</fpage>
+          <lpage>1067</lpage>
+          <pub-id pub-id-type="doi">10.1098/rspb.2011.1599</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-60">
+        <label>Montero-Pau, Gómez &amp; Muñoz (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Montero-Pau</surname><given-names>J</given-names></name>
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+                  <name><surname>Muñoz</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Application of an inexpensive and high-throughput genomic DNA extraction method for the molecular ecology of zooplanktonic diapausing eggs</article-title>
+          <source>Limnology and Oceanography: Methods</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>6</volume>
+          <fpage>218</fpage>
+          <lpage>222</lpage>
+          <pub-id pub-id-type="doi">10.4319/lom.2008.6.218</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-61">
+        <label>Moscatello &amp; Belmonte (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Moscatello</surname><given-names>S</given-names></name>
+                  <name><surname>Belmonte</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Egg banks in hypersaline lakes of the South-East Europe</article-title>
+          <source>Saline Systems</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>5</volume>
+          <fpage>3</fpage>
+          <pub-id pub-id-type="doi">10.1186/1746-1448-5-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-62">
+        <label>Muñoz et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Muñoz</surname><given-names>J</given-names></name>
+                  <name><surname>Gómez</surname><given-names>A</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+                  <name><surname>Rico</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Phylogeography and local endemism of the native Mediterranean brine shrimp <italic>Artemia salina</italic> (Branchiopoda: Anostraca)</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>17</volume>
+          <fpage>3160</fpage>
+          <lpage>3177</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2008.03818.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-63">
+        <label>Muñoz &amp; Pacios (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Muñoz</surname><given-names>J</given-names></name>
+                  <name><surname>Pacios</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Global biodiversity and geographical distribution of diapausing aquatic invertebrates: the case of the cosmopolitan brine shrimp, <italic>Artemia</italic> (Branchiopoda, Anostraca)</article-title>
+          <source>Crustaceana</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>83</volume>
+          <fpage>465</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1163/001121610X489449</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-64">
+        <label>Orsini et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Orsini</surname><given-names>L</given-names></name>
+                  <name><surname>Mergeay</surname><given-names>J</given-names></name>
+                  <name><surname>Vanoverbeke</surname><given-names>J</given-names></name>
+                  <name><surname>Meester</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>The role of selection in driving landscape genomic structure of the waterflea <italic>Daphnia magna</italic></article-title>
+          <source>Molecular Ecology</source>
+          <issue>3</issue>
+          <year iso-8601-date="2013">2013</year>
+          <volume>22</volume>
+          <fpage>583</fpage>
+          <lpage>601</lpage>
+          <pub-id pub-id-type="doi">10.1111/mec.12117</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-65">
+        <label>Palumbi (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Palumbi</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>Nucleic acids II: the polymerase chain reaction</article-title>
+          <source>Molecular Systematics</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>2</volume>
+          <fpage>205</fpage>
+          <lpage>247</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-66">
+        <label>Petit (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Petit</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>Identifying populations for conservation on the basis of genetic markers</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>1</volume>
+          <fpage>844</fpage>
+          <lpage>855</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.1998.96489.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-67">
+        <label>Pons et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Pons</surname><given-names>J</given-names></name>
+                  <name><surname>Barraclough</surname><given-names>TG</given-names></name>
+                  <name><surname>Gomez-Zurita</surname><given-names>J</given-names></name>
+                  <name><surname>Cardoso</surname><given-names>A</given-names></name>
+                  <name><surname>Duran</surname><given-names>DP</given-names></name>
+                  <name><surname>Hazell</surname><given-names>S</given-names></name>
+                  <name><surname>Kamoun</surname><given-names>S</given-names></name>
+                  <name><surname>Sumlin</surname><given-names>WD</given-names></name>
+                  <name><surname>Vogler</surname><given-names>AP</given-names></name>
+               </person-group>
+          <article-title>Sequence-based species delimitation for the DNA taxonomy of undescribed insects</article-title>
+          <source>Systematic Biology</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>55</volume>
+          <fpage>595</fpage>
+          <lpage>609</lpage>
+          <pub-id pub-id-type="doi">10.1080/10635150600852011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-68">
+        <label>Proctor (1968)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Proctor</surname><given-names>VW</given-names></name>
+               </person-group>
+          <article-title>Long-distance dispersal of seeds by retention in digestive tract of birds</article-title>
+          <source>Science</source>
+          <year iso-8601-date="1968">1968</year>
+          <volume>160</volume>
+          <fpage>321</fpage>
+          <lpage>322</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.160.3825.321</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-69">
+        <label>Puillandre et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Puillandre</surname><given-names>N</given-names></name>
+                  <name><surname>Lambert</surname><given-names>A</given-names></name>
+                  <name><surname>Brouillet</surname><given-names>S</given-names></name>
+                  <name><surname>Achaz</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>ABGD, Automatic Barcode Gap Discovery for primary species delimitation</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>21</volume>
+          <fpage>1864</fpage>
+          <lpage>1877</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2011.05239.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-70">
+        <label>Sánchez et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Sánchez</surname><given-names>MI</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Amat</surname><given-names>F</given-names></name>
+                  <name><surname>Castellanos</surname><given-names>EM</given-names></name>
+               </person-group>
+          <article-title>Transport of brine shrimps via the digestive system of migratory waders: dispersal probabilities depend on diet and season</article-title>
+          <source>Marine Biology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>151</volume>
+          <fpage>1407</fpage>
+          <lpage>1415</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00227-006-0577-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-71">
+        <label>Sánchez, Green &amp; Castellanos (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Sánchez</surname><given-names>MI</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+                  <name><surname>Castellanos</surname><given-names>EM</given-names></name>
+               </person-group>
+          <article-title>Seasonal variation in the diet of Redshank <italic>Tringa totanus</italic> in the Odiel Marshes, southwest Spain: a comparison of faecal and pellet analysis</article-title>
+          <source>Statistica</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>52</volume>
+          <fpage>210</fpage>
+          <lpage>216</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-72">
+        <label>Sánchez et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Sánchez</surname><given-names>MI</given-names></name>
+                  <name><surname>Hortas</surname><given-names>F</given-names></name>
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+                  <name><surname>Green</surname><given-names>AJ</given-names></name>
+               </person-group>
+          <article-title>Comparing the dispersal potential of a native and an invasive brine shrimp via waterbirds</article-title>
+          <source>Freshwater Biology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>50</volume>
+          <fpage>737</fpage>
+          <lpage>742</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-73">
+        <label>Stamatakis (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Stamatakis</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models</article-title>
+          <source>Bioinformatics</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>22</volume>
+          <fpage>2688</fpage>
+          <lpage>2690</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btl446</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-74">
+        <label>Sui et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Sui</surname><given-names>LY</given-names></name>
+                  <name><surname>Zhang</surname><given-names>Q</given-names></name>
+                  <name><surname>Wang</surname><given-names>J</given-names></name>
+                  <name><surname>He</surname><given-names>H</given-names></name>
+                  <name><surname>Sorgeloos</surname><given-names>P</given-names></name>
+                  <name><surname>Van Stappen</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>High-temperature adapted <italic>Artemia Franciscana</italic> (Kellogg, 1906) from Vietnam is a suitable strain for inoculation in temperate conditions of Bohai Bay saltworks, China</article-title>
+          <source>Crustaceana</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>85</volume>
+          <fpage>1709</fpage>
+          <lpage>1723</lpage>
+          <pub-id pub-id-type="doi">10.1163/15685403-00003146</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-75">
+        <label>Tackaert &amp; Sorgeloos (1993)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tackaert</surname><given-names>W</given-names></name>
+                  <name><surname>Sorgeloos</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>Use of brine shrimp to increase salt production</article-title>
+          <source>Seventh Symposium on Salt</source>
+          <year iso-8601-date="1993">1993</year>
+          <volume>1</volume>
+          <fpage>617</fpage>
+          <lpage>622</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-76">
+        <label>Tamura, Peterson &amp; Peterson (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tamura</surname><given-names>K</given-names></name>
+                  <name><surname>Peterson</surname><given-names>D</given-names></name>
+                  <name><surname>Peterson</surname><given-names>N</given-names></name>
+               </person-group>
+          <article-title>MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods</article-title>
+          <source>Molecular Biology and Evolution</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>28</volume>
+          <fpage>2731</fpage>
+          <lpage>2739</lpage>
+          <pub-id pub-id-type="doi">10.1093/molbev/msr121</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-77">
+        <label>Taylor, Finston &amp; Hebert (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Taylor</surname><given-names>DJ</given-names></name>
+                  <name><surname>Finston</surname><given-names>TL</given-names></name>
+                  <name><surname>Hebert</surname><given-names>PDN</given-names></name>
+               </person-group>
+          <article-title>Biogeography of a widespread freshwater crustacean: pseudocongruence and cryptic endemism in the North American <italic>Daphnia laevis</italic> complex</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>52</volume>
+          <fpage>1648</fpage>
+          <lpage>1670</lpage>
+          <pub-id pub-id-type="doi">10.2307/2411338</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-78">
+        <label>ter Braak &amp; Šmilauer (2002)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>ter Braak</surname><given-names>CJF</given-names></name>
+                  <name><surname>Šmilauer</surname><given-names>P</given-names></name>
+               </person-group>
+          <source>CANOCO reference manual and canodraw for Windows user’s guide: software for canonical community ordination (version 4.5)</source>
+          <year iso-8601-date="2002">2002</year>
+          <publisher-loc>Ithaca, NY, USA</publisher-loc>
+          <comment>(<uri xlink:href="http://www.canoco.com">www.canoco.com</uri>) Microcomputer Power, 351 pp</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-79">
+        <label>Tizol-Correa (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tizol-Correa</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>Caracterización morfométrica del camarón de salmuera <italic>(Artemia)</italic>, de Cuba</article-title>
+          <source>Revista Cubana de Investigaciones Pesqueras</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>26</volume>
+          <fpage>25</fpage>
+          <lpage>30</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-80">
+        <label>Tizol-Correa et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tizol-Correa</surname><given-names>R</given-names></name>
+                  <name><surname>Maeda-Martínez</surname><given-names>AM</given-names></name>
+                  <name><surname>Weekers</surname><given-names>PHH</given-names></name>
+                  <name><surname>Torrentera</surname><given-names>L</given-names></name>
+                  <name><surname>Murugan</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Biodiversity of the brine shrimp <italic>Artemia</italic> from tropical salterns in southern México and Cuba</article-title>
+          <source>Current Science</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>96</volume>
+          <fpage>81</fpage>
+          <lpage>87</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-81">
+        <label>van Leeuwen et al. (2012a)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>van Leeuwen</surname><given-names>CHA</given-names></name>
+                  <name><surname>van der Velde</surname><given-names>G</given-names></name>
+                  <name><surname>van Groenendael</surname><given-names>JM</given-names></name>
+                  <name><surname>Klaassen</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Gut travellers: internal dispersal of aquatic organisms by waterfowl</article-title>
+          <source>Journal of Biogeography</source>
+          <year iso-8601-date="2012">2012a</year>
+          <volume>39</volume>
+          <fpage>2031</fpage>
+          <lpage>2040</lpage>
+          <pub-id pub-id-type="doi">10.1111/jbi.12004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-82">
+        <label>van Leeuwen et al. (2012b)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>van Leeuwen</surname><given-names>CHA</given-names></name>
+                  <name><surname>van der Velde</surname><given-names>G</given-names></name>
+                  <name><surname>van Lith</surname><given-names>B</given-names></name>
+                  <name><surname>Klaassen</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Experimental quantification of long distance dispersal potential of aquatic snails in the gut of migratory birds</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2012">2012b</year>
+          <volume>7</volume>
+          <elocation-id>e32292</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0032292</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-83">
+        <label>Vanschoenwinkel et al. (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Vanschoenwinkel</surname><given-names>B</given-names></name>
+                  <name><surname>Gielen</surname><given-names>S</given-names></name>
+                  <name><surname>Seaman</surname><given-names>M</given-names></name>
+                  <name><surname>Brendonck</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>Wind mediated dispersal of freshwater invertebrates in a rock pool metacommunity: differences in dispersal capacities and modes</article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>635</volume>
+          <fpage>363</fpage>
+          <lpage>372</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10750-009-9929-z</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-84">
+        <label>Van Stappen (2002)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Van Stappen</surname><given-names>G</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Abatzopoulos</surname><given-names>ThJ</given-names></name>
+                  <name><surname>Beardmore</surname><given-names>JA</given-names></name>
+                  <name><surname>Clegg</surname><given-names>JS</given-names></name>
+               </person-group>
+          <article-title>Zoogeography</article-title>
+          <source>Artemia: basic and applied biology</source>
+          <year iso-8601-date="2002">2002</year>
+          <publisher-loc>Dordrecht</publisher-loc>
+          <publisher-name>Kluwer Academic Publishing</publisher-name>
+          <fpage>171</fpage>
+          <lpage>224</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-85">
+        <label>Varo et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Varo</surname><given-names>N</given-names></name>
+                  <name><surname>Green</surname><given-names>A</given-names></name>
+                  <name><surname>Sánchez</surname><given-names>M</given-names></name>
+                  <name><surname>Ramo</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Behavioural and population responses to changing availability of <italic>Artemia</italic> prey by moulting black-necked grebes, <italic>Podiceps nigricollis</italic></article-title>
+          <source>Hydrobiologia</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>664</volume>
+          <fpage>163</fpage>
+          <lpage>171</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10750-010-0596-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-86">
+        <label>Vest &amp; Conover (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Vest</surname><given-names>JL</given-names></name>
+                  <name><surname>Conover</surname><given-names>MR</given-names></name>
+               </person-group>
+          <article-title>Food habits of wintering waterfowl on the Great Salt Lake, Utah</article-title>
+          <source>Waterbirds</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>34</volume>
+          <fpage>40</fpage>
+          <lpage>50</lpage>
+          <pub-id pub-id-type="doi">10.1675/063.034.0105</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-87">
+        <label>Viana et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Viana</surname><given-names>DS</given-names></name>
+                  <name><surname>Santamaría</surname><given-names>L</given-names></name>
+                  <name><surname>Michot</surname><given-names>TC</given-names></name>
+                  <name><surname>Figuerola</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Migratory strategies of waterbirds shape the continental-scale dispersal of aquatic organisms</article-title>
+          <source>Ecography</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>36</volume>
+          <fpage>430</fpage>
+          <lpage>438</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-0587.2012.07588.x</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

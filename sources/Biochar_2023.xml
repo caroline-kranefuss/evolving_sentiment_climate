@@ -1,0 +1,3791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">15684</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.15684</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Agricultural Science</subject>
+<subject>Plant Science</subject>
+<subject>Soil Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Biochar improves the growth and physiological traits of alfalfa, amaranth and maize grown under salt stress</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Jabborova</surname>
+<given-names>Dilfuza</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>dilfuzajabborova@yahoo.com</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Abdrakhmanov</surname>
+<given-names>Tokhtasin</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Jabbarov</surname>
+<given-names>Zafarjon</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Abdullaev</surname>
+<given-names>Shokhrukh</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name name-style="western">
+<surname>Azimov</surname>
+<given-names>Abdulahat</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Mohamed</surname>
+<given-names>Ibrahim</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author">
+<name name-style="western">
+<surname>AlHarbi</surname>
+<given-names>Maha</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-8" contrib-type="author">
+<name name-style="western">
+<surname>Abu-Elsaoud</surname>
+<given-names>Abdelghafar</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+<xref ref-type="aff" rid="aff-6">6</xref>
+</contrib>
+<contrib id="author-9" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Elkelish</surname>
+<given-names>Amr</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+<xref ref-type="aff" rid="aff-6">6</xref>
+<email>amr.elkelish@science.suez.edu.eg</email>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>National University of Uzbekistan</institution>, <addr-line>Tashkent</addr-line>, <country>Uzbekistan</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Uzbekistan Academy of Sciences</institution>, <addr-line>Kibray</addr-line>, <country>Uzbekistan</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Benha University</institution>, <addr-line>Benha</addr-line>, <country>Egypt</country></aff>
+<aff id="aff-4">
+<label>4</label><institution>Princess Nourah bint Abdulrahman University</institution>, <addr-line>Riyadh</addr-line>, <country>Saudi Arabia</country></aff>
+<aff id="aff-5">
+<label>5</label><institution>Suez Canal University</institution>, <addr-line>Ismailia</addr-line>, <country>Egypt</country></aff>
+<aff id="aff-6">
+<label>6</label><institution>Imam Mohammad ibn Saud Islamic University</institution>, <addr-line>Riyadh</addr-line>, <country>Saudia Arabia</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Abd El-Moneim</surname>
+<given-names>Diaa</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-08-18"><day>18</day><month>8</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e15684</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-02-17"><day>17</day><month>2</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-06-14"><day>14</day><month>6</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Jabborova et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Jabborova et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/15684"/>
+<abstract>
+<sec>
+<title>Purpose</title>
+<p>Salinity is a main factor in decreasing seed germination, plant growth and yield. Salinity stress is a major problem for economic crops, as it can reduce crop yields and quality. Salinity stress occurs when the soil or water in which a crop is grown has a high salt content. Biochar improve plant growth and physiological traits under salt stress. The aim of the present study, the impact of biochar on growth, root morphological traits and physiological properties of alfalfa, amaranth and maize and soil enzyme activities under saline sands.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>We studied the impact of biochar on plant growth and the physiological properties of alfalfa, amaranth and maize under salt stress conditions. After 40 days, plant growth parameters (plant height, shoot and root fresh weights), root morphological traits and physiological properties were measured. Soil nutrients such as the P, K and total N contents in soil and soil enzyme activities were analyzed.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>The results showed that the maize, alfalfa, and amaranth under biochar treatments significantly enhanced the plant height and root morphological traits over the control. The biochar on significantly increased the total root length, root diameter, and root volume. Compared to the control, the biochar significantly increased the chlorophyll a and b content, total chlorophyll and carotenoid content under salt stress. Furthermore, the biochar significantly increased enzyme activities of soil under salt stress in the three crops.</p>
+</sec>
+<sec>
+<title>Conclusions</title>
+<p>Biochar treatments promote plant growth and physiological traits of alfalfa, amaranth, and maize under the salt stress condition. Overall, biochar is an effective way to mitigate salinity stress in crops. It can help to reduce the amount of salt in the soil, improve the soil structure, and increase the availability of essential nutrients, which can all help to improve crop yields.</p>
+</sec>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Salt stress</kwd>
+<kwd>Biochar</kwd>
+<kwd>Alfalfa</kwd>
+<kwd>Amaranth</kwd>
+<kwd>Maize</kwd>
+<kwd>Total root length</kwd>
+<kwd>Root volume</kwd>
+<kwd>Chlorophyll content</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The authors received no funding for this work.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Soil degradation in the Republic of Uzbekistan is mainly caused by salinity; 54% of the irrigated lands of Uzbekistan are subject to varying degrees of salinity. This salinity is especially true in the Republic of Karakalpakistan, Khorezm, Bukhara, Syrdarya and Jizzakh regions (<xref ref-type="bibr" rid="ref-60">Qi &amp; Evered, 2008</xref>). Among soil degradation in the world, soil salinity plays a major role; the occurrence of salinity affects the amount of carbon (C), nitrogen (N), carbon emission, bacterial gene copy number, actinobacteria, thermophilic and beta proteobacteria in soil (<xref ref-type="bibr" rid="ref-68">Yang et al., 2021</xref>). Soil salinity is related to soil physical properties; the effects of wind erosion on salts in soil were studied. These studies were conducted on samples treated with salts in an arid region, and wind tunnel tests and a strong wind of 18 m/c were conducted under the influence; according to the results, Na<sub>2</sub>SO<sub>4</sub>, MgSO<sub>4</sub> and Na<sub>2</sub>CO<sub>3</sub> formed high emissive surfaces, Na<sub>2</sub>SO<sub>4</sub> and Na<sub>2</sub>CO<sub>3</sub> crystals appear in sharp form, dehydration fine aggregates for MgSO<sub>4</sub> were the primary source of dust (<xref ref-type="bibr" rid="ref-12">Dai et al., 2022</xref>). Soil salinization negatively affects soil processes, including carbon-nitrogen ratio, phosphatase, cellulase enzyme activity, and microbiological diversity (<xref ref-type="bibr" rid="ref-69">Yang et al., 2020</xref>).</p>
+<p>Salinity harms the nutrition of plants in the soil; the use of rhizobacteria with compost in such soils reduces the amount of sodium (Na+) in the soil, and affects the activity of soil enzymes resulting in the improvement of plant nutrition (<xref ref-type="bibr" rid="ref-55">Omara et al., 2022</xref>). <xref ref-type="bibr" rid="ref-66">Van Breusegem et al. (2001)</xref> reported that biochemical changes occurring when plants are subjected to salt stress is the accumulation of reactive oxygen species (superoxide and hydrogen peroxide). According to earlier studies, enzymatic antioxidants such as superoxide dismutase, catalase, peroxidase and ascorbate peroxidase have been reported antioxidant enzymes in salinity stress (<xref ref-type="bibr" rid="ref-1">Abdel Latef &amp; Chaoxing, 2014</xref>; <xref ref-type="bibr" rid="ref-18">Evelin et al., 2019</xref>). <xref ref-type="bibr" rid="ref-39">Kahrizi, Sedghi &amp; Sofalian (2012)</xref> reported that salinity stress enhanced peroxidase activity in wheat cultivars.</p>
+<p>The drying up of the Aral Sea was caused by global climate change and the irregular use of water resources since 1960, the poor functioning of drainage collectors and the expansion of irrigated agriculture in the region, resulting in a decline in the water level and an enhance in salinity (<xref ref-type="bibr" rid="ref-52">Micklin, 1988</xref>). Also, the transition from hydromorphic to automorphic accelerated, and desertification became more active. The Aral Sea’s drying up, and the soil formation process began in the open sand dunes (<xref ref-type="bibr" rid="ref-7">Assouline et al., 2015</xref>). Aral Sea, the amount of water-soluble salts in the soil increased from 4–5 to 71.3 g/L; according to studies, the number of microorganisms decreased with the increase of salts in the soil (<xref ref-type="bibr" rid="ref-38">Jiang et al., 2021</xref>). A decrease in plant life has been observed around the South Aral Sea. Therefore, monitoring and increasing plant life ensure ecological stability (<xref ref-type="bibr" rid="ref-44">Kochkarova, 2020</xref>). The increase of plants in the dry bottom of the island leads to the improvement of soil properties; in this regard, the concentration of cations in the soil (Ca<sup>2+</sup>, K<sup>+</sup>, Mg<sup>2+</sup> va Na<sup>+</sup>), cation exchange capacity, pH environment, enzyme activity (phosphatase, b-glucodase, and N-acetylglucosaminidase) in the 0–10 cm layer, when planting plants decreased the concentration of basic cations, and electrical conductivity, the activity of enzymes and the number of microorganisms have increased (<xref ref-type="bibr" rid="ref-5">An et al., 2020</xref>), the widespread introduction of phytoremediation on the island prevents sand flying (<xref ref-type="bibr" rid="ref-30">Issanova et al., 2015</xref>). In the dry regions of the Aral Sea, the salinity type of soils is chloride-sulfate; the amount of salts is from 2.09% to 4.21%, the amount of chlorine is from 0.59% to 0.82%, sulfate is from 0.68% to 2.24%, sodium is 0.67% from 1.08%, black saxovol was planted in the studies, its phytomass (58.7 t/ha), 669 16-year-old seedlings per 1 ha, phytomass 185.9 t/ha, 1,682 saxovol per hectare the seedling is correct (<xref ref-type="bibr" rid="ref-16">Duan, Wang &amp; Sun, 2022</xref>).</p>
+<p>Aral Sea, where the study was conducted, does not have complete soil formation at the moment because if we take into account the participation of six factors in the formation of soil and assume that 1 cm of soil is formed on average in 200 years if it is considered that it has been 60 years since the drying of the island until now, there is still a 1 cm layer in the dry bottom of the island. There is no soil, and the process of soil formation has started in some areas (<xref ref-type="bibr" rid="ref-31">Jabborova et al., 2022</xref>). From this point of view, it can be said that scientists and experts who plan to conduct scientific, practical and innovative research in the dry bottom of the Aral Sea should take into account the absence of soil cover.</p>
+<p>Biochar application to soil plays an essential role in promoting nutrient dynamics and modifying soil pollutants and microbial functions (<xref ref-type="bibr" rid="ref-64">Shaaban et al., 2018</xref>). Biochar continues to be used in agriculture, promoting soil properties and improving productivity (<xref ref-type="bibr" rid="ref-13">Day et al., 2004</xref>). The effect of biochar is either directly by supplying nutrients to plants or indirectly by improving soil properties, resulting in increased plant nutrient utilization efficiency (<xref ref-type="bibr" rid="ref-40">Keeney, 2015</xref>). Biochar improves soil quality and crop productivity; its effect is realized through greater soil microbial mass, enzyme activity, including microbial biomass depending on soil types, urease, alkaline phosphatase, and dehydrogenase enzyme activity, respectively 21.7%, 23.1%, 25.4% increased to 19.8% (<xref ref-type="bibr" rid="ref-58">Pokharel, Ma &amp; Chang, 2020</xref>), 5 years after the application of biochar, the carbon in the soil increased by 2.44%, and the amount of oxygen increased by 2.81% (<xref ref-type="bibr" rid="ref-14">Dong et al., 2017</xref>). Biochar affects the changes in the physical properties of soils, including improved filtration and moisture retention properties, enhanced CO<sub>2</sub>, N<sub>2</sub>O and CH<sub>4</sub> gas formation, reduced granulometric composition when applied to heavy soils, reduced density, increased porosity, increased plant water use (<xref ref-type="bibr" rid="ref-43">Kinney et al., 2012</xref>; <xref ref-type="bibr" rid="ref-49">Masiello et al., 2015</xref>).</p>
+<p>Several studies have shown that salt stress decreased seed germination (<xref ref-type="bibr" rid="ref-6">Ashraf &amp; McNeilly, 2004</xref>) and plant growth (<xref ref-type="bibr" rid="ref-11">Batool et al., 2015</xref>; <xref ref-type="bibr" rid="ref-36">Jabborova et al., 2020</xref>; <xref ref-type="bibr" rid="ref-32">Jabborova et al., 2021a</xref>, <xref ref-type="bibr" rid="ref-33">2021b</xref>; <xref ref-type="bibr" rid="ref-47">Kumar et al., 2021a</xref>; <xref ref-type="bibr" rid="ref-51">Menezes et al., 2017</xref>). Moreover, on the root morphological traits (<xref ref-type="bibr" rid="ref-67">Wang et al., 2008</xref>; <xref ref-type="bibr" rid="ref-72">Zeeshan et al., 2020</xref>) and physiological properties (<xref ref-type="bibr" rid="ref-9">Azari et al., 2012</xref>; <xref ref-type="bibr" rid="ref-35">Jabborova et al., 2021d</xref>, <xref ref-type="bibr" rid="ref-37">2021e</xref>; <xref ref-type="bibr" rid="ref-62">Saddiq et al., 2021</xref>) in plants. <xref ref-type="bibr" rid="ref-2">Akhtar, Andersen &amp; Liu (2015)</xref> reported that growth, physiology and yield of wheat by affect positively with biochar amendment under salt stress. <xref ref-type="bibr" rid="ref-74">Zulfiqar et al. (2021)</xref> informed that biochar enhance chlorophyll a and b contents and net photosynthetic rates of <italic>Alpinia zerumbet</italic> compared with those grown in the sandy loam soil. <xref ref-type="bibr" rid="ref-50">Mehdizadeh, Moghaddam &amp; Lakzian (2020)</xref> reported that biochar increase the growth, physiological traits and mineral nutrient contents of summer savory (<italic>Satureja hortensis</italic> L.) and under salinity condition.</p>
+<p>Biochar’s beneficial impact on plant nutrients (<xref ref-type="bibr" rid="ref-31">Jabborova et al., 2022</xref>, <xref ref-type="bibr" rid="ref-34">2021c</xref>) and enzyme activities in soil (<xref ref-type="bibr" rid="ref-37">Jabborova et al., 2021e</xref>; <xref ref-type="bibr" rid="ref-65">Song et al., 2022</xref>) were investigated in various plants under normal and stress conditions. <xref ref-type="bibr" rid="ref-54">Nikpour-Rashidabad et al. (2019)</xref> investigated that biochar improves mungbean’s physiological and anatomical traits under salt stress. Alfalfa, amaranth and maize were selected as plants that can adapt to the salty sand of the dry bottom of the Aral Sea. The effect of biochar on improve of the flora of the salty sand of the dry bottom of the Aral Sea was investigated. The present study evaluated the beneficial impact of biochar on growth and physiological characteristics in alfalfa, amaranth and maize and soil enzyme activities under saline sand conditions.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Biochar, soil, and seed</title>
+<p>The NUU Biology faculty’s Soil Sciences department provided the municipal solid waste biochar. At 500 °C for 40 min, biochar made from municipal solid waste was pyrolyzed. <xref ref-type="table" rid="table-1">Table 1</xref> lists the qualities of the municipal solid waste biochar.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>The municipal solid waste biochar characteristics.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Biochar</th>
+<th>BOC (g/kg)</th>
+<th>BOM (g/kg)</th>
+<th>TN (g/kg)</th>
+<th>TP (g/kg)</th>
+<th>TK (g/kg)</th>
+<th>AN (mg/kg)</th>
+<th>AP (mg/kg)</th>
+<th>AK (mg/kg)</th>
+<th>pH</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mean contents</td>
+<td>330.6</td>
+<td>570.0</td>
+<td>0.26</td>
+<td>4.48</td>
+<td>42.6</td>
+<td>237.8</td>
+<td>0.77</td>
+<td>688.9</td>
+<td>8.01</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>BOC, biochar organic carbon (g/kg); BOM, biochar organic matter (g/kg); TN, total nitrogen (g/kg); TP, total phosphorous (g/kg); TK, total potassium (g/kg); AN, available nitrogen (mg/kg); AP, available phosphorous (mg/kg); AK, available potassium (mg/kg).</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Sand samples were collected from the dry bottom of the southern part of the Aral Sea. Analysis of the sand’s physicochemical properties and the salinity level of the sands in the dry bottom of the Aral Sea are shown in <xref ref-type="table" rid="table-2">Tables 2</xref> and <xref ref-type="table" rid="table-3">3</xref>.</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Physicochemical properties of sands in the dried bottom of the Aral Sea.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Sand</th>
+<th>SOC (g/kg)</th>
+<th>SOM (g/kg)</th>
+<th>TN (g/kg)</th>
+<th>TP (g/kg)</th>
+<th>TK (g/kg)</th>
+<th>AN (mg/kg)</th>
+<th>AP (mg/kg)</th>
+<th>AK (mg/kg)</th>
+<th>pH</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mean contents</td>
+<td>0.87</td>
+<td>1.53</td>
+<td>0.52</td>
+<td>0.23</td>
+<td>0.71</td>
+<td>1.24</td>
+<td>1.13</td>
+<td>42.95</td>
+<td>8.5</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<p>SOC, Soil organic carbon (g/kg); SOM, soil organic matter (g/kg); TN, total nitrogen (g/kg); TP, total phosphorous (g/kg); TK, total potassium (g/kg); AN, available nitrogen (mg/kg); AP, available phosphorous (mg/kg); AK, available potassium (mg/kg).</p>
+</fn>
+</table-wrap-foot>
+</table-wrap><table-wrap id="table-3">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-3</object-id>
+<label>Table 3</label>
+<caption>
+<title>The salinity level of the sands in the dried bottom of the Aral Sea.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-3.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Sand</th>
+<th>НСО3 (g/kg)</th>
+<th>CI (g/kg)</th>
+<th>SO<sub>4</sub> (g/kg)</th>
+<th>Ca (g/kg)</th>
+<th>Mg (g/kg)</th>
+<th>Na (mg/kg)</th>
+<th>K (mg/kg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mean contents</td>
+<td>0.02</td>
+<td>4.24</td>
+<td>12.43</td>
+<td>2.12</td>
+<td>1.48</td>
+<td>632.22</td>
+<td>43.24</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Alfalfa (<italic>Medicago sativa</italic> L.), amaranth (<italic>Amaranthus caudatus</italic> L.) and maize (<italic>Zea mays</italic> L.) seeds were used for field experiments.</p>
+</sec>
+<sec>
+<title>Experimental design</title>
+<p>The experimental work was conducted on saline sands in the dry bottom of the Aral Sea. The experiment was conducted to study the effect of biochar on the growth, root morphological and physiological traits of alfalfa, amaranth and maize. The Aral Sea’s dry bottom served as the site for the experiment, which was conducted using a randomized block design with three replications. Experimental treatments included: T1—alfalfa (Control), T2—alfalfa (Biochar), T3—Amaranth (Control), T4—Amaranth (Biochar), T5—Maize (Control), and T6—Maize (Biochar). After 40 days, plants were harvested and plant height, shoot and root fresh weights were measured.</p>
+</sec>
+<sec>
+<title>Measurement of root parameters</title>
+<p>The roots of alfalfa, amaranth, and maize were cleaned with water with extreme caution. The entirety of the root system was dissected using a scanning system, and the results were evaluated with the help of the Win RHIZO program.</p>
+</sec>
+<sec>
+<title>Measurement of physiological traits</title>
+<p>Photosynthetic pigments in alfalfa, amaranth and maize were measured spectrophotometrically by the method of <xref ref-type="bibr" rid="ref-24">Hiscox &amp; Israelstam (1979)</xref>. Fresh leaves (50 mg) of alfalfa, amaranth and maize samples were cut and added dimethylsulfoxide (5 mL) to test tubes. The test tubes were incubated at 37 °C for 4 h. Then absorbance of extract was determined using a spectrophotometer. The relative water content of leaves in alfalfa, amaranth and maize was analyzed by the method of <xref ref-type="bibr" rid="ref-10">Barrs &amp; Weatherley (1962)</xref>. Fresh leaf (100 mg) of ginger sample was placed in petri plates and added water in plates for 4 h. After 4 h, water content of leaves in alfalfa, amaranth and maize was measured.</p>
+</sec>
+<sec>
+<title>Analysis of soil nutrients</title>
+<p>Following cultivation, the soil’s agrochemical characteristics were evaluated. Using the improved procedure, the carbon (C) content and humus content (<xref ref-type="bibr" rid="ref-21">GOST of Commonwealth of Independent States, 2003</xref>). The P, K and total N contents in soil were analyzed by the method (<xref ref-type="bibr" rid="ref-19">GOST 26261-84, 2005</xref>, <xref ref-type="bibr" rid="ref-20">GOST of Commonwealth of Independent States, 2002</xref>).</p>
+</sec>
+<sec>
+<title>Analysis of soil enzymes</title>
+<p>Urease activity of soil was determined using the method by <xref ref-type="bibr" rid="ref-56">Pansu &amp; Gautheyrou (2006)</xref>. Soil samples (2.5 g) were added with toluene (0.5) mL for 15 min. After mixing, urea (2.5 mL) and citrate buffer were added to 5 mL. Incubator at 38 °C for 24 h. The urease activity was determined using a spectrophotometer. The soil enzyme activities (invertase and catalase) were assayed in the soil according to method by <xref ref-type="bibr" rid="ref-42">Khaziev (2005)</xref>.</p>
+</sec>
+<sec>
+<title>Statistical analyses</title>
+<p>Experimental data were analyzed SPSS version 29 for Mac OS. Data were described in terms of mean and standard deviations. The influence of Biochar and different plants were assessed statistically using two-and one-way analysis of variance (ANOVA) and MANOVA. For further comparisons between groups Duncan’s Multiple Range Test was applied at 0.05 level. Heatmap was generated using PAST statistical software. The magnitude of the F-value determined the significance of the effect of treatment (<italic>p</italic> &lt; 0.05, &lt;0.01, and &lt;0.001).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<p>The results in <xref ref-type="table" rid="table-4">Table 4</xref> show the effect of biochar on morphological traits of alfalfa, amaranth and maize under salt stress. Morphological traits of alfalfa, amaranth and maize were significantly decreased by salt stress.</p>
+<table-wrap id="table-4">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-4</object-id>
+<label>Table 4</label>
+<caption>
+<title>Influence of biochar on growth of alfalfa, amaranth and maize in salt stress.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-4.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Plant species</th>
+<th>Treatments</th>
+<th>Plant height (cm)</th>
+<th>Shoot fresh weight (g)</th>
+<th>Root fresh weight (g)</th>
+<th>Biomass allocation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alfalfa</td>
+<td>Control</td>
+<td>15.33 ± 1.52<sup>d</sup></td>
+<td>0.04 ± 0.01<sup>e</sup></td>
+<td>0.03 ± 0.01<sup>e</sup></td>
+<td>1.46 ± 0.33<sup>a</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>19.66 ± 0.10<sup>b</sup></td>
+<td>0.06 ± 0.02<sup>c</sup></td>
+<td>0.04 ± 0.01<sup>d</sup></td>
+<td>1.41 ± 0.03<sup>a</sup></td>
+</tr>
+<tr>
+<td>Amaranth</td>
+<td>Control</td>
+<td>13.67 ± 1.53<sup>e</sup></td>
+<td>0.11 ± 0.01<sup>b</sup></td>
+<td>0.07 ± 0.01<sup>b</sup></td>
+<td>1.47 ± 0.09<sup>a</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>16.93 ± 0.90<sup>cd</sup></td>
+<td>0.17 ± 0.01<sup>a</sup></td>
+<td>0.10 ± 0.01<sup>a</sup></td>
+<td>1.73 ± 0.02<sup>a</sup></td>
+</tr>
+<tr>
+<td>Maize</td>
+<td>Control</td>
+<td>18.00 ± 1.00<sup>c</sup></td>
+<td>0.04 ± 0.1<sup>e</sup></td>
+<td>0.04 ± 0.01<sup>d</sup></td>
+<td>0.86 ± 0.03<sup>b</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>26.60 ± 0.53<sup>a</sup></td>
+<td>0.05 ± 0.01<sup>d</sup></td>
+<td>0.06 ± 0.01<sup>c</sup></td>
+<td>0.86 ± 0.02<sup>b</sup></td>
+</tr>
+<tr>
+<td colspan="5">Repeated measure ANOVA</td>
+<td/>
+</tr>
+<tr>
+<td>Plant</td>
+<td/>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+</tr>
+<tr>
+<td>Treatment</td>
+<td/>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>0.556<sup>ns</sup></td>
+</tr>
+<tr>
+<td colspan="2">Plant × treatment</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>0.507<sup>ns</sup></td>
+<td>0.514<sup>ns</sup></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-4fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-4fn1" fn-type="other">
+<p>* significant at <italic>p</italic> &lt; 0.05, ** significant at <italic>p</italic> &lt; 0.01, *** significant at <italic>p</italic> &lt; 0.001; ns, non-significant at <italic>p</italic> &gt; 0.05 according to two way ANOVA.</p>
+</fn>
+<fn id="table-4fn2" fn-type="other">
+<p><sup>a,b</sup> Means followed by different letters vertically (in the same column) are significantly different according to DMRTs.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Alfalfa (biochar) treatment significantly increases the plant height by 28%, shoots fresh weight by 50% and roots’ fresh weight by 33% as compared to control under salt stress. In salt conditions, amaranth (biochar) treatment significantly enhanced the plant height by 24%, shoot fresh weight by 54% and root fresh weight by 43% than the control. The additions of biochar to the sand caused significantly enhanced the plant height by 48%, shoot fresh weight by 25% and root fresh weight by 50% in maize under salt stress.</p>
+<p>Data revealed that biochar treatments significantly improved root parameters as well as salt stress control (<xref ref-type="table" rid="table-5">Table 5</xref>.). Compared to the control, alfalfa (biochar) treatment significantly increased the root projected area by 39% and the root surface area by 31% under salt stress. The total root length, diameter and volume were sharply enhanced by alfalfa (biochar) treatment, which significantly increased by 46%, 47% and 82%, respectively, to the control. The root surface area, projected area, and diameter were improved with the amaranth (biochar) by 24%, 25% and 27% to the control in salt stress. In salt stress, amaranth (biochar) treatment significantly increased the root volume by 36% and the total root length by 50%. The highest values of root surface area (63%) were observed in the treatment of maize (biochar) than in the control. In salt stress conditions, maize (biochar) significantly increases the total root length by 24%, root projected area by 32%, root volume by 42% and root diameter by 43% more than the control.</p>
+<table-wrap id="table-5">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-5</object-id>
+<label>Table 5</label>
+<caption>
+<title>Influence of biochar on root parameters of alfalfa, amaranth and maize under salt stress.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-5.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Treatments</th>
+<th/>
+<th>Total root length (cm)</th>
+<th>Root projected area (cm<sup>2</sup>)</th>
+<th>Root surface area (cm<sup>2</sup>)</th>
+<th>Root volume (cm<sup>3</sup>)</th>
+<th>Root diameter (mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alfalfa</td>
+<td>Control</td>
+<td>15.53 ± 2.13<sup>f</sup></td>
+<td>1.80 ± 0.03<sup>f</sup></td>
+<td>5.80 ± 0.11<sup>e</sup></td>
+<td>0.11 ± 0.01<sup>e</sup></td>
+<td>0.72 ± 0.03<sup>c</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>22.68 ± 0.79<sup>e</sup></td>
+<td>2.51 ± 0.04<sup>e</sup></td>
+<td>7.60 ± 0.02<sup>e</sup></td>
+<td>0.20 ± 0.01<sup>d</sup></td>
+<td>1.06 ± 0.03<sup>a</sup></td>
+</tr>
+<tr>
+<td>Amaranth</td>
+<td>Control</td>
+<td>38.72 ± 2.00<sup>d</sup></td>
+<td>5.48 ± 0.06<sup>d</sup></td>
+<td>16.73 ± 0.50<sup>d</sup></td>
+<td>0.44 ± 0.03<sup>b</sup></td>
+<td>0.89 ± 0.03<sup>b</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>58.38 ± 2.00<sup>c</sup></td>
+<td>6.86 ± 0.07<sup>c</sup></td>
+<td>20.77 ± 0.83<sup>c</sup></td>
+<td>0.60 ± 0.02<sup>a</sup></td>
+<td>1.13 ± 0.01<sup>a</sup></td>
+</tr>
+<tr>
+<td>Maize</td>
+<td>Control</td>
+<td>117.85 ± 3.05<sup>b</sup></td>
+<td>9.76 ± 0.51<sup>b</sup></td>
+<td>25.03 ± 2.11<sup>b</sup></td>
+<td>0.33 ± 0.02<sup>c</sup></td>
+<td>0.67 ± 0.04<sup>c</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>269.51 ± 2.08<sup>a</sup></td>
+<td>12.87 ± 0.21<sup>a</sup></td>
+<td>40.90 ± 0.26<sup>a</sup></td>
+<td>0.47 ± 0.02<sup>b</sup></td>
+<td>0.96 ± 0.02<sup>b</sup></td>
+</tr>
+<tr>
+<td colspan="7">Two-way ANOVA</td>
+</tr>
+<tr>
+<td colspan="2">Plant</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+</tr>
+<tr>
+<td colspan="2">Treatment</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+</tr>
+<tr>
+<td colspan="2">Plant × treatment</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>&lt;0.001***</td>
+<td>0.011*</td>
+<td>0.274<sup>ns</sup></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-5fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-5fn1" fn-type="other">
+<p>* significant at <italic>p</italic> &lt; 0.05, ** significant at <italic>p</italic> &lt; 0.01, *** significant at <italic>p</italic> &lt; 0.001; ns, non-significant at <italic>p</italic> &gt; 0.05 according to two way ANOVA.</p>
+</fn>
+<fn id="table-5fn2" fn-type="other">
+<p><sup>a,b</sup> Means followed by different letters vertically (in the same column) are significantly different according to DMRTs.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Data revealed that biochar treatments increased photosynthetic pigments of alfalfa, amaranth and maize as compared with the control under salt stress (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Alfalfa (biochar) treatment significantly enhanced the chlorophyll a content by 8%, chlorophyll b content by 10%, total chlorophyll content by 9% and carotenoid content by 25% than the control under salt stress. Under salt stress, amaranth (biochar) treatment significantly enhanced chlorophyll b content by 39%, total chlorophyll content by 21% and carotenoid content by 12% than the control. The highest level of chlorophyll b content was observed in maize (biochar) treatment recording a significant increase of 64% over the control under salt stress.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.15684/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Influence of biochar on photosynthetic pigments of alfalfa, amaranth and maize under salt stress. Bars followed by different letters are significantly different according to DMRTs at 0.05 level.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/fig-1.png"/>
+</fig>
+<p>Data in <xref ref-type="fig" rid="fig-2">Fig. 2</xref> indicated that salinity decreased the relative water content of leaf in alfalfa, amaranth and maize. Compared to the control, all biochar treatments improved the relative water content of leaf in alfalfa, amaranth and maize. However, amaranth’s maximum relative water content was detected in amaranth (biochar) treatment, respectively. The results in <xref ref-type="table" rid="table-6">Table 6</xref> show the effective impact of biochar on soil nutrients under salt stress.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.15684/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Influence of biochar on (A) The relative water content and (B) Biomass allocation (shoot:root ratio) of alfalfa, amaranth and maize under salt stress. Bars followed by different letters are significantly different according to DMRTs.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/fig-2.png"/>
+</fig><table-wrap id="table-6">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-6</object-id>
+<label>Table 6</label>
+<caption>
+<title>Influence of biochar on soil nutrients under salt stress.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-6.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th colspan="2">Treatments</th>
+<th>N (mg/kg)</th>
+<th>P (mg/kg)</th>
+<th>K (mg/kg)</th>
+<th>Humus (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alfalfa</td>
+<td>Control</td>
+<td>4.00 ± 0.02<sup>b</sup></td>
+<td>4.15 ± 0.01<sup>b</sup></td>
+<td>50.45 ± 0.26<sup>d</sup></td>
+<td>0.09 ± 0.01<sup>e</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>4.71 ± 0.02<sup>a</sup></td>
+<td>4.82 ± 0.05<sup>a</sup></td>
+<td>52.13 ± 0.65<sup>c</sup></td>
+<td>0.14 ± 0.01<sup>c</sup></td>
+</tr>
+<tr>
+<td>Amaranth</td>
+<td>Control</td>
+<td>3.05 ± 0.01<sup>d</sup></td>
+<td>2.13 ± 0.05<sup>e</sup></td>
+<td>55.1 ± 1.46<sup>b</sup></td>
+<td>0.10 ± 0.01<sup>e</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>3.57 ± 0.01<sup>c</sup></td>
+<td>2.45 ± 0.09<sup>d</sup></td>
+<td>64.7 ± 0.35<sup>a</sup></td>
+<td>0.12 ± 0.01<sup>d</sup></td>
+</tr>
+<tr>
+<td>Maize</td>
+<td>Control</td>
+<td>2.92 ± 0.01<sup>d</sup></td>
+<td>2.35 ± 0.01<sup>d</sup></td>
+<td>51.6 ± 2.01<sup>cd</sup></td>
+<td>0.18 ± 0.01<sup>b</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>3.01 ± 0.06<sup>d</sup></td>
+<td>2.92 ± 0.05<sup>c</sup></td>
+<td>64.9 ± 0.86<sup>a</sup></td>
+<td>0.23 ± 0.01<sup>a</sup></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-6fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-6fn1" fn-type="other">
+<p>* significant at <italic>p</italic> &lt; 0.05, ** significant at <italic>p</italic> &lt; 0.01, *** significant at <italic>p</italic> &lt; 0.001; ns, non-significant at <italic>p</italic> &gt; 0.05 according to two way ANOVA.</p>
+</fn>
+<fn id="table-6fn2" fn-type="other">
+<p><sup>a,b</sup> Means followed by different letters vertically (in the same column) are significantly different according to DMRTs.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>The soil nutrients of N, P, K and humus contents were promoted by applying biochar treatments. The alfalfa (biochar) treatment significantly increased N content by 18%, P content by 16%, K content by 17% and humus by 55%, respectively, than the control. The P, N, K and humus contents increased by 15%, 17%, 17% and 20% when inoculated with amaranth (biochar) treatment. However, the highest P and K contents were observed with maize (biochar) treatment. Maize (biochar) treatment had a greater effect on increasing P content (24%), K content (26%) and humus content (28%).</p>
+<p>The impact of biochar treatments on enzyme activities in salt stress is given in <xref ref-type="table" rid="table-7">Table 7</xref>. Alfalfa (biochar) treatment significantly enhanced the catalase by 30%, invertase by 40%, and urease by 25% in soil under saline conditions. The catalase and urease activities were improved by 12% and 17%, respectively, when the soil was amended by amaranth (biochar) over the control in salt stress. Under salt stress, the catalase and urease activities increased by 13% and 24% in maize (biochar) treatment.</p>
+<table-wrap id="table-7">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-7</object-id>
+<label>Table 7</label>
+<caption>
+<title>Influence of biochar on enzyme activities of soil under salt stress.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-7.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Treatments</th>
+<th/>
+<th>Catalase<break/>(mL KMnO<sub>4</sub> g <sup>−1</sup> soil h<sup>−1</sup>)</th>
+<th>Invertase<break/>(µg glucose·g <sup>−1</sup> soil·h <sup>−1</sup>)</th>
+<th>Urease<break/>(NH<sub>4</sub>/g of soil/h)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alfalfa</td>
+<td>Control</td>
+<td>2.18 ± 0.02<sup>f</sup></td>
+<td>1.52 ± 0.01<sup>e</sup></td>
+<td>1.42 ± 0.01<sup>b</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>2.83 ± 0.04<sup>e</sup></td>
+<td>2.13 ± 0.01<sup>d</sup></td>
+<td>1.77 ± 0.01<sup>a</sup></td>
+</tr>
+<tr>
+<td>Amaranth</td>
+<td>Control</td>
+<td>7.00 ± 0.05<sup>b</sup></td>
+<td>5.62 ± 0.03<sup>b</sup></td>
+<td>1.23 ± 0.01<sup>c</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>7.81 ± 0.02<sup>a</sup></td>
+<td>6.04 ± 0.02<sup>a</sup></td>
+<td>1.44 ± 0.01<sup>b</sup></td>
+</tr>
+<tr>
+<td>Maize</td>
+<td>Control</td>
+<td>3.98 ± 0.02<sup>d</sup></td>
+<td>3.25 ± 0.01<sup>c</sup></td>
+<td>1.12 ± 0.01<sup>d</sup></td>
+</tr>
+<tr>
+<td/>
+<td>Biochar</td>
+<td>4.49 ± 0.02<sup>c</sup></td>
+<td>3.55 ± 0.01<sup>c</sup></td>
+<td>1.39 ± 0.01<sup>b</sup></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-7fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-7fn1" fn-type="other">
+<p>* significant at <italic>p</italic> &lt; 0.05, ** significant at <italic>p</italic> &lt; 0.01, *** significant at <italic>p</italic> &lt; 0.001; ns, non-significant at <italic>p</italic> &gt; 0.05 according to two way ANOVA.</p>
+</fn>
+<fn id="table-7fn2" fn-type="other">
+<p><sup>a,b</sup> Means followed by different letters vertically (in the same column) are significantly different according to DMRTs.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>The overall impact of biochar treatments on plant growth, physiology and enzyme activities under salt stress is given in <xref ref-type="table" rid="table-8">Table 8</xref> in terms of multivariate analysis of variance presenting the impact of biochar treatment, different plants, and the interaction between plants and biochar. Alfalfa (biochar). An overall highly significant effect of biochar was recognized in most of the studied variables, including; Plant height, shoot fresh weight (SFW), root fresh weight (RFW), total length, total root ProjArea, total surface area, volume, diameter, Chl-a, Chl-b, total chlorophyll, carotenoid, catalase, invertase, Urease, N, P, K and Humus. However, biomass allocation and relative water contents showed non-significant impact of biochar treatment. The difference on three plant species was significant in all studied parameters as revealed by MANOVA. The interaction between biochar treatment and plant species was significant in plant height, shoot fresh weight, total root length, total root proj. area, root surface area, root volume, total chlorophyll, carotenoids, urease activities, P, K, and humus.</p>
+<table-wrap id="table-8">
+<object-id pub-id-type="doi">10.7717/peerj.15684/table-8</object-id>
+<label>Table 8</label>
+<caption>
+<title>Multivariate analysis of variance showing the influence of biochar treatments on different plants physiological parameters.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/table-8.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th rowspan="2">Dependent variable</th>
+<th colspan="2">Corrected model</th>
+<th colspan="2">Plant</th>
+<th colspan="2">Treatment</th>
+<th colspan="2">Plant * treatment</th>
+</tr>
+<tr>
+<th>F</th>
+<th><italic>p</italic>-value</th>
+<th>F</th>
+<th><italic>p</italic>-value</th>
+<th>F</th>
+<th><italic>p</italic>-value</th>
+<th>F</th>
+<th><italic>p</italic>-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plant height</td>
+<td>71.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>88.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>151.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>13.7</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>SFW</td>
+<td>920.5</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1,937.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>548.6</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>89.8</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>RFW</td>
+<td>68.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>140.7</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>58.5</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>0.7</td>
+<td>0.507<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Biomass allocation</td>
+<td>6.6</td>
+<td><italic>0.004**</italic></td>
+<td>15.6</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>0.4</td>
+<td>0.556<sup>ns</sup></td>
+<td>0.7</td>
+<td>0.514<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Total length</td>
+<td>6,273.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>11,743.5</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>3,568.6</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>2154.7</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>Total Proj area</td>
+<td>565.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1,318.8</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>140.6</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>23.8</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>Tot surf area</td>
+<td>483.4</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1,010.4</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>229.5</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>83.5</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>Volume</td>
+<td>327.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>686.8</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>249.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>6.8</td>
+<td><italic>0.011*</italic></td>
+</tr>
+<tr>
+<td>Diameter</td>
+<td>46.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>26.1</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>175.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1.4</td>
+<td>0.274<sup>ns</sup></td>
+</tr>
+<tr>
+<td>RWC</td>
+<td>4.3</td>
+<td><italic>0.018*</italic></td>
+<td>9.5</td>
+<td><italic>0.003**</italic></td>
+<td>2.1</td>
+<td>0.171<sup>ns</sup></td>
+<td>0.2</td>
+<td>0.813<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Chl-a</td>
+<td>455.4</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1,127.7</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>19.9</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>0.9</td>
+<td>0.439<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Chl-b</td>
+<td>824.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>2,002.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>113.1</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1.4</td>
+<td>0.282<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Total chlorophyll</td>
+<td>1,284.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>3,170.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>54.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>13.3</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>Carotenoid</td>
+<td>307.5</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>681.4</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>148.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>13.5</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>Catalase</td>
+<td>594.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1,450.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>69.3</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>0.8</td>
+<td>0.483<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Invertase</td>
+<td>229.8</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>563.4</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>20.8</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>0.9</td>
+<td>0.441<sup>ns</sup></td>
+</tr>
+<tr>
+<td>Urease</td>
+<td>60.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>38.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>178.8</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>23.0</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>N</td>
+<td>53.1</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>105.4</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>54.8</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>0.0</td>
+<td>&gt;0.999<sup>ns</sup></td>
+</tr>
+<tr>
+<td>P</td>
+<td>806.5</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>1,917.1</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>174.7</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>11.8</td>
+<td><italic>0.001***</italic></td>
+</tr>
+<tr>
+<td>K</td>
+<td>243.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>315.2</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>455.0</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>65.3</td>
+<td><italic>&lt;0.001***</italic></td>
+</tr>
+<tr>
+<td>Humus</td>
+<td>26.6</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>9.1</td>
+<td><italic>0.004**</italic></td>
+<td>96.6</td>
+<td><italic>&lt;0.001***</italic></td>
+<td>9.1</td>
+<td><italic>0.004**</italic></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-8fn">
+<p>Note:</p>
+</fn>
+<fn id="table-8fn1" fn-type="other">
+<p>* significant at <italic>p</italic> &lt; 0.05, ** significant at <italic>p</italic> &lt; 0.01, *** significant at <italic>p</italic> &lt; 0.001; ns, non-significant at <italic>p</italic> &gt; 0.05 according to MANOVA.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>The interrelationship between study variables in terms of Pearson’s correlation test was plotted as a heatmap presented in <xref ref-type="fig" rid="fig-3">Fig. 3</xref> using PAST software. The blue boxes indicate a positive correlation between variables; the red boxes indicate a negative correlation and the grey boxed colors for significant correlations. Accordingly, biochar treatments had a positive correlation with most of the growth parameters measured, and significantly in plant height, diameter, urease, K and humus (%). Moreover, N and P were significantly and positively correlated to pigment concentrations.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.15684/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Heatmap presenting the interrelationship between study variables in terms of Pearson’s correlation test.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15684/fig-3.png"/>
+</fig>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Salt stress is one of the focal contrary environmental factors that restrict plant growth in the world. It can cause a marked reduction in plant height, root length, plant fresh weight, dry weight and the productivity of many crops (<xref ref-type="bibr" rid="ref-25">Huang et al., 2017</xref>; <xref ref-type="bibr" rid="ref-29">Ibrahim et al., 2020</xref>, <xref ref-type="bibr" rid="ref-28">2021</xref>; <xref ref-type="bibr" rid="ref-46">Kumar et al., 2021b</xref>). In this present study, the chlorophyll a content, chlorophyll b content, total chlorophyll content and carotenoid content in leaves of maize, amaranth and alfalfa was also affected by salinity (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Moreover, chlorophyll a and total chlorophyll contents of tomato plants significantly decreased (<xref ref-type="bibr" rid="ref-45">Kul et al., 2021</xref>). The active photosynthetic process in leaves was also damaged, leading to chlorosis and early leaf senescence under salinity conations. Similarly, <xref ref-type="bibr" rid="ref-71">Zahra, Raza &amp; Mahmood (2020)</xref> observed a reduction in chlorophyll content and carotenoid content in maize genotypes under salt stress. Photosynthetic pigments and plant nutrients in winter and spring wheat showed a sharp decrease under salt stress (<xref ref-type="bibr" rid="ref-62">Saddiq et al., 2021</xref>). Also, numerous researchers have reported that biochar increased nutrient uptake (<xref ref-type="bibr" rid="ref-53">Ndiate et al., 2021</xref>) and plant physiological properties (<xref ref-type="bibr" rid="ref-45">Kul et al., 2021</xref>; <xref ref-type="bibr" rid="ref-73">Zhang et al., 2020</xref>) in various plants under salinity stress.</p>
+<p>In the current study, biochar improved photosynthetic pigments such as the total chlorophyll content and carotenoid content in alfalfa, amaranth and maize. Integrating biochar in the current study could enhance the morphological characteristics of the chosen plants under salinity stress. This finding is consistent with the report of <xref ref-type="bibr" rid="ref-27">Hussein et al. (2022)</xref>, who observed biochar improved the root length and plant growth in spinach (<italic>Spinacia oleracea</italic> L.) under salt stress. The prospective benefits of biochar on leaf area index, photosynthetic potential, transpiration rates and chlorophyll content significantly helped the leaf photosynthesis and net assimilation rate of rice growth and production (<xref ref-type="bibr" rid="ref-26">Huang et al., 2022</xref>; <xref ref-type="bibr" rid="ref-57">Piao et al., 2023</xref>). Applying biochar greatly improved the salt tolerance of cabbage seedlings and considerably increased chlorophyll a, b and total chlorophyll while lowering sucrose, proline and H<sub>2</sub>O<sub>2</sub>. It was revealed by <xref ref-type="bibr" rid="ref-3">Alfadil et al. (2021)</xref> that the addition of biochar under salinity stress had a substantial impact on maize’s ability to absorb nutrients and maintain water status, and biochar could reduce osmotic stress through increasing soil water content and releasing mineral nutrients in the soil solution and plants by its high transient sodium ion binding due to its high adsorption ability. Biochar could attract additional Na<sup>+</sup> into the soil under salinity conditions, releasing nutrients and lowering osmotic stress by increasing water holding capacity and CO<sub>2</sub> absorption, which ultimately led to a noticeable improvement in photosynthetic, stomatal conductance and transcription rates (<xref ref-type="bibr" rid="ref-28">Ibrahim et al., 2021</xref>). Additionally, biochar was able to reduce Na<sup>+</sup>/K<sup>+</sup> ratio and the amount of Na in many plants, which lessened the negative impact of salts on plants (<xref ref-type="bibr" rid="ref-4">Ali et al., 2017</xref>; <xref ref-type="bibr" rid="ref-26">Huang et al., 2022</xref>; <xref ref-type="bibr" rid="ref-48">Lashari et al., 2015</xref>).</p>
+<p>Biochar application could directly improve the nitrogen status of salt-affected soils. Also, it indirectly impacted the quantity and activity of bacteria, which could drive N transformation and enhance nitrogen release (<xref ref-type="bibr" rid="ref-70">Yao et al., 2021</xref>). Moreover, a considerable rose in soil nitrogen was recorded, and this increase was closely correlated with the applied dose of biochar. These findings confirmed the ability of biochar to hold the nutrients. The amount of soil organic matter was dramatically increased due to biochar application. In severely saline-sodic soil, marked increases in soil organic matter and nutrients after biochar addition. Numerous studies suggested that biochar could directly act as a P source and indirectly improve soil texture to boost P status in salt-affected soils (<xref ref-type="bibr" rid="ref-63">Saifullah et al., 2018</xref>). Similar findings were also informed by <xref ref-type="bibr" rid="ref-3">Alfadil et al. (2021)</xref> biochar increased nutrient contents in the soil under salt stress. <xref ref-type="bibr" rid="ref-59">Premalatha, Malarvizhi &amp; Parameswari (2022)</xref> reported that biochar increases soil organic C and available N, P and K under salt stress. Similarly, <xref ref-type="bibr" rid="ref-70">Yao et al. (2021)</xref> have reported that biochar promoted the availability of soil total N, P and K under saline conditions. Similar results have been informed by <xref ref-type="bibr" rid="ref-26">Huang et al. (2022)</xref>. The biochar improved soil organic matter, total N, and P contents under salt stress. <xref ref-type="bibr" rid="ref-22">Gunarathne et al. (2020)</xref> reported that biochar promoted soil’s catalase and alkaline phosphatase activity in salt stress conditions.</p>
+<p>Soil microbial activity has been exemplified by enzyme activity, which is susceptible to changes in the soil environment (<xref ref-type="bibr" rid="ref-15">Du, 2019</xref>; <xref ref-type="bibr" rid="ref-17">Elzobair et al., 2016</xref>; <xref ref-type="bibr" rid="ref-25">Huang et al., 2017</xref>; <xref ref-type="bibr" rid="ref-41">Khadem &amp; Raiesi, 2017</xref>). In addition, soil enzyme activities were critical for soil organic matter degradation and nutrient cycling (<xref ref-type="bibr" rid="ref-70">Yao et al., 2021</xref>) and are considered important indicators of soil quality. However, few studies focused on biochar’s effect on enzyme activities in saline soils. Our results showed that adding biochar positively affected enzyme activity in saline soils. The conversion of soil organic nitrogen into usable inorganic nitrogen was related to urease. Invertase was crucial in increasing the amount of soluble nutrients in the soil, which gave soil organisms enough energy. Catalase was a major factor in the oxidation of organic matter and humus production and it of the level of biological redox and microbial activity in the soil. Compared to control treatments, biochar application had a significant effect on the activities of catalase, invertase, and urease in the current investigation (<xref ref-type="bibr" rid="ref-70">Yao et al., 2021</xref>). The use of biochar could enhance enzyme activity by enhancing SOM, microbial activity, and microbial biomass or by placing the enzymes close together and allowing them to interact with the biochar surface (<xref ref-type="bibr" rid="ref-8">Azadi &amp; Raiesi, 2021</xref>; <xref ref-type="bibr" rid="ref-23">He et al., 2020</xref>; <xref ref-type="bibr" rid="ref-61">Qu et al., 2020</xref>).</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusion</title>
+<p>Salinity stress had a negative effect on growth, root morphological traits and photosynthetic pigments of alfalfa, amaranth and maize. The amount of chlorophyll a and b, and carotenoid contents in of alfalfa, amaranth and maize decreased by salinity. Biochar treatments have more stimulation impact on most of the root morphological traits and plant growth parameters of alfalfa, amaranth and maize compared to the control in salt stress. In salt stress, biochar application could improve photosynthetic pigments viz: the total chlorophyll content, chlorophyll a and chlorophyll b. The application of biochar treatments positively improved nutrients of N, P, K and humus contents in the soil in salt stress. The stimulation impact of biochar treatments on increasing soil enzyme activities such as catalase, invertase and urease and enhancing nutrient availability can reduce the application of the chemical fertilizers in salt stress.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/15684/Raw_Dara.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.15684/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Raw data.</title>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>Amr Elkelish is an Academic Editor for PeerJ.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Dilfuza Jabborova</xref> conceived and designed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Tokhtasin Abdrakhmanov</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Zafarjon Jabbarov</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Shokhrukh Abdullaev</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Abdulahat Azimov</xref> conceived and designed the experiments, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Ibrahim Mohamed</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-7">
+<p><xref ref-type="contrib" rid="author-7">Maha AlHarbi</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-8">
+<p><xref ref-type="contrib" rid="author-8">Abdelghafar Abu-Elsaoud</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-9">
+<p><xref ref-type="contrib" rid="author-9">Amr Elkelish</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental File</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Abdel Latef &amp; Chaoxing (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Abdel Latef</surname>
+<given-names>AAH</given-names>
+</name>
+<name>
+<surname>Chaoxing</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Does inoculation with <italic>Glomus mosseae</italic> improve salt tolerance in pepper plants?</article-title>
+<source>Journal of Plant Growth Regulation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>33</volume>
+<issue>3</issue>
+<fpage>644</fpage>
+<lpage>653</lpage>
+<pub-id pub-id-type="doi">10.1007/s00344-014-9414-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Akhtar, Andersen &amp; Liu (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Akhtar</surname>
+<given-names>SS</given-names>
+</name>
+<name>
+<surname>Andersen</surname>
+<given-names>MN</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Residual effects of biochar on improving growth, physiology and yield of wheat under salt stress</article-title>
+<source>Agricultural Water Management</source>
+<year iso-8601-date="2015">2015</year>
+<volume>158</volume>
+<issue>1</issue>
+<fpage>61</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agwat.2015.04.010</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Alfadil et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alfadil</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Xia</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Shaghaleh</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Alhaj Hamoud</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ibrahim</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Hamad</surname>
+<given-names>AAA</given-names>
+</name>
+<name>
+<surname>Fahad Rahim</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sheteiwy</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Wheat straw biochar application improves the morphological, physiological, and yield attributes of maize and the physicochemical properties of soil under deficit irrigation and salinity stress</article-title>
+<source>Journal of Plant Nutrition</source>
+<year iso-8601-date="2021">2021</year>
+<volume>44</volume>
+<issue>16</issue>
+<fpage>2399</fpage>
+<lpage>2420</lpage>
+<pub-id pub-id-type="doi">10.1080/01904167.2021.1918156</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Ali et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ali</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rizwan</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Qayyum</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Ok</surname>
+<given-names>YS</given-names>
+</name>
+<name>
+<surname>Ibrahim</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Riaz</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Arif</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Hafeez</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Al-Wabel</surname>
+<given-names>MI</given-names>
+</name>
+<name>
+<surname>Shahzad</surname>
+<given-names>AN</given-names>
+</name>
+</person-group>
+<article-title>Biochar soil amendment on alleviation of drought and salt stress in plants: a critical review</article-title>
+<source>Environmental Science and Pollution Research</source>
+<year iso-8601-date="2017">2017</year>
+<volume>24</volume>
+<issue>14</issue>
+<fpage>12700</fpage>
+<lpage>12712</lpage>
+<pub-id pub-id-type="doi">10.1007/s11356-017-8904-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>An et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>An</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Chang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>SH</given-names>
+</name>
+<name>
+<surname>Khamzina</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Son</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Changes in basic soil properties and enzyme activities along an afforestation series on the dry Aral Sea bed, Kazakhstan</article-title>
+<source>Forest Science and Technology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>16</volume>
+<issue>1</issue>
+<fpage>26</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1080/21580103.2019.1705401</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Ashraf &amp; McNeilly (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ashraf</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>McNeilly</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Salinity tolerance in Brassica oilseeds</article-title>
+<source>Critical Reviews in Plant Sciences</source>
+<year iso-8601-date="2004">2004</year>
+<volume>23</volume>
+<issue>2</issue>
+<fpage>157</fpage>
+<lpage>174</lpage>
+<pub-id pub-id-type="doi">10.1080/07352680490433286</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Assouline et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Assouline</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Russo</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Silber</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Or</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Balancing water scarcity and quality for sustainable irrigated agriculture: balancing water scarcity and quality for irrigation</article-title>
+<source>Water Resources Research</source>
+<year iso-8601-date="2015">2015</year>
+<volume>51</volume>
+<issue>5</issue>
+<fpage>3419</fpage>
+<lpage>3436</lpage>
+<pub-id pub-id-type="doi">10.1002/2015WR017071</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Azadi &amp; Raiesi (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Azadi</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Raiesi</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Salinization depresses soil enzyme activity in metal-polluted soils through increases in metal mobilization and decreases in microbial biomass</article-title>
+<source>Ecotoxicology</source>
+<year iso-8601-date="2021">2021</year>
+<volume>30</volume>
+<issue>6</issue>
+<fpage>1071</fpage>
+<lpage>1083</lpage>
+<pub-id pub-id-type="doi">10.1007/s10646-021-02433-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Azari et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Azari</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sanavi</surname>
+<given-names>SAM</given-names>
+</name>
+<name>
+<surname>Askari</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Ghanati</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Naji</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Alizadeh</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Effect of salt stress on morphological and physiological traits of two species of rapeseed (<italic>Brassica napus</italic> and <italic>B. rapa</italic>)</article-title>
+<source>Iranian Journal of Crop Sciences</source>
+<year iso-8601-date="2012">2012</year>
+<volume>14</volume>
+<issue>2</issue>
+<fpage>121</fpage>
+<lpage>135</lpage>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Barrs &amp; Weatherley (1962)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Barrs</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Weatherley</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>A re-examination of the relative turgidity technique for estimating water deficits in leaves</article-title>
+<source>Australian Journal of Biological Sciences</source>
+<year iso-8601-date="1962">1962</year>
+<volume>15</volume>
+<issue>3</issue>
+<fpage>413</fpage>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Batool et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Batool</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Taj</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rashid</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Khalid</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Qadeer</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Saleem</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Ghufran</surname>
+<given-names>MA</given-names>
+</name>
+</person-group>
+<article-title>Potential of soil amendments (Biochar and Gypsum) in increasing water use efficiency of <italic>Abelmoschus esculentus</italic> L. Moench</article-title>
+<source>Frontiers in Plant Science</source>
+<year iso-8601-date="2015">2015</year>
+<volume>6</volume>
+<fpage>2515</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2015.00733</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Dai et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dai</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Xue</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Xiang</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Xiao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Qu</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Effects of efflorescence and subflorescence by different salts on soil physical properties and aeolian erosion</article-title>
+<source>CATENA</source>
+<year iso-8601-date="2022">2022</year>
+<volume>215</volume>
+<issue>4</issue>
+<fpage>106323</fpage>
+<pub-id pub-id-type="doi">10.1016/j.catena.2022.106323</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Day et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Day</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Reicosky</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Valuable and stable carbon co-product from fossil fuel exhaust scrubbing</article-title>
+<source>Preprints of Papers—American Chemical Society, Division of Fuel Chemistry</source>
+<year iso-8601-date="2004">2004</year>
+<volume>1</volume>
+<issue>49</issue>
+<fpage>352</fpage>
+<lpage>355</lpage>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Dong et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dong</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Quantity and quality changes of biochar aged for 5 years in soil under field conditions</article-title>
+<source>CATENA</source>
+<year iso-8601-date="2017">2017</year>
+<volume>159</volume>
+<fpage>136</fpage>
+<lpage>143</lpage>
+<pub-id pub-id-type="doi">10.1016/j.catena.2017.08.008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Du (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Du</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Effects of different types of biochar on basic properties and bacterial communities of black soil</article-title>
+<source>Applied Ecology and Environmental Research</source>
+<year iso-8601-date="2019">2019</year>
+<volume>17</volume>
+<issue>2</issue>
+<fpage>5305</fpage>
+<lpage>5319</lpage>
+<pub-id pub-id-type="doi">10.15666/aeer/1702_53055319</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Duan, Wang &amp; Sun (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Duan</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Monitoring and mapping of soil salinity on the exposed seabed of the Aral Sea, Central Asia</article-title>
+<source>Water</source>
+<year iso-8601-date="2022">2022</year>
+<volume>14</volume>
+<issue>9</issue>
+<fpage>1438</fpage>
+<pub-id pub-id-type="doi">10.3390/w14091438</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Elzobair et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Elzobair</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Stromberger</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Ippolito</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Lentz</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>Contrasting effects of biochar versus manure on soil microbial communities and enzyme activities in an Aridisol</article-title>
+<source>Chemosphere</source>
+<year iso-8601-date="2016">2016</year>
+<volume>142</volume>
+<fpage>145</fpage>
+<lpage>152</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chemosphere.2015.06.044</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Evelin et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Evelin</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Devi</surname>
+<given-names>TS</given-names>
+</name>
+<name>
+<surname>Gupta</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kapoor</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Mitigation of salinity stress in plants by Arbuscular mycorrhizal symbiosis: current understanding and new challenges</article-title>
+<source>Frontiers in Plant Science</source>
+<year iso-8601-date="2019">2019</year>
+<volume>10</volume>
+<fpage>470</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2019.00470</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>GOST 26261-84 (2005)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>GOST 26261-84</collab>
+</person-group>
+<article-title>Methods for determining total phosphorus and total potassium</article-title>
+<year iso-8601-date="2005">2005</year>
+<comment>In soils (p. 10). Publishing house of standards</comment><uri>https://www.russiangost.com/p-60631-gost-26261-84.aspx</uri>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>GOST of Commonwealth of Independent States (2002)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>GOST of Commonwealth of Independent States</collab>
+</person-group>
+<article-title>Methods for determination of total nitrogen; GOST 26107-84, M</article-title>
+<year iso-8601-date="2002">2002</year>
+<comment>(p. 9). Publishing House of Standards: Minsk, Belarus</comment><uri>https://files.stroyinf.ru/Data2/1/4294828/4294828346.pdf</uri>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>GOST of Commonwealth of Independent States (2003)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>GOST of Commonwealth of Independent States</collab>
+</person-group>
+<article-title>Determination of organic matter by the method Tyurin modified by CINAO</article-title>
+<year iso-8601-date="2003">2003</year>
+<comment>In <italic>Methods for Determination of the Organic Matter</italic>; GOST 26213-91, M. (p. 11). Publishing House of Standards: Minsk, Belarus</comment><uri>https://okhotin-grunt.ru/gost/%D0%93%D0%9E%D0%A1%D0%A2_26213-91.pdf</uri>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Gunarathne et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gunarathne</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Senadeera</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Gunarathne</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Biswas</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Almaroai</surname>
+<given-names>YA</given-names>
+</name>
+<name>
+<surname>Vithanage</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Potential of biochar and organic amendments for reclamation of coastal acidic-salt affected soil</article-title>
+<source>Biochar</source>
+<year iso-8601-date="2020">2020</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>107</fpage>
+<lpage>120</lpage>
+<pub-id pub-id-type="doi">10.1007/s42773-020-00036-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>He et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>He</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Fan</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Song</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Geng</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>The effect of <italic>Rhizophagus irregularis</italic> on salt stress tolerance of <italic>Elaeagnus angustifolia</italic> roots</article-title>
+<source>Journal of Forestry Research</source>
+<year iso-8601-date="2020">2020</year>
+<volume>31</volume>
+<issue>6</issue>
+<fpage>2063</fpage>
+<lpage>2073</lpage>
+<pub-id pub-id-type="doi">10.1007/s11676-019-01053-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Hiscox &amp; Israelstam (1979)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hiscox</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Israelstam</surname>
+<given-names>GF</given-names>
+</name>
+</person-group>
+<article-title>A method for the extraction of chlorophyll from leaf tissue without maceration</article-title>
+<source>Canadian Journal of Botany</source>
+<year iso-8601-date="1979">1979</year>
+<volume>57</volume>
+<issue>12</issue>
+<fpage>1332</fpage>
+<lpage>1334</lpage>
+<pub-id pub-id-type="doi">10.1139/b79-163</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Huang et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Huang</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zeng</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Deng</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Wan</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>The effects of rice straw biochar on indigenous microbial community and enzymes activity in heavy metal-contaminated sediment</article-title>
+<source>Chemosphere</source>
+<year iso-8601-date="2017">2017</year>
+<volume>174</volume>
+<fpage>545</fpage>
+<lpage>553</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chemosphere.2017.01.130</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Huang et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Kong</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Cao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ning</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Tian</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Biochar application alleviated rice salt stress via modifying soil properties and regulating soil bacterial abundance and community structure</article-title>
+<source>Agronomy</source>
+<year iso-8601-date="2022">2022</year>
+<volume>12</volume>
+<issue>2</issue>
+<fpage>409</fpage>
+<pub-id pub-id-type="doi">10.3390/agronomy12020409</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Hussein et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hussein</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Hassan</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Marzouk</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Ismail</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Effect of biochar amendment on spinach (<italic>Spinacia oleracea</italic> L.) growth under salt stress conditions</article-title>
+<source>Sinai Journal of Applied Sciences</source>
+<year iso-8601-date="2022">2022</year>
+<volume>0</volume>
+<issue>0</issue>
+<fpage>0</fpage>
+<pub-id pub-id-type="doi">10.21608/sinjas.2022.148488.1127</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Ibrahim et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ibrahim</surname>
+<given-names>MEH</given-names>
+</name>
+<name>
+<surname>Adam Ali</surname>
+<given-names>AY</given-names>
+</name>
+<name>
+<surname>Elsiddig</surname>
+<given-names>AMI</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Nimir</surname>
+<given-names>NEA</given-names>
+</name>
+<name>
+<surname>Agbna</surname>
+<given-names>GHD</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Mitigation effect of biochar on sorghum seedling growth under salinity stress</article-title>
+<source>Pakistan Journal of Botany</source>
+<year iso-8601-date="2021">2021</year>
+<volume>53</volume>
+<issue>2</issue>
+<fpage>387</fpage>
+<lpage>392</lpage>
+<pub-id pub-id-type="doi">10.30848/PJB2021-2(21)</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Ibrahim et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ibrahim</surname>
+<given-names>MEH</given-names>
+</name>
+<name>
+<surname>Adam Ali</surname>
+<given-names>AY</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ibrahim Elsiddig</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ahmed Nimir</surname>
+<given-names>NE</given-names>
+</name>
+<name>
+<surname>Ahmad</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Biochar application affects forage sorghum under salinity stress</article-title>
+<source>Chilean Journal of Agricultural Research</source>
+<year iso-8601-date="2020">2020</year>
+<volume>80</volume>
+<issue>3</issue>
+<fpage>317</fpage>
+<lpage>325</lpage>
+<pub-id pub-id-type="doi">10.4067/S0718-58392020000300317</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Issanova et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Issanova</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Abuduwaili</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Galayeva</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Semenov</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Bazarbayeva</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Aeolian transportation of sand and dust in the Aral Sea region</article-title>
+<source>International Journal of Environmental Science and Technology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>12</volume>
+<issue>10</issue>
+<fpage>3213</fpage>
+<lpage>3224</lpage>
+<pub-id pub-id-type="doi">10.1007/s13762-015-0753-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Jabborova et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Annapurna</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Azimov</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Tyagi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pengani</surname>
+<given-names>KR</given-names>
+</name>
+<name>
+<surname>Sharma</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Vikram</surname>
+<given-names>KV</given-names>
+</name>
+<name>
+<surname>Poczai</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Nasif</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Ansari</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Sayyed</surname>
+<given-names>RZ</given-names>
+</name>
+</person-group>
+<article-title>Co-inoculation of biochar and arbuscular mycorrhizae for growth promotion and nutrient fortification in soybean under drought conditions</article-title>
+<source>Frontiers in Plant Science</source>
+<year iso-8601-date="2022">2022</year>
+<volume>13</volume>
+<fpage>947547</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2022.947547</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Jabborova et al. (2021a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Annapurna</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Choudhary</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bhowmik</surname>
+<given-names>SN</given-names>
+</name>
+<name>
+<surname>Desouky</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Selim</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Azab</surname>
+<given-names>IHE</given-names>
+</name>
+<name>
+<surname>Hamada</surname>
+<given-names>MMA</given-names>
+</name>
+<name>
+<surname>Nahhas</surname>
+<given-names>NE</given-names>
+</name>
+<name>
+<surname>Elkelish</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Interactive impact of biochar and arbuscular mycorrhizal on root morphology, physiological properties of fenugreek (<italic>Trigonella foenum-graecum</italic> L.) and soil enzymatic activities</article-title>
+<source>Agronomy</source>
+<year iso-8601-date="2021a">2021a</year>
+<volume>11</volume>
+<issue>11</issue>
+<fpage>2341</fpage>
+<pub-id pub-id-type="doi">10.3390/agronomy11112341</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Jabborova et al. (2021b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Annapurna</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Paul</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Saad</surname>
+<given-names>HA</given-names>
+</name>
+<name>
+<surname>Desouky</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ibrahim</surname>
+<given-names>MFM</given-names>
+</name>
+<name>
+<surname>Elkelish</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Beneficial features of biochar and <italic>Arbuscular mycorrhiza</italic> for improving spinach plant growth, root morphological traits, physiological properties, and soil enzymatic activities</article-title>
+<source>Journal of Fungi</source>
+<year iso-8601-date="2021b">2021b</year>
+<volume>7</volume>
+<issue>7</issue>
+<fpage>571</fpage>
+<pub-id pub-id-type="doi">10.3390/jof7070571</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Jabborova et al. (2021c)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Kadirova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Narimanov</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wirth</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Beneficial effects of biochar application on lettuce (<italic>Lactuca sativa</italic> L.) growth, root morphological traits and physiological properties</article-title>
+<source>Annals of Phytomedicine: An International Journal</source>
+<year iso-8601-date="2021c">2021c</year>
+<volume>10</volume>
+<issue>2</issue>
+<fpage>93</fpage>
+<lpage>100</lpage>
+<pub-id pub-id-type="doi">10.21276/ap.2021.10.2.13</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Jabborova et al. (2021d)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Bellingrath-Kimura</surname>
+<given-names>SD</given-names>
+</name>
+<name>
+<surname>Wirth</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Impacts of biochar on basil (<italic>Ocimum basilicum</italic>) growth, root morphological traits, plant biochemical and physiological properties and soil enzymatic activities</article-title>
+<source>Scientia Horticulturae</source>
+<year iso-8601-date="2021d">2021d</year>
+<volume>290</volume>
+<issue>2</issue>
+<fpage>110518</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scienta.2021.110518</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Jabborova et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Narimanov</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Enakiev</surname>
+<given-names>YI</given-names>
+</name>
+<name>
+<surname>Davranov</surname>
+<given-names>KD</given-names>
+</name>
+</person-group>
+<article-title>Effect of <italic>Bacillus subtilis</italic> 1 strain on the growth and development of wheat (<italic>Triticum aestivum</italic> L.) under saline condition</article-title>
+<source>Bulgarian Journal of Agricultural Science</source>
+<year iso-8601-date="2020">2020</year>
+<volume>26</volume>
+<issue>4</issue>
+<fpage>744</fpage>
+<lpage>747</lpage>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Jabborova et al. (2021e)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jabborova</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Wirth</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Halwani</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ibrahim</surname>
+<given-names>MFM</given-names>
+</name>
+<name>
+<surname>Azab</surname>
+<given-names>IHE</given-names>
+</name>
+<name>
+<surname>El-Mogy</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Elkelish</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Growth response of ginger (<italic>Zingiber officinale</italic>), its physiological properties and soil enzyme activities after biochar application under greenhouse conditions</article-title>
+<source>Horticulturae</source>
+<year iso-8601-date="2021e">2021e</year>
+<volume>7</volume>
+<issue>8</issue>
+<fpage>250</fpage>
+<pub-id pub-id-type="doi">10.3390/horticulturae7080250</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Jiang et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jiang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Manzoor</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Egamberdieva</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Panosyan</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Birkeland</surname>
+<given-names>N-K</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Onshore soil microbes and endophytes respond differently to geochemical and mineralogical changes in the Aral Sea</article-title>
+<source>Science of the Total Environment</source>
+<year iso-8601-date="2021">2021</year>
+<volume>765</volume>
+<issue>2</issue>
+<fpage>142675</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.142675</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Kahrizi, Sedghi &amp; Sofalian (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kahrizi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sedghi</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sofalian</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Effect of salt stress on proline and activity of antioxidant enzymes in ten durum wheat cultivars</article-title>
+<source>Annals of Biological Research</source>
+<year iso-8601-date="2012">2012</year>
+<volume>3</volume>
+<fpage>3870</fpage>
+<lpage>3874</lpage>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Keeney (2015)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Keeney</surname>
+<given-names>DR</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Page</surname>
+<given-names>AL</given-names>
+</name>
+</person-group>
+<article-title>Nitrogen-availability indices</article-title>
+<source>Agronomy Monographs</source>
+<year iso-8601-date="2015">2015</year>
+<publisher-loc>Madison, WI</publisher-loc>
+<publisher-name>American Society of Agronomy, Soil Science Society of America location</publisher-name>
+<fpage>711</fpage>
+<lpage>733</lpage>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Khadem &amp; Raiesi (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Khadem</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Raiesi</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Influence of biochar on potential enzyme activities in two calcareous soils of contrasting texture</article-title>
+<source>Geoderma</source>
+<year iso-8601-date="2017">2017</year>
+<volume>308</volume>
+<fpage>149</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.1016/j.geoderma.2017.08.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Khaziev (2005)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Khaziev</surname>
+<given-names>FK</given-names>
+</name>
+</person-group>
+<article-title>Methods of soil enzymology</article-title>
+<source>Moscow, Science. (In Russian)</source>
+<year iso-8601-date="2005">2005</year><uri>https://www.scirp.org/(S(351jmbntv-nsjt1aadkposzje))/reference/referencespapers.aspx?referenceid=2819410</uri>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Kinney et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kinney</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Masiello</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Dugan</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Hockaday</surname>
+<given-names>WC</given-names>
+</name>
+<name>
+<surname>Dean</surname>
+<given-names>MR</given-names>
+</name>
+<name>
+<surname>Zygourakis</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Barnes</surname>
+<given-names>RT</given-names>
+</name>
+</person-group>
+<article-title>Hydrologic properties of biochars produced at different temperatures</article-title>
+<source>Biomass and Bioenergy</source>
+<year iso-8601-date="2012">2012</year>
+<volume>41</volume>
+<issue>49</issue>
+<fpage>34</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biombioe.2012.01.033</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Kochkarova (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kochkarova</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Study of successional processes of vegetation cover on the dried seabed of the Aral Sea</article-title>
+<source>Journal of Research on the Lepidoptera</source>
+<year iso-8601-date="2020">2020</year>
+<volume>51</volume>
+<issue>1</issue>
+<fpage>764</fpage>
+<lpage>768</lpage>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Kul et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kul</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Arjumend</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Ekinci</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Yildirim</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Turan</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Argin</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Biochar as an organic soil conditioner for mitigating salinity stress in tomato</article-title>
+<source>Soil Science and Plant Nutrition</source>
+<year iso-8601-date="2021">2021</year>
+<volume>67</volume>
+<issue>6</issue>
+<fpage>693</fpage>
+<lpage>706</lpage>
+<pub-id pub-id-type="doi">10.1080/00380768.2021.1998924</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Kumar et al. (2021b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Ji</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Ke</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Hou</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Effect of salt stress on growth, physiological parameters, and ionic concentration of water dropwort (<italic>Oenanthe javanica</italic>) cultivars</article-title>
+<source>Frontiers in Plant Science</source>
+<year iso-8601-date="2021b">2021b</year>
+<volume>12</volume>
+<fpage>660409</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2021.660409</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Kumar et al. (2021a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kumar</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mukherjee</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rastogi</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Verma</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<article-title>Salt-tolerant plant growth-promoting <italic>Bacillus pumilus</italic> strain JPVS11 to enhance plant growth attributes of rice and improve soil health under salinity stress</article-title>
+<source>Microbiological Research</source>
+<year iso-8601-date="2021a">2021a</year>
+<volume>242</volume>
+<issue>4</issue>
+<fpage>126616</fpage>
+<pub-id pub-id-type="doi">10.1016/j.micres.2020.126616</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Lashari et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lashari</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Ye</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ji</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Kibue</surname>
+<given-names>GW</given-names>
+</name>
+<name>
+<surname>Lu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Zheng</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Pan</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Biochar-manure compost in conjunction with pyroligneous solution alleviated salt stress and improved leaf bioactivity of maize in a saline soil from central China: a 2-year field experiment: effect of biochar-manure compost on salt-stressed maize</article-title>
+<source>Journal of the Science of Food and Agriculture</source>
+<year iso-8601-date="2015">2015</year>
+<volume>95</volume>
+<issue>6</issue>
+<fpage>1321</fpage>
+<lpage>1327</lpage>
+<pub-id pub-id-type="doi">10.1002/jsfa.6825</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Masiello et al. (2015)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Masiello</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Dugan</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Brewer</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Spokas</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Novak</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Sorrenti</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Lehmann</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Joseph</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Biochar effects on soil hydrology</article-title>
+<source>Biochar for Environmental Management, Science, Technology and Implementation</source>
+<year iso-8601-date="2015">2015</year>
+<edition designator="2">Second Edition</edition>
+<publisher-loc>Milton Park, UK</publisher-loc>
+<publisher-name>Routledge</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Mehdizadeh, Moghaddam &amp; Lakzian (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mehdizadeh</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Moghaddam</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lakzian</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Amelioration of soil properties, growth and leaf mineral elements of summer savory under salt stress and biochar application in alkaline soil</article-title>
+<source>Scientia Horticulturae</source>
+<year iso-8601-date="2020">2020</year>
+<volume>267</volume>
+<issue>15</issue>
+<fpage>109319</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scienta.2020.109319</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Menezes et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Menezes</surname>
+<given-names>RV</given-names>
+</name>
+<name>
+<surname>Azevedo Neto</surname>
+<given-names>ADD</given-names>
+</name>
+<name>
+<surname>Ribeiro</surname>
+<given-names>MDO</given-names>
+</name>
+<name>
+<surname>Cova</surname>
+<given-names>AMW</given-names>
+</name>
+</person-group>
+<article-title>Growth and contents of organic and inorganic solutes in amaranth under salt stress</article-title>
+<source>Pesquisa Agropecuária Tropical</source>
+<year iso-8601-date="2017">2017</year>
+<volume>47</volume>
+<issue>1</issue>
+<fpage>22</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1590/1983-40632016v4742580</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Micklin (1988)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Micklin</surname>
+<given-names>PP</given-names>
+</name>
+</person-group>
+<article-title>Desiccation of the Aral Sea: a water management disaster in the Soviet Union</article-title>
+<source>Science</source>
+<year iso-8601-date="1988">1988</year>
+<volume>241</volume>
+<issue>4870</issue>
+<fpage>1170</fpage>
+<lpage>1176</lpage>
+<pub-id pub-id-type="doi">10.1126/science.241.4870.1170</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Ndiate et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ndiate</surname>
+<given-names>NI</given-names>
+</name>
+<name>
+<surname>Saeed</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Haider</surname>
+<given-names>FU</given-names>
+</name>
+<name>
+<surname>Liqun</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Nkoh</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Mustafa</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Co-application of Biochar and Arbuscular mycorrhizal fungi improves salinity tolerance, growth and lipid metabolism of maize (<italic>Zea mays</italic> L.) in an alkaline soil</article-title>
+<source>Plants</source>
+<year iso-8601-date="2021">2021</year>
+<volume>10</volume>
+<issue>11</issue>
+<fpage>2490</fpage>
+<pub-id pub-id-type="doi">10.3390/plants10112490</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Nikpour-Rashidabad et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nikpour-Rashidabad</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Tavasolee</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Torabian</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Farhangi-Abriz</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>The effect of biochar on the physiological, morphological and anatomical characteristics of mung bean roots after exposure to salt stress</article-title>
+<source>Archives of Biological Sciences</source>
+<year iso-8601-date="2019">2019</year>
+<volume>71</volume>
+<issue>2</issue>
+<fpage>321</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="doi">10.2298/ABS181005014N</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Omara et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Omara</surname>
+<given-names>AE-D</given-names>
+</name>
+<name>
+<surname>Hafez</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Osman</surname>
+<given-names>HS</given-names>
+</name>
+<name>
+<surname>Rashwan</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>El-Said</surname>
+<given-names>MAA</given-names>
+</name>
+<name>
+<surname>Alharbi</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Abd El-Moneim</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Gowayed</surname>
+<given-names>SM</given-names>
+</name>
+</person-group>
+<article-title>Collaborative impact of compost and beneficial rhizobacteria on soil properties, physiological attributes, and productivity of wheat subjected to deficit irrigation in salt affected soil</article-title>
+<source>Plants</source>
+<year iso-8601-date="2022">2022</year>
+<volume>11</volume>
+<issue>7</issue>
+<fpage>877</fpage>
+<pub-id pub-id-type="doi">10.3390/plants11070877</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Pansu &amp; Gautheyrou (2006)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Pansu</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gautheyrou</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Handbook of Soil Analysis</source>
+<year iso-8601-date="2006">2006</year>
+<publisher-loc>Berlin Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Piao et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Piao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Che</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Hua</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Application of peanut shell biochar increases rice yield in saline-alkali paddy fields by regulating leaf ion concentrations and photosynthesis rate</article-title>
+<source>Plant and Soil</source>
+<year iso-8601-date="2023">2023</year>
+<volume>483</volume>
+<issue>1–2</issue>
+<fpage>589</fpage>
+<lpage>606</lpage>
+<pub-id pub-id-type="doi">10.1007/s11104-022-05767-w</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Pokharel, Ma &amp; Chang (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pokharel</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Chang</surname>
+<given-names>SX</given-names>
+</name>
+</person-group>
+<article-title>Biochar increases soil microbial biomass with changes in extra- and intracellular enzyme activities: a global meta-analysis</article-title>
+<source>Biochar</source>
+<year iso-8601-date="2020">2020</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>65</fpage>
+<lpage>79</lpage>
+<pub-id pub-id-type="doi">10.1007/s42773-020-00039-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Premalatha, Malarvizhi &amp; Parameswari (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Premalatha</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Malarvizhi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Parameswari</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Effect of biochar doses under various levels of salt stress on soil nutrient availability, soil enzyme activities and plant growth in a marigold crop</article-title>
+<source>Crop &amp; Pasture Science</source>
+<year iso-8601-date="2022">2022</year>
+<volume>74</volume>
+<issue>2</issue>
+<fpage>66</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="doi">10.1071/CP21542</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Qi &amp; Evered (2008)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Qi</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Evered</surname>
+<given-names>KT</given-names>
+</name>
+</person-group>
+<source>Environmental problems of Central Asia and their Economic, Social and Security Impacts</source>
+<year iso-8601-date="2008">2008</year>
+<publisher-loc>Netherlands</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Qu et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Qu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Soil enzyme activity and microbial metabolic function diversity in soda saline-alkali rice paddy fields of Northeast China</article-title>
+<source>Sustainability</source>
+<year iso-8601-date="2020">2020</year>
+<volume>12</volume>
+<issue>23</issue>
+<fpage>10095</fpage>
+<pub-id pub-id-type="doi">10.3390/su122310095</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Saddiq et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saddiq</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Iqbal</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Hafeez</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Ibrahim</surname>
+<given-names>AMH</given-names>
+</name>
+<name>
+<surname>Raza</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Fatima</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Baloch</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Jahanzaib</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Woodrow</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Ciarmiello</surname>
+<given-names>LF</given-names>
+</name>
+</person-group>
+<article-title>Effect of salinity stress on physiological changes in winter and spring wheat</article-title>
+<source>Agronomy</source>
+<year iso-8601-date="2021">2021</year>
+<volume>11</volume>
+<issue>6</issue>
+<fpage>1193</fpage>
+<pub-id pub-id-type="doi">10.3390/agronomy11061193</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Saifullah et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saifullah</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Dahlawi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Naeem</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rengel</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Naidu</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Biochar application for the remediation of salt-affected soils: challenges and opportunities</article-title>
+<source>Science of the Total Environment</source>
+<year iso-8601-date="2018">2018</year>
+<volume>625</volume>
+<fpage>320</fpage>
+<lpage>335</lpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2017.12.257</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Shaaban et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shaaban</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Van Zwieten</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bashir</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Younas</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Núñez-Delgado</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Chhajro</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Kubar</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Ali</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Rana</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Mehmood</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>A concise review of biochar application to agricultural soils to improve soil conditions and fight pollution</article-title>
+<source>Journal of Environmental Management</source>
+<year iso-8601-date="2018">2018</year>
+<volume>228</volume>
+<fpage>429</fpage>
+<lpage>440</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvman.2018.09.006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Song et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Song</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Biochar/vermicompost promotes Hybrid Pennisetum plant growth and soil enzyme activity in saline soils</article-title>
+<source>Plant Physiology and Biochemistry</source>
+<year iso-8601-date="2022">2022</year>
+<volume>183</volume>
+<issue>1</issue>
+<fpage>96</fpage>
+<lpage>110</lpage>
+<pub-id pub-id-type="doi">10.1016/j.plaphy.2022.05.008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Van Breusegem et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van Breusegem</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Vranová</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Dat</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Inzé</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>The role of active oxygen species in plant signal transduction</article-title>
+<source>Plant Science</source>
+<year iso-8601-date="2001">2001</year>
+<volume>161</volume>
+<issue>3</issue>
+<fpage>405</fpage>
+<lpage>414</lpage>
+<pub-id pub-id-type="doi">10.1016/S0168-9452(01)00452-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Wang et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Salt-induced plasticity of root hair development is caused by ion disequilibrium in <italic>Arabidopsis thaliana</italic></article-title>
+<source>Journal of Plant Research</source>
+<year iso-8601-date="2008">2008</year>
+<volume>121</volume>
+<issue>1</issue>
+<fpage>87</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.1007/s10265-007-0123-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Yang et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Lv</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Jiang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Soil salinity regulation of soil microbial carbon metabolic function in the Yellow River Delta, China</article-title>
+<source>Science of the Total Environment</source>
+<year iso-8601-date="2021">2021</year>
+<volume>790</volume>
+<fpage>148258</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2021.148258</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Yang et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Miao</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Assessing the effect of soil salinization on soil microbial respiration and diversities under incubation conditions</article-title>
+<source>Applied Soil Ecology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>155</volume>
+<fpage>103671</fpage>
+<pub-id pub-id-type="doi">10.1016/j.apsoil.2020.103671</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>Yao et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yao</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Gulaqa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Cui</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Weng</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Effects of peanut shell biochar on soil nutrients, soil enzyme activity, and rice yield in heavily saline-sodic paddy field</article-title>
+<source>Journal of Soil Science and Plant Nutrition</source>
+<year iso-8601-date="2021">2021</year>
+<volume>21</volume>
+<issue>1</issue>
+<fpage>655</fpage>
+<lpage>664</lpage>
+<pub-id pub-id-type="doi">10.1007/s42729-020-00390-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-71">
+<label>Zahra, Raza &amp; Mahmood (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zahra</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Raza</surname>
+<given-names>ZA</given-names>
+</name>
+<name>
+<surname>Mahmood</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Effect of salinity stress on various growth and physiological attributes of two contrasting maize genotypes</article-title>
+<source>Brazilian Archives of Biology and Technology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>63</volume>
+<issue>1</issue>
+<elocation-id>e20200072</elocation-id>
+<pub-id pub-id-type="doi">10.1590/1678-4324-2020200072</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-72">
+<label>Zeeshan et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zeeshan</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lu</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sehar</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Holford</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Comparison of biochemical, anatomical, morphological, and physiological responses to salinity stress in wheat and barley genotypes deferring in salinity tolerance</article-title>
+<source>Agronomy</source>
+<year iso-8601-date="2020">2020</year>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>127</fpage>
+<pub-id pub-id-type="doi">10.3390/agronomy10010127</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-73">
+<label>Zhang et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ding</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Su</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Biochar addition alleviate the negative effects of drought and salinity stress on soybean productivity and water use efficiency</article-title>
+<source>BMC Plant Biology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>20</volume>
+<issue>1</issue>
+<fpage>288</fpage>
+<pub-id pub-id-type="doi">10.1186/s12870-020-02493-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-74">
+<label>Zulfiqar et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zulfiqar</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Younis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Abideen</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Naveed</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Koyro</surname>
+<given-names>H-W</given-names>
+</name>
+<name>
+<surname>Siddique</surname>
+<given-names>KHM</given-names>
+</name>
+</person-group>
+<article-title>Biochar, compost, and biochar-compost blend applications modulate growth, photosynthesis, osmolytes, and antioxidant system of medicinal plant <italic>Alpinia zerumbet</italic></article-title>
+<source>Frontiers in Plant Science</source>
+<year iso-8601-date="2021">2021</year>
+<volume>12</volume>
+<fpage>707061</fpage>
+<pub-id pub-id-type="doi">10.3389/fpls.2021.707061</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

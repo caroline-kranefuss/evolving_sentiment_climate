@@ -1,0 +1,2570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">6047</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.6047</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Evolutionary Studies</subject>
+<subject>Marine Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Exploring mechanisms that affect coral cooperation: symbiont transmission mode, cell density and community composition</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0003-1126-4311</contrib-id>
+<name name-style="western">
+<surname>Kenkel</surname>
+<given-names>Carly D.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>ckenkel@usc.edu</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-9760-2977</contrib-id>
+<name name-style="western">
+<surname>Bay</surname>
+<given-names>Line K.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>Department of Biological Sciences, University of Southern California</institution>, <addr-line>Los Angeles, CA</addr-line>, <country>USA</country></aff>
+<aff id="aff-2"><label>2</label><institution>Australian Institute of Marine Science</institution>, <addr-line>Townsville, QLD</addr-line>, <country>Australia</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Nelson</surname>
+<given-names>Craig</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-03">
+<day>3</day>
+<month>12</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e6047</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-03-30">
+<day>30</day>
+<month>3</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-31">
+<day>31</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Kenkel and Bay</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Kenkel and Bay</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/6047"/>
+<abstract>
+<p>The coral symbiosis is the linchpin of the reef ecosystem, yet the mechanisms that promote and maintain cooperation between hosts and symbionts have not been fully resolved. We used a phylogenetically controlled design to investigate the role of vertical symbiont transmission, an evolutionary mechanism in which symbionts are inherited directly from parents, predicted to enhance cooperation and holobiont fitness. Six species of coral, three vertical transmitters and their closest horizontally transmitting relatives, which exhibit environmental acquisition of symbionts, were fragmented and subjected to a 2-week thermal stress experiment. Symbiont cell density, photosynthetic function and translocation of photosynthetically fixed carbon between symbionts and hosts were quantified to assess changes in physiological performance and cooperation. All species exhibited similar decreases in symbiont cell density and net photosynthesis in response to elevated temperature, consistent with the onset of bleaching. Yet baseline cooperation, or translocation of photosynthate, in ambient conditions and the reduction in cooperation in response to elevated temperature differed among species. Although <italic>Porites lobata</italic> and <italic>Galaxea acrhelia</italic> did exhibit the highest levels of baseline cooperation, we did not observe universally higher levels of cooperation in vertically transmitting species. <italic>Post hoc</italic> sequencing of the <italic>Symbiodinium</italic> ITS-2 locus was used to investigate the potential role of differences in symbiont community composition. Interestingly, reductions in cooperation at the onset of bleaching tended to be associated with increased symbiont community diversity among coral species. The theoretical benefits of evolving vertical transmission are based on the underlying assumption that the host-symbiont relationship becomes genetically uniform, thereby reducing competition among symbionts. Taken together, our results suggest that it may not be vertical transmission <italic>per se</italic> that influences host-symbiont cooperation, but genetic uniformity of the symbiont community, although additional work is needed to test this hypothesis.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Symbiosis</kwd>
+<kwd>Carbon translocation</kwd>
+<kwd>Transmission mode</kwd>
+<kwd>Reef corals</kwd>
+<kwd>Bleaching</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>NSF International Postdoctoral Research Fellowship</funding-source>
+<award-id>DBI-1401165</award-id>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Australian Institute of Marine Science</funding-source>
+</award-group>
+<funding-statement>An NSF International Postdoctoral Research Fellowship, DBI-1401165, to Carly D Kenkel and funding from the Australian Institute of Marine Science to Line K. Bay, supported this work. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Cooperation between species has played a fundamental role in the evolution and diversification of life (<xref ref-type="bibr" rid="ref-31">Friesen &amp; Jones, 2013</xref>; <xref ref-type="bibr" rid="ref-47">Kiers &amp; West, 2015</xref>; <xref ref-type="bibr" rid="ref-54">Maynard Smith &amp; Szathmary, 1995</xref>; <xref ref-type="bibr" rid="ref-55">Moran, 2006</xref>). In the case of reef-building corals, the intracellular symbiosis between dinoflagellates in the genus <italic>Symbiodinium</italic> and a calcifying Cnidarian host forms the basis of one of the most biodiverse and productive ecosystems on the planet (<xref ref-type="bibr" rid="ref-37">Hatcher, 1988</xref>; <xref ref-type="bibr" rid="ref-48">Knowlton et al., 2010</xref>). The process of host calcification, which builds the three dimensional structure of the reef, is largely powered by symbiont primary productivity (<xref ref-type="bibr" rid="ref-66">Roth, 2014</xref>). However, climate change and other anthropogenic processes threaten reefs because of the sensitivity of the coral-dinoflagellate symbiosis to environmental stress (<xref ref-type="bibr" rid="ref-40">Hoegh-Guldberg et al., 2007</xref>; <xref ref-type="bibr" rid="ref-41">Hughes et al., 2003</xref>), indicating that host-symbiont cooperation is not stable over ecological timescales.</p>
+<p>Recent work has suggested that a transition to parasitism may precipitate the breakdown of the host-symbiont relationship (<xref ref-type="bibr" rid="ref-7">Baker et al., 2018</xref>), but this is not a unique feature of the coral symbiosis. Across taxa, mutualisms are better defined as a spectrum that ranges from negative parasitic interactions to mutually beneficial symbioses, both within the context of a focal inter-species interaction and when comparing relationships across taxa (<xref ref-type="bibr" rid="ref-23">Doebeli &amp; Knowlton, 1998</xref>; <xref ref-type="bibr" rid="ref-50">Lesser, Stat &amp; Gates, 2013</xref>; <xref ref-type="bibr" rid="ref-57">Nowak, Bonhoeffer &amp; May, 1994</xref>; <xref ref-type="bibr" rid="ref-67">Sachs, Essenberg &amp; Turcotte, 2011</xref>). Less well-resolved, particularly for the coral-<italic>Symbiodinium</italic> symbiosis, are the mechanisms that promote and maintain positive interactions between partners (<xref ref-type="bibr" rid="ref-50">Lesser, Stat &amp; Gates, 2013</xref>; <xref ref-type="bibr" rid="ref-69">Sachs &amp; Wilcox, 2006</xref>).</p>
+<p>One major factor predicted to influence levels of cooperation is the mode of symbiont transmission (<xref ref-type="bibr" rid="ref-3">Anderson &amp; May, 1982</xref>; <xref ref-type="bibr" rid="ref-26">Ebert &amp; Bull, 2003</xref>). In corals as in other symbioses, two transmission modes predominate: symbionts can be acquired horizontally from the local environment, usually during a defined larval stage, or vertically from parents, typically through the maternal germ line (reviewed in <xref ref-type="bibr" rid="ref-11">Bright &amp; Bulgheresi (2010)</xref>). Virulence theory predicts that horizontal transmission allows symbionts to adopt selfish strategies, potentially harmful to the host (<xref ref-type="bibr" rid="ref-13">Bull, 1994</xref>). A transition from horizontal to vertical transmission is predicted to align the reproductive interests of partners (via partner-fidelity feedback <italic>sensu</italic> <xref ref-type="bibr" rid="ref-68">Sachs et al., 2004</xref>) and optimize resource sharing to maximize holobiont (the combination of host and symbiont) fitness (<xref ref-type="bibr" rid="ref-25">Ebert, 2013</xref>; <xref ref-type="bibr" rid="ref-29">Frank, 1994</xref>; <xref ref-type="bibr" rid="ref-39">Herre et al., 1999</xref>).</p>
+<p>Experimental manipulations of transmission mode in other systems have provided empirical support for a reduction in pathogen virulence under enforced vertical transmission scenarios (<xref ref-type="bibr" rid="ref-14">Bull, Molineux &amp; Rice, 1991</xref>; <xref ref-type="bibr" rid="ref-24">Dusi et al., 2015</xref>; <xref ref-type="bibr" rid="ref-69">Sachs &amp; Wilcox, 2006</xref>; <xref ref-type="bibr" rid="ref-72">Stewart, Logsdon &amp; Kelley, 2005</xref>). Bacteriophages forced into vertical transmission evolved lower virulence and lost the capacity to transmit horizontally (<xref ref-type="bibr" rid="ref-14">Bull, Molineux &amp; Rice, 1991</xref>). Similarly, <italic>Symbiodinium microadriaticum</italic> under an experimentally enforced horizontal transmission regime proliferated faster within their <italic>Cassiopea</italic> jellyfish hosts while reducing host reproduction and growth (<xref ref-type="bibr" rid="ref-69">Sachs &amp; Wilcox, 2006</xref>). However, studies attempting to quantify the evolutionary consequences of natural shifts in transmission mode remain rare, with Herre’s demonstration of a negative relationship between vertical transmission and virulence in nematodes that parasitize fig wasps a notable exception (<xref ref-type="bibr" rid="ref-38">Herre, 1993</xref>).</p>
+<p>Reef-building corals are a potential system in which to study naturally occurring transitions in transmission mode in a mutualistic symbiosis. Corals (Cnidaria: Anthozoa: Scleractinia) are colonial animals that harbour intracellular populations of dinoflagellate algae in the genus <italic>Symbiodinium</italic>. This symbiosis is considered obligate as the breakdown of the relationship between host animals and their intracellular <italic>Symbiodinium</italic> algae, commonly known as coral bleaching, has major fitness consequences for both partners, and can be lethal (reviewed in <xref ref-type="bibr" rid="ref-12">Brown (1997)</xref>). This inter-species partnership is ancient (evolved ∼250 Mya (<xref ref-type="bibr" rid="ref-71">Stanley &amp; Swart, 1995</xref>), prolific (600+ coral species worldwide (<xref ref-type="bibr" rid="ref-21">Daly et al., 2007</xref>), and constitutes the foundation of one of the most bio-diverse ecosystems on the planet. The majority of coral species (∼85%) acquire their <italic>Symbiodinium</italic> horizontally from the local environment in each generation (<xref ref-type="bibr" rid="ref-35">Harrison &amp; Wallace, 1990</xref>). However, vertical transmission has independently evolved at least four times, such that both transmission strategies can be exhibited by different coral species within the same genus (<xref ref-type="bibr" rid="ref-6">Baird, Guest &amp; Willis, 2009b</xref>; <xref ref-type="bibr" rid="ref-36">Hartmann et al., 2017</xref>).</p>
+<p>We compared physiological components of cooperation and fitness proxies between horizontal and vertical transmitters (VTs) in a phylogenetically controlled design using three pairs of related coral species exhibiting different strategies: (1) <italic>Galaxea acrhelia</italic> (VT) and <italic>Galaxea astreata</italic> (horizontal transmitter, HT); (2) <italic>Porites lobata</italic> (VT) <italic>and Goniopora columna</italic> (HT); (3) <italic>Montipora aequituberculata</italic> (VT) and <italic>Acropora millepora</italic> (HT). Species comparisons were drawn from the same or sister genera and replicate comparisons from more distantly related clades (<xref ref-type="bibr" rid="ref-36">Hartmann et al., 2017</xref>). Species also represented a diversity of reproductive modes (e.g. broadcast spawner, brooder), sexual systems (e.g. hermaphroditic, gonochoric), and morphologies (e.g. massive, branching), and host different subclades of <italic>Symbiodinium</italic> (<xref ref-type="bibr" rid="ref-74">Tonk et al., 2013</xref>), such that mode of symbiont transmission was the only consistent difference between pairs (<xref ref-type="bibr" rid="ref-6">Baird, Guest &amp; Willis, 2009b</xref>; <xref ref-type="bibr" rid="ref-30">Franklin et al., 2012</xref>; <xref ref-type="bibr" rid="ref-46">Kerr, Baird &amp; Hughes, 2011</xref>). We quantified changes in symbiont cell density, photosynthetic function and translocation of photosynthetically fixed carbon between symbionts and hosts. We defined cooperation as the proportion of photosynthetically fixed carbon translocated to the host, while the degree of symbiont parasitism was calculated as the difference in the proportion of photosynthetically fixed carbon translocated to hosts between control and heat-treated samples at the end of the experiment, <italic>sensu</italic> <xref ref-type="bibr" rid="ref-7">Baker et al. (2018)</xref>. Bleaching, or the reduction in symbiont density in response to sustained thermal stress was used as a proxy for holobiont fitness. While we observed differences in host-symbiont cooperation, both at a baseline level and during the onset of bleaching, vertically transmitting species did not exhibit universally elevated levels of cooperation. Additional <italic>post hoc</italic> analysis of <italic>Symbiodinium</italic> ITS-2 diversity among coral species was therefore used to investigate whether symbiont community composition could better explain physiological trait patterns. Symbiont community composition did not explain a significant portion of the variation in physiological components of cooperation or fitness proxies; however, diversity tended to be associated with the degree of symbiont parasitism at the onset of bleaching, suggesting that reduced genetic diversity of symbionts, rather than vertical transmission <italic>per se</italic>, may influence host-symbiont cooperation.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Coral collection and acclimation</title>
+<p>Fragments from 60 unique coral colonies, ∼20 cm in diameter, were collected from reefs on the Central GBR from the 8–22 April 2015 under the Great Barrier Reef Marine Park Authority permits G12/35236.1 and G14/37318.1, prioritizing collection of focal species pairs by transmission mode from the same reef environment, including location and depth. A total of 10 corals of each species, <italic>Galaxea acrhelia</italic> and <italic>Galaxea astreata</italic> were collected from Davies Reef (18°49.816′, 147°37.888′, 11 April 2015), 10 corals each of <italic>A. millepora</italic> and <italic>M. aequituberculata</italic> were collected from Pelorus Island (18°33.358′, 146°30.276′, 18 April 2015) and 10 corals each of <italic>Goniopora columna</italic> and <italic>P. lobata</italic> were collected from Pandora Reef (18°48.778′, 146°25.593′, 21 April 2015) from depths of &lt;10 m across all reefs, and from the same depth within each site. Corals were transported to the Australian Institute of Marine Science Sea Simulator facility and placed in shaded outdoor holding tanks with 0.2 μM filtered flow-through seawater (FSW, 27 °C, 150 μmol quanta m<sup>2</sup>/s). Each individual coral colony was further cut into six replicates using a diamond blade band saw and these fragments were mounted on aragonite plugs using either super-glue or marine epoxy. On 1 May 2015, fragments were moved into indoor experimental aquaria, which consisted of 12 50-L treatment tanks fitted with 3.5 W Turbelle nanostream 6,015 pumps (Tunze, Penzberg, Germany) with filtered flow-through seawater (FSW, ∼25 l/h) at 27 °C with Hydra 52 lights (Aqua Illumination, C2 Development, Inc., Ames, IA, USA) on a 12:12 light/dark cycle mimicking natural irradiance patterns, peaking at 130–160 μmol quanta m<sup>2</sup>/s at ‘midday’, which actually occurred at 10:30 GMT +10. Tanks, coral racks and plugs were cleaned daily. Beginning on 7 May, at 20 mins before dark (16:30 GMT +10) every day, corals were fed <italic>Artemia</italic> naupli at a density of 1–1.5 naupli/5 ml and rotifers at a density of 1–3/ml.</p>
+</sec>
+<sec>
+<title>Experimental conditions and physiological trait measurements</title>
+<p>Beginning on 28 May 2015, effective quantum yield (EQY) of <italic>Symbiodinium</italic> photosystem II was measured daily for all experimental fragments using a pulse amplitude modulated fluorometer (diving-PAM, Walz) fitted with a plastic fibre optic cable (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>). Measurements were made using factory settings with a measuring intensity of 12 and a gain of 5 and taken at peak light intensity (between 09:30 and 11:30 GMT +10). EQY values were used to guide the timing of the final sampling time point (<xref ref-type="supplementary-material" rid="supp-1">Fig. S2</xref>), where a decline reflects an impact on the photosynthetic condition of the <italic>Symbiodinium</italic> (<xref ref-type="bibr" rid="ref-64">Ralph, Larkum &amp; Kuhl, 2005</xref>) because we aimed to target the onset of the coral bleaching response rather than the end-point.</p>
+<p>On 31 May 2015, temperatures in the heat treatment tanks were increased at a rate of 1 °C per day until temperatures reached 31 °C (day 4, <xref ref-type="supplementary-material" rid="supp-1">Fig. S3</xref>). Sample time points occurred on day 2 (29 °C, 1 June), day 4 (31 °C, 3 June) and day 17 (31 °C, 16 June, <xref ref-type="supplementary-material" rid="supp-1">Fig. S3</xref>). On each sampling day, one replicate fragment of each colony (<italic>n</italic> = 10) and species (<italic>n</italic> = 6) from each temperature treatment (<italic>n</italic> = 2; <italic>n</italic> = 120 total per sampling day) were used to measure net photosynthesis following the two-point method originally described and validated for <italic>A. millepora</italic> in <xref ref-type="bibr" rid="ref-73">Strahl et al. (2015)</xref>. It is important to note that this method was not validated for additional species or under the experimental conditions used in the present study, nor were species specific photosynthesis-irradiance curves quantified to determine an appropriate saturating irradiance. Briefly, corals were incubated in enclosed 600 ml acrylic chambers at their respective treatment temperatures and light levels for 1.5 h. Chambers were placed onto custom built tables with rotating magnets, which served to power stir bars within each chamber to facilitate water mixing. For each run, four chambers without corals were used as blanks to account for potential changes in oxygen content due to the metabolic activity of other microorganisms in the seawater. For net photosynthesis measures, the O<sub>2</sub> concentration of the seawater in each chamber was measured at the end of the run using a hand-held dissolved oxygen meter (HQ30d, equipped with LDO101 IntelliCAL oxygen probe; Hach, Loveland, CO, USA). Values from blank chambers were subtracted from measures made in coral chambers and the subsequent rate of net photosynthesis was related to coral surface area, calculated in μg O<sub>2</sub>/cm<sup>2</sup>/min.</p>
+<p>To measure the fraction of autotrophically derived carbon translocated to host animals, five colony fragments of each species from each treatment (<italic>n</italic> = 30 control, <italic>n</italic> = 30 heat) were placed into 18-L of FSW with a 5-W aquarium pump for circulation and <sup>14</sup>C-bicarbonate (specific activity: 56 mCi/mmol) was added to a final concentration of 0.28 μCi/ml. Corals were incubated for 5 h in experimental tanks which experienced the normal experimental irradiance profile from 09:00 to 14:00 GMT +10, rinsed with flow-through FSW for 1 h to remove remaining unfixed <sup>14</sup>C then snap frozen in liquid nitrogen.</p>
+<p>Tissue was removed from snap frozen coral skeletons using an air gun and homogenized for 60 s using a Pro250 homogenizer (Perth Scientific Equipment, Perth, WA, Australia). A 300 μl aliquot of the tissue homogenate was fixed with 5% formalin in FSW and used to quantify <italic>Symbiodinium</italic> cell density. The average cell number was obtained from four replicate haemocytometer counts of a 1 mm<sup>3</sup> area and cell density was related to host protein content (as assessed below) and expressed as cells/mg host protein. Although surface area is commonly used as the normalization factor for <italic>Symbiodinium</italic> cell density, it has been recognized that areal abundance does not account for differences in host biomass (reviewed in <xref ref-type="bibr" rid="ref-19">Cunning &amp; Baker (2014)</xref>). We found that normalization to soluble host protein more accurately reflected this difference in biomass, given that tissue thickness is significantly greater in <italic>Goniopora columna</italic> and not adequately accounted for by skeletal surface area normalization alone (<xref ref-type="supplementary-material" rid="supp-1">Fig. S4</xref>). We determined the degree of bleaching, or the reduction in symbiont density in response to sustained thermal stress, by calculating the difference in symbiont cell densities between heat-treated and paired control samples following the full 17 days of experimental treatment and used this value as a proxy of holobiont fitness.</p>
+<p>An additional 1 ml aliquot of holobiont homogenate was frozen at −20 °C. The remaining homogenate was centrifuged for 2 min at 3,500 rcf to separate host and symbiont fractions and two ml of the host tissue slurry was frozen at −20 °C. Total soluble protein was quantified for host tissue samples in duplicate using a colorimetric assay (Bio-Rad Protein Assay Kit II; Bio-Rad Laboratories, Inc., Hercules, California, USA) following the manufacturer’s instructions. Coral skeletons were rinsed with 5% bleach then dried at room temperature. Skeletal surface area was quantified using the single wax dipping method (<xref ref-type="bibr" rid="ref-75">Veal et al., 2010</xref>) and skeletal volume (used to standardize respirometry chamber volumes) was determined by calculating water displacement in a graduated cylinder.</p>
+<p>Sample radioactivity was determined using a liquid scintillation counter (Tri-Carb 2810TR v2.12; Perkin Elmer, Waltham, MA, USA). Triplicate host and duplicate holobiont 300 μl tissue homogenate aliquots were mixed with 3.5 ml Ultima Gold XR liquid scintillation cocktail (Perkin Elmer, Waltham, MA, USA). Samples were temperature and light adapted for 1 h and then counted for 1.5 min using the default parameters. Counts per minute were converted to disintegrations per minute (DPM) using a standard curve derived from a <sup>14</sup>C Ultima Gold Quench Standards Assay (Perkin Elmer, Waltham, MA, USA). Technical replicates were averaged. Host DPM values were divided by holobiont DPM values to yield the fraction of autotrophically derived carbon shared between partners, which we defined as our metric of host-symbiont cooperation. The degree of symbiont parasitism was calculated as the difference in this proportion of photosynthetically fixed carbon translocated to hosts between heat-treated and paired control samples following the full 17 days of experimental treatment, <italic>sensu</italic> <xref ref-type="bibr" rid="ref-7">Baker et al. (2018)</xref>.</p>
+<p>To identify major <italic>Symbiodinium</italic> clades hosted by focal species, DNA was extracted from symbiont fractions of the tissue homogenate for each replicate colony of each species (<italic>n</italic> = 60, all control tank fragments) using Wayne’s method (<xref ref-type="bibr" rid="ref-76">Wilson et al., 2002</xref>). A restriction digest of the large subunit (LSU) region of <italic>Symbiodinium</italic> rRNA (<xref ref-type="bibr" rid="ref-8">Baker &amp; Rowan, 1997</xref>; <xref ref-type="bibr" rid="ref-58">Palstra, 2000</xref>) consistently revealed single bands indicating the dominance of a single <italic>Symbiodinium</italic> clade for four of the six species (<italic>A. millepora</italic>, <italic>M. aequituberculata</italic>, <italic>Goniopora columna</italic> and <italic>P. lobata</italic>) whereas communities in <italic>Galaxea astreata</italic> and <italic>Galaxea acrhelia</italic> appeared more variable (<xref ref-type="supplementary-material" rid="supp-1">Fig. S5</xref>). Therefore, DNA was pooled in equal proportions by species (<italic>n</italic> = 6 samples) to identify general species-specific communities using amplicon sequencing of the ITS2 region of <italic>Symbiodinium</italic> rRNA. Additional DNA samples for each of the <italic>Galaxea astreata</italic> and <italic>Galaxea acrhelia</italic> colony replicates (<italic>n</italic> = 20 samples) were also submitted for sequencing at the Genome Sequencing and Analysis Facility at the University of Texas at Austin. Given the high diversity subsequently observed in pooled samples of <italic>P. lobat</italic>a and <italic>M. aequituberculata</italic>, additional colony replicate samples of each (<italic>n</italic> = 3 and <italic>n</italic> = 5, respectively) were later submitted for sequencing at Oregon State University’s Center for Genome Research and Biocomputing to compare symbiont community composition from individual samples.</p>
+</sec>
+<sec>
+<title>Amplicon sequencing analysis</title>
+<p>For sample libraries prepared and sequenced at UT Austin’s GSAF, the ITS2 primers of <xref ref-type="bibr" rid="ref-60">Pochon et al. (2001)</xref> were used. For colony replicate samples sequenced at OSU’s CGRB (individual <italic>P. lobata</italic> and <italic>M. aequituberculata</italic> samples), the ITS2 primers of <xref ref-type="bibr" rid="ref-49">LaJeunesse (2002)</xref> were used to prepare libraries. All sequencing libraries were subsequently analysed together. Prior to analysis, raw read data was filtered to remove reads which contained Illumina sequencing adapters or did not begin with the correct ITS2 amplicon primer sequence using the BBMAP package ver. 37.75 (<uri xlink:href="http://sourceforge.net/projects/bbmap/">http://sourceforge.net/projects/bbmap/</uri>). The DADA2 pipeline (<xref ref-type="bibr" rid="ref-16">Callahan et al., 2016</xref>) implemented in <xref ref-type="bibr" rid="ref-63">R Development Core Team (2017)</xref> was then used to infer sequence variants. Read data was analysed according to the following tutorial (<uri xlink:href="https://benjjneb.github.io/dada2/tutorial.html">https://benjjneb.github.io/dada2/tutorial.html</uri>) with the following modifications: ITS2 primers were trimmed from the beginning of each read and forward and reverse reads were truncated at 210 and 160 bp, respectively, to remove low quality bases at the end of reads. Additional paired end reads were discarded if they exhibited more than one expected error or when a quality score of 2 or less was encountered. In addition, when inferring sequencing variants using the <italic>dada</italic>() command, the BAND_SIZE flag was set to 32 as is recommended for ITS data (<uri xlink:href="https://benjjneb.github.io/dada2/tutorial.html">https://benjjneb.github.io/dada2/tutorial.html</uri>). The distribution of raw read data per sample and reads lost during quality filtering and processing steps can be found in <xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>. Post-clustering curation of identified amplicon sequence variants (ASVs) was accomplished with the LULU algorithm, using the default parameters (<xref ref-type="bibr" rid="ref-32">Frøslev et al., 2017</xref>). The MCMC.OTU package (<xref ref-type="bibr" rid="ref-33">Green et al., 2014</xref>) was then used to remove sample outliers with low counts overall (<italic>z</italic>-score &lt; −2.5) and remaining ASVs of abundance less than 0.001 (<xref ref-type="bibr" rid="ref-62">Quigley et al., 2014</xref>) prior to statistical analysis. In total, 12 ASVs were identified across samples that satisfied these criteria. These high confidence sequence variants were taxonomically classified through a blast search against the GeoSymbio ITS2 database <uri xlink:href="https://sites.google.com/site/geosymbio/downloads">https://sites.google.com/site/geosymbio/downloads</uri> (<xref ref-type="bibr" rid="ref-30">Franklin et al., 2012</xref>), and the best match was recorded. In cases where variants matched equally well to multiple references, all top hits were reported (<xref ref-type="supplementary-material" rid="supp-1">Table S2</xref>). Resequencing of the individual <italic>P. lobata</italic> and <italic>M. aequituberculata</italic> samples indicated that the <italic>P. lobata</italic> pooled sample was contaminated at some stage of the sequencing process, as individual samples did not match the host pool (<xref ref-type="supplementary-material" rid="supp-1">Fig. S6</xref>). In addition, two <italic>Galaxea</italic> samples (Gacr1 and Gast4) appeared mislabeled, based on the pattern of symbiont community differences among species (<xref ref-type="supplementary-material" rid="supp-1">Fig. S6</xref>) and we removed these samples prior to further analysis. To account for differences between individual samples and species pools, we calculated the normalized mean abundance of each variant across individual samples within a species and replaced the pooled sequence sample with this in silico pooled value, when available.</p>
+</sec>
+<sec>
+<title>Statistical analyses</title>
+<p>All statistical analyses were performed in R version 3.4.2 (<xref ref-type="bibr" rid="ref-63">R Development Core Team, 2017</xref>). A series of linear mixed models were used to determine the effect of species, temperature treatment and sampling day on physiological metrics. We used a conservative approach to evaluate the effect of transmission mode on physiological metrics. Rather than modeling fixed effects of transmission mode directly, we modeled the fixed effects of species (levels: Amil, Maeq, Gcol, Plob, Gast, Gacr), sampling day (levels: day 2, day 4, day 17), temperature treatment (levels: heat, control) and all possible interactions on <italic>Symbiodinium</italic> cell density, net photosynthesis, and host-symbiont resource sharing using the <italic>lme</italic> command of the <italic>nlme</italic> package (<xref ref-type="bibr" rid="ref-59">Pinheiro et al., 2013</xref>), including source coral colony identity nested within reef of origin as a scalar random factor. All models were assessed for normality of residuals and homoscedasticity. Symbiont densities required a log-transformation to meet normality assumptions. To assess goodness-of-fit, we used the function <italic>rsquared.glmm</italic> to calculate the conditional <italic>R</italic><sup>2</sup> value for each of our mixed models (<xref ref-type="bibr" rid="ref-42">Johnson, 2014</xref>). Significance of fixed factors within models was evaluated using Wald tests and Tukey’s post hoc tests were used to evaluate significance among levels within factors and interactions when warranted. In these models, a significant effect of transmission mode would have been detected first as a significant difference among species, but significant differences in the hypothesized direction between each pair of vertical and HTs in the subsequent Tukey’s tests were also required to satisfy reporting an effect of transmission mode overall.</p>
+<p>To determine the impact of specific <italic>Symbiodinium</italic> community characteristics on responses among species, the DESeq package (<xref ref-type="bibr" rid="ref-2">Anders &amp; Huber, 2010</xref>) was used to construct a series of generalized linear models to evaluate differences in in the abundance of each ASV by species with respect to aspects of host-symbiont cooperation: mean initial symbiont density (Day 2, heat samples); the mean fraction of carbon shared by symbionts under ambient conditions (Day 2, 4, 17 control samples), the mean difference in the fraction of carbon shared by symbionts during bleaching (Day17, heat vs. control samples) and the mean difference in symbiont density during bleaching (Day17, heat vs. control samples). Models were run for 30 iterations and for models that did not converge, <italic>p</italic>-values were converted to NAs (the standard notation for missing data), prior to applying a multiple test correction (<xref ref-type="bibr" rid="ref-9">Benjamini &amp; Hochberg, 1995</xref>).</p>
+<p>Predictive relationships between <italic>Symbiodinium</italic> cell density, the degree of bleaching, cooperation, and symbiont parasitism, in addition to <italic>Symbiodinium</italic> community diversity (quantified using the inverse Simpson index, (<xref ref-type="bibr" rid="ref-52">Magurran, 2004</xref>)) and composition (the proportion of Clade D) were explored at the species level using a series of linear models. When a significant difference was detected among species for physiological trait comparisons, the model was re-run within each species and a multiple test correction using the method of <xref ref-type="bibr" rid="ref-9">Benjamini &amp; Hochberg (1995)</xref> was applied. Analyses of symbiont community composition were run both using the full six species averages and excluding the species for which individual sample sequencing replicates were not available (<italic>A. millepora</italic> and <italic>Goniopora columna</italic>). As models did not substantially differ, we report results for the full six species.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Physiological metrics of thermal tolerance and cooperation</title>
+<p>Significant fixed effects of species, temperature treatment, sampling time and the time*treatment interaction were detected for the <italic>Symbiodinium</italic> cell density model (<italic>R</italic><sub arrange="stack">GLMM</sub><sup arrange="stack">2</sup> = 0.53, <xref ref-type="supplementary-material" rid="supp-1">Table S3</xref>). The fixed difference among species was driven by the low symbiont density on average in <italic>P. lobata</italic>, which differed significantly from densities in <italic>A. millepora</italic>, <italic>M. aequituberculata</italic>, <italic>Galaxea astreata</italic> and <italic>Galaxea acrhelia</italic> (Tukey’s HSD &lt; 0.05, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). No differences were detected in <italic>post hoc</italic> tests between focal species pairs by symbiont transmission mode. Across species, cell densities did not differ between control and heat-treated corals on days 2 and 4, but were reduced in heat treated corals on day 17, by 5.4 × 10<sup>5</sup> cells/mg host protein on average (Tukey’s HSD &lt; 0.001, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.6047/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title><italic>Symbiodinium</italic> cell density, rate of net photosynthesis, and host-symbiont cooperation as a function of experimental treatment and time.</title>
+<p><italic>Symbiodinium</italic> cell density, expressed as cells per mg of host protein, rate of net photosynthesis, expressed as μg O<sub>2</sub>/cm<sup>2</sup>/min and the proportion of photosynthetically fixed carbon translocated to the host, calculated as the ratio of total radioactivity in DPM in host to holobiont tissue fractions of focal coral species (Amil: <italic>Acropora millepora</italic>, Maeq: <italic>Montipora aequituberculata</italic>, Gcol: <italic>Goniopora columna</italic>, Plob: <italic>Porites lobata</italic>, Gast: <italic>Galaxea astreata</italic>, Gacr: <italic>Galaxea acrhelia</italic>) representing different symbiont transmission modes (HT, horizontal transmitter, VT, vertical transmitter) under control (27 °C, blue circles) and elevated (31 °C, red triangles) temperature following 2, 4 and 17 days of treatment.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6047/fig-1.png"/>
+</fig>
+<p>The model for changes in the rate of net photosynthesis identified significant effects of species, sampling time and the temperature treatment*time interaction (<italic>R</italic><sub arrange="stack">GLMM</sub><sup arrange="stack">2</sup> = 0.53, <xref ref-type="supplementary-material" rid="supp-1">Table S4</xref>). Average net O<sub>2</sub> production rate was highest in <italic>M. aequituberculata,</italic> differing significantly from <italic>A. millepora, Goniopora columna</italic>, <italic>Galaxea acrhelia</italic> and <italic>P. lobata</italic> Tukey’s HSD &lt; 0.05, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>), and lowest in <italic>Goniopora columna</italic>, significantly more so in comparison to <italic>M. aequituberculata, P. lobata, Galaxea astreata</italic> and <italic>Galaxea acrhelia</italic> (Tukey’s HSD &lt; 0.001, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Net O<sub>2</sub> production rate was also lower on average in <italic>A. millepora</italic> than in <italic>M. aequituberculata</italic> and <italic>Galaxea astreata</italic> (Tukey’s HSD &lt; 0.01, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Considering differences between focal species pairs by symbiont transmission mode, the rate of net photosynthesis was significantly higher in the vertically transmitting <italic>M. aequituberculata</italic> and <italic>P. lobata</italic> than in their horizontally transmitting counterparts, <italic>A. millepora</italic> and <italic>Goniopora columna</italic>. However, it is important to note that absolute rates of oxygen production among focal species are much lower than previously reported values for corals (<xref ref-type="bibr" rid="ref-4">Anthony et al., 2008</xref>). Corals were acclimated to a common light environment, but data on species and time-point specific photosynthesis-irradiance curves are lacking. Consequently, the differences among species may be influenced by variation in species-specific photobiology while differences within species may be influenced by shifting photophysiological performance over the experimental time-course.</p>
+<p>Over the course of the experiment, net photosynthesis rates were elevated in heat-treated corals on days 2 and 4 relative to their respective controls (day 2: 0.09 μg O<sub>2</sub>/cm<sup>2</sup>/min; day 4: 0.06 μg O<sub>2</sub>/cm<sup>2</sup>/min; Tukey’s HSD &lt; 0.01, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>) and reduced in heat-treated corals on day 17, by 0.1 μg O<sub>2</sub>/cm<sup>2</sup>/min (Tukey’s HSD &lt; 0.001, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+<p>The proportion of carbon photosynthetically fixed by symbionts then translocated to hosts was significantly different among species, temperature treatment, sampling time, the treatment*time interaction and the species*treatment interaction (<italic>R</italic><sub arrange="stack">GLMM</sub><sup arrange="stack">2</sup> = 0.73, <xref ref-type="supplementary-material" rid="supp-1">Table S5</xref>). Carbon sharing in ambient conditions was significantly lower in <italic>Goniopora columna</italic> in comparison to all other species (Tukey’s HSD &lt; 0.05, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>) and highest in the vertically transmitting <italic>Galaxea acrhelia</italic> and <italic>P. lobata</italic>, significantly more so than in <italic>M. aequituberculata</italic> and their horizontally transmitting counterparts, <italic>Galaxea astreata</italic> and <italic>Goniopora columna</italic> (Tukey’s HSD &lt; 0.01, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Over time, no significant differences were detected in carbon sharing between control and heat-treated corals on days 2 and 4, but proportional translocation was significantly lower in heat-treated corals on day 17 (Tukey’s HSD &lt; 0.001, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Relative to controls, carbon sharing decreased slightly under heat treatment on average in all species save <italic>Goniopora columna</italic>, though the only significant difference was observed in <italic>Galaxea acrhelia</italic> (heat vs. control Tukey’s HSD &lt; 0.01, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Although the species*treatment*time interaction was not significant in the final model, this was likely driven by the decrease in heat-treated corals on day 17, which is most evident in <italic>A. millepora</italic>, <italic>M. aequituberculata, Galaxea astreata</italic> and <italic>Galaxea acrhelia</italic>.</p>
+</sec>
+<sec>
+<title>Relationships between symbiont density, degree of bleaching and carbon translocation</title>
+<p>Symbiont cell density did not explain a significant proportion of the variance in carbon translocation under ambient conditions (control corals on days 2, 4 and 17) due to differences among species (<italic>F</italic><sub>1,5</sub> = 25.57, <italic>P</italic> &lt; 0.001, <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Within species, carbon translocation increased with increasing symbiont density in <italic>Galaxea acrhelia</italic> (<italic>R</italic><sup>2</sup> = 0.22) but this relationship became non-significant after applying a multiple test correction.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.6047/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Host-symbiont cooperation in ambient conditions as a function of <italic>Symbiodinium</italic> cell density across species.</title>
+<p>The proportion of photosynthetically fixed carbon translocated to the host in ambient conditions (27 °C) as a function of <italic>Symbiodinium</italic> cell density by species (Amil: <italic>Acropora millepora</italic>, Maeq: <italic>Montipora aequituberculata</italic>, Gcol: <italic>Goniopora columna</italic>, Plob: <italic>Porites lobata</italic>, Gast: <italic>Galaxea astreata</italic>, Gacr: <italic>Galaxea acrhelia</italic>).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6047/fig-2.png"/>
+</fig>
+<p>Symbiont cell density in heat-treated corals on day 2 predicted a small portion of the variance in bleaching intensity on day 17 (calculated as the difference in cell density between paired control and heat-treated coral fragments). Greater bleaching was associated with higher initial symbiont cell densities (β = −0.34, <italic>R</italic><sup>2</sup> = 0.06, <italic>P</italic> = 0.04, <xref ref-type="fig" rid="fig-3">Fig. 3A</xref>) and this relationship did not differ significantly among species. A similar, but non-significant trend was also observed between bleaching on day 17 and symbiont cell density on day 4 (β = −0.24, <italic>R</italic><sup>2</sup> = 0.04, <italic>P</italic> = 0.07).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.6047/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Relationships between changes in symbiont cell density and the proportion of photosynthetically fixed carbon translocated to hosts.</title>
+<p>(A) Bleaching intensity, calculated as the change in symbiont cell density between control (27 °C) and heat-treated (31 °C) samples on day 17 as a function of symbiont cell density in heat treated corals on day 2. (B) The degree of symbiont parasitism, calculated as the difference in the proportion of photosynthetically fixed carbon translocated to hosts between control and heat-treated samples on day 17. (C) The degree of symbiont parasitism as a function of symbiont cell density in heat treated corals on day 2. Regression line shown for Plob only. Amil: <italic>Acropora millepora</italic>, Maeq: <italic>Montipora aequituberculata</italic>, Gcol: <italic>Goniopora columna</italic>, Plob: <italic>Porites lobata</italic>, Gast: <italic>Galaxea astreata</italic>, Gacr: <italic>Galaxea acrhelia</italic>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6047/fig-3.png"/>
+</fig>
+<p>No significant relationship was detected between the degree of bleaching and the degree of parasitism (calculated as the difference in carbon translocation between heat and control treated samples of paired corals by source colony) at the end of the experiment (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). Nor was the degree of parasitism explained by differences in symbiont cell density of heat-treated corals on day 2, but relationships differed among species (<italic>F</italic><sub>1,5</sub> = 6.88, <italic>P</italic> &lt; 0.001). In <italic>P. lobata</italic>, a higher symbiont density on day 2 was associated with lower parasitism, or an increase in proportional carbon translocation in heat-treated corals on day 17, and this relationship remained marginally significant even after applying a multiple test correction (<italic>R</italic><sup>2</sup> = 0.89, <italic>P</italic> = 0.06, <xref ref-type="fig" rid="fig-3">Fig. 3C</xref>).</p>
+</sec>
+<sec>
+<title>The role of <italic>Symbiodinium</italic> community composition</title>
+<p>Across all individual and pooled samples, 12 ASVs of sufficient representation (&gt;0.1%) abundance, <italic>sensu</italic> (<xref ref-type="bibr" rid="ref-62">Quigley et al., 2014</xref>) were identified and consisted of clade C and D-type <italic>Symbiodinium</italic> (<xref ref-type="supplementary-material" rid="supp-1">Table S2</xref> and <xref ref-type="supplementary-material" rid="supp-1">Fig. S6</xref>). <italic>Symbiodinium</italic> community composition varied among species (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>) but no relationships were detected between the abundance of individual ASVs and symbiont density, degree of bleaching or carbon translocation. Nor did we detect any relationship between <italic>Symbiodinium</italic> community diversity overall and symbiont density on day 2, mean carbon translocation under ambient conditions or the degree of bleaching at the end of the experiment (<xref ref-type="fig" rid="fig-5">Figs. 5A</xref>, <xref ref-type="fig" rid="fig-5">5B</xref> and <xref ref-type="fig" rid="fig-5">5D</xref>). A marginally significant negative relationship was detected between community diversity and the degree of parasitism at the end of the experiment, where a more diverse community was associated with a greater degree of symbiont parasitism (<italic>R</italic><sup>2</sup> = 0.56, <italic>P</italic> = 0.054, <xref ref-type="fig" rid="fig-5">Fig. 5C</xref>). We did not detect any relationships between the percent of Clade D in the symbiont community and symbiont density on day 2, mean carbon translocation under ambient conditions, or the degree of parasitism or bleaching at the end of the experiment (<xref ref-type="fig" rid="fig-5">Figs. 5E</xref>–<xref ref-type="fig" rid="fig-5">5H</xref>), but this was likely due to the fact that the abundance of D was very low in all species except <italic>Galaxea acrhelia</italic>, however, did exhibit the highest carbon translocation rates under ambient conditions and the greatest transition towards parasitism on day 17 (<xref ref-type="fig" rid="fig-5">Figs. 5F</xref> and <xref ref-type="fig" rid="fig-5">5G</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.6047/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Normalized percent abundance of ITS-2 sequence variants by pooled sample.</title>
+<p>Normalized percent abundance of curated amplicon sequence variants by pooled sample. The ‘is’ label indicates samples for which sequence variant abundances across individually sequenced samples were pooled in silico. The best BLAST match against the GeoSymbio ITS2 database (<xref ref-type="bibr" rid="ref-30">Franklin et al., 2012</xref>) for each sequence variant is also reported.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6047/fig-4.png"/>
+</fig>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.6047/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Relationships between changes in symbiont cell density and host-symbiont cooperation as a function of symbiont community diversity or the normalized proportion of Clade D <italic>Symbiodinium</italic> across species.</title>
+<p>Relationships between changes in symbiont cell density or the proportion of photosynthetically fixed carbon translocated to hosts as a function of symbiont community diversity, expressed as the inverse Simpson index (A–D) or the normalized proportion of Clade D <italic>Symbiodinium</italic> (E–H) across species. For the dependent variables: (A and E) mean symbiont cell density in heat-treated corals (31 °C) on day 2; (B and F) mean proportion of photosynthetically fixed carbon translocated to hosts under ambient conditions (27 °C); (C and G) The degree of symbiont parasitism, calculated as the difference in the proportion of photosynthetically fixed carbon translocated to hosts between control and heat-treated corals on day 17.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6047/fig-5.png"/>
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Understanding variation in the degree of cooperation between corals and their <italic>Symbiodinium</italic> will be critical for assessing survival potential among species and populations in the face of increasing environmental change (<xref ref-type="bibr" rid="ref-50">Lesser, Stat &amp; Gates, 2013</xref>). As in other mutualisms (<xref ref-type="bibr" rid="ref-25">Ebert, 2013</xref>; <xref ref-type="bibr" rid="ref-29">Frank, 1994</xref>; <xref ref-type="bibr" rid="ref-39">Herre et al., 1999</xref>), vertical transmission has been proposed as an evolutionary mechanism for enhancing holobiont fitness in the Cnidarian–algal symbiosis (<xref ref-type="bibr" rid="ref-61">Putnam et al., 2012</xref>). However, we did not observe universally consistent differences in cooperation between vertical and horizontally transmitting species. The vertically transmitting <italic>P. lobata</italic> and <italic>Galaxea acrhelia</italic> exhibited the highest levels of carbon translocation in ambient conditions, which we interpret as symbiont-host cooperation, significantly more so than their respective horizontally transmitting counterparts, <italic>Goniopora columna</italic> and <italic>Galaxea astreata</italic>; but cooperation was not different between <italic>M. aequituberculata</italic> and <italic>A. millepora</italic>, and tended to be higher in the latter horizontally transmitting species. However, species-specific photosynthesis-irradiance curves were not measured and the potential for interactions between photophysiology and baseline rates of carbon translocation must also be explored. We also expected that the degree of breakdown in the host-symbiont relationship under heat stress, which we interpret as a transition towards parasitism <italic>sensu</italic> (<xref ref-type="bibr" rid="ref-7">Baker et al., 2018</xref>), would be comparatively intensified in horizontally transmitting species, but again, this was not the case. <italic>P. lobata</italic> did exhibit the least change in carbon translocation in spite of showing the same signs of bleaching as other species, but there was no difference in comparison to <italic>Goniopora columna</italic> which also largely maintained its baseline translocation under elevated temperature. In addition, the greatest relative declines in the proportion of carbon translocated from symbionts to hosts actually occurred in the other two vertically transmitting species, <italic>Galaxea acrhelia</italic> and <italic>M. aequituberculata</italic>.</p>
+<p>Although we did not find significant support for the role of vertical transmission we still observed significant differences in cooperation among our six focal species, both baseline differences under ambient conditions and in the degree of transition towards parasitism under elevated temperature stress. We therefore conducted a series of <italic>post hoc</italic> analyses to explore other putative drivers of differential cooperation and thermal tolerance: differences in <italic>Symbiodinium</italic> cell density and/or in symbiont community composition.</p>
+<p>The density of symbiont cells was recently proposed as a major driver underpinning the degree of cooperation between coral hosts and symbionts and the functional response of the coral symbiosis to environmental stressors (<xref ref-type="bibr" rid="ref-19">Cunning &amp; Baker, 2014</xref>). Studies in other species have shown that corals with greater initial <italic>Symbiodinium</italic> cell densities, as quantified by the symbiont to host cell ratio, are subsequently associated with greater bleaching severity in response to elevated thermal stress (<xref ref-type="bibr" rid="ref-18">Cunning &amp; Baker, 2013</xref>; <xref ref-type="bibr" rid="ref-70">Silverstein, Cunning &amp; Baker, 2014</xref>). This association has been hypothesized to result from the proportional increase in oxidative cellular stress: more symbionts yield more reactive oxygen species when the photosynthetic machinery is overloaded (<xref ref-type="bibr" rid="ref-19">Cunning &amp; Baker, 2014</xref>), though the recent work of <xref ref-type="bibr" rid="ref-7">Baker et al. (2018)</xref>, adds another potential explanation. They showed that under non-limiting nutrient conditions, <italic>Symbiodinium</italic> cell division in <italic>Orbicella faveolata</italic> actually increased in response to sub-bleaching temperature exposure, but that the metabolic costs were borne by the coral hosts (<xref ref-type="bibr" rid="ref-7">Baker et al., 2018</xref>), supporting the prediction that a transition to parasitism precedes unsustainable proliferation of the symbiont community which ultimately results in bleaching (<xref ref-type="bibr" rid="ref-77">Wooldridge, 2009</xref>).</p>
+<p>In examining relationships between symbiont cell densities, the intensity of the bleaching response at the end of our 17-day temperature exposure and carbon translocation rates, we did observe a negative relationship between initial symbiont cell density on days 2 and 4 and subsequent bleaching response on day 17, which did not significantly differ among our six focal species. However, initial symbiont cell densities did not predict the degree of the subsequent transition to parasitism. In fact, the majority of species showed a trend in which greater initial cell densities were associated with a greater maintenance of cooperation under bleaching stress. We also found no relationship between the degree of bleaching and the degree of parasitism on day 17, nor did symbiont cell density explain variation in cooperation among species in ambient conditions. For some species, cooperation tended to decrease with increasing density of symbionts, whereas in others it increased. Taken together, these observations support the association between initial symbiont cell density and subsequent bleaching intensity, but disagree with the proposed role of an alteration of host-symbiont cooperation in mediating the bleaching response.</p>
+<p>The discrepancy in results among studies may be due to the importance of nutrient enrichment for observing a parasitic increase in symbiont communities, or in the difference in study duration and sampling design. Corals were exposed to a constant light environment, which likely did not provide a saturating irradiance across species. Consequently, alteration of carbon translocation as a function of species-specific photophysiology may explain baseline differences in ambient conditions, and future work should aim to test this hypothesis. In addition, while corals received supplemental feeding throughout the duration of this experiment, which likely introduced organic nitrogen, we did not explicitly manipulate inorganic nitrogen levels. It is also possible that variation among hosts in their ability to limit their symbionts’ nitrogen supply may have influenced the observed variation in the degree of parasitism (<xref ref-type="bibr" rid="ref-20">Cunning et al., 2017</xref>; <xref ref-type="bibr" rid="ref-77">Wooldridge, 2009</xref>), although additional studies are needed to test this. In addition, <xref ref-type="bibr" rid="ref-7">Baker et al. (2018)</xref> exposed corals to a +5 °C temperature ramp over 8 days, sampling once 24 h after the final temperature was reached, whereas the present study increased temperatures by +4 °C over 5 days and maintained that difference for an additional 12 days, sampling at three time points, comparatively earlier and later. We did not observe an initial increase in symbiont cell density or decrease in carbon translocation on days 2 and 4 under elevated temperature, the experimental time-frame most analogous to that of <xref ref-type="bibr" rid="ref-7">Baker et al. (2018)</xref>. It is possible that these dynamics occurred during a time frame in which we did not sample; however, our final results argue against this explanation. On day 17, we observed symptoms of bleaching that did not differ across species: symbiont cell densities and rates of net photosynthesis were uniformly decreased. However, the transition to parasitism was not uniform, as some species exhibited significant differences in carbon translocation in response to heat stress whereas others did not. We therefore conclude that while symbiont density alone may be a reasonable predictor of the potential for observing a bleaching response under elevated temperature, it does not predict cooperative dynamics that likely also influence holobiont fitness.</p>
+<p>We also explored the role of symbiont community diversity on bleaching stress and cooperation. Predictions regarding the cooperative and fitness benefits of evolving vertical transmission are based on the assumption that the host-symbiont relationship becomes exclusive: symbiont population sizes are substantially reduced, resulting in genetic uniformity, more rapid co-evolution of partner traits and reduction in intra-symbiont community competition (<xref ref-type="bibr" rid="ref-39">Herre et al., 1999</xref>; <xref ref-type="bibr" rid="ref-54">Maynard Smith &amp; Szathmary, 1995</xref>). In this case, it may not be vertical transmission <italic>per se</italic> that influences host-symbiont cooperation, but the relative diversity of the symbiont community. A prior meta-analysis found that symbiont specificity was correlated with transmission mode, with horizontally transmitting species being more likely to interact with generalist symbionts (<xref ref-type="bibr" rid="ref-28">Fabina et al., 2012</xref>). However, the relationship between transmission mode and overall community diversity was not explored. Other more recent studies have also shown the potential for ontogenetic shifts in <italic>Symbiodinium</italic> community composition of putative VTs, potentially indicating the capacity for mixed-mode or cryptic horizontal transmission (<xref ref-type="bibr" rid="ref-15">Byler et al., 2013</xref>; <xref ref-type="bibr" rid="ref-65">Reich, Robertson &amp; Goodbody-Gringley, 2017</xref>). Our results show that symbiont diversity does not partition by transmission mode. While communities in the vertically transmitting <italic>M. aequituberculata</italic> and <italic>P. lobata</italic> were largely uniform, consisting predominantly of C35 and C15-type sequence variants, respectively, <italic>Symbiodinium</italic> community diversity was more than twice as high in <italic>Galaxea acrhelia</italic> in comparison to <italic>Galaxea astreata</italic> (1/D = 3.6 vs. 1.7). In addition, community composition in the horizontally transmitting <italic>Goniopora columna</italic> was also highly uniform, second only to that of <italic>P. lobata</italic> (1/D = 1.08 and 1.00, respectively).</p>
+<p>In exploring the relationship between symbiont diversity at the ITS2 locus and metrics of host-symbiont cooperation and bleaching independent of transmission mode, we did not find any formally significant correlations, likely due to the fact that our symbiont community analysis was limited to the level of differences among the six species, greatly reducing our statistical power. However, there was a weak negative relationship between community diversity and the degree of parasitism under thermal stress. Species with the most genetically uniform symbiont communities, <italic>P. lobata</italic> and <italic>Goniopora columna</italic>, maintained the highest levels of cooperation in spite of showing signs of bleaching. Yet there was no relationship between community diversity and baseline differences in cooperation among species under ambient conditions, as high rates of translocation were observed in species with both the lowest (<italic>P. lobata</italic>) and highest community diversity (<italic>A. millepora, Galaxea acrhelia</italic>), though again, species-specific interactions between photophysiology and carbon translocation remain to be explored.</p>
+<p>The presence of particular symbiont types has also been shown to influence holobiont fitness and carbon translocation. For example, conspecific corals hosting clade D <italic>Symbiodinium</italic> exhibit greater thermal tolerance than those hosting C1 or C2-types (<xref ref-type="bibr" rid="ref-10">Berkelmans &amp; Van Oppen, 2006</xref>; <xref ref-type="bibr" rid="ref-44">Jones et al., 2008</xref>), however, they generally grow more slowly under non-stressful conditions (<xref ref-type="bibr" rid="ref-43">Jones &amp; Berkelmans, 2010</xref>; <xref ref-type="bibr" rid="ref-51">Little, Van Oppen &amp; Willis, 2004</xref>) and receive less photosynthetically fixed carbon from their symbionts (<xref ref-type="bibr" rid="ref-17">Cantin et al., 2009</xref>). We found no significant relationships between the proportional abundance of Clade D-type symbionts and metrics of host-symbiont cooperation or bleaching. Most species had no, or a low proportion of Clade D, but the species with the greatest proportion of Clade D symbionts (<italic>Galaxea acrhelia</italic>) exhibited both the highest carbon translocation under ambient conditions and the greatest transition to parasitism under elevated temperature stress. Similar to our observations regarding symbiont cell density, these results support prior observations that <italic>Symbiodinium</italic> community composition alone is not sufficient to explain variation in holobiont performance (<xref ref-type="bibr" rid="ref-1">Abrego et al., 2008</xref>; <xref ref-type="bibr" rid="ref-5">Baird et al., 2009a</xref>; <xref ref-type="bibr" rid="ref-45">Kenkel et al., 2013</xref>). However, we reiterate that our analyses are limited in comparing only averages among species. There was some variation observed in dominant symbiont types among individual coral colonies within species (<xref ref-type="supplementary-material" rid="supp-1">Fig. S6</xref>) and a priority for future study should be to investigate whether these conclusions hold when considering intraspecific variation in symbiont community composition in addition to these broader interspecific differences.</p>
+<p>Quantifying cooperation between symbiotic partners in terms of biologically realistic costs and benefits remains an outstanding question for many symbioses (<xref ref-type="bibr" rid="ref-39">Herre et al., 1999</xref>). The transfer of photosynthetically fixed carbon has long been known as a major cooperative benefit to the coral host as up to 95% of a coral’s energy requirements can be met through this mechanism (<xref ref-type="bibr" rid="ref-56">Muscatine, 1990</xref>); however, reciprocal products shared by hosts with their symbionts remain largely unknown (<xref ref-type="bibr" rid="ref-78">Yellowlees, Rees &amp; Leggat, 2008</xref>). Similarly, heterotrophic feeding can offset the need for symbiont-derived carbon in some species and in these cases other symbiont-derived metabolites may be more critical for host fitness (<xref ref-type="bibr" rid="ref-34">Grottoli, Rodrigues &amp; Palardy, 2006</xref>). Substantial variation in both intra- and inter-specific bleaching thresholds (<xref ref-type="bibr" rid="ref-53">Marshall &amp; Baird, 2000</xref>), suggests that levels of cooperation between host and symbiont may also vary. Significant work has gone into investigating coral bleaching over the past three decades, yet fundamental questions remain unresolved (<xref ref-type="bibr" rid="ref-27">Edmunds &amp; Gates, 2003</xref>). Ultimately, a greater understanding of both fine-scale interactions between coral hosts and symbionts and the evolutionary and ecological mechanisms that maintain and strengthen cooperation will be essential for managing these ecosystems (<xref ref-type="bibr" rid="ref-22">Davy, Allemand &amp; Weis, 2012</xref>; <xref ref-type="bibr" rid="ref-50">Lesser, Stat &amp; Gates, 2013</xref>).</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>This study investigated whether corals employing vertical symbiont transmission also exhibit enhanced cooperation and holobiont fitness. Contrary to theoretical predictions, we did not find significant support for the role of vertical transmission in spite of significant differences in cooperation among our six focal species. In a <italic>post hoc</italic> analysis of other drivers, we found that a greater initial symbiont cell density was associated with a greater bleaching intensity, but this association did not appear to result from an alteration of host-symbiont cooperation. Rather, the reduction in cooperation across species at the onset of bleaching was marginally associated with symbiont community diversity. The theoretical benefits of evolving vertical transmission are based on the underlying assumption that the host-symbiont relationship becomes genetically uniform, thereby reducing competition among symbionts. Taken together, our results suggest that it may not be vertical transmission per se that influences host-symbiont cooperation, but genetic uniformity of the symbiont community, though future work is needed to directly test this hypothesis.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/6047/SupplementaryMaterialv4.docx">
+<object-id pub-id-type="doi">10.7717/peerj.6047/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Supplementary Methods, Tables and Figures.</title>
+<p>Additional supplementary material as referenced in main manuscript text.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/6047/SupplementaryDataFiles.zip">
+<object-id pub-id-type="doi">10.7717/peerj.6047/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Supplementary Data and input files necessary to complete described statistical analyses.</title>
+<p>This file is for review only.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>The authors gratefully acknowledge the efforts of A Bouriat in maintaining aquaria and processing coral samples. M Salmon, G Milton, A Severati, C Humphrey implemented the experimental aquaria design. Coral collection was accomplished with the help of S Noonan, V Mocellin, A Severati and M Nayfa. P Muir provided advice on coral taxonomic identification. Comments from J Caley, B Schaffelke and multiple anonymous reviewers greatly improved this manuscript.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Carly D. Kenkel</xref> conceived and designed the experiments, performed the experiments, analysed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Line K. Bay</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to field study approvals (i.e. approving body and any reference numbers):</p>
+<p>Fragments from sixty unique coral colonies, ∼20 cm in diameter, were collected from reefs on the Central GBR from the 8–22 April 2015 under the Great Barrier Reef Marine Park Authority permits G12/35236.1 and G14/37318.1.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>DNA Deposition</title>
+<fn id="addinfo-2">
+<p>The following information was supplied regarding the deposition of DNA sequences:</p>
+<p>Raw amplicon sequencing data is available at NCBI’s SRA: <uri xlink:href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA338365">PRJNA338365</uri>.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-3">
+<p>The following information was supplied regarding data availability:</p>
+<p>Kenkel, Carly D., &amp; Bay, Line K. (2018). Exploring mechanisms that affect coral cooperation: symbiont transmission mode, cell density and community composition (Version v1) [Data set]. Zenodo. <uri xlink:href="http://doi.org/10.5281/zenodo.1208684">http://doi.org/10.5281/zenodo.1208684</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Abrego et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Abrego</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ulstrup</surname>
+<given-names>KE</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Van Oppen</surname>
+<given-names>MJH</given-names>
+</name>
+</person-group>
+<article-title>Species-specific interactions between algal endosymbionts and coral hosts define their bleaching response to heat and light stress</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2008">2008</year>
+<volume>275</volume>
+<issue>1648</issue>
+<fpage>2273</fpage>
+<lpage>2282</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2008.0180</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Anders &amp; Huber (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anders</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Huber</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Differential expression analysis for sequence count data</article-title>
+<source>Genome Biology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>11</volume>
+<fpage>R106</fpage>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Anderson &amp; May (1982)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anderson</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>May</surname>
+<given-names>RM</given-names>
+</name>
+</person-group>
+<article-title>Coevolution of hosts and parasites</article-title>
+<source>Parasitology</source>
+<year iso-8601-date="1982">1982</year>
+<volume>85</volume>
+<issue>2</issue>
+<fpage>411</fpage>
+<lpage>426</lpage>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Anthony et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anthony</surname>
+<given-names>KRN</given-names>
+</name>
+<name>
+<surname>Kline</surname>
+<given-names>DI</given-names>
+</name>
+<name>
+<surname>Diaz-Pulido</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Dove</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Hoegh-Guldberg</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Ocean acidification causes bleaching and productivity loss in coral reef builders</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2008">2008</year>
+<volume>105</volume>
+<issue>45</issue>
+<fpage>17442</fpage>
+<lpage>17446</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0804478105</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Baird et al. (2009a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baird</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Bhagooli</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Ralph</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Takahashi</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Coral bleaching: the role of the host</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2009a">2009a</year>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>16</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2008.09.005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Baird, Guest &amp; Willis (2009b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baird</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Guest</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+</person-group>
+<article-title>Systematic and biogeographical patterns in the reproductive biology of Scleractinian corals</article-title>
+<source>Annual Review of Ecology Evolution and Systematics</source>
+<year iso-8601-date="2009b">2009b</year>
+<volume>40</volume>
+<issue>1</issue>
+<fpage>551</fpage>
+<lpage>571</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.ecolsys.110308.120220</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Baker et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baker</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Freeman</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Wong</surname>
+<given-names>JCY</given-names>
+</name>
+<name>
+<surname>Fogel</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Climate change promotes parasitism in a coral symbiosis</article-title>
+<source>ISME Journal</source>
+<year iso-8601-date="2018">2018</year>
+<volume>12</volume>
+<issue>3</issue>
+<fpage>921</fpage>
+<lpage>930</lpage>
+<pub-id pub-id-type="doi">10.1038/s41396-018-0046-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Baker &amp; Rowan (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baker</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Rowan</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Diversity of symbiotic dinoflagellates (zooxanthellae) in Scleractinian corals for the Caribbean and Eastern Pacific</article-title>
+<source>Proceedings of the 8th International Coral Reef Symposium</source>
+<year iso-8601-date="1997">1997</year>
+<volume>2</volume>
+<fpage>1301</fpage>
+<lpage>1306</lpage>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Benjamini &amp; Hochberg (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Benjamini</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Hochberg</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Controlling the false discovery rate–a practical and powerful approach to multiple testing</article-title>
+<source>Journal of the Royal Statistical Society Series B: Methodological</source>
+<year iso-8601-date="1995">1995</year>
+<volume>57</volume>
+<fpage>289</fpage>
+<lpage>300</lpage>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Berkelmans &amp; Van Oppen (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Berkelmans</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Van Oppen</surname>
+<given-names>MJH</given-names>
+</name>
+</person-group>
+<article-title>The role of zooxanthellae in the thermal tolerance of corals: a ‘nugget of hope’ for coral reefs in an era of climate change</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2006">2006</year>
+<volume>273</volume>
+<issue>1599</issue>
+<fpage>2305</fpage>
+<lpage>2312</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2006.3567</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Bright &amp; Bulgheresi (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bright</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bulgheresi</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>A complex journey: transmission of microbial symbionts</article-title>
+<source>Nature Reviews Microbiology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>8</volume>
+<issue>3</issue>
+<fpage>218</fpage>
+<lpage>230</lpage>
+<pub-id pub-id-type="doi">10.1038/nrmicro2262</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Brown (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>BE</given-names>
+</name>
+</person-group>
+<article-title>Coral bleaching: causes and consequences</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="1997">1997</year>
+<volume>16</volume>
+<fpage>S129</fpage>
+<lpage>S138</lpage>
+<pub-id pub-id-type="doi">10.1007/s003380050249</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Bull (1994)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bull</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>Perspective: virulence</article-title>
+<source>Evolution</source>
+<year iso-8601-date="1994">1994</year>
+<volume>48</volume>
+<issue>5</issue>
+<fpage>1423</fpage>
+<lpage>1437</lpage>
+<pub-id pub-id-type="doi">10.2307/2410237</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Bull, Molineux &amp; Rice (1991)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bull</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Molineux</surname>
+<given-names>IJ</given-names>
+</name>
+<name>
+<surname>Rice</surname>
+<given-names>WR</given-names>
+</name>
+</person-group>
+<article-title>Selection of benevolence in a host-parasite system</article-title>
+<source>Evolution</source>
+<year iso-8601-date="1991">1991</year>
+<volume>45</volume>
+<issue>4</issue>
+<fpage>857</fpage>
+<lpage>882</lpage>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Byler et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Byler</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Carmi-Veal</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fine</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Goulet</surname>
+<given-names>TL</given-names>
+</name>
+</person-group>
+<article-title>Multiple symbiont acquisition strategies as an adaptive mechanism in the coral <italic>Stylophora pistillata</italic></article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2013">2013</year>
+<volume>8</volume>
+<issue>3</issue>
+<elocation-id>e59596</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0059596</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Callahan et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Callahan</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>McMurdie</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Rosen</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>AW</given-names>
+</name>
+<name>
+<surname>Johnson</surname>
+<given-names>AJA</given-names>
+</name>
+<name>
+<surname>Holmes</surname>
+<given-names>SP</given-names>
+</name>
+</person-group>
+<article-title>DADA2: high-resolution sample inference from Illumina amplicon data</article-title>
+<source>Nature Methods</source>
+<year iso-8601-date="2016">2016</year>
+<volume>13</volume>
+<issue>7</issue>
+<fpage>581</fpage>
+<lpage>583</lpage>
+<pub-id pub-id-type="doi">10.1038/nmeth.3869</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Cantin et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cantin</surname>
+<given-names>NE</given-names>
+</name>
+<name>
+<surname>Van Oppen</surname>
+<given-names>MJH</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Mieog</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Negri</surname>
+<given-names>AP</given-names>
+</name>
+</person-group>
+<article-title>Juvenile corals can acquire more carbon from high-performance algal symbionts</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2009">2009</year>
+<volume>28</volume>
+<issue>2</issue>
+<fpage>405</fpage>
+<lpage>414</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-009-0478-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Cunning &amp; Baker (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cunning</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Baker</surname>
+<given-names>AC</given-names>
+</name>
+</person-group>
+<article-title>Excess algal symbionts increase the susceptibility of reef corals to bleaching</article-title>
+<source>Nature Climate Change</source>
+<year iso-8601-date="2013">2013</year>
+<volume>3</volume>
+<issue>3</issue>
+<fpage>259</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="doi">10.1038/nclimate1711</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Cunning &amp; Baker (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cunning</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Baker</surname>
+<given-names>AC</given-names>
+</name>
+</person-group>
+<article-title>Not just who, but how many: the importance of partner abundance in reef coral symbioses</article-title>
+<source>Frontiers in Microbiology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>5</volume>
+<fpage>400</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2014.00400</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Cunning et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cunning</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Muller</surname>
+<given-names>EB</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Nisbet</surname>
+<given-names>RM</given-names>
+</name>
+</person-group>
+<article-title>A dynamic bioenergetic model for coral-<italic>Symbiodinium</italic> symbioses and coral bleaching as an alternate stable state</article-title>
+<source>Journal of Theoretical Biology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>431</volume>
+<fpage>49</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jtbi.2017.08.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Daly et al. (2007)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Daly</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Brugler</surname>
+<given-names>MR</given-names>
+</name>
+<name>
+<surname>Cartwright</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Collines</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Dawson</surname>
+<given-names>MN</given-names>
+</name>
+<name>
+<surname>Fautin</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>France</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>McFadden</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Opresko</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Rodriguez</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Romano</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Stake</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Zhang</surname>
+<given-names>ZQ</given-names>
+</name>
+<name>
+<surname>Shear</surname>
+<given-names>WA</given-names>
+</name>
+</person-group>
+<article-title>The phylum Cnidaria: a review of phylogenetic patterns and diversity 300 years after Linnaeus</article-title>
+<source>Linnaeus Tercentenary: Progress in Invertebrate Taxonomy: Zootaxa</source>
+<year iso-8601-date="2007">2007</year>
+<volume>1668</volume>
+<publisher-loc>Auckland</publisher-loc>
+<publisher-name>Magnolia Press</publisher-name>
+<fpage>127</fpage>
+<lpage>182</lpage>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Davy, Allemand &amp; Weis (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Davy</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Allemand</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Weis</surname>
+<given-names>VM</given-names>
+</name>
+</person-group>
+<article-title>Cell biology of Cnidarian-dinoflagellate symbiosis</article-title>
+<source>Microbiology and Molecular Biology Reviews</source>
+<year iso-8601-date="2012">2012</year>
+<volume>76</volume>
+<issue>2</issue>
+<fpage>229</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="doi">10.1128/mmbr.05014-11</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Doebeli &amp; Knowlton (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Doebeli</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>The evolution of interspecific mutualisms</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="1998">1998</year>
+<volume>95</volume>
+<issue>15</issue>
+<fpage>8676</fpage>
+<lpage>8680</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.95.15.8676</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Dusi et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dusi</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Gougat-Barbera</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Berendonk</surname>
+<given-names>TU</given-names>
+</name>
+<name>
+<surname>Kaltz</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Long-term selection experiment produces breakdown of horizontal transmissibility in parasite with mixed transmission mode</article-title>
+<source>Evolution</source>
+<year iso-8601-date="2015">2015</year>
+<volume>69</volume>
+<issue>4</issue>
+<fpage>1069</fpage>
+<lpage>1076</lpage>
+<pub-id pub-id-type="doi">10.1111/evo.12638</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Ebert (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ebert</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>The epidemiology and evolution of symbionts with mixed-mode transmission</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2013">2013</year>
+<volume>44</volume>
+<issue>1</issue>
+<fpage>623</fpage>
+<lpage>643</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-ecolsys-032513-100555</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Ebert &amp; Bull (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ebert</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Bull</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>Challenging the trade-off model for the evolution of virulence: is virulence management feasible?</article-title>
+<source>Trends in Microbiology</source>
+<year iso-8601-date="2003">2003</year>
+<volume>11</volume>
+<issue>1</issue>
+<fpage>15</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="doi">10.1016/s0966-842x(02)00003-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Edmunds &amp; Gates (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Edmunds</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>Has coral bleaching delayed our understanding of fundamental aspects of coral–dinoflagellate symbioses?</article-title>
+<source>BioScience</source>
+<year iso-8601-date="2003">2003</year>
+<volume>53</volume>
+<issue>10</issue>
+<fpage>976</fpage>
+<lpage>980</lpage>
+<pub-id pub-id-type="doi">10.1641/0006-3568(2003)053[0976:hcbdou]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Fabina et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fabina</surname>
+<given-names>NS</given-names>
+</name>
+<name>
+<surname>Putnam</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Franklin</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Stat</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>Transmission mode predicts specificity and interaction patterns in coral-<italic>Symbiodinium</italic> networks</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2012">2012</year>
+<volume>7</volume>
+<issue>9</issue>
+<elocation-id>e44970</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0044970</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Frank (1994)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frank</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Genetics of mutualism: the evolution of altruism between species</article-title>
+<source>Journal of Theoretical Biology</source>
+<year iso-8601-date="1994">1994</year>
+<volume>170</volume>
+<issue>4</issue>
+<fpage>393</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="doi">10.1006/jtbi.1994.1200</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Franklin et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Franklin</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Stat</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Pochon</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Putnam</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>GeoSymbio: a hybrid, cloud-based web application of global geospatial bioinformatics and ecoinformatics for <italic>Symbiodinium</italic>-host symbioses</article-title>
+<source>Molecular Ecology Resources</source>
+<year iso-8601-date="2012">2012</year>
+<volume>12</volume>
+<issue>2</issue>
+<fpage>369</fpage>
+<lpage>373</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1755-0998.2011.03081.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Friesen &amp; Jones (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Friesen</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>EI</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Van Helden</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Toussaint</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Thieffry</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Modelling the evolution of mutualistic symbioses</article-title>
+<source>Bacterial Molecular Networks. Methods in Molecular Biology (Methods and Protocols)</source>
+<year iso-8601-date="2013">2013</year>
+<volume>804</volume>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>481</fpage>
+<lpage>499</lpage>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Frøslev et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frøslev</surname>
+<given-names>TG</given-names>
+</name>
+<name>
+<surname>Kjøller</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bruun</surname>
+<given-names>HH</given-names>
+</name>
+<name>
+<surname>Ejrnæs</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Brunbjerg</surname>
+<given-names>AK</given-names>
+</name>
+<name>
+<surname>Pietroni</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Hansen</surname>
+<given-names>AJ</given-names>
+</name>
+</person-group>
+<article-title>Algorithm for post-clustering curation of DNA amplicon data yields reliable biodiversity estimates</article-title>
+<source>Nature Communications</source>
+<year iso-8601-date="2017">2017</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>1188</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-017-01312-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Green et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>EA</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Matz</surname>
+<given-names>MV</given-names>
+</name>
+<name>
+<surname>Medina</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Quantifying cryptic <italic>Symbiodinium</italic> diversity with <italic>Orbicella faveolata</italic> and <italic>Orbicella franksi</italic> at the Flower Garden Banks, Gulf of Mexico</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2014">2014</year>
+<volume>2</volume>
+<elocation-id>e386</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.386</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Grottoli, Rodrigues &amp; Palardy (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Grottoli</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Rodrigues</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Palardy</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Heterotrophic plasticity and resilience in bleached corals</article-title>
+<source>Nature</source>
+<year iso-8601-date="2006">2006</year>
+<volume>440</volume>
+<issue>7088</issue>
+<fpage>1186</fpage>
+<lpage>1189</lpage>
+<pub-id pub-id-type="doi">10.1038/nature04565</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Harrison &amp; Wallace (1990)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Harrison</surname>
+<given-names>PL</given-names>
+</name>
+<name>
+<surname>Wallace</surname>
+<given-names>CC</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Dubinsky</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Reproduction, dispersal and recruitment of Scleractinian corals</article-title>
+<source>Ecosystems of the world: coral reefs</source>
+<year iso-8601-date="1990">1990</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Elsevier</publisher-name>
+<fpage>133</fpage>
+<lpage>207</lpage>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Hartmann et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hartmann</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Baird</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>The paradox of environmental symbiont acquisition in obligate mutualisms</article-title>
+<source>Current Biology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>27</volume>
+<issue>23</issue>
+<fpage>3711</fpage>
+<lpage>3716</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cub.2017.10.036</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Hatcher (1988)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hatcher</surname>
+<given-names>BG</given-names>
+</name>
+</person-group>
+<article-title>Coral reef primary productivity: a beggar’s banquet</article-title>
+<source>Trends in Ecology and Evolution</source>
+<year iso-8601-date="1988">1988</year>
+<volume>3</volume>
+<issue>5</issue>
+<fpage>106</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="doi">10.1016/0169-5347(88)90117-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Herre (1993)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Herre</surname>
+<given-names>EA</given-names>
+</name>
+</person-group>
+<article-title>Population structure and the evolution of virulence in nematode parasites of fig wasps</article-title>
+<source>Science</source>
+<year iso-8601-date="1993">1993</year>
+<volume>259</volume>
+<issue>5100</issue>
+<fpage>1442</fpage>
+<lpage>1445</lpage>
+<pub-id pub-id-type="doi">10.1126/science.259.5100.1442</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Herre et al. (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Herre</surname>
+<given-names>EA</given-names>
+</name>
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mueller</surname>
+<given-names>UG</given-names>
+</name>
+<name>
+<surname>Rehner</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>The evolution of mutualisms: exploring the paths between conflict and cooperation</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="1999">1999</year>
+<volume>14</volume>
+<issue>2</issue>
+<fpage>49</fpage>
+<lpage>53</lpage>
+<pub-id pub-id-type="doi">10.1016/s0169-5347(98)01529-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Hoegh-Guldberg et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoegh-Guldberg</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Mumby</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Hooten</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Steneck</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Greenfield</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gomez</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Harvell</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Sale</surname>
+<given-names>PF</given-names>
+</name>
+<name>
+<surname>Edwards</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Caldeira</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Eakin</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Iglesias-Prieto</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Muthiga</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Bradbury</surname>
+<given-names>RH</given-names>
+</name>
+<name>
+<surname>Dubi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hatziolos</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>Coral reefs under rapid climate change and ocean acidification</article-title>
+<source>Science</source>
+<year iso-8601-date="2007">2007</year>
+<volume>318</volume>
+<issue>5857</issue>
+<fpage>1737</fpage>
+<lpage>1742</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1152509</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Hughes et al. (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hughes</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>Baird</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Bellwood</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Card</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Connolly</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Folke</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Grosberg</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Hoegh-Guldberg</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Jackson</surname>
+<given-names>JBC</given-names>
+</name>
+<name>
+<surname>Kleypas</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lough</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Nystrom</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Palumbi</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Pandolfi</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Rosen</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Roughgarden</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Climate change, human impacts, and the resilience of coral reefs</article-title>
+<source>Science</source>
+<year iso-8601-date="2003">2003</year>
+<volume>301</volume>
+<issue>5635</issue>
+<fpage>929</fpage>
+<lpage>933</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1085046</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Johnson (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Johnson</surname>
+<given-names>PCD</given-names>
+</name>
+</person-group>
+<article-title>Extension of Nakagawa &amp; Schielzeth’s <italic>R</italic><sup>2</sup><sub>GLMM</sub> to random slopes models</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2014">2014</year>
+<volume>5</volume>
+<issue>9</issue>
+<fpage>944</fpage>
+<lpage>946</lpage>
+<pub-id pub-id-type="doi">10.1111/2041-210x.12225</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Jones &amp; Berkelmans (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Berkelmans</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Potential costs of acclimatization to a warmer climate: growth of a reef coral with heat tolerant vs. sensitive symbiont types</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2010">2010</year>
+<volume>5</volume>
+<issue>5</issue>
+<elocation-id>e10437</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0010437</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Jones et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Berkelmans</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Van Oppen</surname>
+<given-names>MJH</given-names>
+</name>
+<name>
+<surname>Mieog</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Sinclair</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>A community change in the algal endosymbionts of a Scleractinian coral following a natural bleaching event: field evidence of acclimatization</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2008">2008</year>
+<volume>275</volume>
+<issue>1641</issue>
+<fpage>1359</fpage>
+<lpage>1365</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2008.0069</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Kenkel et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kenkel</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Goodbody-Gringley</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Caillaud</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Bartels</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Matz</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Evidence for a host role in thermotolerance divergence between populations of the mustard hill coral (<italic>Porites astreoides</italic>) from different reef environments</article-title>
+<source>Molecular Ecology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>22</volume>
+<issue>16</issue>
+<fpage>4335</fpage>
+<lpage>4348</lpage>
+<pub-id pub-id-type="doi">10.1111/mec.12391</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Kerr, Baird &amp; Hughes (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kerr</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Baird</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>TP</given-names>
+</name>
+</person-group>
+<article-title>Correlated evolution of sex and reproductive mode in corals (Anthozoa: Scleractinia)</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2011">2011</year>
+<volume>278</volume>
+<issue>1702</issue>
+<fpage>75</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2010.1196</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Kiers &amp; West (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kiers</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>West</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Evolving new organisms via symbiosis</article-title>
+<source>Science</source>
+<year iso-8601-date="2015">2015</year>
+<volume>348</volume>
+<issue>6233</issue>
+<fpage>392</fpage>
+<lpage>394</lpage>
+<pub-id pub-id-type="doi">10.1126/science.aaa9605</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Knowlton et al. (2010)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Brainard</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Fisher</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Moews</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Plaisance</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Caley</surname>
+<given-names>MJ</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>McIntyre</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Coral reef biodiversity</article-title>
+<source>Life in the world’s oceans: diversity, distribution, and abundance</source>
+<year iso-8601-date="2010">2010</year>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>Blackwell Publishing Ltd</publisher-name>
+<fpage>65</fpage>
+<lpage>78</lpage>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>LaJeunesse (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>LaJeunesse</surname>
+<given-names>TC</given-names>
+</name>
+</person-group>
+<article-title>Diversity and community structure of symbiotic dinoflagellates from Caribbean coral reefs</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>141</volume>
+<issue>2</issue>
+<fpage>387</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="doi">10.1007/s00227-002-0829-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Lesser, Stat &amp; Gates (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lesser</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Stat</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>The endosymbiotic dinoflagellates (<italic>Symbiodinium</italic> sp.) of corals are parasites and mutualists</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2013">2013</year>
+<volume>32</volume>
+<issue>3</issue>
+<fpage>603</fpage>
+<lpage>611</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-013-1051-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Little, Van Oppen &amp; Willis (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Little</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Van Oppen</surname>
+<given-names>MJH</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+</person-group>
+<article-title>Flexibility in algal endosymbioses shapes growth in reef corals</article-title>
+<source>Science</source>
+<year iso-8601-date="2004">2004</year>
+<volume>304</volume>
+<issue>5676</issue>
+<fpage>1492</fpage>
+<lpage>1494</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1095733</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Magurran (2004)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Magurran</surname>
+<given-names>AE</given-names>
+</name>
+</person-group>
+<source>Measuring biological diversity</source>
+<year iso-8601-date="2004">2004</year>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>Blackwell Science Ltd</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Marshall &amp; Baird (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marshall</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Baird</surname>
+<given-names>AH</given-names>
+</name>
+</person-group>
+<article-title>Bleaching of corals on the Great Barrier Reef: differential susceptibilities among taxa</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2000">2000</year>
+<volume>19</volume>
+<issue>2</issue>
+<fpage>155</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="doi">10.1007/s003380000086</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Maynard Smith &amp; Szathmary (1995)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maynard Smith</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Szathmary</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<source>The major transitions in evolution</source>
+<year iso-8601-date="1995">1995</year>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>Freeman</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Moran (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Moran</surname>
+<given-names>NA</given-names>
+</name>
+</person-group>
+<article-title>Symbiosis</article-title>
+<source>Current Biology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>16</volume>
+<fpage>R866</fpage>
+<lpage>R871</lpage>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Muscatine (1990)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Muscatine</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Dubinsky</surname>
+</name>
+</person-group>
+<article-title>The role of symbiotic algae in carbon and energy flux in reef corals</article-title>
+<source>Ecosystems of the world 25: coral reefs</source>
+<year iso-8601-date="1990">1990</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Elsevier</publisher-name>
+<fpage>75</fpage>
+<lpage>87</lpage>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Nowak, Bonhoeffer &amp; May (1994)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nowak</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Bonhoeffer</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>May</surname>
+<given-names>RM</given-names>
+</name>
+</person-group>
+<article-title>Spatial games and the maintenance of cooperation</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="1994">1994</year>
+<volume>91</volume>
+<issue>11</issue>
+<fpage>4877</fpage>
+<lpage>4881</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.91.11.4877</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Palstra (2000)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Palstra</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Host-endosymbiont specificity in Acropora corals of the Indo-Pacific?</article-title>
+<year iso-8601-date="2000">2000</year>
+<comment>PhD dissertation</comment>
+<comment>James Cook University, Townsville, Australia</comment>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Pinheiro et al. (2013)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Pinheiro</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bates</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>DebRoy</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sarkar</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Team</surname>
+<given-names>RDC</given-names>
+</name>
+</person-group>
+<data-title>nlme: linear and nonlinear mixed effects models</data-title>
+<year iso-8601-date="2013">2013</year>
+<version designator="3.1-113">R package version 3.1-113 ed</version>
+<uri>https://cran.r-project.org/web/packages/nlme/index.html</uri>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Pochon et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pochon</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Pawlowski</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zaninetti</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Rowan</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>High genetic diversity and relative specificity among <italic>Symbiodinium</italic> -like endosymbiotic dinoflagellates in soritid foraminiferans</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2001">2001</year>
+<volume>139</volume>
+<issue>6</issue>
+<fpage>1069</fpage>
+<lpage>1078</lpage>
+<pub-id pub-id-type="doi">10.1007/s002270100674</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Putnam et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Putnam</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Stat</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Pochon</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>Endosymbiotic flexibility associates with environmental sensitivity in Scleractinian corals</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2012">2012</year>
+<volume>279</volume>
+<issue>1746</issue>
+<fpage>4352</fpage>
+<lpage>4361</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2012.1454</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Quigley et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Quigley</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Kenkel</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Matz</surname>
+<given-names>MV</given-names>
+</name>
+<name>
+<surname>Bay</surname>
+<given-names>LK</given-names>
+</name>
+</person-group>
+<article-title>Deep-sequencing method for quantifying background abundances of <italic>Symbiodinium</italic> types: exploring the rare <italic>Symbiodinium</italic> biosphere in reef-building corals</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014">2014</year>
+<volume>9</volume>
+<issue>4</issue>
+<elocation-id>e94297</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0094297</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>R Development Core Team (2017)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>R Development Core Team</institution>
+</collab>
+</person-group>
+<source>R: a language and environment for statistical computing</source>
+<year iso-8601-date="2017">2017</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>R foundation for statistical computing</publisher-name>
+<uri>http://www.Rproject.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Ralph, Larkum &amp; Kuhl (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ralph</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Larkum</surname>
+<given-names>AWD</given-names>
+</name>
+<name>
+<surname>Kuhl</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Temporal patterns in effective quantum yield of individual zooxanthellae expelled during bleaching</article-title>
+<source>Journal of Experimental Marine Biology and Ecology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>316</volume>
+<issue>1</issue>
+<fpage>17</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jembe.2004.10.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Reich, Robertson &amp; Goodbody-Gringley (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reich</surname>
+<given-names>HG</given-names>
+</name>
+<name>
+<surname>Robertson</surname>
+<given-names>DL</given-names>
+</name>
+<name>
+<surname>Goodbody-Gringley</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Do the shuffle: changes in <italic>Symbiodinium</italic> consortia throughout juvenile coral development</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2017">2017</year>
+<volume>12</volume>
+<issue>2</issue>
+<elocation-id>e0171768</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0171768</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Roth (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Roth</surname>
+<given-names>MS</given-names>
+</name>
+</person-group>
+<article-title>The engine of the reef: photobiology of the coral–algal symbiosis</article-title>
+<source>Frontiers in Microbiology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>5</volume>
+<fpage>422</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2014.00422</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Sachs, Essenberg &amp; Turcotte (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sachs</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Essenberg</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Turcotte</surname>
+<given-names>MM</given-names>
+</name>
+</person-group>
+<article-title>New paradigms for the evolution of beneficial infections</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2011">2011</year>
+<volume>26</volume>
+<issue>4</issue>
+<fpage>202</fpage>
+<lpage>209</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2011.01.010</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Sachs et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sachs</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Mueller</surname>
+<given-names>UG</given-names>
+</name>
+<name>
+<surname>Wilcox</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>Bull</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>The evolution of cooperation</article-title>
+<source>Quarterly Review of Biology</source>
+<year iso-8601-date="2004">2004</year>
+<volume>79</volume>
+<fpage>135</fpage>
+<lpage>160</lpage>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Sachs &amp; Wilcox (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sachs</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Wilcox</surname>
+<given-names>TP</given-names>
+</name>
+</person-group>
+<article-title>A shift to parasitism in the jellyfish symbiont <italic>Symbiodinium microadriaticum</italic></article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2006">2006</year>
+<volume>273</volume>
+<issue>1585</issue>
+<fpage>425</fpage>
+<lpage>429</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2005.3346</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>Silverstein, Cunning &amp; Baker (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Silverstein</surname>
+<given-names>RN</given-names>
+</name>
+<name>
+<surname>Cunning</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Baker</surname>
+<given-names>AC</given-names>
+</name>
+</person-group>
+<article-title>Change in algal symbiont communities after bleaching, not prior heat exposure, increases heat tolerance of reef corals</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>21</volume>
+<issue>1</issue>
+<fpage>236</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.12706</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-71">
+<label>Stanley &amp; Swart (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stanley</surname>
+<given-names>GD</given-names>
+</name>
+<name>
+<surname>Swart</surname>
+<given-names>PK</given-names>
+</name>
+</person-group>
+<article-title>Evolution of the coral-zooxanthellae symbiosis during the Triassic: a geochemical approach</article-title>
+<source>Paleobiology</source>
+<year iso-8601-date="1995">1995</year>
+<volume>21</volume>
+<issue>2</issue>
+<fpage>179</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="doi">10.1017/s0094837300013191</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-72">
+<label>Stewart, Logsdon &amp; Kelley (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stewart</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Logsdon</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Kelley</surname>
+<given-names>SE</given-names>
+</name>
+</person-group>
+<article-title>An empirical study of the evolution of virulence under both horizontal and vertical transmission</article-title>
+<source>Evolution</source>
+<year iso-8601-date="2005">2005</year>
+<volume>59</volume>
+<issue>4</issue>
+<fpage>730</fpage>
+<lpage>739</lpage>
+<pub-id pub-id-type="doi">10.1111/j.0014-3820.2005.tb01749.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-73">
+<label>Strahl et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Strahl</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Stolz</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Uthicke</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Vogen</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Noonan</surname>
+<given-names>SHC</given-names>
+</name>
+<name>
+<surname>Fabricius</surname>
+<given-names>KE</given-names>
+</name>
+</person-group>
+<article-title>Physiological and ecological performance differs in four coral taxa at a volcanic carbon dioxide seep</article-title>
+<source>Comparative Biochemistry and Physiology Part A: Molecular &amp; Integrative Physiology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>184</volume>
+<fpage>179</fpage>
+<lpage>186</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cbpa.2015.02.018</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-74">
+<label>Tonk et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tonk</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bongaerts</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Sampayo</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Hoegh-Guldberg</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>SymbioGBR: a web-based database of <italic>Symbiodinium</italic> associated with cnidarian hosts on the Great Barrier Reef</article-title>
+<source>BMC Ecology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>13</volume>
+<issue>1</issue>
+<fpage>7</fpage>
+<pub-id pub-id-type="doi">10.1186/1472-6785-13-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-75">
+<label>Veal et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Veal</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Carmi</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fine</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hoegh-Guldberg</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Increasing the accuracy of surface area estimation using single wax dipping of coral fragments</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2010">2010</year>
+<volume>29</volume>
+<issue>4</issue>
+<fpage>893</fpage>
+<lpage>897</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-010-0647-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-76">
+<label>Wilson et al. (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wilson</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Whan</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Lehnert</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Byrne</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Moore</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pongsomboon</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Tassanakajon</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rosenberg</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ballment</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Fayazi</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Swan</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Kenway</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Benzie</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Genetic mapping of the black tiger shrimp Penaeus monodon with amplified fragment length polymorphism</article-title>
+<source>Aquaculture</source>
+<year iso-8601-date="2002">2002</year>
+<volume>204</volume>
+<issue>3–4</issue>
+<fpage>297</fpage>
+<lpage>309</lpage>
+<pub-id pub-id-type="doi">10.1016/s0044-8486(01)00842-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-77">
+<label>Wooldridge (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wooldridge</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Water quality and coral bleaching thresholds: formalising the linkage for the inshore reefs of the Great Barrier Reef, Australia</article-title>
+<source>Marine Pollution Bulletin</source>
+<year iso-8601-date="2009">2009</year>
+<volume>58</volume>
+<issue>5</issue>
+<fpage>745</fpage>
+<lpage>751</lpage>
+<pub-id pub-id-type="doi">10.1016/j.marpolbul.2008.12.013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-78">
+<label>Yellowlees, Rees &amp; Leggat (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yellowlees</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Rees</surname>
+<given-names>TAV</given-names>
+</name>
+<name>
+<surname>Leggat</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Metabolic interactions between algal symbionts and invertebrate hosts</article-title>
+<source>Plant, Cell &amp; Environment</source>
+<year iso-8601-date="2008">2008</year>
+<volume>31</volume>
+<issue>5</issue>
+<fpage>679</fpage>
+<lpage>694</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-3040.2008.01802.x</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

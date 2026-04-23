@@ -1,0 +1,2689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">15285</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.15285</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecosystem Science</subject>
+<subject>Natural Resource Management</subject>
+<subject>Spatial and Geographic Information Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Spatio-temporal evolution and prediction of carbon storage in Kunming based on PLUS and InVEST models</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" equal-contrib="yes">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>Yimin</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author" corresp="yes" equal-contrib="yes">
+<name name-style="western">
+<surname>Yang</surname>
+<given-names>Xue</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>yx9912130@163.com</email>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Wu</surname>
+<given-names>Bowen</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Zhao</surname>
+<given-names>Juanzhen</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name name-style="western">
+<surname>Jiang</surname>
+<given-names>Wenxue</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Feng</surname>
+<given-names>Xianjie</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author">
+<name name-style="western">
+<surname>Li</surname>
+<given-names>Yuanting</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>School of Earth Sciences, Yunnan University</institution>, <addr-line>Kunming City, Yunnan</addr-line>, <country>China</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Yunnan Provincial University Domestic High Score Satellite Remote Sensing Geological Engineering Research Center</institution>, <addr-line>Kunming City, Yunnan</addr-line>, <country>China</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Institute of International Rivers and Ecological Security, Yunnan University</institution>, <addr-line>Kunming City, Yunnan</addr-line>, <country>China</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Meraj</surname>
+<given-names>Gowhar</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-05-23"><day>23</day><month>5</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e15285</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-01-03"><day>3</day><month>1</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-04-03"><day>3</day><month>4</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Li et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Li et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/15285"/>
+<abstract>
+<p>Carbon storage is a critical ecosystem service provided by terrestrial environmental systems that can effectively reduce regional carbon emissions and is critical for achieving carbon neutrality and carbon peak. We conducted a study in Kunming and analyzed the land utilization data for 2000, 2010, and 2020. We assessed the features of land utilization conversion and forecasted land utilization under three development patterns in 2030 on the basis of the Patch-generating Land Use Simulation (PLUS) model. We used the Integrated Valuation of Ecosystem Services and Trade-offs (InVEST) model to estimate changes in carbon storage trends under three development scenarios in 2000, 2010, 2020, and 2030 and the impact of socioeconomic and natural factors on carbon storage. The results of the study indicated that (1) carbon storage is intimately associated with land utilization practices. Carbon storage in Kunming in 2000, 2010, and 2020 was 1.146 × 108 t, 1.139 × 108 t, and 1.120 × 108 t, respectively. During the 20 years, forest land decreased by 142.28 km<sup>2</sup>, and the decrease in forest land area caused a loss of carbon storage. (2) Carbon storage in 2030 was predicted to be 1.102 × 108 t, 1.136 × 108 t, and 1.105 × 108 t, respectively, under the trend continuation scenario, eco-friendly scenario, and comprehensive development scenario, indicating that implementing ecological protection and cultivated land protection measures can facilitate regional ecosystem carbon storage restoration. (3) Impervious surfaces and vegetation have the greatest influence on carbon storage for the study area. A spatial global and local negative correlation was found between impervious surface coverage and ecosystem carbon storage. A spatial global and local positive correlation was found between NDVI and ecosystem carbon storage. Therefore, ecological and farmland protection policies need to be strengthened, the expansion of impervious surfaces should be strictly controlled, and vegetation coverage should be improved.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>InVEST model</kwd>
+<kwd>Carbon storage</kwd>
+<kwd>PLUS model</kwd>
+<kwd>Kunming city</kwd>
+<kwd>Spatial autocorrelation analysis</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>National Natural Science Foundation of China</funding-source>
+<award-id>41161070</award-id>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Yunnan Science and Technology Department &amp; Yunnan University Joint Fund Key Projects</funding-source>
+<award-id>2019FY003017</award-id>
+</award-group>
+<award-group id="fund-3">
+<funding-source>China Geological Survey Project</funding-source>
+<award-id>DD20221824</award-id>
+</award-group>
+<award-group id="fund-4">
+<funding-source>China and Myanmar Ecological Conservation Joint Laboratory</funding-source>
+<award-id>K26202000920</award-id>
+</award-group>
+<award-group id="fund-5">
+<funding-source>Innovation Team of Greater Mekong Subregion Climate Change Research Department, Yunnan University</funding-source>
+<award-id>2019HC027</award-id>
+</award-group>
+<funding-statement>All the external funding and sources of support received during this study came from the National Natural Science Foundation of China under Grant 41161070, the Yunnan Science and Technology Department &amp; Yunnan University Joint Fund Key Projects (2019FY003017), the China Geological Survey Project (DD20221824), the China and Myanmar Ecological Conservation Joint Laboratory (K26202000920), and the Innovation Team of Greater Mekong Subregion Climate Change Research Department, Yunnan University (2019HC027). There was no additional external funding received for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Due to rapid urbanization and industrialization, almost all cities around the world have experienced several climate-related and environmental problems (<xref ref-type="bibr" rid="ref-2">Cao, 2019</xref>; <xref ref-type="bibr" rid="ref-32">Sarkodie, Owusu &amp; Leirvik, 2020</xref>), such as acid rain and the greenhouse effect, which are linked to the increasing intensity of land utilization by humans (<xref ref-type="bibr" rid="ref-43">Xu et al., 2018</xref>). Carbon dioxide has a significant impact on the climate. Greenhouse gases, such as carbon dioxide, emitted in unusually large quantities due to human activity, are the primary causes of global warming and exacerbate climate instability (<xref ref-type="bibr" rid="ref-12">Gao et al., 2022a</xref>; <xref ref-type="bibr" rid="ref-45">Yang, Liu &amp; Bi, 2022</xref>; <xref ref-type="bibr" rid="ref-52">Zhang &amp; Gu, 2022</xref>). Carbon dioxide can be stored in vegetation and soil, reducing the amount of CO<sub>2</sub> in the atmosphere (<xref ref-type="bibr" rid="ref-9">Dorendorf et al., 2015</xref>). Carbon storage is critical for climate regulation and an important ecosystem service function. China is the world’s leading source of carbon emissions. At the United Nations General Assembly’s 75th session (2020), China pledged to reach the carbon emissions peak by 2030 and achieve carbon neutrality by 2060. (<xref ref-type="bibr" rid="ref-3">Chen et al., 2022a</xref>).</p>
+<p>The emission of large amounts of greenhouse gases seriously threatens the global climate and environment. Several studies in the field of the ecological environment have estimated regional carbon storage and carbon emissions (<xref ref-type="bibr" rid="ref-1">Cai &amp; Peng, 2021</xref>; <xref ref-type="bibr" rid="ref-14">Gogoi, Ahirwal &amp; Sahoo, 2022</xref>; <xref ref-type="bibr" rid="ref-24">Li et al., 2022</xref>). Carbon storage refers to the amount of carbon stored in various forms. Traditional estimation methods and model methods are primarily used to estimate carbon storage. Traditional estimation methods include sample inventory (<xref ref-type="bibr" rid="ref-27">Li et al., 2021</xref>) and ecosystem carbon flux monitoring (<xref ref-type="bibr" rid="ref-45">Yang, Liu &amp; Bi, 2022</xref>), and evaluation models include CASA (<xref ref-type="bibr" rid="ref-37">Tong, Zhang-Guo &amp; Wei, 2016</xref>), Bookkeeping (<xref ref-type="bibr" rid="ref-21">Kong et al., 2018</xref>), and InVEST (<xref ref-type="bibr" rid="ref-50">Zhang et al., 2022a</xref>), among others. Due to its high workload and low efficiency, the traditional estimation method is only suitable for small-area carbon storage research. The InVEST model is broadly applicable to the field of carbon stock research (<xref ref-type="bibr" rid="ref-4">Chen et al., 2021</xref>; <xref ref-type="bibr" rid="ref-38">Wang, Gong &amp; Deng, 2022</xref>; <xref ref-type="bibr" rid="ref-54">Zhang et al., 2022b</xref>; <xref ref-type="bibr" rid="ref-56">Zhao et al., 2022</xref>) because it demands a small amount of data, has high speed of operation, and performs convenient space-time visualization. Studying the current space-time characteristics of carbon storage and predicting future variations in land use and carbon storage can help realize the ‘double carbon’ goal. Several researchers have investigated prospective land utilization and carbon storage prediction at different scales. With the FLUS and InVEST models, <xref ref-type="bibr" rid="ref-33">Shao et al. (2022)</xref> predicted the evolution of Beijing’s carbon storage in 2035 under the natural evolution scenario, population evacuation urban development scenario, and green intensive ecological protection scenario. They also conducted zoning management studies based on spatial autocorrelation models. <xref ref-type="bibr" rid="ref-25">Li et al. (2020a)</xref> applied the SEUTH model to estimate the urban growth of Wuhan under different scenarios in 2030 and determined the consequences of urban sprawl on local carbon storage in combination with the InVEST model. Using the PLUS and InVEST models, <xref ref-type="bibr" rid="ref-31">Rukeya et al. (2022)</xref> dynamically evaluated the characteristics of land utilization and carbon storage varies in city clusters on the northern slope of the Tianshan Mountains under different scenarios from 2000 to 2030. <xref ref-type="bibr" rid="ref-8">Ding et al. (2022)</xref> utilized the PLUS and InVEST models to investigate and predict the evolution in land use and carbon storage around Hangzhou Bay since 2000 to 2018 and 2018 to 2030.</p>
+<p>The models used to mimic futuristic land utilization/land cover mainly include CA-Markov (<xref ref-type="bibr" rid="ref-34">Song et al., 2022</xref>), FLUS (<xref ref-type="bibr" rid="ref-41">Xie et al., 2022</xref>), SD (<xref ref-type="bibr" rid="ref-53">Zhang et al., 2020b</xref>), PLUS (<xref ref-type="bibr" rid="ref-47">Yang, Su &amp; Zhao, 2022</xref>), <italic>etc</italic>. Among them, the Patch-generating Land Use Simulation (PLUS) is a relatively new land utilization/land cover forecast model. By mining various driving factors, using the land expansion analysis strategy (LEAS), the random forest algorithm was used to obtain the development possibility of each category (<xref ref-type="bibr" rid="ref-28">Liang et al., 2021</xref>) to simulate the future changes in land use patches with greater accuracy in different years and different environments. The Markov model has higher accuracy in predicting quantities (<xref ref-type="bibr" rid="ref-56">Zhao et al., 2022</xref>). The integration of the PLUS model with the Markov model allows for a better estimation of regional land utilization/land cover in different future development scenarios.</p>
+<p>Kunming has been a fast-growing city in western China for the past two decades; thus, it can be used as a representative of the rapid urbanization process. Kunming’s rich forest resources and biodiversity constitute a significant ecological barrier in China and even the world. Forest resources are closely related to carbon storage, so the rich forest resources in Kunming affect the changes in ecosystem carbon reserves, affecting the global carbon cycle. Further, the rich biodiversity of Kunming helps in maintaining the stability of the earth’s ecosystem and promote the sustainable development of human beings. The model method has been used in several studies to predict the space-time evolution of regional carbon storage. Therefore, in this study, we selected Kunming City in Yunnan Province as the study area, taking the three-period land use raster dataset and driving factors from 2000 to 2020 as the basis. The goals of this study were as follows: (1) Based on the PLUS model, the land-use pattern under different development patterns in Kunming City in 2030 was predicted, and the land utilization transformation trend from 2000 to 2030 was analyzed. (2) The InVEST model was adopted to assess the time-space distribution and change of carbon storage in Kunming from 2000 to 2030 and determine the influential effect of land use on carbon storage in different periods. (3) Analysis of spatial correlation and influencing factors of carbon storage in ecosystem.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Study area</title>
+<p>Kunming is directly northeast of central Yunnan Province (102°10’ ~ 103°40’ E, 24°23’ ~ 26°22’ N) in the central Yunnan-Guizhou Plateau (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) (<xref ref-type="bibr" rid="ref-11">Fang et al., 2021</xref>), the land area of Kunming is about 21,011.41 km<sup>2</sup>.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Study area.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-1.png"/>
+</fig>
+<p>Kunming, the capital of Yunnan Province in China, houses most of the province’s population and GDP. It is the province’s most important economic development center and corridor for economic and cultural communications between China and Southeast Asian countries. Furthermore, Kunming has abundant forest resources and biodiversity, making it an important area in the Yangtze River Economic Belt and an eco-conservation shield upstream of the Yangtze River (<xref ref-type="bibr" rid="ref-19">Jia, Wang &amp; Zhao, 2022</xref>). In October 2021, the 15th Conference of the Parties (COP15) of the UN Convention on Biological Diversity was hosted in Kunming. At the conference, new ideas were presented for conserving worldwide biodiversity. Ecological civilization refers to the sum of material and spiritual achievements made by human beings in accordance with the objective law of harmonious development of man, nature, and society. During the 14th five-year plan period of China’s national economic and social development, Yunnan Province pledged that it would strive “to become the vanguard of China’s ecological civilization construction” as a long-term goal and incorporate the aim to achieve “carbon peak and carbon neutrality” into the general arrangement of economic development and the establishment of an eco-civilization. To realize these goals, Yunnan should promote the establishment of an eco-civilization, which is not only a significant embodiment of Yunnan’s initiative to serve the national developmental strategy but also an important embodiment of integrating into the national development. Therefore, studying and forecasting the response of land utilization conversions to carbon storage in Kunming can help build a strong ecological security barrier in southwest China and provide theoretical support for reducing regional emissions.</p>
+</sec>
+<sec>
+<title>Data sources and preprocessing</title>
+<p>The main data used for this research mainly included land utilization data, carbon density, driving factors, and other data (<xref ref-type="table" rid="table-1">Table 1</xref>). (1) Land utilization data: the land-use data (30 m × 30 m) was obtained from the Resource and Environmental Science and Data Center of the Chinese Academy of Sciences. The data set was built by the Chinese Academy of Sciences through artificial visual interpretation on the basis of the national resources and environment database and the Landsat remote sensing image data as the main information source. The data were selected in time: 2000, 2010, and 2020, and the geographic coordinate system used was GCS_WGS_1984, which included 25 secondary land types and six primary land types (cultivated land, forest land, grassland, water area, construction land, and unused land). (2) Carbon density: the carbon density varies by land use type. The studies which had similar levels of natural resources (<xref ref-type="bibr" rid="ref-20">Ke &amp; Tang, 2019</xref>) and climatic conditions (<xref ref-type="bibr" rid="ref-44">Yan et al., 2015</xref>; <xref ref-type="bibr" rid="ref-36">Tang, Xu &amp; Ai, 2019</xref>) to that in the study area were selected as references. Then, the data were corrected according to the above-ground carbon density dataset of the terrestrial ecosystem of China in 2010 and the carbon density dataset of soil in 0 ~ 100 cm of the terrestrial ecosystem of China in 2010. Finally, the carbon density dataset for land utilization categories in Kunming was obtained (<xref ref-type="table" rid="table-2">Table 2</xref>). (3) Driving factors: The driving factor data for future land prediction included physical factors and social factors. The physical factors involved the DEM, slope, annual average rainfall, soil type, annual average temperature, and distance to the water system. The social factors included the GDP, distance to the government office, distance to the highway, distance to the main road (first-class road and second-class road), population density, data source, and resolution, as shown in <xref ref-type="table" rid="table-1">Table 1</xref>. Next, ArcGIS was used to unify the resolution to 30 m × 30 m and unified the geographic coordinate system to GCS_WGS_1984. (4) Other data: four Landsat 8 OLI and TIRS images in August 2020 were selected for radiometric calibration, atmospheric correction, splicing, and cropping to obtain remote sensing images of Kunming City to extract the impervious surface in 2020. NDVI was directly obtained from the vegetation index data MOD13A1.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.15285/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Data and sources.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Data type</th>
+<th>Data description</th>
+<th>Resolution/m</th>
+<th>Data source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Land use data</td>
+<td>2000 to 2020</td>
+<td>30</td>
+<td>Resource and Environment Science and Data Center, Chinese Academy of Sciences (<uri xlink:href="https://www.resdc.cn/">https://www.resdc.cn/</uri>)</td>
+</tr>
+<tr>
+<td>Carbon density</td>
+<td>–</td>
+<td>–</td>
+<td>Scientific literature statistics, 2010 Chinese terrestrial ecosystem aboveground carbon density data set, 2010 Chinese terrestrial ecosystem soil 0~100 cm carbon density data set.</td>
+</tr>
+<tr>
+<td rowspan="2">Other data</td>
+<td>Landsat 8 OLI and TIRS</td>
+<td>30</td>
+<td>United States Geological Survey Official Website (<uri xlink:href="https://earthexplorer.usgs.gov/">https://earthexplorer.usgs.gov/</uri>)</td>
+</tr>
+<tr>
+<td>MOD13A1</td>
+<td>500</td>
+<td>NASA official website (<uri xlink:href="https://search.earthdata.nasa.gov/search">https://search.earthdata.nasa.gov/search</uri>)</td>
+</tr>
+<tr>
+<td rowspan="11">Driving factors</td>
+<td>GDP</td>
+<td>1,000</td>
+<td rowspan="3">Resource and Environment Science and Data Center, Chinese Academy of Sciences (<uri xlink:href="https://www.resdc.cn/">https://www.resdc.cn/</uri>)</td>
+</tr>
+<tr>
+<td>Population density</td>
+<td>1,000</td>
+</tr>
+<tr>
+<td>Distance to government office</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Distance to main road</td>
+<td>30</td>
+<td rowspan="2">Openstreetmap (<uri xlink:href="https://www.openstreetmap.org/">https://www.openstreetmap.org/</uri>)</td>
+</tr>
+<tr>
+<td>Distance to highway</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>30</td>
+<td rowspan="2">Geospatial Data Cloud Official Website (<uri xlink:href="https://peerj.com/articles/15285/https//www.gscloud.cn/">https//www.gscloud.cn/</uri>)</td>
+</tr>
+<tr>
+<td>Slope</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Distance to water system</td>
+<td>30</td>
+<td rowspan="4">Resource and Environment Science and Data Center, Chinese Academy of Sciences (<uri xlink:href="https://www.resdc.cn/">https://www.resdc.cn/</uri>)</td>
+</tr>
+<tr>
+<td>Mean annual temperature</td>
+<td>1,000</td>
+</tr>
+<tr>
+<td>Mean annual rainfall</td>
+<td>1,000</td>
+</tr>
+<tr>
+<td>Soil type</td>
+<td>1,000</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap><table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.15285/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Carbon density database of land use types in Kunming.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Land use</th>
+<th>Aboveground carbon density</th>
+<th>Underground carbon density</th>
+<th>Soil carbon density</th>
+<th>Carbon density of dead organic matter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cultivated land</td>
+<td>1.31</td>
+<td>0.73</td>
+<td>11.65</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Forest land</td>
+<td>40.41</td>
+<td>10.45</td>
+<td>42.75</td>
+<td>2.62</td>
+</tr>
+<tr>
+<td>Grassland</td>
+<td>2.55</td>
+<td>8.31</td>
+<td>15.1</td>
+<td>0.85</td>
+</tr>
+<tr>
+<td>Water area</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Construction land</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Unused land</td>
+<td>0</td>
+<td>0</td>
+<td>4.2</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+</sec>
+<sec sec-type="methods">
+<title>Methods</title>
+<p>The research framework was composed of four stages (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). (1) Data preparation and preprocessing. (2) The PLUS model predicted land utilization changes for 2030 under the trend continuation scenario, the eco-friendly scenario, and the comprehensive development scenario. (3) Using the InVEST model, the space-time allocation of carbon storage under various development scenarios from 2000 to 2030 was evaluated. The trend of land use revolution in the study area from 2000 to 2030 was discovered to determine the impact of land utilization variation on carbon sink. (4) The spatial correlation of carbon storage was evaluated using the spatial autocorrelation model, and the influencing factors of carbon storage were analyzed.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Research framework.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-2.png"/>
+</fig>
+<sec>
+<title>Ecosystem carbon storage estimation</title>
+<p>The Integrated Valuation of Ecosystem Services and Trade-offs (InVEST) model is an ecological model for evaluating and quantifying ecosystem services. In this study, the carbon storage and sequestration module of the InVEST model was used to calculate the carbon storage in Kunming. The basic assumption of this module is that the value of the carbon density of a specific land category is fixed, and the carbon storage of that land type can be acquired by multiplying the value of carbon density with that of the land area (<xref ref-type="bibr" rid="ref-15">Gong et al., 2022</xref>). The carbon storage module in the InVEST model divides the ecosystem carbon storage into four basic carbon pools (<xref ref-type="bibr" rid="ref-29">Lin et al., 2022</xref>), which include terrestrial biogenic carbon, subsurface biogenic carbon, soil carbon, and dead organic carbon. The sum of the carbon stock of the four carbon pools provides the value for the total carbon storage of the ecosystem in the area, which can be achieved using <xref ref-type="disp-formula" rid="eqn-1">Eqs. (1)</xref> and <xref ref-type="disp-formula" rid="eqn-2">(2)</xref> (<xref ref-type="bibr" rid="ref-26">Li et al., 2020b</xref>).</p>
+<p><disp-formula id="eqn-1">
+<label>(1)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[$${C_i} = {C_{i - above}} + {C_{i - below}} + {C_{i - soil}} + {C_{i - dead}}$$]]></tex-math><mml:math id="mml-eqn-1" display="block"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>a</mml:mi><mml:mi>b</mml:mi><mml:mi>o</mml:mi><mml:mi>v</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>+</mml:mo><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mi>e</mml:mi><mml:mi>l</mml:mi><mml:mi>o</mml:mi><mml:mi>w</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>+</mml:mo><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>s</mml:mi><mml:mi>o</mml:mi><mml:mi>i</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>+</mml:mo><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>d</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></disp-formula></p>
+<p><disp-formula id="eqn-2">
+<label>(2)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/eqn-2.png"/><tex-math id="tex-eqn-2"><![CDATA[$${C_{tot}} = \mathop \sum \nolimits_{i = \; 1}^n {C_i} \times {S_i}.$$]]></tex-math><mml:math id="mml-eqn-2" display="block"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>t</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:msubsup><mml:mrow><mml:mo movablelimits="false">∑</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mspace width="thickmathspace"/><mml:mn>1</mml:mn></mml:mrow><mml:mi>n</mml:mi></mml:msubsup><mml:mo>⁡</mml:mo><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>.</mml:mo></mml:math>
+</alternatives></disp-formula></p>
+<p>Here, <inline-formula id="ieqn-1">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-1.png"/><tex-math id="tex-ieqn-1"><![CDATA[${C_i}$]]></tex-math><mml:math id="mml-ieqn-1"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> indicates the carbon density of land utilization type i; <inline-formula id="ieqn-2">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-2.png"/><tex-math id="tex-ieqn-2"><![CDATA[${C_{i - above}}$]]></tex-math><mml:math id="mml-ieqn-2"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>a</mml:mi><mml:mi>b</mml:mi><mml:mi>o</mml:mi><mml:mi>v</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-3">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-3.png"/><tex-math id="tex-ieqn-3"><![CDATA[${C_{i - below}}$]]></tex-math><mml:math id="mml-ieqn-3"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mi>e</mml:mi><mml:mi>l</mml:mi><mml:mi>o</mml:mi><mml:mi>w</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-4">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-4.png"/><tex-math id="tex-ieqn-4"><![CDATA[${C_{i - soil}}$]]></tex-math><mml:math id="mml-ieqn-4"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>s</mml:mi><mml:mi>o</mml:mi><mml:mi>i</mml:mi><mml:mi>l</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, and <inline-formula id="ieqn-5">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-5.png"/><tex-math id="tex-ieqn-5"><![CDATA[${C_{i - dead}}$]]></tex-math><mml:math id="mml-ieqn-5"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>d</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>d</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> indicate the carbon density of terrestrial biogenic carbon, subsurface biogenic carbon, soil carbon, and dead organic carbon of land use type i, respectively; <inline-formula id="ieqn-6">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-6.png"/><tex-math id="tex-ieqn-6"><![CDATA[${C_{tot}}$]]></tex-math><mml:math id="mml-ieqn-6"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi>t</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> indicates the total carbon storage in the region; <inline-formula id="ieqn-7">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-7.png"/><tex-math id="tex-ieqn-7"><![CDATA[${S_i}$]]></tex-math><mml:math id="mml-ieqn-7"><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> indicates the area of land utilization pattern i; <italic>n</italic> indicates the total number of land use types.</p>
+</sec>
+<sec>
+<title>Future land use prediction and scenario setting</title>
+<sec>
+<title>PLUS model</title>
+<p>In this study, the PLUS model was utilized to forecast land utilization in Kunming under distinct growth scenarios in 2030. Patch-generating Land Use Simulation (PLUS) is a new land use/land cover prediction model proposed by <xref ref-type="bibr" rid="ref-28">Liang et al. (2021)</xref> (China University of Geosciences). Compared to other traditional prediction models, it has improved emulation capability and can measure the landscape pattern more precisely (<xref ref-type="bibr" rid="ref-48">Yang et al. 2022</xref>). The PLUS model mainly combines the land expansion analysis strategy (LEAS) and the CA model with multi-type random patch seeds (CARS). The LEAS module is employed to extract the land cover expansion. Then, the random forest classification algorithm is utilized to mine the probability of change and inertia of each land use type (<xref ref-type="bibr" rid="ref-13">Gao et al., 2022b</xref>). The CARS module affects the local land contestation process through a self-adaptive coefficient and drives the changes in land utilization intensity to meet the upcoming land use demand. For forecasting, the number of prospective land application patches, a Markov model with high simulation accuracy is selected (<xref ref-type="bibr" rid="ref-35">Sun &amp; Liang, 2021</xref>).</p>
+</sec>
+<sec>
+<title>Scenario setting</title>
+<p>The development planning and the land use change of Kunming City are affected by many factors. The previous planning of Kunming City started in 2006 and ended in 2020. The next overall planning of land and space in Kunming City started in 2021 and is planned till 2035; 2030 is the intermediate node of the next land and space planning of Kunming City. Additionally, following the implementation outline of “Kunming City building regional international center city (2017–2030)” issued in September 2017, Kunming City will be fully transformed into a regional international center city in southwest China in 2030 (<xref ref-type="bibr" rid="ref-60">Zhang, 2019</xref>). Therefore, in this study, we selected 2030 as the prediction year of future land use in Kunming.</p>
+<p>Following the historical law of land utilization change in Kunming, along with the development situation and future planning, and assuming that the region can meet the future natural, social, and economic needs, the PLUS model was used to construct three scenarios (<xref ref-type="bibr" rid="ref-6">Cui et al., 2022</xref>; <xref ref-type="bibr" rid="ref-7">Ding et al., 2021</xref>; <xref ref-type="bibr" rid="ref-52">Zhang &amp; Gu, 2022</xref>) for the coming land utilization expansion of Kunming. These scenarios are as follows:</p>
+<p>1) Trend continuation scenario (S1). According to the law of land utilization change in Kunming between 2010 and 2020, only the water area can be controlled as the restricted conversion area, and the construction land cannot be transferred to alternative land types. Markov model is a method to simulate or predict the occurrence probability of events based on the transition probability matrix. Using the Markov model, the land use types of Kunming in the 2030 trend continuation scenario were predicted.</p>
+<p>2) Ecological protection scenario (S2). The Yunnan Province is committed to leading the construction goals of ecological civilization, guided by ecological and environmental protection, by limiting the large extension of construction land, increasing the shift of other types of land to woodland and grassland, and reducing the conversion of eco-land to unused land.</p>
+<p>3) Comprehensive development scenario (S3). While ensuring economic development, the protection of the ecosystem, substantially reducing the transfer of non-construction land to construction land, and increasing the transfer probability of unused land to ecological land without affecting economic development need to be considered. Since cultivated land is economically important, the conservation policy of cultivated land needs to be considered to strictly control the transformation of cultivated land.</p>
+<p>The neighborhood weight reflects the expandability of a certain land utilization type. When the value is closer to one, the extension capacity of the land utilization type is stronger. Following the law of land utilization conversion in Kunming for the period 2010–2020 and based on the findings of published studies (<xref ref-type="bibr" rid="ref-22">La et al., 2021</xref>), the neighborhood weights of each land utilization type under various scenarios were set by comparing the accuracy of the outcomes of simulation based on different parameters (<xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+<table-wrap id="table-3">
+<object-id pub-id-type="doi">10.7717/peerj.15285/table-3</object-id>
+<label>Table 3</label>
+<caption>
+<title>Neighborhood weights of simulation scenarios.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/table-3.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Scenarios</th>
+<th>Cultivated land</th>
+<th>Forest</th>
+<th>Grassland</th>
+<th>Water body</th>
+<th>Construction land</th>
+<th>Unused land</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trend continuation</td>
+<td>0.50</td>
+<td>0.77</td>
+<td>0.50</td>
+<td>0.58</td>
+<td>0.83</td>
+<td>0.50</td>
+</tr>
+<tr>
+<td>Ecological protection</td>
+<td>0.50</td>
+<td>0.82</td>
+<td>0.75</td>
+<td>0.58</td>
+<td>0.70</td>
+<td>0.60</td>
+</tr>
+<tr>
+<td>Comprehensive development</td>
+<td>0.50</td>
+<td>0.77</td>
+<td>0.75</td>
+<td>0.58</td>
+<td>0.77</td>
+<td>0.60</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec>
+<title>Verifying the accuracy of the simulation</title>
+<p>According to the land use data of Kunming City in 2010, the PLUS model was employed to forecast the results of the land utilization type of Kunming City in 2020. The Kappa coefficient and overall accuracy (OA) were used to evaluate simulation accuracy, in which the Kappa coefficient is a consistency checking method based on a confusion matrix. By comparing the simulated results with the real land use data in 2020, the Kappa coefficient of the two sets of data was 0.8638, and the overall accuracy (OA) was 90.72%. The simulation accuracy was high, indicating that the model and various parameters might be used for simulating the land use of Kunming City in the future.</p>
+</sec>
+</sec>
+<sec>
+<title>Impervious surface extraction</title>
+<p>The impervious surface area (ISA) is a typical land cover type and an important indicator for measuring and analyzing city development and ecology (<xref ref-type="bibr" rid="ref-62">Xu, 2009</xref>). The index method is generally adopted to extract the urban impervious surface. The representative spectral indices include the normalized building index (NDBI), the normalized difference impervious surface index (NDISI), and the enhanced normalized difference impervious surface index (ENDISI) (<xref ref-type="bibr" rid="ref-10">Duan, Zhang &amp; Liu, 2022</xref>). ENDISI can better identify shadows of mountains and remains unaffected by terrain factors while identifying impervious surfaces. Kunming City is dominated by mountainous terrain. Selecting this index for extracting information on impervious surfaces can prevent mountain shadows from affecting the extraction accuracy of impervious surfaces. The ENDISI can be calculated using <xref ref-type="disp-formula" rid="eqn-3">Eq. (3)</xref>.</p>
+<p><disp-formula id="eqn-3">
+<label>(3)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/eqn-3.png"/><tex-math id="tex-eqn-3"><![CDATA[$$ENDISI = \displaystyle{{\left( {2Blue + MI{R_2}} \right) \div 2 - \left( {NIR + Red + MI{R_1}} \right)} \over {\left( {2Blue + MI{R_2}} \right) \div 2 + \left( {NIR + Red + MI{R_1}} \right)}}.$$]]></tex-math><mml:math id="mml-eqn-3" display="block"><mml:mi>E</mml:mi><mml:mi>N</mml:mi><mml:mi>D</mml:mi><mml:mi>I</mml:mi><mml:mi>S</mml:mi><mml:mi>I</mml:mi><mml:mo>=</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>2</mml:mn><mml:mi>B</mml:mi><mml:mi>l</mml:mi><mml:mi>u</mml:mi><mml:mi>e</mml:mi><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mi>I</mml:mi><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>÷</mml:mo><mml:mn>2</mml:mn><mml:mo>−</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>N</mml:mi><mml:mi>I</mml:mi><mml:mi>R</mml:mi><mml:mo>+</mml:mo><mml:mi>R</mml:mi><mml:mi>e</mml:mi><mml:mi>d</mml:mi><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mi>I</mml:mi><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>2</mml:mn><mml:mi>B</mml:mi><mml:mi>l</mml:mi><mml:mi>u</mml:mi><mml:mi>e</mml:mi><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mi>I</mml:mi><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>÷</mml:mo><mml:mn>2</mml:mn><mml:mo>+</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>N</mml:mi><mml:mi>I</mml:mi><mml:mi>R</mml:mi><mml:mo>+</mml:mo><mml:mi>R</mml:mi><mml:mi>e</mml:mi><mml:mi>d</mml:mi><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mi>I</mml:mi><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mo>.</mml:mo></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p>Here, <inline-formula id="ieqn-8">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-8.png"/><tex-math id="tex-ieqn-8"><![CDATA[${\rm Blue}$]]></tex-math><mml:math id="mml-ieqn-8"><mml:mrow><mml:mi mathvariant="normal">B</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">u</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-9">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-9.png"/><tex-math id="tex-ieqn-9"><![CDATA[${\rm Red}$]]></tex-math><mml:math id="mml-ieqn-9"><mml:mrow><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">d</mml:mi></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-10">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-10.png"/><tex-math id="tex-ieqn-10"><![CDATA[${\rm NIR}$]]></tex-math><mml:math id="mml-ieqn-10"><mml:mrow><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:mi mathvariant="normal">R</mml:mi></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-11">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-11.png"/><tex-math id="tex-ieqn-11"><![CDATA[${\rm MI}{{\rm R}_1}$]]></tex-math><mml:math id="mml-ieqn-11"><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">R</mml:mi></mml:mrow><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, and <inline-formula id="ieqn-12">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-12.png"/><tex-math id="tex-ieqn-12"><![CDATA[${\rm MI}{{\rm R}_2}$]]></tex-math><mml:math id="mml-ieqn-12"><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> are the reflectance of blue, red, near-infrared, shortwave infrared 1, and shortwave infrared, two bands corresponding to the image.</p>
+<p>Before extracting the information on the impervious surface, the normalized water index MNDW (<xref ref-type="bibr" rid="ref-61">Xu, 2008</xref>) needs to be used to mask the large area of water and snow over the study area. The MNDW index can be derived from <xref ref-type="disp-formula" rid="eqn-4">Eq. (4)</xref>.</p>
+<p><disp-formula id="eqn-4">
+<label>(4)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/eqn-4.png"/><tex-math id="tex-eqn-4"><![CDATA[$$MNDWI = \displaystyle{{\left( {Green - MI{R_1}} \right)} \over {\left( {Green + MI{R_1}} \right)}}.$$]]></tex-math><mml:math id="mml-eqn-4" display="block"><mml:mi>M</mml:mi><mml:mi>N</mml:mi><mml:mi>D</mml:mi><mml:mi>W</mml:mi><mml:mi>I</mml:mi><mml:mo>=</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>G</mml:mi><mml:mi>r</mml:mi><mml:mi>e</mml:mi><mml:mi>e</mml:mi><mml:mi>n</mml:mi><mml:mo>−</mml:mo><mml:mi>M</mml:mi><mml:mi>I</mml:mi><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>G</mml:mi><mml:mi>r</mml:mi><mml:mi>e</mml:mi><mml:mi>e</mml:mi><mml:mi>n</mml:mi><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mi>I</mml:mi><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mo>.</mml:mo></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p>Here, <inline-formula id="ieqn-13">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-13.png"/><tex-math id="tex-ieqn-13"><![CDATA[${\rm Green}$]]></tex-math><mml:math id="mml-ieqn-13"><mml:mrow><mml:mi mathvariant="normal">G</mml:mi><mml:mi mathvariant="normal">r</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">n</mml:mi></mml:mrow></mml:math>
+</alternatives></inline-formula>, <inline-formula id="ieqn-14">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-14.png"/><tex-math id="tex-ieqn-14"><![CDATA[${\rm MI}{{\rm R}_1}$]]></tex-math><mml:math id="mml-ieqn-14"><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">R</mml:mi></mml:mrow><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula>, and <inline-formula id="ieqn-15">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/15285/ieqn-15.png"/><tex-math id="tex-ieqn-15"><![CDATA[${\rm MI}{{\rm R}_2}$]]></tex-math><mml:math id="mml-ieqn-15"><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">R</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> are the reflectance of green, shortwave infrared 1, and shortwave infrared 2 bands corresponding to the image, respectively.</p>
+<p>Using ArcGIS, 700 verification points were randomly generated in the working area after masking water and snow. With the data on the impervious surface extracted from the Landsat 8 image in 2020, the land use data and the remote sensing imagery of Kunming City in this period were selected, and the accuracy of the extracted impervious surface was determined by artificial visual interpretation. The Kappa coefficient was 0.7582, and the overall accuracy was 89.86%. It demonstrated that the accuracy of the impervious surface met the requirements of subsequent research.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Land-use change analysis</title>
+<p>According to the overlay map of the area proportion of land utilization types (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>), the land in Kunming City between 2000 and 2020 was primarily forest land, accounting for approximately 45% of the total area studied. The total area of forest land, grassland, and cultivated land decreased between 2000 and 2020. From 2000 to 2020, the land use transfer matrix (<xref ref-type="table" rid="table-4">Table 4</xref>) revealed that forest land decreased by 142.28 km<sup>2</sup>, grassland decreased by 328.95 km<sup>2</sup>, and cultivated land decreased by 278.07 km<sup>2</sup>. The growth rate of construction land was high; construction land increased by 708.84 km<sup>2</sup>, and the area proportion increased from 2.3% to 5.7%. The development process of S1 in 2030 was similar to the trend of 2000–2020. Woodland, grassland, and cultivated land in 2030 decreased by 123.86 km<sup>2</sup>, 150.61 km<sup>2</sup>, and 197.358 km<sup>2</sup>, respectively. However, construction land increased by 451.136 km<sup>2</sup>, and water area and unused land remained unchanged. In the S2 scenario, with ecological protection as the leading role, the area of forest land increased by 1.1%, and the growth rate of construction land slowed down. In the S3 scenario, where cultivated land conservation policy and economic development were considered, cultivated land and construction land increased by 55.82 km<sup>2</sup> and 209.28 km<sup>2</sup>, respectively. In comparison, forest land and grassland decreased by 123.96 km<sup>2</sup> and 151.79 km<sup>2</sup>, respectively.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>The overlay map of the area proportion of land utilization in Kunming from 2000 to 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-3.png"/>
+</fig><table-wrap id="table-4">
+<object-id pub-id-type="doi">10.7717/peerj.15285/table-4</object-id>
+<label>Table 4</label>
+<caption>
+<title>Land utilization transfer matrix of Kunming from 2000 to 2020.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/table-4.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th colspan="9">2020</th>
+</tr>
+<tr><th colspan="2">Land use</th>
+<th>Cultivated land</th>
+<th>Forest land</th>
+<th>Grassland</th>
+<th>Water area</th>
+<th>Construction land</th>
+<th>Unused land</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7">2000</td>
+<td>Cultivated land</td>
+<td>3,426.40</td>
+<td>218.07</td>
+<td>196.14</td>
+<td>25.74</td>
+<td>387.23</td>
+<td>0.80</td>
+<td>4,254.38</td>
+</tr>
+<tr>
+<td>Forest land</td>
+<td>230.43</td>
+<td>8,765.48</td>
+<td>441.07</td>
+<td>40.69</td>
+<td>119.74</td>
+<td>1.79</td>
+<td>9,599.20</td>
+</tr>
+<tr>
+<td>Grassland</td>
+<td>268.31</td>
+<td>456.62</td>
+<td>5,154.64</td>
+<td>19.52</td>
+<td>236.11</td>
+<td>6.52</td>
+<td>6,141.72</td>
+</tr>
+<tr>
+<td>Water area</td>
+<td>17.92</td>
+<td>4.07</td>
+<td>6.27</td>
+<td>420.81</td>
+<td>24.26</td>
+<td>0.32</td>
+<td>473.65</td>
+</tr>
+<tr>
+<td>Construction land</td>
+<td>32.26</td>
+<td>11.51</td>
+<td>10.47</td>
+<td>4.20</td>
+<td>425.58</td>
+<td>0.19</td>
+<td>484.21</td>
+</tr>
+<tr>
+<td>Unused land</td>
+<td>0.99</td>
+<td>1.17</td>
+<td>4.18</td>
+<td>0.51</td>
+<td>0.13</td>
+<td>60.91</td>
+<td>67.89</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>3,976.31</td>
+<td>9,456.92</td>
+<td>5,812.77</td>
+<td>511.47</td>
+<td>1,193.05</td>
+<td>70.53</td>
+<td>21,021.05</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>The construction land in the four periods was concentrated in the main urban area of Kunming (Wuhua District, Panlong District, Xishan District, Guandu District, and Chenggong District) and the surrounding areas (eastern Anning City, northern Songming County, and northern Jinning District) (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). According to the statistical yearbook of Yunnan Province in 2020, the main urban area of Kunming comprised 63.17% of the population and generated 73.76% of the GDP of the city. A large population and capital flow led to increased construction, and ecological lands, such as forest land and grassland, decreased considerably. The land utilization types in Luquan County and Xundian County are mainly woodland and grassland, which act as important ecological barriers in Kunming City. The Jiaozi Snow Mountain Nature Reserve is in Luquan County and is an important water conservation ecological reserve in Kunming City. The overall territorial spatial layout of Kunming is: the southern Dianchi Lake basin is the core of the economy and population, and the northern mountainous area is the ecological security area.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>(A–F) Land use changes in Kunming from 2000 to 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-4.png"/>
+</fig>
+</sec>
+<sec>
+<title>Analysis of space and time variation of ecosystem carbon storage</title>
+<p>The carbon storage in Kunming in 2000, 2010, and 2020 was 1.146 × 108 t, 1.139 × 108 t, and 1.120 × 108 t, respectively, indicating a continuous decrease, with a total decrease of 2.619 × 106 t in 20 years. The reduction of carbon storage in 2010–2020 was the highest, with a decrease of 1.917 × 106 t. During this period, the economic development and urbanization of Kunming were rapid, and the demand for land use was relatively high.</p>
+<p>In 2030, carbon storage is predicted to be 1.102 × 108 t in the S1, and the loss of ecosystem carbon stock is greater. The ecosystem carbon storage might decrease by 1.818 × 106 t compared to that in 2020. In 2030, carbon storage is predicted to be 1.136 × 108 t in the S2 scenario, which is 1.601 × 106 t higher than that in 2020, indicating that ecological protection can restore ecosystem carbon storage in Kunming. Finally, carbon storage in the S3 is predicted to be 1.105 × 108 t in 2030, and the ecosystem carbon storage might decrease by 1.479 × 106 t compared to that in 2020, which is less than the carbon loss in the S1. That is, the prediction results of ecosystem carbon storage under different scenarios are S2 &gt; S3 &gt; S1, which is consistent with the prediction results of previous studies (<xref ref-type="bibr" rid="ref-18">He et al., 2022</xref>; <xref ref-type="bibr" rid="ref-40">Wei et al., 2023</xref>). As shown in <xref ref-type="fig" rid="fig-5">Fig. 5</xref>, the terrestrial biogenic carbon, subsurface biogenic carbon, dead organic carbon, and soil carbon in the S2 scenario in 2030 are predicted to be higher than those in the S1 and S3 scenarios. The soil carbon gap was found to be the largest, which was 1.539 × 106 t and 1.250 × 106 t higher than the soil carbon in the S1 and S3 scenarios, respectively. The terrestrial biogenic carbon storage, belowground carbon storage, and dead organic carbon storage in the S1 and S3 scenarios were similar. In contrast, the soil carbon storage in S3 was higher than that in S1, which was consistent with the changes in total carbon storage.</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Changes of carbon stock in Kunming under three development scenarios in 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-5.png"/>
+</fig>
+<p>The overall content of ecosystem carbon stock in Kunming is high, showing a ‘north high, south low’ distribution (<xref ref-type="fig" rid="fig-6">Figs. 6</xref> and <xref ref-type="fig" rid="fig-7">7</xref>). Carbon storage is primarily concentrated in Luquan County, Xundian County, and Yiliang County to the east and west of the research area, respectively, whereas the main urban area of Kunming City to the south of the study area, is highly urbanized and has less carbon stored. From 2000 to 2030, the main urban area of Kunming experienced the greatest change in the spatial layout of carbon storage. According to our findings using the S1 scenario, construction land in the main urban area expanded dramatically from 2000 to 2030, resulting in a loss of regional ecosystem carbon storage every year due to rapid urbanization. Under the S2 scenario’s ecologically protective development, the carbon stock in Kunming’s main urban area increased in 2030 compared to 2020. When considering the cultivated land conservation policy, eco-friendly policy, and economic development, carbon storage in the main urban area of Kunming was lower than that in 2020, but the reduction range was narrower than that in the S1 scenario. The results showed that carbon stock in the main urban area of Kunming could strongly affect the change in the ecosystem carbon storage in the whole city.</p>
+<fig id="fig-6">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-6</object-id>
+<label>Figure 6</label>
+<caption>
+<title>Changes in carbon storage in Kunming from 2000 to 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-6.png"/>
+</fig>
+<fig id="fig-7">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-7</object-id>
+<label>Figure 7</label>
+<caption>
+<title>(A–F) Spatial distribution of carbon storage in Kunming from 2000 to 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-7.png"/>
+</fig>
+</sec>
+<sec>
+<title>Effects of land-use conversion on carbon storage</title>
+<p>Land utilization/land cover significantly affects vegetation cover and biomass. It is also the primary purpose for distributing and changing carbon stock in regional terrestrial ecosystems (<xref ref-type="bibr" rid="ref-54">Zhang et al., 2022b</xref>). The dynamic changes in carbon stock induced by the changes in main land use types in Kunming from 2000 to 2030 are shown in <xref ref-type="fig" rid="fig-8">Fig. 8</xref>. From 2000 to 2030, according to the S1 scenario, carbon storage decreased mainly because of the shift from forest land and grassland to other land use types. Although the policy of returning farmland to the forest has partly promoted the transfer of cultivated land to forest land, the expansion of construction land encroaches on forest land, leading to a sharp decrease in the ecosystem carbon reserve. Under the S2 scenario, in 2030, the increase in ecological lands, such as forest land and grassland, was predicted to be the key reason for the increase in carbon stock. Under the S3 comprehensive development scenario, in 2030, the cultivated land conservation policy promoted increased cultivated land carbon storage, while the forest land and grassland carbon stock decreased. The carbon density of forest land and grassland was higher than that of cultivated land, resulting in a decrease in the overall ecosystem carbon storage. The outcomes suggested that the conversion in land utilization type is consistent with the changes in the ecosystem carbon stock, and land use/land cover directly affects ecosystem carbon stock.</p>
+<fig id="fig-8">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-8</object-id>
+<label>Figure 8</label>
+<caption>
+<title>Changes of main land types and carbon storage in Kunming from 2000 to 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-8.png"/>
+</fig>
+</sec>
+<sec>
+<title>Spatial correlation analysis of ecosystem carbon storage</title>
+<p>Spatial correlation is segmented into spatial global autocorrelation and spatial local autocorrelation (<xref ref-type="bibr" rid="ref-30">Luo, Ai &amp; Jia, 2022</xref>). In this study, Moran’s I index was employed to represent the spatial global autocorrelation of ecosystem carbon storage in Kunming (<xref ref-type="bibr" rid="ref-42">Xiong et al., 2021</xref>) and Getis-Ord Gi * was employed to measure the spatial local autocorrelation (<xref ref-type="bibr" rid="ref-51">Zhang et al., 2020a</xref>). This study divided Kunming into a 2 km × 2 km grid, and the carbon storage data in the three development scenarios for 2000–2020 and 2030 were linked to the grid. Based on this scale, the spatial correlation of carbon stock in Kunming was analyzed.</p>
+<p>In terms of global autocorrelation, the spatial Moran’s I values of carbon storage in Kunming were 0.5583 in 2000, 0.5546 in 2010, 0.5635 in 2020, 0.5900 in 2030 S1, 0.5672 in 2030 S2, and 0.5763 in 2030 S3, indicating a significant spatial global autocorrelation in carbon storage in Kunming (all values were greater than 0). The results of the carbon storage hotspot analysis under the three development scenarios in Kunming from 2000 to 2030 are shown in <xref ref-type="fig" rid="fig-9">Fig. 9</xref> for local autocorrelation. From 2000 to 2020, the area designated as the hotspot of carbon stock in Kunming reduced, while the area considered to be a coldspot increased. Except for the northeast of Dongchuan District, the coldspot area in other areas, especially in the main urban area of Kunming, increased. In the last 20 years, the hotspots of carbon stock in the research area were scattered in the northwestern, western, central, and eastern regions, including the east and west sides of Luquan County, Xishan District, the western part of Songming County, the northern part of Yiliang County, and the eastern part of Guandu District. Carbon storage was not only higher in these areas, but high-value areas of carbon stock were also gathered in these areas, primarily situated in zones with less construction land, excellent plant coverage, and more ecological land. The coldspot area was mostly distributed in the northeastern, central, and southern locations of Kunming, <italic>i.e</italic>., the northeastern part of Dongchuan District, the eastern part of Songming County, the eastern part of Yiliang County, the northern and western parts of Shilin County, and the central part of the main urban area of Kunming City. These areas underwent rapid land development, had complex topography and geomorphology, and fragmented distribution of ecological land, forming an area with low carbon storage. In the S1 scenario, in 2030, the coldspot area in the main urban areas of Anning City and Kunming City increased. In the main urban area, the coldspot area in the S2 scenario was slightly smaller than in 2020. In the S3 scenario, the coldspot area in 2030 was similar to that in 2020, indicating that eco-friendly and cultivated land protection policies were beneficial in reducing the loss of ecosystem carbon stock in Kunming City.</p>
+<fig id="fig-9">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-9</object-id>
+<label>Figure 9</label>
+<caption>
+<title>(A–F) Getis-Ord Gi * analysis of carbon storage in Kunming from 2000 to 2030.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-9.png"/>
+</fig>
+</sec>
+<sec>
+<title>Research on driving factors of ecosystem carbon storage</title>
+<sec>
+<title>Correlation between ecosystem carbon storage and impact factors</title>
+<p>Based on the spatial-temporal allocation and variation of carbon stock in Kunming, in this study, we performed correlation analysis (<xref ref-type="bibr" rid="ref-5">Chen et al., 2022b</xref>; <xref ref-type="bibr" rid="ref-52">Zhang &amp; Gu, 2022</xref>) to determine the effects of natural factors and socioeconomic factors on carbon storage. Taking the data on impact factors and carbon storage in 2020 as an example, the data were set to a grid of 2 km × 2 km according to the study area using the grid method. In total, 5,153 grid points were generated. The impact factors included impervious surface coverage, GDP, population density, altitude, NDVI, and annual average precipitation.</p>
+<p>The results of Pearson’s correlation coefficient between carbon storage and various influencing factors in Kunming are shown in <xref ref-type="table" rid="table-5">Table 5</xref>. Carbon storage was moderately negative correlated with impervious surface coverage, weakly negatively correlated with GDP and population density, strongly positively correlated with NDVI, and weakly positively correlated with altitude and annual rainfall. The results showed that at a grid scale of 2 km × 2 km, impervious surface and vegetation had the greatest impact on carbon storage in Kunming. Carbon storage was negatively correlated with impervious surface coverage and positively correlated with NDVI.</p>
+<table-wrap id="table-5">
+<object-id pub-id-type="doi">10.7717/peerj.15285/table-5</object-id>
+<label>Table 5</label>
+<caption>
+<title>Pearson correlation coefficient between carbon storage and impact factors in Kunming.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/table-5.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Impact factors</th>
+<th>Impervious surface percentage</th>
+<th>GDP</th>
+<th>Population density</th>
+<th>Elevation</th>
+<th>NDVI</th>
+<th>Average annual rainfall</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Carbon storage</td>
+<td>−0.530</td>
+<td>−0.2</td>
+<td>−0.215</td>
+<td>0.339</td>
+<td>0.689</td>
+<td>0.225</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+</sec>
+<sec>
+<title>Bivariate spatial autocorrelation analysis of carbon storage and the influencing factors</title>
+<p>Depending on the results of Pearson’s correlation analysis, two indicators that had the strongest relevance with the carbon storage of the ecosystem in Kunming were selected, <italic>i.e</italic>., impervious surface coverage and NDVI, and bivariate spatial autocorrelation analyses were performed between the two indicators, and carbon storage data. The bivariate ‘Moran’s I index represents bivariate global spatial autocorrelation. A total of −0.379 was the bivariate ‘Moran’s I index of impervious surface coverage and ecosystem carbon storage. The ‘Moran’s I index’s negative value indicated a global negative correlation between impervious surface coverage and ecosystem carbon storage. The bivariate NDVI and ecosystem carbon storage index, Moran’s I, was 0.450. The presence of a positive ‘Moran’s I index value indicated a global positive correlation between NDVI and ecosystem carbon storage.</p>
+<p><xref ref-type="fig" rid="fig-10">Figure 10a</xref> depicts the bivariate LISA cluster map of impervious surface coverage and carbon storage in the Kunming ecosystem, which reflects the two’s local agglomeration characteristics in space. The impervious surface coverage and carbon storage of the ecosystem showed opposite values of the two-pole agglomeration characteristics in space, which mainly were high-low agglomeration and low-high agglomeration, <italic>i.e</italic>., carbon stock in the area with low impervious surface coverage was higher, and carbon stock in the area with high impervious surface coverage was lower. The bivariate LISA clustering results of NDVI and ecosystem carbon storage in Kunming (<xref ref-type="fig" rid="fig-10">Fig. 10b</xref>) showed that NDVI and ecosystem carbon storage had a similar value for the polar agglomeration characteristics in space, mainly high-high agglomeration and low-low agglomeration. Thus, the regional ecosystem carbon storage with higher vegetation coverage was higher, and the regional ecosystem carbon storage with lower value coverage was lower. These results suggested a local negative correlation between impervious surface coverage and ecosystem carbon storage and a local positive correlation between NDVI and ecosystem carbon storage.</p>
+<fig id="fig-10">
+<object-id pub-id-type="doi">10.7717/peerj.15285/fig-10</object-id>
+<label>Figure 10</label>
+<caption>
+<title>Bivariate LISA cluster map of carbon storage and influencing factors in Kunming.</title>
+<p>(A) Bivariate LISA cluster map of impervious surface coverage and carbon storage. (B) Bivariate LISA cluster map of NDVI and carbon storage.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/fig-10.png"/>
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<sec>
+<title>Contribution of land use driving factors</title>
+<p>Social and natural factors mainly drive land use change (<xref ref-type="bibr" rid="ref-15">Gong et al., 2022</xref>). Social factors include population density, GDP, distance to road, distance to the government office, <italic>etc</italic>. Natural factors include terrain factors, such as slope and elevation, and climatic factors, such as mean annual rainfall and mean annual temperature. In this study, 11 driving factors of social economy and climate were selected to forecast land utilization in 2030, and the contribution of each driving factor was evaluated (<xref ref-type="table" rid="table-6">Table 6</xref>). A higher contribution of a factor indicated a greater impact of the driving factor on local land use evolution.</p>
+<table-wrap id="table-6">
+<object-id pub-id-type="doi">10.7717/peerj.15285/table-6</object-id>
+<label>Table 6</label>
+<caption>
+<title>Contribution of driving factors of land use.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15285/table-6.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Driving factors</th>
+<th colspan="6">Land use</th>
+</tr>
+<tr><th/>
+<th>Cultivated land</th>
+<th>Forest land</th>
+<th>Grassland</th>
+<th>Water area</th>
+<th>Construction land</th>
+<th>Unutilized land</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DEM</td>
+<td>0.111</td>
+<td>0.183</td>
+<td>0.1</td>
+<td>0.136</td>
+<td>0.085</td>
+<td>0.111</td>
+</tr>
+<tr>
+<td>GDP</td>
+<td>0.166</td>
+<td>0.091</td>
+<td>0.133</td>
+<td>0.187</td>
+<td>0.143</td>
+<td>0.166</td>
+</tr>
+<tr>
+<td>Distance to government</td>
+<td>0.093</td>
+<td>0.091</td>
+<td>0.104</td>
+<td>0.022</td>
+<td>0.104</td>
+<td>0.093</td>
+</tr>
+<tr>
+<td>Distance to highway</td>
+<td>0.091</td>
+<td>0.075</td>
+<td>0.092</td>
+<td>0.028</td>
+<td>0.089</td>
+<td>0.091</td>
+</tr>
+<tr>
+<td>Population density</td>
+<td>0.104</td>
+<td>0.125</td>
+<td>0.117</td>
+<td>0.168</td>
+<td>0.154</td>
+<td>0.104</td>
+</tr>
+<tr>
+<td>Average annual rainfall</td>
+<td>0.089</td>
+<td>0.081</td>
+<td>0.089</td>
+<td>0.069</td>
+<td>0.111</td>
+<td>0.089</td>
+</tr>
+<tr>
+<td>Distance to main road</td>
+<td>0.089</td>
+<td>0.063</td>
+<td>0.08</td>
+<td>0.017</td>
+<td>0.063</td>
+<td>0.089</td>
+</tr>
+<tr>
+<td>Distance to water system</td>
+<td>0.079</td>
+<td>0.071</td>
+<td>0.104</td>
+<td>0.097</td>
+<td>0.069</td>
+<td>0.079</td>
+</tr>
+<tr>
+<td>Slope</td>
+<td>0.078</td>
+<td>0.117</td>
+<td>0.084</td>
+<td>0.2</td>
+<td>0.096</td>
+<td>0.078</td>
+</tr>
+<tr>
+<td>Soil type</td>
+<td>0.022</td>
+<td>0.018</td>
+<td>0.015</td>
+<td>0.046</td>
+<td>0.023</td>
+<td>0.022</td>
+</tr>
+<tr>
+<td>Mean annual temperature</td>
+<td>0.079</td>
+<td>0.084</td>
+<td>0.083</td>
+<td>0.031</td>
+<td>0.122</td>
+<td>0.079</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>The driving factors with the highest contribution to cultivated land were GDP (0.166), DEM (0.111), and population density (0.104). Cultivated land expansion is inextricably linked to population and economic development because rapid population and economic growth will lead to greater food demand (<xref ref-type="bibr" rid="ref-63">Liao et al., 2021</xref>). Climate conditions differed depending on altitude. Agricultural farming was closely linked to climatic conditions, so cultivated lands were generally distributed in low-altitude farming areas. DEM (0.183), population density (0.125), and slope were the factors that had the greatest impact on forest land (0.117). The slope and altitude were important topographic factors influencing vegetation growth. In general, areas with a small slope and a low altitude are better suited for vegetation growth. Higher population density areas have less forest land area, and population density limits forest land expansion. GDP (0.133), population density (0.117), and distance to the water system (0.104) were the driving factors with the greatest contribution to grassland. The GDP and population density restricted grassland expansion, while the water system promoted grassland expansion. The area closer to the water system was more prone to grassland expansion. The driving factors with the highest contribution to construction land were population density (0.154), GDP (0.143), and the mean annual temperature (0.122). A greater population density and a higher GDP were associated with a greater demand for and more expansion of construction land. The mean annual temperature affected the development of construction land by changing the population density. The driving factors with the highest contribution to the unused land were DEM (0.306), the mean annual temperature (0.199), and the mean annual rainfall (0.156). The climate in high-altitude areas is harsh, and the perennial temperature is low, which is unfavorable for vegetation growth and human habitation.</p>
+</sec>
+<sec>
+<title>Suggestions on carbon sink function restoration and governance</title>
+<p>The period from 2000 to 2020 was an important stage of economic development in Kunming. In the last 20 years, the gross domestic product increased from 6,262.853 to 67,337.909 million yuan, the population increased from 4.8094 to 8.463 million, and the construction land expanded from 484.21 to 1,193.05 km<sup>2</sup>. In the last 20 years, the area of forest land and grassland has decreased significantly, resulting in a decrease in ecosystem carbon storage in Kunming. Taking timely measures to protect the ecosystem is necessary to reduce the loss of carbon reserves, according to the predictions of the trend continuation scene, ecological protection scene, and comprehensive development scenario. According to the “14<sup>th</sup> Five-Year Plan for National Economic and Social Development of Yunnan Province and the Outline of the Visionary Goals for the Year 2035”, Yunnan Province focused on “making new progress in the building of eco-civilization by 2025, and building the vanguard of China’s ecological civilization by 2035” (<xref ref-type="bibr" rid="ref-64">People’s Government of Yunnan Province, 2021</xref>). Responding to climate change and achieving carbon peak and carbon neutrality are also necessary for future development. Kunming needs to incorporate the dual-carbon goal into the overall future development and foster a comprehensive greener shift in environmental development.</p>
+<p>Based on the distribution of carbon stock in Kunming from 2000 to 2030 (<xref ref-type="fig" rid="fig-7">Fig. 7</xref>), Luquan County, Xundian County, and Dongchuan District in the north and Yiliang County and Shilin County in the southeast were found to be the essential sources of carbon storage in Kunming. Luquan County is a high-altitude mountain area; the mountain area takes up 98.4% of the whole area of the county, the mountain slope is large, and the forest coverage rate is around 55.4%. Considering that Luquan County is dominated by agricultural development, based on these advantages, forestry, agricultural development, and ecological green development can be organically combined to carry out characteristic economic forests, fruit trees, and other afforestation. Focusing on the positioning of the ecological containment function area of Kunming, Luquan County, Xundian County, and Dongchuan District needs to strengthen ecological conservation construction and improve the protection system of nature reserves and forest parks. Strive to build the Jiaozi Snow Mountain Nature Reserve as an important water source conservation area and ecological protection guard not only in Kunming but also in the middle and upper reaches of the Yangtze River. These areas should build a strong ecological security defense line in the north of Kunming. As an ‘ecological civilization county of Yunnan Province’, Shilin County should lead the construction of the national ecological civilization and help Yunnan in achieving its target of ‘double carbon’. Considering that the tourism industry is important in Shilin County, eco-tourism should be promoted to construct an ecological civilization. Shilin County, as a typical karst area, should actively solve the problem of restoration of ecological vegetation and strengthen the implementation of comprehensive control of returning farmland to forest and rocky desertification. Yiliang County has an abundance of forest resources and species diversity. The forest coverage rate of the county is 46.2%. Yiliang County can utilize its resource advantages, strengthen the protection of forest resources based on the current condition of forestry resources. Through the construction of an economic forest and flower planting base, simultaneously develop an ecological civilization and forestry economy and build an ecological security barrier with Shilin County in the southeast of Kunming. During the period of 2000 to 2030, the carbon storage in the main urban area of Kunming City, especially in the Dianchi Lake Basin, was found to decrease every year. Promoting the ecological management of the Dianchi Lake Basin is imperative for the development of Kunming City. The main urban area of Kunming City is located in the red line of water conservation and eco-protection of plateau lakes and the upper reaches of the Niulan River. Thus, its resource advantages need to be fully utilized to drive the holistic and sustainable development of the plateau lake basin. It is also necessary to improve the ‘three lines and three zones’ delineation standards, strictly control the Dianchi Lake Basin’s wetland parks and basic farmlands, conduct rational land and space planning, and improve the efficiency of land resource utilization. Ways to meet the needs of urban expansion while also protecting the environment must be determined urgently for the development of Kunming City. Solving this problem is also the key to achieving the dual carbon goals and the establishment of eco-civilization in Yunnan Province.</p>
+</sec>
+<sec>
+<title>Research prospect</title>
+<p>With the PLUS and InVEST models, the space-time changes in carbon storage in Kunming City were predicted and evaluated. The influence of land utilization conversion on carbon stock was analyzed. The correlation between impervious surface coverage and vegetation index, and regional ecosystem carbon storage was analyzed. The findings provided new ideas for sustainable development in the future. This study, however, had some limitations. First, the InVEST model’s carbon storage calculation module had some flaws. Many factors influence the ecosystem’s carbon stock. The InVEST model ignored the effects of climate, topography, hydrology, and other conditions in favor of focusing solely on land use change. Furthermore, the model ignored the effect of interannual changes in carbon density. Second, when using the PLUS model for future land cover, only 11 driving factors were considered; however, the actual land utilization evolution is influenced by a large number of physical and human factors. In future studies, the measured data might be used to determine the dynamic carbon density. Besides land use, other influencing factors might be considered to comprehensively evaluate the regional ecosystem carbon storage. While performing land-use simulations, we should select as many driving factors as possible to predict the future requirement of land utilization and improve the prediction accuracy of future land utilization patterns.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>Based on the data on land use and driving factors from 2000 to 2020, the PLUS and InVEST models were used to monitor and study the time-space dynamics of land and ecosystem carbon storage in Kunming from 2000 to 2030. The findings illustrated the following: (1) From 2000 to 2020, the land-use types in Kunming were mainly forest land. The total area of forest land, grassland, and cultivated land decreased, and construction land increased. In the S1, the construction land was predicted to expand greatly in 2030. In S2, the forest land area was predicted to increase greatly. The S3 predicted that cultivated land area would increase slightly, construction land would increase moderately, and forest and grassland would decrease slightly. (2) Carbon storage in Kunming was found to be ‘high in the north and low in the south’. The carbon storage of the ecosystem was found to be 1.146 × 108 t, 1.139 × 108 t, and 1.120 × 108 t in 2000, 2010, and 2020, respectively, indicating a continuous decrease. Carbon storage is expected to be 1.102 × 108 t in S1, 1.136 × 108 t in S2, and 1.105 × 108 t in S3 by 2030. (3) Kunming City has a significant spatial autocorrelation of carbon storage. In the local space, the ecosystem carbon storage in Kunming City from 2000 to 2020 was mainly characterized by the expansion of the coldspot area. In 2030, the coldspot area was predicted to increase in the S1 scenario, slightly decrease in the S2 scenario, and be similar to 2020 in the S3 scenario. (4) A global and local negative correlation was found between impervious surface coverage and ecosystem carbon storage. A global and local positive correlation was found between NDVI and ecosystem carbon storage. (5) The carbon reserves calculation module of InVEST model has some limitations. The influence of other driving factors was ignored while predicting future land use. Therefore, in future research, the measured data can be used to determine the dynamic carbon density, and the effects of other factors, except for land use, on the carbon density can be considered. When simulating future land use, as many driving factors as possible should be selected to simulate the future land use demand.</p>
+</sec>
+</body>
+<back>
+<ack>
+<p>The authors gratefully acknowledge the support of their families and teachers in conducting this comprehensive study.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Yimin Li</xref> conceived and designed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Xue Yang</xref> conceived and designed the experiments, performed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Bowen Wu</xref> performed the experiments, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Juanzhen Zhao</xref> analyzed the data, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Wenxue Jiang</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Xianjie Feng</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-7">
+<p><xref ref-type="contrib" rid="author-7">Yuanting Li</xref> analyzed the data, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data is available at figshare: Yang, Xue (2023): Spatio-temporal evolution and prediction of carbon storage in Kunming. figshare. Journal contribution. <uri xlink:href="https://doi.org/10.6084/m9.figshare.22250713.v1">https://doi.org/10.6084/m9.figshare.22250713.v1</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Cai &amp; Peng (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cai</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Peng</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Exploring spatiotemporal variation of carbon storage driven by land use policy in the Yangtze River delta region</article-title>
+<source>Land</source>
+<year iso-8601-date="2021">2021</year>
+<volume>10</volume>
+<issue>11</issue>
+<fpage>1120</fpage>
+<pub-id pub-id-type="doi">10.3390/land10111120</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Cao (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cao</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Geogovernance of national land use based on coupled human and natural systems</article-title>
+<source>Journal of Natural Resources</source>
+<year iso-8601-date="2019">2019</year>
+<volume>34</volume>
+<issue>10</issue>
+<fpage>2051</fpage>
+<lpage>2059</lpage>
+<pub-id pub-id-type="doi">10.31497/zrzyxb.20191003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Chen et al. (2022a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Philippe</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Lv</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Frédéric</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Yuan</surname>
+<given-names>WP</given-names>
+</name>
+<name>
+<surname>Wouter</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Challenges to China’s carbon neutrality in 2060: current status and prospects</article-title>
+<source>Science Bulletin</source>
+<year iso-8601-date="2022a">2022a</year>
+<volume>67</volume>
+<issue>20</issue>
+<fpage>2030</fpage>
+<lpage>2035</lpage>
+<pub-id pub-id-type="doi">10.1016/j.scib.2022.08.025</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Chen et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Bai</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Transition of “production-living-ecological” space and its carbon storage effect under the vision of carbon neutralization: a case study of Guizhou Province</article-title>
+<source>China Land Science</source>
+<year iso-8601-date="2021">2021</year>
+<volume>35</volume>
+<issue>11</issue>
+<fpage>101</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="doi">10.11994/zgtdkx.20211112.143927</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Chen et al. (2022b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Ou</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Response relationship between urban spatial pattern and thermal environment: a case study of Hefei</article-title>
+<source>Environmental Science</source>
+<year iso-8601-date="2022b">2022b</year>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.13227/j.hjkx.202207042</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Cui et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cui</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Cai</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Xi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Ecological security assessment and multi-scenario simulation analysis of Zhejiang Greater Bay Area based on LUCC</article-title>
+<source>Acta Ecologica Sinica</source>
+<year iso-8601-date="2022">2022</year>
+<volume>42</volume>
+<issue>6</issue>
+<fpage>2136</fpage>
+<lpage>2148</lpage>
+<pub-id pub-id-type="doi">10.5846/stxb202104150978</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Ding et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ding</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Bu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Ye</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Multi-scenario analysis of habitat quality in the Yellow River Delta by coupling FLUS with InVEST model</article-title>
+<source>International Journal of Environmental Research and Public Health</source>
+<year iso-8601-date="2021">2021</year>
+<volume>18</volume>
+<issue>5</issue>
+<fpage>2389</fpage>
+<pub-id pub-id-type="doi">10.3390/ijerph18052389</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Ding et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Gui</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Ecosystem carbon storage around Hangzhou Bay based on InVEST model and PLUS model</article-title>
+<source>Environmental Science</source>
+<year iso-8601-date="2022">2022</year>
+<fpage>1</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="doi">10.13227/j.hjkx.202204080</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Dorendorf et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dorendorf</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Eschenbach</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Schmidt</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Jensen</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Both tree and soil carbon need to be quantified for carbon assessments of cities</article-title>
+<source>Urban Forestry &amp; Urban Greening</source>
+<year iso-8601-date="2015">2015</year>
+<volume>14</volume>
+<issue>3</issue>
+<fpage>447</fpage>
+<lpage>455</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ufug.2015.04.005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Duan, Zhang &amp; Liu (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Duan</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Impervious surface extraction and spatial difference analysis of typical cities in Xinjiang based on Sentinel-2A/B</article-title>
+<source>Journal of Remote Sensing</source>
+<year iso-8601-date="2022">2022</year>
+<volume>26</volume>
+<issue>07</issue>
+<fpage>1469</fpage>
+<lpage>1482</lpage>
+<pub-id pub-id-type="doi">10.11834/jrs.20210174</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Fang et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ai</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Liang</surname>
+<given-names>Q</given-names>
+</name>
+</person-group>
+<article-title>Research on evaluation of the importance of ecological protection in Kunming city oriented to spatial planning</article-title>
+<source>Journal of China Agricultural University</source>
+<year iso-8601-date="2021">2021</year>
+<volume>26</volume>
+<issue>3</issue>
+<fpage>152</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="doi">10.11841/j.issn.1007-4333.2021.03.16</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Gao et al. (2022a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Guo</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Hou</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Synergistic effects of climate change and phenological changes on agricultural production and future food production risks in the black soil region of Northeast China</article-title>
+<source>Geography</source>
+<year iso-8601-date="2022a">2022a</year>
+<volume>77</volume>
+<issue>07</issue>
+<fpage>1681</fpage>
+<lpage>1700</lpage>
+<pub-id pub-id-type="doi">10.11821/dlxb202207008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Gao et al. (2022b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gao</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Tao</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Leng</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Multi-scenario simulation and ecological risk analysis of land use based on the PLUS model: a case study of Nanjing</article-title>
+<source>Sustainable Cities and Society</source>
+<year iso-8601-date="2022b">2022b</year>
+<volume>85</volume>
+<fpage>104055</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scs.2022.104055</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Gogoi, Ahirwal &amp; Sahoo (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gogoi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Ahirwal</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sahoo</surname>
+<given-names>UK</given-names>
+</name>
+</person-group>
+<article-title>Evaluation of ecosystem carbon storage in major forest types of Eastern Himalaya: implications for carbon sink management</article-title>
+<source>Journal of Environmental Management</source>
+<year iso-8601-date="2022">2022</year>
+<volume>302</volume>
+<fpage>113972</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvman.2021.113972</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Gong et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gong</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Duan</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Mao</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Assessing the impact of land use and changes in land cover related to carbon storage by linking trajectory analysis and InVEST models in the Nandu River Basin on Hainan Island in China</article-title>
+<source>Frontiers in Environmental Science</source>
+<year iso-8601-date="2022">2022</year>
+<volume>10</volume>
+<fpage>15</fpage>
+<pub-id pub-id-type="doi">10.3389/fenvs.2022.1038752</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>He et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>He</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Fan</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Geng</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Tian</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Spatio-temporal variation and prediction of regional carbon storage in Zhongyuan urban agglomeration</article-title>
+<source>Environmental Sciences of China</source>
+<year iso-8601-date="2022">2022</year>
+<volume>42</volume>
+<issue>06</issue>
+<fpage>2965</fpage>
+<lpage>2976</lpage>
+<pub-id pub-id-type="doi">10.19674/j.cnki.issn1000-6923.20220209.002</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Jia, Wang &amp; Zhao (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jia</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Make Kunming an important ecological security barrier and green development demonstration zone in the upper reaches of the Yangtze River</article-title>
+<source>Kunming Daily</source>
+<year iso-8601-date="2022">2022</year>
+<volume>2022</volume>
+<issue>1</issue>
+<pub-id pub-id-type="doi">10.28508/n.cnki.nkmrb.2022.001736</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Ke &amp; Tang (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ke</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Impact of cascading processes of urban expansion and cropland reclamation on the ecosystem of a carbon storage service in Hubei Province,China</article-title>
+<source>Acta Ecologica Sinica</source>
+<year iso-8601-date="2019">2019</year>
+<volume>39</volume>
+<issue>2</issue>
+<fpage>672</fpage>
+<lpage>683</lpage>
+<pub-id pub-id-type="doi">10.5846/stxb201712042177</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Kong et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kong</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Fu</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Effect of land use and cover change on carbon stock dynamics in a typical desert oasis</article-title>
+<source>Acta Ecologica Sinica</source>
+<year iso-8601-date="2018">2018</year>
+<volume>38</volume>
+<issue>21</issue>
+<fpage>7801</fpage>
+<lpage>7812</lpage>
+<pub-id pub-id-type="doi">10.5846/stxb201711302156</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>La et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>La</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Gou</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Xiao</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Spatiotemporal dynamics and scenarios analysis on trade-offs between ecosystem service in Three Gorges Reservoir Area: a case study of Zigui County</article-title>
+<source>Journal of Ecology and Rural Environment</source>
+<year iso-8601-date="2021">2021</year>
+<volume>37</volume>
+<issue>11</issue>
+<fpage>1368</fpage>
+<lpage>1377</lpage>
+<pub-id pub-id-type="doi">10.19741/j.issn.1673-4831.2021.0224</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Li et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Jia</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>He</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Raza</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Zamanian</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020</article-title>
+<source>Agriculture Ecosystems &amp; Environment</source>
+<year iso-8601-date="2022">2022</year>
+<volume>327</volume>
+<fpage>107824</fpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2021.107824</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Li et al. (2020a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Dong</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Exploring the impacts of urban growth on carbon storage under integrated spatial regulation: a case study of Wuhan, China</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2020a">2020a</year>
+<volume>111</volume>
+<issue>3</issue>
+<fpage>106064</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2020.106064</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Li et al. (2020b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Xia</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Evaluation of carbon storage on terrestrial ecosystem in Hebei Province based on InVEST model</article-title>
+<source>Journal of Ecology and Rural Environment</source>
+<year iso-8601-date="2020b">2020b</year>
+<volume>36</volume>
+<issue>7</issue>
+<fpage>854</fpage>
+<lpage>861</lpage>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Li et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>RW</given-names>
+</name>
+<name>
+<surname>Ye</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>GD</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Carbon storage estimation and driving force analysis of the Tibetan Plateau based on InVEST model</article-title>
+<source>Grassland Journal</source>
+<year iso-8601-date="2021">2021</year>
+<volume>29</volume>
+<issue>S1</issue>
+<fpage>43</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="doi">10.11733/j.issn.1007-0435.2021.Z1.006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Liang et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Guan</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Clarke</surname>
+<given-names>KC</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Understanding the drivers of sustainable land expansion using a patch-generating land use simulation (PLUS) model: a case study in Wuhan, China</article-title>
+<source>Computers Environment and Urban Systems</source>
+<year iso-8601-date="2021">2021</year>
+<volume>85</volume>
+<issue>11</issue>
+<fpage>101569</fpage>
+<pub-id pub-id-type="doi">10.1016/j.compenvurbsys.2020.101569</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Liao et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liao</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Fan</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Differences in and driving forces of cultivated land expansion in the Manas River Basin oasis, Xinjiang</article-title>
+<source>Chinese Journal of Eco-Agriculture</source>
+<year iso-8601-date="2021">2021</year>
+<volume>29</volume>
+<issue>6</issue>
+<fpage>1008</fpage>
+<lpage>1017</lpage>
+<pub-id pub-id-type="doi">10.13930/j.cnki.cjea.200646</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Lin et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lin</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Spatial correlation and prediction of carbon storage in Guangdong Province based on InVEST-PLUS model</article-title>
+<source>Environmental Sciences in China</source>
+<year iso-8601-date="2022">2022</year>
+<fpage>1</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.19674/j.cnki.issn1000-6923.2022.0172</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Luo, Ai &amp; Jia (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Luo</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ai</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Jia</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Consistency evaluation of land use distribution pattern supported by spatial autocorrelation</article-title>
+<source>Geomatics and Information Science of Wuhan University</source>
+<year iso-8601-date="2022">2022</year>
+<volume>47</volume>
+<issue>7</issue>
+<fpage>1017</fpage>
+<lpage>1024</lpage>
+<pub-id pub-id-type="doi">10.13203/j.whugis20200179</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>People’s Government of Yunnan Province (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>People’s Government of Yunnan Province</collab>
+</person-group>
+<article-title>Notice of the yunnan provincial people’s government on printing and distributing the 14th five-year plan for the national economic and social development of yunnan province and the 2035 vision outline, yunnan provincial people’s government</article-title>
+<year iso-8601-date="2021">2021</year><uri>https://www.yn.gov.cn/zwgk/zcwj/zxwj/202102/t20210209_217052.html</uri>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Rukeya et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rukeya</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Alimujiang</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Hirinayi</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Wei</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liang</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Spatio-temporal variation and prediction of carbon storage in urban agglomeration on the Northern slope of Tianshan Mountains</article-title>
+<source>Environmental Science of China</source>
+<year iso-8601-date="2022">2022</year>
+<fpage>1</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="doi">10.19674/j.cnki.issn1000-6923.20220914.030</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Sarkodie, Owusu &amp; Leirvik (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sarkodie</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Owusu</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Leirvik</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Global effect of urban sprawl, industrialization, trade and economic development on carbon dioxide emissions</article-title>
+<source>Environmental Research Letters</source>
+<year iso-8601-date="2020">2020</year>
+<volume>15</volume>
+<issue>3</issue>
+<fpage>034049</fpage>
+<pub-id pub-id-type="doi">10.1088/1748-9326/ab7640</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Shao et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shao</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Xia</surname>
+<given-names>CY</given-names>
+</name>
+<name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Spatiotemporal evolution and prediction of ecosystem carbon storage in Beijing based on FLUS and InVEST models</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2022">2022</year>
+<volume>23</volume>
+<fpage>1</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.5846/stxb202201100094</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Song et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Song</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Feng</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Ji</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Peng</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Simulation of land use change in oasis of arid areas based on Landsat images from 1990 to 2019</article-title>
+<source>Remote Sensing for Natural Resources</source>
+<year iso-8601-date="2022">2022</year>
+<volume>34</volume>
+<issue>1</issue>
+<fpage>198</fpage>
+<lpage>209</lpage>
+<pub-id pub-id-type="doi">10.6046/zrzyyg.2021042</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Sun &amp; Liang (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sun</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Multi-scenario simulation of land use dynamic in the Loess Plateau using an improved Markov-CA model</article-title>
+<source>Journal of Geo-information Science</source>
+<year iso-8601-date="2021">2021</year>
+<volume>23</volume>
+<issue>5</issue>
+<fpage>825</fpage>
+<lpage>836</lpage>
+<pub-id>10.12082/dqxxkx.2021.200283</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Tang, Xu &amp; Ai (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ai</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Carbon storage and carbon density of forest vegetation and their spatial distribution pattern in Yunnan Province</article-title>
+<source>Forestry Resource Management</source>
+<year iso-8601-date="2019">2019</year>
+<volume>05</volume>
+<fpage>37</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="doi">10.13466/j.cnki.lyzygl.2019.05.008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Tong, Zhang-Guo &amp; Wei (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tong</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zhang-Guo</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Wei</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Remote sensing estimation of the carbon balance ability based on the object-oriented method for Guangxi Youjiang District</article-title>
+<source>Journal of Geo-Information Science</source>
+<year iso-8601-date="2016">2016</year>
+<volume>18</volume>
+<issue>12</issue>
+<fpage>1675</fpage>
+<lpage>1683</lpage>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Wang, Gong &amp; Deng (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Gong</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Deng</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Identification of priority areas for improving quality and efficiency of vegetation carbon sinks in Shaanxi province based on land use change</article-title>
+<source>Journal of Natural Resources</source>
+<year iso-8601-date="2022">2022</year>
+<volume>37</volume>
+<issue>5</issue>
+<fpage>1214</fpage>
+<lpage>1232</lpage>
+<pub-id pub-id-type="doi">10.31497/zrzyxb.20220508</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Wei et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Shao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Cai</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Xiao</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Spatio-temporal characteristics and prediction of terrestrial ecosystem carbon storage in Lijiang River Basin</article-title>
+<source>Environmental Engineering Journal</source>
+<year iso-8601-date="2023">2023</year>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.12153/j.issn.1674-991X.20220378</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Xie et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xie</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Simulation and prediction of land use change in Guangxi based on Markov-FLUS model</article-title>
+<source>Research of Soil and Water Conservation</source>
+<year iso-8601-date="2022">2022</year>
+<volume>29</volume>
+<issue>2</issue>
+<fpage>249</fpage>
+<lpage>254,264</lpage>
+<pub-id pub-id-type="doi">10.13869/j.cnki.rswc.2022.02.033</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Xiong et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xiong</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Lu</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Kou</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Assessment of spatial–temporal changes of ecological environment quality based on RSEI and GEE: a case study in Erhai Lake Basin, Yunnan province, China</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2021">2021</year>
+<volume>125</volume>
+<fpage>107518</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2021.107518</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Xu (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Comment on the Enhanced Water Index (EWI): a discussion on the creation of a water index</article-title>
+<source>Geo-information Science</source>
+<year iso-8601-date="2008">2008</year>
+<volume>10</volume>
+<issue>6</issue>
+<fpage>776</fpage>
+<lpage>780</lpage>
+<pub-id pub-id-type="doi">10.3969/j.issn.1560-8999.2008.06.016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Xu (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Quantitative analysis on the relationship of urban impervious surface with other components of the urban ecosystem</article-title>
+<source>Acta Ecologica Sinica</source>
+<year iso-8601-date="2009">2009</year>
+<volume>29</volume>
+<issue>5</issue>
+<fpage>2456</fpage>
+<lpage>2462</lpage>
+<pub-id pub-id-type="doi">10.3321/j.issn:1000-0933.2009.05.032</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Xu et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Guan</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Fang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Prediction of ecological effects of potential population and impervious surface increases using a remote sensing based ecological index (RSEI)</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2018">2018</year>
+<volume>93</volume>
+<issue>9</issue>
+<fpage>730</fpage>
+<lpage>740</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2018.05.055</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Yan et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yan</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Peng</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Gong</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Estimation of vegetation carbon storage and carbon density of forest ecosystem in Yunnan Province</article-title>
+<source>Western Forestry Science</source>
+<year iso-8601-date="2015">2015</year>
+<volume>44</volume>
+<issue>05</issue>
+<fpage>62</fpage>
+<lpage>67</lpage>
+<pub-id pub-id-type="doi">10.16473/j.cnki.xblykx1972.2015.05.012</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Yang, Liu &amp; Bi (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>JX</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Bi</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Climate change systemic risk perception and management</article-title>
+<source>Frontiers in Engineering Management Science</source>
+<year iso-8601-date="2022">2022</year>
+<volume>41</volume>
+<issue>1</issue>
+<fpage>42</fpage>
+<lpage>47</lpage>
+<pub-id pub-id-type="doi">10.11847/fj.41.1.42</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Yang, Su &amp; Zhao (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Su</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Multi-scenario simulation of urban ecosystem service value based on PLUS model-Taking Hanzhong City as an example</article-title>
+<source>Resources and Environment in Arid Areas</source>
+<year iso-8601-date="2022">2022</year>
+<volume>36</volume>
+<issue>10</issue>
+<fpage>86</fpage>
+<lpage>95</lpage>
+<pub-id pub-id-type="doi">10.13448/j.cnki.jalre.2022.255</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Yang et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Spatiotemporal variation and prediction of ecosystem carbon storage in Xi’an based on PLUS and InVEST models</article-title>
+<source>Remote Sensing of Natural Resources</source>
+<year iso-8601-date="2022">2022</year>
+<fpage>1</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="doi">10.6046/zrzyyg.2021348</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Zhang (2019)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<source>Make a study on the performance evaluation of the policy implementation of kunming’s construction of a regional international central city</source>
+<year iso-8601-date="2019">2019</year>
+<publisher-name>Yunnan University</publisher-name>
+<fpage>1</fpage>
+<lpage>129</lpage>
+<pub-id pub-id-type="doi">10.27456/d.cnki.gyndu.2019.000234</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Zhang et al. (2022a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Deng</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Peng</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Impacts of urbanization on ecosystem services in the Chengdu-Chongqing Urban Agglomeration: changes and trade-offs</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2022a">2022a</year>
+<volume>139</volume>
+<issue>1</issue>
+<fpage>108920</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2022.108920</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Zhang et al. (2020a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Geng</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Qin</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Spatial-temporal evolution of land use and ecosystem service value in the Lower Reaches of the Yellow River Region</article-title>
+<source>Transactions of the Chinese Society of Agricultural Engineering</source>
+<year iso-8601-date="2020a">2020a</year>
+<volume>36</volume>
+<issue>11</issue>
+<fpage>277</fpage>
+<lpage>288</lpage>
+<pub-id pub-id-type="doi">10.11975/j.issn.1002-6819.2020.11.033</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Zhang &amp; Gu (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Gu</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Spatio-temporal pattern and multi-scenario simulation of land use conflict: a case study of the Yangtze River delta urban agglomeration</article-title>
+<source>Geographical Research</source>
+<year iso-8601-date="2022">2022</year>
+<volume>41</volume>
+<issue>5</issue>
+<fpage>1311</fpage>
+<lpage>1326</lpage>
+<pub-id pub-id-type="doi">10.11821/dlyj020210375</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Zhang et al. (2020b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Nan</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Lei</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Multi-scenario simulation of land use change along China-Pakistan economic corridor through coupling FLUS model with SD model</article-title>
+<source>Journal of Geo-Information Science</source>
+<year iso-8601-date="2020b">2020b</year>
+<volume>22</volume>
+<issue>12</issue>
+<fpage>2393</fpage>
+<lpage>2409</lpage>
+<pub-id pub-id-type="doi">10.12082/dqxxkx.2020.190618</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Zhang et al. (2022b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yin</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Dong</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Spatio-temporal variation and dynamic simulation of ecosystem carbon storage in the north-south transitional zone of China</article-title>
+<source>Journal of Natural Resources</source>
+<year iso-8601-date="2022b">2022b</year>
+<volume>37</volume>
+<issue>5</issue>
+<fpage>1183</fpage>
+<lpage>1197</lpage>
+<pub-id pub-id-type="doi">10.31497/zrzyxb.20220506</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Zhao et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Qin</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Pang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>Q</given-names>
+</name>
+</person-group>
+<article-title>Evolution simulation and driving factors of eco-spatial carbon sinks in Beibu Gulf urban agglomeration based on FLUS-InVEST model</article-title>
+<source>Bulletin of Soil and Water Conservation</source>
+<year iso-8601-date="2022">2022</year>
+<volume>42</volume>
+<issue>3</issue>
+<fpage>345</fpage>
+<lpage>355</lpage>
+<pub-id pub-id-type="doi">10.13961/j.cnki.stbctb.2022.03.043</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>
