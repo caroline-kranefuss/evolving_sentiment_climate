@@ -1,0 +1,9 @@
+- OHCO Structure (as delimitted column names): token_str, term_str, pos, pos_group, token_str, term_str
+- Columns (as delimitted column names, including `token_str`, `term_str`, `pos`, and `pos_group`): token_str and term_str are the multiindex; pos, pos_group, token_str, and term_str are the columns  
+^^ are these columns okay?
+
+Is ngram_length in vocab needed? How do I add?
+
+TF = ((DTCM.T + .5) / (DTCM.T.max() + .5)) + .5 # Is this correct?
+
+What is DTM, is it different from DTCM?
