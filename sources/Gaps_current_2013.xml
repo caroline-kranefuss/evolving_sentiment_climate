@@ -1,0 +1,2074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">166</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.166</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Biogeography</subject>
+          <subject>Evolutionary Studies</subject>
+          <subject>Genetics</subject>
+          <subject>Zoology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mind the gaps: investigating the cause of the current range disjunction in the Cape Platanna, <italic>Xenopus gilli</italic> (Anura: Pipidae)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Fogell</surname>
+            <given-names>Deborah J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Tolley</surname>
+            <given-names>Krystal A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Measey</surname>
+            <given-names>G. John</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <xref ref-type="aff" rid="aff-4">4</xref>
+          <email>john@measey.com</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>Applied Biodiversity Research Division, South African National Biodiversity Institute</institution>, <addr-line>Cape Town</addr-line>, <country>South Africa</country>
+            </aff>
+        <aff id="aff-2"><label>2</label><institution>Department of Zoology, University of Cape Town</institution>, <addr-line>Rondebosch</addr-line>, <country>South Africa</country>
+            </aff>
+        <aff id="aff-3"><label>3</label><institution>Department of Botany and Zoology, University of Stellenbosch</institution>, <addr-line>Matieland</addr-line>, <country>South Africa</country>
+            </aff>
+        <aff id="aff-4"><label>4</label><institution>DST-NRF Centre for Invasion Biology (CIB), Department of Zoology, Nelson Mandela Metropolitan University</institution>, <addr-line>Port Elizabeth</addr-line>, <country>South Africa</country>
+            </aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Wink</surname>
+            <given-names>Michael</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-09-26">
+        <day>26</day>
+        <month>9</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e166</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-07-29">
+          <day>29</day>
+          <month>7</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-08-29">
+          <day>29</day>
+          <month>8</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Fogell et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Fogell et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/166"/>
+      <abstract>
+        <p>Low-lying areas of the Cape at Africa’s south-westernmost tip have undergone dramatic marine-remodelling, with regular changes in sea-level following glacial cycles. Species for which marine barriers are impenetrable underwent concomitant radical distribution changes which may account for current range disjunctions. The Cape platanna, <italic>Xenopus gilli</italic>, is a frog distributed in only three disjunt areas within low-lying regions of the southwestern Cape. We determined the relationship between frogs from these three disjunct areas, by using a combination of morphometric analysis and mtDNA (ND2 and 16S fragments) sequences of 130 frogs from eight ponds. Coalescent analyses on molecular data dated the divergence in two major clades to around 4.6 Mya, a period during which major uplifting on the eastern side of the subcontinent caused climate changes throughout southern Africa. Principal components analysis showed significant morphometric differences between each clade on head and limb measurements. Consistent differences in ventral colouration and patterning were also observed. We report on increased levels of hybridisation with <italic>X. laevis</italic> throughout the range of <italic>X. gilli</italic>, which reaches at least 27% hybrids in some ponds. Urgent conservation actions are required to control habitat loss from alien invasive vegetation, and prevent introgression with the domestic-exotic, <italic>X. laevis</italic>.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Hybridization</kwd>
+        <kwd>mtDNA</kwd>
+        <kwd>Morphometrics</kwd>
+        <kwd>Population genetics</kwd>
+        <kwd>Range disjunction</kwd>
+        <kwd>
+          <italic>Xenopus laevis</italic>
+        </kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>South African National Biodiversity Institute (SANBI)</funding-source>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>National Research Foundation, University of Cape Town</funding-source>
+        </award-group>
+        <funding-statement>Field and laboratory work was funded by the South African National Biodiversity Institute (SANBI). DLF received bursaries from the National Research Foundation, University of Cape Town and SANBI. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Today, southern Africa is primarily a semi-arid region with subtropical conditions along the east coast (<xref ref-type="bibr" rid="ref-81">Tyson &amp; Preston-Whyte, 2000</xref>). The southwest of the region, known as the “Cape”, is one of the world’s megadiverse areas, known for its floral diversity: specifically the Cape Floral Region made up of the Fynbos and Succulent Karroo biomes with around 70% endemism of over 9000 plant species (<xref ref-type="bibr" rid="ref-67">Rouget et al., 2003</xref>). However, elevated floral diversity of the fynbos biome is relatively recent, corresponding with the establishment of this biome during the late-Pliocene (∼5 Mya: <xref ref-type="bibr" rid="ref-11">Cowling &amp; Pressey, 2001</xref>; <xref ref-type="bibr" rid="ref-12">Cowling, Proches &amp; Partridge, 2009</xref>; <xref ref-type="bibr" rid="ref-24">Goldblatt, 1997</xref>; <xref ref-type="bibr" rid="ref-37">Linder, 2005</xref>). This radiation is attributed, in part, to substantial uplifting on the eastern side of the subcontinent leading to significant reduction of rainfall in the western area and aridification of the subcontinent’s interior (<xref ref-type="bibr" rid="ref-40">McCarthy &amp; Rubidge, 2005</xref>; <xref ref-type="bibr" rid="ref-53">Partridge &amp; Maud, 2000</xref>).</p>
+      <p>The high percentage of Cape floral endemics is associated with a wealth of faunal endemism in terrestrial, freshwater and marine ecosystems (<xref ref-type="bibr" rid="ref-56">Picker &amp; Samways, 1996</xref>). Cladogenesis of faunal lineages in this region is thought to have been influenced by major shifts in climate, especially in the Pliocene (e.g., <xref ref-type="bibr" rid="ref-15">Daniels, Gouws &amp; Crandall, 2006</xref>; <xref ref-type="bibr" rid="ref-39">Matthee &amp; Flemming, 2002</xref>; <xref ref-type="bibr" rid="ref-46">Measey, Hopkins &amp; Tolley, 2009</xref>; <xref ref-type="bibr" rid="ref-58">Price, Barker &amp; Villet, 2007</xref>; <xref ref-type="bibr" rid="ref-74">Smit, Robinson &amp; Van Vuuren, 2007</xref>; <xref ref-type="bibr" rid="ref-78">Tolley et al., 2006</xref>; <xref ref-type="bibr" rid="ref-79">Tolley, Chase &amp; Forest, 2008</xref>). The area is also known for its rich amphibian fauna, particularly of range restricted and endemic species (<xref ref-type="bibr" rid="ref-1">Alexander et al., 2004</xref>; <xref ref-type="bibr" rid="ref-2">Angulo, Hoffmann &amp; Measey, 2011</xref>; <xref ref-type="bibr" rid="ref-32">Holt et al., 2013</xref>; <xref ref-type="bibr" rid="ref-57">Poynton, 1964</xref>; <xref ref-type="bibr" rid="ref-72">Seymour et al., 2001</xref>), many of which are also of conservation concern (<xref ref-type="bibr" rid="ref-2">Angulo, Hoffmann &amp; Measey, 2011</xref>; <xref ref-type="bibr" rid="ref-5">Botts, Erasmus &amp; Alexander, 2012</xref>; <xref ref-type="bibr" rid="ref-50">Mokhatla et al., 2012</xref>; <xref ref-type="bibr" rid="ref-75">Stuart et al., 2008</xref>).</p>
+      <p>The Cape platanna, <italic>Xenopus gilli</italic> Rose &amp; Hewitt, is one of several species with a disjunct distribution on either side of False Bay (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) (for other examples see <xref ref-type="bibr" rid="ref-68">Rourke, 1972</xref>; <xref ref-type="bibr" rid="ref-76">Swart, Tolley &amp; Matthee, 2009</xref>), accompanying suggestions that past oceanic intrusion over the Cape Flats may have created a barrier to migration. However, <italic>X. gilli</italic> has three distinct areas of distribution (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>), prompting questions about the periodicity of disjunctions. Two other coastal lowland anuran species, <italic>Amietophrynus pantherinus</italic> (Smith) (the western leopard toad) and <italic>Microbatrachella capensis</italic> (Boulenger) (the micro frog), share similar distributions and restricted dispersal ability (<xref ref-type="bibr" rid="ref-49">Minter et al., 2004</xref>). A genetic study of <italic>A. pantherinus</italic> showed that populations on either side of the Cape Flats became disjunct, not as a result of anthropogenic habitat loss, but naturally as the area underwent significant drying during the Holocene (<xref ref-type="bibr" rid="ref-48">Measey &amp; Tolley, 2011</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.166/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <title><italic>Xenopus gilli</italic> sites in the southwest of South Africa.</title>
+          <p>(A) Sampling sites for the present study, squares indicate where <italic>Xenopus gilli</italic> was sampled for this study. A triangle denotes an introduced population (<xref ref-type="bibr" rid="ref-45">Measey &amp; de Villiers, 2011</xref>), and the white filled circle the presumed type locality: Silvermine River. Note that the squares are distributed in three disjunct areas at the end of the Cape Peninsula near the towns of Kleinmond and Pearly Beach. (B) Vegetation types (after <xref ref-type="bibr" rid="ref-51">Mucina &amp; Rutherford, 2006</xref>) and their projection onto the exposed Agulhas bank after a 120 m reduction in sea level (current coastline is shown as a black line) following <xref ref-type="bibr" rid="ref-10">Compton (2011)</xref>. Note that current and historical sites for <italic>X. gilli</italic> (circles) are associated with lowland Sand-stone fynbos (blue) and not with Sand fynbos (yellow), Renosterveld (brown) or Strandveld (green). (C) Relief map of the same southwestern Cape region after a 25 m increase in sea level. Note that the Cape peninsula becomes two islands separated from the mainland by inundation of the Cape Flats. <italic>X. gilli</italic> sites in Betty’s Bay and Kleinmond are separated from those at Pearly Beach by high ground and a salt-water estuary.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/fig-1.png"/>
+      </fig>
+      <p>
+            <xref ref-type="bibr" rid="ref-21">Evans et al. (1997)</xref> analysed the distribution, frequency and evolutionary relationships of <italic>X. gilli</italic> and revealed a deep split between distinct lineages on either side of False Bay. Further, they suggested that these clades had become isolated by oceanic transgression of the Cape Flats that occurred and persisted through the Pliocene and Pleistocene. <xref ref-type="bibr" rid="ref-20">Evans et al. (2004)</xref> estimated a phylogeny based on mtDNA of the genus <italic>Xenopus</italic> including single specimens of <italic>X. gilli</italic> from either side of False Bay (Cape Point and Betty’s Bay), and dated their divergence at 8.5 Mya (4.8–13.4). However, <italic>X. gilli</italic> is a fynbos endemic, specialising in the acid-blackwater pools that are characteristic in this vegetation type, and the fynbos biome is only thought to have become established in the early Plio- Pleistocene (see below). The dating and genetic distance between these clades is larger than between other species in the genus <italic>Xenopus</italic> (<xref ref-type="bibr" rid="ref-19">Evans et al., 2011</xref>; <xref ref-type="bibr" rid="ref-20">Evans et al., 2004</xref>), and it would be surprising if this was not accompanied by some morphological distinction. However, the genus <italic>Xenopus</italic> is rather conservative in its morphological variation such that species are often defined by their calls, colouration and markings (<xref ref-type="bibr" rid="ref-34">Kobel, Loumont &amp; Tinsley, 1996</xref>).</p>
+      <p>As comprehensive sea-level models have been developed for glacial and interglacial periods (e.g., <xref ref-type="bibr" rid="ref-61">Raymo et al., 2011</xref>; <xref ref-type="bibr" rid="ref-86">Zachos et al., 2001</xref>), it is possible to test hypotheses relating to speciation and migration events across oceanic barriers to dispersal (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>; <xref ref-type="bibr" rid="ref-36">Lambeck &amp; Chappell, 2001</xref>). During the course of the Pliocene inundation of the Cape Flats that occurred approximately 3.4 to 4.5 million years ago, sea levels were between 25 to 40 m higher than present (<xref ref-type="bibr" rid="ref-84">Wardlaw &amp; Quinn, 1991</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1C</xref>). Although incursions may have formed saltwater barriers, there have been subsequent glacial periods in which the oceans have regressed and the continental shelf around the southern tip of Africa has been exposed, allowing for the migration of organisms across False Bay (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). During these glacial events (36.5 to 13.8 Kya) the sea-level was up to 130 m lower than present, exposing the shallow Agulhas Bank and extending the furthest tip of the continent over 140 km southward (<xref ref-type="bibr" rid="ref-82">van Andel, 1989</xref>), opening portals of migration for many Cape lowland species (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>; <xref ref-type="bibr" rid="ref-71">Schreiner, Roedder &amp; Measey, 2013</xref>). Furthermore, studies of sea-level change have shown that, compared to present day levels, such regressions have been far more substantial than rises over the last 3 My (<xref ref-type="bibr" rid="ref-4">Bintanja &amp; van de Wal, 2008</xref>).</p>
+      <p>The aim of this study is to determine existing differences between the three disjunct areas of occurrence for <italic>X. gilli</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Specifically we hypothesised that sea-level rise (or fall) brought about isolation which contributed to divergence in <italic>Xenopus gilli</italic>. We examined these hypotheses using both morphometric data and molecular markers of <italic>X. gilli</italic> from multiple sites within each of the three disjunct areas. We dated the divergence time across the geographic gaps using a coalescent approach with sequences from two mitochondrial genes. Lastly, we compared size-corrected morphometric data from each genetically defined population.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Study species and sampling</title>
+        <p><italic>Xenopus gilli</italic>, the Cape platanna, inhabits lowland acid blackwater pools characteristic of the fynbos biome (<xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>). Anthropogenic disturbances, intense urbanisation and the spread of alien vegetation has resulted in declines of populations of <italic>X. gilli</italic>, so that this species is now considered Endangered (<xref ref-type="bibr" rid="ref-69">SA-FRoG &amp; IUCN SSC-ASG, 2011</xref>). <italic>Xenopus gilli</italic> was initially known from only two localities (the Cape Peninsula and adjoining Cape Flats) but in the 1970s a population was discovered approximately 50 km to the east, on the opposite side of False Bay (see <xref ref-type="fig" rid="fig-1">Fig. 1A</xref>). Lastly, in 1987 a third disjunct cluster of sites was found near the town of Pearly Beach (<xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The Cape Flats were farmed for more than two centuries, and it is postulated that this resulted in the reduction of <italic>X. gilli</italic> populations (<xref ref-type="bibr" rid="ref-33">Kobel, Du Pasquier &amp; Tinsley, 1981</xref>; <xref ref-type="bibr" rid="ref-54">Picker, 1985</xref>; <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>; <xref ref-type="bibr" rid="ref-73">Simmons, 1985</xref>). However, more recent urbanisation of the Cape Flats over the last 50 years (see <xref ref-type="bibr" rid="ref-62">Rebelo et al., 2011</xref>), would have extirpated any remaining populations. In addition to loss of habitat through land use change, <italic>X. gilli</italic> is threatened through introgression from its sister species, <italic>Xenopus laevis</italic> (Daudin) (see <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>) which is known for its invasive abilities on four continents (<xref ref-type="bibr" rid="ref-47">Measey et al., 2012</xref>). In South Africa, <italic>X. laevis</italic> is considered to be a domestic exotic, readily invading disturbed waters, and it is present throughout the entire range of <italic>X. gilli</italic> (<xref ref-type="bibr" rid="ref-43">Measey &amp; Channing, 2003</xref>; <xref ref-type="bibr" rid="ref-44">Measey &amp; Davies, 2011</xref>).</p>
+        <p>Morphological intermediates between these two <italic>Xenopus</italic> species from the Cape of Good Hope Nature Reserve (COGH: at the tip of the Cape peninsula: see <xref ref-type="fig" rid="fig-1">Fig. 1</xref>) were first noted by <xref ref-type="bibr" rid="ref-60">Rau (1978)</xref>. The severity of the threat of extensive introgression was questioned due to the low fitness and reproductive capability of any hybrid offspring that were produced (<xref ref-type="bibr" rid="ref-54">Picker, 1985</xref>), and later by the low frequency of genetically hybrid individuals (<xref ref-type="bibr" rid="ref-21">Evans et al., 1997</xref>). Although studies incorporating molecular genetics suggested that there was relatively little hybridization present between the two species (<xref ref-type="bibr" rid="ref-21">Evans et al., 1997</xref>; <xref ref-type="bibr" rid="ref-22">Evans et al., 1998</xref>), the threat posed by <italic>X. laevis</italic> remains of conservation concern (<xref ref-type="bibr" rid="ref-42">Measey, 2011</xref>; <xref ref-type="bibr" rid="ref-69">SA-FRoG &amp; IUCN SSC-ASG, 2011</xref>).</p>
+        <p><italic>Xenopus gilli</italic> was first described from the Silvermine River (<xref ref-type="bibr" rid="ref-66">Rose &amp; Hewitt, 1927</xref>) and is usually characterised by a venter marked with bright yellow-orange and black mottling; although this is more distinct in some animals than others (<xref ref-type="bibr" rid="ref-16">de Villiers, 2004</xref>). Dorsally, <italic>X. gilli</italic> is yellow-brown or beige with large paravertebral dark brown stripes extending from the eyes, down the length of the body and breaking up into patches on the lower back and legs. They exhibit sexual size dimorphism with the larger females attaining a snout-vent length of approximately 60 mm and having distinct cloacal folds (<xref ref-type="bibr" rid="ref-16">de Villiers, 2004</xref>; <xref ref-type="bibr" rid="ref-34">Kobel, Loumont &amp; Tinsley, 1996</xref>).</p>
+        <p>For this study, netted funnel traps baited with liver were set overnight and retrieved in the early morning on two consecutive days of each field excursion (see <xref ref-type="bibr" rid="ref-41">Measey, 2001</xref>), from March 2010 to August 2011. In addition to traps, seine nets were used at some localities during operations to remove <italic>X. laevis</italic> (see <xref ref-type="bibr" rid="ref-44">Measey &amp; Davies, 2011</xref>). Collections of <italic>Xenopus</italic> were made at eight ponds across the three different areas. Three ponds were sampled on the Cape peninsula (in the Cape of Good Hope Nature Reserve: CoGH), all within an area of 2 km<sup>2</sup>. All other collection sites were on the east side of False Bay (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>) at ponds where <italic>X. gilli</italic> historically occurred (see <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>). <italic>Xenopus gilli</italic> were captured near Kleinmond (three ponds; hereafter Kleinmond) and near Pearly Beach (two ponds; hereafter Pearly Beach). We identified individuals as <italic>X. gilli</italic> from dorsal and ventral patterning, shape of head, and overall size (<xref ref-type="bibr" rid="ref-16">de Villiers, 2004</xref>; <xref ref-type="bibr" rid="ref-34">Kobel, Loumont &amp; Tinsley, 1996</xref>). <italic>Xenopus laevis</italic> and suspected <italic>X. gilli-laevis</italic> hybrids were not included in our analyses.</p>
+        <p>Each <italic>X. gilli</italic> captured had the second phalange of the right hind foot clipped, taking care to not break the webbing between the toes. Blades were sterilised with 10% bleach solution between each procedure to prevent any spread of disease. Tissue samples for DNA analysis were stored in vials of molecular grade ethanol.</p>
+        <p>Permits were obtained from Cape Nature (permit number: AAA004-00322-0035) and South African National Parks (permit: Agulhas and Table Mountain National Parks, issued 21 July 2010). Ethics clearance was obtained from South African National Biodiversity Institute ethical clearance (number: 001/10).</p>
+      </sec>
+      <sec>
+        <title>Morphometrics</title>
+        <p>All <italic>Xenopus gilli</italic> captured had a standard set of 14 measurements taken: snout-vent length (SVL), head length (HL), head width (HW), head height (HH), lower jaw length (LJL), ilial length (IL), ilial width (IW), femur (FM), tibia (TB), metatarsal (MT), longest toe (LT) on the hind limb, humerus (HM), radius (RD), and longest finger (LF) on the forelimb (see <xref ref-type="bibr" rid="ref-28">Herrel et al., 2012</xref>). All measurements were taken by DJF with digital callipers (with 0.01 mm accuracy) on the left side of each animal. In addition, images were taken of the dorsum and venter of each animal on scaled grid paper to avoid measuring animals recaptured.</p>
+      </sec>
+      <sec>
+        <title>Genetics</title>
+        <p>Total genomic DNA was extracted from the tissue samples using a standard salt extraction procedure (<xref ref-type="bibr" rid="ref-6">Bruford et al., 1992</xref>) and fragments of two mitochondrial (mt) markers (ND2 and 16S) were amplified. However, as mtDNA is non-recombinant and is maternally inherited (<xref ref-type="bibr" rid="ref-35">Lamb &amp; Avise, 1986</xref>) our analysis is limited to inferences based on the maternal lineage, specifically with regards to identifying any hybridization with <italic>X. laevis</italic>. The ND2 marker was amplified from vMet3 to vTrp (<xref ref-type="bibr" rid="ref-14">Cunningham &amp; Cherry, 2004</xref>) and 896 base pairs were used for analysis (mtDNA BP 5980 to 6876, <xref ref-type="bibr" rid="ref-63">Roe et al., 1985</xref>). Polymerase chain reaction (PCR) annealing temperature was optimised at 57.1°C for 40 cycles and magnesium concentration was 3 mM MgCl<sub>2</sub>. The 16S marker was amplified from primers 16Sa to 16Sb (<xref ref-type="bibr" rid="ref-52">Palumbi, 1996</xref>) of which 517bp were used for analysis (mtDNA BP 4052 to 4559, <xref ref-type="bibr" rid="ref-63">Roe et al., 1985</xref>). PCR annealing temperature was optimised at 48.1°C for 40 cycles and magnesium concentration was 2.5 mM MgCl<sub>2</sub>. Electrophoresis was used to examine the quality of PCR products on a 2% agarose gel stained with Goldview and the high quality products were sent to Macrogen Inc. (Seoul, Korea) for sequencing.</p>
+      </sec>
+      <sec>
+        <title>Data analysis</title>
+        <p>Geneious Pro 5.0.4 was used to edit and align the DNA sequences from each sample using a global alignment (<xref ref-type="bibr" rid="ref-17">Drummond et al., 2007</xref>) and the alignment was used to define haplotypes at each site. One animal from Cape Point was removed from all further analyses as it fell into an eastern haplotype population. Similarly, <xref ref-type="bibr" rid="ref-21">Evans et al. (1997)</xref> found another such animal in their study and speculated that it may have been mistakenly transported and introduced. Any other individuals that closely matched <italic>X. laevis</italic> (i.e., had &gt;98% alignment with the ND2 region of EMBL accession <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HM991335">HM991335</ext-link>) were considered to be hybrids and therefore removed from further analyses.</p>
+        <p>In order to determine whether sampling sites clustered on a population level, a spatial analysis of variance (SAMOVA) was conducted (<xref ref-type="bibr" rid="ref-18">Dupanloup, Schneider &amp; Excoffier, 2002</xref>), using ND2 haplotype data and geographic co-ordinates of each of the 9 sample sites. The SAMOVA was run for <italic>K</italic> = 2–9 putative populations to determine the maximum <italic>F<sub>CT</sub></italic> value, the highest proportion of differences between populations due to genetic variation (<xref ref-type="bibr" rid="ref-18">Dupanloup, Schneider &amp; Excoffier, 2002</xref>). The results of the SAMOVA allowed for the consolidation of the DNA data into a Cape peninsula population and a combined Kleinmond and Pearly Beach population for further genetic and morphometric analyses (henceforth combined and referred to as the “eastern population”). Network 4.5.1.6 (<xref ref-type="bibr" rid="ref-3">Bandelt, Forster &amp; Röhl, 1999</xref>) was used to consolidate the haplotype data into a Median-joining network. Arlequin 3.5 (<xref ref-type="bibr" rid="ref-23">Excoffier &amp; Lischer, 2010</xref>) was used to provide a quantitative measure of haplotype and nucleotide diversity within localities. Sequence divergence between populations was estimated with uncorrected net <italic>p</italic>-distances using MEGA v. 5 (<xref ref-type="bibr" rid="ref-77">Tamura et al., 2011</xref>).</p>
+        <p>To examine whether any population had experienced historical demographic changes, Tajima’s D and Fu’s <italic>F<sub>S</sub></italic> was used to test for departures from mutation–drift equilibrium (<xref ref-type="bibr" rid="ref-8">Chuang &amp; Lee, 1997</xref>; <xref ref-type="bibr" rid="ref-70">Schneider &amp; Excoffier, 1999</xref>) using Arlequin 3.5 (<xref ref-type="bibr" rid="ref-23">Excoffier &amp; Lischer, 2010</xref>). For populations out of equilibrium, we then applied a model of demographic expansion (<xref ref-type="bibr" rid="ref-23">Excoffier &amp; Lischer, 2010</xref>; <xref ref-type="bibr" rid="ref-64">Rogers, 1995</xref>; <xref ref-type="bibr" rid="ref-65">Rogers &amp; Harpending, 1992</xref>). For populations that showed signs of expansion, we estimated the timing of the demographic shift; <italic>t</italic> = τ/(2<italic>u</italic>), where <italic>t</italic> is time in generations, τ is the age of the expansion in mutational units (estimated in the model of demographic expansion) and <italic>u</italic> is the sum of the per nucleotide mutation rate for the region sequenced (<xref ref-type="bibr" rid="ref-64">Rogers, 1995</xref>; <xref ref-type="bibr" rid="ref-65">Rogers &amp; Harpending, 1992</xref>). For the present study, generation time was estimated at 2 years (<xref ref-type="bibr" rid="ref-16">de Villiers, 2004</xref>) and <italic>u</italic> was obtained from the same estimate of mutation rate as described for coalescence analysis (below).</p>
+        <p>Coalescent analysis was used to investigate time of divergence (<italic>t</italic>) between all the populations identified in SAMOVA (Cape Peninsula vs. eastern), using IMa2 (<xref ref-type="bibr" rid="ref-29">Hey, 2010</xref>). IMa2 runs Markov chain Monte Carlo (MCMC) simulations using a likelihood based analysis, under a Felsenstein framework (<xref ref-type="bibr" rid="ref-30">Hey &amp; Nielsen, 2007</xref>). MCMC included a burn-in duration of 3 million steps, 10 000 genealogies saved and a geometric heating model with 20 chains, 0.96 as first and 0.9 as second chain heating parameters. A geometric heating scheme was applied to ensure sufficient rates of chain swapping to speed up the calculation process. The mutation rates for the ND2 and 16S regions of the mitochondrion were determined using the estimated time of divergence reported for the dated time of divergence between the two <italic>X. gilli</italic> lineages (8.5 Mya) in <xref ref-type="bibr" rid="ref-20">Evans et al. (2004)</xref>. Mutation rate was estimated to be 0.52% change per lineage per million years, and compares favourably with other mutation rates published for ND2 (e.g., 0.69% <xref ref-type="bibr" rid="ref-38">Macey et al., 1998</xref>). For 16S, we used the same calculation to give us a rate of 0.10% change per lineage per million years, which is in the same general range as other published rates for this marker (e.g., 0.15% <xref ref-type="bibr" rid="ref-83">Vences et al., 2005</xref>). The software IMa2 uses the geometric mean of all mutation rates with upper and lower confidence intervals which were calculated from the upper and lower divergence bounds for <italic>X. gilli</italic>: 4.8 and 13.4 Mya (<xref ref-type="bibr" rid="ref-20">Evans et al., 2004</xref>). Preliminary runs in IMa2 were used to establish settings for priors, ensure adequate mixing and sufficiently high effective sample size (see <xref ref-type="bibr" rid="ref-29">Hey, 2010</xref>), this included setting migration to 0 between CoGH and other populations due to an absence of shared haplotypes between populations. Three final duplicate runs were made with the same parameters using IMa2 at Cornell University via internet upload (<uri xlink:href="http://cbsuapps.tc.cornell.edu/IMa.aspx">http://cbsuapps.tc.cornell.edu/IMa.aspx</uri>).</p>
+        <p>For the morphological analysis, all measurements were Log<sub>10</sub>-transformed to meet assumptions of homoscedascity, and then residuals were estimated for 13 variables against SVL to correct for size because amphibians are known to have indeterminate growth and thus their size positively correlates with age (<xref ref-type="bibr" rid="ref-26">Halliday &amp; Verrell, 1988</xref>), including species in the genus <italic>Xenopus</italic> (<xref ref-type="bibr" rid="ref-41">Measey, 2001</xref>). To examine sexual dimorphism, a multivariate analysis of variance (MANOVA) was performed in the base package of R (<xref ref-type="bibr" rid="ref-59">R Development Core Team, 2011</xref>) using the residuals of morphometric data, separately for each genetically defined population (Cape peninsula and eastern). In addition, we checked for sexual differences within populations by using the locality and sex as an interaction term.</p>
+        <p>In the absence of sexual dimorphism for the variables measured (see Results), data from both sexes were pooled for all further analyses. To examine population level differences in morphology, a multivariate approach was taken. Size corrected residuals from the Cape peninsula (<italic>n</italic> = 50) and from the eastern population (<italic>n</italic> = 59) were used as input variables for a principal components analysis (PCA) to reduce the 13 morphometric variables into linear combinations of correlated variables (principal components-PCs). The Keiser-Meyer-Olkin (KMO) measure of sampling adequacy was applied to determine whether the dataset was adequate to conduct a PCA. The analysis included a varimax rotation to minimise the number of variables with high loadings on each PC, which simplifies the interpretation of the PCs extracted. Variables with communalities greater than 0.5 were retained in the analysis and only PCs with eigenvalues greater than 1.0 were extracted. The principal component scores were saved, and ANOVA was carried out on the PCs extracted using R (<xref ref-type="bibr" rid="ref-59">R Development Core Team, 2011</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>A total of 130 frogs, which were identified as <italic>Xenopus gilli</italic>, were sampled from eight ponds located within in each of three geographic areas: Cape peninsula, Kleinmond and Pearly Beach (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>). On the Cape peninsula, adult <italic>X. laevis</italic> were captured in two of the three ponds sampled, including one which was isolated by a concrete wall (see <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>). All <italic>X. laevis</italic> captured at the Cape of Good Hope were removed as a part of a South African National Parks initiative to safe guard remaining <italic>X. gilli</italic> (see <xref ref-type="bibr" rid="ref-44">Measey &amp; Davies, 2011</xref>). In the eastern sites, at Kleinmond, one pond contained only <italic>X. laevis</italic> and <italic>X. gilli-laevis</italic> hybrids, while a second contained a majority of hybrids, so no individuals from these two sites were used in this study. Thus, individuals from only two ponds near Kleinmond, where all animals appeared to be <italic>X. gilli</italic>, were used, plus all frogs from two ponds near Pearly Beach, as no morphological hybrids were observed there.</p>
+      <sec>
+        <title>Genetics</title>
+        <p>Sequences of 896 base pair fragment of ND2 were obtained from 128 individuals identified in the field as <italic>X. gilli</italic>, plus 517 bp of 16S from a subset of 14 animals. Of the 39 <italic>X. gilli</italic> collected and sequenced for ND2 from the Cape peninsula, one was found to match a GenBank <italic>X. laevis</italic> sequence. From the 48 sequenced animals from Pearly Beach, four ND2 haplotypes matched <italic>X. laevis</italic>, but for the Kleinmond sample, this proportion reached 27% of 41 animals sequenced (<xref ref-type="table" rid="table-1">Table 1</xref>). All animals with <italic>X. gilli</italic> appearance, but with <italic>X. laevis</italic> haplotypes were subsequently removed from genetic and morphometric analysis. Spatial clustering analysis (implemented in SAMOVA) unambiguously showed that the nine sampling sites could be grouped into two populations, corresponding to animals collected in the Cape peninsula (western) and combined eastern sites (Kleinmond and Pearly Beach: FST  =  0.985; <italic>P</italic> &lt; 0.001). For 16S, all four individuals sequenced from the Cape peninsula were of a single haplotype identical to <italic>X. gilli</italic> from Cape Point sequenced by <xref ref-type="bibr" rid="ref-20">Evans et al.</xref> (<xref ref-type="bibr" rid="ref-20">2004</xref>, AY581649). Of ten animals sequenced from the eastern region, eight were identical to an <italic>X. gilli</italic> previously sequenced from Betty’s Bay by <xref ref-type="bibr" rid="ref-20">Evans et al.</xref>, (<xref ref-type="bibr" rid="ref-20">2004</xref>, AY581650), while two more individuals (both from Kleinmond) had a single base pair change. Between the Cape peninsula (within 0.00% divergence) and eastern sites (within 0.069% divergence), the net <italic>p</italic>-distance for 16S was found to be 1.7%.</p>
+        <table-wrap id="table-1">
+          <object-id pub-id-type="doi">10.7717/peerj.166/table-1</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Sample sizes for genetic (<italic>N</italic>) and morphometric samples of the Cape platanna (<italic>Xenopus gilli</italic>) in the Cape peninsula, Kleinmond and Pearly Beach disjunct areas together with their EMBL accession numbers.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/table-1.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Site group</th>
+                  <th align="left">Gene<break/>fragment</th>
+                  <th align="left">
+                    <italic>N</italic>
+                  </th>
+                  <th align="left">Haplotypes</th>
+                  <th align="left">EMBL<break/>accession number</th>
+                  <th align="left">Morphological<break/>sample size</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Cape Peninsula</td>
+                  <td align="left">ND2</td>
+                  <td align="left">38</td>
+                  <td align="left">3</td>
+                  <td align="left">
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427452">HG427452</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427453">HG427453</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427454">HG427454</ext-link>
+                           </td>
+                  <td align="left">50</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">16S</td>
+                  <td align="left">4</td>
+                  <td align="left">1</td>
+                  <td align="left">
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427449">HG427449</ext-link>
+                           </td>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Kleinmond</td>
+                  <td align="left">ND2</td>
+                  <td align="left">30</td>
+                  <td align="left">13</td>
+                  <td align="left">
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427464">HG427464</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427467">HG427467</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427471">HG427471</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427474">HG427474</ext-link>, <break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427475">HG427475</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427476">HG427476</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427477">HG427477</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427478">HG427478</ext-link>, <break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427479">HG427479</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427480">HG427480</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427481">HG427481</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427482">HG427482</ext-link>, <break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427484">HG427484</ext-link>
+                           </td>
+                  <td align="left">21</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">16S</td>
+                  <td align="left">6</td>
+                  <td align="left">3</td>
+                  <td align="left">
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427450">HG427450</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427451">HG427451</ext-link>
+                           </td>
+                  <td align="left"/>
+                </tr>
+                <tr>
+                  <td align="left">Pearly Beach</td>
+                  <td align="left">ND2</td>
+                  <td align="left">44</td>
+                  <td align="left">24</td>
+                  <td align="left">
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427455">HG427455</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427456">HG427456</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427457">HG427457</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427458">HG427458</ext-link>, <break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427459">HG427459</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427460">HG427460</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427461">HG427461</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427462">HG427462</ext-link>, <break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427463">HG427463</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427465">HG427465</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427466">HG427466</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427468">HG427468</ext-link>, <break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427469">HG427469</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427470">HG427470</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427471">HG427471</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427472">HG427472</ext-link>,<break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427473">HG427473</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427475">HG427475</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427476">HG427476</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427477">HG427477</ext-link>,<break/>
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427478">HG427478</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427480">HG427480</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427481">HG427481</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427483">HG427483</ext-link>
+                           </td>
+                  <td align="left">38</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left">16S</td>
+                  <td align="left">4</td>
+                  <td align="left">1</td>
+                  <td align="left">
+                              <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427450">HG427450</ext-link>
+                           </td>
+                  <td align="left"/>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>The haplotype network for ND2 shows two clear groups separated by 74 base pair changes (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Sequence divergence between populations shows a net <italic>p</italic>-distance of 8.8% at the ND2 locus between animals from the Cape peninsula and the eastern population. The Cape peninsula had only three ND2 haplotypes amongst 38 individuals (<italic>p</italic>-distance within  =  0.25%), while the 74 animals sequenced from the eastern population share 30 different haplotypes (<italic>p</italic>-distance within  =  5.63%).</p>
+        <fig id="fig-2">
+          <object-id pub-id-type="doi">10.7717/peerj.166/fig-2</object-id>
+          <label>Figure 2</label>
+          <caption>
+            <title>A network of ND2 haplotypes for <italic>Xenopus gilli</italic> populations.</title>
+            <p>(A) Median-joining network diagrams of the number and structure of <italic>X. gilli</italic> haplotypes in the Cape peninsula and eastern populations based on ND2. Cape peninsula animals are indicated in grey, Pearly Beach indicated in white and Kleinmond in black. Circles are proportional to the number of individuals sequenced belonging to each haplotype and lines represent the number of nucleotide base pair changes from one to the other. Note that the 74 base pair changes between the two haplotype groups are represented by a broken line. The arrow points at a haplotype not included in the analysis but found on the Cape peninsula. (B) Pairwise difference and frequency for ND2 haplotypes for <italic>Xenopus gilli</italic> from the Cape peninsula, and (C) Pearly Beach and Kleinmond.</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/fig-2.png"/>
+        </fig>
+        <p>The eastern <italic>X. gilli</italic> populations had a higher ND2 nucleotide and haplotype diversity than animals from the Cape peninsula (<xref ref-type="table" rid="table-2">Table 2</xref>). However, the 95% confidence intervals show that the Cape peninsula population is significantly less diverse for haplotype diversity (<italic>h</italic>), but not nucleotide diversity (π). The low haplotype diversity on the Cape peninsula is also demonstrated by the haplotype network (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). Both Tajima’s D and Fu’s F test suggest that the eastern population is out of mutation-drift equilibrium (Tajima’s <italic>D</italic> = −1.6, <italic>p</italic> = 0.032; Fu’s <italic>F<sub>S</sub></italic> = −27.2, <italic>p</italic> &lt; 0.001), but this was not detectable within the Cape peninsula. The model of demographic expansion fitted the observed distribution for the eastern population (SSD  =  0.005, <italic>p</italic> = 0.08) suggesting the population has undergone a demographic shift. The value obtained for τ = 2.16 (95% CI: 1.29–2.78), provided an estimate for years since population expansion (<italic>t</italic>) of 75.7 thousand generations or ca. 151.4 Kya.</p>
+        <table-wrap id="table-2">
+          <object-id pub-id-type="doi">10.7717/peerj.166/table-2</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>The gene diversity (<italic>h</italic>) and nucleotide diversity (π) within sites as well as the tests of neutrality to indicate population stability where <italic>p</italic> &lt; 0.05 is considered significant.</title>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/table-2.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Population (<italic>n</italic>)</th>
+                  <th align="left">
+                    <italic>t</italic>
+                  </th>
+                  <th align="left">SSD (<italic>p</italic>)</th>
+                  <th align="left"><italic>R</italic>(<italic>p</italic>)</th>
+                  <th align="left">Fu’s <italic>F</italic>(<italic>p</italic>)</th>
+                  <th align="left"><italic>D</italic>(<italic>p</italic>)</th>
+                  <th align="left">
+                    <italic>H</italic>
+                  </th>
+                  <th align="left">
+                    <italic>h</italic>
+                  </th>
+                  <th align="left">π</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">East (74)</td>
+                  <td align="left">2.2</td>
+                  <td align="left">0.005 (0.11)</td>
+                  <td align="left">0.07 (0.08)</td>
+                  <td align="left">−27.2 (&lt;0.001)</td>
+                  <td align="left">−1.59 (0.02)</td>
+                  <td align="left">30</td>
+                  <td align="left">0.91 (±0.020)</td>
+                  <td align="left">0.002 (±0.0014)</td>
+                </tr>
+                <tr>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left"/>
+                  <td align="left">0.89–0.93</td>
+                  <td align="left">0.0006–0.0034</td>
+                </tr>
+                <tr>
+                  <td align="left">West (38)</td>
+                  <td align="left">3.0</td>
+                  <td align="left">0.040 (0.02)</td>
+                  <td align="left">0.68 (0.69)</td>
+                  <td align="left">1.52 (0.17)</td>
+                  <td align="left">−1.02 (0.81)</td>
+                  <td align="left">3</td>
+                  <td align="left">0.20 (±0.083) <break/>0.117–0.283</td>
+                  <td align="left">0.001 (±0.0008) <break/>0.0002–0.0018</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>The coalescent analysis provided an estimated divergence time between the Cape peninsula and eastern population of ca. 4.6 Mya with a confidence interval from 3.2 to 6.4 Mya (<xref ref-type="table" rid="table-2">Table 2</xref>; <xref ref-type="fig" rid="fig-3">Fig. 3</xref>), which falls entirely within the Pliocene.</p>
+        <fig id="fig-3">
+          <object-id pub-id-type="doi">10.7717/peerj.166/fig-3</object-id>
+          <label>Figure 3</label>
+          <caption>
+            <title>IMa2 coalescent analysis of <italic>Xenopus gilli</italic>.</title>
+            <p>Result of the coalescent analysis (in IMa2) provides histories for the three disjunct areas sampled which are represented as boxes (for sampled and ancestral populations), horizontal lines (for splitting times). The size of the boxes on the horizontal axis is proportional to estimated current and ancestral population sizes. Time is represented on the vertical axis, with the sampled sites at the top representing the sampling time. Estimated error is shown in grey (boxes and arrows).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/fig-3.png"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Morphometrics</title>
+        <p>Morphometric measures were made on a total of 109 individuals from all sites. Following the results of SAMOVA analysis we conducted morphometric tests on animals collected from all eastern populations (Pearly Beach and Kleinmond; <italic>n</italic> = 59) compared to those from the Cape peninsula (<italic>n</italic> = 50). The first test for sexual size dimorphism confirmed that in both populations females were significantly larger than males by around 25%: Cape Peninsula females had a mean SVL of 43.0 mm (SE 0.752), while males’ was 34.6 mm (SE 0.528; <italic>t</italic><sub>1,48</sub> = −7.248; <italic>P</italic> &lt; 0.001). For the eastern population, mean female SVL was 44.2 mm (SE 0.071), with males’ mean of 34.3 mm (SE 0.618; <italic>t</italic><sub>1,57</sub> = −8.88; <italic>P</italic> &lt; 0.001). No significant differences were found overall between sexes using size corrected measurements in a MANOVA (Pillai  =  0.1250, <italic>P</italic> = 0.42). Additionally, there was no significant difference for the interactive term: sex and population (Pillai  =  0.1692, <italic>P</italic> = 0.15), indicating that within populations, the sexes did not differ in their morphology. Thus, for all further tests sexes were pooled.</p>
+        <p>Four principal components (PCs) were extracted in the PCA, which accounted for 73.3% of the total variation in the dataset (<xref ref-type="table" rid="table-3">Table 3</xref>). The KMO test indicated sampling was adequate (KMO  =  0.83), all communalities were high suggesting that all variables were reliable contributors to the analysis. The four PCs extracted (<xref ref-type="table" rid="table-3">Table 3</xref>) loaded highest with measures of the limbs and head (metatarsal, head width, femur, ilial width, tibia, longest toe and head height in descending order) on PC1 (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), and arm and ilial length (radius, ilial length, longest finger) on PC2. An analysis of variance (ANOVA) on the principal components showed significant differences between the populations for PC1 only (PC1 <italic>F</italic><sub>107,1</sub> = 180; <italic>P</italic> &lt; 0.0001, PC2 <italic>F</italic><sub>107,1</sub> = 1.503, <italic>P</italic> = 0.2228; <xref ref-type="fig" rid="fig-4">Fig. 4D</xref>) suggesting that they can be distinguished on the basis of limb dimensions and head height.</p>
+        <fig id="fig-4">
+          <object-id pub-id-type="doi">10.7717/peerj.166/fig-4</object-id>
+          <label>Figure 4</label>
+          <caption>
+            <title>Morphometric differences between genetically defined populations of <italic>Xenopus gilli</italic>.</title>
+            <p>Notched box and whisker plots display the direction of significantly different head measurements between sites identified by genetic differences (CP: Cape peninsula and (A) Agulhas plain sites Pearly Beach and Kleinmond). All plots are corrected for size and therefore based on residuals of each measurement on body length (SVL). (A) Head length (HL), (B) head width (HW) and (C) head height (HH) are all significantly different between sites (<italic>p</italic> &lt; 0.001). (D) Values for principle component 1 also show significant differences. When notches do not overlap, there is ‘strong evidence’ that their medians differ (<xref ref-type="bibr" rid="ref-7">Chambers et al., 1983</xref>).</p>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/fig-4.png"/>
+        </fig>
+        <table-wrap id="table-3">
+          <object-id pub-id-type="doi">10.7717/peerj.166/table-3</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Principle Components Analysis on morphometric measurements of <italic>Xenopus gilli</italic> corrected for size by residuals on body length (SVL).</title>
+            <p>Only the first four principle components (PC1 to 4) are shown as they had Eigenvalues greater than 1. Variables are arranged by their contribution to each PC with significant contributing variables in bold.</p>
+          </caption>
+          <alternatives>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/166/table-3.png"/>
+            <table>
+              <colgroup>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+                <col align="left"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left">Variable</th>
+                  <th align="left">PC1 (43.6%)</th>
+                  <th align="left">PC2 (12.0%)</th>
+                  <th align="left">PC3 (9.8%)</th>
+                  <th align="left">PC4 (7.9%)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left">Metatarsal</td>
+                  <td align="left">−<bold>0.3740</bold>
+                           </td>
+                  <td align="left">0.0195</td>
+                  <td align="left">−0.0968</td>
+                  <td align="left">0.0254</td>
+                </tr>
+                <tr>
+                  <td align="left">Head width</td>
+                  <td align="left">−<bold>0.3713</bold>
+                           </td>
+                  <td align="left">−0.0995</td>
+                  <td align="left">−0.0264</td>
+                  <td align="left">−0.1961</td>
+                </tr>
+                <tr>
+                  <td align="left">Femur</td>
+                  <td align="left">−<bold>0.3547</bold>
+                           </td>
+                  <td align="left">−0.0813</td>
+                  <td align="left">−0.1710</td>
+                  <td align="left">0.0236</td>
+                </tr>
+                <tr>
+                  <td align="left">Ilial width</td>
+                  <td align="left">−<bold>0.3334</bold>
+                           </td>
+                  <td align="left">−0.1801</td>
+                  <td align="left">0.0956</td>
+                  <td align="left">−0.1040</td>
+                </tr>
+                <tr>
+                  <td align="left">Tibia</td>
+                  <td align="left">−<bold>0.3293</bold>
+                           </td>
+                  <td align="left">0.2585</td>
+                  <td align="left">−0.1963</td>
+                  <td align="left">0.2572</td>
+                </tr>
+                <tr>
+                  <td align="left">Longest-toe</td>
+                  <td align="left">−<bold>0.3266</bold>
+                           </td>
+                  <td align="left">0.0333</td>
+                  <td align="left">−0.2983</td>
+                  <td align="left">0.0351</td>
+                </tr>
+                <tr>
+                  <td align="left">Head height</td>
+                  <td align="left">−<bold>0.3143</bold>
+                           </td>
+                  <td align="left">−0.2046</td>
+                  <td align="left">0.1633</td>
+                  <td align="left">−0.3047</td>
+                </tr>
+                <tr>
+                  <td align="left">Radius</td>
+                  <td align="left">−0.0375</td>
+                  <td align="left">
+                              <bold>0.6008</bold>
+                           </td>
+                  <td align="left">0.1352</td>
+                  <td align="left">−0.0999</td>
+                </tr>
+                <tr>
+                  <td align="left">Ilial length</td>
+                  <td align="left">−0.1778</td>
+                  <td align="left">−<bold>0.4000</bold>
+                           </td>
+                  <td align="left">0.3709</td>
+                  <td align="left">0.3488</td>
+                </tr>
+                <tr>
+                  <td align="left">Longest finger</td>
+                  <td align="left">−0.2243</td>
+                  <td align="left">
+                              <bold>0.3144</bold>
+                           </td>
+                  <td align="left">−0.2394</td>
+                  <td align="left">−0.2977</td>
+                </tr>
+                <tr>
+                  <td align="left">Humerus</td>
+                  <td align="left">−0.0656</td>
+                  <td align="left">0.3582</td>
+                  <td align="left">
+                              <bold>0.6032</bold>
+                           </td>
+                  <td align="left">−0.2495</td>
+                </tr>
+                <tr>
+                  <td align="left">Head length</td>
+                  <td align="left">−0.2370</td>
+                  <td align="left">−0.0371</td>
+                  <td align="left">
+                              <bold>0.4506</bold>
+                           </td>
+                  <td align="left">−0.0179</td>
+                </tr>
+                <tr>
+                  <td align="left">Lower jaw length</td>
+                  <td align="left">−0.1662</td>
+                  <td align="left">0.3022</td>
+                  <td align="left">0.1313</td>
+                  <td align="left">
+                              <bold>0.7116</bold>
+                           </td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>There is considerable genetic and morphological variation between the two identified populations of <italic>Xenopus gilli</italic> distributed on either side of False Bay. However, for the two disjunct clusters of sites in the East (Kleinmond and Pearly Beach), our analyses did not suggest that they represent separate populations. Despite the disturbance to population distributions caused by sea-level change, our results from coalescent analysis of the deep genetic division between the two populations, dates back to 4.63 Mya (3.17 to 6.38 Mya). This is considerably younger than the estimate provided by <xref ref-type="bibr" rid="ref-20">Evans et al.</xref> (<xref ref-type="bibr" rid="ref-20">2004</xref>, 8.5 Mya, although it is close to their lower 95% confidence interval: 4.8 to 13.4 Mya). If standard mutation rates from the literature are applied (see above) a similar date of 3.44 Mya, with confidence intervals of 2.34 to 4.69 Mya is obtained. Variation in dates may relate to differences in mutation rates and the use of the geometric mean of mutation rates in IMa2, we therefore advise caution in ascribing certainty to exact dates. We do however, suggest that taken together, the best estimate is that divergence was within the Pliocene.</p>
+      <p>The original description of <italic>X. gilli</italic> by <xref ref-type="bibr" rid="ref-66">Rose &amp; Hewitt (1927)</xref> was presumably from the same population that now resides on the Cape peninsula (see <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). These authors referred to head shape and size as defining characters in separating <italic>X. gilli</italic> from <italic>X. laevis</italic>. Relative to their size, the Cape peninsula animals had significantly broader and higher heads than those from the eastern population. In addition, animals from the eastern population had relatively shorter legs. These characters may relate to differences in performance between animals from the different habitat types (see <xref ref-type="bibr" rid="ref-27">Herrel &amp; Bonneaud, 2012</xref>). On the Cape peninsula, natural water bodies are seasonally inundated wetlands, while eastern sites have typically larger, more permanent water bodies. We acknowledge that although our findings show no obvious sexual dimorphism, examination of a larger dataset should be conducted to confirm this result.</p>
+      <p>In addition to the quantitative morphometric study, a retrospective qualitative examination of the markings of each population revealed some consistent differences. There were no apparent differences between the animals with regards to their dorsal markings, both populations having large paravertebral dark brown stripes extending from the eyes, down the length of the body. However, the ventral surfaces were different with respect to positioning of the lateral line ‘stitch’ marks; these were more lateral in animals caught on the Cape peninsula, while those collected in eastern sites were more ventral. For eastern animals, the intensity of the yellow-brown and black marbling was much less apparent although some animals were more brightly coloured than others. Animals from the east also had transparent webbing between the toes on their hind feet, without exception, while the Cape peninsula animals had a continuation of their pigmentation from hind legs to webbing. As colour is often a plastic character, some of this ventral variation may be attributed to either a difference in water colour or carotenoids present in the chromatophores due to dietary differences (<xref ref-type="bibr" rid="ref-34">Kobel, Loumont &amp; Tinsley, 1996</xref>). Both the colour and pattern differences, especially with regards to the lateral line organs should be quantified in future research.</p>
+      <sec>
+        <title>Historical events</title>
+        <p>Inundation of the Cape Flats was previously speculated to have caused the deep genetic division in the Cape <italic>Xenopus</italic> lineage (<xref ref-type="bibr" rid="ref-21">Evans et al., 1997</xref>), but repeated inundations both pre- and post-date our estimated divergence time (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>), and so it seems unlikely that sea-level changes can be the sole factor responsible for the divergence. Sea-level change may have produced two different scenarios for these two <italic>Xenopus</italic> lineages: sea-level rises which contracted populations and sea-level falls which may have allowed a range extension and migration (cf <xref ref-type="bibr" rid="ref-71">Schreiner, Roedder &amp; Measey, 2013</xref>). Furthermore, we suggest that the effects of climate change from 5 Mya are of key importance, when substantial uplifting led to significant reduction of rainfall in this area (<xref ref-type="bibr" rid="ref-40">McCarthy &amp; Rubidge, 2005</xref>), reduction in temperature (<xref ref-type="bibr" rid="ref-86">Zachos et al., 2001</xref>) and a massive expansion in regional floristic diversity (<xref ref-type="bibr" rid="ref-12">Cowling, Proches &amp; Partridge, 2009</xref>).</p>
+        <p>The Agulhas Bank was last exposed as recently as the last glacial maximum, some 20 Kya with a sea-level fall of around 140 m (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>). The change in climate and land area since then is predicted to have had a major reduction on the distributions of Cape frogs (<xref ref-type="bibr" rid="ref-71">Schreiner, Roedder &amp; Measey, 2013</xref>). At the last glacial maximum, much of the exposed land would have been sand fynbos vegetated dunes similar to that seen, and not occupied by <italic>X. gilli</italic>, on the Cape Flats today (see <xref ref-type="bibr" rid="ref-9">Compton, 2004</xref>). East of False Bay, the extension of the rivers across the exposed southern coastal plain would have in part coincided with bedrock supporting both Renosterveld and lowland sand-stone fynbos, vegetation types on which <italic>X. gilli</italic> are found today (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). On the Cape peninsula, it seems that only a small amount of land to the West and South would have been exposed, and this would also have been the currently uninhabited sand fynbos. Due East of the Cape peninsula (5–10 km) lies a large (approximately 50 km<sup>2</sup>) outcrop of sandstone which may have been able to support a population of <italic>X. gilli</italic>. It is not known whether <italic>X. gilli</italic> would have been capable of movement across the intermediary habitat, and there is a similar distance from this outcrop to the habitat extensions in the east. If dispersal was possible over these distances, there is the potential for movement of individuals across False Bay at each glacial maximum. Similarly, <xref ref-type="bibr" rid="ref-68">Rourke (1972)</xref> speculated about the dispersal of Proteacae across the same bridging habitat.</p>
+        <p>Our molecular data does not exclude movement between these lineages, as we did find a single individual in the Cape peninsula with a haplotype from the western population, as did <xref ref-type="bibr" rid="ref-22">Evans et al.</xref> (<xref ref-type="bibr" rid="ref-22">1998</xref> see below). If single animals are capable of dispersal on this scale, our interpretation that this resulted from the release of captive animals would be erroneous. We suggest that in the east, as continuous appropriate habitat would have been uncovered by the retreat of the sea during the last glacial maximum (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>), that this <italic>Xenopus</italic> lineage would have had a larger distribution. This may explain the star-shaped haplotype network (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>), and the significant results of neutrality tests, which suggest that this lineage has undergone recent expansion. Using mutation rates already described for ND2, we date this expansion to around 150 Kya, a period when the Agulhas bank was exposed with sea-level some 140 m lower than today (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>).</p>
+        <p>Our approximate dates for divergence between the populations coincide with a period when sea-level is hypothesised to have been around 25 m higher (also see <xref ref-type="bibr" rid="ref-61">Raymo et al., 2011</xref>). However, unless this was the first marine incursion in the area, there is no reason to think that the substrate immediately prior (or after) to this time was any more suitable than it is today. Certainly the sea also covered the Cape Flats 1.5 Mya (<xref ref-type="bibr" rid="ref-9">Compton, 2004</xref>), and was even 20 m higher than current levels around 130 Kya (<xref ref-type="bibr" rid="ref-10">Compton, 2011</xref>). Thus, if sea-level has repeatedly covered the Cape Flats and uncovered the Agulhas Bank throughout the Pleistocene period, we look to other explanations for the continued separation of these lineages.</p>
+        <p>We consider that composition of the underlying substrate may be more likely to have had a lasting effect on the distribution of these acidophilic species. Distribution records for <italic>X. gilli</italic> suggest that this species is not tolerant of alkaline substrates, such as those currently in place over much of the Cape Flats area today (see <xref ref-type="fig" rid="fig-1">Fig. 1B</xref>, <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>). The alkalinity of this area is thought to be in part due to repeated marine incursions, but with additional calcareous wind-blown sands resulting from the erosion of uplifted material (<xref ref-type="bibr" rid="ref-9">Compton, 2004</xref>; <xref ref-type="bibr" rid="ref-12">Cowling, Proches &amp; Partridge, 2009</xref>). This suggests that areas that had been suitable for the ancestor of these populations were continually reduced over the last 5 My.</p>
+        <p>Climatic change also followed this period of substantial uplifting on the eastern side of the subcontinent and is thought to have led to significant reductions of rainfall in the west and aridification of the interior of South Africa (<xref ref-type="bibr" rid="ref-40">McCarthy &amp; Rubidge, 2005</xref>; <xref ref-type="bibr" rid="ref-53">Partridge &amp; Maud, 2000</xref>). The start of these substantial changes, around 5 Mya, coincides with our estimated split within <italic>Xenopus gilli</italic> and the rapid diversification and establishment of the fynbos biome ca. 3–5 Mya (<xref ref-type="bibr" rid="ref-11">Cowling &amp; Pressey, 2001</xref>; <xref ref-type="bibr" rid="ref-24">Goldblatt, 1997</xref>), on whose acid-blackwaters <italic>X. gilli</italic> now depends (<xref ref-type="bibr" rid="ref-54">Picker, 1985</xref>). This same period is known to have resulted in radiations of other faunal groups in this specific area of the south-western Cape (e.g., <xref ref-type="bibr" rid="ref-74">Smit, Robinson &amp; Van Vuuren, 2007</xref>; <xref ref-type="bibr" rid="ref-76">Swart, Tolley &amp; Matthee, 2009</xref>; <xref ref-type="bibr" rid="ref-79">Tolley, Chase &amp; Forest, 2008</xref>; <xref ref-type="bibr" rid="ref-80">Tolley et al., 2010</xref>). Thus, the tectonic uplift began a series of processes (spread of alkaline substrate and drying) which reduced the range of the most recent common ancestor of these distinct lineages, eventually leading to their divergence around 4.63 Mya. Further, we postulate that these processes, which have been ongoing, continue to reduce the ranges of these lineages (and other species such as <italic>Microbatrachella capensis</italic>), and this might explain why there was not a more recent genetic expansion during the last glacial maximum. Most recently however, anthropogenic factors have further reduced the ranges of these <italic>X. gilli</italic> populations, raising concern for the conservation of these species.</p>
+      </sec>
+      <sec>
+        <title>Conservation</title>
+        <p>On the Cape peninsula, there has been a reduction in the known range of <italic>Xenopus gilli</italic> over the past century. The type series was said to be collected from the Silvermine River and adjacent Cape Flats (<xref ref-type="bibr" rid="ref-66">Rose &amp; Hewitt, 1927</xref>), and in the same publication, it was noted that frogs collected from these localities were already outnumbered by <italic>X. laevis</italic> (see also <xref ref-type="bibr" rid="ref-16">de Villiers, 2004</xref>). The last record of this species outside of the CoGH is a specimen collected at Zeekovlei in the mid-1970s (in the Iziko Museum, Cape Town: <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>). This dramatic and rapid reduction in range may in part explain the low haplotype diversity observed in population sampled from the Cape peninsula (see also <xref ref-type="bibr" rid="ref-13">Cressey, Measey &amp; Tolley, in press</xref>). The disparity between haplotype (<italic>h</italic>) and nucleotide (π) diversity between the two lineages is indicative of a bottleneck in the Cape peninsula, with a reduction in the number but not in the diversity of the remaining haplotypes. The distribution of pairwise differences between haplotypes (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>) is also suggestive that intermediary haplotypes have been lost. The scenario is similar to that described in other historically documented cases of population bottlenecks (<xref ref-type="bibr" rid="ref-31">Hoelzel et al., 2002</xref>; <xref ref-type="bibr" rid="ref-85">Weber et al., 2000</xref>).</p>
+        <p>Natural hybridisation between <italic>Xenopus laevis</italic> and <italic>X. gilli</italic> was reported as far back as the 1970s (<xref ref-type="bibr" rid="ref-33">Kobel, Du Pasquier &amp; Tinsley, 1981</xref>; <xref ref-type="bibr" rid="ref-54">Picker, 1985</xref>; <xref ref-type="bibr" rid="ref-56">Picker &amp; Samways, 1996</xref>; <xref ref-type="bibr" rid="ref-60">Rau, 1978</xref>; <xref ref-type="bibr" rid="ref-73">Simmons, 1985</xref>), although continuing investigations showed that hybrid males were not fertile, and hybrid females had a reduced fecundity (<xref ref-type="bibr" rid="ref-25">Gurdon, 1996</xref>). The first genetic investigations into the frequency of hybrids found only a single (nuclear) hybrid in 32 <italic>X. gilli</italic> (and 38 <italic>X. laevis</italic>) sampled in the eastern area, while none were found from 59 sampled from the CoGH reserve (<xref ref-type="bibr" rid="ref-22">Evans et al., 1998</xref>). Thus, these authors concluded that introgression was not the greatest obstacle to <italic>X. gilli</italic> conservation. Our study, sequencing mtDNA only, avoided sampling any obvious <italic>X. laevis</italic> or putative <italic>X. laevis-gilli</italic> hybrids, but still found substantial numbers of animals which were morphologically identified as <italic>X. gilli</italic> (see methods for characters) but result from a <italic>X. laevis</italic> maternal lineage. From relatively low levels (2.5%) on the Cape peninsula, to 27% in ponds near Kleinmond where <italic>X. laevis</italic> and hybrids have come to dominate some historically known <italic>X. gilli</italic> sites. Ponds near Pearly Beach, which were previously thought to contain only pure <italic>X. gilli</italic> (see <xref ref-type="bibr" rid="ref-22">Evans et al., 1998</xref>; <xref ref-type="bibr" rid="ref-55">Picker &amp; de Villiers, 1989</xref>), were found to have 8% hybrids, even though no <italic>X. laevis</italic>-like animals were seen. Our results suggest that hybridisation has greatly increased in both lineages and this aspect requires better investigation using nuclear markers and larger sample sizes.</p>
+        <p>Although we decided to remove the single individual found in CoGH with the eastern haplotype from our analysis, there remains the question surrounding the provenance of this individual with a haplotype also found by <xref ref-type="bibr" rid="ref-21">Evans et al. (1997)</xref>. There are two possibilities: first that this individual was anthropogenically introduced into CoGH, or second that it represents ancient migration from the eastern population to the west. We reason that if it was possible for animals to migrate east to west, then the return route should also have been possible, and we might therefore expect to see instances of peninsula haplotypes in eastern populations. Given that the last time that the Cape Flats were covered was some 1.5 Mya (<xref ref-type="bibr" rid="ref-9">Compton, 2004</xref>), migrants from that time should be discernible from modern movements through further genetic testing such as micro-satellites. It is important to conduct such a test as otherwise these animals present another introgression threat to the remaining population on the peninsula.</p>
+        <p>Lastly, we suggest that the eastern lineage of <italic>X. gilli</italic> requires taxonomic attention through data on calls, patterning and lateral line configuration. Despite recent conservation work at CoGH removing hundreds of <italic>Xenopus laevis</italic>, hybridisation poses an ongoing threat (see <xref ref-type="bibr" rid="ref-44">Measey &amp; Davies, 2011</xref>). The eastern population occurs over a much wider area, but all of this is threatened by invasive alien plants (as well as hybridising <italic>X. laevis</italic>). Despite good and clear documentation on the threats to this species, all appear to continue unabated.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank Jonathon Coleville, Atherton de Villiers, Rikki de Villiers, Shelley Edwards and Stephen Doucette-Riise for help in the lab and field. Mike Picker, Atherton de Villiers, Anthony Herrel and John Compton all provided helpful discussions during manuscript preparation. Two referees provided insightful reviews which helped in revising this manuscript. Some analyses were run at the Computational Biology Applications Suite for High Performance Computing at Cornell University.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>GJM is an Academic Editor for PeerJ. The authors declare there are no other competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p>
+               <xref ref-type="contrib" rid="author-1">Deborah J. Fogell</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p>
+               <xref ref-type="contrib" rid="author-2">Krystal A. Tolley</xref> analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-3" fn-type="con">
+          <p>
+               <xref ref-type="contrib" rid="author-3">G. John Measey</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>Ethics clearance was obtained from South African National Biodiversity Institute: ethical clearance number: 001/10.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Field Study Permissions</title>
+        <fn id="addinfo-2" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>Permits were obtained from Cape Nature (permit number: AAA004-00322-0035) and South African National Parks (permit: Agulhas and Table Mountain National Parks, issued 21 July 2010 to GJM).</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>DNA Deposition</title>
+        <fn id="addinfo-3" fn-type="other">
+          <p>The following information was supplied regarding the deposition of DNA sequences:</p>
+          <p>EMBL numbers are 16S: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427449">HG427449</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427450">HG427450</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427451">HG427451</ext-link> ND2: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427452">HG427452</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427453">HG427453</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427454">HG427454</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427455">HG427455</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427456">HG427456</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427457">HG427457</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427458">HG427458</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427459">HG427459</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427460">HG427460</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427461">HG427461</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427462">HG427462</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427463">HG427463</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427464">HG427464</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427465">HG427465</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427466">HG427466</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427467">HG427467</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427468">HG427468</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427469">HG427469</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427470">HG427470</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427471">HG427471</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427472">HG427472</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427473">HG427473</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427474">HG427474</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427475">HG427475</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427476">HG427476</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427477">HG427477</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427478">HG427478</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427479">HG427479</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427480">HG427480</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427481">HG427481</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427482">HG427482</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427483">HG427483</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="HG427484">HG427484</ext-link>.</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Alexander et al. (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Alexander</surname><given-names>G</given-names></name>
+                  <name><surname>Harrison</surname><given-names>JA</given-names></name>
+                  <name><surname>Fairbanks</surname><given-names>DH</given-names></name>
+                  <name><surname>Navarro</surname><given-names>RA</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Minter</surname><given-names>LR</given-names></name>
+                  <name><surname>Burger</surname><given-names>M</given-names></name>
+                  <name><surname>Harrison</surname><given-names>JA</given-names></name>
+                  <name><surname>Braack</surname><given-names>H</given-names></name>
+                  <name><surname>Bishop</surname><given-names>PJ</given-names></name>
+                  <name><surname>Kloepfer</surname><given-names>D</given-names></name>
+               </person-group>
+          <article-title>Biogeography of the frogs of South Africa, Lesotho and Swaziland</article-title>
+          <source>Atlas and red data book of the frogs of South Africa, Lesotho and Swaziland</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Washington, DC</publisher-loc>
+          <publisher-name>Smithsonian Institution</publisher-name>
+          <fpage>31</fpage>
+          <lpage>47</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Angulo, Hoffmann &amp; Measey (2011)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Angulo</surname><given-names>A</given-names></name>
+                  <name><surname>Hoffmann</surname><given-names>M</given-names></name>
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <article-title>Introduction: conservation assessments of the amphibians of South Africa and the World</article-title>
+          <source>Ensuring a future for South Africa’s frogs: a strategy for conservation research</source>
+          <year iso-8601-date="2011">2011</year>
+          <publisher-loc>Pretoria</publisher-loc>
+          <publisher-name>South African National Biodiversity Institute</publisher-name>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Bandelt, Forster &amp; Röhl (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bandelt</surname><given-names>H-J</given-names></name>
+                  <name><surname>Forster</surname><given-names>P</given-names></name>
+                  <name><surname>Röhl</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Median-joining networks for inferring intraspecific phylogenies</article-title>
+          <source>Molecular Biology and Evolution</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>16</volume>
+          <fpage>37</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordjournals.molbev.a026036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Bintanja &amp; van de Wal (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bintanja</surname><given-names>R</given-names></name>
+                  <name><surname>van de Wal</surname><given-names>RSW</given-names></name>
+               </person-group>
+          <article-title>North American ice-sheet dynamics and the onset of 100,000-year glacial cycles</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>454</volume>
+          <fpage>869</fpage>
+          <lpage>872</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature07158</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Botts, Erasmus &amp; Alexander (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Botts</surname><given-names>EA</given-names></name>
+                  <name><surname>Erasmus</surname><given-names>BF</given-names></name>
+                  <name><surname>Alexander</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <article-title>Methods to detect species range size change from biological atlas data: a comparison using the South African Frog Atlas Project</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>146</volume>
+          <fpage>72</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2011.10.035</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Bruford et al. (1992)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Bruford</surname><given-names>MW</given-names></name>
+                  <name><surname>Hanotte</surname><given-names>O</given-names></name>
+                  <name><surname>Brookfield</surname><given-names>JFY</given-names></name>
+                  <name><surname>Burke</surname><given-names>T</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Hoelzel</surname><given-names>AR</given-names></name>
+               </person-group>
+          <article-title>Singlelocus and multilocus DNA fingerprint</article-title>
+          <source>Molecular genetic analysis of populations: a practical approach</source>
+          <year iso-8601-date="1992">1992</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>IRL Press</publisher-name>
+          <fpage>225</fpage>
+          <lpage>270</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Chambers et al. (1983)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Chambers</surname><given-names>JM</given-names></name>
+                  <name><surname>Cleveland</surname><given-names>WS</given-names></name>
+                  <name><surname>Kleiner</surname><given-names>B</given-names></name>
+                  <name><surname>Tukey</surname><given-names>PA</given-names></name>
+               </person-group>
+          <source>Graphical methods for data analysis</source>
+          <year iso-8601-date="1983">1983</year>
+          <publisher-loc>Pacific Grove</publisher-loc>
+          <publisher-name>Wadsworth &amp; Brooks/Cole</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Chuang &amp; Lee (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Chuang</surname><given-names>S-A</given-names></name>
+                  <name><surname>Lee</surname><given-names>L-L</given-names></name>
+               </person-group>
+          <article-title>Food habits of three carnivore species (<italic>Viverricula indica, Herpestres urva</italic>, and <italic>Melogale moschata</italic>) in Fusham Forest, northern Taiwan</article-title>
+          <source>Journal of Zoology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>243</volume>
+          <fpage>71</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-7998.1997.tb05757.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Compton (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Compton</surname><given-names>JS</given-names></name>
+               </person-group>
+          <source>The rocks and mountains of Cape Town</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Cape Town</publisher-loc>
+          <publisher-name>Double Storey Books (Juta &amp; Co.)</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Compton (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Compton</surname><given-names>JS</given-names></name>
+               </person-group>
+          <article-title>Pleistocene sea-level fluctuations and human evolution on the southern coastal plain of South Africa</article-title>
+          <source>Quaternary Science Reviews</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>30</volume>
+          <fpage>506</fpage>
+          <lpage>527</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.quascirev.2010.12.012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Cowling &amp; Pressey (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Cowling</surname><given-names>RM</given-names></name>
+                  <name><surname>Pressey</surname><given-names>RL</given-names></name>
+               </person-group>
+          <article-title>Rapid plant diversification: planning for an evolutionary future</article-title>
+          <source>Proceedings of the National Academy of Science of the United States of America</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>98</volume>
+          <fpage>5452</fpage>
+          <lpage>5457</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.101093498</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Cowling, Proches &amp; Partridge (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Cowling</surname><given-names>RM</given-names></name>
+                  <name><surname>Proches</surname><given-names>S</given-names></name>
+                  <name><surname>Partridge</surname><given-names>TC</given-names></name>
+               </person-group>
+          <article-title>Explaining the uniqueness of the Cape flora: incorporating geomorphic evolution as a factor for explaining its diversification</article-title>
+          <source>Molecular Phylogenetics and Evolution</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>51</volume>
+          <fpage>64</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ympev.2008.05.034</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Cressey, Measey &amp; Tolley (in press)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <name><surname>Cressey</surname><given-names>ER</given-names></name>
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+               </person-group>
+          <comment>Fading out of view: the enigmatic decline of the endemic dwarf toad, <italic>Capensibufo rosei</italic>. <italic>Oryx</italic> In Press</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Cunningham &amp; Cherry (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Cunningham</surname><given-names>M</given-names></name>
+                  <name><surname>Cherry</surname><given-names>MI</given-names></name>
+               </person-group>
+          <article-title>Molecular systematics of African 20-chromosome toads (Anura: Bufonidae)</article-title>
+          <source>Molecular Phylogenetics and Evolution</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>32</volume>
+          <fpage>671</fpage>
+          <lpage>685</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ympev.2004.03.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Daniels, Gouws &amp; Crandall (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Daniels</surname><given-names>SR</given-names></name>
+                  <name><surname>Gouws</surname><given-names>G</given-names></name>
+                  <name><surname>Crandall</surname><given-names>KA</given-names></name>
+               </person-group>
+          <article-title>Phylogeographic patterning in a freshwater crab species (Decapoda: Potamonautidae: <italic>Potamonautes</italic>) reveals the signature of historical climatic oscillations</article-title>
+          <source>Journal of Biogeography</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>33</volume>
+          <fpage>1538</fpage>
+          <lpage>1549</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2699.2006.01537.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>de Villiers (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>de Villiers</surname><given-names>A</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Minter</surname><given-names>LR</given-names></name>
+                  <name><surname>Burger</surname><given-names>M</given-names></name>
+                  <name><surname>Harrison</surname><given-names>JA</given-names></name>
+                  <name><surname>Bishop</surname><given-names>PJ</given-names></name>
+                  <name><surname>Braack</surname><given-names>H</given-names></name>
+               </person-group>
+          <article-title>Species account: <italic>Xenopus gilli</italic> (Rose &amp; Hewitt, 1927)</article-title>
+          <source>Atlas and red data book of the frogs of South Africa, Lesotho and Swaziland</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Washington, DC</publisher-loc>
+          <publisher-name>Smithsonian Institution Press</publisher-name>
+          <fpage>260</fpage>
+          <lpage>263</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Drummond et al. (2007)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <name><surname>Drummond</surname><given-names>AJ</given-names></name>
+                  <name><surname>Ashton</surname><given-names>B</given-names></name>
+                  <name><surname>Cheung</surname><given-names>M</given-names></name>
+                  <name><surname>Heled</surname><given-names>J</given-names></name>
+                  <name><surname>Kearse</surname><given-names>M</given-names></name>
+                  <name><surname>Moir</surname><given-names>R</given-names></name>
+                  <name><surname>Stones-Havas</surname><given-names>S</given-names></name>
+                  <name><surname>Thierer</surname><given-names>T</given-names></name>
+                  <name><surname>Wilson</surname><given-names>A</given-names></name>
+               </person-group>
+          <year iso-8601-date="2007">2007</year>
+          <comment><italic>Geneious v4.8</italic>. Auckland, New Zealand: Biomatters Ltd. <italic>Available at <uri xlink:href="http://www.geneious.com">http://www.geneious.com</uri></italic> (accessed 3 April 2011)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Dupanloup, Schneider &amp; Excoffier (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Dupanloup</surname><given-names>I</given-names></name>
+                  <name><surname>Schneider</surname><given-names>S</given-names></name>
+                  <name><surname>Excoffier</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>A simulated annealing approach to define the genetic structure of populations</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>11</volume>
+          <fpage>2571</fpage>
+          <lpage>2581</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-294X.2002.01650.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Evans et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Evans</surname><given-names>BJ</given-names></name>
+                  <name><surname>Greenbaum</surname><given-names>E</given-names></name>
+                  <name><surname>Kusamba</surname><given-names>C</given-names></name>
+                  <name><surname>Carter</surname><given-names>TF</given-names></name>
+                  <name><surname>Tobias</surname><given-names>ML</given-names></name>
+                  <name><surname>Mendel</surname><given-names>SA</given-names></name>
+                  <name><surname>Kelley</surname><given-names>DB</given-names></name>
+               </person-group>
+          <article-title>Description of a new octoploid frog species (Anura: Pipidae: <italic>Xenopus</italic>) from the Democratic Republic of the Congo, with a discussion of the biogeography of African clawed frogs in the Albertine Rift</article-title>
+          <source>Journal of Zoology</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>283</volume>
+          <fpage>276</fpage>
+          <lpage>290</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-7998.2010.00769.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Evans et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Evans</surname><given-names>BJ</given-names></name>
+                  <name><surname>Kelley</surname><given-names>DB</given-names></name>
+                  <name><surname>Tinsley</surname><given-names>RC</given-names></name>
+                  <name><surname>Melnick</surname><given-names>DJ</given-names></name>
+                  <name><surname>Cannatella</surname><given-names>DC</given-names></name>
+               </person-group>
+          <article-title>A mitochondrial DNA phylogeny of African clawed frogs: phylogeography and implications for polyploid evolution</article-title>
+          <source>Molecular Phylogenetics and Evolution</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>33</volume>
+          <fpage>197</fpage>
+          <lpage>213</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ympev.2004.04.018</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Evans et al. (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Evans</surname><given-names>BJ</given-names></name>
+                  <name><surname>Morales</surname><given-names>JC</given-names></name>
+                  <name><surname>Picker</surname><given-names>MD</given-names></name>
+                  <name><surname>Kelley</surname><given-names>DB</given-names></name>
+                  <name><surname>Melnick</surname><given-names>DJ</given-names></name>
+               </person-group>
+          <article-title>Comparative molecular phylogeography of two <italic>Xenopus</italic> species, <italic>X. gilli</italic> and <italic>X. laevis</italic>, in the south-western Cape province, South Africa</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>6</volume>
+          <fpage>333</fpage>
+          <lpage>343</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-294X.1997.00198.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Evans et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Evans</surname><given-names>BJ</given-names></name>
+                  <name><surname>Morales</surname><given-names>JC</given-names></name>
+                  <name><surname>Picker</surname><given-names>MD</given-names></name>
+                  <name><surname>Melnick</surname><given-names>DJ</given-names></name>
+                  <name><surname>Kelley</surname><given-names>DB</given-names></name>
+               </person-group>
+          <article-title>Absence of extensive introgression between <italic>Xenopus gilli</italic> and <italic>Xenopus laevis laevis</italic> (Anura: Pipidae) in southwestern Cape Province, South Africa</article-title>
+          <source>Copeia</source>
+          <year iso-8601-date="1998">1998</year>
+          <fpage>504</fpage>
+          <lpage>509</lpage>
+          <pub-id pub-id-type="doi">10.2307/1447452</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Excoffier &amp; Lischer (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Excoffier</surname><given-names>L</given-names></name>
+                  <name><surname>Lischer</surname><given-names>HEL</given-names></name>
+               </person-group>
+          <article-title>Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows</article-title>
+          <source>Molecular Ecology Resources</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>10</volume>
+          <fpage>564</fpage>
+          <lpage>567</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02847.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>Goldblatt (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Goldblatt</surname><given-names>P</given-names></name>
+               </person-group>
+          <article-title>Floristic diversity in the Cape flora of South Africa</article-title>
+          <source>Biodiversity and Conservation</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>6</volume>
+          <fpage>359</fpage>
+          <lpage>377</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1018360607299</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Gurdon (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Gurdon</surname><given-names>J</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Tinsley</surname><given-names>RC</given-names></name>
+                  <name><surname>Kobel</surname><given-names>HR</given-names></name>
+               </person-group>
+          <article-title>Introductory comments: <italic>Xenopus</italic> as a laboratory animal</article-title>
+          <source>The biology of xenopus</source>
+          <year iso-8601-date="1996">1996</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>3</fpage>
+          <lpage>6</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Halliday &amp; Verrell (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Halliday</surname><given-names>TR</given-names></name>
+                  <name><surname>Verrell</surname><given-names>PA</given-names></name>
+               </person-group>
+          <article-title>Body size and age in amphibians and reptiles</article-title>
+          <source>Journal of Herpetology</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>22</volume>
+          <fpage>253</fpage>
+          <lpage>265</lpage>
+          <pub-id pub-id-type="doi">10.2307/1564148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Herrel &amp; Bonneaud (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Herrel</surname><given-names>A</given-names></name>
+                  <name><surname>Bonneaud</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Trade-offs between burst performance and maximal exertion capacity in a wild amphibian, <italic>Xenopus tropicalis</italic></article-title>
+          <source>Journal of Experimental Biology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>215</volume>
+          <fpage>3106</fpage>
+          <lpage>3111</lpage>
+          <pub-id pub-id-type="doi">10.1242/jeb.072090</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Herrel et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Herrel</surname><given-names>A</given-names></name>
+                  <name><surname>Gonwouo</surname><given-names>LN</given-names></name>
+                  <name><surname>Fokam</surname><given-names>EB</given-names></name>
+                  <name><surname>Ngundu</surname><given-names>WI</given-names></name>
+                  <name><surname>Bonneaud</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Intersexual differences in body shape and locomotor performance in the aquatic frog, <italic>Xenopus tropicalis</italic></article-title>
+          <source>Journal of Zoology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>287</volume>
+          <fpage>311</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-7998.2012.00919.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Hey (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hey</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Isolation with migration models for more than two populations</article-title>
+          <source>Molecular Biology and Evolution</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>27</volume>
+          <fpage>905</fpage>
+          <lpage>920</lpage>
+          <pub-id pub-id-type="doi">10.1093/molbev/msp296</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Hey &amp; Nielsen (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hey</surname><given-names>J</given-names></name>
+                  <name><surname>Nielsen</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>Integration within the Felsenstein equation for improved Markov chain Monte Carlo methods in population genetics</article-title>
+          <source>Proceedings of the National Academy of Science of the United States of America</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>104</volume>
+          <fpage>2785</fpage>
+          <lpage>2790</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0611164104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Hoelzel et al. (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Hoelzel</surname><given-names>AR</given-names></name>
+                  <name><surname>Fleischer</surname><given-names>RC</given-names></name>
+                  <name><surname>Campagna</surname><given-names>C</given-names></name>
+                  <name><surname>Boeuf</surname><given-names>BJL</given-names></name>
+                  <name><surname>Alvord</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Impact of a population bottleneck on symmetry and genetic diversity in the northern elephant seal</article-title>
+          <source>Journal of Evolutionary Biology</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>15</volume>
+          <fpage>565</fpage>
+          <lpage>575</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1420-9101.2002.00419.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Holt et al. (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Holt</surname><given-names>B</given-names></name>
+                  <name><surname>Lessard</surname><given-names>JP</given-names></name>
+                  <name><surname>Borregaard</surname><given-names>MK</given-names></name>
+                  <name><surname>Fritz</surname><given-names>SA</given-names></name>
+                  <name><surname>Araújo</surname><given-names>MB</given-names></name>
+                  <name><surname>Dimitrov</surname><given-names>D</given-names></name>
+                  <name><surname>Fabre</surname><given-names>PH</given-names></name>
+                  <name><surname>Graham</surname><given-names>CH</given-names></name>
+                  <name><surname>Graves</surname><given-names>GR</given-names></name>
+                  <name><surname>Jønsson</surname><given-names>KA</given-names></name>
+                  <name><surname>Nogués-Bravo</surname><given-names>D</given-names></name>
+                  <name><surname>Wang</surname><given-names>Z</given-names></name>
+                  <name><surname>Whittaker</surname><given-names>RJ</given-names></name>
+                  <name><surname>Fjeldsȧ</surname><given-names>J</given-names></name>
+                  <name><surname>Rahbek</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>An Update of Wallace’s zoogeographic regions of the World</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2013">2013</year>
+          <volume>339</volume>
+          <fpage>74</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1228282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Kobel, Du Pasquier &amp; Tinsley (1981)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Kobel</surname><given-names>HR</given-names></name>
+                  <name><surname>Du Pasquier</surname><given-names>L</given-names></name>
+                  <name><surname>Tinsley</surname><given-names>RC</given-names></name>
+               </person-group>
+          <article-title>Natural hybridization and gene introgression between <italic>Xenopus gilli</italic> and <italic>Xenopus laevis laevis</italic> (Anura, Pipidae)</article-title>
+          <source>Journal of Zoology</source>
+          <year iso-8601-date="1981">1981</year>
+          <volume>194</volume>
+          <fpage>317</fpage>
+          <lpage>322</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-7998.1981.tb04584.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Kobel, Loumont &amp; Tinsley (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Kobel</surname><given-names>HR</given-names></name>
+                  <name><surname>Loumont</surname><given-names>C</given-names></name>
+                  <name><surname>Tinsley</surname><given-names>RC</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Tinsley</surname><given-names>RC</given-names></name>
+                  <name><surname>Kobel</surname><given-names>HR</given-names></name>
+               </person-group>
+          <article-title>The extant species</article-title>
+          <source>The biology of xenopus</source>
+          <year iso-8601-date="1996">1996</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>9</fpage>
+          <lpage>34</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Lamb &amp; Avise (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lamb</surname><given-names>T</given-names></name>
+                  <name><surname>Avise</surname><given-names>JC</given-names></name>
+               </person-group>
+          <article-title>Directional introgression of mitochondrial DNA in a hybrid population of treefrogs: the influence of mating behavior</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="1986">1986</year>
+          <volume>83</volume>
+          <fpage>2526</fpage>
+          <lpage>2530</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.83.8.2526</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Lambeck &amp; Chappell (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lambeck</surname><given-names>K</given-names></name>
+                  <name><surname>Chappell</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Sea level change through the last glacial cycle</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>292</volume>
+          <fpage>679</fpage>
+          <lpage>686</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1059549</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Linder (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Linder</surname><given-names>HP</given-names></name>
+               </person-group>
+          <article-title>Evolution of diversity: the Cape flora</article-title>
+          <source>Trends in Plant Science</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>10</volume>
+          <fpage>536</fpage>
+          <lpage>541</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tplants.2005.09.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Macey et al. (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Macey</surname><given-names>JR</given-names></name>
+                  <name><surname>Schulte</surname><given-names>JA</given-names></name>
+                  <name><surname>Larson</surname><given-names>A</given-names></name>
+                  <name><surname>Fang</surname><given-names>Z</given-names></name>
+                  <name><surname>Yeuzhao</surname><given-names>Wang</given-names></name>
+                  <name><surname>Tuniyev</surname><given-names>BS</given-names></name>
+                  <name><surname>Papenfuss</surname><given-names>TJ</given-names></name>
+               </person-group>
+          <article-title>Phylogenetic relationships of toads in the <italic>Bufo bufo s</italic>pecies group from the eastern escarpment of the Tibetan Plateau: a case of vicariance and dispersal</article-title>
+          <source>Molecular Phylogenetics and Evolution</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>9</volume>
+          <fpage>80</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="doi">10.1006/mpev.1997.0440</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Matthee &amp; Flemming (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Matthee</surname><given-names>CA</given-names></name>
+                  <name><surname>Flemming</surname><given-names>AF</given-names></name>
+               </person-group>
+          <article-title>Population fragmentation in the southern rock agama, <italic>Agama atra</italic>: more evidence for vicariance in southern Africa</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>11</volume>
+          <fpage>465</fpage>
+          <lpage>471</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.0962-1083.2001.01458.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>McCarthy &amp; Rubidge (2005)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>McCarthy</surname><given-names>T</given-names></name>
+                  <name><surname>Rubidge</surname><given-names>B</given-names></name>
+               </person-group>
+          <source>The story of earth and life: a southern African perspective on a 4.6-billion-year journey</source>
+          <year iso-8601-date="2005">2005</year>
+          <publisher-loc>Cape Town</publisher-loc>
+          <publisher-name>Struik Publishers</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Measey (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <article-title>Growth and ageing of feral <italic>Xenopus laevis</italic> (Daudin) in South Wales, UK</article-title>
+          <source>Journal of Zoology</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>254</volume>
+          <fpage>547</fpage>
+          <lpage>555</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0952836901001054</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Measey (2011)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <source>Ensuring a future for South Africa’s frogs: a strategy for conservation research</source>
+          <year iso-8601-date="2011">2011</year>
+          <publisher-loc>Pretoria</publisher-loc>
+          <publisher-name>South African National Biodiversity Institute</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Measey &amp; Channing (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Channing</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Phylogeography of the genus <italic>Xenopus</italic> in southern Africa</article-title>
+          <source>Amphibia-Reptilia</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>24</volume>
+          <fpage>321</fpage>
+          <lpage>330</lpage>
+          <pub-id pub-id-type="doi">10.1163/156853803322440781</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-44">
+        <label>Measey &amp; Davies (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Davies</surname><given-names>SJ</given-names></name>
+               </person-group>
+          <article-title>Struggling against domestic exotics at the southern end of Africa</article-title>
+          <source>Froglog</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>97</volume>
+          <fpage>28</fpage>
+          <lpage>30</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-45">
+        <label>Measey &amp; de Villiers (2011)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>de Villiers</surname><given-names>AL</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Soorae</surname><given-names>PS</given-names></name>
+               </person-group>
+          <article-title>Conservation introduction of the Cape platanna within the Western Cape, South Africa</article-title>
+          <source>Global re-introduction perspectives: 2011 more case studies from around the globe</source>
+          <year iso-8601-date="2011">2011</year>
+          <publisher-loc>Gland</publisher-loc>
+          <publisher-name>IUCN</publisher-name>
+          <fpage>91</fpage>
+          <lpage>93</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-46">
+        <label>Measey, Hopkins &amp; Tolley (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Hopkins</surname><given-names>K</given-names></name>
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+               </person-group>
+          <article-title>Morphology, ornaments and performance in two chameleon ecomorphs: is the casque bigger than the bite?</article-title>
+          <source>Zoology</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>112</volume>
+          <fpage>217</fpage>
+          <lpage>226</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.zool.2008.09.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-47">
+        <label>Measey et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Roedder</surname><given-names>D</given-names></name>
+                  <name><surname>Green</surname><given-names>SL</given-names></name>
+                  <name><surname>Kobayashi</surname><given-names>R</given-names></name>
+                  <name><surname>Lillo</surname><given-names>F</given-names></name>
+                  <name><surname>Lobos</surname><given-names>G</given-names></name>
+                  <name><surname>Rebelo</surname><given-names>R</given-names></name>
+                  <name><surname>Thirion</surname><given-names>JM</given-names></name>
+               </person-group>
+          <article-title>Ongoing invasions of the African clawed frog, <italic>Xenopus laevis</italic>: a global review</article-title>
+          <source>Biological Invasions</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>14</volume>
+          <fpage>2255</fpage>
+          <lpage>2270</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10530-012-0227-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-48">
+        <label>Measey &amp; Tolley (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+               </person-group>
+          <article-title>Investigating the cause of the disjunct distribution of <italic>Amietophrynus pantherinus</italic>, the Endangered South African western leopard toad</article-title>
+          <source>Conservation Genetics</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>12</volume>
+          <fpage>61</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10592-009-9989-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-49">
+        <label>Minter et al. (2004)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Minter</surname><given-names>LR</given-names></name>
+                  <name><surname>Burger</surname><given-names>M</given-names></name>
+                  <name><surname>Harrison</surname><given-names>JA</given-names></name>
+                  <name><surname>Braack</surname><given-names>HH</given-names></name>
+                  <name><surname>Bishop</surname><given-names>PJ</given-names></name>
+                  <name><surname>Knoepfer</surname><given-names>D</given-names></name>
+               </person-group>
+          <source>Atlas and red data book of the frogs of South Africa, Lesotho and Swaziland. SI/MAB Series No 9</source>
+          <year iso-8601-date="2004">2004</year>
+          <publisher-loc>Washington</publisher-loc>
+          <publisher-name>Smithsonian Institution Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-50">
+        <label>Mokhatla et al. (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Mokhatla</surname><given-names>MM</given-names></name>
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+                  <name><surname>Chimimba</surname><given-names>CT</given-names></name>
+                  <name><surname>van Rensburg</surname><given-names>BJ</given-names></name>
+               </person-group>
+          <article-title>A biogeographical assessment of anthropogenic threats to areas where different frog breeding groups occur in South Africa: implications for anuran conservation</article-title>
+          <source>Diversity and Distributions</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>18</volume>
+          <fpage>470</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1472-4642.2011.00870.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-51">
+        <label>Mucina &amp; Rutherford (2006)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Mucina</surname><given-names>L</given-names></name>
+                  <name><surname>Rutherford</surname><given-names>MC</given-names></name>
+               </person-group>
+          <source>The vegetation of South Africa, Lesotho and Swaziland. Strelitzia No 19</source>
+          <year iso-8601-date="2006">2006</year>
+          <publisher-loc>Pretoria</publisher-loc>
+          <publisher-name>SANBI</publisher-name>
+          <fpage>807</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-52">
+        <label>Palumbi (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Palumbi</surname><given-names>S</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Hillis</surname><given-names>DM</given-names></name>
+                  <name><surname>Moritz</surname><given-names>C</given-names></name>
+                  <name><surname>Mable</surname><given-names>BK</given-names></name>
+               </person-group>
+          <article-title>Nucleic acids II: the polymerase chain reaction</article-title>
+          <source>Molecular systematics</source>
+          <edition>2nd ed</edition>
+          <year iso-8601-date="1996">1996</year>
+          <publisher-loc>Sunderland</publisher-loc>
+          <publisher-name>Sinauer Associates</publisher-name>
+          <fpage>205</fpage>
+          <lpage>247</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-53">
+        <label>Partridge &amp; Maud (2000)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Partridge</surname><given-names>TC</given-names></name>
+                  <name><surname>Maud</surname><given-names>RRM</given-names></name>
+               </person-group>
+          <source>The cenozoic of southern Africa. Oxford monographs on geology and geophysics</source>
+          <year iso-8601-date="2000">2000</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>406</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-54">
+        <label>Picker (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Picker</surname><given-names>MD</given-names></name>
+               </person-group>
+          <article-title>Hybridization and habitat selection in <italic>Xenopus gilli</italic> and <italic>Xenopus laevis</italic> in the southwestern cape province</article-title>
+          <source>Copeia</source>
+          <year iso-8601-date="1985">1985</year>
+          <fpage>574</fpage>
+          <lpage>580</lpage>
+          <pub-id pub-id-type="doi">10.2307/1444746</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-55">
+        <label>Picker &amp; de Villiers (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Picker</surname><given-names>MD</given-names></name>
+                  <name><surname>de Villiers</surname><given-names>AL</given-names></name>
+               </person-group>
+          <article-title>The distribution and conservation status of <italic>Xenopus gilli</italic> (Anura, Pipidae)</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="1989">1989</year>
+          <volume>49</volume>
+          <fpage>169</fpage>
+          <lpage>183</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-3207(89)90034-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-56">
+        <label>Picker &amp; Samways (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Picker</surname><given-names>MD</given-names></name>
+                  <name><surname>Samways</surname><given-names>MJ</given-names></name>
+               </person-group>
+          <article-title>Faunal diversity and endemicity of the Cape Peninsula, South Africa — A first assessment</article-title>
+          <source>Biodiversity and Conservation</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>5</volume>
+          <fpage>591</fpage>
+          <lpage>606</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00137611</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-57">
+        <label>Poynton (1964)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Poynton</surname><given-names>JC</given-names></name>
+               </person-group>
+          <article-title>The amphibia of southern Africa</article-title>
+          <source>Annals of the Natal Museum</source>
+          <year iso-8601-date="1964">1964</year>
+          <volume>17</volume>
+          <fpage>1</fpage>
+          <lpage>334</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-58">
+        <label>Price, Barker &amp; Villet (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Price</surname><given-names>BW</given-names></name>
+                  <name><surname>Barker</surname><given-names>NP</given-names></name>
+                  <name><surname>Villet</surname><given-names>MH</given-names></name>
+               </person-group>
+          <article-title>Patterns and processes underlying evolutionary significant units in the <italic>Platypleura stridula</italic> L. species complex (Hemiptera: Cicadidae) in the Cape Floristic Region, South Africa</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>16</volume>
+          <fpage>2574</fpage>
+          <lpage>2588</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2007.03328.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-59">
+        <label>R Development Core Team (2011)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <collab>
+                     <institution>R Development Core Team</institution>
+                  </collab>
+               </person-group>
+          <year iso-8601-date="2011">2011</year>
+          <pub-id pub-id-type="other">3-900051-07-0</pub-id>
+          <comment>R: A language and environment for statistical computing. Vienna, Austria: R foundation for statistical computing. <italic>Available at <uri xlink:href="http://www.R-project.org/">http://www.R-project.org/</uri></italic></comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-60">
+        <label>Rau (1978)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rau</surname><given-names>RE</given-names></name>
+               </person-group>
+          <article-title>The development of <italic>Xenopus gilli</italic> Rose &amp; Hewitt (Anura, Pipidae)</article-title>
+          <source>Annals of the South African Museum</source>
+          <year iso-8601-date="1978">1978</year>
+          <volume>76</volume>
+          <fpage>247</fpage>
+          <lpage>263</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-61">
+        <label>Raymo et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Raymo</surname><given-names>ME</given-names></name>
+                  <name><surname>Mitrovica</surname><given-names>JX</given-names></name>
+                  <name><surname>O’Leary</surname><given-names>MJ</given-names></name>
+                  <name><surname>DeConto</surname><given-names>RM</given-names></name>
+                  <name><surname>Hearty</surname><given-names>PL</given-names></name>
+               </person-group>
+          <article-title>Departures from eustasy in Pliocene sea-level records</article-title>
+          <source>Nature Geoscience</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>4</volume>
+          <fpage>328</fpage>
+          <lpage>332</lpage>
+          <pub-id pub-id-type="doi">10.1038/ngeo1118</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-62">
+        <label>Rebelo et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rebelo</surname><given-names>AG</given-names></name>
+                  <name><surname>Holmes</surname><given-names>PM</given-names></name>
+                  <name><surname>Dorse</surname><given-names>C</given-names></name>
+                  <name><surname>Wood</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Impacts of urbanization in a biodiversity hotspot: conservation challenges in Metropolitan Cape Town</article-title>
+          <source>South African Journal of Botany</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>77</volume>
+          <fpage>20</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.sajb.2010.04.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-63">
+        <label>Roe et al. (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Roe</surname><given-names>BA</given-names></name>
+                  <name><surname>Ma</surname><given-names>DP</given-names></name>
+                  <name><surname>Wilson</surname><given-names>RK</given-names></name>
+                  <name><surname>Wong</surname><given-names>JF</given-names></name>
+               </person-group>
+          <article-title>The complete nucleotide sequence of the <italic>Xenopus laevis</italic> mitochondrial genome</article-title>
+          <source>The Journal of Biological Chemistry</source>
+          <year iso-8601-date="1985">1985</year>
+          <volume>260</volume>
+          <fpage>9759</fpage>
+          <lpage>9774</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-64">
+        <label>Rogers (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rogers</surname><given-names>AR</given-names></name>
+               </person-group>
+          <article-title>Genetic evidence for a Pleistocene population explosion</article-title>
+          <source>Evolution</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>49</volume>
+          <fpage>608</fpage>
+          <lpage>615</lpage>
+          <pub-id pub-id-type="doi">10.2307/2410314</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-65">
+        <label>Rogers &amp; Harpending (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rogers</surname><given-names>AR</given-names></name>
+                  <name><surname>Harpending</surname><given-names>H</given-names></name>
+               </person-group>
+          <article-title>Population growth makes waves in the distribution of pairwise genetic differences</article-title>
+          <source>Molecular Biology and Evolution</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>9</volume>
+          <fpage>552</fpage>
+          <lpage>569</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-66">
+        <label>Rose &amp; Hewitt (1927)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rose</surname><given-names>W</given-names></name>
+                  <name><surname>Hewitt</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Description of a new species of <italic>Xenopus</italic> from the Cape peninsula</article-title>
+          <source>Transactions of the Royal Society of South Africa</source>
+          <year iso-8601-date="1927">1927</year>
+          <volume>14</volume>
+          <fpage>343</fpage>
+          <lpage>346</lpage>
+          <pub-id pub-id-type="doi">10.1080/00359192609519642</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-67">
+        <label>Rouget et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rouget</surname><given-names>M</given-names></name>
+                  <name><surname>Richardson</surname><given-names>DM</given-names></name>
+                  <name><surname>Cowling</surname><given-names>RM</given-names></name>
+                  <name><surname>Lloyd</surname><given-names>JW</given-names></name>
+                  <name><surname>Lombard</surname><given-names>AT</given-names></name>
+               </person-group>
+          <article-title>Current patterns of habitat transformation and future threats to biodiversity in terrestrial ecosystems of the Cape Floristic Region, South Africa</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>112</volume>
+          <fpage>63</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0006-3207(02)00395-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-68">
+        <label>Rourke (1972)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rourke</surname><given-names>JP</given-names></name>
+               </person-group>
+          <article-title>Taxonomic studies on <italic>Leucospermum</italic> R. BR</article-title>
+          <source>Journal of South African Botany</source>
+          <issue>Suppl.</issue>
+          <year iso-8601-date="1972">1972</year>
+          <volume>8</volume>
+          <fpage>1</fpage>
+          <lpage>191</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-69">
+        <label>SA-FRoG &amp; IUCN SSC-ASG (2011)</label>
+        <element-citation publication-type="other">
+          <person-group>
+                  <collab>
+                     <institution>SA-FRoG</institution>
+                  </collab>
+                  <collab>
+                     <institution>IUCN SSC-ASG</institution>
+                  </collab>
+               </person-group>
+          <year iso-8601-date="2011">2011</year>
+          <comment><italic>Xenopus gilli</italic>. In: IUCN 2011. IUCN red list of threatened species. Version 2011.2. <uri xlink:href="http://www.iucnredlist.org">www.iucnredlist.org</uri> (accessed 12 April 2012)</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref-70">
+        <label>Schneider &amp; Excoffier (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Schneider</surname><given-names>S</given-names></name>
+                  <name><surname>Excoffier</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>Estimation of past demographic parameters from the distribution of pairwise differences when mutation rates vary among sites: application to human mitochondrial DNA</article-title>
+          <source>Genetics</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>152</volume>
+          <fpage>1079</fpage>
+          <lpage>1089</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-71">
+        <label>Schreiner, Roedder &amp; Measey (2013)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Schreiner</surname><given-names>C</given-names></name>
+                  <name><surname>Roedder</surname><given-names>D</given-names></name>
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <article-title>Using modern models to test Poynton’s predictions</article-title>
+          <source>African Journal of Herpetology</source>
+          <issue>1</issue>
+          <year iso-8601-date="2013">2013</year>
+          <volume>62</volume>
+          <fpage>49</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="doi">10.1080/21564574.2013.794865</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-72">
+        <label>Seymour et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Seymour</surname><given-names>CL</given-names></name>
+                  <name><surname>de Klerk</surname><given-names>HM</given-names></name>
+                  <name><surname>Channing</surname><given-names>A</given-names></name>
+                  <name><surname>Crowe</surname><given-names>TM</given-names></name>
+               </person-group>
+          <article-title>The biogeography of the Anura of sub-equatorial Africa and the prioritisation of areas for their conservation</article-title>
+          <source>Biodiversity and Conservation</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>10</volume>
+          <fpage>2045</fpage>
+          <lpage>1076</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1013137409896</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-73">
+        <label>Simmons (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Simmons</surname><given-names>MP</given-names></name>
+               </person-group>
+          <article-title>Interactions between <italic>Xenopus</italic> species in the southwestern Cape Province, South Africa</article-title>
+          <source>South African Journal of Science</source>
+          <year iso-8601-date="1985">1985</year>
+          <volume>81</volume>
+          <fpage>200</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-74">
+        <label>Smit, Robinson &amp; Van Vuuren (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Smit</surname><given-names>HA</given-names></name>
+                  <name><surname>Robinson</surname><given-names>TJ</given-names></name>
+                  <name><surname>Van Vuuren</surname><given-names>BJ</given-names></name>
+               </person-group>
+          <article-title>Coalescence methods reveal the impact of vicariance on the spatial genetic structure of <italic>Elephantulus edwardii</italic> (Afrotheria, Macroscelidea)</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>16</volume>
+          <fpage>2680</fpage>
+          <lpage>2692</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2007.03334.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-75">
+        <label>Stuart et al. (2008)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Stuart</surname><given-names>SN</given-names></name>
+                  <name><surname>Hoffmann</surname><given-names>M</given-names></name>
+                  <name><surname>Chanson</surname><given-names>JS</given-names></name>
+                  <name><surname>Cox</surname><given-names>NA</given-names></name>
+                  <name><surname>Berridge</surname><given-names>RJ</given-names></name>
+                  <name><surname>Ramani</surname><given-names>P</given-names></name>
+                  <name><surname>Young</surname><given-names>BE</given-names></name>
+               </person-group>
+          <source>Threatened amphibians of the world</source>
+          <year iso-8601-date="2008">2008</year>
+          <publisher-loc>Barcelona</publisher-loc>
+          <publisher-name>Lynx Edicions</publisher-name>
+          <fpage>758</fpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-76">
+        <label>Swart, Tolley &amp; Matthee (2009)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Swart</surname><given-names>BL</given-names></name>
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+                  <name><surname>Matthee</surname><given-names>CA</given-names></name>
+               </person-group>
+          <article-title>Climate change drives speciation in the southern rock agama (<italic>Agama atra</italic>) in the Cape Floristic Region, South Africa</article-title>
+          <source>Journal of Biogeography</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>36</volume>
+          <fpage>78</fpage>
+          <lpage>87</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2699.2008.01988.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-77">
+        <label>Tamura et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tamura</surname><given-names>K</given-names></name>
+                  <name><surname>Peterson</surname><given-names>D</given-names></name>
+                  <name><surname>Peterson</surname><given-names>N</given-names></name>
+                  <name><surname>Stecher</surname><given-names>G</given-names></name>
+                  <name><surname>Nei</surname><given-names>M</given-names></name>
+                  <name><surname>Kumar</surname><given-names>S</given-names></name>
+               </person-group>
+          <article-title>MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods</article-title>
+          <source>Molecular Biology and Evolution</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>28</volume>
+          <fpage>2731</fpage>
+          <lpage>2739</lpage>
+          <pub-id pub-id-type="doi">10.1093/molbev/msr121</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-78">
+        <label>Tolley et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+                  <name><surname>Burger</surname><given-names>M</given-names></name>
+                  <name><surname>Turner</surname><given-names>AA</given-names></name>
+                  <name><surname>Matthee</surname><given-names>CA</given-names></name>
+               </person-group>
+          <article-title>Biogeographic patterns and phylogeography of dwarf chameleons <italic>(Bradypodion)</italic> in an African biodiversity hotspot</article-title>
+          <source>Molecular Ecology</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>15</volume>
+          <fpage>781</fpage>
+          <lpage>793</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-294X.2006.02836.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-79">
+        <label>Tolley, Chase &amp; Forest (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+                  <name><surname>Chase</surname><given-names>B</given-names></name>
+                  <name><surname>Forest</surname><given-names>F</given-names></name>
+               </person-group>
+          <article-title>Speciation and radiations track climate transitions since the Miocene Climatic Optimum: a case study of southern African chameleons</article-title>
+          <source>Journal of Biogeography</source>
+          <issue>8</issue>
+          <year iso-8601-date="2008">2008</year>
+          <volume>35</volume>
+          <fpage>1402</fpage>
+          <lpage>1414</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2699.2008.01889.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-80">
+        <label>Tolley et al. (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tolley</surname><given-names>KA</given-names></name>
+                  <name><surname>de Villiers</surname><given-names>AL</given-names></name>
+                  <name><surname>Cherry</surname><given-names>MI</given-names></name>
+                  <name><surname>Measey</surname><given-names>GJ</given-names></name>
+               </person-group>
+          <article-title>Isolation and high genetic diversity in dwarf mountain toads (<italic>Capensibufo</italic>) from South Africa</article-title>
+          <source>Biological Journal of the Linnean Society</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>100</volume>
+          <fpage>822</fpage>
+          <lpage>834</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1095-8312.2010.01469.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-81">
+        <label>Tyson &amp; Preston-Whyte (2000)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Tyson</surname><given-names>PD</given-names></name>
+                  <name><surname>Preston-Whyte</surname><given-names>RA</given-names></name>
+               </person-group>
+          <source>The weather and climate of southern Africa</source>
+          <year iso-8601-date="2000">2000</year>
+          <publisher-loc>Cape Town</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-82">
+        <label>van Andel (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>van Andel</surname><given-names>TH</given-names></name>
+               </person-group>
+          <article-title>Late Pleistocene sea levels and the human exploitation of the shore and shelf of southern South Africa</article-title>
+          <source>Journal of Field Archaeology</source>
+          <year iso-8601-date="1989">1989</year>
+          <volume>16</volume>
+          <fpage>133</fpage>
+          <lpage>155</lpage>
+          <pub-id pub-id-type="doi">10.2307/529887</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-83">
+        <label>Vences et al. (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Vences</surname><given-names>M</given-names></name>
+                  <name><surname>Thomas</surname><given-names>M</given-names></name>
+                  <name><surname>Bonnett</surname><given-names>RM</given-names></name>
+                  <name><surname>Vieites</surname><given-names>DR</given-names></name>
+               </person-group>
+          <article-title>Deciphering amphibian diversity through DNA barcoding: chances and challenges</article-title>
+          <source>Philosophical Transactions of the Royal Society London, Series B, Biological Sciences</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>360</volume>
+          <fpage>1859</fpage>
+          <lpage>1868</lpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2005.1717</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-84">
+        <label>Wardlaw &amp; Quinn (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Wardlaw</surname><given-names>BR</given-names></name>
+                  <name><surname>Quinn</surname><given-names>TM</given-names></name>
+               </person-group>
+          <article-title>The record of Pliocene sea-level change at Enewetak Atoll</article-title>
+          <source>Quaternary Science Reviews</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>10</volume>
+          <fpage>247</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="doi">10.1016/0277-3791(91)90023-N</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-85">
+        <label>Weber et al. (2000)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Weber</surname><given-names>DS</given-names></name>
+                  <name><surname>Stewart</surname><given-names>BS</given-names></name>
+                  <name><surname>Garza</surname><given-names>JC</given-names></name>
+                  <name><surname>Lehman</surname><given-names>N</given-names></name>
+               </person-group>
+          <article-title>An empirical genetic assessment of the severity of the northern elephant seal population bottleneck</article-title>
+          <source>Current Biology</source>
+          <year iso-8601-date="2000">2000</year>
+          <volume>10</volume>
+          <fpage>1287</fpage>
+          <lpage>1290</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0960-9822(00)00759-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-86">
+        <label>Zachos et al. (2001)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Zachos</surname><given-names>J</given-names></name>
+                  <name><surname>Pagani</surname><given-names>M</given-names></name>
+                  <name><surname>Sloan</surname><given-names>L</given-names></name>
+                  <name><surname>Thomas</surname><given-names>E</given-names></name>
+                  <name><surname>Billups</surname><given-names>K</given-names></name>
+               </person-group>
+          <article-title>Trends, rhythms, and aberrations in global climate 65 Ma to present</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2001">2001</year>
+          <volume>292</volume>
+          <fpage>686</fpage>
+          <lpage>693</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1059412</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

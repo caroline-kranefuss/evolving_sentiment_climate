@@ -1,0 +1,2897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5961</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5961</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecosystem Science</subject>
+<subject>Microbiology</subject>
+<subject>Molecular Biology</subject>
+<subject>Biosphere Interactions</subject>
+<subject>Atmospheric Chemistry</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Regional fresh snowfall microbiology and chemistry are driven by geography in storm-tracked events, Colorado, USA</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<name name-style="western">
+<surname>Honeyman</surname>
+<given-names>Alexander S.</given-names>
+</name>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Day</surname>
+<given-names>Maria L.</given-names>
+</name>
+</contrib>
+<contrib id="author-3" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-4664-7438</contrib-id>
+<name name-style="western">
+<surname>Spear</surname>
+<given-names>John R.</given-names>
+</name>
+<email>jspear@mines.edu</email>
+</contrib>
+<aff><institution>Civil and Environmental Engineering, Colorado School of Mines</institution>, <addr-line>Golden, CO</addr-line>, <country>USA</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Marino</surname>
+<given-names>Bruno</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-21">
+<day>21</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5961</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-07-19">
+<day>19</day>
+<month>7</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-16">
+<day>16</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Honeyman et al.</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Honeyman et al.</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5961"/>
+<abstract>
+<p>Snowfall is a global phenomenon highly integrated with hydrology and ecology. Forays into studying bioaerosols and their dependence on aeolian movement are largely constrained to either precipitation-independent analyses or in silico models. Though snowpack and glacial microbiological studies have been conducted, little is known about the biological component of meteoric snow. Through culture-independent phylogenetic and geochemical analyses, we show that the geographical location at which snow precipitates determines snowfall’s geochemical and microbiological composition. Storm-tracking, furthermore, can be used as a valuable environmental indicator to trace down what factors are influencing bioaerosols. We estimate annual aeolian snowfall deposits of up to ∼10 kg of bacterial/archaeal biomass per hectare along our study area of the eastern Front Range in Colorado. The dominant kinds of microbiota captured in an analysis of seven snow events at two different locations, one urban, one rural, across the winter of 2016/2017 included phyla <italic>Proteobacteria</italic>, <italic>Bacteroidetes</italic>, <italic>Firmicutes</italic>, and <italic>Acidobacteria</italic>, though a multitude of different kinds of organisms were found in both. Taxonomically, <italic>Bacteroidetes</italic> were more abundant in Golden (urban plain) snow while <italic>Proteobacteria</italic> were more common in Sunshine (rural mountain) samples. Chemically, Golden snowfall was positively correlated with some metals and anions. The work also hints at better informing the “everything is everywhere” hypotheses of the microbial world and that atmospheric transport of microbiota is not only common, but is capable of disseminating vast amounts of microbiota of different physiologies and genetics that then affect ecosystems globally. Snowfall, we conclude, is a significant repository of microbiological material with strong implications for both ecosystem genetic flux and general bio-aerosol theory.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Aerosols</kwd>
+<kwd>Aerosol chemistry</kwd>
+<kwd>Microbial ecology</kwd>
+<kwd>Remote sensing</kwd>
+<kwd>Snow</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Zink Sunnyside Foundation</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>NASA Astrobiology Institute Rock Powered Life Project</funding-source>
+</award-group>
+<funding-statement>The Zink Sunnyside Foundation helped to fund this work. John R. Spear is supported by the NASA Astrobiology Institute Rock Powered Life Project. There was no additional external funding received for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Throughout temperate and polar regions of the world, snowfall is ubiquitous. Specifically, along the Front Range of eastern Colorado, the mean annual snowfall from 2010 to 2016 is reported as 248 cm in Boulder, Colorado (<xref ref-type="bibr" rid="ref-50">NOAA, 2017</xref>). Despite snow’s prevalence, little is known about the biological composition of this massive annual hydrological deposit; meteoric snow is an essential part of yearly moisture input in Boulder, Colorado given that it represents 43% of the total precipitation (by liquid water volume) from 2010 to 2016 (<xref ref-type="bibr" rid="ref-50">NOAA, 2017</xref>). Both snow and rain require an initiation surface for atmospheric water to condense into a droplet of water or ice particle, respectively. Typically, these are thought to be airborne particles of particulate matter, both organic and inorganic of various colloidal sizes (e.g., 0.5–8 μm) (<xref ref-type="bibr" rid="ref-69">Twomey &amp; Squires, 1959</xref>; <xref ref-type="bibr" rid="ref-48">Nakaya, 2017</xref>). Bioaerosols, defined as particles of a biological nature released from both terrestrial and marine ecosystems into the receiving atmosphere, are considered to be capable of acting as initiation surfaces (<xref ref-type="bibr" rid="ref-39">Maki et al., 1974</xref>). Recently, bioaerosols have also been suggested as an understudied component of both atmospheric processes and biogeographical fate (<xref ref-type="bibr" rid="ref-45">Morris et al., 2011</xref>).</p>
+<p>Bioaerosols are most famous for their potential detrimental effects upon human health from contaminated indoor or other built-environments (e.g., mold and fungal spores) (<xref ref-type="bibr" rid="ref-28">Garrett et al., 1998</xref>). However, even in a benign, typical, outdoor/atmospheric environment, bioaerosols are common and the literature reports source environments (<xref ref-type="bibr" rid="ref-9">Bowers et al., 2011</xref>), seasonal effects (<xref ref-type="bibr" rid="ref-70">Wright, Greene &amp; Paulus, 1969</xref>; <xref ref-type="bibr" rid="ref-8">Bowers et al., 2012</xref>), and diurnal shifts (<xref ref-type="bibr" rid="ref-68">Tong &amp; Lighthart, 1999</xref>) as factors in atmospheric bioaerosol composition. Furthermore, bioaerosols are known to be components of the estimated three Pg annual dust traffic around the globe (<xref ref-type="bibr" rid="ref-30">Griffin et al., 2001</xref>; <xref ref-type="bibr" rid="ref-12">Cakmur et al., 2006</xref>; <xref ref-type="bibr" rid="ref-31">Hallar et al., 2011</xref>). Work has approached the theory that bioaersols are important to climate as a whole (<xref ref-type="bibr" rid="ref-44">Morris, Leyronas &amp; Nicot, 2014</xref>) by examining in silico models of microbiological dispersion in the atmosphere (<xref ref-type="bibr" rid="ref-10">Burrows et al., 2009</xref>). With respect to precipitation, the effects of rainfall additions to soil communities has already been shown to be of microbiological community significance at the soil/atmosphere interface (<xref ref-type="bibr" rid="ref-29">Gravuer &amp; Eskelinen, 2017</xref>). Additionally, these works suggest that snowfall, in particular, is even more important in the deposition of some strains of ice-nucleating (IN) bacteria <italic>Pseudomonas syringae</italic> (also a plant pathogen) (<xref ref-type="bibr" rid="ref-42">Monteil, Bardin &amp; Morris, 2014</xref>)—from which the man-made snow-making additive Snomax™ derives (<xref ref-type="bibr" rid="ref-63">Snomax, 2018</xref>). In vivo studies of both atmospheric (suspended as an aerosol) and hail (within the hailstone) microorganisms have shown them to be metabolically active (<xref ref-type="bibr" rid="ref-61">Sattler, Puxbaum &amp; Psenner, 2001</xref>; <xref ref-type="bibr" rid="ref-6">Ariya et al., 2002</xref>; <xref ref-type="bibr" rid="ref-1">Amato et al., 2007a</xref>, <xref ref-type="bibr" rid="ref-3">2007c</xref>; <xref ref-type="bibr" rid="ref-66">Temkiv et al., 2012</xref>), suggesting that the biomass in the environment from which snowfall derives is not of inconsequence and that microbiota can remain metabolically active throughout the rain/ice/snow nucleation process. Save for some work on liquid precipitation (<xref ref-type="bibr" rid="ref-33">Hiraoka et al., 2017</xref>), what microbiota within ice/snow look like when they contact soil and surface receiving waters remains unknown. Beyond the community structure of precipitation microbiota, it is especially unknown how these structures changes as a result of geography and atmospheric events.</p>
+<p>Bioaerosol literature, in general, is best represented by reports of in silico bioaerosol movement, aerosol microbial composition and studies of canonical surface constituents such as glaciers and snowpack (<xref ref-type="bibr" rid="ref-17">Carpenter, Lin &amp; Capone, 2000</xref>; <xref ref-type="bibr" rid="ref-2">Amato et al., 2007b</xref>; <xref ref-type="bibr" rid="ref-37">Liu et al., 2011</xref>; <xref ref-type="bibr" rid="ref-32">Harding et al., 2011</xref>; <xref ref-type="bibr" rid="ref-16">Carey et al., 2018</xref>). There exists little specific information, however, on the microbiology of snowfall precipitation. The biological composition of snowfall—a global meteorological event—should be well understood vis-à-vis magnitude and community structure, especially given that precipitation is key to uncovering atmospheric/surface interactions. An aid to such study is the preponderance of weather information available that tracks storm events in multiple-spectral analyses; these data further inform storm/biome/hydrology source locations.</p>
+<p>To this end, we sampled fresh snowfall throughout the entirety of the 2016–2017 snow season (snow seasons are typically October–May) along the Front Range of eastern Colorado. Our investigations include disparate sampling sites (one rural mountain, and one urban plain) to help in the characterization of snowfall with respect to both sampling location—within the same storm—and direction of origin of the storm. We hypothesized that the biological content of fresh snowfall would be uniquely distinguishable with respect to sampling location and that storm tracking could provide novel insight into other factors that may affect biogeography. Here, we apply ecological investigative approaches together with remote sensing based atmospheric storm analyses to assess the magnitude of biological deposition, community structure, and abiotic solute associations in fresh snowfall.</p>
+</sec>
+<sec sec-type="methods">
+<title>Methods</title>
+<sec>
+<title>Sample collection</title>
+<p>Over the course of the 2016–2017 snow season, fresh snowfall samples were collected from two locations along the Front Range of eastern Colorado. Only storms with appreciable accumulation were sampled (≥12 cm) and these storms generally occurred over the course of either an entire night or entire day. One sampling location was a rural setting (Sunshine, CO; latitude 40°3′38.2422″, longitude −105°21′56.5596″, elevation 2,164 m) and the other more urban/suburban (Golden, CO; latitude 39°45′7.0704″, longitude −105°13′28.632″, elevation 1,730 m). While many roads and ample human traffic were near exact sample collection locations in Golden, CO, care was taken to avoid sampling where obvious road spray could occur or material from above could fall down. In Sunshine, CO, exact sample collection sites were distant from any roadways or other non-natural contaminant sources. Throughout the snowfall season, seven snowstorms were sampled. Three of the storms yielded snow at both locations, allowing paired sampling of the storm on the same day. Snow collections were conducted either the evening of a day storm, or the morning after a night storm. Sealed, unopened, Ziploc™ bags were used to remove the top ∼5–8 cm of accumulated snow at each sampling event. Typically, four one-gallon (3.8 L) bags of snow were collected per sampling event, with the bags contacting neither hands, nor ground beneath the fresh snowfall. When sampling a storm, either there was no prior ground accumulation, or snow was only sampled modestly from the top layer, leaving many inches between the sampling scoop and snowfall from a previous storm. Snow in sample bags was kept frozen with wet ice during transport, and at −20 °C during storage. Immediately prior to filtering, snow samples were thawed within their sealed bags via heated water (65 °C) over 10 min; under this thawing protocol melted snow water could not exceed 0 °C until all snow was melted, at which point the bags were removed from the heated water. Using a sterile 0.45 μm 500 mL Autofil PES Bottle Top vacuum filter cup with lid (Foxx Life Sciences, Salem, NH, USA), thawed snow samples were filtered. 0.45-μm filters were chosen to avoid plugging during filtration due to the bulky nature of particles collected (i.e., <xref ref-type="fig" rid="fig-1">Fig. 1D</xref>). Filtrate was collected into autoclaved one L glass bottles. Filter papers were sectioned into quadrants, with three used as technical replicates for DNA extraction, and one used for imaging. All quadrants were frozen at −20 °C until further processing. As a control for the filtering process, one additional one-gallon bag of snow was collected on April 04, 2017 from Sunshine, autoclaved twice at 121 °C and 15 PSI for 30 min in a glass bottle, and then filtered and processed the same as other samples.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5961/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Filtered snow microscopy.</title>
+<p>Phase contrast (A and B) and ESEM (C and D) imaging of one quadrant of the filter paper that was used for the snowstorm on January 04, 2017. (B) and (D) are the filter paper from filtered Golden snow while (A) and (C) show filtered material from Sunshine. All filter papers are rated to capture 0.45 μm, and greater, particles.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5961/fig-1.png"/>
+</fig>
+</sec>
+<sec>
+<title>Microscopy</title>
+<p>Filter paper quadrants from each sample were imaged on both a Hitachi TM-1000 (Hitachi High Technologies in America, Schaumburg, IL, USA) environmental scanning electron microscope equipped with a Bruker (Billerica, MA, USA) electron dispersive spectroscopy detector as well as an Olympus CX41 phase contrast microscope (Olympus Corporation, Center Valley, PA, USA) equipped with an Infinity 2 camera and Infinity Analyze software (Lumenera Corporation, Ottawa, ON, USA).</p>
+</sec>
+<sec>
+<title>Storm tracking</title>
+<p>Snow storms associated with sample collection were tracked with the NOAA ARL (Air Resource Laboratory) HYSPLIT Trajectory Model (<xref ref-type="bibr" rid="ref-21">Draxier &amp; Hess, 1998</xref>; <xref ref-type="bibr" rid="ref-65">Stein et al., 2015</xref>). A trajectory ensemble was generated for each storm by creating a set of tracking vectors centered about the latitude and longitude of each sampling site. Models are backward trajectories and encapsulate storm tracking up to 24 h prior to the day of the snow storm event. Backward trajectories began at 500 m AGL (above ground level) from sampling sites.</p>
+</sec>
+<sec>
+<title>Geochemistry</title>
+<p>Filtrate from melted snow (0.45-μm pore size) was subsampled to two 15 mL aliquots for ion chromatography (IC; major anions) and inductively coupled plasma atomic emission spectrometry (ICP-AES; major cations) analysis. ICP-AES samples were acidified with three drops of trace metal grade 10% nitric acid. IC analysis was performed on a Dionex ICS-900 IC system running an AG14A-5 μm RFIC (3 × 30 mm) guard column and an AS14A-5 μm RFIC (3 × 150 mm) column, while ICP-AES was performed on a Perkin–Elmer 8300 ICP-AES.</p>
+</sec>
+<sec>
+<title>DNA extraction</title>
+<p>The ZymoBIOMICS DNA Mini Kit (Zymo Research, Irvine, CA, USA) was used according to manufacturer instructions for DNA extractions. Input into the extraction process was one quadrant of a 0.45-μm filter (quadrants described in “Sample collection”). For every set of extractions conducted, an extraction blank (a DNA extraction conducted with no sample input) was also processed. A single sample replicate from Golden taken on November 17, 2016 was removed from all downstream analyses due to microcentrifuge tube failure.</p>
+</sec>
+<sec>
+<title>Quantitative PCR and DNA sequencing</title>
+<p>To quantify the abundance of Bacteria and Archaea in the snow samples, LightCycler 480 SYBR Green I Master quantitative PCR (qPCR) mix (Roche, Indianapolis, IN, USA) was used in conjunction with 16S rRNA V4-5 region primers (<xref ref-type="bibr" rid="ref-60">Rudi et al., 1997</xref>; <xref ref-type="bibr" rid="ref-24">Engelbrektson et al., 2010</xref>). Genomic DNA (gDNA) from <italic>Escherichia coli</italic> strain JM109 was used as a standard from a Femto Bacterial Quantification Kit (Zymo Research, Irvine, CA, USA) to calibrate amplification curves; seven standards, in addition to a no-template (negative) control (NTC), ranged from 2 × 10<sup>−5</sup> to 20 ng of DNA per reaction well. qPCR reaction volumes were 20 μL of 1× Master Mix, 0.2 μM 334F (CCA GAC TCC TAC GGG AGG CAG C), 0.2 μM 519R (GWA TTA CCG CGG CKG CTG), and 2 μL volume of template DNA. Amplification was conducted in technical triplicate with a LightCycler 480 II (Roche, Indianapolis, IN, USA). LightCycler amplification parameters were as follows: initial denaturation at 95 °C for 5 min (4.4 °C s<sup>−1</sup>), 40 cycles of 95 °C for 30 s (4.4 °C s<sup>−1</sup>) then 53 °C for 30 s (2.2 °C s<sup>−1</sup>) and 72 °C for 30 s (4.4 °C s<sup>−1</sup>), final extension of 72 °C for 5 min (4.4 °C s<sup>−1</sup>). At least one filter replicate from all samples amplified a minimum of two qPCR cycles before negative controls; all filter replicates were used for each sample in downstream analyses. (We are unable to include the December 7, 2016 Sunshine sample in DNA per volume calculations because we do not have data on the volume of melted water resulting from filtering four one-gallon (3.8 L) bags of snow.)</p>
+<p>DNA sequencing was performed on an Illumina MiSeq (Illumina Inc., San Diego, CA, USA) at the Duke Center for Genomic and Computational Biology using V2 PE250 chemistry. Initial sample 16S/18S rRNA PCR amplification was performed in duplicate 25 μL reactions as follows: 1× QuantaBio 5PRIME HotMasterMix, 0.2 μM 515-Y Forward Primer (5′-<underline>GTA AAA CGA CGG CCA GT</underline> CCG TGY CAG CMG CCG CGG TAA-3′) where the M13 forward primer (underlined) is ligated to the small sub-unit RNA specific sequence via a “CC” spacer, 0.2 μM 926R (5′-CCG YCA ATT YMT TTR AGT TT-3′) reverse primer and template DNA. Reverse primers were as reported by <xref ref-type="bibr" rid="ref-55">Parada, Needham &amp; Fuhrman (2016)</xref> while forward primers were adapted from Parada et al. with the addition of the M13 sequence, as done by <xref ref-type="bibr" rid="ref-64">Stamps et al. (2016)</xref>. Primers from <xref ref-type="bibr" rid="ref-55">Parada, Needham &amp; Fuhrman (2016)</xref> target all three domains of life. PCR was performed on a Techne TC-5000 with the following parameters: initial denaturation at 98 °C for 30 s, followed by 30 cycles of 98 °C for 10 s then 52 °C for 20 s and 72 °C for 10 s, with a final extension of 72 °C for 5 min and a 10 °C hold. A second, six cycle, PCR amplification step with the parameters used in the first amplification step was used to ligate barcodes adapted from <xref ref-type="bibr" rid="ref-15">Caporaso et al. (2012)</xref> to the M13 region of the forward primer (<xref ref-type="bibr" rid="ref-64">Stamps et al., 2016</xref>). PCR product cleanup was performed with 0.8× concentration of KAPA Pure Beads (Kapa Biosystems, Indianapolis, IN, USA) according to the manufacturer’s specifications.</p>
+</sec>
+<sec>
+<title>Sequence analysis</title>
+<p>DADA2 (<xref ref-type="bibr" rid="ref-13">Callahan et al., 2016</xref>) was used to trim sequences, infer sample composition (via DADA2’s true sequence determination algorithm, <xref ref-type="bibr" rid="ref-13">Callahan et al., 2016</xref>), merge Illumina paired-end reads, construct a sequence table (simply a list of all “true” unique sequences called by DADA2), and remove chimeric sequences. In sum, final “true” unique sequences called by DADA2 are operational taxonomic units (OTUs) clustered at 100% similarity (<xref ref-type="bibr" rid="ref-13">Callahan et al., 2016</xref>). Initial trimming of initial, raw, sequences involved excising forward and reverse primer sequences; for example, 40 leading bases were removed from forward reads and 20 leading bases were removed from reverse reads, resulting in final lengths of 199 bases for forward reads and 231 bases for reverse reads. In total of 252,596 unique forward reads and 252,596 unique reverse reads were denoised to 146,797 and 152,739 “true” unique reads, respectively, via DADA2. We recover similar proportions of “true” unique sequences as the DADA2 demonstration pipeline of Callahan et al. Technical replicates from each sample were pooled into one object and analyzed together; these pooled samples will be referred to simply as “samples” from here on. Samples were trimmed to contain only bacterial and archaeal sequences, with chloroplast and mitochondrial sequences similarly excised. All samples were rarefied to a depth of 3,391 sequences; 3,391 was chosen because it allowed inclusion of all but one sample (December 07, 2016 Sunshine) while also retaining most of the sample diversity (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>). Downstream sequence analyses were run with multiple random subsampling sets and results were not found to change appreciably at our selected rarefaction level of 3,391 bacterial/archaeal sequences. For reproducibility, a set random start seed was used in the rarefaction process. Taxonomy assignments were called with a SILVA training file (version 128) through the DADA2 taxonomy assignment script. Phylogenetic trees were constructed with sequence alignment via Silva Incremental Aligner (v1.2.11; 90% complementarity) (<xref ref-type="bibr" rid="ref-57">Pruesse, Peplies &amp; Glöckner, 2012</xref>) in the QIIME package (<xref ref-type="bibr" rid="ref-14">Caporaso et al., 2010</xref>). OTU tables, taxonomy tables, phylogenetic trees, and sample meta-data were compiled in the data processing phyloseq object presented by the R package “phyloseq” (<xref ref-type="bibr" rid="ref-41">McMurdie &amp; Holmes, 2011</xref>).</p>
+<p>Assessment of eukaryotic sequences was done via the same method as above, with the exception of merging forward and reverse Illumina reads. In a separate pipeline, all forward and reverse “true” unique reads were merged by concatenating the reads directly with a 10-Ns as the joiner. The 10-Ns serve to mark that a gap in 18S sequence exists between the forward and reverse reads; for example, while our amplicon primers (<xref ref-type="bibr" rid="ref-55">Parada, Needham &amp; Fuhrman, 2016</xref>) amplify all three domains of life, the extended length of the 18S gene disallows overlapping of forward and reverse reads. The DADA2 taxonomy assignment script recognizes this 10-N linker and can perform taxonomy over it (<xref ref-type="bibr" rid="ref-13">Callahan et al., 2016</xref>). As in the bacterial/archaeal analysis, sequences from technical replicates were pooled to one sample. Bacterial and archaeal taxonomic assignments were removed from this dataset, leaving only 18S rRNA eukaryotic sequences. The eukaryotic sequence dataset was rarefied to 529 sequences; few eukaryotic sequences were returned in general, and rarefaction at 529 sequences therefore did not dramatically reduce the number of sequences analyzed. Like the bacterial and archaeal analysis, a set random start seed was used during rarefaction for reproducibility. Three samples were removed from the eukaryotic analysis because they were below the rarefaction threshold (two from Golden and one from Sunshine).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Microscopy</title>
+<p>Imaged filter quadrants from all samples revealed patterns that distinguish samples taken from Golden from those taken in Sunshine (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Substantially larger particles are captured by filtering snow from Golden than snow from Sunshine in the same storm; further, by the naked eye Golden filter papers were also markedly dirtier than their Sunshine counterparts (<xref ref-type="supplementary-material" rid="supp-7">Photo S1</xref>). Any storm localized to Golden generally yielded more material than storms localized to Sunshine. A large number of morphologically diverse particles were collected from both locations; that is, sizes of captured matter range from just above the 0.45 μm threshold to 30 μm and greater. Cells are not visible within microscopy images, which was expected given the low concentrations of DNA recovered from filter papers.</p>
+</sec>
+<sec>
+<title>Storm geochemistry</title>
+<p>Ion chromatography and ICP-AES analyte results (<xref ref-type="supplementary-material" rid="supp-8">Table S1</xref>)—where most analytes were within the zero to two ppm range—were compiled to generate a principal component analysis (PCA) (base R stats package) with individual samples as the object of ordination (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). To reduce noise in the model, only analytes seen to have variation amongst samples were used in the ordination and these were: Cl<sup>−</sup>, NO<sub arrange="stack">2</sub><sup arrange="stack">−</sup>, NO<sub arrange="stack">3</sub><sup arrange="stack">−</sup>, SO<sub arrange="stack">4</sub><sup arrange="stack">2−</sup>, Ca<sup>2+</sup> (315.887.R), K<sup>+</sup> (766.490.R), Mg<sup>2+</sup> (279.553.R and 285.213.R), Mn<sup>x</sup> (257.610.A), Na<sup>+</sup> (589.592.R), S<sup>2−</sup> (180.669.A), Si<sup>x</sup> (251.611.A), and Zn<sup>x</sup> (213.857.A). Adjacent to the wavelengths in parentheses, “A” and “R” indicate either Axial or Radial viewing during measurement. Data were centered and scaled to unit variance. Normal ellipses (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) show nominal clustering by sampling location. Furthermore, the arrows in <xref ref-type="fig" rid="fig-2">Fig. 2</xref> indicate a positive correlation of variables in the direction that they point. Except for Zn, Mn, and Si, all analyte variables correlate positively with snow collected in Golden. Principal Component 1 suggests a high chemical variance between samples collected in Golden relative to those collected in Sunshine. To assess the statistical differentiation of chemical data with respect to sampling location (independent of the PCA), a Euclidean distance matrix was constructed using the same samples and chemical data used in the chemical PCA analysis. An Adonis test was run on the Euclidean distance matrix to inspect statistical differences between Sunshine and Golden snowmelt chemistry; the two groups were found to be significantly different (<italic>R</italic><sup>2</sup> = 0.28, <italic>p</italic> = 0.002).</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5961/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Principal component analysis (PCA) of geochemical data (IC/ICP-AES).</title>
+<p>Data are grouped/colored by sampling location. Data have been centered and scaled to unit variance. Grouping ellipses are normal data ellipses constructed about data points from each sampling location.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5961/fig-2.png"/>
+</fig>
+</sec>
+<sec>
+<title>Genomic yield and sample diversity</title>
+<p>16S rRNA gene amplification via qPCR was used to estimate the amount of bacterial/archaeal gDNA extracted from each sample. DNA extracted per sample was normalized to the volume of filtrate that was yielded by the filtering process. Reported values determined by qPCR were in units of estimated nanograms of gDNA extracted per milliliter of snow filtered (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). When possible, snow collected from the same storm in disparate locations are co-plotted and <italic>p</italic>-values from a student’s <italic>t</italic>-test reported (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The <italic>p</italic>-value was significant in one of the three comparisons conducted. However, snow collected from Golden generally yielded higher amounts of gDNA than snow collected from Sunshine in the same storm. Across all samples in our study, the average mass of bacterial/archaeal gDNA extracted per milliliter of snow-water filtered was 0.237 ng mL<sup>−1</sup> (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>), which (using <italic>E. coli</italic>—∼5 fg gDNA cell<sup>−1</sup>—as a model), corresponds to a likely cell count of ∼4.7 × 10<sup>4</sup> cells mL<sup>−1</sup> of snow melt.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5961/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>DNA concentrations from snow.</title>
+<p>Box plots of mean mass of gDNA extracted from replicate filter quadrants per milliliter of snow filtered. Error bars are standard errors, indicating technical variance. The dotted line represents the mean value across all samples and all snowstorms for the 2016–2017 snow season along the eastern Front Range in Colorado. Reported <italic>p</italic>-values are from a student’s <italic>t</italic>-test.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5961/fig-3.png"/>
+</fig>
+<p>Post-rarefaction—to 3,391 bacterial/archaeal sequences, with one sample cut (December 07, 2016 from Sunshine) (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>)—bacterial/archaeal alpha diversities were estimated with the number of observed OTUs. The mean number of observed OTUs for Golden samples was 188.0 while the mean number seen in Sunshine was 98.4 (<italic>p</italic> = 0.032, Welch two sample <italic>t</italic>-test). While the alpha diversity of snow sampled in Golden is higher than Sunshine Canyon, the alpha diversities between different snow storm origins have insignificant <italic>p</italic>-values.</p>
+</sec>
+<sec>
+<title>Storm tracking</title>
+<p>NOAA HYSPLIT models were used to assess which direction the majority of storm travel vectors came from for each sampling event. Most storms were of a SW origin while two storms came from the NW and one storm was of a SE origin (a Colorado “upslope” storm). We verified from the HYSPLIT models that same-day samples from both geographic locations were in fact from the same snow storm and could be assigned the same direction of origin (<xref ref-type="supplementary-material" rid="supp-2">Figs. S2</xref> and <xref ref-type="supplementary-material" rid="supp-3">S3</xref>).</p>
+</sec>
+<sec>
+<title>Characterization of snow communities</title>
+<p>A community ordination chart constructed from 16S rRNA data—organized by both sampling location and origin of storm—is presented; principal coordinate analysis (PCoA) suggests strong clustering by sampling location, as constructed by a weighted Unifrac distance matrix (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>) (<xref ref-type="bibr" rid="ref-38">Lozupone &amp; Knight, 2005</xref>). An Adonis test was run on the dissimilarity matrix used for <xref ref-type="fig" rid="fig-4">Fig. 4</xref>, and sampling locations were found to be distinct in grouping (<italic>R</italic><sup>2</sup> = 0.20, <italic>p</italic> = 0.033). Weighted Unifrac distance matrices were also tested by Adonis for true-differences in samples taken from different storm trajectories; no significance was detected. Snow filtering-process controls, DNA extraction controls, and no-template PCR controls amplified exponentially during qPCR a minimum of two cycles after at least one filter replicate from all samples, indicating that differences seen between samples are true biological differences. Filtering-process controls, furthermore, were ordinated against true samples and found to be distinct in clustering (control data are viewable as a relative abundance heatmap, <xref ref-type="supplementary-material" rid="supp-5">Fig. S5</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5961/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Principal coordinate analysis (PCoA) of weighted Unifrac distances between samples.</title>
+<p>Colors are by sampling location and shapes are by origin of storm. Differences between samples with respect to sampling location are significant: <italic>R</italic><sup>2</sup> = 0.20, <italic>p</italic> = 0.033 (Adonis test).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5961/fig-4.png"/>
+</fig>
+<p>Snowstorms from both sampling locations display a wide range of bacterial/archaeal (<xref ref-type="supplementary-material" rid="supp-4">Fig. S4A</xref>) and eukaryotic (<xref ref-type="supplementary-material" rid="supp-4">Fig. S4B</xref>) taxa. At the phylum level, <italic>Bacteroidetes</italic> are most common in snow sampled from Golden while <italic>Proteobacteria</italic> are most abundant in Sunshine samples, this in a linear distance difference of only 36.4 km. At all taxonomic ranks, there are distinguishable differences in community composition between the two geographic locations. By use of SIMPER (vegan R package) (<xref ref-type="bibr" rid="ref-52">Oksanen et al., 2017</xref>), the taxa from each taxonomic rank most responsible for the Bray–Curtis distance between samples were determined. Plotted in descending order of contribution, we demonstrate how any taxonomic rank is sufficient to differentiate the two sampling locations (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The top-10 most mathematically influential genera in differentiating sample locations were pulled from the SIMPER analysis, and are shown in <xref ref-type="table" rid="table-1">Table 1</xref> along with their % contribution to the total difference. The abundances of these genera are examined from both sampling locations as well as the control from the filtering process to assess contamination; no contamination is suspected (<xref ref-type="supplementary-material" rid="supp-5">Fig. S5</xref>). For each of the top 10 most influential genera (<xref ref-type="table" rid="table-1">Table 1</xref>), the OTU that had the highest abundance in each genus bin was searched with MegaBLAST (<xref ref-type="bibr" rid="ref-43">Morgulis et al., 2008</xref>) for highly similar sequences within the 16S rRNA sequence database from NCBI. For each sequence searched by MegaBLAST, the most highly similar sequence with information on source was summarized: genera found more frequently in Golden were associated with soil, horse dung, airborne dust, hard water, and clinical isolates (<xref ref-type="bibr" rid="ref-11">Busse, 2003</xref>; <xref ref-type="bibr" rid="ref-27">Gallego, 2006</xref>; <xref ref-type="bibr" rid="ref-36">Kampfer, 2006</xref>; <xref ref-type="bibr" rid="ref-47">Muurholm et al., 2007</xref>; <xref ref-type="bibr" rid="ref-62">Smet et al., 2014</xref>); genera common to Sunshine are reported in swimming pool water, clinical material, cultivated land, and may be spore forming (<xref ref-type="bibr" rid="ref-5">An et al., 2007</xref>; <xref ref-type="bibr" rid="ref-26">Furuhata et al., 2013</xref>; <xref ref-type="bibr" rid="ref-4">Amend et al., 2015</xref>; <xref ref-type="bibr" rid="ref-23">Echahidi et al., 2015</xref>; <xref ref-type="bibr" rid="ref-34">Im et al., 2015</xref>). Though Adonis showed no significant difference between samples with different storm-origins via the weighted Unifrac distance, there are obvious taxonomic differences between storm trajectories (<xref ref-type="supplementary-material" rid="supp-6">Fig. S6</xref>).</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.5961/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Taxonomic-rank contributions to geographic differences.</title>
+<p>The <italic>y</italic>-axis shows cumulative contribution to the total Bray–Curtis distance between geographic locations. The <italic>x</italic>-axis indicates the top “<italic>X</italic>%” most influential taxa within each bin that contribute to Bray–Curtis differences between geographic locations (determined via SIMPER analysis). The dotted gray line indicates what curves would look like if no particular taxa contributed to differences more than others.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5961/fig-5.png"/>
+</fig>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5961/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Top-most influential genera in geographic differences.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5961/table-1.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Genus</th>
+<th>% Contribution to distance</th>
+<th>Location with higher abundance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chryseobacterium</td>
+<td>8.3</td>
+<td>Golden</td>
+</tr>
+<tr>
+<td>Acinetobacter</td>
+<td>5.2</td>
+<td>Golden</td>
+</tr>
+<tr>
+<td>Unknown</td>
+<td>4.2</td>
+<td>Sunshine</td>
+</tr>
+<tr>
+<td>Bacillus</td>
+<td>4.1</td>
+<td>Sunshine</td>
+</tr>
+<tr>
+<td>Sphingomonas</td>
+<td>3.8</td>
+<td>Golden</td>
+</tr>
+<tr>
+<td>Porphyrobacter</td>
+<td>2.7</td>
+<td>Sunshine</td>
+</tr>
+<tr>
+<td>Flavisolibacter</td>
+<td>2.7</td>
+<td>Sunshine</td>
+</tr>
+<tr>
+<td>Staphylococcus</td>
+<td>2.5</td>
+<td>Sunshine</td>
+</tr>
+<tr>
+<td>Segetibacter</td>
+<td>2.3</td>
+<td>Sunshine</td>
+</tr>
+<tr>
+<td>Pedobacter</td>
+<td>2.1</td>
+<td>Golden</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>The top-10 most influential genera in the biological differentiation of snowfall between geographic locations. SIMPER was used to determine the influence of each genus on the total Bray–Curtis difference between Sunshine and Golden samples. A total of 279 genera were identifiable by SILVA in fresh snowfall.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Few eukaryotic sequences were recovered relative to the abundance of bacterial and archaeal sequences found in snowfall; prior to rarefaction, 6.2% of the total number of sequences recovered were of eukaryotic taxonomy. Of those eukaryotic sequences recovered and classified, the two fungal phyla <italic>Ascomycota</italic> and <italic>Basidiomycota</italic> were clearly most common. Similar to the results presented from bacterial and archaeal sequences, the two dominant eukaryotic phyla display differential relative abundance with respect to both sampling location and the origin of snowstorms (<xref ref-type="supplementary-material" rid="supp-4">Figs. S4B</xref> and <xref ref-type="supplementary-material" rid="supp-5">S5B</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Snowfall is endemic to the seasonal cycle in both temperate and polar regions of the world. By contributing to aquifers, this form of precipitation is a critical component of both local and global hydrologic systems. Here, we have presented a diversified approach to understanding the biology of meteoric snow, leveraging atmospheric phenomena as a means to determine significant affecters of biogeography. By targeting fresh snow deposits at two geographic locations 36.4 km apart, we were able to simultaneously address geographic effects within a storm swath as well as inter-storm effects at either location. While just a subset of all of the storms could be sampled at both locations, our data set comprises the entirety of one winter season in Colorado. Though storms do not always precipitate in both Golden and Sunshine, we sampled every storm of opportunity with enough snow (e.g., ≥12 cm); thus, our study is as robust as the 2016–2017 winter allowed. In our investigation, we have targeted the magnitude and community composition of meteoric snow as important first-steps in uncovering the importance of these fresh deposits to biogeography and the hydrologic cycle. Concerning magnitude, our data show that an average of 0.237 ng of bacterial/archaeal gDNA can be recovered per milliliter of fresh snowfall (melted and filtered), which is a value unreported in the literature. Our yields of DNA from snowfall are similar to, or greater than, what other groups have reported from snowpack (<xref ref-type="bibr" rid="ref-17">Carpenter, Lin &amp; Capone, 2000</xref>; <xref ref-type="bibr" rid="ref-61">Sattler, Puxbaum &amp; Psenner, 2001</xref>; <xref ref-type="bibr" rid="ref-2">Amato et al., 2007b</xref>), but we suggest that the annual persistence of meteoric snow coupled with massive land coverage yields a substantial amount of microbiological input to surface ecosystems. These deposited microbiota also generate an influx of genetic material to receiving systems. The mean annual snowfall that occurred in Boulder, CO (NOAA, Boulder, CO, USA) during 2010–2016 was 248.2 cm (<xref ref-type="bibr" rid="ref-50">NOAA, 2017</xref>). This value, coupled with dimensional analysis, shows that given the mean bacterial/archaeal gDNA recovery that we report (0.237 ng mL<sup>−1</sup> of snowmelt; ∼4.7 × 10<sup>4</sup> cells mL<sup>−1</sup>), a season-average conversion of snow volume to water volume (10:1, NOAA, Boulder, CO, USA) (<xref ref-type="bibr" rid="ref-50">NOAA, 2017</xref>), and a representative genome mass from <italic>E. coli</italic> (5 fg cell<sup>−1</sup>), there are large biological depositions from snow computed for small areas: ∼1 × 10<sup>14</sup> bacterial/archaeal cells are deposited hectare<sup>−1</sup> year<sup>−1</sup>. If one is to estimate the average mass of a bacterial/archaeal cell in our samples as 0.1 ng (a rough abundance-weighted average of the masses of bacterial/archaeal cells we identified taxonomically—including the large cyanobacteria) (<xref ref-type="bibr" rid="ref-56">Portillo et al., 2013</xref>), ∼10 kg of bacteria/archaea are deposited hectare<sup>−1</sup> year<sup>−1</sup>. Though this annual deposition of cells is calculated via multiple variables with internal variance (especially when estimating average cell mass), it is concomitantly noted that what we are able to recover through a 0.45-μm filter is likely an underestimation of what biological material exists. Microbiota captured on a filter, additionally, does not account for additional biomass that may have lysed during the thawing of our snow samples prior to filtering and/or the organisms, for example, nano-archaeota and bacteria (as well as viruses; <xref ref-type="bibr" rid="ref-58">Reche et al., 2018</xref>) that pass through a 0.45-μm filter. Many eukaryotic sequences were also obtained from our samples. Though we do not have qPCR data on eukarya in fresh snow, this additional biomass (6.2% of all sequences)—known to be legitimate eukaryotic amplification by our primers (<xref ref-type="bibr" rid="ref-55">Parada, Needham &amp; Fuhrman, 2016</xref>)—is likely to contribute substantially to the total biomass contained in snowfall. Thus, 10 kg of biomass deposited hectare<sup>−1</sup> year<sup>−1</sup> is likely an underestimate. In addition, this estimate ignores the mass of all abiotic particulate matter (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) trafficked as part of the same snow event—a mass that is much more substantial than microbial elements alone and, similarly, is deposited perennially over large swaths of land.</p>
+<p>Herein, we have chosen to use the total estimated biomass of annual snowfall over more traditional measures like copy numbers of 16S rRNA because we believe that it is a more tractable unit when assessing large-scale mass transport and deposition. It is our assessment that the importance of our work is best demonstrated by the surprising bio- load of meteoric snow (and its associated genetic bank)—and that whether total estimated cell count or total biomass is the unit of discussion (both of which we report) is tangential to the overall finding that microbiota and their genomes are a substantial component of fresh snowfall.</p>
+<p>Since we show significant differences between snowfall communities with respect to geography (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), we posit that snow depositions bear significant ecological consequences—especially given that we demonstrate the mass of any particular snow event to be non-trivial (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). At all taxonomic ranks, we show that just a fraction of taxa are responsible for differentiating geographic locations (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). To the point of “fingerprinting” snowstorms to evaluate how different depositions may be affecting an area ecologically, it is important to identify specific taxonomic groups that are responsible for separations on distance matrices and ordinations (<xref ref-type="table" rid="table-1">Table 1</xref>). We can infer from <xref ref-type="table" rid="table-1">Table 1</xref> that, even at the genus taxonomic rank, specific taxa contribute heavily to geographic differences in fresh snowfall. Furthermore, these genera are not contamination (<xref ref-type="supplementary-material" rid="supp-5">Fig. S5</xref>), indicating that real biological differences can be identified geographically in non-general terms. Of the influential genera (e.g., genera mathematically responsible for differentiation of geographies via SIMPER), sequences that are more abundant in Golden (searched by MegaBLAST—”Results”) are highly similar to some sequences that are associated with the human built environment/urban areas (i.e., horse dung and clinical isolates). Mathematically influential sequences from Sunshine, similarly, are highly similar to what is found in rural settings (genera isolated from cultivated land); one of the sequences more common in Sunshine is also highly similar to known spore-formers, suggesting that resilience to colder temperatures experienced in-transit to a higher elevation than Golden may have been beneficial to survival. Though we caution too much extrapolation from the presence of just a few genera, we think it is fair to suggest that demonstrated differences between Sunshine and Golden are the result of environmental/physical differences between the two geographic sites—and may implicate urban/rural lines in anthropogenic bioaerosol-sourcing. In a seasonal analysis of precipitation (predominately liquid, only one snow sample) in the Greater Tokyo Area, Japan, <xref ref-type="bibr" rid="ref-33">Hiraoka et al. (2017)</xref> report similar abundant phyla within their samples (e.g., <italic>Proteobacteria</italic>, <italic>Bacteroidetes</italic>, and <italic>Firmicutes</italic>—but more <italic>Actinobacteria</italic> than we report). Interestingly, Hiraoka et al. saw few differences between sampling sites relative to the geographic differences that we see. They also witness seasonal differences that are more obvious given the lesser influence of sampling location. In light of their work as compared to ours, it’s possible that the Greater Tokyo Area, Japan can be broadly classified as “urban,” which would minimize geographic effects in an already homogenized microbial population. Just as humans contribute to built-environment bioaerosols (<xref ref-type="bibr" rid="ref-25">Fan et al., 2017</xref>), it’s possible that the scope of anthropogenic bioaerosol effects should be extended to the atmosphere. Our control data, furthermore, strongly suggest that these differences are real, and not a product of contaminating genera found in either sample group (<xref ref-type="supplementary-material" rid="supp-5">Fig. S5</xref>). Not only do our data show that different geographic regions cycle/receive distinct biology, but they also indicate that storm trajectories will be an essential metric to assess in future studies. Although we do not show demonstrable significance in the microbiological differences between storm trajectories, storm-track is still likely a contributing component of the variance between samples (<xref ref-type="supplementary-material" rid="supp-6">Fig. S6</xref>). Even with strong evidence that geography drives differences in microbial communities, we note that the two axes from our PCoA represent less than 60% of the total variance seen between samples. Our investigation of storm-track influence on community composition is likely hindered by sample size; that is, amongst the 10 samples profiled, only three of them were not of a SW origin. Overall, our hypothesis that the biotic components of fresh snowfall are distinguishable by geography is confirmed. To the point of meteorological information as predictive data in future studies, storm tracks should not be ignored amongst the list of affecters of microbial community composition. With ongoing collection of snow from more storms and winters, storm tracks could be forensically investigated by an analysis of their surface-deposited microbiota in snows, as well as the ices that result from snows in/on permanent snow fields and glaciers.</p>
+<p><xref ref-type="bibr" rid="ref-9">Bowers et al. (2011)</xref> show that air mass microbiological features were likely derived from the land beneath. We extend this finding by showing that geography also appears to have community effects on snowfall deposition. We, however, further posit that biological ice-nucleation in the atmosphere (<xref ref-type="bibr" rid="ref-19">Christner et al., 2008b</xref>; <xref ref-type="bibr" rid="ref-54">Pandey et al., 2016</xref>) may be a selection event influential enough to differentiate microbial communities even more than air masses do at any given geography. Thus, snowfall provides definitive access to surface receiving systems whereas air masses may not be as capable of moving large amounts of material between the atmosphere/lithosphere/hydrosphere. Irrespective of known high-temperature IN bacteria like <italic>Pseudomonas</italic> genera, other bacterial communities may affect low-temperature cloud glaciation (<xref ref-type="bibr" rid="ref-46">Mortazavi, Hayes &amp; Ariya, 2008</xref>). If we assume that microbiota deposited by snowfall were either directly part of the nucleation process—or indirectly accumulated along the way—then snow depositions could be just a subset of the total aerosol microbial population. Aerosol microbiota and cloud thermodynamics are clearly linked given that different cloud chemistries determine what bacterial species act as nucleation points, and whether snow forms at all (<xref ref-type="bibr" rid="ref-7">Borys, Hindman &amp; DeMott, 1988</xref>; <xref ref-type="bibr" rid="ref-59">Rosenfeld, 2000</xref>). In light of our study, microbial communities should still be considered an important part of the total air mass that affects cloud formation potential and the precipitation nucleation process. Though it is known that high-temperature INs are ubiquitous in precipitation (<xref ref-type="bibr" rid="ref-18">Christner et al., 2008a</xref>), our work demonstrates that the vast majority of microbiota in fresh snowfall (with putative sizes ≥0.45 μm) are not of the high-temperature nucleating genera. More attention should be given to total bacterial communities in precipitation due to the magnitude of their abundance, potential for terrestrial impact, likely effects on cloud glaciation, and non-uniform patterns of deposition in snowstorm events (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). We know that bacteria/archaea/eucarya can be viable in aerosols (<xref ref-type="bibr" rid="ref-22">Dybwad &amp; Skogan, 2017</xref>), suggesting that the multitude of taxa that we find in snow may be contributing to atmospheric chemistry in situ around Earth. Given all of the bio-physical/chemical influences on the atmosphere, bio-precipitation should be considered just as complex and variable—and storm-track should be considered an essential component of this variance. Furthermore, it is important that urban/rural areas receive entirely different inputs in the same snowstorm—and especially so given the large mass of these annual deposits. This could have relevance to overall air quality and human health in such storm events.</p>
+<p>Bio-aerosols are known components of human-associated dust particle traffic (<xref ref-type="bibr" rid="ref-31">Hallar et al., 2011</xref>), and dust has complicated snowmelt and ecosystem function (<xref ref-type="bibr" rid="ref-53">Painter et al., 2007</xref>; <xref ref-type="bibr" rid="ref-49">Neff et al., 2008</xref>). Our work shows that high annual flux of genetic material and biomass via snowstorms is non-homogenous. We can immediately suggest that human activity in urbanized areas could be a source of both the biological and geochemical differences witnessed in snow relative to rural mountain collection sites. Western regions of Colorado—the mountains—are less developed than the areas surrounding the greater Denver metropolitan area; that is, the population density of Jefferson County (Golden samples) is roughly 70% greater than Boulder County (Sunshine samples) (<xref ref-type="bibr" rid="ref-20">Colorado Department of Local Affairs, 2017</xref>). Nonetheless, some similarities exist between the microbiology we found in fresh snowfall and taxa found by <xref ref-type="bibr" rid="ref-3">Amato et al. (2007c)</xref> in the water phase of tropospheric clouds. Though several factors appear to influence the microbiological composition of snowstorms, a large contributor may be whether or not a certain bacterium is able to remain viable at low temperatures within a cloud, both low- and high- altitude. Community differences in snowfall between storm travel directions (<xref ref-type="supplementary-material" rid="supp-6">Fig. S6</xref>)—though insignificant due to our small number of samples from atypical storm trajectories—could also suggest that material collected along the path of a storm is later deposited as snow.</p>
+<p>Broad questions on the impact of snowfall-deposited microbiology on both public health and ecosystem function can be generated by the work we describe herein. With respect to public health, in light of our work we believe that snowfall (and meteoric deposition of any kind—e.g., rain, snow, ice, fog, and perhaps even general humidity) can be considered a large transporter of microbial biomass with a (to-date) not understood pathogenicity. In considering ecosystem function, the impact of some ∼10 kg of bacterial/archaeal biomass being deposited per hectare in a year of snowfall clearly must include effects on receiving soil, rock endolith and/or near-surface water ecosystems. This has impacts on ecological soil formation, maintenance and health of agricultural soils, and water quality in both fresh and marine ecosystems. As climate change continues to be a driver of large-scale environmental shifts, the intricacies of biological aerosol transport, and bio- cloud glaciation/snow nucleation are unlikely to escape disturbance.</p>
+<p>The flux in genetic diversity brought about by fresh snowfall is in much need of greater study. The amount of gDNA deposited by snow per hectare of land suggests that gene flow, via known mechanisms of horizontal gene transfer (<xref ref-type="bibr" rid="ref-67">Thomas &amp; Nielsen, 2005</xref>), is likely widely seeded by continual deposition from storm events. While our work does not specify the live/dead state of microbiological communities in fresh snow, these communities possess genetic banks irrespective of their activity. Mechanisms of horizontal gene transfer are dependent on live vs. dead cells, but it’s important to note that natural transformation can occur under either the live/dead state. Though we cannot specify any magnitude to which horizontal gene transfer occurs between live/live or live/dead pairs due to snow, natural transformation is indeed known to be possible (<xref ref-type="bibr" rid="ref-67">Thomas &amp; Nielsen, 2005</xref>). Ecosystem in situ genetic diversity is thus likely to be in a state of higher flux than previously acknowledged, with receiving ecosystems likely more capable of responding to dynamic environmental conditions with updated “genetic banks,” literally always raining upon them. As we argue that the biomass within meteoric snow is ecologically impactful, we acknowledge that one may posit that what is deposited in snow would be just a fraction of the biomass already existing at the soil/hydrologic interface. We point out that meteoric snow would certainly be less consequential if it were uniformly distributed to all surface communities. However, microbiota within snow are highly heterogeneous (even within the same storm) and alternate genetic banks are deposited in different regions, some of which may be native to an area already—but many are likely to be non-local. Within oceanic systems, <xref ref-type="bibr" rid="ref-40">McDaniel et al. (2010)</xref> show that up to 47% of culturable bacteria are confirmed gene recipients by known mechanisms of horizontal gene transfer; if 1 year of snowfall biomass represents even 0.1% of the cells within the top one cm of receiving soil (assuming 1 × 10<sup>9</sup> cells cm<sup>−3</sup>), those cells would be in sufficient quantity to impart new genetic material on the host community. If surface communities demonstrated even a fraction of the horizontal gene transfer ability of oceanic communities, a substantial portion of that entire one cm layer (and more) would be the beneficiary of new genetic material—accelerating genome innovation (<xref ref-type="bibr" rid="ref-35">Jain, 2003</xref>). Bacteria/archaea genomic innovation and resiliency has largely been driven by horizontal gene transfer (<xref ref-type="bibr" rid="ref-51">Ochman, Lawrence &amp; Groisman, 2000</xref>) and we expect that environmental systems comprised of these organisms are likely to depend upon this mechanism for survival. Since lateral gene transfer increases genomic diversity at rates much higher than in situ evolution alone (<xref ref-type="bibr" rid="ref-51">Ochman, Lawrence &amp; Groisman, 2000</xref>), communities that receive higher fluxes of genetic material are likely to be more resilient than those that receive very little. We demonstrate in our investigation that geographic areas receive distinct biological input. This suggests that “genetic banks” received by surfaces during snow storms send different locales on alternate genetic uptake and evolutionary pathways. Genetic transport by snowfall (and rain/ice/humidity) disallow microbial communities at any given geography to remain isolated. In an Earth system increasingly affected by climate change, the ability of local microbial communities to adapt will become paramount; atmospheric microbial transfer and snow/rain/icing/humidity events should be considered essential components in delivering novel genetic material to geographic areas. The ability for soil/water receiving microbial systems to remain resilient will have demonstrable effects on downstream ecological pathways such as macroscopic life and the mediation of soil/water chemical equilibrium—including the management of contaminants. The “everything is everywhere” notion of microbial distribution across the globe can likely be better understood by the interaction of Earth’s compartments (lithosphere, hydrosphere, and atmosphere) via transport. On-going work with metagenomics, transcriptomics and single-cell genomics should better inform the surface ecosystem-altering effects of the genetic potential of storm delivered events.</p>
+<p>We suggest that bio-meteorology is likely to have impacts far beyond the Colorado Front Range alone; everything that we describe here is globally relevant to the lithosphere/hydrosphere/atmosphere interface in tropical, temperate, and polar climates. Indeed, biology likely needs to be better incorporated into meteorology and meteorologic modeling. Disparate concepts ranging from ecological forest fire recovery to regional public health and pathogen transport are likely to be affected by the geochemical and biological depositions that we have described in snowfall (though these findings are likely also relevant to all meteoric waters including rain, fog, icing events, and humidity). Further, biometeorology could likely be better informed and made capable of public-health related predictability with further microbiome understanding of widespread and large-scale meterologic events.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>Herein, we have determined that microbiota within fresh snowfall are ubiquitous and non-homogenous with respect to geography. The aqueous chemistry of fresh snowfall is, similarly, predictable by snowfall location. These deposited microbiota represent both enough mass and genetic diversity to affect receiving surface, rock- endolith, and hydrologic microbiological communities. The atmospheric transport of “genetic banks” via fresh snowfall—though our findings are also likely relevant to rain/icing/humidity events—should not be ignored in whole-Earth understanding of the microbial notion of “everything is everywhere.” Storm-tracks are a valuable tool for determining affecters of biogeography, and should be investigated further with ongoing work targeting microbial “fingerprints” of atmospheric events, benefitting both public- health related predictability of atmospheric/receiving system state as well as Earth ecology as a whole.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5961/Supplementary_Figure_S1.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Sample rarefaction curves.</title>
+<p>Rarefaction curves generated by rarefying bacterial/archaeal sequences at different levels with random OTU sub-sampling. Each curve and color represents a different sample. A blanket rarefaction value of 3,391 sequences was chosen for the bacterial and archaeal sequence dataset.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5961/Supplementary_Figure_S2.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Storm trajectory from Sunshine on 04/04/17.</title>
+<p>NOAA HYSPLIT storm trajectory model generated for the sample collection in Sunshine on 04/04/17. Streamlines are a medley of trajectory models distributed about the latitude and longitude of the sampling site. The backward trajectories encompass 24 hours of storm movement prior to arrival at the sampling location at an altitude of 500 m AGL (above ground level). This storm was classified as having a NW origin. See <xref ref-type="supplementary-material" rid="supp-3">Fig. S3</xref> for the Golden counterpart to this storm.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5961/Supplementary_Figure_S3.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Storm trajectory from Golden on 04/04/17.</title>
+<p>NOAA HYSPLIT storm trajectory model generated for the sample collection in Golden on 04/04/17. Streamlines are a medley of trajectory models distributed about the latitude and longitude of the sampling site. The backward trajectories encompass 24 hours of storm movement prior to arrival at the sampling location at an altitude of 500 m AGL (above ground level). This storm was classified as having a NW origin. See <xref ref-type="supplementary-material" rid="supp-2">Fig. S2</xref> for the Sunshine counterpart to this storm.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5961/Supplementary_Figure_S4.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Relative abundance heat map of snow microbiota, by Location.</title>
+<p>Relative abundances (more red = higher relative abundance) of bacterial/archaeal <bold>(A)</bold> and eukaryotic <bold>(B)</bold> sequences recovered from snow samples pooled by Sampling Location. Class-level assignments are listed first on the y-axis for each taxa, followed by a semi-colon and its associated phylum. Taxonomy was assigned via the SILVA database by DADA2. These data have been rarefied.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/5961/Supplementary_Figure_S5.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Genera relative abundances in snow, by Sampling Location vs. Control.</title>
+<p>Demonstration that the most influential genera listed in <xref ref-type="table" rid="table-1">Table 1</xref> are not contamination. Numbers are relative abundances; more red means higher abundance. These data have been rarefied the same as all other analyzed samples.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/5961/Supplementary_Figure_S6.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>Relative abundance heat map of snow microbiota, by Storm Origin.</title>
+<p>Relative abundances (more red = higher relative abundance) of bacterial/archaeal <bold>(A)</bold> and eukaryotic <bold>(B)</bold> sequences recovered from snow samples pooled by Storm Origin. Class-level assignments are listed first on the y-axis for each taxa, followed by a semi-colon and its associated phylum. Taxonomy was assigned via the SILVA database by DADA2. These data have been rarefied.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-7" xlink:href="https://peerj.com/articles/5961/Supplementary_Photo_S1.jpg">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-7</object-id>
+<label>Supplemental Information 7</label>
+<caption>
+<title>Sunshine vs. Golden filter quadrants.</title>
+<p>These two filter quadrants (0.45-μm pore size) collected snow from the same storm on 01/04/17. The top (cleaner) filter filtered snow from Sunshine; the bottom (dirtier) filter filtered snow from Golden.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-8" xlink:href="https://peerj.com/articles/5961/Supplementary_Table_S1.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5961/supp-8</object-id>
+<label>Supplemental Information 8</label>
+<caption>
+<title>Raw IC/ICP-AES analyte data from melted and filtered snow.</title>
+<p>IC and ICP-AES data are separated by boxes.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We would like to thank all members of the GEM (Geo Environmental Microbiology) Lab at the Colorado School of Mines for helpful discussions. Specifically, thank you to Blake Stamps and Gary Vanzin for feedback on bioinformatic techniques and experimental design. Acknowledgements to the NOAA Air Resources Laboratory (ARL) for the provision of the HYSPLIT transport and dispersion model used in this publication. We also would like to thank anonymous reviewers for taking the time to give comprehensive and thoughtful critique of our work, improving the manuscript.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Alexander S. Honeyman</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Maria L. Day</xref> performed the experiments, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">John R. Spear</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>DNA Deposition</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding the deposition of DNA sequences:</p>
+<p>16S rRNA amplicon raw data are available as paired Illumina sequencing reads. Both forward and reverse read files are available on NCBI SRA Bioproject <uri xlink:href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA480309">PRJNA480309</uri> and SRA accession number <uri xlink:href="https://www.ncbi.nlm.nih.gov/sra/SRP153089">SRP153089</uri>.</p>
+<p>Our barcodes (needed to demultiplex the raw reads above) are provided on our GitHub page, along with the code that we used for this study: <uri xlink:href="https://github.com/MinesGEM/Honeyman-et-al.-Snow">https://github.com/MinesGEM/Honeyman-et-al.-Snow</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Amato et al. (2007a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Amato</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Demeer</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Melaouhi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Fontanella</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Martin-Biesse</surname>
+<given-names>A-S</given-names>
+</name>
+<name>
+<surname>Sancelme</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Laj</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Delort</surname>
+<given-names>A-M</given-names>
+</name>
+</person-group>
+<article-title>A fate for organic acids, formaldehyde and methanol in cloud water: their biotransformation by micro-organisms</article-title>
+<source>Atmospheric Chemistry and Physics</source>
+<year iso-8601-date="2007a">2007a</year>
+<volume>7</volume>
+<issue>15</issue>
+<fpage>4159</fpage>
+<lpage>4169</lpage>
+<pub-id pub-id-type="doi">10.5194/acp-7-4159-2007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Amato et al. (2007b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Amato</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Hennebelle</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Magand</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Sancelme</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Delort</surname>
+<given-names>A-M</given-names>
+</name>
+<name>
+<surname>Barbante</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Boutron</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ferrari</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Bacterial characterization of the snow cover at Spitzberg, Svalbard</article-title>
+<source>FEMS Microbiology Ecology</source>
+<year iso-8601-date="2007b">2007b</year>
+<volume>59</volume>
+<issue>2</issue>
+<fpage>255</fpage>
+<lpage>264</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1574-6941.2006.00198.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Amato et al. (2007c)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Amato</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Parazols</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sancelme</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Laj</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Mailhot</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Delort</surname>
+<given-names>A-M</given-names>
+</name>
+</person-group>
+<article-title>Microorganisms isolated from the water phase of tropospheric clouds at the Puy de DÃ´me: major groups and growth abilities at low temperatures</article-title>
+<source>FEMS Microbiology Ecology</source>
+<year iso-8601-date="2007c">2007c</year>
+<volume>59</volume>
+<issue>2</issue>
+<fpage>242</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1574-6941.2006.00199.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Amend et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Amend</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Momper</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Sylvan</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Edwards</surname>
+<given-names>KJ</given-names>
+</name>
+<name>
+<surname>Toner</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Hoffman</surname>
+<given-names>CL</given-names>
+</name>
+</person-group>
+<article-title>Bacillus rigiliprofundi sp. nov., an endospore-forming, Mn-oxidizing, moderately halophilic bacterium isolated from deep subseafloor basaltic crust</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>65</volume>
+<issue>6</issue>
+<fpage>1992</fpage>
+<lpage>1998</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.000211</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>An et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>An</surname>
+<given-names>D-S</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>H-G</given-names>
+</name>
+<name>
+<surname>Im</surname>
+<given-names>W-T</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Q-M</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>S-T</given-names>
+</name>
+</person-group>
+<article-title>Segetibacter koreensis gen. nov., sp. nov., a novel member of the phylum bacteroidetes, isolated from the soil of a ginseng field in South Korea</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2007">2007</year>
+<volume>57</volume>
+<issue>8</issue>
+<fpage>1828</fpage>
+<lpage>1833</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.64803-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Ariya et al. (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ariya</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Nepotchatykh</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Ignatova</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Amyot</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Microbiological degradation of atmospheric organic compounds</article-title>
+<source>Geophysical Research Letters</source>
+<year iso-8601-date="2002">2002</year>
+<volume>29</volume>
+<issue>22</issue>
+<fpage>34-1</fpage>
+<lpage>34-4</lpage>
+<pub-id pub-id-type="doi">10.1029/2002GL015637</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Borys, Hindman &amp; DeMott (1988)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Borys</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Hindman</surname>
+<given-names>EE</given-names>
+</name>
+<name>
+<surname>DeMott</surname>
+<given-names>PJ</given-names>
+</name>
+</person-group>
+<article-title>The chemical fractionation of atmospheric aerosol as a result of snow crystal formation and growth</article-title>
+<source>Journal of Atmospheric Chemistry</source>
+<year iso-8601-date="1988">1988</year>
+<volume>7</volume>
+<issue>3</issue>
+<fpage>213</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00130931</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Bowers et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bowers</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>McCubbin</surname>
+<given-names>IB</given-names>
+</name>
+<name>
+<surname>Hallar</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Fierer</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Seasonal variability in airborne bacterial communities at a high-elevation site</article-title>
+<source>Atmospheric Environment</source>
+<year iso-8601-date="2012">2012</year>
+<volume>50</volume>
+<fpage>41</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="doi">10.1016/j.atmosenv.2012.01.005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Bowers et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bowers</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Mcletchie</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Fierer</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Spatial variability in airborne bacterial communities across land-use types and their relationship to the bacterial communities of potential source environments</article-title>
+<source>ISME Journal</source>
+<year iso-8601-date="2011">2011</year>
+<volume>5</volume>
+<issue>4</issue>
+<fpage>601</fpage>
+<lpage>612</lpage>
+<pub-id pub-id-type="doi">10.1038/ismej.2010.167</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Burrows et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Burrows</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Butler</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Jöckel</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Tost</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kerkweg</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pöschl</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Lawrence</surname>
+<given-names>MG</given-names>
+</name>
+</person-group>
+<article-title>Bacteria in the global atmosphere—part 2: modeling of emissions and transport between different ecosystems</article-title>
+<source>Atmospheric Chemistry and Physics</source>
+<year iso-8601-date="2009">2009</year>
+<volume>9</volume>
+<issue>23</issue>
+<fpage>9281</fpage>
+<lpage>9297</lpage>
+<pub-id pub-id-type="doi">10.5194/acp-9-9281-2009</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Busse (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Busse</surname>
+<given-names>H-J</given-names>
+</name>
+</person-group>
+<article-title>Sphingomonas aurantiaca sp. nov., <italic>Sphingomonas aerolata</italic> sp. nov. and <italic>Sphingomonas faeni</italic> sp. nov., air- and dustborne and Antarctic, orange-pigmented, psychrotolerant bacteria, and emended description of the genus <italic>Sphingomonas</italic></article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2003">2003</year>
+<volume>53</volume>
+<issue>5</issue>
+<fpage>1253</fpage>
+<lpage>1260</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.02461-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Cakmur et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cakmur</surname>
+<given-names>RV</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Perlwitz</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Geogdzhayev</surname>
+<given-names>IV</given-names>
+</name>
+<name>
+<surname>Ginoux</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Koch</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Kohfeld</surname>
+<given-names>KE</given-names>
+</name>
+<name>
+<surname>Tegen</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Zender</surname>
+<given-names>CS</given-names>
+</name>
+</person-group>
+<article-title>Constraining the magnitude of the global dust cycle by minimizing the difference between a model and observations</article-title>
+<source>Journal of Geophysical Research</source>
+<volume>111</volume>
+<issue>D6</issue>
+<fpage>18075</fpage>
+<year iso-8601-date="2006">2006</year>
+<pub-id pub-id-type="doi">10.1029/2005JD005791</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Callahan et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Callahan</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>McMurdie</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Rosen</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>AW</given-names>
+</name>
+<name>
+<surname>Johnson</surname>
+<given-names>AJA</given-names>
+</name>
+<name>
+<surname>Holmes</surname>
+<given-names>SP</given-names>
+</name>
+</person-group>
+<article-title>DADA2: high-resolution sample inference from Illumina amplicon data</article-title>
+<source>Nature Methods</source>
+<year iso-8601-date="2016">2016</year>
+<volume>13</volume>
+<issue>7</issue>
+<fpage>581</fpage>
+<lpage>583</lpage>
+<pub-id pub-id-type="doi">10.1038/nmeth.3869</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Caporaso et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caporaso</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Kuczynski</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Stombaugh</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bittinger</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bushman</surname>
+<given-names>FD</given-names>
+</name>
+<name>
+<surname>Costello</surname>
+<given-names>EK</given-names>
+</name>
+<name>
+<surname>Fierer</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Peña</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Goodrich</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Gordon</surname>
+<given-names>JI</given-names>
+</name>
+<name>
+<surname>Huttley</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Kelley</surname>
+<given-names>ST</given-names>
+</name>
+<name>
+<surname>Knights</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Koenig</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Ley</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Lozupone</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>McDonald</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Muegge</surname>
+<given-names>BD</given-names>
+</name>
+<name>
+<surname>Pirrung</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Reeder</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sevinsky</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Turnbaugh</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Walters</surname>
+<given-names>WA</given-names>
+</name>
+<name>
+<surname>Widmann</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Yatsunenko</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Zaneveld</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>QIIME allows analysis of high-throughput community sequencing data</article-title>
+<source>Nature Methods</source>
+<year iso-8601-date="2010">2010</year>
+<volume>7</volume>
+<issue>5</issue>
+<fpage>335</fpage>
+<lpage>336</lpage>
+<pub-id pub-id-type="doi">10.1038/nmeth.f.303</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Caporaso et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caporaso</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Lauber</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Walters</surname>
+<given-names>WA</given-names>
+</name>
+<name>
+<surname>Berg-Lyons</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Huntley</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Fierer</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Owens</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Betley</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Fraser</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bauer</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gormley</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Gilbert</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms</article-title>
+<source>ISME Journal</source>
+<year iso-8601-date="2012">2012</year>
+<volume>6</volume>
+<issue>8</issue>
+<fpage>1621</fpage>
+<lpage>1624</lpage>
+<pub-id pub-id-type="doi">10.1038/ismej.2012.8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Carey et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Carey</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Hart</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Aciego</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Riebe</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Blakowski</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Aronson</surname>
+<given-names>EL</given-names>
+</name>
+</person-group>
+<article-title>Microbial community structure of subalpine snow in the Sierra Nevada, California</article-title>
+<source>Arctic, Antarctic, and Alpine Research</source>
+<year iso-8601-date="2018">2018</year>
+<volume>48</volume>
+<issue>4</issue>
+<fpage>685</fpage>
+<lpage>701</lpage>
+<pub-id pub-id-type="doi">10.1657/AAAR0015-062</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Carpenter, Lin &amp; Capone (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Carpenter</surname>
+<given-names>EJ</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Capone</surname>
+<given-names>DG</given-names>
+</name>
+</person-group>
+<article-title>Bacterial activity in South Pole snow</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="2000">2000</year>
+<volume>66</volume>
+<issue>10</issue>
+<fpage>4514</fpage>
+<lpage>4517</lpage>
+<pub-id pub-id-type="doi">10.1128/AEM.66.10.4514-4517.2000</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Christner et al. (2008a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Christner</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Cai</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Morris</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>McCarter</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Foreman</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Skidmore</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Montross</surname>
+<given-names>SN</given-names>
+</name>
+<name>
+<surname>Sands</surname>
+<given-names>DC</given-names>
+</name>
+</person-group>
+<article-title>Geographic, seasonal, and precipitation chemistry influence on the abundance and activity of biological ice nucleators in rain and snow</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2008a">2008a</year>
+<volume>105</volume>
+<issue>48</issue>
+<fpage>18854</fpage>
+<lpage>18859</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0809816105</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Christner et al. (2008b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Christner</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Morris</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Foreman</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Cai</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Sands</surname>
+<given-names>DC</given-names>
+</name>
+</person-group>
+<article-title>Ubiquity of biological ice nucleators in snowfall</article-title>
+<source>Science</source>
+<year iso-8601-date="2008b">2008b</year>
+<volume>319</volume>
+<issue>5867</issue>
+<fpage>1214</fpage>
+<pub-id pub-id-type="doi">10.1126/science.1149757</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Colorado Department of Local Affairs (2017)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>
+<institution>Colorado Department of Local Affairs</institution>
+</collab>
+</person-group>
+<article-title>Colorado Department of Local Affairs: Colorado county population</article-title>
+<year iso-8601-date="2017">2017</year>
+<uri>https://demography.dola.colorado.gov/Population-Bubbles/</uri>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Draxier &amp; Hess (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Draxier</surname>
+<given-names>RR</given-names>
+</name>
+<name>
+<surname>Hess</surname>
+<given-names>GD</given-names>
+</name>
+</person-group>
+<article-title>An overview of the HYSPLIT_4 modelling system for trajectories, dispersion and deposition</article-title>
+<source>Australian Meteorological Magazine</source>
+<year iso-8601-date="1998">1998</year>
+<volume>47</volume>
+<fpage>295</fpage>
+<lpage>308</lpage>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Dybwad &amp; Skogan (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dybwad</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Skogan</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Aerobiological stabilities of different species of gram-negative bacteria, including well-known biothreat simulants, in single-cell particles and cell clusters of different compositions</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>83</volume>
+<issue>18</issue>
+<elocation-id>e00823-17</elocation-id>
+<pub-id pub-id-type="doi">10.1128/AEM.00823-17</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Echahidi et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Echahidi</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Švec</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Petráš</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gelbíčová</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cnockaert</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sedláček</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Mašlanˇová</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Pantu ček</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Varbanovová</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Bel</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Černohlávková</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Vandamme</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Staphylococcus petrasii subsp. pragensis subsp. nov., occurring in human clinical material</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>65</volume>
+<issue>7</issue>
+<fpage>2071</fpage>
+<lpage>2077</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.000220</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Engelbrektson et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Engelbrektson</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kunin</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Wrighton</surname>
+<given-names>KC</given-names>
+</name>
+<name>
+<surname>Zvenigorodsky</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ochman</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Hugenholtz</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Experimental factors affecting PCR-based estimates of microbial species richness and evenness</article-title>
+<source>ISME Journal</source>
+<year iso-8601-date="2010">2010</year>
+<volume>4</volume>
+<issue>5</issue>
+<fpage>642</fpage>
+<lpage>647</lpage>
+<pub-id pub-id-type="doi">10.1038/ismej.2009.153</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Fan et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fan</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Deng</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Da</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Gehin</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Time-dependent size-resolved bacterial and fungal aerosols in Beijing subway</article-title>
+<source>Aerosol and Air Quality Research</source>
+<year iso-8601-date="2017">2017</year>
+<volume>17</volume>
+<issue>3</issue>
+<fpage>799</fpage>
+<lpage>809</lpage>
+<pub-id pub-id-type="doi">10.4209/aaqr.2016.03.0114</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Furuhata et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Furuhata</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Edagawa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Miyamoto</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kawakami</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Fukuyama</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Porphyrobacter colymbi sp. nov. isolated from swimming pool water in Tokyo, Japan</article-title>
+<source>Journal of General and Applied Microbiology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>59</volume>
+<issue>3</issue>
+<fpage>245</fpage>
+<lpage>250</lpage>
+<pub-id pub-id-type="doi">10.2323/jgam.59.245</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Gallego (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gallego</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Chryseobacterium hispanicum sp. nov., isolated from the drinking water distribution system of Sevilla, Spain</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>56</volume>
+<issue>7</issue>
+<fpage>1589</fpage>
+<lpage>1592</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.64264-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Garrett et al. (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Garrett</surname>
+<given-names>MH</given-names>
+</name>
+<name>
+<surname>Rayment</surname>
+<given-names>PR</given-names>
+</name>
+<name>
+<surname>Hooper</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Abramson</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Hooper</surname>
+<given-names>BM</given-names>
+</name>
+</person-group>
+<article-title>Indoor airborne fungal spores, house dampness and associations with environmental factors and respiratory health in children</article-title>
+<source>Clinical Experimental Allergy</source>
+<year iso-8601-date="1998">1998</year>
+<volume>28</volume>
+<issue>4</issue>
+<fpage>459</fpage>
+<lpage>467</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2222.1998.00255.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Gravuer &amp; Eskelinen (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gravuer</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Eskelinen</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Nutrient and rainfall additions shift phylogenetically estimated traits of soil microbial communities</article-title>
+<source>Frontiers in Microbiology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>8</volume>
+<fpage>1271</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2017.01271</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Griffin et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Griffin</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Garrison</surname>
+<given-names>VH</given-names>
+</name>
+<name>
+<surname>Herman</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Shinn</surname>
+<given-names>EA</given-names>
+</name>
+</person-group>
+<article-title>African desert dust in the Caribbean atmosphere: microbiology and public health</article-title>
+<source>Aerobiologia</source>
+<year iso-8601-date="2001">2001</year>
+<volume>17</volume>
+<fpage>203</fpage>
+<lpage>213</lpage>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Hallar et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hallar</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Chirokova</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>McCubbin</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Painter</surname>
+<given-names>TH</given-names>
+</name>
+<name>
+<surname>Wiedinmyer</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Dodson</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Atmospheric bioaerosols transported via dust storms in the western United States</article-title>
+<source>Geophysical Research Letters</source>
+<year iso-8601-date="2011">2011</year>
+<volume>38</volume>
+<issue>17</issue>
+<fpage>L17801</fpage>
+<pub-id pub-id-type="doi">10.1029/2011GL048166</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Harding et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harding</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Jungblut</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Lovejoy</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Vincent</surname>
+<given-names>WF</given-names>
+</name>
+</person-group>
+<article-title>Microbes in high arctic snow and implications for the cold biosphere</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>77</volume>
+<issue>10</issue>
+<fpage>3234</fpage>
+<lpage>3243</lpage>
+<pub-id pub-id-type="doi">10.1128/AEM.02611-10</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Hiraoka et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hiraoka</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Miyahara</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Fujii</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Machiyama</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Iwasaki</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Seasonal analysis of microbial communities in precipitation in the greater Tokyo area, Japan</article-title>
+<source>Frontiers in Microbiology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>8</volume>
+<fpage>115</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2017.01506</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Im et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Im</surname>
+<given-names>W-T</given-names>
+</name>
+<name>
+<surname>Kang</surname>
+<given-names>M-S</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Jin</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Flavisolibacter ginsenosidimutans sp. nov., with ginsenoside-converting activity isolated from soil used for cultivating ginseng</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>65</volume>
+<issue>12</issue>
+<fpage>4868</fpage>
+<lpage>4872</lpage>
+<pub-id pub-id-type="doi">10.1099/ijsem.0.000660</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Jain (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jain</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Horizontal gene transfer accelerates genome innovation and evolution</article-title>
+<source>Molecular Biology and Evolution</source>
+<year iso-8601-date="2003">2003</year>
+<volume>20</volume>
+<issue>10</issue>
+<fpage>1598</fpage>
+<lpage>1602</lpage>
+<pub-id pub-id-type="doi">10.1093/molbev/msg154</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Kampfer (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kampfer</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Description of <italic>Wautersiella falsenii</italic> gen. nov., sp. nov., to accommodate clinical isolates phenotypically resembling members of the genera <italic>Chryseobacterium</italic> and <italic>Empedobacter</italic></article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>56</volume>
+<issue>10</issue>
+<fpage>2323</fpage>
+<lpage>2329</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.64393-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Liu et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Jiao</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Tian</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Microbial diversity in the snow, a moraine lake and a stream in Himalayan glacier</article-title>
+<source>Extremophiles</source>
+<year iso-8601-date="2011">2011</year>
+<volume>15</volume>
+<issue>3</issue>
+<fpage>411</fpage>
+<lpage>421</lpage>
+<pub-id pub-id-type="doi">10.1007/s00792-011-0372-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Lozupone &amp; Knight (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lozupone</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Knight</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>UniFrac: a new phylogenetic method for comparing microbial communities</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>71</volume>
+<issue>12</issue>
+<fpage>8228</fpage>
+<lpage>8235</lpage>
+<pub-id pub-id-type="doi">10.1128/AEM.71.12.8228-8235.2005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Maki et al. (1974)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Maki</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Galyan</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Chang-Chien</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Caldwell</surname>
+<given-names>DR</given-names>
+</name>
+</person-group>
+<article-title>Ice nucleation induced by <italic>Pseudomonas syringae</italic></article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="1974">1974</year>
+<volume>28</volume>
+<fpage>456</fpage>
+<lpage>459</lpage>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>McDaniel et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McDaniel</surname>
+<given-names>LD</given-names>
+</name>
+<name>
+<surname>Young</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Delaney</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ruhnau</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ritchie</surname>
+<given-names>KB</given-names>
+</name>
+<name>
+<surname>Paul</surname>
+<given-names>JH</given-names>
+</name>
+</person-group>
+<article-title>High frequency of horizontal gene transfer in the oceans</article-title>
+<source>Science</source>
+<year iso-8601-date="2010">2010</year>
+<volume>330</volume>
+<issue>6000</issue>
+<fpage>50</fpage>
+<pub-id pub-id-type="doi">10.1126/science.1192243</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>McMurdie &amp; Holmes (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McMurdie</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Holmes</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Phyloseq: a bioconductor package for handling and analysis of high-throughput phylogenetic sequence data</article-title>
+<source>Proceedings of the Pacific Symposium</source>
+<year iso-8601-date="2011">2011</year>
+<volume>2012</volume>
+<fpage>235</fpage>
+<lpage>246</lpage>
+<pub-id pub-id-type="doi">10.1142/9789814366496_0023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Monteil, Bardin &amp; Morris (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Monteil</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Bardin</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Morris</surname>
+<given-names>CE</given-names>
+</name>
+</person-group>
+<article-title>Features of air masses associated with the deposition of <italic>Pseudomonas syringae</italic> and <italic>Botrytis cinerea</italic> by rain and snowfall</article-title>
+<source>ISME Journal</source>
+<year iso-8601-date="2014">2014</year>
+<volume>8</volume>
+<issue>11</issue>
+<fpage>2290</fpage>
+<lpage>2304</lpage>
+<pub-id pub-id-type="doi">10.1038/ismej.2014.55</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Morgulis et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Morgulis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Coulouris</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Raytselis</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Madden</surname>
+<given-names>TL</given-names>
+</name>
+<name>
+<surname>Agarwala</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Schäffer</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Database indexing for production Megablast searches</article-title>
+<source>Bioinformatics</source>
+<year iso-8601-date="2008">2008</year>
+<volume>24</volume>
+<issue>16</issue>
+<fpage>1757</fpage>
+<lpage>1764</lpage>
+<pub-id pub-id-type="doi">10.1093/bioinformatics/btn322</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Morris, Leyronas &amp; Nicot (2014)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Morris</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Leyronas</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Nicot</surname>
+<given-names>PC</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Colbeck</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Lazaridis</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Movements of bioaerosols in the atmosphere and the consequences for climate and microbial evolution</article-title>
+<source>Aerosol Science: Technology and Applications</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Chichester</publisher-loc>
+<publisher-name>John Wiley &amp; and Sons Ltd.</publisher-name>
+<fpage>393</fpage>
+<lpage>415</lpage>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Morris et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Morris</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Sands</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Bardin</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Jaenicke</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Vogel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Leyronas</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ariya</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Psenner</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Microbiology and atmospheric processes: research challenges concerning the impact of airborne micro-organisms on the atmosphere and climate</article-title>
+<source>Biogeosciences</source>
+<year iso-8601-date="2011">2011</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>17</fpage>
+<lpage>25</lpage>
+<pub-id pub-id-type="doi">10.5194/bg-8-17-2011</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Mortazavi, Hayes &amp; Ariya (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mortazavi</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Hayes</surname>
+<given-names>CT</given-names>
+</name>
+<name>
+<surname>Ariya</surname>
+<given-names>PA</given-names>
+</name>
+</person-group>
+<article-title>Ice nucleation activity of bacteria isolated from snow compared with organic and inorganic substrates</article-title>
+<source>Environmental Chemistry</source>
+<year iso-8601-date="2008">2008</year>
+<volume>5</volume>
+<issue>6</issue>
+<fpage>373</fpage>
+<pub-id pub-id-type="doi">10.1071/EN08055</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Muurholm et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Muurholm</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cousin</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pauker</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Brambilla</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Stackebrandt</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title><italic>Pedobacter duraquae</italic> sp. nov., <italic>Pedobacter westerhofensis</italic> sp. nov., <italic>Pedobacter metabolipauper</italic> sp. nov., <italic>Pedobacter hartonius</italic> sp. nov. and <italic>Pedobacter steynii</italic> sp. nov., isolated from a hard-water rivulet</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2007">2007</year>
+<volume>57</volume>
+<issue>10</issue>
+<fpage>2221</fpage>
+<lpage>2227</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.65166-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Nakaya (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nakaya</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<article-title>An electron microscope study of snow crystal nuclei</article-title>
+<source>Journal of Glaciology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>2</volume>
+<issue>13</issue>
+<fpage>176</fpage>
+<lpage>180</lpage>
+<pub-id pub-id-type="doi">10.3189/S0022143000025661</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Neff et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neff</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Ballantyne</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Farmer</surname>
+<given-names>GL</given-names>
+</name>
+<name>
+<surname>Mahowald</surname>
+<given-names>NM</given-names>
+</name>
+<name>
+<surname>Conroy</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Landry</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Overpeck</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Painter</surname>
+<given-names>TH</given-names>
+</name>
+<name>
+<surname>Lawrence</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>Reynolds</surname>
+<given-names>RL</given-names>
+</name>
+</person-group>
+<article-title>Increasing eolian dust deposition in the western United States linked to human activity</article-title>
+<source>Nature Geoscience</source>
+<year iso-8601-date="2008">2008</year>
+<volume>1</volume>
+<issue>3</issue>
+<fpage>189</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1038/ngeo133</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>NOAA (2017)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>
+<institution>NOAA</institution>
+</collab>
+</person-group>
+<article-title>Boulder monthly means: snowfall. NOAA Earth System Research Laboratory</article-title>
+<year iso-8601-date="2017">2017</year>
+<uri>https://www.esrl.noaa.gov/psd/boulder/bouldersnow.html</uri>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Ochman, Lawrence &amp; Groisman (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ochman</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Lawrence</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Groisman</surname>
+<given-names>EA</given-names>
+</name>
+</person-group>
+<article-title>Lateral gene transfer and the nature of bacterial innovation</article-title>
+<source>Nature</source>
+<year iso-8601-date="2000">2000</year>
+<volume>405</volume>
+<issue>6784</issue>
+<fpage>299</fpage>
+<lpage>304</lpage>
+<pub-id pub-id-type="doi">10.1038/35012500</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Oksanen et al. (2017)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Oksanen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Blanchet</surname>
+<given-names>FG</given-names>
+</name>
+<name>
+<surname>Friendly</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kindt</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Legendre</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>McGlinn</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Minchin</surname>
+<given-names>PR</given-names>
+</name>
+<name>
+<surname>O’Hara</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Simpson</surname>
+<given-names>GL</given-names>
+</name>
+<name>
+<surname>Solymos</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Stevens</surname>
+<given-names>MHH</given-names>
+</name>
+<name>
+<surname>Szoecs</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Wagner</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<data-title>vegan: community ecology package</data-title>
+<year iso-8601-date="2017">2017</year>
+<version designator="2.4-4">R package version 2.4-4</version>
+<uri>https://CRAN.R-project.org/package=vegan</uri>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Painter et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Painter</surname>
+<given-names>TH</given-names>
+</name>
+<name>
+<surname>Barrett</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Landry</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Neff</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Cassidy</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Lawrence</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>McBride</surname>
+<given-names>KE</given-names>
+</name>
+<name>
+<surname>Farmer</surname>
+<given-names>GL</given-names>
+</name>
+</person-group>
+<article-title>Impact of disturbed desert soils on duration of mountain snow cover</article-title>
+<source>Geophysical Research Letters</source>
+<year iso-8601-date="2007">2007</year>
+<volume>34</volume>
+<issue>12</issue>
+<lpage>L12502</lpage>
+<pub-id pub-id-type="doi">10.1029/2007GL030284</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Pandey et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pandey</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Usui</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Livingstone</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Fischer</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Pfaendtner</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Backus</surname>
+<given-names>EHG</given-names>
+</name>
+<name>
+<surname>Nagata</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Fröhlich-Nowoisky</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Schmüser</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Mauri</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Scheel</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Knopf</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Pöschl</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Bonn</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Weidner</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Ice-nucleating bacteria control the order and dynamics of interfacial water</article-title>
+<source>Science Advances</source>
+<year iso-8601-date="2016">2016</year>
+<volume>2</volume>
+<issue>4</issue>
+<elocation-id>e1501630</elocation-id>
+<pub-id pub-id-type="doi">10.1126/sciadv.1501630</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Parada, Needham &amp; Fuhrman (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Parada</surname>
+<given-names>AE</given-names>
+</name>
+<name>
+<surname>Needham</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Fuhrman</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Every base matters: assessing small subunit rRNA primers for marine microbiomes with mock communities, time series and global field samples</article-title>
+<source>Environmental Microbiology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>18</volume>
+<issue>5</issue>
+<fpage>1403</fpage>
+<lpage>1414</lpage>
+<pub-id pub-id-type="doi">10.1111/1462-2920.13023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Portillo et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Portillo</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Leff</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Lauber</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Fierer</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Cell size distributions of soil bacterial and archaeal taxa</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>79</volume>
+<issue>24</issue>
+<fpage>7610</fpage>
+<lpage>7617</lpage>
+<pub-id pub-id-type="doi">10.1128/AEM.02710-13</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Pruesse, Peplies &amp; Glöckner (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pruesse</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Peplies</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Glöckner</surname>
+<given-names>FO</given-names>
+</name>
+</person-group>
+<article-title>SINA: accurate high-throughput multiple sequence alignment of ribosomal RNA genes</article-title>
+<source>Bioinformatics</source>
+<year iso-8601-date="2012">2012</year>
+<volume>28</volume>
+<issue>14</issue>
+<fpage>1823</fpage>
+<lpage>1829</lpage>
+<pub-id pub-id-type="doi">10.1093/bioinformatics/bts252</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Reche et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reche</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>D’Orta</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Mladenov</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Winget</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Suttle</surname>
+<given-names>CA</given-names>
+</name>
+</person-group>
+<article-title>Deposition rates of viruses and bacteria above the atmospheric boundary layer</article-title>
+<source>ISME Journal</source>
+<year iso-8601-date="2018">2018</year>
+<volume>437</volume>
+<fpage>356</fpage>
+<pub-id pub-id-type="doi">10.1038/s41396-017-0042-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Rosenfeld (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rosenfeld</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Suppression of rain and snow by urban and industrial air pollution</article-title>
+<source>Science</source>
+<year iso-8601-date="2000">2000</year>
+<volume>287</volume>
+<issue>5459</issue>
+<fpage>1793</fpage>
+<lpage>1796</lpage>
+<pub-id pub-id-type="doi">10.1126/science.287.5459.1793</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Rudi et al. (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rudi</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Skulberg</surname>
+<given-names>OM</given-names>
+</name>
+<name>
+<surname>Larsen</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Jakobsen</surname>
+<given-names>KS</given-names>
+</name>
+</person-group>
+<article-title>Strain characterization and classification of oxyphotobacteria in clone cultures on the basis of 16S rRNA sequences from the variable regions V6, V7, and V8</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="1997">1997</year>
+<volume>63</volume>
+<issue>7</issue>
+<fpage>2593</fpage>
+<lpage>2599</lpage>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Sattler, Puxbaum &amp; Psenner (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sattler</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Puxbaum</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Psenner</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Bacterial growth in supercooled cloud droplets</article-title>
+<source>Geophysical Research Letters</source>
+<year iso-8601-date="2001">2001</year>
+<volume>28</volume>
+<issue>2</issue>
+<fpage>239</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1029/2000GL011684</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Smet et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smet</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Cools</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Krizova</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Maixnerova</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sedo</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Haesebrouck</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Kempf</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Nemec</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vaneechoutte</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Acinetobacter gandensis sp. nov. isolated from horse and cattle</article-title>
+<source>International Journal of Systematic and Evolutionary Microbiology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>64</volume>
+<issue>Pt 12</issue>
+<fpage>4007</fpage>
+<lpage>4015</lpage>
+<pub-id pub-id-type="doi">10.1099/ijs.0.068791-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Snomax (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>
+<institution>Snomax</institution>
+</collab>
+</person-group>
+<article-title>Snomax</article-title>
+<year iso-8601-date="2018">2018</year>
+<uri>http://www.snomax.com/product/snomax.html</uri>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Stamps et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stamps</surname>
+<given-names>BW</given-names>
+</name>
+<name>
+<surname>Lyles</surname>
+<given-names>CN</given-names>
+</name>
+<name>
+<surname>Suflita</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Masoner</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Cozzarelli</surname>
+<given-names>IM</given-names>
+</name>
+<name>
+<surname>Kolpin</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Stevenson</surname>
+<given-names>BS</given-names>
+</name>
+</person-group>
+<article-title>Municipal solid waste landfills harbor distinct microbiomes</article-title>
+<source>Frontiers in Microbiology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>7</volume>
+<fpage>507</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.00534</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Stein et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stein</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Draxler</surname>
+<given-names>RR</given-names>
+</name>
+<name>
+<surname>Rolph</surname>
+<given-names>GD</given-names>
+</name>
+<name>
+<surname>Stunder</surname>
+<given-names>BJB</given-names>
+</name>
+<name>
+<surname>Cohen</surname>
+<given-names>MD</given-names>
+</name>
+<name>
+<surname>Ngan</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>NOAA’s HYSPLIT atmospheric transport and dispersion modeling system</article-title>
+<source>Bulletin of the American Meteorological Society</source>
+<year iso-8601-date="2015">2015</year>
+<volume>96</volume>
+<issue>12</issue>
+<fpage>2059</fpage>
+<lpage>2077</lpage>
+<pub-id pub-id-type="doi">10.1175/BAMS-D-14-00110.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Temkiv et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Temkiv</surname>
+<given-names>TŠ</given-names>
+</name>
+<name>
+<surname>Finster</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Hansen</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Nielsen</surname>
+<given-names>NW</given-names>
+</name>
+<name>
+<surname>Karlson</surname>
+<given-names>UG</given-names>
+</name>
+</person-group>
+<article-title>The microbial diversity of a storm cloud as assessed by hailstones</article-title>
+<source>FEMS Microbiology Ecology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>81</volume>
+<issue>3</issue>
+<fpage>684</fpage>
+<lpage>695</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1574-6941.2012.01402.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Thomas &amp; Nielsen (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Thomas</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Nielsen</surname>
+<given-names>KM</given-names>
+</name>
+</person-group>
+<article-title>Mechanisms of and barriers to, horizontal gene transfer between bacteria</article-title>
+<source>Nature Reviews Microbiology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>3</volume>
+<issue>9</issue>
+<fpage>711</fpage>
+<lpage>721</lpage>
+<pub-id pub-id-type="doi">10.1038/nrmicro1234</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Tong &amp; Lighthart (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tong</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Lighthart</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Diurnal distribution of total and culturable atmospheric bacteria at a rural site</article-title>
+<source>Aerosol Science and Technology American Association for Aerosol Research</source>
+<year iso-8601-date="1999">1999</year>
+<volume>30</volume>
+<issue>2</issue>
+<fpage>246</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1080/027868299304822</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Twomey &amp; Squires (1959)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Twomey</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Squires</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>The influence of cloud nucleus population on the microstructure and stability of convective clouds</article-title>
+<source>Tellus</source>
+<year iso-8601-date="1959">1959</year>
+<volume>11</volume>
+<issue>4</issue>
+<fpage>408</fpage>
+<lpage>411</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2153-3490.1959.tb00050.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>Wright, Greene &amp; Paulus (1969)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wright</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Greene</surname>
+<given-names>VW</given-names>
+</name>
+<name>
+<surname>Paulus</surname>
+<given-names>HJ</given-names>
+</name>
+</person-group>
+<article-title>Viable microorganisms in an urban atmosphere</article-title>
+<source>Journal of the Air Pollution Control Association</source>
+<year iso-8601-date="1969">1969</year>
+<volume>19</volume>
+<issue>5</issue>
+<fpage>337</fpage>
+<lpage>341</lpage>
+<pub-id pub-id-type="doi">10.1080/00022470.1969.10466496</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

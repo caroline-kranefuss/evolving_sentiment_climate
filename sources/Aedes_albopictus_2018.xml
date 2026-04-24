@@ -1,0 +1,2605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">6133</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.6133</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Ecology</subject>
+               <subject>Ecosystem Science</subject>
+               <subject>Entomology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Effects of ultraviolet radiation on metabolic rate and fitness of <italic>Aedes albopictus</italic> and <italic>Culex pipiens</italic> mosquitoes</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Villena</surname>
+                  <given-names>Oswaldo C.</given-names>
+               </name>
+               <email>ovillena@umd.edu</email>
+               <email>oswaldo.villena@gmail.com</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Momen</surname>
+                  <given-names>Bahram</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Sullivan</surname>
+                  <given-names>Joseph</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Leisnham</surname>
+                  <given-names>Paul T.</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Marine Estuarine &amp; Environmental Sciences, University of Maryland</institution>, <city>College Park</city>, <state>MD</state>, <country> United States of America</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Department of Environmental Science &amp; Technology, University of Maryland</institution>, <city>College Park</city>, <state>MD</state>, <country> United States of America</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Department of Plant Science &amp; Landscape Architecture, University of Maryland</institution>, <city>College Park</city>, <state>MD</state>, <country> United States of America</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Lazzari</surname>
+                  <given-names>Claudio</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-18">
+            <day>18</day>
+            <month>12</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e6133</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-03-16">
+               <day>16</day>
+               <month>3</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-11-19">
+               <day>19</day>
+               <month>11</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Villena et al.</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Villena et al.</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/6133"/>
+         <abstract>
+            <p>Natural and anthropogenic changes (e.g., land use change, pollution) will alter many environmental factors in the coming years, including the amount of solar radiation reaching the earth’s surface. Alterations in solar radiation exposure is likely to impact the ecologies of many living organisms, including invertebrates that inhabit aquatic habitats. In this study, we assessed the effect of UV-B radiation on the metabolic rates and fitness (survival, development time, body size) of <italic>Aedes albopictus</italic> and <italic>Culex pipiens</italic> mosquitoes and the activity of their microbial food resources in experimental aquatic microcosms<italic>.</italic> We exposed single-species cohorts of newly hatched <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae and a control treatment with no larvae to three UV-B conditions that mimicked those in full-sun and shade in the field and to a control condition with no UV-B radiation. Our results indicated that UV-B radiation affected the metabolic rates of both <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae, with significantly higher rates found in full-sun compared to shade and no-UV conditions, 8 and 15 days after exposure began. <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> survival was also affected by UV-B radiation condition, with significantly lower survival in full-sun compared to shade and no UV-B conditions. Microbial metabolic rates were consistently significantly lower in full-sun compared to shade and no-UV conditions, especially at 8 days of exposure. These results show that UV-B radiation at levels found in open spaces showed strong and important impacts on the metabolic rates and survival of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae. Decreased survival of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> with higher UV-B radiation levels may be caused by both direct exposure to radiation as well as the indirect effects of reduced microbial food, resulting in greater metabolic demands and stress. Negative impacts of UV-B radiation on the survival of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> are likely to have important implications for the distribution and abundance of these mosquitoes, and the transmission of pathogens that these two broadly distributed mosquitoes vector.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Metabolic rate</kwd>
+            <kwd>Microbial communities</kwd>
+            <kwd>UV-B radiation</kwd>
+            <kwd>Vector competence</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>Maryland Agriculture Experimental Station</funding-source>
+               <award-id>MD-ENST-2956</award-id>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source>USDA Multistate</funding-source>
+               <award-id>MD-ENST-1443</award-id>
+            </award-group>
+            <award-group id="fund-3">
+               <funding-source>NSF-Couple Natural Human Systems Program</funding-source>
+               <award-id>DEB-1211797</award-id>
+            </award-group>
+            <funding-statement>The study was supported by a Maryland Agriculture Experimental Station Grant MD-ENST-2956, USDA Multistate project MD-ENST-1443, and an NSF-Couple Natural Human Systems Program award (DEB-1211797) to Paul T. Leisnham. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Environmental changes (e.g., global warming, climate change) will trigger major changes in environmental factors (e.g., temperature, precipitation) in coming years (<xref ref-type="bibr" rid="ref-42">Macnaghten &amp; Szerszynski, 2013</xref>; <xref ref-type="bibr" rid="ref-9">Bornman et al., 2015</xref>). These changes are likely to have profound impacts on insect ecology and physiology, including survival, development time, and underlying metabolic processes (<xref ref-type="bibr" rid="ref-29">Helbling &amp; Zagarese, 2003</xref>; <xref ref-type="bibr" rid="ref-62">Shuman, 2011</xref>; <xref ref-type="bibr" rid="ref-24">Gray, 2013</xref>). Much of the literature on global change biology has so far focused on temperature, precipitation, and humidity due to their well-characterized effects on arthropods (<xref ref-type="bibr" rid="ref-50">Pedrosa de Almeida et al., 2010</xref>; <xref ref-type="bibr" rid="ref-31">Jaworski &amp; Hilszczanski, 2013</xref>; <xref ref-type="bibr" rid="ref-58">Schulte, 2015</xref>; <xref ref-type="bibr" rid="ref-63">Sinclair et al., 2016</xref>). Other environmental changes, including increased exposure to ultraviolet radiation (UVR) from climate change (e.g., cloud thickness) and anthropogenic activities (e.g., land use change, pollution), may have subtler yet important effects that have so far been poorly studied.</p>
+         <p>UVR is part of the electromagnetic spectrum emitted by the sun, with a wavelength range between 100 and 400 nm (<xref ref-type="bibr" rid="ref-5">Andrady et al., 1998</xref>). UVR is subdivided into three subtypes by the length of the waves: UV-A, 315–400 nm; UV-B, 280–315 nm; UV-C, 100–280 nm. Only UV-A and UV-B radiation reach the earth’s surface (<xref ref-type="bibr" rid="ref-30">IARC, 2012</xref>), and UV-B radiation is considerably more harmful to living organisms than UV-A because of its shorter wavelength and consequently higher energy levels (<xref ref-type="bibr" rid="ref-5">Andrady et al., 1998</xref>). Although there is considerable variation in exposure to UV-B radiation throughout the landscape because of varying shade conditions, relatively few studies have examined the effects of UV-B radiation on insect behavior, physiology, and ecology (e.g., <xref ref-type="bibr" rid="ref-32">Johansen et al., 2011</xref>; <xref ref-type="bibr" rid="ref-69">Tuncbilek, Ercan &amp; Canpolat, 2012</xref>; <xref ref-type="bibr" rid="ref-61">Shimoda &amp; Honda, 2013</xref>; <xref ref-type="bibr" rid="ref-64">Sliney, Gilbert II &amp; Lyon, 2016</xref>).</p>
+         <p>Most mosquito species feed on vertebrates for blood protein, and some species are medically important because they transmit pathogenic agents (e.g., parasites, viruses) that can cause disease (<xref ref-type="bibr" rid="ref-16">Darsie &amp; Ward, 2016</xref>). <italic>Aedes albopictus</italic> (Skuse) (Diptera: Culicidae) and <italic>Culex pipiens</italic> (L.) (Diptera: Culicidae) are among the most common urban mosquitoes in the northeastern United States (<xref ref-type="bibr" rid="ref-36">Leisnham &amp; Slaney, 2009</xref>; <xref ref-type="bibr" rid="ref-14">Costanzo, Mormann &amp; Juliano, 2005</xref>). <italic>Ae. albopictus</italic> is an important vector for the transmission of many arthropod viruses, including yellow fever, dengue, and Chikungunya (<xref ref-type="bibr" rid="ref-35">Lambrechts, Scott &amp; Gubler, 2010</xref>). <italic>Ae. albopictus</italic> is also capable of hosting the Zika virus, and it is therefore considered a potential vector in the field (<xref ref-type="bibr" rid="ref-77">Wong et al., 2013</xref>). <italic>Cx. pipiens</italic> is an important vector for the transmission of West Nile virus and Japanese encephalitis (<xref ref-type="bibr" rid="ref-23">Gerhardt et al., 2001</xref>; <xref ref-type="bibr" rid="ref-34">Kim et al., 2005</xref>; <xref ref-type="bibr" rid="ref-46">Molaei et al., 2006</xref>). <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> are also capable of transmitting dog heartworm (<italic>Dirofilaria immitis</italic>), which affects dogs, cats, foxes, coyotes, and other animals (<xref ref-type="bibr" rid="ref-11">Cancrini et al., 2007</xref>).</p>
+         <p>Mosquitoes oviposit eggs in aquatic habitats where the larvae and pupae typically develop within several weeks and then emerge into terrestrial adults (<xref ref-type="bibr" rid="ref-13">Clements, 1992</xref>). Mosquito larvae primarily feed on microbial organisms that colonize plant and animal detritus (<xref ref-type="bibr" rid="ref-73">Walker et al., 1991</xref>; <xref ref-type="bibr" rid="ref-45">Merritt, Dadd &amp; Walker, 1992</xref>). Larval physiology and ecology affect the distribution and abundance of adults by moderating survival and adult fitness parameters, including such as body size, which can affect adult survival, biting rate, and ultimately the ability to vector and transmit pathogens (<xref ref-type="bibr" rid="ref-67">Terblanche &amp; Chown, 2007</xref>). There is little information on the effect of UV-B radiation on the metabolic rates and survival of mosquitoes or on the microbial food resources on which they feed. To our knowledge only one study has rigorously assessed the effects of UVR on mosquitoes (<xref ref-type="bibr" rid="ref-41">MacGregor, 1932</xref>), which demonstrated clear negative effects of increasing UVR on larvae and pupae of <italic>Ae. aegypti</italic> (L.) and <italic>Cx. pipiens</italic>. However, a significant limitation of the study is that the UVR levels used in the study were not comparable to field conditions.</p>
+         <p>Other studies have demonstrated effects of UV-B radiation on microbial communities (e.g., <xref ref-type="bibr" rid="ref-49">Pancotto et al., 2003</xref>), but none have examined how these effects may impact mosquito populations. Future changes in UV-B radiation exposure from climate change and other anthropogenic activities (e.g., land use change, pollution) may have as important effects on microbial productivity as the underlying detritus on which the microbial organisms colonize (<xref ref-type="bibr" rid="ref-7">Ballare et al., 2011</xref>). The goal of this study is to test the effect of field-relevant UV-B radiation on the metabolic rates and fitness (survival, development time, and body size) of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic>, and on the production of the microbial communities on which they feed.</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials and Methods</title>
+         <sec>
+            <title>Collection and maintenance of mosquitoes</title>
+            <p><italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae were collected from multiple locations in College Park, Baltimore, and Towson, Maryland (USA). Neither <italic>Ae. albopictus</italic> or <italic>Cx. pipiens</italic> are endangered and collection sites were either on publicly accessible lands or on private lands where consent for collections was granted at the time of collection; thus, no field permits were required to collect them. Field collected <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae were reared to adulthood at 25 °C at 16:8 (L:D) h photoperiod and then released into 1-m<sup>2</sup> single-species cages. Adults were kept in an insectary at 25 °C, &gt;85% RH, and 16:8 (L:D) h photoperiod. Both colonies were supplied 20% sugar solution. Females from both colonies were fed horse or rooster blood once a week via an artificial feeder (Hemotek, Accrington, UK) to ensure egg production and experimental larvae. <italic>Ae. albopictus</italic> females oviposited on seed paper in 500 ml black cups covered filled with 200 ml of deionized (DI) water. Eggs were collected over multiple weeks and stored at &gt;80% RH and 16:8 h (L:D) photoperiod until hatching for the experiment. <italic>Cx. pipiens</italic> oviposited egg rafts into a 500 ml black bowl filled with 400 ml of DI water. <italic>Cx. pipiens</italic> eggs cannot be held without hatching; thus, egg rafts were collected within 24 h of oviposition, hatched in a lactalbumin:yeast solution, and larvae were transferred into the experiment after being rinsed. <italic>Ae. albopictus</italic> eggs that had been stored were also hatched in a lactalbumin:yeast solution and transferred into the experiment after being rinsed and within 24 h of hatching. Experimental larvae of both species were <italic>F</italic><sub>1–3</sub> generation.</p>
+         </sec>
+         <sec>
+            <title>Experiment set up</title>
+            <p>The experimental design was a split plot-randomized complete block design (RCBD) with UV-B radiation condition (full-sun, 7.66 kJ m<sup>−2</sup> d<sup>−1</sup>; shade, 4.26 kJ m<sup>−2</sup> d<sup>−1</sup>; no-UVR control group, 0 kJ m<sup>−2</sup> d<sup>−1</sup>) as the main plot and species treatment (<italic>Ae. albopictus</italic>, <italic>Cx. pipiens</italic>, no larvae) as the sub-plots. Within each sub-plot there were five sub-samples consisting of 20 ml vials with 17 ml DI water and single-species mosquito cohorts of 10 newly-hatched <italic>Ae. albopictus</italic> or <italic>Cx. pipiens</italic> larvae, or no larvae. Each vial was inoculated with 1 ml of homogenized water from discarded field tires to allow microbial communities to establish. We ran three temporal replicates as random blocks. In each block, there were 15 vials of each species treatment to give 45 total vials per block, and 5 vials of each species treatment (15 total) were randomly allotted to one of three environmental chambers (Model I-36 VL; Percival Scientific Inc., Perry, IA, USA). Each chamber was assigned one of the three UV-B radiation conditions that mimicked levels of UV-B radiation typically measured in full-sun and shade conditions in the field, as well as a control condition with no UV-B radiation (<xref ref-type="bibr" rid="ref-54">Rinnan et al., 2005</xref>).</p>
+            <p>To achieve UV-B radiation levels for the full-sun and shade conditions, cellulose diacetate filters were applied to four UV-B-313 lamps (Q Panel Lab Products, Cleveland, OH, USA) in each chamber and vials were placed 5 cm and 20 cm from the lamps, respectively. For the no UV-B radiation treatment group, four regular 32-watt bulbs (Model 205047, Phillips, Eindhoven, Netherlands) were used to simulate a visible range of sunlight (400–700 nm). To assure accurate and uniform exposure to UV-B radiation, vials were rotated daily. A different UV-B radiation condition was applied to each chamber for each temporal block to minimize any confounding effects between chamber and UV-B radiation treatment. Each chamber was kept at 25 °C, 16:8 (L: D), and 80–90% RH to mimic typical summer conditions in the northeastern USA (<xref ref-type="bibr" rid="ref-18">Day et al., 1993</xref>; <xref ref-type="bibr" rid="ref-38">Li et al., 2006</xref>). Vials were checked daily and pupae collected into individual vessels until adult emergence. Adults were killed by drying (&gt;24 h, 50 °C), and their wing lengths measured using a dissecting microscope and the image analysis system Image Pro Plus 6.0 (Media Cybernetics, Rockville, MD, USA). The experiment continued until all individuals had either died or emerged in all vials. Dead larvae were left in vials to mimic field conditions. For each vial, proportion survivorship to adulthood, mean development time, and mean wing length were calculated.</p>
+         </sec>
+         <sec>
+            <title>Measurement of metabolic rates</title>
+            <p>Metabolic rates of both mosquito larvae and microbial communities were measured as the rate of heat production (µwatts/ml) by a heat conduction multicell differential scanning calorimeter (MC-DSC model 4100, Calorimetry Sciences Corp., Lindon, UT, USA) in isothermal mode and at 25 °C  ± 0.05, using sterile techniques and following procedures of past studies (<xref ref-type="bibr" rid="ref-40">Lighton, 2008</xref>; <xref ref-type="bibr" rid="ref-81">Zhang et al., 2009</xref>; <xref ref-type="bibr" rid="ref-10">Braissant et al., 2010</xref>). Measurements were made on days 1, 8, and 15, after adding larvae. On each measurement day, five live larvae were randomly sampled from each of the 30 vials containing mosquitoes, washed in sterilized water, and placed inside one of the two 1 cm<sup>3</sup> testing ampoules with 1 ml of deionized water. Heat production was monitored for 60 min to allow for temporal equilibration and consistency of a final reading (<xref ref-type="bibr" rid="ref-81">Zhang et al., 2009</xref>; <xref ref-type="bibr" rid="ref-10">Braissant et al., 2010</xref>). To control for variation among individual ampoules, a baseline blank sample (deionized water only) was run immediately prior to every experimental sample. Its heat production was subtracted from that of the experimental sample from the same ampoule to yield a final metabolic rate value in µwatts/ml (<xref ref-type="bibr" rid="ref-81">Zhang et al., 2009</xref>). After each run, larvae were returned to their experimental vial. Ampoules were washed in sterilized water and ethanol between each run to avoid contamination (<xref ref-type="bibr" rid="ref-26">Gustafsson, 1991</xref>; <xref ref-type="bibr" rid="ref-81">Zhang et al., 2009</xref>; <xref ref-type="bibr" rid="ref-10">Braissant et al., 2010</xref>). Microbial metabolic rate was also measured from all 45 experimental vials by sampling 1 ml of vial water only and comparing it to a blank sample using the same procedure as described with larvae.</p>
+         </sec>
+         <sec>
+            <title>Analyses</title>
+            <p>Metabolic rates of <italic>Ae. albopictus</italic>, <italic>Cx. pipiens,</italic> and microbial communities were analyzed as repeated measures three-way blocked analysis of variance (ANOVA). UV-B radiation condition, species treatment, and sampling day were treated as fixed effects, and chamber as a random block effect. Sampling day was a repeated factor within UV-B radiation condition, species treatment, and block. Mosquito fitness parameters were analyzed as two-way ANOVA, with UV-B radiation condition and species as fixed effects and chamber as a random block effect. To account for assumptions of normality and homogeneity of variances, metabolic rates and fitness parameters were log 10(<italic>y</italic>) and log 10(<italic>y</italic> + 1) transformed, respectively. All analyses were done using the PROC MIXED procedure, SAS 9.4 software (<xref ref-type="bibr" rid="ref-57">SAS Institute Inc., 2013</xref>). Multiple pairwise comparisons were conducted using the LSMEANS statement with Tukey adjustment. For all analyses, experiment-wise <italic>α</italic> = 0.05.</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Metabolic rates</title>
+            <p>There was an effect on mosquito metabolic rates related to interactions between UV-B radiation condition and sample day (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1A</xref>). The metabolic rates of both species increased over time to a peak on day 15 under full-sun and shade conditions but not under the no-UV condition (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>). There was also an interaction between species and sample day, indicating differences in the metabolic rates of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> depending on time (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). On day 15, metabolic rates of <italic>Cx. pipiens</italic> were higher than for <italic>Ae. albopictus</italic> whereas this was not seen on days 1 and 8 (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). Main effects of UV-B radiation condition, species, and sample day were also detected (<xref ref-type="table" rid="table-1">Table 1</xref>). Metabolic rates of both <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> were significantly higher under the full-sun condition compared to the no-UV condition and on days 8 and 15 compared to day 1 (<xref ref-type="fig" rid="fig-1">Fig. 1C</xref>). Across all days and UV-B conditions, metabolic rates of <italic>Cx. pipiens</italic> were on average higher than <italic>Ae. albopictus</italic> (<xref ref-type="fig" rid="fig-1">Figs. 1B</xref> and <xref ref-type="fig" rid="fig-1">1C</xref>).</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.6133/table-1</object-id><label>Table 1</label><caption>
+                  <title>Analysis of variance of the effects of UV-B radiation conditions and species on mosquito larvae metabolic rates.</title>
+                  <p>Three-way ANOVA of the effects of UV-B conditions (full-sun, shade, and no-UV) and species (<italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic>) at three different times (days 1,8, and 15) on the larvae metabolic rate of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> mosquitoes.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6133/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Variable</bold></th>
+                           <th align="center" colspan="3"><bold>Larval metabolic rate</bold></th>
+                        </tr>
+                        <tr>
+                           <th/>
+                           <th><bold>dfs</bold></th>
+                           <th><bold><italic>F</italic></bold></th>
+                           <th><bold><italic>P</italic></bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>UV-B conditions</td>
+                           <td>2,10</td>
+                           <td>5.50</td>
+                           <td><bold>0.0245</bold></td>
+                        </tr>
+                        <tr>
+                           <td>Species</td>
+                           <td>2,10</td>
+                           <td>6.08</td>
+                           <td><bold>0.0333</bold></td>
+                        </tr>
+                        <tr>
+                           <td>UV-B conditions × species</td>
+                           <td>2,10</td>
+                           <td>0.58</td>
+                           <td>0.5799</td>
+                        </tr>
+                        <tr>
+                           <td>Sample day</td>
+                           <td>2,24</td>
+                           <td>350.85</td>
+                           <td><bold>&lt;0.0001</bold></td>
+                        </tr>
+                        <tr>
+                           <td>UV-B conditions × sample day</td>
+                           <td>2,24</td>
+                           <td>13.96</td>
+                           <td><bold>&lt;0.0001</bold></td>
+                        </tr>
+                        <tr>
+                           <td>Species × sample day</td>
+                           <td>2,24</td>
+                           <td>14.79</td>
+                           <td><bold>&lt;0.0001</bold></td>
+                        </tr>
+                        <tr>
+                           <td>UV-B conditions × species × sample day</td>
+                           <td>2,24</td>
+                           <td>0.87</td>
+                           <td>0.4975</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.6133/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Metabolic rate of mosquitoes in response to UV-B radiation conditions and sample day.</title>
+                  <p>Least squares means (±SE) for metabolic rate expressed as heat production (µW/ml) of larvae of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> in response to (A) interaction of sample day (days 1, 8, and 15) and UV-B conditions: no-UV (NUV), shade (S), and full-sun (FS), (B) day of metabolic rate measurement (days 1, 8, and 15), and (C) UV-B conditions (NUV, S, FS). Data were statistically tested using ANOVA. Significant pairwise comparisons among treatment levels for main effects of (A) sample day, (B) sample day, and (C) UV-B conditions are indicated by capitalized letters, and interaction effects of (A) sample day and UV-B conditions and (B) sample day and species are indicated by lowercase letters.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6133/fig-1.png"/>
+            </fig>
+            <p>For microbial metabolic rates, there was an interaction between UV-B radiation condition and sample day (<xref ref-type="table" rid="table-2">Table 2</xref>), with decreasing metabolic rates from day 1 to 8 under the full-sun condition only (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). This decrease appeared to drive the significant main effects of sample day and UV-B radiation condition (<xref ref-type="table" rid="table-2">Table 2</xref>). Microbial metabolic rates were lower on day 8 compared to days 1 and 15 (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>), and lower under the full-sun conditions compared to shade and no-UV conditions (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). Microbial metabolic rates did not vary between vials with <italic>Ae. albopictus, Cx. pipiens,</italic> or no larvae.</p>
+         </sec>
+         <sec>
+            <title>Mosquito fitness</title>
+            <p>UV-B radiation conditions affected the survival of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae similarly (<xref ref-type="table" rid="table-3">Table 3</xref>), with significantly lower survival of both species under the full-sun condition compared to shade and no-UV conditions (<xref ref-type="fig" rid="fig-3">Figs. 3A</xref> and <xref ref-type="fig" rid="fig-3">3B</xref>). There was also a main effect of species on female body size, with <italic>Cx. pipiens</italic> being on average larger than <italic>Ae. albopictus</italic> (<xref ref-type="fig" rid="fig-3">Figs. 3E</xref> and <xref ref-type="fig" rid="fig-3">3F</xref>). There were no effects of UV-B radiation conditions or species on the development times of either <italic>Ae. albopictus</italic> of <italic>Cx. pipiens,</italic> or an interaction effect between UV-B radiation conditions and species on any fitness parameter (<xref ref-type="table" rid="table-3">Table 3</xref>, <xref ref-type="fig" rid="fig-3">Fig. 3</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Ultraviolet radiation (UVR), especially UV-B radiation, could have important effects on the distribution and abundance of pathogen-transmitting species. This is the first study that has rigorously tested the effects of UV-B radiation on the metabolic rates and fitness of medically important mosquitoes and the activity of their microbial food resources<italic>.</italic> Our results showed that UV-B radiation increased the metabolic rates of both <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> larvae, with significantly higher rates in full-sun conditions compared to shade conditions and a no-UV control after 8 and 15 days of exposure. In field conditions, metabolic rate increased in mosquito larvae between emergence and day 4–5 (<xref ref-type="bibr" rid="ref-25">Gray &amp; Bradley, 2003</xref>). Microbial metabolic rates were also lower in full-sun conditions after 8 days of exposure compared to shade and no-UV conditions. These results suggest that UV-B radiation at levels typically found in open spaces in the field is likely have strong and important impacts on the ecologies of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> mosquitoes and potential disease transmission.</p>
+         <table-wrap id="table-2">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/table-2</object-id><label>Table 2</label><caption>
+               <title>Analysis of variance of the effects of UV-B conditions, species inhabiting vials, and time on the metabolic rates of microbial communities.</title>
+               <p>Three-way ANOVA of the effects of UV-B conditions (full-sun, shade, and no-UV) and the species that inhabit the vials where microbial samples come from (<italic>Ae. albopictus, Cx. pipiens</italic>, and no larvae) at three diferent times (days 1, 8, and 15) in the metabolic rate of microbial community.</p>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6133/table-2.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Variable</bold></th>
+                        <th align="center" colspan="3"><bold>Microbial metabolic rate</bold></th>
+                     </tr>
+                     <tr>
+                        <th/>
+                        <th><bold>dfs</bold></th>
+                        <th><bold><italic>F</italic></bold></th>
+                        <th><bold><italic>P</italic></bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>UV-B conditions</td>
+                        <td>2,16</td>
+                        <td>10.74</td>
+                        <td><bold>0.0011</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Species</td>
+                        <td>2,16</td>
+                        <td>1.13</td>
+                        <td>0.3483</td>
+                     </tr>
+                     <tr>
+                        <td>UV-B conditions × species</td>
+                        <td>4,16</td>
+                        <td>0.79</td>
+                        <td>0.5502</td>
+                     </tr>
+                     <tr>
+                        <td>Sample day</td>
+                        <td>2,36</td>
+                        <td>5.69</td>
+                        <td><bold>0.0071</bold></td>
+                     </tr>
+                     <tr>
+                        <td>UV-B conditions × sample day</td>
+                        <td>4,36</td>
+                        <td>3.65</td>
+                        <td><bold>0.0135</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Species × sample day</td>
+                        <td>4,36</td>
+                        <td>0.47</td>
+                        <td>0.7562</td>
+                     </tr>
+                     <tr>
+                        <td>UV-B conditions × species × sample day</td>
+                        <td>8,36</td>
+                        <td>0.54</td>
+                        <td>0.8203</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+         </table-wrap>
+         <fig id="fig-2">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/fig-2</object-id><label>Figure 2</label><caption>
+               <title>Metabolic rate of microbial communities in response to container inhabitants, UV-B radiation conditions, and sample day.</title>
+               <p>Least squares means (±SE) for metabolic rate expressed as heat production (µW/ml) of microbial community from vials that contain <italic>Ae. albopictus</italic> larvae, <italic>Cx. pipiens</italic> larvae, and no larvae (just microbial community) in response to (A) interaction of sample day (days 1, 8, and 15) and UV-B conditions (NUV, S, and FS) and (B) main effects of UV-B conditions. Data were statistically tested using ANOVA. Significant pairwise comparisons among treatment levels for main effects of (A) sample day and (B) UV-B conditions are indicated by capitalized letters, and interaction effects are indicated by lowercase letters.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6133/fig-2.png"/>
+         </fig>
+         <p>Higher metabolic rates for mosquito larvae under full-sun conditions, especially with increasing time of exposure, are likely to indicate increased energy expenditure to accomplish basic biologic processes, including feeding, development, and immunological functioning. Given that we saw commensurable decreases in larval survival and microbial activity, it is likely that larvae need to expend more energy to utilize declining food resources under full-sun conditions. Our findings are broadly consistent with those of other studies that have found simple and complex impacts of UV-B radiation on aquatic ecosystems (see <xref ref-type="bibr" rid="ref-27">Hader et al., 2007</xref> and references therein). For example, UV-B radiation can penetrate up to 3 m in clear freshwater habitats that have dissolved organic carbon (DOC) concentrations between 2 and 5 mg L<sup>−1</sup>, resulting in severe reductions in biomass of major producers (e.g., phytoplankton) and consumers (e.g., zooplankton, fish) within the food web (e.g., <xref ref-type="bibr" rid="ref-75">Williamson &amp; Zagarese, 2003</xref>). <xref ref-type="bibr" rid="ref-17">Davidson &amp; Belbin (2002)</xref> found that marine phytoplankton concentration and biomass decreased in 40% and 60% respectively in habitats less than 2 m deep when exposed to UV-B radiation for more than a day.</p>
+         <p>In this study, survival was the only mosquito fitness parameter negatively affected by UV-B radiation condition. Environmental stresses on insects are often manifested and detected through the release of hormones, such as cortisol, epinephrine, and octopamine (<xref ref-type="bibr" rid="ref-52">Peric-Mataruga, Nenadovic &amp; Ivanovic, 2006</xref>; <xref ref-type="bibr" rid="ref-21">Farooqui, 2012</xref>). Releases of stress hormones as a result of UV-B radiation have also been associated with reductions in survival in at least one other insect (e.g., red flour beetle, <italic>Tribolium castaneum</italic>, <xref ref-type="bibr" rid="ref-55">Sang et al., 2016</xref>). Hormones also have key effects upon insect developmental time and body size (<xref ref-type="bibr" rid="ref-44">McBrayer et al., 2007</xref>). For example, the Prothoracicotropic hormone plays an important role in the release of ecdysone, a steroid hormone that affects the larval development time and body size in many insects, including mosquitoes (<xref ref-type="bibr" rid="ref-80">Zhang &amp; Denlinger, 2011</xref>). UV-B radiation has been also been shown to delay the metamorphosis of <italic>Tribolium castaneum</italic> by influencing Prothoracicotropic hormone and ecdysteroid metabolism (<xref ref-type="bibr" rid="ref-55">Sang et al., 2016</xref>). Although we did not observe effects of UV-B radiation on the development time or body size of <italic>Ae. albopictus</italic> or <italic>Cx. pipiens</italic> in this study, it is possible that disruptions to the ecdysteroid metabolism in these and other mosquito species are mainly manifested in reduced survival.</p>
+         <table-wrap id="table-3">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/table-3</object-id><label>Table 3</label><caption>
+               <title>Analysis of variance of the effects of UV-B conditions and specie on the fitness parameters of mosquitoes.</title>
+               <p>Two-way ANOVA of the effects of UV-B conditions (full-sun, shade, and no-UV) and specie (<italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic>) on the fitness parameters (survival, developmental time, and body size) of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> mosquitoes.</p>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6133/table-3.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Variable</bold></th>
+                        <th align="center" colspan="3"><bold>Survival</bold></th>
+                        <th align="center" colspan="3"><bold>Development time</bold></th>
+                        <th align="center" colspan="3"><bold>Body size-wing length</bold></th>
+                     </tr>
+                     <tr>
+                        <th/>
+                        <th><bold>dfs</bold></th>
+                        <th><bold><italic>F</italic></bold></th>
+                        <th><bold><italic>P</italic></bold></th>
+                        <th><bold>dfs</bold></th>
+                        <th><bold><italic>F</italic></bold></th>
+                        <th><bold><italic>P</italic></bold></th>
+                        <th><bold>dfs</bold></th>
+                        <th><bold><italic>F</italic></bold></th>
+                        <th><bold><italic>P</italic></bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>UV-B conditions</td>
+                        <td>2,11</td>
+                        <td>7.11</td>
+                        <td><bold>0.0104</bold></td>
+                        <td>2,11</td>
+                        <td>0.80</td>
+                        <td>0.4773</td>
+                        <td>2,11</td>
+                        <td>1.05</td>
+                        <td>0.3857</td>
+                     </tr>
+                     <tr>
+                        <td>Species</td>
+                        <td>1,11</td>
+                        <td>0.01</td>
+                        <td>0.9963</td>
+                        <td>1,11</td>
+                        <td>1.50</td>
+                        <td>0.2491</td>
+                        <td>1,11</td>
+                        <td>16.36</td>
+                        <td><bold>0.0023</bold></td>
+                     </tr>
+                     <tr>
+                        <td>UV-B conditions × species</td>
+                        <td>2,11</td>
+                        <td>0.59</td>
+                        <td>0.5717</td>
+                        <td>2,11</td>
+                        <td>0.30</td>
+                        <td>0.7456</td>
+                        <td>2,11</td>
+                        <td>0.05</td>
+                        <td>0.9518</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+         </table-wrap>
+         <fig id="fig-3">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/fig-3</object-id><label>Figure 3</label><caption>
+               <title>Mosquito fitness parameters in response to UV-B radiation conditions.</title>
+               <p>Least squares means (±SE) for fitness parameters of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> mosquitoes. (A) survival percentage of <italic>Ae. albopictus,</italic> (B) survival percentage of <italic>Cx. pipiens,</italic> (C) development time of <italic>Ae. albopictus,</italic> (D) development time of <italic>Cx. pipiens,</italic> (E) body size of <italic>Ae. albopictus</italic>, and (F) body size of <italic>Cx. pipiens</italic> in response to UV-B conditions: full-sun (FS), shade (S), and no-UV (NUV). Data were statistically tested using ANOVA. Significant pairwise comparison among treatment levels for main effects are indicated by different letters above bars.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6133/fig-3.png"/>
+         </fig>
+         <p>Ecological theory and empirical evidence suggest that trade-offs occur among life-history traits when limited energy is partitioned among growth, maintenance, and reproduction (<xref ref-type="bibr" rid="ref-8">Bell, 1980</xref>). Environmental factors at the larval stage have been shown to affect a range of traits in adult mosquitoes, mostly via changes in body size, including susceptibility to viral infection (<xref ref-type="bibr" rid="ref-2">Alto et al., 2005</xref>), reproduction (<xref ref-type="bibr" rid="ref-65">Steinwascher, 1982</xref>), and longevity (<xref ref-type="bibr" rid="ref-28">Haramis, 1985</xref>; <xref ref-type="bibr" rid="ref-53">Reiskind &amp; Lounibos, 2009</xref>), all of which can mediate changes in vectorial capacity (<xref ref-type="bibr" rid="ref-6">Araujo, Gil &amp; e-Silva, 2012</xref>; <xref ref-type="bibr" rid="ref-47">Moller-Jacobs, Murdock &amp; Thomas, 2014</xref>; <xref ref-type="bibr" rid="ref-19">Dickson et al., 2017</xref>). In addition to affecting larval survival, it is also possible that the effects of UV-B radiation at the larval life-stage might also manifest in adult traits (<xref ref-type="bibr" rid="ref-19">Dickson et al., 2017</xref>).</p>
+         <p>In addition to affecting mosquito populations through changes in microbial communities, we cannot disregard direct negative effects of elevated UV-B radiation on larvae. The only prior study to rigorously study the effects of UVR on mosquito larvae observed severe negative impacts on larval mobility (e.g., loss of movement coordination) and eclosion rates after exposure to UVR for 48 h (<xref ref-type="bibr" rid="ref-41">MacGregor, 1932</xref>). Histological analyses showed damage in the larvae cuticle, disintegration of the abdominal segments, and partial paralysis (<xref ref-type="bibr" rid="ref-41">MacGregor, 1932</xref>). However, <xref ref-type="bibr" rid="ref-41">MacGregor (1932)</xref> examined the effects of UV-C radiation (180–254 nm), which does not naturally reach the earth’s surface and is only commonly found from artificial sources unlikely to affect mosquitoes (e.g., mercury lamps, welding torches). To our knowledge, our study is the first to test field-relevant UVR on the ecology of mosquitoes and the activity of their microbial food resources.</p>
+         <p>The specific effects of UV-B radiation on the cells of living organisms is still unclear (<xref ref-type="bibr" rid="ref-51">Pelz-Stelinski, Kaufman &amp; Walker, 2011</xref>). Prior studies have demonstrated that UV-B radiation damages the DNA, proteins, membranes, and photochemical efficiency of photosynthetic prokaryote organisms, affecting their photosynthesis and biomass production (e.g., <xref ref-type="bibr" rid="ref-27">Hader et al., 2007</xref>; <xref ref-type="bibr" rid="ref-22">Gao et al., 2008</xref>; <xref ref-type="bibr" rid="ref-79">Wu, Gao &amp; Wu, 2009</xref>). For example, the spiral structure of cyanobacteria, <italic>Arthrospira platensis</italic>, can be broken and its photosynthetic activity disrupted with exposure to UV-B radiation within the temperature range of 18–20 °C, resulting in lower biomass (<xref ref-type="bibr" rid="ref-22">Gao et al., 2008</xref>). <xref ref-type="bibr" rid="ref-78">Wu et al. (2005)</xref> reported that exposure to 6 h of UV-B radiation broke the spiral filaments of <italic>A. platensis</italic> into small pieces, affecting its photosynthesis activity<italic>,</italic> as well as important photosynthetic electron transport and pigment-protein complexes.</p>
+         <p>Deforestation and the conversion of natural environments (e.g., grassland, agriculture) to build has increased over the last 100 years (<xref ref-type="bibr" rid="ref-74">Weng, 2010</xref>; <xref ref-type="bibr" rid="ref-59">Seto et al., 2011</xref>; <xref ref-type="bibr" rid="ref-1">Al-mulali et al., 2013</xref>). These land use changes are most likely to increase open spaces with full-sun conditions, although large building structures may increase shade in some areas (<xref ref-type="bibr" rid="ref-72">Wai, Yu &amp; Lam, 2015</xref>). <xref ref-type="bibr" rid="ref-60">Seto, Guneralp &amp; Hutyra (2012)</xref> predicts that by 2030 urban land cover will increase by 1.2 million km<sup>2</sup> if current population trends continue. Urbanization also contributes to increasing pollutants from industrialization, vehicles, and electrical power generation (<xref ref-type="bibr" rid="ref-4">An et al., 2008</xref>; <xref ref-type="bibr" rid="ref-1">Al-mulali et al., 2013</xref>), many of which (e.g., CO<sub>2</sub>, smog, particulate matter) may absorb and reflect UVR away from the earth’s surface (<xref ref-type="bibr" rid="ref-15">Czerwinska et al., 2016</xref>). The combination of more open spaces and higher pollution could have complex impacts on the amount of UVR reaching ground surfaces in both space and time (<xref ref-type="bibr" rid="ref-43">Mandronich &amp; Flocke, 1997</xref>).</p>
+         <p><italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic>, two of the most broadly distributed mosquito species worldwide, are medically important because they are vectors for a number of arboviruses and they inhabit peridomestic areas (<xref ref-type="bibr" rid="ref-14">Costanzo, Mormann &amp; Juliano, 2005</xref>; <xref ref-type="bibr" rid="ref-36">Leisnham &amp; Slaney, 2009</xref>). West Nile virus (WNV) is the most important mosquito-borne human disease in the United States, with over 48,183 reported cases since being first detected in North America in 1999 (<xref ref-type="bibr" rid="ref-12">CDC, 2017</xref>). In the northeastern part of the United States, WNV is primarily circulated by <italic>Cx. pipiens</italic> among bird populations that amplify the virus (<xref ref-type="bibr" rid="ref-33">Kilpatrick, LaDeau &amp; Marra, 2007</xref>). <italic>Ae. albopictus</italic> is capable of acting as a vector of WNV in the laboratory, but only rarely bites birds in the field and instead feeds on a range of hosts, including humans (<xref ref-type="bibr" rid="ref-56">Sardelis et al., 2002</xref>).</p>
+         <p>Anthropogenic environmental changes and the resultant increases in the exposure to UV-B radiation to container habitats could alter the distributions and abundances of these species. But their effects are difficult to predict and tease apart from associated changes to physio-chemical and biological conditions, including temperature, hydroperiod, and nutrients. Nevertheless, numerous studies have shown that <italic>Cx. pipiens</italic> is more likely to utilize containers that are more exposed to sunlight than <italic>Ae. albopictus</italic> and other mosquito species (<xref ref-type="bibr" rid="ref-70">Vezzani &amp; Albicocco, 2009</xref>; <xref ref-type="bibr" rid="ref-20">Dowling et al., 2013</xref>); thus, we might expect <italic>Cx. pipiens</italic> to be especially prone to changes in UV-B exposure. On the other hand, <italic>Ae. Albopictus</italic>, which shows a strong preference to oviposit in shaded areas and at ground level (<xref ref-type="bibr" rid="ref-3">Amerasinghe &amp; Alagoda, 1984</xref>; <xref ref-type="bibr" rid="ref-76">Williges, Faraji &amp; Gaugler, 2014</xref>), could experience changes in its behavior, abundance, and distribution as responses to changes in UV-B exposure, changes that are likely to have important implications for the transmission of vector-borne diseases. It has been found that <italic>Ae. albopictus</italic> can occasionally lay eggs at greater heights depending on environmental factors like temperature (<xref ref-type="bibr" rid="ref-68">Toma et al., 2003</xref>) and habitat availability (<xref ref-type="bibr" rid="ref-48">Obenauer et al., 2009</xref>). For example, <italic>Ae. albopictus</italic> abundance could increase in dense urban areas (high density housing with high buildings) compared to peri urban/suburban areas (low density housing with low buildings), because of more abundant shaded environments to lay eggs, which could increase the risk of viral diseases spread by these mosquitoes. <xref ref-type="bibr" rid="ref-37">Li et al. (2014)</xref> found higher populations of <italic>Ae. albopictus</italic> in dense urban areas compared to peri urban areas in Guangzhou, China. <italic>Ae. albopictus</italic> also showed faster larval development, higher adult emergence rate, and longer survival time compared to peri urban and rural areas (<xref ref-type="bibr" rid="ref-37">Li et al., 2014</xref>), which could increase vector capacity. <italic>Ae. albopictus</italic> had showed high plasticity to adapt to new environments (<xref ref-type="bibr" rid="ref-71">Vitek &amp; Livdahl, 2009</xref>; <xref ref-type="bibr" rid="ref-66">Tabbabi, 2018</xref>). <xref ref-type="bibr" rid="ref-39">Liew &amp; Curtis (2004)</xref> showed that <italic>Ae. albopictus</italic> could vertically move as high as 60 m to oviposit in apartment buildings when there is not suitable habitat at ground level.</p>
+         <p>Better understanding of impacts of UV-B in the ecology of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> is necessary to optimally assess human risk. By manipulating only UV-B radiation in a controlled laboratory experiment, our study was able to pinpoint the effects of UV-B radiation and demonstrated important impacts of altered exposure that we might expect from changes to shade.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>In summary, this study shows that UV-B radiation can have strong negative effects on the larval survival of both <italic>Ae. albopictus</italic> and <italic>Cx. pipiens.</italic> These effects were likely indirect, through decreases in the availability of microbial food, but could have also been direct, through adverse impacts on the cells of larvae. This is among the first studies to rigorously test the effects of UV-B radiation on the survival and fitness of mosquito larvae using levels typically observed in open and shaded habitats in the field. The impacts of UV-B radiation on larval survival are likely to affect the distribution and abundances of <italic>Ae. albopictus</italic> and <italic>Cx. pipiens</italic> but in ways that may be difficult to detect in the field since most landscapes are a patchwork of open and shaded areas that adult individuals can move between. Future research should examine the effects of UV-B radiation on the ecology, physiology, and behavior of other mosquito species and life-stages (eggs, adults), as well as on other community processes, such as predation, parasitism, and on vector competence across other disease systems such as chikungunya and Zika virus to gather a greater understanding of the potentially important impacts of UV-B radiation on vector ecology.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/6133/Larvae_Metabolic_Rates.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Larvae metabolic rate</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/6133/Survival_data.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Mosquito survival data</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/6133/Microbial_Metabolic_Rates.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.6133/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>Microbial metabolic rate</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>The authors want to thank S Kivitz, M Spaur, S Keane, S Sinha, and S Jin for their help measuring mosquito wing lengths and metabolic rate of mosquito larvae.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Oswaldo C. Villena</xref> and <xref ref-type="contrib" rid="author-4">Paul T. Leisnham</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Bahram Momen</xref> analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Joseph Sullivan</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>Raw data are provided in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Al-mulali et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Al-mulali</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name>
+                     <surname>Gholipour</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>JYM</given-names>
+                  </name>
+                  <name>
+                     <surname>Sab</surname>
+                     <given-names>CNB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Exploring the relationship between urbanization, energy consumption, and CO<sub>2</sub> emission in MENA countries</article-title>
+               <source>Renewable and Sustainable Energy Reviews</source>
+               <volume>23</volume>
+               <fpage>107</fpage>
+               <lpage>112</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.rser.2013.02.041</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Alto et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alto</surname>
+                     <given-names>BW</given-names>
+                  </name>
+                  <name>
+                     <surname>Lounibos</surname>
+                     <given-names>LP</given-names>
+                  </name>
+                  <name>
+                     <surname>Higgs</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Juliano</surname>
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Larval competition differentially affects arbovirus infection in <italic>Aedes</italic> mosquitoes</article-title>
+               <source>Ecology</source>
+               <volume>86</volume>
+               <issue>12</issue>
+               <fpage>3279</fpage>
+               <lpage>3288</lpage>
+               <pub-id pub-id-type="doi">10.1890/05-0209</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Amerasinghe &amp; Alagoda (1984)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Amerasinghe</surname>
+                     <given-names>FP</given-names>
+                  </name>
+                  <name>
+                     <surname>Alagoda</surname>
+                     <given-names>TS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1984">1984</year>
+               <article-title>Mosquito oviposition in bamboo traps, with special reference to <italic>Aedes albopictus</italic>, <italic>Aedes novalbopictus</italic> and <italic>Armigeres subalbatus</italic></article-title>
+               <source>International Journal of Tropical Insect Science</source>
+               <volume>5</volume>
+               <fpage>493</fpage>
+               <lpage>500</lpage>
+               <pub-id pub-id-type="doi">10.1017/S1742758400004926</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>An et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>An</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>YS</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Sun</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Shen</surname>
+                     <given-names>SH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Relationship between surface UV radiation and air pollution in Beijing</article-title>
+               <source>Chinese Journal of Environmental Science</source>
+               <volume>29</volume>
+               <fpage>1053</fpage>
+               <lpage>1058</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Andrady et al. (1998)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andrady</surname>
+                     <given-names>AL</given-names>
+                  </name>
+                  <name>
+                     <surname>Hamid</surname>
+                     <given-names>HS</given-names>
+                  </name>
+                  <name>
+                     <surname>Hu</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Torikai</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998</year>
+               <article-title>Effects of increased solar ultraviolet radiation on materials</article-title>
+               <source>Journal of Photochemistry and Photobiology</source>
+               <volume>46</volume>
+               <fpage>96</fpage>
+               <lpage>103</lpage>
+               <pub-id pub-id-type="doi">10.1016/S1011-1344(98)00188-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Araujo, Gil &amp; e-Silva (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Araujo</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Gil</surname>
+                     <given-names>LH</given-names>
+                  </name>
+                  <name>
+                     <surname>e-Silva</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Larval food quantity affects development time, survival, and adult biological traits that influence the vectorial capacity of <italic>Anopheles darling</italic> under laboratory conditions</article-title>
+               <source>Malaria Journal</source>
+               <volume>11</volume>
+               <fpage>261</fpage>
+               <pub-id pub-id-type="doi">10.1186/1475-2875-11-261</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Ballare et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ballare</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                  <name>
+                     <surname>Caldwell</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Flint</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Robinson</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Bornman</surname>
+                     <given-names>JF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Effects of solar ultraviolet radiation on terrestrial ecosystems. Patterns, mechanisms, and interactions with climate change</article-title>
+               <source>Photochemical and Photobiological Sciences</source>
+               <volume>10</volume>
+               <fpage>226</fpage>
+               <lpage>241</lpage>
+               <pub-id pub-id-type="doi">10.1039/c0pp90035d</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Bell (1980)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bell</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1980">1980</year>
+               <article-title>The costs of reproduction and their consequences</article-title>
+               <source>American Naturalist</source>
+               <volume>116</volume>
+               <fpage>45</fpage>
+               <lpage>76</lpage>
+               <pub-id pub-id-type="doi">10.1086/283611</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Bornman et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bornman</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Barnes</surname>
+                     <given-names>PW</given-names>
+                  </name>
+                  <name>
+                     <surname>Robinson</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ballare</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                  <name>
+                     <surname>Flint</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Caldwell</surname>
+                     <given-names>MM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Solar ultraviolet radiation and ozone depletion-driven climate change: effects on terrestrial ecosystems</article-title>
+               <source>Photochemical &amp; Photobiological Sciences</source>
+               <volume>14</volume>
+               <fpage>88</fpage>
+               <lpage>107</lpage>
+               <pub-id pub-id-type="doi">10.1039/C4PP90034K</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Braissant et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Braissant</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Wirz</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Gopfert</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Daniels</surname>
+                     <given-names>AU</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Use of isothermal microcalorimeter to monitor microbial activities</article-title>
+               <source>FEMS Microbiology Letters</source>
+               <volume>303</volume>
+               <fpage>1</fpage>
+               <lpage>8</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1574-6968.2009.01819.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Cancrini et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cancrini</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Scaramozzino</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Gabrielli</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Di Paolo</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Romi</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title><italic>Aedes albopictus</italic> and <italic>Cx. pipiens</italic> implicated as natural vectors of <italic>Dirofilaria repens</italic> in Central Italy</article-title>
+               <source>Journal of Medical Entomology</source>
+               <volume>44</volume>
+               <fpage>1064</fpage>
+               <lpage>1066</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>CDC (2017)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>Center for Disease Control and Prevention—CDC</collab>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Final cumulative maps &amp; data for 1999–2017</article-title>
+               <uri>https://www.cdc.gov/westnile/statsmaps/cumMapsData.html</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2018-10-10">10 October 2018</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Clements (1992)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Clements</surname>
+                     <given-names>AN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1992">1992</year>
+               <source>The biology of mosquitoes. Vol. I. Development, nutrition and reproduction</source>
+               <publisher-name>Chapman and Hall</publisher-name>
+               <publisher-loc>London</publisher-loc>
+               <fpage>511</fpage>
+               <edition designator="1">first edition</edition>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Costanzo, Mormann &amp; Juliano (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Costanzo</surname>
+                     <given-names>KS</given-names>
+                  </name>
+                  <name>
+                     <surname>Mormann</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Juliano</surname>
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Asymmetrical competition and patterns of abundance of <italic>Aedes albopictus</italic> and <italic>Culex pipiens (Diptera: Culicidae)</italic></article-title>
+               <source>Journal of Medical Entomology</source>
+               <volume>42</volume>
+               <fpage>559</fpage>
+               <lpage>570</lpage>
+               <pub-id pub-id-type="doi">10.1093/jmedent/42.4.559</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Czerwinska et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Czerwinska</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Krzyscin</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Jaroslawski</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Posyniak</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Effects of urban agglomeration on surface-UV doses: a comparison of Brewer measurements in Warsaw and Belsk, Poland, for the period 2013–2015</article-title>
+               <source>Atmospheric Chemistry and Physics</source>
+               <volume>16</volume>
+               <fpage>13641</fpage>
+               <lpage>13651</lpage>
+               <pub-id pub-id-type="doi">10.5194/acp-16-13641-2016</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Darsie &amp; Ward (2016)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Darsie</surname>
+                     <given-names>RF</given-names>
+                  </name>
+                  <name>
+                     <surname>Ward</surname>
+                     <given-names>RA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <source>Identification and geographical distribution of the mosquitoes of North America, North of Mexico</source>
+               <edition designator="2">Second edition</edition>
+               <publisher-name>University Press of Florida</publisher-name>
+               <publisher-loc>Gainesville</publisher-loc>
+               <fpage>398</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Davidson &amp; Belbin (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Davidson</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Belbin</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Exposure of natural Antarctic marine microbial assemblages to ambient UV radiation: effects on the marine microbial community</article-title>
+               <source>Aquatic Microbial Ecology</source>
+               <volume>27</volume>
+               <fpage>159</fpage>
+               <lpage>174</lpage>
+               <pub-id pub-id-type="doi">10.3354/ame027159</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Day et al. (1993)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Day</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Holtze</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Metcalfe-Smith</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Bishop</surname>
+                     <given-names>CT</given-names>
+                  </name>
+                  <name>
+                     <surname>Dutka</surname>
+                     <given-names>BJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1993">1993</year>
+               <article-title>Toxicity of leachate from automobile tires to aquatic biota</article-title>
+               <source>Chemosphere</source>
+               <volume>27</volume>
+               <fpage>665</fpage>
+               <lpage>675</lpage>
+               <pub-id pub-id-type="doi">10.1016/0045-6535(93)90100-J</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Dickson et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dickson</surname>
+                     <given-names>LB</given-names>
+                  </name>
+                  <name>
+                     <surname>Jiolle</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Minard</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Moltini-Conclois</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Volant</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Ghozlane</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Bouchier</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayala</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Paupy</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Moro</surname>
+                     <given-names>CV</given-names>
+                  </name>
+                  <name>
+                     <surname>Lambrechts</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Carryover effects of larval exposure to different environmental bacteria drive adult trait variation in a mosquito vector</article-title>
+               <source>Science Advances</source>
+               <volume>3</volume>
+               <issue>8</issue>
+               <elocation-id>e1700585</elocation-id>
+               <pub-id pub-id-type="doi">10.1126/sciadv.1700585</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Dowling et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dowling</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>LaDeau</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Armbruster</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Biehler</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Leisnham</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Socioeconomic status affects mosquito (Diptera:Culicidae) larval habitat type availability and infestation level</article-title>
+               <source>Journal of Medical Entomology</source>
+               <volume>50</volume>
+               <fpage>764</fpage>
+               <lpage>772</lpage>
+               <pub-id pub-id-type="doi">10.1603/ME12250</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Farooqui (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Farooqui</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Review of octopamine in insect nervous system</article-title>
+               <source>Open Access Insect Physiology</source>
+               <volume>4</volume>
+               <fpage>1</fpage>
+               <lpage>17</lpage>
+               <pub-id pub-id-type="doi">10.2147/OAIP.S20911</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Gao et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gao</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Watanabe</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Helbling</surname>
+                     <given-names>EW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Combined effects of ultraviolet radiation and temperature on morphology, photosynthesis, and DNA of <italic>Arthrospira</italic> (Spirulina) <italic>Platensis (Cyanophyta)</italic></article-title>
+               <source>Journal of Phycology</source>
+               <volume>44</volume>
+               <fpage>777</fpage>
+               <lpage>786</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1529-8817.2008.00512.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Gerhardt et al. (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gerhardt</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Gottfried</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Apperson</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Davis</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Erwin</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Panella</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Powell</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Nasci</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>First isolation of LaCrosse virus from naturally infected <italic>Aedes albopictus</italic></article-title>
+               <source>Emerging Infectious Diseases</source>
+               <volume>7</volume>
+               <fpage>807</fpage>
+               <lpage>811</lpage>
+               <pub-id pub-id-type="doi">10.3201/eid0705.017506</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Gray (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gray</surname>
+                     <given-names>EM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Thermal acclimation in a complex life cycle: the effects of larval and adult thermal conditions on metabolic rate and heat resistance in <italic>Culex pipiens (Diptera: Culicidae)</italic></article-title>
+               <source>Journal of Insect Physiology</source>
+               <volume>59</volume>
+               <fpage>1001</fpage>
+               <lpage>1007</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jinsphys.2013.08.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Gray &amp; Bradley (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gray</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bradley</surname>
+                     <given-names>TJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Metabolic rate in female <italic>Culex tarsalis (Diptera: Culicidae)</italic>: age, size, activity, and feeding effects</article-title>
+               <source>Journal of Medical Entomology</source>
+               <volume>40</volume>
+               <fpage>903</fpage>
+               <lpage>911</lpage>
+               <pub-id pub-id-type="doi">10.1603/0022-2585-40.6.903</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Gustafsson (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gustafsson</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Microbiological calorimetry</article-title>
+               <source>Thermochimica Acta</source>
+               <volume>193</volume>
+               <fpage>145</fpage>
+               <lpage>171</lpage>
+               <pub-id pub-id-type="doi">10.1016/0040-6031(91)80181-H</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Hader et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hader</surname>
+                     <given-names>DP</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>HD</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>RC</given-names>
+                  </name>
+                  <name>
+                     <surname>Worrestd</surname>
+                     <given-names>RC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Effects of solar UV radiation on aquatic ecosystems and interactions with climate change</article-title>
+               <source>Photochemical &amp; Photobiological Sciences</source>
+               <volume>6</volume>
+               <fpage>267</fpage>
+               <lpage>285</lpage>
+               <pub-id pub-id-type="doi">10.1039/B700020K</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Haramis (1985)</label><element-citation publication-type="confproc">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haramis</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Lounibos</surname>
+                     <given-names>LP</given-names>
+                  </name>
+                  <name>
+                     <surname>Rey</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1985">1985</year>
+               <article-title>Larval nutrition and adult ecology</article-title>
+               <conf-name>Mosquito ecology: proceedings of a symposium</conf-name>
+               <conf-sponsor>University of Florida Press</conf-sponsor>
+               <conf-loc>Gainesville</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Helbling &amp; Zagarese (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Helbling</surname>
+                     <given-names>EW</given-names>
+                  </name>
+                  <name>
+                     <surname>Zagarese</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>UV effects in aquatic organisms and ecosystems</article-title>
+               <source>Journal of Plankton Research</source>
+               <volume>26</volume>
+               <fpage>255</fpage>
+               <lpage>256</lpage>
+               <pub-id pub-id-type="doi">10.1093/plankt/fbh015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>IARC (2012)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>International Agency for Research on Cancer—IARC</collab>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Radiation</article-title>
+               <source>IARC monographs on the evaluation of carcinogenic risk to humans, No. 100</source>
+               <publisher-name>Lyon</publisher-name>
+               <publisher-loc>France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Jaworski &amp; Hilszczanski (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaworski</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Hilszczanski</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>The effect of temperature and humidity changes on insects development their impact on forest ecosystems in the expected climate change</article-title>
+               <source>Forest Research Papers</source>
+               <volume>74</volume>
+               <fpage>12</fpage>
+               <lpage>21</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Johansen et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johansen</surname>
+                     <given-names>NS</given-names>
+                  </name>
+                  <name>
+                     <surname>Vanninen</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Pinto</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Nissinen</surname>
+                     <given-names>AI</given-names>
+                  </name>
+                  <name>
+                     <surname>Shipp</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>In the light of new greenhouses technologies: 2. Direct effects of artificial lighting on arthropods and integrated pest management in greenhouse crops</article-title>
+               <source>Annals of Applied Biology</source>
+               <volume>159</volume>
+               <fpage>1</fpage>
+               <lpage>27</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1744-7348.2011.00483.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Kilpatrick, LaDeau &amp; Marra (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kilpatrick</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>LaDeau</surname>
+                     <given-names>SL</given-names>
+                  </name>
+                  <name>
+                     <surname>Marra</surname>
+                     <given-names>PP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Ecology of West Nile virus transmission and its impacts on birds in the western hemisphere</article-title>
+               <source>A Quarterly Journal of Ornithology</source>
+               <volume>24</volume>
+               <fpage>1121</fpage>
+               <lpage>1136</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Kim et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>HC</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilkerson</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Pecor</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Guinns</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Klein</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>New records and reference collection of mosquitoes <italic>(Diptera: Culicidae)</italic> on Jeju Island, Republic of Korea</article-title>
+               <source>Entomological Research</source>
+               <volume>35</volume>
+               <fpage>55</fpage>
+               <lpage>56</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1748-5967.2005.tb00137.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Lambrechts, Scott &amp; Gubler (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lambrechts</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Scott</surname>
+                     <given-names>TW</given-names>
+                  </name>
+                  <name>
+                     <surname>Gubler</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Consequences of the expanding global distribution of <italic>Aedes albopictus</italic> for Dengue Virus Transmission</article-title>
+               <source>PLOS ONE</source>
+               <volume>4</volume>
+               <issue>5</issue>
+               <elocation-id>e646</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pntd.0000646</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Leisnham &amp; Slaney (2009)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Leisnham</surname>
+                     <given-names>PT</given-names>
+                  </name>
+                  <name>
+                     <surname>Slaney</surname>
+                     <given-names>DP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Urbanization and the increasing threat from mosquito-borne diseases: linking human well-being with ecosystem health</article-title>
+               <source>Focus on urbanization trends</source>
+               <publisher-name>Nova Science Publishers Inc.</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>De Smet</surname>
+                     <given-names>LM</given-names>
+                  </name>
+               </person-group>
+               <fpage>47</fpage>
+               <lpage>82</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Li et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Kamara</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhou</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Puthiyakunnon</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhou</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Yao</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Yan</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Urbanization increases <italic>Aedes albopictus</italic> larval habitats and accelerates mosquito development and survivorship</article-title>
+               <source>PLOS Neglected Tropical Diseases</source>
+               <volume>8</volume>
+               <issue>11</issue>
+               <elocation-id>e3301</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pntd.0003301</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Li et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Seifert</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Xu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Hock</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Assessment of estrogenic activity of leachate from automobiles tires with two <italic>in vitro</italic> bioassays</article-title>
+               <source>Fresenius Environmental Bulletin</source>
+               <volume>15</volume>
+               <fpage>74</fpage>
+               <lpage>79</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Liew &amp; Curtis (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Liew</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Curtis</surname>
+                     <given-names>CF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Horizontal and Vertical dispersal of dengue vectors mosquitoes, <italic>Aedes aegypti</italic> and <italic>Aedes albopictus</italic>, in Singapore</article-title>
+               <source>Medical and Veterinary Entomology</source>
+               <volume>18</volume>
+               <fpage>351</fpage>
+               <lpage>360</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.0269-283X.2004.00517.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Lighton (2008)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lighton</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <source>Measuring metabolic rates. A manual for scientists</source>
+               <publisher-name>Oxford University Press, Inc.</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <fpage>197</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>MacGregor (1932)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>MacGregor</surname>
+                     <given-names>ME</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1932">1932</year>
+               <article-title>Certain pathological effects of ultra-violet radiation on mosquito larvae and pupae</article-title>
+               <source>Proceedings of the Royal Society of London</source>
+               <volume>112</volume>
+               <fpage>27</fpage>
+               <lpage>38</lpage>
+               <pub-id pub-id-type="doi">10.1098/rspb.1932.0075</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Macnaghten &amp; Szerszynski (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Macnaghten</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Szerszynski</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Living the global social experiment: an analysis of public discourse on solar radiation management and its implications for governance</article-title>
+               <source>Global Environmental Change</source>
+               <volume>23</volume>
+               <fpage>465</fpage>
+               <lpage>474</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.gloenvcha.2012.12.008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Mandronich &amp; Flocke (1997)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mandronich</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Flocke</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Zerefos</surname>
+                     <given-names>CS</given-names>
+                  </name>
+                  <name>
+                     <surname>Bais</surname>
+                     <given-names>AF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Theoretical estimation of biologically effective UV radiation at the Earth’s surface</article-title>
+               <volume>vol. 52</volume>
+               <source>Solar ultraviolet radiation</source>
+               <publisher-name>Springer</publisher-name>
+               <publisher-loc>Berlin</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>McBrayer et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McBrayer</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Ono</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Shimell</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Parvy</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name>
+                     <surname>Beckstead</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                  <name>
+                     <surname>Warren</surname>
+                     <given-names>JT</given-names>
+                  </name>
+                  <name>
+                     <surname>Thummel</surname>
+                     <given-names>CS</given-names>
+                  </name>
+                  <name>
+                     <surname>Dauphin-Villemant</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Gilbert</surname>
+                     <given-names>LI</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Connor</surname>
+                     <given-names>MB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Prothoracicotropic hormone regulates developmental timing and body size in Drosophila</article-title>
+               <source>Developmental Cell</source>
+               <volume>13</volume>
+               <fpage>857</fpage>
+               <lpage>871</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.devcel.2007.11.003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Merritt, Dadd &amp; Walker (1992)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Merritt</surname>
+                     <given-names>RW</given-names>
+                  </name>
+                  <name>
+                     <surname>Dadd</surname>
+                     <given-names>RH</given-names>
+                  </name>
+                  <name>
+                     <surname>Walker</surname>
+                     <given-names>ED</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1992">1992</year>
+               <article-title>Feeding-behavior, natural food, and nutritional relationships of larval mosquitoes</article-title>
+               <source>Annual Review of Entomology</source>
+               <volume>37</volume>
+               <fpage>349</fpage>
+               <lpage>376</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.en.37.010192.002025</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Molaei et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Molaei</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Andreadis</surname>
+                     <given-names>TG</given-names>
+                  </name>
+                  <name>
+                     <surname>Armstrong</surname>
+                     <given-names>PM</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Vossbrinck</surname>
+                     <given-names>CR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Host feeding patterns of <italic>Culex</italic> mosquitoes and West Nile virus transmission, northeastern United States</article-title>
+               <source>Emerging Infectious Diseases</source>
+               <volume>12</volume>
+               <fpage>468</fpage>
+               <lpage>474</lpage>
+               <pub-id pub-id-type="doi">10.3201/eid1203.051004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Moller-Jacobs, Murdock &amp; Thomas (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moller-Jacobs</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Murdock</surname>
+                     <given-names>CC</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>MB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Capacity of mosquitoes to transmit malaria depends on larval environment</article-title>
+               <source>Parasites &amp; Vectors</source>
+               <volume>7</volume>
+               <fpage>593</fpage>
+               <pub-id pub-id-type="doi">10.1186/s13071-014-0593-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Obenauer et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Obenauer</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Kaufman</surname>
+                     <given-names>PE</given-names>
+                  </name>
+                  <name>
+                     <surname>Allan</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kline</surname>
+                     <given-names>DL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Infusion-baited ovitraps to survey ovipositional height preferences of container-inhabiting mosquitoes in two Florida habitats</article-title>
+               <source>Journal of Medical Entomology</source>
+               <volume>46</volume>
+               <fpage>1507</fpage>
+               <lpage>1513</lpage>
+               <pub-id pub-id-type="doi">10.1603/033.046.0639</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Pancotto et al. (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pancotto</surname>
+                     <given-names>VA</given-names>
+                  </name>
+                  <name>
+                     <surname>Sala</surname>
+                     <given-names>OE</given-names>
+                  </name>
+                  <name>
+                     <surname>Cabello</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Lopez</surname>
+                     <given-names>NI</given-names>
+                  </name>
+                  <name>
+                     <surname>Robson</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>Ballare</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                  <name>
+                     <surname>Caldwell</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Scopel</surname>
+                     <given-names>AL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Solar UV-B decrease decomposition in herbaceous plant litter in Tierra del Fuego, Argentina: potential role of an altered decomposer community</article-title>
+               <source>Global Change Biology</source>
+               <volume>9</volume>
+               <fpage>1465</fpage>
+               <lpage>1474</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-2486.2003.00667.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Pedrosa de Almeida et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pedrosa de Almeida</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>De Mendoca</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                  <name>
+                     <surname>Cavalcanti</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ribeiro</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Impact of small variations in temperature and humidity on the reproductive activity and survival of <italic>Aedes aegypti</italic> (Diptera, Culicidae)</article-title>
+               <source>Revista Brasileira de Entomologia</source>
+               <volume>54</volume>
+               <fpage>488</fpage>
+               <lpage>493</lpage>
+               <pub-id pub-id-type="doi">10.1590/S0085-56262010000300021</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Pelz-Stelinski, Kaufman &amp; Walker (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pelz-Stelinski</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Kaufman</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                  <name>
+                     <surname>Walker</surname>
+                     <given-names>ED</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Beetle <italic>(Coleoptera: Scirtidae)</italic> facilitation of larval mosquito growth in tree hole habitats is linked to multitrophic microbial interactions</article-title>
+               <source>Microbial Ecology</source>
+               <volume>3</volume>
+               <fpage>690</fpage>
+               <lpage>703</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00248-011-9872-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Peric-Mataruga, Nenadovic &amp; Ivanovic (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Peric-Mataruga</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Nenadovic</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Ivanovic</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Neurohormones in insect stress: a review</article-title>
+               <source>Archives of Biological Sciences</source>
+               <volume>58</volume>
+               <fpage>1</fpage>
+               <lpage>12</lpage>
+               <pub-id pub-id-type="doi">10.2298/ABS0601006P</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Reiskind &amp; Lounibos (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Reiskind</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name>
+                     <surname>Lounibos</surname>
+                     <given-names>LP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Effects of intraspecific larval competition on adult longevity in the mosquitoes <italic>Aedes aegypti</italic> and <italic>Aedes albopictus</italic></article-title>
+               <source>Medical and Veterinary Entomology</source>
+               <volume>23</volume>
+               <fpage>62</fpage>
+               <lpage>68</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2915.2008.00782.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Rinnan et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rinnan</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Keinanen</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Kasurinen</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Asikainen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Kekki</surname>
+                     <given-names>TK</given-names>
+                  </name>
+                  <name>
+                     <surname>Holopainen</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Ro-Poulsen</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Mikkelsen</surname>
+                     <given-names>TN</given-names>
+                  </name>
+                  <name>
+                     <surname>Michelsen</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Ambient ultraviolet radiation in the Arctic reduces root biomass and alters microbial community composition but has no effects on microbial biomass</article-title>
+               <source>Global Change Biology</source>
+               <volume>11</volume>
+               <fpage>564</fpage>
+               <lpage>574</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2486.2005.00933.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Sang et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sang</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Yu</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>He</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Ma</surname>
+                     <given-names>WH</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhu</surname>
+                     <given-names>ZH</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhu</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>XP</given-names>
+                  </name>
+                  <name>
+                     <surname>Lei</surname>
+                     <given-names>CL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>UVB radiation delays <italic>Tribolium castaneum</italic> metamorphosis by influencing ecdysteroid metabolism</article-title>
+               <source>PLOS ONE</source>
+               <volume>11</volume>
+               <issue>3</issue>
+               <elocation-id>e0151831</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0151831</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Sardelis et al. (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sardelis</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name>
+                     <surname>Turell</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Guinn</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Andre</surname>
+                     <given-names>RG</given-names>
+                  </name>
+                  <name>
+                     <surname>Roberts</surname>
+                     <given-names>DR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Vector competence of three North American strains of <italic>Aedes albopictus</italic> for West Nile virus</article-title>
+               <source>Journal of the American Mosquito Control Association</source>
+               <volume>18</volume>
+               <fpage>284</fpage>
+               <lpage>289</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>SAS Institute Inc. (2013)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>SAS Institute Inc</collab>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <source>Base SAS 9.4 procedures guide: statistical procedures</source>
+               <publisher-name>SAS Institute Inc</publisher-name>
+               <publisher-loc>Cary</publisher-loc>
+               <edition designator="2">Second Edition</edition>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>Schulte (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schulte</surname>
+                     <given-names>PM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>The effects of temperature on aerobic metabolism: towards a mechanistic understanding of the responses of ectotherms to a changing environment</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>218</volume>
+               <fpage>1856</fpage>
+               <lpage>1866</lpage>
+               <pub-id pub-id-type="doi">10.3389/fmicb.2016.00454</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>Seto et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Seto</surname>
+                     <given-names>KC</given-names>
+                  </name>
+                  <name>
+                     <surname>Fragkias</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Guneralp</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Reilly</surname>
+                     <given-names>MK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>A meta-analysis of global urban land expansion</article-title>
+               <source>PLOS ONE</source>
+               <volume>6</volume>
+               <issue>8</issue>
+               <elocation-id>e23777</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0023777</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-60"><label>Seto, Guneralp &amp; Hutyra (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Seto</surname>
+                     <given-names>KC</given-names>
+                  </name>
+                  <name>
+                     <surname>Guneralp</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Hutyra</surname>
+                     <given-names>LR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Global forecast of urban expansion to 2030 and direct impacts on biodiversity and carbon pools</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>109</volume>
+               <issue>40</issue>
+               <fpage>16083</fpage>
+               <lpage>16088</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1211658109</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-61"><label>Shimoda &amp; Honda (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shimoda</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Honda</surname>
+                     <given-names>K-I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Insects reaction to light and its application to pest management</article-title>
+               <source>Applied Entomology and Zoology</source>
+               <volume>48</volume>
+               <fpage>413</fpage>
+               <lpage>421</lpage>
+               <pub-id pub-id-type="doi">10.1007/s13355-013-0219-x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-62"><label>Shuman (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shuman</surname>
+                     <given-names>EK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Global climate change and infectious diseases</article-title>
+               <source>International Journal of Occupational and Environmental Medicine</source>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>11</fpage>
+               <lpage>19</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-63"><label>Sinclair et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sinclair</surname>
+                     <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Marshall</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Sewell</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Danielle</surname>
+                     <given-names>LL</given-names>
+                  </name>
+                  <name>
+                     <surname>Willet</surname>
+                     <given-names>CS</given-names>
+                  </name>
+                  <name>
+                     <surname>Slotsbo</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Dong</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Harley</surname>
+                     <given-names>CD</given-names>
+                  </name>
+                  <name>
+                     <surname>Marshall</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Helmuth</surname>
+                     <given-names>BS</given-names>
+                  </name>
+                  <name>
+                     <surname>Huey</surname>
+                     <given-names>RB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Can we predict ectotherm responses to climate change using thermal performance curves and body temperatures?</article-title>
+               <source>Ecology Letters</source>
+               <volume>19</volume>
+               <fpage>1372</fpage>
+               <lpage>1385</lpage>
+               <pub-id pub-id-type="doi">10.1111/ele.12686</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-64"><label>Sliney, Gilbert II &amp; Lyon (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sliney</surname>
+                     <given-names>DH</given-names>
+                  </name>
+                  <name>
+                     <surname>Gilbert II</surname>
+                     <given-names>DW</given-names>
+                  </name>
+                  <name>
+                     <surname>Lyon</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Ultraviolet safety assessment on insect light traps</article-title>
+               <source>Journal Occupational Environmental Hygiene</source>
+               <volume>13</volume>
+               <fpage>413</fpage>
+               <lpage>424</lpage>
+               <pub-id pub-id-type="doi">10.1080/15459624.2015.1125489</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-65"><label>Steinwascher (1982)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Steinwascher</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1982">1982</year>
+               <article-title>Relationship between pupal mass and adult survivorship and fecundity for <italic>Aedes aegypti</italic></article-title>
+               <source>Environmental Entomology</source>
+               <volume>11</volume>
+               <fpage>150</fpage>
+               <lpage>153</lpage>
+               <pub-id pub-id-type="doi">10.1093/ee/11.1.150</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-66"><label>Tabbabi (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tabbabi</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Global invasion amd phenotypic plasticity of the Asian Tiger mosquito <italic>Aedes (Stegomya) albopictus (Skuse) (Diptera: Culicidae)</italic>, an invasive vector of human diseases: review of the problem and the evidence</article-title>
+               <source>The Journal of Middle East and North Africa Sciences</source>
+               <volume>4</volume>
+               <issue>4</issue>
+               <fpage>1</fpage>
+               <lpage>7</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-67"><label>Terblanche &amp; Chown (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Terblanche</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Chown</surname>
+                     <given-names>SL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Physiological diversity in insects: ecological and evolutionary contexts</article-title>
+               <source>Advances in Insects Physiology</source>
+               <volume>33</volume>
+               <fpage>50</fpage>
+               <lpage>152</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0065-2806(06)33002-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-68"><label>Toma et al. (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Toma</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Severini</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Di Luca</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bella</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Romi</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Seasonal patterns of oviposition and egg hatching rate of <italic>Aedes albopictus</italic> in Rome</article-title>
+               <source>Journal of the American Mosquito Control Association</source>
+               <volume>19</volume>
+               <fpage>19</fpage>
+               <lpage>22</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-69"><label>Tuncbilek, Ercan &amp; Canpolat (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tuncbilek</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                  <name>
+                     <surname>Ercan</surname>
+                     <given-names>FS</given-names>
+                  </name>
+                  <name>
+                     <surname>Canpolat</surname>
+                     <given-names>U</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Effect of ionizing (gamma) and non-ionizing (UV) radiation on the development of <italic>Trichogramma euproctidis</italic> (Hymenoptera: Trichogrammatidae)</article-title>
+               <source>Archives of Biological Sciences</source>
+               <volume>64</volume>
+               <fpage>287</fpage>
+               <lpage>295</lpage>
+               <pub-id pub-id-type="doi">10.2298/ABS1201287T</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-70"><label>Vezzani &amp; Albicocco (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vezzani</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Albicocco</surname>
+                     <given-names>AP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>The effect of shade on the container index and pupal productivity of the mosquitoes <italic>Aedes aegypti</italic> and <italic>Culex pipiens</italic> breeding in artificial containers</article-title>
+               <source>Medical and Veterinary Entomology</source>
+               <volume>23</volume>
+               <fpage>78</fpage>
+               <lpage>84</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2915.2008.00783.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-71"><label>Vitek &amp; Livdahl (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vitek</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Livdahl</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Hatch plasticity in response to varied inundation frequency in <italic>Aedes albopictus</italic></article-title>
+               <source>Journal of Medical Entomology</source>
+               <volume>46</volume>
+               <fpage>766</fpage>
+               <lpage>771</lpage>
+               <pub-id pub-id-type="doi">10.1603/033.046.0406</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-72"><label>Wai, Yu &amp; Lam (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wai</surname>
+                     <given-names>K-M</given-names>
+                  </name>
+                  <name>
+                     <surname>Yu</surname>
+                     <given-names>PKN</given-names>
+                  </name>
+                  <name>
+                     <surname>Lam</surname>
+                     <given-names>K-S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Reduction of solar UV radiation due to urban high-rise buildings—a couple of modelling study</article-title>
+               <source>PLOS ONE</source>
+               <volume>10</volume>
+               <issue>8</issue>
+               <elocation-id>e0135562</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0135562</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-73"><label>Walker et al. (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Walker</surname>
+                     <given-names>ED</given-names>
+                  </name>
+                  <name>
+                     <surname>Lawson</surname>
+                     <given-names>DL</given-names>
+                  </name>
+                  <name>
+                     <surname>Merrit</surname>
+                     <given-names>RW</given-names>
+                  </name>
+                  <name>
+                     <surname>Morgan</surname>
+                     <given-names>WT</given-names>
+                  </name>
+                  <name>
+                     <surname>Klug</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Nutrient dynamics, bacterial populations, and mosquito productivity in tree hole ecosystems and microcosm</article-title>
+               <source>Ecology</source>
+               <volume>72</volume>
+               <fpage>1529</fpage>
+               <lpage>1546</lpage>
+               <pub-id pub-id-type="doi">10.2307/1940953</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-74"><label>Weng (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weng</surname>
+                     <given-names>Q</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>A remote sensing? GIS evaluation of urban expansion and its impact on surface temperature in the Zhujiang Delta, China</article-title>
+               <source>International Journal of Remote Sensing</source>
+               <volume>22</volume>
+               <fpage>1999</fpage>
+               <lpage>2014</lpage>
+               <pub-id pub-id-type="doi">10.1080/713860788</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-75"><label>Williamson &amp; Zagarese (2003)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Williamson</surname>
+                     <given-names>CE</given-names>
+                  </name>
+                  <name>
+                     <surname>Zagarese</surname>
+                     <given-names>HE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <source>UVR effects in aquatic ecosystems: a changing climate perspective in UV effects in aquatic organisms and ecosystems</source>
+               <publisher-name>Royal Society of Chemestry</publisher-name>
+               <publisher-loc>Cambridge</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Helbling</surname>
+                     <given-names>EW</given-names>
+                  </name>
+                  <name>
+                     <surname>Zagarese</surname>
+                     <given-names>HE</given-names>
+                  </name>
+               </person-group>
+               <fpage>547</fpage>
+               <lpage>567</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-76"><label>Williges, Faraji &amp; Gaugler (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Williges</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Faraji</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaugler</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Vertical oviposition preferences of the Asian tiger mosquito, <italic>Aedes albopictus</italic>, in temperate North Amercia</article-title>
+               <source>Journal of the American Mosquito Control Association</source>
+               <volume>30</volume>
+               <fpage>169</fpage>
+               <lpage>174</lpage>
+               <pub-id pub-id-type="doi">10.2987/14-6409R.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-77"><label>Wong et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wong</surname>
+                     <given-names>P-SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>MI</given-names>
+                  </name>
+                  <name>
+                     <surname>Chong</surname>
+                     <given-names>C-S</given-names>
+                  </name>
+                  <name>
+                     <surname>Ng</surname>
+                     <given-names>L-C</given-names>
+                  </name>
+                  <name>
+                     <surname>Tan</surname>
+                     <given-names>C-H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title><italic>Aedes (Stegomya) albopictus (Skuse)</italic>: a potential vector of Zika Virus in Singapore</article-title>
+               <source>PLOS Neglected Tropical Diseases</source>
+               <volume>7</volume>
+               <issue>8</issue>
+               <elocation-id>e2348</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pntd.0002348</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-78"><label>Wu et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Gao</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Villafañe</surname>
+                     <given-names>VE</given-names>
+                  </name>
+                  <name>
+                     <surname>Watanabe</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Helbling</surname>
+                     <given-names>EW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Effects of solar radiation on morphology and photosynthesis of filamentous cyanobacterium <italic>Arthrospira platensis</italic></article-title>
+               <source>Applied Environmental Microbiology</source>
+               <volume>71</volume>
+               <fpage>5004</fpage>
+               <lpage>5013</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.71.9.5004-5013.2005</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-79"><label>Wu, Gao &amp; Wu (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Gao</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Responses of a marine red tide alga <italic>Skeletonema costatum (Bacillariophyceae)</italic> to long-term UV radiation exposures</article-title>
+               <source>Journal of Photochemistry and Photobiology</source>
+               <volume>94</volume>
+               <fpage>82</fpage>
+               <lpage>86</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jphotobiol.2008.10.005</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-80"><label>Zhang &amp; Denlinger (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Denlinger</surname>
+                     <given-names>DL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Molecular structure of the prothoracicotropic hormone gene in the northern house mosquito, <italic>Culex pipiens</italic>, and its expression analysis in association with diapause and blood feeding</article-title>
+               <source>Insect Molecular Biology</source>
+               <volume>20</volume>
+               <fpage>201</fpage>
+               <lpage>213</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2583.2010.01058.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-81"><label>Zhang et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Momen</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Kohanski</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pick</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Deletion of <italic>Drosophila</italic> insulin-like peptides causes growth defects and metabolic abnormalities</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>106</volume>
+               <fpage>19617</fpage>
+               <lpage>19622</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.0905083106</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

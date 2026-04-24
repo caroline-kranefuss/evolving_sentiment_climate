@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16492</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16492</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Animal Behavior</subject>
+               <subject>Biodiversity</subject>
+               <subject>Conservation Biology</subject>
+               <subject>Ecology</subject>
+               <subject>Zoology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Population-level call properties of endangered <italic>Dryophytes suweonensissensu</italic> lato (Anura: Amphibia) in South Korea</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author">
+               <name>
+                  <surname>Rahman</surname>
+                  <given-names>Md Mizanur</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Yun</surname>
+                  <given-names>Jiyoung</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Lee</surname>
+                  <given-names>KaHyun</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Lee</surname>
+                  <given-names>Seung-Ha</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>Park</surname>
+                  <given-names>Seung-Min</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-6" contrib-type="author">
+               <name>
+                  <surname>Ham</surname>
+                  <given-names>Choong-Ho</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-7" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Sung</surname>
+                  <given-names>Ha-Cheol</given-names>
+               </name>
+               <email>shcol2002@chonnam.ac.kr</email><xref ref-type="aff" rid="aff-1">1</xref><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <aff id="aff-1"> 
+               <institution>Department of Biological Sciences, Chonnam National University</institution>, <city>Gwangju</city>, <country>South Korea</country></aff>
+            <aff id="aff-2"> 
+               <institution>Department of Biological Sciences and Biotechnology, Chonnam National University</institution>, <city>Gwangju</city>, <country>South Korea</country></aff>
+            <aff id="aff-3"> 
+               <institution>Research Center of Ecomimetics, Chonnam National University</institution>, <city>Gwangju</city>, <country>Republic of Korea</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Hedrick</surname>
+                  <given-names>Ann</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-01">
+            <day>1</day>
+            <month>12</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16492</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2023-08-07">
+               <day>7</day>
+               <month>8</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-10-30">
+               <day>30</day>
+               <month>10</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Rahman et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Rahman et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16492"/>
+         <abstract>
+            <p>Calling is one of the unique amphibian characteristics that facilitates social communication and shows individuality; however, it also makes them vulnerable to predators. Researchers use amphibian call properties to study their population status, ecology, and behavior. This research scope has recently broadened to species identification and taxonomy. <italic>Dryophytes flaviventris</italic> has been separated from the endangered anuran species, <italic>D. suweonensis</italic>, based on small variations in genetic, morphometric, and temporal call properties observed in South Korea. The Chilgap Mountain (CM) was considered as the potential geographic barrier for the speciation. However, it initiated taxonomic debates as CM has been hardly used and is considered a potential barrier for other species. The calls of populations from both sides are also apparently similar. Thus, to verify the differences in call properties among populations of <italic>D. suweonensis sensu</italic> lato (s.l.; both of the species), we sampled and analyzed call data from five localities covering its distribution range, including the southern (S) and northern (N) parts of CM. We found significant differences in many call properties among populations; however, no specific pattern was observed. Some geographically close populations, such as Iksan (S), Wanju (S), and Gunsan (S), had significant differences, whereas many distant populations, such as Pyeongtaek (N) and Wanju (S), had no significant differences. Considering the goal of this study was only to observe the call properties, we cautiously conclude that the differences are at the population level rather than the species level. Our study indicates the necessity of further investigation into the specific status of <italic>D. flaviventris</italic> using robust integrated taxonomic approaches, including genetic and morphological parameters from a broader array of localities.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd><italic>Dryophytes flaviventris</italic></kwd>
+            <kwd>Taxonomy</kwd>
+            <kwd>Chilgap mountain</kwd>
+            <kwd>Species-level call variation</kwd>
+            <kwd>Temporal call properties</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source> Korea Environment Industry &amp; Technology Institute (KEITI) through the Exotic Invasive Species Management Program Program, funded by the Korea Ministry of Environment (MOE)</funding-source>
+               <award-id>2021002280004</award-id>
+            </award-group>
+            <funding-statement>This work was supported by the Korea Environment Industry &amp; Technology Institute (KEITI) through the Exotic Invasive Species Management Program Program, funded by the Korea Ministry of Environment (MOE; 2021002280004). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Amphibians are one of the world’s most vulnerable vertebrate animal groups (<xref ref-type="bibr" rid="ref-23">IUCN, 2023</xref>). Although the amphibian diversity of many regions is underestimated and suffering from a lack of information (<xref ref-type="bibr" rid="ref-41">Rahman et al., 2019</xref>; <xref ref-type="bibr" rid="ref-43">Rahman et al., 2022</xref>), the introduction of integrated traditional and modern molecular taxonomic approaches boosted the trends of deiscovering new records and new species descriptions (<xref ref-type="bibr" rid="ref-40">Rahman et al., 2020a</xref>; <xref ref-type="bibr" rid="ref-42">Rahman et al., 2020b</xref>; <xref ref-type="bibr" rid="ref-50">Vences et al., 2023</xref>). Despite this progress creating a few taxonomic debates and ambiguity in classification (<xref ref-type="bibr" rid="ref-45">Sanchez et al., 2018</xref>), the number of total amphibian species in the world has increased manifolds (<xref ref-type="bibr" rid="ref-1">AmphibiaWeb, 2023</xref>). The trend of new species description sometimes misleads the policymakers on amphibian conservation issues. It is already evident that amphibians across the world are facing immense conservation challenges from diverse factors, including climate change, temperature fluctuation (<xref ref-type="bibr" rid="ref-21">Grimm et al., 2008</xref>; <xref ref-type="bibr" rid="ref-11">Dawson et al., 2011</xref>; <xref ref-type="bibr" rid="ref-28">Li, Cohen &amp; Rohr, 2013</xref>; <xref ref-type="bibr" rid="ref-39">Rahman, 2014</xref>; <xref ref-type="bibr" rid="ref-54">Zhao et al., 2022</xref>), emerging infectious diseases (<xref ref-type="bibr" rid="ref-20">Grant et al., 2016</xref>; <xref ref-type="bibr" rid="ref-8">Cohen et al., 2018</xref>; <xref ref-type="bibr" rid="ref-46">Scheele et al., 2019</xref>), invasive species (<xref ref-type="bibr" rid="ref-33">Nunes et al., 2019</xref>; <xref ref-type="bibr" rid="ref-14">Falaschi et al., 2020</xref>; <xref ref-type="bibr" rid="ref-34">Park et al., 2022</xref>), and habitat alteration (<xref ref-type="bibr" rid="ref-9">Cushman, 2006</xref>; <xref ref-type="bibr" rid="ref-2">Becker et al., 2007</xref>; <xref ref-type="bibr" rid="ref-12">Decena et al., 2020</xref>). Additionally, the unique characteristics of amphibians make them susceptible to declining risks from both aquatic and terrestrial ecosystems while also enabling them to thrive in both environments (<xref ref-type="bibr" rid="ref-3">Becker &amp; Loyola, 2007</xref>). For instance, amphibian characteristics such as the biphasic life cycle, environmental sensitivity, ectothermic nature, permeable skin, <italic>etc.</italic>, make this animal group vulnerable to many fatal diseases (<xref ref-type="bibr" rid="ref-7">Campbell et al., 2012</xref>; <xref ref-type="bibr" rid="ref-6">Burraco et al., 2020</xref>). On the other hand, the unique characteristics of amphibians, such as their calling behavior, assist coordinating their seasonal and daily activities and facilitate individual and social communications (<xref ref-type="bibr" rid="ref-26">Kelley, 2004</xref>; <xref ref-type="bibr" rid="ref-30">Natale et al., 2010</xref>). Frog calling provides basic information on their physical and environmental status (<xref ref-type="bibr" rid="ref-47">Snowdon, 2011</xref>). They also use it to defend their territory and attract partners for breeding (<xref ref-type="bibr" rid="ref-13">Duellman, 1970</xref>; <xref ref-type="bibr" rid="ref-51">Wells, 2007</xref>; <xref ref-type="bibr" rid="ref-52">Wells &amp; Schwartz, 2007</xref>). Given the necessity of attracting conspecific individuals, researchers suggested the possibility of using the frog calls in their taxonomy (<xref ref-type="bibr" rid="ref-44">Ryan &amp; Rand, 2001</xref>; <xref ref-type="bibr" rid="ref-52">Wells &amp; Schwartz, 2007</xref>). Thus, in addition to using traditional and molecular techniques (<xref ref-type="bibr" rid="ref-40">Rahman et al., 2020a</xref>; <xref ref-type="bibr" rid="ref-42">Rahman et al., 2020b</xref>; <xref ref-type="bibr" rid="ref-43">Rahman et al., 2022</xref>; <xref ref-type="bibr" rid="ref-32">Nneji et al., 2021</xref>), researchers are increasingly employing call properties in amphibian species identification and taxonomy (<xref ref-type="bibr" rid="ref-27">Kohler et al., 2017</xref>; <xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>).</p>
+         <p>Although the use of call properties in amphibian taxonomy is becoming common, there is evidence of considerable variations in call properties among individuals, populations, and environmental conditions (<xref ref-type="bibr" rid="ref-24">Kaefer &amp; Lima, 2012</xref>; <xref ref-type="bibr" rid="ref-25">Kaefer, Tsuji-Nishikido &amp; Lima, 2012</xref>; <xref ref-type="bibr" rid="ref-49">Velasquez, 2014</xref>; <xref ref-type="bibr" rid="ref-17">Forti, Marquez &amp; Bertoluci, 2015</xref>; <xref ref-type="bibr" rid="ref-16">Forti, Lingnau &amp; Bertoluci, 2017</xref>). Some studies also showed that the calls could change after training during the juvenile stages (<xref ref-type="bibr" rid="ref-10">Dawson &amp; Ryan, 2009</xref>). Health conditions may also influence call properties (<xref ref-type="bibr" rid="ref-26">Kelley, 2004</xref>). Particularly, the temporal call properties can change considerably depending on environmental conditions and the physical status of the individuals (<xref ref-type="bibr" rid="ref-53">Wong et al., 2004</xref>; <xref ref-type="bibr" rid="ref-29">Lingnau &amp; Bastos, 2007</xref>). Hence, we need further studies on the comparison of frog call properties to enhance the accuracy of their taxonomic uses (<xref ref-type="bibr" rid="ref-18">Forti, Martins &amp; Bertoluci, 2012</xref>; <xref ref-type="bibr" rid="ref-17">Forti, Marquez &amp; Bertoluci, 2015</xref>; <xref ref-type="bibr" rid="ref-16">Forti, Lingnau &amp; Bertoluci, 2017</xref>; <xref ref-type="bibr" rid="ref-22">Hepp, Lourenco &amp; Pombal Jr, 2017</xref>). Nevertheless, call properties can be helpful in amphibian taxonomy and species identification when applied with proper guidelines and a comprehensive understanding of congeneric species (<xref ref-type="bibr" rid="ref-27">Kohler et al., 2017</xref>).</p>
+         <p>Recently, <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020)</xref> separated <italic>Dryophytes flaviventris</italic> from <italic>D. suweonensis</italic> based on narrow genetic and morphometric differences along with variations in temporal call properties observed in South Korea, initiating a taxonomic debate. Although there is hardly any prior report on the significant role of Chilgap Mountain (CM) ranges on speciation, <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020)</xref> suggested that it could have acted as the geographic barrier for these two species. However, the calls of populations from both sides are apparently similar. Thus, to explore and verify the differences in call properties among populations of <italic>D. suweonensis</italic> sensu lato (s.l.; both of the species), we analyzed call data from five localities covering its distribution range (based on <xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>), including the southern (S) and northern (N) parts of CM. The results indicated variations at the population-level rather than the species-level. Hence, our study suggests the need for further justification of the specific status of <italic>D. flaviventris</italic> using robust taxonomic approaches and including more samples from more localities.</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Methods</title>
+         <p>The <italic>D. suweonensis</italic> s.l. call data were collected from various locations in South Korea, including Eumseong (May–August 2012), Pyeongteak (May 2021, and June 2022), Iksan (May 2021, and June 2022), Wanju (June 2022), and Gunsan (May 2021, and June 2022) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Eumseong (36.9397°N, 127.6905°E) and Pyeongtaek (36.9921°N, 127.1129°E) are located to the north of CM (hereafter northern population; N), whereas Iksan (35.9483°N, 126.9576°E), Wanju (35.8913°N, 127.2539°E), and Gunsan (35.9677°N, 126.7366°E) are located to the south of CM (hereafter southern population; S). We did not require permits as we only recorded the calls and did not catch the individuals. The temperature during the data collection period varied from 16.6 °C to 26.1 °C and had no significant influence on the calls of this species. All calls were recorded from the evening to midnight. We collected call data from a total of 56 individuals, 25 from Eumseong, five from Pyeongteak, 12 from Iksan, seven from Wanju, and seven from Gunsan. Calls were recorded using recorder PMD661 MKIII mic: Sennheiser MKE600. Following the suggestions from <xref ref-type="bibr" rid="ref-27">Kohler et al. (2017)</xref>, both temporal and spectral domains were measured using Raven Pro 1.6.4 (Cornell Lab of Ornithology, New York, USA). We categorized the call properties and performed the subsequent analysis following the methods outlined by <xref ref-type="bibr" rid="ref-36">Park, Jeong &amp; Jang (2013)</xref> and <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020)</xref>. An advertisement call consists of a train of notes, and each note consists of a series of pulses (<xref ref-type="bibr" rid="ref-29">McLister, Stevens &amp; Bogart, 1995</xref>). Thus, a single note is made up of a few independent pulses (single separate pulses) and a connected pulse (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Following these criteria, we measured call properties, like delta time (the difference between the start time and end time of the note; measured in seconds), number of independent pulses (single separate pulses ahead of the connected pulses in a note; counted in numbers), duration of connected pulses (the difference between the start time and end time of the connected pulses in a note; measured in seconds), internote interval (the difference between the end of a note and start of the next note; measured in seconds), low frequency (the lower frequency limit of the note; measured in Hz), high frequency (the upper frequency limit of the note; measured in Hz), max frequency (the frequency at which maximum power occurs in the note; measured in Hz), and 90% Bandwidth Frequency (the difference between the 5% and 95% frequencies in the note; measured in Hz).</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.16492/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Study sites and species.</title>
+               <p>(A) Map of South Korea with the study sites. The ‘yellow stars’ indicate the collection localities of <italic>Dryophytes suweonensis</italic> and the ‘purple stars’ indicate the collection localities of <italic>D. flaviventris</italic>. The map was created using ArcMap (ver. 10.7, ESRI; <ext-link ext-link-type="uri" xlink:href="https://support.esri.com/en/products/desktop/arcgis-desktop/arcmap/10-7-1">https://support.esri.com/en/products/desktop/arcgis-desktop/arcmap/10-7-1</ext-link>) and QGIS Desktop TMS for Korean users Plugin (ver. 1.5; <ext-link ext-link-type="uri" xlink:href="https://plugins.qgis.org/plugins/tmsforkorea/">https://plugins.qgis.org/plugins/tmsforkorea/</ext-link>). (B) An individual from Eumseong. (C) An individual from Pyeongtaek. (D) An individual from Iksan. (E) An individual from Wanju. (F) An individual from Gunsan. The ‘light green background’ indicate the known distribution range of <italic>D. suweonensis</italic> and the ‘yellow background’ indicates the known distribution range of <italic>D. flaviventris</italic>.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16492/fig-1.png"/>
+         </fig>
+         <fig id="fig-2">
+            <object-id pub-id-type="doi">10.7717/peerj.16492/fig-2</object-id><label>Figure 2</label><caption>
+               <title>The temporal call properties of <italic>Dryophytes suweonensis</italic> sensu lato.</title>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16492/fig-2.png"/>
+         </fig>
+         <p>After determining the call properties of each population, we used principal component analysis (PCA) to test variations in call properties between populations. We analyzed call properties from a total of 2,858 notes (on an average 51.04 notes for each individual), 468 from Iksan (39.08 ± 2.148), 485 from Wanju (69.29 ± 28.45), 914 from Gunsan (130.57 ± 67.183), 291 from Pyeongtaek (58.2 ± 16.684), and 700 notes from Eumseong (28 ± 1.502). The PCA was set to extract components if their Eigenvalue was &gt; 1 under a varimax rotation. Variables were selected as loading into a PC if &gt; 0.55. PC1 represented the temporal call properties, whereas PC2 represented the call frequencies (<xref ref-type="table" rid="table-1">Table 1</xref>). Once the PCs were extracted, we performed ANOVA to identify significant differences within and between populations. After determining the significant differences between populations, we performed the <italic>Post hoc</italic> Tukey test based on Honesty Significance Difference (HSD) to reveal the pairwise variations between populations. The significance level was set at 0.05. All statistical tests were conducted using SPSS (SPSS, Inc., Chicago, USA).</p>
+         <table-wrap id="table-1">
+            <object-id pub-id-type="doi">10.7717/peerj.16492/table-1</object-id><label>Table 1</label><caption>
+               <title>Variable loadings on principal components (PCs) and the subsequent results of ANOVA.</title>
+               <p>The bold fonts indicate loadings &lt; 0.55 in the PCs and significant values in the results of ANOVA.</p>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16492/table-1.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Variables</bold></th>
+                        <th colspan="2"><bold>PC1</bold></th>
+                        <th colspan="2"><bold>PC2</bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Low Freq (Hz)</td>
+                        <td colspan="2">0.29</td>
+                        <td colspan="2"><bold>0.65</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Delta time (s)</td>
+                        <td colspan="2"><bold>0.92</bold></td>
+                        <td colspan="2">0.11</td>
+                     </tr>
+                     <tr>
+                        <td>Max Freq (Hz)</td>
+                        <td colspan="2">−0.23</td>
+                        <td colspan="2"><bold>0.83</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Duration of connected pulse</td>
+                        <td colspan="2"><bold>0.87</bold></td>
+                        <td colspan="2">0.18</td>
+                     </tr>
+                     <tr>
+                        <td>Internote interval</td>
+                        <td colspan="2"><bold>0.67</bold></td>
+                        <td colspan="2"> −0.24</td>
+                     </tr>
+                     <tr>
+                        <td>Eigenvalues</td>
+                        <td colspan="2">2.20</td>
+                        <td colspan="2">1.20</td>
+                     </tr>
+                     <tr>
+                        <td>% of variance</td>
+                        <td colspan="2"> 43.98</td>
+                        <td colspan="2"> 24.06</td>
+                     </tr>
+                     <tr>
+                        <td><bold>ANOVA</bold></td>
+                        <td><bold>Between group</bold></td>
+                        <td><bold>Within group</bold></td>
+                        <td><bold>Between group</bold></td>
+                        <td><bold>Within group</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Sum of squares</td>
+                        <td>554.218</td>
+                        <td>2,302.782</td>
+                        <td>643.987</td>
+                        <td>2,213.013</td>
+                     </tr>
+                     <tr>
+                        <td><italic>df</italic></td>
+                        <td>4</td>
+                        <td>2,853</td>
+                        <td>4</td>
+                        <td>2,853</td>
+                     </tr>
+                     <tr>
+                        <td>Mean square</td>
+                        <td>138.554</td>
+                        <td> 0.807</td>
+                        <td>160.997</td>
+                        <td> 0.776</td>
+                     </tr>
+                     <tr>
+                        <td><italic>F</italic></td>
+                        <td><bold>171.660</bold></td>
+                        <td><bold>–</bold></td>
+                        <td><bold>207.556</bold></td>
+                        <td><bold>–</bold></td>
+                     </tr>
+                     <tr>
+                        <td><italic>p</italic></td>
+                        <td> 0.000</td>
+                        <td><bold>–</bold></td>
+                        <td> 0.000</td>
+                        <td><bold>–</bold></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+         </table-wrap>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Population-level call properties</title>
+            <p>The average low frequency of the calls varied from 1,001.92 (±7.79; Wanju) to 1,263.76 (±4.28; Gunsan) among the five populations. The average high frequencies of calls from the Iksan (S), Wanju (S), Gunsan (S), Pyeongtaek (N), and Eumseong (N) populations were 16,415.78 (±131.92), 16,134.16058 (±143.43), 8,780.40 (±119.03), 10,481.14 (±171.48), and 22,890.97 (±67.14), respectively. We measured the highest average max frequency from the Iksan (S) population (3,359.92 ± 9.78) and the lowest from the Eumseong (N) population (3,079.69 ± 27.59). Whereas, we got the maximum average of 90% Bandwidth of calls from the Iksan (S) population (2,748.15 ± 53.85) and the minimum from the Gunsan (S) population (1,804.84 ± 18.27; <xref ref-type="table" rid="table-2">Table 2</xref>). Furthermore, the Gunsan (S) population had the highest average delta time (0.16 ±0.0004) and duration of connected pulses (0.10 ± 0.0003) among the temporal call properties. Eumseong (N) population was measured with the highest average internote interval (0.36 ± 0.005) and Iksan (S) population with the highest number of independent pulses (6.30 ± 0.05) (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16492/table-2</object-id><label>Table 2</label><caption>
+                  <title>Call properties of Dryophytes suweonensis sensu lato from five localities.</title>
+                  <p>Here, values after ‘±’ indicate the standard error, ‘S’ indicate the populations located to the south of Chilgap Mountain, and ‘N’ indicate the populations located to the north of Chilgap Mountain.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16492/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Call properties</bold></th>
+                           <th><bold>Iksan (S)</bold></th>
+                           <th><bold>Wanju (S)</bold></th>
+                           <th><bold>Gunsan (S)</bold></th>
+                           <th><bold>Pyeongtaek (N)</bold></th>
+                           <th><bold>Eumseong (N)</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Low Freq (Hz)</td>
+                           <td>1,227.44 ± 5.43</td>
+                           <td>1,001.92 ± 7.79</td>
+                           <td>1,263.76 ± 4.28</td>
+                           <td>1,068.59 ± 7.38</td>
+                           <td>1,109.73 ± 2.74</td>
+                        </tr>
+                        <tr>
+                           <td>High Freq (Hz)</td>
+                           <td>16,415.78 ± 131.92</td>
+                           <td>16,134.16 ± 143.43</td>
+                           <td>8,780.40 ± 119.03</td>
+                           <td>10,481.14 ± 171.48</td>
+                           <td>22,890.97 ± 67.14</td>
+                        </tr>
+                        <tr>
+                           <td>Max Freq (Hz)</td>
+                           <td>3,359.92 ± 9.78</td>
+                           <td>3,251.38 ± 5.35</td>
+                           <td>3,329.86 ± 4.61</td>
+                           <td>3,194.63 ± 27.34</td>
+                           <td>3,079.69 ± 27.59</td>
+                        </tr>
+                        <tr>
+                           <td>BW 90% (Hz)</td>
+                           <td>2,748.15 ± 53.85</td>
+                           <td>2,119.93 ± 10.44</td>
+                           <td>1,804.84 ± 18.27</td>
+                           <td>1,903.60 ± 33.28</td>
+                           <td>2,157.59 ± 15.54</td>
+                        </tr>
+                        <tr>
+                           <td>Delta Time (s)</td>
+                           <td>0.14 ± 0.0009</td>
+                           <td>0.14 ± 0.0006</td>
+                           <td>0.16 ± 0.0004</td>
+                           <td>0.14 ± 0.001</td>
+                           <td>0.15 ± 0.001</td>
+                        </tr>
+                        <tr>
+                           <td>Duration of connected pulses</td>
+                           <td>0.08 ± 0.0007</td>
+                           <td>0.09 ± 0.0004</td>
+                           <td>0.10 ± 0.0003</td>
+                           <td>0.09 ± 0.0008</td>
+                           <td>0.096 ± 0.0008</td>
+                        </tr>
+                        <tr>
+                           <td>Internote interval</td>
+                           <td>0.30 ± 0.004</td>
+                           <td>0.26 ± 0.002</td>
+                           <td>0.33 ± 0.002</td>
+                           <td>0.28 ± 0.004</td>
+                           <td>0.36 ± 0.005</td>
+                        </tr>
+                        <tr>
+                           <td>Number of independent pulses</td>
+                           <td>6.30 ± 0.05</td>
+                           <td>5.92 ± 0.04</td>
+                           <td>5.87 ± 0.03</td>
+                           <td>5.82 ± 0.063</td>
+                           <td>5.40 ± 0.04</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Comparison of the call properties of different populations</title>
+            <p>To compare the call properties of <italic>D. suweonensis</italic> s.l. from five localities, first, we conducted PCA for the call notes. The PCA identifying the independent dimensions of the call properties between the five populations (all notes) resulted in two PCs, with Eigenvalues of 2.20 and 1.20, respectively, explaining a cumulative variance of 68.03% (<xref ref-type="table" rid="table-1">Table 1</xref>). A variable was judged to be important if displaying a loading factor &gt; 0.55 in one of the PCs. Thus, we excluded high frequency, 90% bandwidth, and number of independent pulses from further analysis (<xref ref-type="table" rid="table-1">Table 1</xref>). The PCs revealed a mixed distribution pattern of variables among the five populations (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). The ANOVA test resulted in insignificant differences within groups and significant differences between groups (<xref ref-type="table" rid="table-1">Table 1</xref>). The <italic>post hoc</italic> Tukey test revealed Gunsan (S) and Eumseong (N) populations were significantly different from others in terms of temporal variables (PC1). In terms of call frequencies (PC2), Iksan (S) and Gunsan (S) had significant differences from all other populations, whereas, Wanju (S) population had no significant difference from Pyeongtaek (N) and Eumseong (N) populations (<xref ref-type="supplementary-material" rid="supp-1">Appendix 1</xref>).</p>
+            <fig id="fig-3">
+               <object-id pub-id-type="doi">10.7717/peerj.16492/fig-3</object-id><label>Figure 3</label><caption>
+                  <title>Scatterplots of the Principal Component Analysis of the call parameters of <italic>Dryophytes suweonensis</italic> sensu lato.</title>
+                  <p>(A) PC1 <italic>vs.</italic> PC2 for five populations. (B) PC1 <italic>vs.</italic> PC2 for two species, <italic>D. flaviventris</italic> and <italic>D. suweonensis</italic>.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16492/fig-3.png"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>We studied the call properties of <italic>D. suweonensis</italic> s.l. from five localities covering their distribution range to observe the call variations among populations and to see whether it defines species delimitation. Our results suggested variations at the population-level. Many geographically close populations, such as the southern populations Iksan (S), Wanju (S), and Gunsan (S), and the northern populations Pyeongtaek (N) and Eumseong (N) showed significant differences in many call properties. In contrast, many geographically distant populations, such as Pyeongtaek (N) and Iksan (S), Pyeongtaek (N) and Wanju (S), and Eumseong (N) and Wanju (S), showed no significant differences in call properties (<xref ref-type="supplementary-material" rid="supp-1">Appendix 1</xref>). In addition, the call properties did not follow a pattern based on the presumed natural barrier, CM, which <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020)</xref> mentioned as a potential geographic barrier for <italic>D. suweonensis</italic> and <italic>D. flaviventris</italic> (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>).</p>
+         <p>In accordance with the previous literature (<xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>), our results also indicated the most variability of the call properties of <italic>D. suweonensis</italic> s.l. in the temporal properties (higher Eigenvalues of PC1; <xref ref-type="table" rid="table-1">Table 1</xref>). In the present study, we used delta time, duration of connected pulses, internote interval, and number of independent pulses as the temporal variables of the frog calls. Although <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020)</xref> found the number of independent pulses highly important and described it as one of the bases for segregating <italic>D. flaviventris</italic> from the <italic>D. suweonensis</italic>, our study did not detect any significant difference among the populations in this parameter. Despite the variations observed in the number of independent pulses at both individual and population levels, we did not identify a discernable pattern that could be used for species differentiation. Additionally, the variations in the number of independent pulses within the population further supported the concept of individual and population-dependent variations (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). During our study, we recorded two to eight Independent Pulses from both southern (<italic>D. flaviventris</italic>; <xref ref-type="fig" rid="fig-4">Fig. 4A</xref>) and northern populations (<italic>D. suweonensis</italic>; <xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). Although we observed a slightly higher average number of independent pulses in southern populations (5.98 ± 0.021) than in northern populations (5.52 ± 0.03) like <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020)</xref>, the difference was insignificant and inadequate to use it in separating two species.</p>
+         <fig id="fig-4">
+            <object-id pub-id-type="doi">10.7717/peerj.16492/fig-4</object-id><label>Figure 4</label><caption>
+               <title>Variations in the number of independent pulses in the calls of different <italic>Dryophytes suweonensis</italic> sensu lato populations.</title>
+               <p>(A) Oscillograms of the advertisement calls of the southern populations (<italic>D. flaviventris</italic>). (B) Oscillograms of the advertisement calls of the northern populations (<italic>D. suweonensis</italic>).</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16492/fig-4.png"/>
+         </fig>
+         <p>The average duration of connected pulses for the southern populations in the present study was consistent with that reported by <xref ref-type="bibr" rid="ref-4">Borzée et al. (2020</xref>; 0.09 ± 0.0003). However, the value was slightly different for the northern populations (0.09 ± 0.0006, which was 0.08 ± 0.01 in <xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>). Nevertheless, a mixed pattern was observed when we arranged the data according to the population. In terms of the locality, the lowest average duration of connected pulses was observed in the Iksan population (S; 0.08 ± 0.0007) followed by the Pyeongtaek population (N; 0.09 ± 0.0008) and the highest average duration of connected pulses was observed in the Gunsan population (S; 0.10 ± 0.0003) followed by the Eumseong population (N; 0.10 ± 0.0008). Likewise, the duration of connected pulses of the calls from the southern and northern populations also exhibited a mixed pattern (<xref ref-type="table" rid="table-2">Table 2</xref>). Moreover, our study did not identify any difference in delta time between populations (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+         <p>The disparities between the results of our analyses and those reported by previous studies might be attributed to the higher number of collected samples and the inclusion of more localities (<xref ref-type="bibr" rid="ref-36">Park, Jeong &amp; Jang, 2013</xref>; <xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>). Moreover, previous studies categorized the target amphibians as distinct species without conducting population-level analyses (<xref ref-type="bibr" rid="ref-36">Park, Jeong &amp; Jang, 2013</xref>; <xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>). However, the irregular pattern of variations in call properties, especially the temporal properties, at the population-level is common in many amphibians (<xref ref-type="bibr" rid="ref-37">Park &amp; Yang, 1997</xref>; <xref ref-type="bibr" rid="ref-19">Forti, Strüssmann &amp; Mott, 2010</xref>; <xref ref-type="bibr" rid="ref-17">Forti, Marquez &amp; Bertoluci, 2015</xref>; <xref ref-type="bibr" rid="ref-16">Forti, Lingnau &amp; Bertoluci, 2017</xref>; <xref ref-type="bibr" rid="ref-5">Briggs, 2010</xref>; <xref ref-type="bibr" rid="ref-24">Kaefer &amp; Lima, 2012</xref>; <xref ref-type="bibr" rid="ref-25">Kaefer, Tsuji-Nishikido &amp; Lima, 2012</xref>; <xref ref-type="bibr" rid="ref-49">Velasquez, 2014</xref>). Some studies have even identified intraspecific complex call patterns (<xref ref-type="bibr" rid="ref-38">Porter, 1965</xref>; <xref ref-type="bibr" rid="ref-48">Turin, Nali &amp; Prado, 2018</xref>). Furthermore, some researchers have highlighted the influence of local environmental and social conditions on temporal call properties in many amphibian species, discouraging their use in species separation (<xref ref-type="bibr" rid="ref-35">Park, Cheong &amp; Yang, 2000</xref>; <xref ref-type="bibr" rid="ref-53">Wong et al., 2004</xref>; <xref ref-type="bibr" rid="ref-29">Lingnau &amp; Bastos, 2007</xref>).</p>
+         <p>Although we could not verify this from previous studies (they analyzed data based on species, not locality/population; (<xref ref-type="bibr" rid="ref-36">Park, Jeong &amp; Jang, 2013</xref>; <xref ref-type="bibr" rid="ref-4">Borzée et al., 2020</xref>), our results did reveal some atypical variations in the high frequency of call properties. The high frequency of the Iksan (S) and Wanju (S) populations was approximately double that of the Gunsan (S) population. Similarly, the high frequency of the Eumseong (N) population was approximately double that of the Pyeongtaek (N) population. However, <xref ref-type="bibr" rid="ref-36">Park, Jeong &amp; Jang (2013)</xref> did not find any significant influence of temperature and humidity on the call properties of <italic>D. japonica</italic> and <italic>D. suweonensis</italic> s.l., which is also supported by our personal data (unpublished). Notably, the Iksan (S), Wanju (S), and Eumseong (N) populations were close to the highway, where there was a constant loud sound of vehicles driving by, and the environmental conditions in all localities were almost similar. Thus, we believe this abnormality might be attributed to noise pollution, a phenomenon that has also been reported in other animals (<italic>e.g.</italic>, <xref ref-type="bibr" rid="ref-31">Nemeth et al., 2013</xref>).</p>
+      </sec>
+      <sec>
+         <title>Conclusion</title>
+         <p>Our study revealed an irregular pattern of call properties among populations of <italic>D. suweonensis</italic> s.l., a phenomenon commonly observed in many other amphibians. In addition, the call properties did not follow any specific pattern when considering the populations divided by CM. Considering the goal of this study was only to observe the call properties, we cautiously conclude that the call properties of <italic>D. suweonensis</italic> s.l. likely represent variations at the populations and do not reflect the species-level variations. Thus, we urge further investigation into the specific status of <italic>D. flaviventris</italic> using robust integrated taxonomic approaches including genetic and morphological parameters from a broader array of localities.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title>Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16492/Appendix_1.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16492/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title><italic>Post hoc</italic> Tukey (HSD) tests of PC1 and PC2 for call properties of <italic>Dryopytes sweonensis</italic> sensu lato across different localities</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16492/Raw_data_Tree_frog_calls.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16492/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Raw data</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We extend our gratitude to all lab members who helped in the field work.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Md Mizanur Rahman</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Jiyoung Yun</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">KaHyun Lee</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Seung-Ha Lee</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Seung-Min Park</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-6" fn-type="con"><p><xref ref-type="contrib" rid="author-6">Choong-Ho Ham</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-7" fn-type="con"><p><xref ref-type="contrib" rid="author-7">Ha-Cheol Sung</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Field Study Permissions</title><fn id="addinfo-1"><p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+            <p>We did not require permits as we only recorded the calls and did not catch the individuals.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-2"><p>The following information was supplied regarding data availability:</p>
+            <p>The call parameters of <italic>D. suweonensis sensu</italic> lato populations from five localities are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental File</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>AmphibiaWeb (2023)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>AmphibiaWeb</collab>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>amphibiaweb.org</article-title>
+               <uri>https://amphibiaweb.org/</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2023-09-13">13 September 2023</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Becker et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Becker</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                  <name>
+                     <surname>Fonseca</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Haddad</surname>
+                     <given-names>CFB</given-names>
+                  </name>
+                  <name>
+                     <surname>Batista</surname>
+                     <given-names>RF</given-names>
+                  </name>
+                  <name>
+                     <surname>Prado</surname>
+                     <given-names>PI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Habitat split and the global decline of amphibians</article-title>
+               <source>Science</source>
+               <volume>318</volume>
+               <fpage>1775</fpage>
+               <lpage>1777</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.1149374</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Becker &amp; Loyola (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Becker</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                  <name>
+                     <surname>Loyola</surname>
+                     <given-names>RD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Extinction risk assessments at the population and species level: implications for amphibian conservation</article-title>
+               <source>Biodiversity and Conservation</source>
+               <volume>17</volume>
+               <fpage>2297</fpage>
+               <lpage>2304</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10531-007-9298-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Borzée et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Borzée</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Messenger</surname>
+                     <given-names>KR</given-names>
+                  </name>
+                  <name>
+                     <surname>Chae</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Andersen</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Groffen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>YI</given-names>
+                  </name>
+                  <name>
+                     <surname>An</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Othman</surname>
+                     <given-names>SN</given-names>
+                  </name>
+                  <name>
+                     <surname>Ri</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Nam</surname>
+                     <given-names>TY</given-names>
+                  </name>
+                  <name>
+                     <surname>Bae</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Ren</surname>
+                     <given-names>J-L</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>J-T</given-names>
+                  </name>
+                  <name>
+                     <surname>Chuang</surname>
+                     <given-names>M-F</given-names>
+                  </name>
+                  <name>
+                     <surname>Yi</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Shin</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Kwon</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Jang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Min</surname>
+                     <given-names>M-S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Yellow sea mediated segregation between North East Asian <italic>Dryophytes</italic> species. Lin S-M (Ed.)</article-title>
+               <source>PLOS ONE</source>
+               <volume>15</volume>
+               <elocation-id>e0234299</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0234299</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Briggs (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Briggs</surname>
+                     <given-names>VS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Call trait variation in Morelett’s Tree Frog, Agalychnis moreletii, of Belize</article-title>
+               <source>Herpetologica</source>
+               <volume>66</volume>
+               <fpage>241</fpage>
+               <lpage>249</lpage>
+               <pub-id pub-id-type="doi">10.1655/herpetologica-d-09-00011.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Burraco et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Burraco</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Orizaola</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Monaghan</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Metcalfe</surname>
+                     <given-names>NB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Climate change and ageing in ectotherms</article-title>
+               <source>Global Change Biology</source>
+               <volume>26</volume>
+               <fpage>5371</fpage>
+               <lpage>5381</lpage>
+               <pub-id pub-id-type="doi">10.1111/gcb.15305</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Campbell et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Campbell</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Voyles</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Cook</surname>
+                     <given-names>DI</given-names>
+                  </name>
+                  <name>
+                     <surname>Dinudom</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Frog skin epithelium: electrolyte transport and chytridiomycosis</article-title>
+               <source>The International Journal of Biochemistry &amp; Cell Biology</source>
+               <volume>44</volume>
+               <fpage>431</fpage>
+               <lpage>434</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biocel.2011.12.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Cohen et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cohen</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Civitello</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Venesky</surname>
+                     <given-names>MD</given-names>
+                  </name>
+                  <name>
+                     <surname>McMahon</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name>
+                     <surname>Rohr</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>An interaction between climate change and infectious disease drove widespread amphibian declines</article-title>
+               <source>Global Change Biology</source>
+               <volume>25</volume>
+               <fpage>927</fpage>
+               <lpage>937</lpage>
+               <pub-id pub-id-type="doi">10.1111/gcb.14489</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Cushman (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cushman</surname>
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Effects of habitat loss and fragmentation on amphibians: a review and prospectus</article-title>
+               <source>Biological Conservation</source>
+               <volume>128</volume>
+               <fpage>231</fpage>
+               <lpage>240</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biocon.2005.09.031</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Dawson &amp; Ryan (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dawson</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Ryan</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Early experience leads to changes in the advertisement calls of male <italic>Physalaemus pustulosus</italic></article-title>
+               <source>Copeia</source>
+               <volume>2009</volume>
+               <fpage>221</fpage>
+               <lpage>226</lpage>
+               <pub-id pub-id-type="doi">10.1643/ce-07-254</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Dawson et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dawson</surname>
+                     <given-names>TP</given-names>
+                  </name>
+                  <name>
+                     <surname>Jackson</surname>
+                     <given-names>ST</given-names>
+                  </name>
+                  <name>
+                     <surname>House</surname>
+                     <given-names>JI</given-names>
+                  </name>
+                  <name>
+                     <surname>Prentice</surname>
+                     <given-names>IC</given-names>
+                  </name>
+                  <name>
+                     <surname>Mace</surname>
+                     <given-names>GM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Beyond predictions: biodiversity conservation in a changing climate</article-title>
+               <source>Science</source>
+               <volume>332</volume>
+               <fpage>53</fpage>
+               <lpage>58</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.1200303</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Decena et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Decena</surname>
+                     <given-names>SCP</given-names>
+                  </name>
+                  <name>
+                     <surname>Avorque</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                  <name>
+                     <surname>Decena</surname>
+                     <given-names>ICP</given-names>
+                  </name>
+                  <name>
+                     <surname>Asis</surname>
+                     <given-names>PD</given-names>
+                  </name>
+                  <name>
+                     <surname>Pacle</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Impact of habitat alteration on amphibian diversity and species composition in a lowland tropical rainforest in Northeastern Leyte, Philippines</article-title>
+               <source>Scientific Reports</source>
+               <volume>10</volume>
+               <fpage>10547</fpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-020-67512-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Duellman (1970)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Duellman</surname>
+                     <given-names>WE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1970">1970</year>
+               <source>The hylid frogs of Middle America</source>
+               <publisher-name>Monographs of the Museum of Natural History of the University of Kansas</publisher-name>
+               <publisher-loc>Lawrence</publisher-loc>
+               <fpage>53</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Falaschi et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Falaschi</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Melotto</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Manenti</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Ficetola</surname>
+                     <given-names>GF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Invasive species and amphibian conservation</article-title>
+               <source>Herpetologica</source>
+               <volume>76</volume>
+               <fpage>216</fpage>
+               <pub-id pub-id-type="doi">10.1655/0018-0831-76.2.216</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Forti, Lingnau &amp; Bertoluci (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Forti</surname>
+                     <given-names>LR</given-names>
+                  </name>
+                  <name>
+                     <surname>Lingnau</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Bertoluci</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Acoustic variation in the advertisement call of the Lime treefrog <italic>Sphaenorhynchus caramaschii</italic> (Anura: Hylidae)</article-title>
+               <source>Vertebrate Zoology</source>
+               <volume>67</volume>
+               <fpage>197</fpage>
+               <lpage>205</lpage>
+               <pub-id pub-id-type="doi">10.3897/vz.67.e31586</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Forti, Marquez &amp; Bertoluci (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Forti</surname>
+                     <given-names>LR</given-names>
+                  </name>
+                  <name>
+                     <surname>Marquez</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Bertoluci</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Advertisement call of <italic>Dendropsophus microps</italic> (Anura: Hylidae) from two populations from southeastern Brazil</article-title>
+               <source>Zoologia (Curitiba)</source>
+               <volume>32</volume>
+               <fpage>187</fpage>
+               <lpage>194</lpage>
+               <pub-id pub-id-type="doi">10.1590/s1984-46702015000300002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Forti, Martins &amp; Bertoluci (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Forti</surname>
+                     <given-names>LR</given-names>
+                  </name>
+                  <name>
+                     <surname>Martins</surname>
+                     <given-names>FAM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bertoluci</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Advertisement call and geographical variation in call features of <italic>Dendropsophus berthalutzae</italic> (Anura: Hylidae) from the Atlantic Rainforest of southeastern Brazil</article-title>
+               <source>Zootaxa</source>
+               <volume>3310</volume>
+               <fpage>66</fpage>
+               <lpage>68</lpage>
+               <pub-id pub-id-type="doi">10.11646/zootaxa.3310.1.3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Forti, Strüssmann &amp; Mott (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Forti</surname>
+                     <given-names>LR</given-names>
+                  </name>
+                  <name>
+                     <surname>Strüssmann</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Mott</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Acoustic communication and vocalization microhabitat in <italic>Ameerega braccata</italic> (Steindachner, 1864) (Anura, Dendrobatidae) from Midwestern Brazil</article-title>
+               <source>Brazilian Journal of Biology</source>
+               <volume>70</volume>
+               <fpage>211</fpage>
+               <lpage>216</lpage>
+               <pub-id pub-id-type="doi">10.1590/s1519-69842010000100029</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Grant et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Grant</surname>
+                     <given-names>EHC</given-names>
+                  </name>
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>DAW</given-names>
+                  </name>
+                  <name>
+                     <surname>Schmidt</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Adams</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Amburgey</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Chambert</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Cruickshank</surname>
+                     <given-names>SS</given-names>
+                  </name>
+                  <name>
+                     <surname>Fisher</surname>
+                     <given-names>RN</given-names>
+                  </name>
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Hossack</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>PTJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Joseph</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                  <name>
+                     <surname>Rittenhouse</surname>
+                     <given-names>TAG</given-names>
+                  </name>
+                  <name>
+                     <surname>Ryan</surname>
+                     <given-names>ME</given-names>
+                  </name>
+                  <name>
+                     <surname>Waddle</surname>
+                     <given-names>JH</given-names>
+                  </name>
+                  <name>
+                     <surname>Walls</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Bailey</surname>
+                     <given-names>LL</given-names>
+                  </name>
+                  <name>
+                     <surname>Fellers</surname>
+                     <given-names>GM</given-names>
+                  </name>
+                  <name>
+                     <surname>Gorman</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ray</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Pilliod</surname>
+                     <given-names>DS</given-names>
+                  </name>
+                  <name>
+                     <surname>Price</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Saenz</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Sadinski</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Muths</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Quantitative evidence for the effects of multiple drivers on continental-scale amphibian declines</article-title>
+               <source>Scientific Reports</source>
+               <volume>6</volume>
+               <fpage>25625</fpage>
+               <pub-id pub-id-type="doi">10.1038/srep25625</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Grimm et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Grimm</surname>
+                     <given-names>NB</given-names>
+                  </name>
+                  <name>
+                     <surname>Faeth</surname>
+                     <given-names>SH</given-names>
+                  </name>
+                  <name>
+                     <surname>Golubiewski</surname>
+                     <given-names>NE</given-names>
+                  </name>
+                  <name>
+                     <surname>Redman</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Bai</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Briggs</surname>
+                     <given-names>JM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Global change and the ecology of cities</article-title>
+               <source>Science</source>
+               <volume>319</volume>
+               <fpage>756</fpage>
+               <lpage>760</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.1150195</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Hepp, Lourenco &amp; Pombal Jr (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hepp</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Lourenco</surname>
+                     <given-names>ACC</given-names>
+                  </name>
+                  <name>
+                     <surname>Pombal Jr</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Bioacoustics of four <italic>Scinax</italic> species and a review of acoustic traits in the <italic>Scinax catharinae</italic> species group (Amphibia: Anura: Hylidae)</article-title>
+               <source>Salamandra</source>
+               <volume>53</volume>
+               <fpage>212</fpage>
+               <lpage>230</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>IUCN (2023)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>IUCN</collab>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <data-title>The IUCN red list of threatened species</data-title>
+               <version designator="2023-1">Version 2023-1</version>
+               <uri>https://www.iucnredlist.org</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2023-06-12">12 June 2023</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Kaefer &amp; Lima (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kaefer</surname>
+                     <given-names>IL</given-names>
+                  </name>
+                  <name>
+                     <surname>Lima</surname>
+                     <given-names>AP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Sexual signals of the Amazonian frog <italic>Allobates paleovarzensis</italic>: geographic variation and stereotypy of acoustic traits</article-title>
+               <source>Behaviour</source>
+               <volume>149</volume>
+               <fpage>15</fpage>
+               <lpage>33</lpage>
+               <pub-id pub-id-type="doi">10.1163/156853912x623757</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Kaefer, Tsuji-Nishikido &amp; Lima (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kaefer</surname>
+                     <given-names>IL</given-names>
+                  </name>
+                  <name>
+                     <surname>Tsuji-Nishikido</surname>
+                     <given-names>BM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lima</surname>
+                     <given-names>AP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Beyond the river: underlying determinants of population acoustic signal variability in Amazonian direct-developing <italic>Allobates</italic> (Anura: Dendrobatoidea)</article-title>
+               <source>Acta Ethologica</source>
+               <volume>15</volume>
+               <fpage>187</fpage>
+               <lpage>194</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10211-012-0126-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Kelley (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kelley</surname>
+                     <given-names>DB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Vocal communication in frogs</article-title>
+               <source>Current Opinion in Neurobiology</source>
+               <volume>14</volume>
+               <fpage>751</fpage>
+               <lpage>757</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.conb.2004.10.015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Kohler et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kohler</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Jansen</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodriguez</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kok</surname>
+                     <given-names>PJR</given-names>
+                  </name>
+                  <name>
+                     <surname>Toledo</surname>
+                     <given-names>LF</given-names>
+                  </name>
+                  <name>
+                     <surname>Emmrich</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Glaw</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Haddad</surname>
+                     <given-names>CFB</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodel</surname>
+                     <given-names>M-O</given-names>
+                  </name>
+                  <name>
+                     <surname>Vences</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>The use of bioacoustics in anuran taxonomy: theory, terminology, methods and recommendations for best practice</article-title>
+               <source>Zootaxa</source>
+               <volume>4251</volume>
+               <fpage>001</fpage>
+               <lpage>124</lpage>
+               <pub-id pub-id-type="doi">10.11646/zootaxa.4251.1.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Li, Cohen &amp; Rohr (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Cohen</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Rohr</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Review and synthesis of the effects of climate change on amphibians</article-title>
+               <source>Integrative Zoology</source>
+               <volume>8</volume>
+               <fpage>145</fpage>
+               <lpage>161</lpage>
+               <pub-id pub-id-type="doi">10.1111/1749-4877.12001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Lingnau &amp; Bastos (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lingnau</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Bastos</surname>
+                     <given-names>RP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Vocalizations of the Brazilian torrent frog <italic>Hylodes heyeri</italic> (Anura: Hylodidae): Repertoire and influence of air temperature on advertisement call variation</article-title>
+               <source>Journal of Natural History</source>
+               <volume>41</volume>
+               <fpage>1227</fpage>
+               <lpage>1235</lpage>
+               <pub-id pub-id-type="doi">10.1080/00222930701395626</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>McLister, Stevens &amp; Bogart (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McLister</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Stevens</surname>
+                     <given-names>ED</given-names>
+                  </name>
+                  <name>
+                     <surname>Bogart</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Comparative contractile dynamics of calling and locomotor muscles in three hylid frogs</article-title>
+               <source>Journal of Experimental Biology</source>
+               <volume>198</volume>
+               <issue>7</issue>
+               <fpage>1527</fpage>
+               <lpage>1538</lpage>
+               <pub-id pub-id-type="doi">10.1242/jeb.198.7.1527</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Natale et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Natale</surname>
+                     <given-names>GS</given-names>
+                  </name>
+                  <name>
+                     <surname>Alcalde</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Herrera</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Cajade</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Schaefer</surname>
+                     <given-names>EF</given-names>
+                  </name>
+                  <name>
+                     <surname>Marangoni</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Trudeau</surname>
+                     <given-names>VL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Underwater acoustic communication in the macrophagic carnivorous larvae of <italic>Ceratophrys ornata</italic> (Anura: Ceratophryidae)</article-title>
+               <source>Acta Zoologica</source>
+               <volume>92</volume>
+               <fpage>46</fpage>
+               <lpage>53</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1463-6395.2009.00445.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Nemeth et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nemeth</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Pieretti</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Zollinger</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Geberzahn</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Partecke</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Miranda</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Brumm</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Bird song and anthropogenic noise: vocal constraints may explain why birds sing higher-frequency songs in cities</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>280</volume>
+               <elocation-id>20122798</elocation-id>
+               <pub-id pub-id-type="doi">10.1098/rspb.2012.2798</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Nneji et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nneji</surname>
+                     <given-names>LM</given-names>
+                  </name>
+                  <name>
+                     <surname>Adeola</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Adedeji</surname>
+                     <given-names>BE</given-names>
+                  </name>
+                  <name>
+                     <surname>Olatunde</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Onadeko</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Eniang</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayoola</surname>
+                     <given-names>AO</given-names>
+                  </name>
+                  <name>
+                     <surname>Adeniyi</surname>
+                     <given-names>AV</given-names>
+                  </name>
+                  <name>
+                     <surname>Okeyoyin</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Oladipo</surname>
+                     <given-names>SO</given-names>
+                  </name>
+                  <name>
+                     <surname>Usongo</surname>
+                     <given-names>JY</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Andem</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Nneji</surname>
+                     <given-names>IC</given-names>
+                  </name>
+                  <name>
+                     <surname>Ugwumba</surname>
+                     <given-names>OA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ugwumba</surname>
+                     <given-names>AAA</given-names>
+                  </name>
+                  <name>
+                     <surname>Adeyi</surname>
+                     <given-names>AO</given-names>
+                  </name>
+                  <name>
+                     <surname>Olory</surname>
+                     <given-names>CS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Species richness, distribution pattern, and conservation status of amphibians in Cross River National Park, south-eastern Nigeria</article-title>
+               <source>Biologia</source>
+               <volume>76</volume>
+               <fpage>2573</fpage>
+               <lpage>2588</lpage>
+               <pub-id pub-id-type="doi">10.1007/s11756-021-00751-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Nunes et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nunes</surname>
+                     <given-names>AL</given-names>
+                  </name>
+                  <name>
+                     <surname>Fill</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Davies</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Louw</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Rebelo</surname>
+                     <given-names>AD</given-names>
+                  </name>
+                  <name>
+                     <surname>Thorp</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Vimercati</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Measey</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>A global meta-analysis of the ecological impacts of alien species on native amphibians</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>286</volume>
+               <elocation-id>20182528</elocation-id>
+               <pub-id pub-id-type="doi">10.1098/rspb.2018.2528</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Park et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>H-R</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>S-M</given-names>
+                  </name>
+                  <name>
+                     <surname>Choi</surname>
+                     <given-names>J-H</given-names>
+                  </name>
+                  <name>
+                     <surname>Kang</surname>
+                     <given-names>H-J</given-names>
+                  </name>
+                  <name>
+                     <surname>Sung</surname>
+                     <given-names>H-C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Risk assessment for the native anurans from an alien invasive species, American bullfrogs (<italic>Lithobates catesbeianus</italic>), in South Korea</article-title>
+               <source>Scientific Reports</source>
+               <volume>12</volume>
+               <fpage>13143</fpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-022-17226-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Park, Cheong &amp; Yang (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Cheong</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>SY</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Call types of Dybowski’s brown frog and their variations from two recording areas</article-title>
+               <source>Korean Journal of Ecology</source>
+               <volume>23</volume>
+               <fpage>309</fpage>
+               <lpage>313</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Park, Jeong &amp; Jang (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jeong</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Jang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>No reproductive character displacement in male advertisement signals of <italic>Hyla japonica</italic> in relation to the sympatric <italic>H. suweonensis</italic></article-title>
+               <source>Behavioral Ecology and Sociobiology</source>
+               <volume>67</volume>
+               <fpage>1345</fpage>
+               <lpage>1355</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00265-013-1563-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Park &amp; Yang (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>SY</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Mating call structure and variation of the frog <italic>Rana nigromaculata</italic></article-title>
+               <source>Korean Journal of Ecology</source>
+               <volume>21</volume>
+               <fpage>269</fpage>
+               <lpage>276</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Porter (1965)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Porter</surname>
+                     <given-names>KR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1965">1965</year>
+               <article-title>Intraspecific variation in mating call of <italic>Bufo coccifer</italic> Cope</article-title>
+               <source>American Midland Naturalist</source>
+               <volume>74</volume>
+               <fpage>350</fpage>
+               <pub-id pub-id-type="doi">10.2307/2423265</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Rahman (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Impact of temperature fluctuations on gut histology of the Cricket frog, Fejervarya limnocharis (Anura: Dicroglossidae)</article-title>
+               <source>Journal of Bio-Science</source>
+               <volume>22</volume>
+               <fpage>15</fpage>
+               <lpage>20</lpage>
+               <pub-id pub-id-type="doi">10.3329/jbs.v22i0.30004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Rahman et al. (2020a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>YH</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>HM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lwin</surname>
+                     <given-names>YH</given-names>
+                  </name>
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>RW</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>GG</given-names>
+                  </name>
+                  <name>
+                     <surname>Che</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020a</year>
+               <article-title>New country records for three species of frog from Myanmar including two genera (<italic>Nasutixalus</italic> and <italic>Oreolalax</italic>)</article-title>
+               <source>Zootaxa</source>
+               <volume>4742</volume>
+               <fpage>531</fpage>
+               <lpage>542</lpage>
+               <pub-id pub-id-type="doi">10.11646/zootaxa.4742.3.7</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Rahman et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Khederzadeh</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Yasmin</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>ZU</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Islam</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Mostafa</surname>
+                     <given-names>MG</given-names>
+                  </name>
+                  <name>
+                     <surname>Hossain</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Recent research, aspects and conservation strategy towards amphibians of Bangladesh</article-title>
+               <source>International Journal of Biosciences</source>
+               <volume>15</volume>
+               <issue>6</issue>
+               <fpage>137</fpage>
+               <lpage>151</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Rahman et al. (2020b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Nneji</surname>
+                     <given-names>LM</given-names>
+                  </name>
+                  <name>
+                     <surname>Adeniyi</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Eniang</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>Oladipo</surname>
+                     <given-names>SO</given-names>
+                  </name>
+                  <name>
+                     <surname>Olatunde</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Onadeko</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Kilunda</surname>
+                     <given-names>FK</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayoola</surname>
+                     <given-names>AO</given-names>
+                  </name>
+                  <name>
+                     <surname>Adedeji</surname>
+                     <given-names>BE</given-names>
+                  </name>
+                  <name>
+                     <surname>Nneji</surname>
+                     <given-names>IC</given-names>
+                  </name>
+                  <name>
+                     <surname>Akwaowo</surname>
+                     <given-names>NU</given-names>
+                  </name>
+                  <name>
+                     <surname>Ugwumba</surname>
+                     <given-names>AAA</given-names>
+                  </name>
+                  <name>
+                     <surname>Jin</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Yin</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Peng</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Olory</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Eninekit</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Che</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020b</year>
+               <article-title>Amphibian assemblages and diversity patterns in two forest ecosystems of South-Eastern Nigeria</article-title>
+               <source>African Journal of Ecology</source>
+               <volume>58</volume>
+               <fpage>815</fpage>
+               <lpage>827</lpage>
+               <pub-id pub-id-type="doi">10.1111/aje.12776</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Rahman et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Nneji</surname>
+                     <given-names>LM</given-names>
+                  </name>
+                  <name>
+                     <surname>Hossain</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Nishikawa</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Habib</surname>
+                     <given-names>KA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Diversity and distribution of amphibians in central and northwest Bangladesh, with an updated checklist for the country</article-title>
+               <source>Journal of Asia-Pacific Biodiversity</source>
+               <volume>15</volume>
+               <fpage>147</fpage>
+               <lpage>156</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.japb.2021.12.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Ryan &amp; Rand (2001)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ryan</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Rand</surname>
+                     <given-names>AS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Feature weighting in signal recognition and discrimination by túngara frogs</article-title>
+               <source>Anuran communication</source>
+               <publisher-name>Smithsonian Institution</publisher-name>
+               <publisher-loc>Washington</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Ryan</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+               </person-group>
+               <fpage>86</fpage>
+               <lpage>101</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Sanchez et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sanchez</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Biju</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Islam</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Hassan</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ohler</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Vences</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kurabayasi</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Phylogeny and classification of fejervaryan frogs (Anura: Dicroglossidae)</article-title>
+               <source>Salamandra</source>
+               <volume>54</volume>
+               <fpage>109</fpage>
+               <lpage>116</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Scheele et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scheele</surname>
+                     <given-names>BC</given-names>
+                  </name>
+                  <name>
+                     <surname>Pasmans</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Skerratt</surname>
+                     <given-names>LF</given-names>
+                  </name>
+                  <name>
+                     <surname>Berger</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Martel</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Beukema</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Acevedo</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>Burrowes</surname>
+                     <given-names>PA</given-names>
+                  </name>
+                  <name>
+                     <surname>Carvalho</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Catenazzi</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>De la Riva</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Fisher</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Flechas</surname>
+                     <given-names>SV</given-names>
+                  </name>
+                  <name>
+                     <surname>Foster</surname>
+                     <given-names>CN</given-names>
+                  </name>
+                  <name>
+                     <surname>Frías-Álvarez</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Garner</surname>
+                     <given-names>TWJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Gratwicke</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Guayasamin</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Hirschfeld</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kolby</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Kosch</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name>
+                     <surname>Marca</surname>
+                     <given-names>ELa</given-names>
+                  </name>
+                  <name>
+                     <surname>Lindenmayer</surname>
+                     <given-names>DB</given-names>
+                  </name>
+                  <name>
+                     <surname>Lips</surname>
+                     <given-names>KR</given-names>
+                  </name>
+                  <name>
+                     <surname>Longo</surname>
+                     <given-names>AV</given-names>
+                  </name>
+                  <name>
+                     <surname>Maneyro</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>McDonald</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                  <name>
+                     <surname>Mendelson</surname>
+                     <given-names>JIII</given-names>
+                  </name>
+                  <name>
+                     <surname>Palacios-Rodriguez</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Parra-Olea</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Richards-Zawacki</surname>
+                     <given-names>CL</given-names>
+                  </name>
+                  <name>
+                     <surname>Rödel</surname>
+                     <given-names>M-O</given-names>
+                  </name>
+                  <name>
+                     <surname>Rovito</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Soto-Azat</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Toledo</surname>
+                     <given-names>LF</given-names>
+                  </name>
+                  <name>
+                     <surname>Voyles</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Weldon</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Whitfield</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilkinson</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Zamudio</surname>
+                     <given-names>KR</given-names>
+                  </name>
+                  <name>
+                     <surname>Canessa</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity</article-title>
+               <source>Science</source>
+               <volume>363</volume>
+               <fpage>1459</fpage>
+               <lpage>1463</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.aav0379</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Snowdon (2011)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Snowdon</surname>
+                     <given-names>CT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Comunicacão</article-title>
+               <source>Comportamento animal</source>
+               <publisher-name>EDUFRN</publisher-name>
+               <publisher-loc>Natal, RN</publisher-loc>
+               <edition designator="2">2a edicão</edition>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Turin, Nali &amp; Prado (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Turin</surname>
+                     <given-names>RAF</given-names>
+                  </name>
+                  <name>
+                     <surname>Nali</surname>
+                     <given-names>RC</given-names>
+                  </name>
+                  <name>
+                     <surname>Prado</surname>
+                     <given-names>CPA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Intraspecific call variation in a Neotropical gladiator frog with a complex advertisement call</article-title>
+               <source>Amphibia-Reptilia</source>
+               <volume>39</volume>
+               <fpage>31</fpage>
+               <lpage>39</lpage>
+               <pub-id pub-id-type="doi">10.1163/15685381-00003147</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Velasquez (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Velasquez</surname>
+                     <given-names>NA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Geographic variation in acoustic communication in anurans and its neuroethological implications</article-title>
+               <source>Journal of Physiology-Paris</source>
+               <volume>108</volume>
+               <fpage>167</fpage>
+               <lpage>173</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jphysparis.2014.10.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Vences et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vences</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hutter</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Glaw</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Rakotoarison</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Raselimanan</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Scherz</surname>
+                     <given-names>MD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>A new species of Pandanus-dwelling frog from northern Madagascar related to Guibemantis pulcher</article-title>
+               <source>Zootaxa</source>
+               <volume>5306</volume>
+               <issue>1</issue>
+               <fpage>97</fpage>
+               <lpage>115</lpage>
+               <pub-id pub-id-type="doi">10.11646/zootaxa.5306.1.4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Wells (2007)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wells</surname>
+                     <given-names>KD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <source>The ecology and behavior of amphibians</source>
+               <publisher-name>The University of Chicago Press</publisher-name>
+               <publisher-loc>Chicago and London</publisher-loc>
+               <fpage>1148</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Wells &amp; Schwartz (2007)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wells</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Schwartz</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>The behavioral ecology of anuran communication</article-title>
+               <source>Hearing and sound communication in amphibians</source>
+               <publisher-name>Springer</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Narins</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Feng</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <fpage>57</fpage>
+               <lpage>99</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Wong et al. (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wong</surname>
+                     <given-names>BBM</given-names>
+                  </name>
+                  <name>
+                     <surname>Cowling</surname>
+                     <given-names>ANN</given-names>
+                  </name>
+                  <name>
+                     <surname>Cunningham</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                  <name>
+                     <surname>Donnelly</surname>
+                     <given-names>CF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Do temperature and social environment interact to affect call rate in frogs (<italic>Crinia signifera</italic>)?</article-title>
+               <source>Austral Ecology</source>
+               <volume>29</volume>
+               <fpage>209</fpage>
+               <lpage>214</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1442-9993.2004.01338.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Zhao et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhao</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Jiang</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Xie</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhao</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Assessment of amphibians vulnerability to climate change in China</article-title>
+               <source>Frontiers in Ecology and Evolution</source>
+               <volume>10</volume>
+               <elocation-id>826910</elocation-id>
+               <pub-id pub-id-type="doi">10.3389/fevo.2022.826910</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

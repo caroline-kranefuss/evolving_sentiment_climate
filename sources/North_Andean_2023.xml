@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16565</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16565</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Biodiversity</subject>
+<subject>Biogeography</subject>
+<subject>Conservation Biology</subject>
+<subject>Ecology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Phylogenetic diversity and North Andean block conservation</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" equal-contrib="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-7518-0099</contrib-id>
+<name name-style="western">
+<surname>Leon-Alvarado</surname>
+<given-names>Omar Daniel</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author" corresp="yes" equal-contrib="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-9913-7685</contrib-id>
+<name name-style="western">
+<surname>Miranda-Esquivel</surname>
+<given-names>Daniel R.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>dmiranda@uis.edu.co</email>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>Laboratorio de Sistemática y Biogeografía, Escuela de Biología, Facultad de Ciencias, Universidad Industrial de Santander</institution>, <addr-line>Bucaramanga, Santander</addr-line>, <country>Colombia</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Laboratorio de Sistematica, Entomologia e Biogeografia, Programa de Pós-graduação em Biodiversidade Animal, Universidade Federal de Santa Maria</institution>, <addr-line>Santa Maria, Rio Grande do Sul</addr-line>, <country>Brasil</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Edwards</surname>
+<given-names>Scott</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-06"><day>6</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16565</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-05-17"><day>17</day><month>5</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-12"><day>12</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Leon-Alvarado and Miranda-Esquivel</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Leon-Alvarado and Miranda-Esquivel</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16565"/>
+<abstract>
+<sec>
+<title>Background</title>
+<p>The Northern Andean Block (NAB) harbors high biodiversity; therefore, it is one of the most important areas in the Neotropics. Nevertheless, the settlement of several human populations has triggered the rapid transformation of ecosystems, leading to the extinction or endangerment of many species.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>Because phylogenetic diversity indices quantify the historical distinctness between species, they are adequate tools for evaluating priority conservation areas. We reconstructed 93 phylogenies encompassing 1,252 species and, utilizing their occurrence data sourced from the Global Biodiversity Information Facility, computed the Average Taxonomic Distinctness Index (AvTD) for each grid cell with a spatial resolution of 0.25° within the NAB. The index values for each grid cell were categorized into quantiles, and grid cells displaying values within the upper quantile (Q5) were identified as the most significant in terms of phylogenetic diversity. We also calculated the contribution of endemic species to overall phylogenetic diversity within the NAB, specifically focusing on areas preserved within protected areas.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>The NAB Andean region exhibited the highest AvTD, with high AvTD values observed in the middle and southern areas of Cordilleras. Endemic species made a relatively modest contribution to the overall phylogenetic diversity of the NAB, accounting for only 1.2% of the total. Despite their relatively small geographical footprints, protected areas within the NAB have emerged as crucial repositories of biodiversity, encompassing 40% of the total phylogenetic diversity in the region.</p>
+</sec>
+<sec>
+<title>Discussion</title>
+<p>Although the NAB Andean region has been identified as the most crucial area in terms of AvTD, some regions in the Amazonian Piedemonte and Pacific lowlands have high AvTD levels. Interestingly, some protected areas have been found to harbor higher AvTDs than expected, given their smaller size. Although the delimitation of new PAs and species richness have been the primary factors driving the expansion of PAs, it is also essential to consider the evolutionary information of species to conserve all aspects of biodiversity, or at least cover most of them. Therefore, using phylogenetic diversity measures and the results of this study can contribute to expanding the PA network and improving the connectivity between PAs. This approach will help conserve different aspects of biodiversity and preserve evolutionary relationships between species.</p>
+</sec>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>North Andean block</kwd>
+<kwd>Phylogenetic diversity</kwd>
+<kwd>Conservation</kwd>
+<kwd>Evolutionary distinctiveness</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>Daniel R Miranda-Esquivel received funding support from the following sources to purchase computational equipment, maintenance, and furniture: ‘Una expedición para reducir el déficit de conocimiento en biodiversidad a una escala regional en Santander, Colombia.’ Código: 1102-866-75870 fondo nacional de financiamiento para la ciencia, la tecnología y la innovación Francisco José de Caldas, Ministerio de Ciencia, Tecnología e Innovación de Colombia – Colombia Bio (VIE-UIS 8034), and ‘Inventario de la diversidad biológica en una región del sur de Bolívar, Colombia’ (VIEUIS 8867), Ministerio de Ciencia, Tecnología e Innovación, Ministerio de Educación Nacional, Ministerio de Industria, Comercio y Turismo, and ICETEX, Programa Ecosistema Científico-Colombia Científica from Fondo Francisco José de Caldas, Grant RC-FP44842212-2018. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>The Northern Andean Block (NAB) is a tectonic subplate spanning northeastern Ecuador, Pacific, Caribbean, and Andean regions of Colombia and Venezuelan Andes (<xref ref-type="bibr" rid="ref-26">Kellogg et al., 1995</xref>; <xref ref-type="bibr" rid="ref-4">Bird, 2003</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). It boasts numerous species, making it one of the most essential areas in the Neotropics (<xref ref-type="bibr" rid="ref-31">Myers, 1988</xref>; <xref ref-type="bibr" rid="ref-32">Myers et al., 2000</xref>; <xref ref-type="bibr" rid="ref-30">Mittermeier, Myers &amp; Mittermeier, 2002</xref>). Its varied climate and resource availability have fostered human settlements over time, turning the NAB into one of the most populated regions in South America (<xref ref-type="bibr" rid="ref-22">Goldewijk, 2005</xref>). However, rapid ecosystem transformations have driven the endangerment of many plant and animal species (extinct: 17 species; extinct in the wild: seven species; critically endangered: 496 species; endangered: 1,110 species; data from the IUCN website as of April 14, 2022). Thus, protected areas (PAs) have arisen as an initiative for conservation purposes, with ecological indices used as the primary criteria for their delimitation (<italic>e.g</italic>., PNN Bahia Portete-Kaurrele; <xref ref-type="bibr" rid="ref-14">Diaz-Pulido, 2000</xref>; <xref ref-type="bibr" rid="ref-15">Diaz-Pulido &amp; Díaz-Ruíz, 2003</xref>). However, this approach does not consider the history and evolutionary information contained in a phylogeny (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>), implying that critical evolutionary information about species in the area has not been considered in conservation decisions.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16565/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>The North Andean Block (NAB).</title>
+<p>(A) Main geographic regions: Sierra Nevada de Santa Marta (SNM), Serranía del Perijá (SPJ), Cordillera de Merida (MC), Eastern Cordillera (EsC), Central Cordillera (CeC), Western Cordillera (WeC), Nudo de los Pastos (NdP), Ecuadorian Western Cordillera (EWC), Ecuadorian Eastern Cordillera (EEC), Caribbean Valley (CaV), Depresión de Maracaibo (MD), Falcón-Lara region (F-L), Llanos Piedemonte (LlP), Amazonia Piedemonte (AmP), Pacific Lowlands (PaL), Cauca Valley (CcV), and Magdalena Valley (MaV). (B) The protected areas from WDPA used in this study.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16565/fig-1.png"/>
+</fig>
+<p>From an evolutionary perspective, it is crucial to consider the distinction between species when prioritizing conservation areas. One way to accomplish this is to use phylogenetic diversity indices that evaluate the distinctness between species by quantifying the information contained in a topology (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>; <xref ref-type="bibr" rid="ref-48">Schweiger et al., 2008</xref>). These indices can also be used to compare phylogenetic values in different areas (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-35">Posadas, Miranda-Esquivel &amp; Crisci, 2001</xref>; <xref ref-type="bibr" rid="ref-11">Cué-Bär et al., 2006</xref>).</p>
+<p>Phylogenetic diversity indices can help protect not only the most phylogenetically distinct species but also a more significant number of species in fewer areas (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>), mainly when used in conjunction with a complementarity measure (<xref ref-type="bibr" rid="ref-10">Cowell &amp; Coddington, 1994</xref>). Despite the potential benefits of using phylogenetic diversity indices for conservation, most studies since 1991 have focused on their applicability and statistical properties (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>; <xref ref-type="bibr" rid="ref-37">Redding &amp; Mooers, 2006</xref>), rather than on providing specific recommendations for conservation purposes (<xref ref-type="bibr" rid="ref-41">Rolland et al., 2012</xref>; <xref ref-type="bibr" rid="ref-58">Winter, Devictor &amp; Schweiger, 2013</xref>). Therefore, developing recommendations for the effective protection of these areas using phylogenetic information is crucial.</p>
+<p>Although studies on phylogenetic diversity indices have primarily focused on their applicability and statistical properties since 1991 (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>; <xref ref-type="bibr" rid="ref-37">Redding &amp; Mooers, 2006</xref>), there has been limited exploration of their potential application in conservation (<xref ref-type="bibr" rid="ref-41">Rolland et al., 2012</xref>). Thus, in this study, our objectives were to (1) present a plausible priority scheme in the NAB for conservation purposes, (2) quantify the contribution of endemic species to the phylogenetic diversity of the NAB, and (3) assess the phylogenetic diversity within the PAs.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Taxa and area</title>
+<p>The study area was divided into 0.25° grid cells (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). To ensure a representative sample of the high biodiversity in the NAB, we selected taxa from different taxonomic ranks (<italic>e.g</italic>., family, tribe, genus) across different groups (<italic>e.g</italic>., Vertebrates, Invertebrates, Plants) that had at least three genes available in GenBank for at least 50% of the known species for the taxon. We selected taxa based on the information available in GenBank. We primarily chose families if at least 70% of the species in the family had a minimum of three genes available in GenBank. We used the family as a “taxonomic group”; if not, we moved to the tribe or genus level. The detailed workflow of the taxon selection rules is shown in <xref ref-type="supplementary-material" rid="supp-4">Fig. S1</xref>. To obtain distributional data for the selected taxa (see <xref ref-type="supplementary-material" rid="supp-1">Tabl</xref><xref ref-type="supplementary-material" rid="supp-1">e S1</xref>), we retrieved their occurrence data (<xref ref-type="bibr" rid="ref-60">Telenius, 2011</xref>; see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>). Invasive and domestic species were excluded from the distribution data to prevent bias introduced by human activities, which promotes the widespread distribution of these species.</p>
+<p>To assess the reliability of the data distribution used in this study, we calculated the Half-Ignorance Index using the method proposed by <xref ref-type="bibr" rid="ref-44">Ruete (2015)</xref>. The index ranges from 0 (no or minimal ignorance) to 1 (maximum or total ignorance). The O<sub>0.5</sub> parameter (species observation index) was set to a minimum of 10 occurrences to ensure that the presence of a species could be trusted, following the methodology of <xref ref-type="bibr" rid="ref-9">Chazdon et al. (1998)</xref>. Using the resulting index values, we generated a raster image that displayed the level of information available for each cell in the study area.</p>
+</sec>
+<sec>
+<title>Phylogenetic reconstruction</title>
+<p>For each taxonomic group selected (<italic>e.g</italic>., family, tribe, and genus; see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>), we performed a phylogenetic analysis using the genes and species available for each taxonomic group. Once we obtained the genes from GenBank, we selected the best evolutionary nucleotide model under the Akaike Information Criterion (AIC) (<xref ref-type="bibr" rid="ref-1">Akaike, 1974</xref>) for each gene. We performed partitioned reconstruction under the Maximum Likelihood criterion, as implemented in RAxML v8.2.X (<xref ref-type="bibr" rid="ref-51">Stamatakis, 2014</xref>), using the nucleotide model GTR+GAMMA for all genes, followed by branch length optimization of the partitioned data in PhyML v3.0 (<xref ref-type="bibr" rid="ref-23">Guindon et al., 2010</xref>). For branch length optimization, we used the evolutionary nucleotide model calculated for each gene. Not a single tree in the dataset was dated or calibrated.</p>
+</sec>
+<sec>
+<title>Index selection</title>
+<p>We assessed the relationship between the phylogenetic diversity index (PD) and species richness in various areas. To achieve this, we employed two indices: PDi, which relies on a minimum spanning tree approach (<xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>), and the average taxonomic distinctness index (AvTD), which is based on pairwise distances (<xref ref-type="bibr" rid="ref-56">Warwick &amp; Clarke, 1998</xref>). We calculated PDi and AvTD for each cell in our study area to determine the index that showed the lowest correlation with species richness. Subsequently, we compared the values obtained from each index with the species richness data obtained from these cells. The aim of this analysis was to identify the index with the lowest correlation. For this correlation analysis, we implemented a Bayesian Simple Linear Regression (following <xref ref-type="bibr" rid="ref-27">Kruschke, 2014</xref>), as Bayesian analysis outperforms classical analysis (<xref ref-type="bibr" rid="ref-57">Wasserstein, Schirm &amp; Lazar, 2019</xref>).</p>
+</sec>
+<sec>
+<title>Prioritization based on phylogenetic diversity</title>
+<p>Once an index was selected, the index value of each cell was used to prioritize the grid cells. The index values of the cells were divided and classified into five quantiles, with the highest index values in the upper quantile (Q5) and the lowest in the lower quantile (Q1).</p>
+<p>We used a jackknife approach to evaluate the robustness of the phylogenetic data and the resulting prioritization. We randomly selected subsets of the data (<italic>i.e</italic>., phylogenies) and recalculated the index values. Finally, with the calculated index values, we classified the cells into five quantiles (Q1–Q5). This procedure was repeated 10 times for each subset. The selected subsets were 23 (24.7%), 46 (49.5%), 60 (74.2%), and 93 (100%) phylogenies, respectively. We used a binomial distribution to estimate the probability of each cell remaining in its initial quantile when all phylogenies were used. This analysis provided a measure of the stability of the prioritization scheme and its sensitivity to variations in the data.</p>
+<p>Finally, we measured cell similarity by calculating phylogenetic beta diversity using the method described by <xref ref-type="bibr" rid="ref-6">Cardoso et al. (2014)</xref>. Then, using the values of phylogenetic beta diversity, we classified the cells into three different clusters (C1, C2, and C3) based on their similarities using silhouette analysis (<xref ref-type="bibr" rid="ref-43">Rousseeuw, 1987</xref>).</p>
+</sec>
+<sec>
+<title>Endemic species</title>
+<p>We assessed the endemism of the species by calculating the mean distance between occurrences, and only species with a mean distance of less than 0.25° (~50 km, the distance between the two cells) were considered endemic. Thus, we considered an endemic species as one with a restricted or limited distribution range in the NAB. To understand the impact of endemism on area prioritization, we conducted a jackknife analysis with 100 replicates, randomly removing 25%, 50%, and 75% of endemic species. To assess the influence of endemic species on prioritization, we recalculated the AvTD values for each replicate. Additionally, we evaluated the effect of removing all endemic species from the AvTD.</p>
+</sec>
+<sec>
+<title>Protected areas</title>
+<p>To quantify the phylogenetic diversity within PAs (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>), we identified the grid cells that overlapped with the polygon of each PA to extract and sum their AvTD values. Likewise, we extracted and summed the AvTD values of cells that did not overlap with PAs. To define the polygons of the PAs, we utilized the World Database of Protected Areas (WDPA, <xref ref-type="bibr" rid="ref-53">UNEP-WCMC, 2022</xref>).</p>
+</sec>
+<sec>
+<title>Data/script availability</title>
+<p>All data and scripts used in this study and more information regarding the methods can be found at <uri xlink:href="https://github.com/oleon12/PhyloDiversity.">https://github.com/oleon12/PhyloDiversity</uri>. An interactive map of the results is available at <uri xlink:href="https://rpubs.com/oleon12/PhyloDiv">https://rpubs.com/oleon12/PhyloDiv</uri></p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Index selection</title>
+<p>We used Bayesian Simple Linear Regression to determine that PDi values correlated highly with species richness, whereas AvTD presented a low correlation value. The mean slope value of the posterior distribution with PDi was 0.78, while AvTD showed a mean slope value of 0.39 (see <xref ref-type="supplementary-material" rid="supp-5">Fig. S2</xref>). Thus, given the low slope value found with AvTD, we selected this index for the prioritization scheme and the other analyses in this study.</p>
+</sec>
+<sec>
+<title>Taxa and data quality</title>
+<p>We reconstructed 93 phylogenies at different taxonomic levels, encompassing 1,252 species found in the NAB (see <xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>). The smallest dataset (seven in total) comprised only three genes. In contrast, most taxa were represented by more than four genes, with the Felidae family having the largest dataset of 15 genes (see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>). Our results were highly robust because adding new phylogenies to the data had little effect on the outcome. With 46 phylogenies (approximately 50% of the total), the mean probability of correct classification was &gt;50%, and with 64 phylogenies, the mean probability was &gt;80% (<xref ref-type="supplementary-material" rid="supp-3">Table S3</xref>).</p>
+<p>The mean ignorance value in our analysis was low (mean = 0.26, SD = 0.27), indicating that most cells were well-sampled and had a good representation of the species present (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Only 38% of the cells had high ignition values (red cells in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The AvTD index implemented here considered the presence or absence of species, thus avoiding potential biases that could have arisen from differences in observation efforts. Approximately 44% of the species had 20 or more observations per cell, suggesting that our results were not significantly affected by differences in sampling efforts across the study area.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16565/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>The Half-Ignorance index.</title>
+<p>The legend depicts the level of ignorance in the NAB. Values closer to one (1) means more ignorance.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16565/fig-2.png"/>
+</fig>
+</sec>
+<sec>
+<title>Prioritization based on phylogenetic diversity</title>
+<p>Q5 cells, which represented the highest priority areas for conservation, accounted for approximately 90% of the phylogenetic diversity of the NAB and covered approximately 20% of the total area. Most of these cells (80%) were in the Andes of Colombia, Ecuador, and Venezuela, whereas the remaining 20% were in the lowlands, particularly the Pacific Ocean (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). In Colombia, Q5 cells were primarily located in the northern and central areas of the western Cordillera (including the Cauca Valley) and eastern Cordillera’s western and eastern flanks. The remaining cells were spread in the “Nudo de los Pastos,” Caribbean Valley, Sierra Nevada de Santa Marta, Pacific Lowlands, Amazonia, and Llanos Piedemonte (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Similarly, in Ecuador, Q5 cells were mainly distributed in the Andean region, especially over the western flank of the western Cordillera and the eastern side of the eastern Cordillera. Other Q5 cells were spread over the Pacific and Amazonian Lowlands (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Finally, Venezuela had a few Q5 cells in the Merida Cordillera, while the others were in the “Depresión del Maracaibo” and Lara-Falcón regions (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.16565/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>North andean block phylogenetic diversity.</title>
+<p>(A) The cell classification given the average taxonomic distinctness (AvTD) Index. Q5 cells are those with the highest index values. (B) The cluster obtained from the beta-phylogenetic diversity analysis. The lined cells correspond to the Q5 cells.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16565/fig-3.png"/>
+</fig>
+<p>Silhouette analysis revealed three distinct clusters (C1, C2, and C3) that exhibited specific patterns (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). The first cluster (C1) corresponded principally to the Magdalena Valley, Depresión de Maracaibo, Lara-Falcón region, Llanos Piedemonte, southern Pacific Lowlands in Ecuador, and Caribbean Valley (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). The second cluster (C2) corresponded to the Pacific Lowlands, Amazonian Lowlands, and Piedemonte. In addition, some cells in the second group were distributed in the Caribbean Valley, Depresión de Maracaibo, and Lara-Falcón regions (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). The third group (C3) corresponded to the Andean Cordilleras of Colombia, Ecuador, and Venezuela, including Sierra Nevada de Santa Marta and Serrania del Perijá (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>).</p>
+</sec>
+<sec>
+<title>Endemic species</title>
+<p>We identified 221 species endemic to the NAB. When we completely removed the endemic species from the analysis, the classification of the cells showed some changes, but the original category did not change significantly (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). As anticipated, removing endemic species decreased the phylogenetic diversity value of specific cells but did not alter their classification, except for a few cells that changed from Q5–Q2, and <italic>vice versa</italic> (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). Removing all 221 endemic species resulted in a marginal decrease of only 1.2% in the overall phylogenetic diversity of the NAB.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.16565/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Endemic species and the phylogenetic diversity.</title>
+<p>The cells classification when some percentage of the endemic species were removed. The phylogenetic diversity (AvTD) values of each cell are presented, with colors representing quantile classifications for each removal percentage.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16565/fig-4.png"/>
+</fig>
+</sec>
+<sec>
+<title>Protected areas</title>
+<p>Our analysis of the protected areas in the NAB revealed some interesting patterns. The overall species richness and phylogenetic diversity values were higher outside the protected areas (64% and 67%, respectively). Although we found more species and higher phylogenetic diversity values outside protected areas, they still held a significant amount of the region’s total evolutionary information in a relatively small area (9.2% of the NAB’s area).</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>The Andean region harbors the highest phylogenetic diversity in the NAB (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>), is considered an essential area for biodiversity (<italic>i.e</italic>., hotspot; <xref ref-type="bibr" rid="ref-32">Myers et al., 2000</xref>; <xref ref-type="bibr" rid="ref-30">Mittermeier, Myers &amp; Mittermeier, 2002</xref>), and is a primary target for conservation efforts (<italic>e.g</italic>., <xref ref-type="bibr" rid="ref-36">Ramírez-Villegas et al., 2014</xref>; <xref ref-type="bibr" rid="ref-3">Bax &amp; Francesconi, 2019</xref>). Furthermore, <xref ref-type="bibr" rid="ref-49">Sechrest et al. (2002)</xref> found more evolutionary information within the Andean hotspot than outside, highlighting its importance for phylogenetic diversity. Although the Andean region stands out as a priority area, our study also revealed other areas outside this region with high AvTD values, such as the Andean valleys and the Amazonian and Pacific lowlands (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). Notably, the Pacific lowlands are within the Tumbes–Chocó–Magdalena hotspot, further emphasizing the importance of these regions for conservation.</p>
+<p>Conservation analyses based on a single taxon or specific species groups, such as endemic, small-range, or threatened species, may yield different results. Endemic species are generally characterized by recent diversification, which can result in short branch lengths (<xref ref-type="bibr" rid="ref-39">Richardson et al., 2001</xref>; <xref ref-type="bibr" rid="ref-13">Davies et al., 2011</xref>). Our study found that endemic species had significantly shorter terminal branch lengths (mean = 0.029, SD = 0.056) than non-endemic species (mean = 0.070, SD = 1.14), and represented only 0.4% of the accumulated branch lengths, resulting in a low contribution to the phylogenetic diversity of the NAB. Although endemic species are more sensitive to environmental disruption and are strong predictors of local extinction risk (<xref ref-type="bibr" rid="ref-29">Manne, Brooks &amp; Pimm, 1999</xref>; <xref ref-type="bibr" rid="ref-25">Jenkins, Pimm &amp; Joppa, 2013</xref>), they may not accurately predict phylogenetic priorities because of their short branches, which may lead to the underestimation of phylogenetic diversity in a given area. Therefore, it is not advisable to use endemic species as the sole estimator of phylogenetic diversity. It is essential to consider a broader range of taxa and phylogenetic information to accurately identify conservation priorities.</p>
+<p>Other phylogenetic diversity indices consider the threat of species extinction, such as the EDGE index (<xref ref-type="bibr" rid="ref-24">Isaac et al., 2007</xref>). This index scales phylogenetic diversity based on the IUCN category of the species. We found that approximately 53% of the 1,252 species included in our study were not evaluated by the IUCN (<xref ref-type="supplementary-material" rid="supp-6">Fig. S3</xref>), rendering the EDGE index impractical. Additionally, 55% of the species classified as critically endangered (CR) or endangered (EN) were endemic species with low phylogenetic diversity values and shorter branch lengths. According to the IUCN, high threat levels do not always correlate with high evolutionary distinctiveness (<xref ref-type="bibr" rid="ref-8">Caviedes-Solis, Kim &amp; Leaché, 2020</xref>). Therefore, considering that the threat of extinction is vital for conservation, it is essential to consider other factors, such as evolutionary distinctiveness and phylogenetic diversity, to ensure comprehensive and effective conservation planning.</p>
+<p>PAs on the NAB have effectively preserved species richness and evolutionary history. However, our study found that species richness and phylogenetic diversity were higher outside PAs than within PAs. This pattern has also been observed in other studies of species richness, phylogenetic diversity, and ecoregions (<xref ref-type="bibr" rid="ref-12">Das et al., 2006</xref>; <xref ref-type="bibr" rid="ref-59">Zupan et al., 2014</xref>; <xref ref-type="bibr" rid="ref-45">Saraiva et al., 2018</xref>; <xref ref-type="bibr" rid="ref-7">Castillo et al., 2020</xref>). However, the PAs in the NAB cover a small geographic area (only 9.2% of the NAB area). Although species richness is commonly used in PA delimitation, evolutionary considerations remain limited (<xref ref-type="bibr" rid="ref-46">Sarkar et al., 2006</xref>; <xref ref-type="bibr" rid="ref-41">Rolland et al., 2012</xref>; <xref ref-type="bibr" rid="ref-28">Lean &amp; Maclaurin, 2016</xref>).</p>
+<p>Given that PAs are the primary strategy for conservation (<xref ref-type="bibr" rid="ref-55">Virkkala et al., 2019</xref>) and a crucial tool for mitigating the impact of climate change (<xref ref-type="bibr" rid="ref-21">Gaüzère, Jiguet &amp; Devictor, 2016</xref>; <xref ref-type="bibr" rid="ref-55">Virkkala et al., 2019</xref>), it is necessary to delineate new areas for PAs and improve connectivity between existing ones. Phylogenetic diversity also plays a significant role in this process. Well-connected PA networks can increase species persistence by allowing the movement and flow of different ecological components (<xref ref-type="bibr" rid="ref-21">Gaüzère, Jiguet &amp; Devictor, 2016</xref>; <xref ref-type="bibr" rid="ref-47">Saura et al., 2017</xref>). Areas with high phylogenetic diversity should be considered when expanding and connecting PAs. For example, in Colombia, Venezuela, and Ecuador, the current PA coverage is approximately 16%, 23%, and 31%, respectively (<xref ref-type="bibr" rid="ref-7">Castillo et al., 2020</xref>), making the need for new PAs and the expansion and connection of the current network imperative. Complementarity (<italic>i.e</italic>., phylogenetic beta diversity) is essential for maximizing phylogenetic diversity. By targeting regions containing cells from all three distinct clusters, as illustrated in <xref ref-type="fig" rid="fig-3">Fig. 3</xref>, we significantly increased the reservoir of phylogenetic diversity. Notably, this approach does not require all of the selected cells to be within the highest quantile (Q5). The selection of cells originating from diverse clusters is crucial to ensure a substantial infusion of phylogenetic diversity across the spectrum of quantiles ranging from Q1 to Q5. This robust selection mechanism guarantees considerable phylogenetic diversity, thereby minimizing the potential influence of the quantile on the overall outcome.</p>
+<p>The current network of protected areas in the NAB needs to adequately represent many ecoregions, including the Magdalena and Cauca Dry Forest, Guajira-Barranquilla Xeric Shrub, and Patia Valley Dry Forest (<xref ref-type="bibr" rid="ref-7">Castillo et al., 2020</xref>). Additionally, several ecoregions, such as the Cauca Valley Montane Forest, Eastern Cordillera Real Montane Forest, North Andean Paramo, and Magdalena-Uraba Moist Forest, have high rates of land transformation and degradation and are home to biodiverse and threatened forests (<xref ref-type="bibr" rid="ref-5">Bush, Hanselman &amp; Hooghiemstra, 2007</xref>; <xref ref-type="bibr" rid="ref-34">Pennington et al., 2010</xref>; <xref ref-type="bibr" rid="ref-52">Sánchez-Cuervo et al., 2012</xref>; <xref ref-type="bibr" rid="ref-7">Castillo et al., 2020</xref>). Unfortunately, these areas are poorly protected and are underrepresented in the current protected area network. <xref ref-type="bibr" rid="ref-16">Echeverría-Londoño et al. (2016)</xref> found that Colombia’s Caribbean, Pacific, and Andean regions, which are fully included in the NAB, are the least intact areas with high transformation rates and, as we found, contain remarkable phylogenetic diversity.</p>
+<p>Prioritized Q5 cells, which correspond to intact and threatened ecoregions, can help identify critical targets for conservation actions. However, the areas of the NAB that do not correspond to Q5 cells (<italic>i.e</italic>., Q1–Q4 cells) are not useless, must not be neglected for conservation, and should be the focus of future exploration and checklists. Improving our knowledge of biodiversity in these areas can lead to better conservation decisions in the future. Therefore, a comprehensive strategy for conservation in the NAB should include expanding and connecting the current network of PAs to better represent poorly protected ecoregions and to prioritize conservation efforts in intact and threatened ecoregions.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>The Andean region of the NAB may have the highest AvTD values; however, it is crucial to recognize significant phylogenetic diversity in the Amazonian Piedemonte and Pacific lowlands. Conservation efforts should be comprehensive and consider all aspects of biodiversity. Therefore, even with the low phylogenetic diversity of endemic species, they must be used with caution for conservation purposes. Species richness was the primary index used for PA delimitation. Given the small geographical area of PAs, they protect a substantial amount of phylogenetic diversity. However, indices other than richness should be considered to effectively expand and delimit PAs. Although there is debate on the importance of evolutionary aspects in PA delimitation and conservation planning, preserving the evolutionary potential of the biota is crucial (<xref ref-type="bibr" rid="ref-54">Vane-Wright, Humphries &amp; Williams, 1991</xref>; <xref ref-type="bibr" rid="ref-18">Faith, 1992</xref>; <xref ref-type="bibr" rid="ref-20">Forest et al., 2007</xref>; <xref ref-type="bibr" rid="ref-45">Saraiva et al., 2018</xref>). This study aimed to provide valuable information to experts, non-experts, and governments, encouraging the increased use of phylogenetic diversity in conservation actions and emphasizing the significance of the evolutionary framework in conservation decisions.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16565/Supplementary_Table_S1.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.16565/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Species list.</title>
+<p>All the species included in the study, with each species showing its corresponding branch length and indicating whether it is endemic or widespread.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/16565/Supplementary_Table_S2.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.16565/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Taxonomic groups used in the analyses.</title>
+<p>The groups utilized in our analyses, the genes employed for phylogenetic reconstruction, and the Digital Object Identifier (DOI) sourced from GBIF for reference.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/16565/Supplementary_Table_S3.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.16565/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Binomila test.</title>
+<p>The mean probability of success was calculated based on 10 iterations for three different numbers of randomly selected phylogenies.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/16565/Supplemental_Figure_S1_.png">
+<object-id pub-id-type="doi">10.7717/peerj.16565/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Taxa selection.</title>
+<p>The rules used to select the taxa for this study.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/16565/Supplemental_Figure_S2.png">
+<object-id pub-id-type="doi">10.7717/peerj.16565/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Bayesian Simple Linear Regression.</title>
+<p>The results of the Bayesian Linear Regression between Richness and both indices, PD and AVTD, are presented. The upper section displays a graphical representation of both variables, while the lower section illustrates the posterior distribution of the regression slope, depicting the mean slope value.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/16565/Supplemental_Figure_S3.png">
+<object-id pub-id-type="doi">10.7717/peerj.16565/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>IUCN threatened categories.</title>
+<p>The number of species in each IUCN category. Most of the species are catalogue as Least Concern (LC) and Not Evaluated (NE).</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank Karen Mendez and Juan David Bayona for their valuable comments on the manuscript. We also thank all members of the Laboratorio de Sistemática y Biogeografía, Universidad Industrial de Santander, for their continuous feedback on this study. </p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Omar Daniel Leon-Alvarado</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Daniel R Miranda-Esquivel</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>All data, and scripts used in this work are available at GitHub and Zenodo:</p>
+<p>- <uri xlink:href="https://github.com/oleon12/PhyloDiversity">https://github.com/oleon12/PhyloDiversity</uri></p>
+<p>- Omar Daniel, L.-A., &amp; Daniel Rafael, M.-E. (2023). Phylogenetic diversity and North Andean block conservation - Data [Data set]. Zenodo. <uri xlink:href="https://doi.org/10.5281/zenodo.10140032">https://doi.org/10.5281/zenodo.10140032</uri></p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Akaike (1974)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Akaike</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>A new look at the statistical model identification</article-title>
+<source>IEEE Transactions on Automatic Control</source>
+<year iso-8601-date="1974">1974</year>
+<volume>19</volume>
+<issue>6</issue>
+<fpage>716</fpage>
+<lpage>723</lpage>
+<pub-id pub-id-type="doi">10.1109/TAC.1974.1100705</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Bax &amp; Francesconi (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bax</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Francesconi</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Conservation gaps and priorities in the tropical andes biodiversity hotspot: implications for the expansion of protected areas</article-title>
+<source>Journal of Environmental Management</source>
+<year iso-8601-date="2019">2019</year>
+<volume>232</volume>
+<issue>8</issue>
+<fpage>387</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvman.2018.11.086</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Bird (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bird</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>An updated digital model of plate boundaries</article-title>
+<source>Geochemistry, Geophysics, Geosystems</source>
+<year iso-8601-date="2003">2003</year>
+<volume>4</volume>
+<issue>3</issue>
+<fpage>45</fpage>
+<pub-id pub-id-type="doi">10.1029/2001GC000252</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Bush, Hanselman &amp; Hooghiemstra (2007)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bush</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Hanselman</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Hooghiemstra</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Bush</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Flenley</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Andean montane forests and climate change</article-title>
+<source>Tropical Rainforest Responses to Climatic Change</source>
+<year iso-8601-date="2007">2007</year>
+<publisher-loc>Berlin, Heidelberg</publisher-loc>
+<publisher-name> Springer</publisher-name>
+<fpage>33</fpage>
+<lpage>54</lpage>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Cardoso et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cardoso</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Rigal</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Carvalho</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Fortelius</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Borges</surname>
+<given-names>PAV</given-names>
+</name>
+<name>
+<surname>Podani</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Schmera</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Partitioning taxon, phylogenetic and functional beta diversity into replacement and richness difference components</article-title>
+<source>Journal of Biogeography</source>
+<year iso-8601-date="2014">2014</year>
+<volume>41</volume>
+<issue>4</issue>
+<fpage>749</fpage>
+<lpage>761</lpage>
+<pub-id pub-id-type="doi">10.1111/jbi.12239</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Castillo et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Castillo</surname>
+<given-names>LS</given-names>
+</name>
+<name>
+<surname>Correa Ayram</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Matallana Tobón</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Corzo</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Areiza</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>González</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Serrano</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Chalán Briceño</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Sánchez Puertas</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>More</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Franco</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Bloomfield</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Aguilera Orrury</surname>
+<given-names>VL</given-names>
+</name>
+<name>
+<surname>Rivadeneira Canedo</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Morón Zambrano</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Yerena</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Papadakis</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cárdenas</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Golden Kroner</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Godínez Gómez</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Connectivity of protected areas: effect of human pressure and subnational contributions in the ecoregions of tropical Andean countries</article-title>
+<source>Land</source>
+<year iso-8601-date="2020">2020</year>
+<volume>9</volume>
+<issue>8</issue>
+<fpage>239</fpage>
+<pub-id pub-id-type="doi">10.3390/land9080239</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Caviedes-Solis, Kim &amp; Leaché (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Caviedes-Solis</surname>
+<given-names>IW</given-names>
+</name>
+<name>
+<surname>Kim</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Leaché</surname>
+<given-names>AD</given-names>
+</name>
+</person-group>
+<article-title>Species IUCN threat status level increases with elevation: a phylogenetic approach for Neotropical tree frog conservation</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2020">2020</year>
+<volume>29</volume>
+<issue>8</issue>
+<fpage>2515</fpage>
+<lpage>2537</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-020-01986-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Chazdon et al. (1998)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Chazdon</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Colwell</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Denslow</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Guariguata</surname>
+<given-names>MR</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Dallmeier</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Comiskey</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Statistical methods for estimating species richness of woody regeneration in primary and secondary rainforests of Northeastern Costa Rica</article-title>
+<source>Forest Biodiversity Research, Monitoring and Modeling: ConceptualBackground and Old World Case Studies</source>
+<year iso-8601-date="1998">1998</year>
+<publisher-loc>Paris, France</publisher-loc>
+<publisher-name>UNESCO</publisher-name>
+<fpage>285</fpage>
+<lpage>309</lpage>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Cowell &amp; Coddington (1994)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cowell</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Coddington</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Estimating terrestrial biodiversity through extrapolation on JSTOR</article-title>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="1994">1994</year>
+<volume>345</volume>
+<issue>1311</issue>
+<fpage>101</fpage>
+<lpage>118</lpage>
+<pub-id pub-id-type="doi">10.1098/rstb.1994.0091</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Cué-Bär et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cué-Bär</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Villaseñor</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Morrone</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Ibarra-Manríquez</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Identifying priority areas for conservation IN MEXICAN tropical deciduous forest based on tree species</article-title>
+<source>Interciencia</source>
+<year iso-8601-date="2006">2006</year>
+<volume>31</volume>
+<fpage>712</fpage>
+<lpage>719</lpage>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Das et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Das</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Krishnaswamy</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bawa</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Kiran</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Srinivas</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>NS</given-names>
+</name>
+<name>
+<surname>Karanth</surname>
+<given-names>KU</given-names>
+</name>
+</person-group>
+<article-title>Prioritization of conservation areas in the Western Ghats, India</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2006">2006</year>
+<volume>133</volume>
+<issue>1</issue>
+<fpage>16</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2006.05.023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Davies et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Davies</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>GF</given-names>
+</name>
+<name>
+<surname>Bellstedt</surname>
+<given-names>DU</given-names>
+</name>
+<name>
+<surname>Boatwright</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Bytebier</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Cowling</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Forest</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Harmon</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Muasya</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Schrire</surname>
+<given-names>BD</given-names>
+</name>
+<name>
+<surname>Steenkamp</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Van der Bank</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Savolainen</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Extinction risk and diversification are linked in a plant biodiversity hotspot</article-title>
+<source>PLOS Biology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>9</volume>
+<issue>5</issue>
+<elocation-id>e1000620</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.1000620</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Diaz-Pulido (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Diaz-Pulido</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Vegetación marina de un sector de la plataforma continental de la Guajira (Caribe colombiano)</article-title>
+<source>Boletín de Investigaciones Marinas y Costeras</source>
+<year iso-8601-date="2000">2000</year>
+<volume>29</volume>
+<fpage>27</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="doi">10.25268/bimc.invemar.2000.29.0.309</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Diaz-Pulido &amp; Díaz-Ruíz (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Diaz-Pulido</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Díaz-Ruíz</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Diversity of benthic marine algae of the Colombian Atlantic</article-title>
+<source>Biota Colombiana</source>
+<year iso-8601-date="2003">2003</year>
+<volume>4</volume>
+<fpage>203</fpage>
+<lpage>246</lpage>
+<pub-id pub-id-type="doi">10.21068/bc.v4i2.134</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Echeverría-Londoño et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Echeverría-Londoño</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Newbold</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Hudson</surname>
+<given-names>LN</given-names>
+</name>
+<name>
+<surname>Contu</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Hill</surname>
+<given-names>SLL</given-names>
+</name>
+<name>
+<surname>Lysenko</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Arbeláez-Cortés</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Armbrecht</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Boekhout</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cabra-García</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Dominguez-Haydar</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Nates-Parra</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Gutiérrez-Lamus</surname>
+<given-names>DL</given-names>
+</name>
+<name>
+<surname>Higuera</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Isaacs-Cubides</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>López-Quintero</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Martinez</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Miranda-Esquivel</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Navarro-Iriarte</surname>
+<given-names>LE</given-names>
+</name>
+<name>
+<surname>Noriega</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Otavo</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Parra-H</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Poveda</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Ramirez-Pinilla</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Rey-Velasco</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Rosselli</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Smith-Pardo</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Urbina-Cardona</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Purvis</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Modelling and projecting the response of local assemblage composition to land use change across Colombia</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2016">2016</year>
+<volume>22</volume>
+<issue>11</issue>
+<fpage>1099</fpage>
+<lpage>1111</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.12478</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Faith (1992)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Faith</surname>
+<given-names>DP</given-names>
+</name>
+</person-group>
+<article-title>Conservation evaluation and phylogenetic diversity</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="1992">1992</year>
+<volume>61</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.1016/0006-3207(92)91201-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Forest et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Forest</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Grenyer</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Rouget</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Cowling</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Faith</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Balmford</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Manning</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Procheş</surname>
+<given-names>Ş.</given-names>
+</name>
+<name>
+<surname>van der Bank</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Reeves</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Hedderson</surname>
+<given-names>TAJ</given-names>
+</name>
+<name>
+<surname>Savolainen</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Preserving the evolutionary potential of floras in biodiversity hotspots</article-title>
+<source>Nature</source>
+<year iso-8601-date="2007">2007</year>
+<volume>445</volume>
+<issue>7129</issue>
+<fpage>757</fpage>
+<lpage>760</lpage>
+<pub-id pub-id-type="doi">10.1038/nature05587</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Gaüzère, Jiguet &amp; Devictor (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gaüzère</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Jiguet</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Devictor</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Can protected areas mitigate the impacts of climate change on bird’s species and communities? Divers</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2016">2016</year>
+<volume>22</volume>
+<issue>6</issue>
+<fpage>625</fpage>
+<lpage>637</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.12426</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Goldewijk (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goldewijk</surname>
+<given-names>KK</given-names>
+</name>
+</person-group>
+<article-title>Three centuries of global population growth: a spatial referenced population (density) database for 1700-2000</article-title>
+<source>Population and Environment</source>
+<year iso-8601-date="2005">2005</year>
+<volume>26</volume>
+<issue>4</issue>
+<fpage>343</fpage>
+<lpage>367</lpage>
+<pub-id pub-id-type="doi">10.1007/s11111-005-3346-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Guindon et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Guindon</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Dufayard</surname>
+<given-names>J-F</given-names>
+</name>
+<name>
+<surname>Lefort</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Anisimova</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hordijk</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Gascuel</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of phyML 3.0</article-title>
+<source>Systematic Biology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>59</volume>
+<issue>3</issue>
+<fpage>307</fpage>
+<lpage>321</lpage>
+<pub-id pub-id-type="doi">10.1093/sysbio/syq010</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Isaac et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Isaac</surname>
+<given-names>NJB</given-names>
+</name>
+<name>
+<surname>Turvey</surname>
+<given-names>ST</given-names>
+</name>
+<name>
+<surname>Collen</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Waterman</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Baillie</surname>
+<given-names>JEM</given-names>
+</name>
+</person-group>
+<article-title>Mammals on the EDGE: conservation priorities based on threat and phylogeny</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2007">2007</year>
+<volume>2</volume>
+<issue>3</issue>
+<elocation-id>e296</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0000296</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Jenkins, Pimm &amp; Joppa (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenkins</surname>
+<given-names>CN</given-names>
+</name>
+<name>
+<surname>Pimm</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Joppa</surname>
+<given-names>LN</given-names>
+</name>
+</person-group>
+<article-title>Global patterns of terrestrial vertebrate diversity and conservation</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2013">2013</year>
+<volume>110</volume>
+<issue>28</issue>
+<fpage>E2602</fpage>
+<lpage>E2610</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1302251110</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Kellogg et al. (1995)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kellogg</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Vega</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Stailings</surname>
+<given-names>TC</given-names>
+</name>
+<name>
+<surname>Aiken</surname>
+<given-names>CLV</given-names>
+</name>
+<name>
+<surname>Kellogg</surname>
+<given-names>JN</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Mann</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Tectonic development of Panama, Costa Rica, and the Colombian Andes: constraints from global positioning system geodetic studies and gravity</article-title>
+<source>Geologic and Tectonic Development of the Caribbean Plate Boundary in Southern Central America</source>
+<year iso-8601-date="1995">1995</year>
+<publisher-loc>Boulder, Colorado</publisher-loc>
+<publisher-name>Geological Society of America</publisher-name>
+<fpage>75</fpage>
+<lpage>90</lpage>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Kruschke (2014)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kruschke</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Doing Bayesian data analysis: a tutorial with R, JAGS, and Stan Second Edition</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>London, UK</publisher-loc>
+<publisher-name>Academic Press - Elsevier</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Lean &amp; Maclaurin (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lean</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Maclaurin</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Pellens</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Grandcolas</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>The value of phylogenetic diversity</article-title>
+<source>Biodiversity Conservation and Phylogenetic Systematics: Preserving Our Evolutionary Heritage in an Extinction Crisis, Topics in Biodiversity and Conservation</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer International Publishing</publisher-name>
+<fpage>19</fpage>
+<lpage>37</lpage>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Manne, Brooks &amp; Pimm (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Manne</surname>
+<given-names>LL</given-names>
+</name>
+<name>
+<surname>Brooks</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Pimm</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>Relative risk of extinction of passerine birds on continents and islands</article-title>
+<source>Nature</source>
+<year iso-8601-date="1999">1999</year>
+<volume>399</volume>
+<issue>6733</issue>
+<fpage>258</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="doi">10.1038/20436</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Mittermeier, Myers &amp; Mittermeier (2002)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Mittermeier</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Myers</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mittermeier</surname>
+<given-names>CG</given-names>
+</name>
+</person-group>
+<source>Hotspots: earth’s biologically richest and most endangered terrestrial ecoregions</source>
+<year iso-8601-date="2002">2002</year>
+<publisher-loc>Portland, USA</publisher-loc>
+<publisher-name>Graphic Arts Center Publishing Company</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Myers (1988)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Myers</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Threatened biotas: hot spots in tropical forests</article-title>
+<source>The Environmentalist</source>
+<year iso-8601-date="1988">1988</year>
+<volume>8</volume>
+<issue>3</issue>
+<fpage>187</fpage>
+<lpage>208</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02240252</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Myers et al. (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Myers</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mittermeier</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Mittermeier</surname>
+<given-names>CG</given-names>
+</name>
+<name>
+<surname>da Fonseca</surname>
+<given-names>GAB</given-names>
+</name>
+<name>
+<surname>Kent</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Biodiversity hotspots for conservation priorities</article-title>
+<source>Nature</source>
+<year iso-8601-date="2000">2000</year>
+<volume>403</volume>
+<issue>6772</issue>
+<fpage>853</fpage>
+<lpage>858</lpage>
+<pub-id pub-id-type="doi">10.1038/35002501</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Pennington et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pennington</surname>
+<given-names>RT</given-names>
+</name>
+<name>
+<surname>Lavin</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Särkinen</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>GP</given-names>
+</name>
+<name>
+<surname>Klitgaard</surname>
+<given-names>BB</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>CE</given-names>
+</name>
+</person-group>
+<article-title>Contrasting plant diversification histories within the Andean biodiversity hotspot</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2010">2010</year>
+<volume>107</volume>
+<issue>31</issue>
+<fpage>13783</fpage>
+<lpage>13787</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1001317107</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Posadas, Miranda-Esquivel &amp; Crisci (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Posadas</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Miranda-Esquivel</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Crisci</surname>
+<given-names>JV</given-names>
+</name>
+</person-group>
+<article-title>Using phylogenetic diversity measures to set priorities in conservation: an example from Southern South America</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2001">2001</year>
+<volume>15</volume>
+<issue>5</issue>
+<fpage>1325</fpage>
+<lpage>1334</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1523-1739.2001.99404.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Ramírez-Villegas et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ramírez-Villegas</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cuesta</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Devenish</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Peralvo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Jarvis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Arnillas</surname>
+<given-names>CA</given-names>
+</name>
+</person-group>
+<article-title>Using species distributions models for designing conservation strategies of Tropical Andean biodiversity under climate change</article-title>
+<source>Journal for Nature Conservation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>22</volume>
+<issue>5</issue>
+<fpage>391</fpage>
+<lpage>404</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jnc.2014.03.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Redding &amp; Mooers (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Redding</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Mooers</surname>
+<given-names>AØ</given-names>
+</name>
+</person-group>
+<article-title>Incorporating evolutionary measures into conservation prioritization</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>20</volume>
+<issue>6</issue>
+<fpage>1670</fpage>
+<lpage>1678</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1523-1739.2006.00555.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Richardson et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Richardson</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Weitz</surname>
+<given-names>FM</given-names>
+</name>
+<name>
+<surname>Fay</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Cronk</surname>
+<given-names>QCB</given-names>
+</name>
+<name>
+<surname>Linder</surname>
+<given-names>HP</given-names>
+</name>
+<name>
+<surname>Reeves</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Chase</surname>
+<given-names>MW</given-names>
+</name>
+</person-group>
+<article-title>Rapid and recent origin of species richness in the Cape flora of South Africa</article-title>
+<source>Nature</source>
+<year iso-8601-date="2001">2001</year>
+<volume>412</volume>
+<issue>6843</issue>
+<fpage>181</fpage>
+<lpage>183</lpage>
+<pub-id pub-id-type="doi">10.1038/35084067</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Rolland et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rolland</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cadotte</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Devictor</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Lavergne</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mouquet</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Pavoine</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rodrigues</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Thuiller</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Turcati</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Winter</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Zupan</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jabot</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Morlon</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Using phylogenies in conservation: new perspectives</article-title>
+<source>Biology Letters</source>
+<year iso-8601-date="2012">2012</year>
+<volume>8</volume>
+<issue>5</issue>
+<fpage>692</fpage>
+<lpage>694</lpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2011.1024</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Rousseeuw (1987)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rousseeuw</surname>
+<given-names>PJ</given-names>
+</name>
+</person-group>
+<article-title>Silhouettes: a graphical aid to the interpretation and validation of cluster analysis</article-title>
+<source>Journal of Computational and Applied Mathematics</source>
+<year iso-8601-date="1987">1987</year>
+<volume>20</volume>
+<fpage>53</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="doi">10.1016/0377-0427(87)90125-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Ruete (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ruete</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Displaying bias in sampling effort of data accessed from biodiversity databases using ignorance maps</article-title>
+<source>Biodiversity Data Journal</source>
+<year iso-8601-date="2015">2015</year>
+<volume>3</volume>
+<elocation-id>e5361</elocation-id>
+<pub-id pub-id-type="doi">10.3897/BDJ.3.e5361</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Saraiva et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saraiva</surname>
+<given-names>DD</given-names>
+</name>
+<name>
+<surname>dos Santos</surname>
+<given-names>AS</given-names>
+</name>
+<name>
+<surname>Overbeck</surname>
+<given-names>GE</given-names>
+</name>
+<name>
+<surname>Giehl</surname>
+<given-names>ELH</given-names>
+</name>
+<name>
+<surname>Jarenkow</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>How effective are protected areas in conserving tree taxonomic and phylogenetic diversity in subtropical Brazilian Atlantic Forests?</article-title>
+<source>Journal for Nature Conservation</source>
+<year iso-8601-date="2018">2018</year>
+<volume>42</volume>
+<issue>9</issue>
+<fpage>28</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jnc.2018.02.002</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Sarkar et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sarkar</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pressey</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Faith</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Margules</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>Fuller</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Stoms</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Moffett</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wilson</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>KJ</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>PH</given-names>
+</name>
+<name>
+<surname>Andelman</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Biodiversity conservation planning tools: present status and challenges for the future</article-title>
+<source>Annual Review of Environment and Resources</source>
+<year iso-8601-date="2006">2006</year>
+<volume>31</volume>
+<issue>1</issue>
+<fpage>123</fpage>
+<lpage>159</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.energy.31.042606.085844</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Saura et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saura</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Bastin</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Battistella</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Mandrici</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Dubois</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Protected areas in the world’s ecoregions: how well connected are they?</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2017">2017</year>
+<volume>76</volume>
+<issue>4</issue>
+<fpage>144</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2016.12.047</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Schweiger et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schweiger</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Klotz</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Durka</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Kühn</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>A comparative test of phylogenetic diversity indices</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="2008">2008</year>
+<volume>157</volume>
+<issue>3</issue>
+<fpage>485</fpage>
+<lpage>495</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-008-1082-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Sechrest et al. (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sechrest</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Brooks</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Fonseca</surname>
+<given-names>GAB</given-names>
+</name>
+<name>
+<surname>Konstant</surname>
+<given-names>WR</given-names>
+</name>
+<name>
+<surname>Mittermeier</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Purvis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rylands</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>Gittleman</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<article-title>Hotspots and the conservation of evolutionary history</article-title>
+<source>Proceedings of the National Academy of Sciences</source>
+<year iso-8601-date="2002">2002</year>
+<volume>99</volume>
+<issue>4</issue>
+<fpage>2067</fpage>
+<lpage>2071</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.251680798</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Stamatakis (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stamatakis</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies</article-title>
+<source>Bioinformatics</source>
+<year iso-8601-date="2014">2014</year>
+<volume>30</volume>
+<issue>9</issue>
+<fpage>1312</fpage>
+<lpage>1313</lpage>
+<pub-id pub-id-type="doi">10.1093/bioinformatics/btu033</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Sánchez-Cuervo et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sánchez-Cuervo</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Aide</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Clark</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Etter</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Land cover change in colombia: surprising forest recovery trends between 2001 and 2010</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2012">2012</year>
+<volume>7</volume>
+<issue>8</issue>
+<elocation-id>e43943</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0043943</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Telenius (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Telenius</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Biodiversity information goes public: GBIF at your service</article-title>
+<source>Nordic Journal of Botany</source>
+<year iso-8601-date="2011">2011</year>
+<volume>29</volume>
+<issue>3</issue>
+<fpage>378</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1756-1051.2011.01167.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>UNEP-WCMC (2022)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>UNEP-WCMC</collab>
+</person-group>
+<article-title>Protected area profile for Latin America &amp; Caribbean from the world database on protected areas</article-title>
+<year iso-8601-date="2022">2022</year><uri>https://www.protectedplanet.net/en</uri>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Vane-Wright, Humphries &amp; Williams (1991)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vane-Wright</surname>
+<given-names>RI</given-names>
+</name>
+<name>
+<surname>Humphries</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>PH</given-names>
+</name>
+</person-group>
+<article-title>What to protect?—Systematics and the agony of choice</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="1991">1991</year>
+<volume>55</volume>
+<issue>3</issue>
+<fpage>235</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1016/0006-3207(91)90030-D</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Virkkala et al. (2019)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Virkkala</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Heikkinen</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Kuusela</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Leikola</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Pöyry</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Filho</surname>
+<given-names>WL</given-names>
+</name>
+<name>
+<surname>Barbir</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Preziosi</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Significance of protected area network in preserving biodiversity in a changing Northern European Climate</article-title>
+<source>Handbook of Climate Change and Biodiversity</source>
+<year iso-8601-date="2019">2019</year>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer Nature Switzerland AG</publisher-name>
+<fpage>377</fpage>
+<lpage>390</lpage>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Warwick &amp; Clarke (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Warwick</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Clarke</surname>
+<given-names>KR</given-names>
+</name>
+</person-group>
+<article-title>Taxonomic distinctness and environmental assessment</article-title>
+<source>Journal of Applied Ecology</source>
+<year iso-8601-date="1998">1998</year>
+<volume>35</volume>
+<issue>3</issue>
+<fpage>532</fpage>
+<lpage>543</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2664.1998.3540532.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Wasserstein, Schirm &amp; Lazar (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wasserstein</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Schirm</surname>
+<given-names>AL</given-names>
+</name>
+<name>
+<surname>Lazar</surname>
+<given-names>NA</given-names>
+</name>
+</person-group>
+<article-title>Moving to a world beyond “p &lt; 0. 05”</article-title>
+<source>The American Statistician</source>
+<year iso-8601-date="2019">2019</year>
+<volume>73</volume>
+<issue>sup1</issue>
+<fpage>1</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="doi">10.1080/00031305.2019.1583913</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Winter, Devictor &amp; Schweiger (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Winter</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Devictor</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Schweiger</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Phylogenetic diversity and nature conservation: where are we?</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2013">2013</year>
+<volume>28</volume>
+<issue>4</issue>
+<fpage>199</fpage>
+<lpage>204</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2012.10.015</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Zupan et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zupan</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Cabeza</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Maiorano</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Roquet</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Devictor</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Lavergne</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mouillot</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Mouquet</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Renaud</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Thuiller</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Spatial mismatch of phylogenetic diversity across three vertebrate groups and protected areas in Europe</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2014">2014</year>
+<volume>20</volume>
+<issue>6</issue>
+<fpage>674</fpage>
+<lpage>685</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.12186</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

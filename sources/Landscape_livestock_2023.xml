@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16516</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16516</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Animal Behavior</subject>
+               <subject>Biodiversity</subject>
+               <subject>Conservation Biology</subject>
+               <subject>Zoology</subject>
+               <subject>Coupled Natural and Human Systems</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Landscape predictors influencing livestock depredation by leopards in and around Annapurna Conservation Area, Nepal</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author">
+               <name>
+                  <surname>Lamichhane</surname>
+                  <given-names>Saurav</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Bhattarai</surname>
+                  <given-names>Divya</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Maraseni</surname>
+                  <given-names>Tek</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Shaney</surname>
+                  <given-names>Kyle J.</given-names>
+               </name><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>Karki</surname>
+                  <given-names>Jhamak Bahadur</given-names>
+               </name><xref ref-type="aff" rid="aff-5">5</xref></contrib>
+            <contrib id="author-6" contrib-type="author">
+               <name>
+                  <surname>Adhikari</surname>
+                  <given-names>Binaya</given-names>
+               </name><xref ref-type="aff" rid="aff-6">6</xref><xref ref-type="aff" rid="aff-10">10</xref></contrib>
+            <contrib id="author-7" contrib-type="author">
+               <name>
+                  <surname>Pandeya</surname>
+                  <given-names>Pratik</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-8" contrib-type="author">
+               <name>
+                  <surname>Shrestha</surname>
+                  <given-names>Bikram</given-names>
+               </name><xref ref-type="aff" rid="aff-7">7</xref><xref ref-type="aff" rid="aff-8">8</xref></contrib>
+            <contrib id="author-9" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Adhikari</surname>
+                  <given-names>Hari</given-names>
+               </name>
+               <email>hari.adhikari@helsinki.fi</email><xref ref-type="aff" rid="aff-9">9</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Faculty of Forestry, Agriculture and Forestry University</institution>, <city>Hetauda</city>, <country>Nepal</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Institute of Botany and Landscape Ecology, University of Greifswald</institution>, <city>Greifswald</city>, <country>Germany</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Centre for Sustainable Agricultural Systems (CSAS), University of Southern Queensland</institution>, <city>Toowoomba</city>, <country> Australia</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Department of Biological and Health Sciences, Texas A&amp;M University-Kingsville</institution>, <city>Kingsville</city>, <state>Texas</state>, <country>USA</country></aff>
+            <aff id="aff-5"><label>5</label><institution>Kathmandu Forestry College, Tribhuwan University</institution>, <city>Kathmandu</city>, <country>Nepal</country></aff>
+            <aff id="aff-6"><label>6</label><institution>Institute of Forestry, Pokhara Campus, Tribhuvan University</institution>, <city>Pokhara</city>, <country>Nepal</country></aff>
+            <aff id="aff-7"><label>7</label><institution>Department of Biodiversity Research, Global Change Research Institute, Czech Academy of Sciences</institution>, <city>Brno</city>, <country>Czech Republic</country></aff>
+            <aff id="aff-8"><label>8</label><institution>Green Governance Nepal (GGN)</institution>, <city>Kathmandu</city>, <country>Nepal</country></aff>
+            <aff id="aff-9"><label>9</label><institution>Department of Geosciences and Geography, University of Helsinki</institution>, <city>Helsinki</city>, <country>Finland</country></aff>
+            <aff id="aff-10"><label>10</label> Current affiliation:  <institution>Department of Biology, University of Kentucky</institution>, <city>Lexington</city>, <state>KY</state>, <country>USA</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Caravaggi</surname>
+                  <given-names>Anthony</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-13">
+            <day>13</day>
+            <month>12</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16516</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2023-07-26">
+               <day>26</day>
+               <month>7</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-11-03">
+               <day>3</day>
+               <month>11</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Lamichhane et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Lamichhane et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16516"/>
+         <abstract>
+            <p>Livestock depredation by leopards is a pervasive issue across many Asian and African range countries, particularly in and around protected areas. Developing effective conflict mitigation strategies requires understanding the landscape features influencing livestock depredation. In this study, we investigated predictors associated with livestock depredation by leopards using 274 cases of leopard attacks on livestock that occurred between 2017 and 2020 in the Annapurna Conservation Area, Nepal. We also examined how livestock predation by leopards varied depending on the species, season, and time. A generalized linear model with binary logistic regression was used to test the statistical significance of variables associated with the presence and absence of conflict sites. The results revealed that the area of forest, agricultural land, length of rivers, slope, proximity to settlements and protected areas, and elevation significantly predicted the probability of leopard attacks on livestock. We also observed a significant increase in the incidence of leopard predation on livestock with decreasing slopes and rising elevations. The areas near human settlements and the protected areas faced a higher risk of leopard predation. The incidence of leopard predation on livestock varied significantly depending on the livestock species, season, and time. Goats were the most highly predated livestock, followed by sheep, cow/ox, and buffalo. A total of 289.11 km<sup>2</sup> (or around 5% of the research area) was deemed to be at high risk for leopard predation on livestock. This study’s comprehensive understanding of human-leopard conflicts provides valuable insights for planning and implementing measures to reduce damage caused by leopard populations throughout their range.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Livestock depredation</kwd>
+            <kwd>Annapurna Conservation Area</kwd>
+            <kwd>Landscape predictors</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>Rufford Foundation, UK</funding-source>
+               <award-id>32618-1</award-id>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source>The University of Helsinki</funding-source>
+            </award-group>
+            <award-group id="fund-3">
+               <funding-source>The Ministry of Education, Youth, and Sports of CR within the CzeCOS program</funding-source>
+               <award-id> LM2023048</award-id>
+            </award-group>
+            <funding-statement>This work was supported by the Rufford Foundation, UK (32618-1), financially for this research. Open access funding was provided by the University of Helsinki. Bikram Shrestha was supported by the Ministry of Education, Youth, and Sports of CR within the CzeCOS program, grant number LM2023048. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Addressing the global challenge of human-wildlife conflict is an urgent issue faced by managers and policymakers (<xref ref-type="bibr" rid="ref-71">Sharma et al., 2020</xref>; <xref ref-type="bibr" rid="ref-78">Torres, Oliveira &amp; Alves, 2018</xref>). This conflict arises from the shared use of resources by humans, livestock, and wild predators (<xref ref-type="bibr" rid="ref-81">Venumière-Lefebvre, Breck &amp; Crooks, 2022</xref>; <xref ref-type="bibr" rid="ref-73">Shrestha et al., 2022</xref>; <xref ref-type="bibr" rid="ref-35">Graham, Beckerman &amp; Thirgood, 2005</xref>; <xref ref-type="bibr" rid="ref-79">Treves &amp; Karanth, 2003</xref>). In cases of human-large carnivore conflict, animals kill livestock (<xref ref-type="bibr" rid="ref-25">Dalerum, Selby &amp; Pirk, 2020</xref>; <xref ref-type="bibr" rid="ref-48">Lamichhane et al., 2018</xref>) and occasionally pose a threat to humans (<xref ref-type="bibr" rid="ref-37">Inskip &amp; Zimmermann, 2009</xref>; <xref ref-type="bibr" rid="ref-84">Woodroffe et al., 2007</xref>), leading to their persecution by people (<xref ref-type="bibr" rid="ref-51">Mateo-Tomás et al., 2012</xref>). Carnivore habitats are increasingly fragmented and resource-scarce due to human population growth, anthropogenic activity reduced wild prey, and changing land use, resulting in human-carnivore conflicts (<xref ref-type="bibr" rid="ref-27">Dheer et al., 2022</xref>; <xref ref-type="bibr" rid="ref-55">Naha et al., 2020</xref>; <xref ref-type="bibr" rid="ref-2">Acharya et al., 2017</xref>; <xref ref-type="bibr" rid="ref-37">Inskip &amp; Zimmermann, 2009</xref>). For instance, rapid human population growth and habitat encroachment on common leopard (<italic>Panthera pardus</italic>, referred to as “leopard” hereafter) habitats have led to reduced prey availability and habitat fragmentation. Those pressures drive leopards to forage closer to human settlements, leading to frequent human-leopard conflicts (<xref ref-type="bibr" rid="ref-64">Puri et al., 2020</xref>; <xref ref-type="bibr" rid="ref-85">Yadav et al., 2020</xref>; <xref ref-type="bibr" rid="ref-77">Stein et al., 2016</xref>).</p>
+         <p>The leopard is categorized as Vulnerable by the International Union for Conservation of Nature and Natural Resources (IUCN) Red List (<xref ref-type="bibr" rid="ref-77">Stein et al., 2016</xref>) and listed as <xref ref-type="supplementary-material" rid="supp-1">Appendix 1</xref> in CITES law. The National Red List of Mammals categorizes it as an endangered species. The legal status of this species in Nepal is Protected (<xref ref-type="supplementary-material" rid="supp-1">Appendix 1</xref>) under the National Parks and Wildlife Conservation Act 1973 (<xref ref-type="bibr" rid="ref-39">Jnawali et al., 2011</xref>). Its populations are declining throughout most of their range (<xref ref-type="bibr" rid="ref-38">Jacobson et al., 2016</xref>; <xref ref-type="bibr" rid="ref-11">Athreya et al., 2011</xref>), leading to isolation, with some Asian subspecies now assessed as endangered and critically endangered on the IUCN Red List. They are widely distributed across Africa and Asia, but their historical range has seen a significant 61% reduction (<xref ref-type="bibr" rid="ref-77">Stein et al., 2016</xref>). The leopard is distributed in Nepal from the lowland Terai region to the mid-hill areas (<xref ref-type="bibr" rid="ref-12">Baral et al., 2023</xref>; <xref ref-type="bibr" rid="ref-45">Koirala et al., 2012</xref>), and recent observations indicate sightings at elevations of up to 4,500 meters in Annapurna Conservation Area (Bikram Shrestha, 2023, pers. comm.). However, their population status and occupancy are poorly understood (<xref ref-type="bibr" rid="ref-47">Lamichhane et al., 2021</xref>).</p>
+         <p>Numerous studies have been conducted to examine the spatio-temporal patterns and frequency of leopard predation on livestock in Nepal (<xref ref-type="bibr" rid="ref-41">Kandel et al., 2023</xref>; <xref ref-type="bibr" rid="ref-4">Adhikari et al., 2022</xref>; <xref ref-type="bibr" rid="ref-28">Dhungana et al., 2019</xref>; <xref ref-type="bibr" rid="ref-48">Lamichhane et al., 2018</xref>; <xref ref-type="bibr" rid="ref-44">Karki &amp; Rawat, 2014</xref>; <xref ref-type="bibr" rid="ref-45">Koirala et al., 2012</xref>; <xref ref-type="bibr" rid="ref-75">Sijapati et al., 2021</xref>). The Department of National Parks and Wildlife Conservation (<xref ref-type="bibr" rid="ref-29">DNPWC, 2017</xref>) reported that leopards were responsible for 78% of livestock kill incidents in Nepal. Furthermore, <xref ref-type="bibr" rid="ref-4">Adhikari et al. (2022)</xref> identified the mid-hills regions as the areas with the highest risk for leopard predation on livestock. Likewise, similar studies have been conducted outside of Nepal (<xref ref-type="bibr" rid="ref-8">Akrim et al., 2021</xref>; <xref ref-type="bibr" rid="ref-56">Naha, Sathyakumar &amp; Rawat, 2018</xref>; <xref ref-type="bibr" rid="ref-72">Shehzad et al., 2015</xref>; <xref ref-type="bibr" rid="ref-24">Constant, Bell &amp; Hill, 2015</xref>; <xref ref-type="bibr" rid="ref-65">Qamar et al., 2010</xref>).</p>
+         <p>Few studies have been conducted on the influential factors affecting leopard predation on livestock (<xref ref-type="bibr" rid="ref-55">Naha et al., 2020</xref>; <xref ref-type="bibr" rid="ref-85">Yadav et al., 2020</xref>; <xref ref-type="bibr" rid="ref-70">Rostro-García et al., 2016</xref>; <xref ref-type="bibr" rid="ref-24">Constant, Bell &amp; Hill, 2015</xref>) and mapping conflict hotspots (<xref ref-type="bibr" rid="ref-85">Yadav et al., 2020</xref>; <xref ref-type="bibr" rid="ref-71">Sharma et al., 2020</xref>). However, all of these studies were conducted outside of Nepal. So far, studies that employ a robust sampling and modelling framework have not been conducted in Nepal. Identifying zones prone to leopard predation on livestock is crucial for efficient conflict mitigation and leopard conservation. Focusing resources and efforts on these areas allows for targeted livestock protection, reduces retaliatory killings of leopards, and engages communities in sustainable coexistence strategies (<xref ref-type="bibr" rid="ref-53">Miller, 2015</xref>). This approach addresses the complex challenges of human-leopard conflicts while safeguarding both local livelihoods and leopard populations (<xref ref-type="bibr" rid="ref-4">Adhikari et al., 2022</xref>; <xref ref-type="bibr" rid="ref-85">Yadav et al., 2020</xref>; <xref ref-type="bibr" rid="ref-51">Mateo-Tomás et al., 2012</xref>). Reckoning this fact, we have chosen the Gandaki Province of Nepal as our research site for these unexplored studies, particularly as it overlaps with the Annapurna Conservation Area. This region, situated in the mid-hills of Nepal, is a notable focal point for human-leopard conflict (<xref ref-type="bibr" rid="ref-4">Adhikari et al., 2022</xref>; <xref ref-type="bibr" rid="ref-45">Koirala et al., 2012</xref>).</p>
+         <p>To address the aforementioned research gaps, we aim to determine important landscape variables that can influence leopard predation on livestock by employing a binomial generalized linear model and map high-conflict-prone areas by utilizing significant environmental, anthropogenic, and topographic variables through MaxEnt modeling. In this study, we established hypotheses to investigate how different landscape factors influence leopard predation on livestock in Nepal. The study’s primary objective was empirically assessing and confirming these hypotheses through data analysis and statistical methods. In addition, we conducted descriptive analyses to understand the spatio-temporal and predation patterns of leopards on livestock. The study’s results are expected to enhance efforts to reduce human-leopard conflicts and promote coexistence between humans and leopards.</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Methodology</title>
+         <sec>
+            <title>Study area</title>
+            <p>The Annapurna Conservation Area (ACA), established in 1992, is Nepal’s largest protected area, covering 7,629 sq. km. It is located in the hills and mountains of west-central Nepal (83057′E, 28050′N) and is managed by the National Trust for Nature Conservation (NTNC). The Annapurna Himalayas have various ecosystems, from subtropical woods to trans-Himalayan freezing deserts. The ACA is rich in biodiversity, home to 1,352 plant species, 128 wild mammal species, 514 bird species, 348 butterfly species, 40 reptile species, and 23 amphibian species (<xref ref-type="bibr" rid="ref-57">NTNC National Trust for Nature Conservation, 2018</xref>), and ranges in altitude from 790 m to the peak of Annapurna I at 8,091 m. It is the only protected area in Nepal where locals can live within the boundaries, own their private land, and keep their traditional rights and access to the usage of natural resources. The area is also a popular trekking destination for visitors from all over the world. To ease its management, ACA is divided into seven-unit conservation offices: Ghandruk, Lwang, Sikles, Bhujung, Manang, Jomsom and Lo-Manthang. The local community members reside in 15 rural municipalities of five districts and 87 wards. This study was conducted in three of the five Gandaki province districts (Kaski, Lamjhung, and Myagdi), which overlap with the ACA (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Myagdi and Lamjung districts cover relatively smaller parts of the conservation area (approximately 413.46 km<sup>2</sup> and 386.41 km<sup>2</sup>), and Kaski district covers the largest part of the conservation area (1485.6 km<sup>2</sup>). The forest area outside the conservation area is under the jurisdiction of a division of forest offices. The Department of National Park and Wildlife Conservation (DNPWC) (077/78 Eco 45) and the National Trust for Nature Conservation, Annapurna Conservation Area Project (279/077/078) provided a research permit.</p>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Study area boundary, showing the land cover and conservation area.</title>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/fig-1.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Data collection</title>
+            <p>The Government of Nepal (GoN) developed relief guidelines to assist local people with wildlife damage, including the leopard, in 2009 (<xref ref-type="bibr" rid="ref-3">Acharya et al., 2016</xref>). We compiled compensation data for HLC (leopard attacks on livestock) between 2017 and 2020 from the Divisional Forest Offices (DFO) in Myagdi, Kaski, and Lamjung and Conservation Area Management Units (CAMU) in Bujhung, Sikles, Lwang, and Ghandruk. The data were managed following the Nepalese Calendar, which runs from mid-July to mid-July (Bikram Sambat), and we used fiscal years to ensure data consistency. Although there were cases of leopards killing dogs and hens in the study area, we only recorded species for which compensation had been allocated to livestock owners by the government. Officials from the DFO and CAMU verified all reported data before compensation. Conflict information was gathered from 274 locations (“conflict sites” hereafter). In the study districts, we visited 252 conflict sites with elevations lower than 3,000 m. For the 22 conflict sites with elevations higher than 3,000 m, we used Google Earth Pro 7.3.3 and took help from local herders who were present during the conflict incident at the sites to identify the grid cell of the conflict site. The research team conducted field visits accompanied by staff from the DFO and CAMU of a particular village. The survey was conducted only after ethical approval from the DFO offices (Permission number: 1299) in each district and the CAMU offices inside conservation areas (Permission number: 279/077/078).</p>
+            <p>We located the owners who lost their livestock between 2017 and 2020 based on the information available from the compensation records. With the help of the livestock owners, we visited conflict sites. We recorded the GPS location of each site, along with information on the particular season and time of the incidents.</p>
+         </sec>
+         <sec>
+            <title>Data processing</title>
+            <p>Considering the limited resources, we had to maintain effectiveness by reducing the logistical complexity of the survey; hence, we stratified the study area into 4 km × 4 km (<italic>i.e.,</italic> 16 km<sup>2</sup>) grids (<italic>n</italic> = 478) using ARC GIS 10.5 (<xref ref-type="bibr" rid="ref-31">ESRI, 2017</xref>). Out of 476 sampling grids, we recorded conflicts from 93 grids. The cell size was selected as 4 km × 4 km to reduce chances of autocorrelation and identify landscape drivers of human–leopard conflicts. Studies (<xref ref-type="bibr" rid="ref-56">Naha, Sathyakumar &amp; Rawat, 2018</xref>; <xref ref-type="bibr" rid="ref-55">Naha et al., 2020</xref>) have used 2 km × 2 km–5 km × 5 km for the leopard conflict survey in previous studies. The grid size (4 km × 4 km) was selected based on the topographic features of the study area, to increase survey precision, alongside decreasing survey cost and logistical complexity.</p>
+            <p>We examined various potential explanatory variables by utilizing publicly available data layers previously explored in human-leopard conflict studies (<xref ref-type="bibr" rid="ref-55">Naha et al., 2020</xref>; <xref ref-type="bibr" rid="ref-68">Ramesh et al., 2020</xref>; <xref ref-type="bibr" rid="ref-71">Sharma et al., 2020</xref>; <xref ref-type="bibr" rid="ref-85">Yadav et al., 2020</xref>; <xref ref-type="bibr" rid="ref-20">Broekhuis, Cushman &amp; Elliot, 2017</xref>; <xref ref-type="bibr" rid="ref-70">Rostro-García et al., 2016</xref>; <xref ref-type="bibr" rid="ref-80">Treves et al., 2011</xref>). We compiled a comprehensive set of 14 landscape predictors for each grid cell, categorizing them into five distinct groups (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/table-1</object-id><label>Table 1</label><caption>
+                  <title>Major predictor variables considered for spatial analysis in the project sites.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>Types of variables</th>
+                           <th>Predictor variable</th>
+                           <th>Abbreviation</th>
+                           <th>Unit</th>
+                           <th>Range</th>
+                           <th>Source</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Habitat variables</td>
+                           <td>Area of agricultural land<break/>Area of bare ground<break/>Area under forests<break/>Area of grassland<break/>Area of shrubland</td>
+                           <td>AAL<break/>ABG<break/>AF<break/>AGL<break/>ASL</td>
+                           <td>m<sup>2</sup><break/>m<sup>2</sup><break/>m<sup>2</sup><break/>m<sup>2</sup><break/>m<sup>2</sup></td>
+                           <td>0–3,177,300<break/>0–12,706,300<break/>0–15,947,900<break/>0–22,14,600<break/>0–15,072,200</td>
+                           <td><xref ref-type="bibr" rid="ref-32">ESRI (2020)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>Protected area</td>
+                           <td>Distance from the protected area</td>
+                           <td>DPA</td>
+                           <td>meter (m)</td>
+                           <td>0–42,554.9</td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td>Water</td>
+                           <td>Area of water bodies<break/>River length<break/>Distance to water bodies</td>
+                           <td>AWB<break/>RL<break/>DWB</td>
+                           <td>m<sup>2</sup><break/>meter (m)<break/>meter (m)</td>
+                           <td>0–2,974,900<break/>0–14,483.10<break/>0–8,594.57</td>
+                           <td><xref ref-type="bibr" rid="ref-32">ESRI (2020)</xref><break/><xref ref-type="bibr" rid="ref-58"> OCHA Nepal (2021a)</xref><break/><xref ref-type="bibr" rid="ref-58"> OCHA Nepal (2021a)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>Human influence and infrastructure</td>
+                           <td>Length of road<break/>Distance from road<break/>Distance from settlement</td>
+                           <td>LR<break/>DR<break/>DS</td>
+                           <td>meter (m)<break/>meter (m)<break/>meter (m)</td>
+                           <td>0–107,248.5</td>
+                           <td><xref ref-type="bibr" rid="ref-59">OCHA Nepal (2021b)</xref><break/><xref ref-type="bibr" rid="ref-60">OCHA Nepal (2021c)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>Topography</td>
+                           <td>Slope<break/>Elevation</td>
+                           <td/>
+                           <td>(°)<break/>meter(m)</td>
+                           <td>2.15–51.9<break/>415.1–7,420.4</td>
+                           <td><xref ref-type="bibr" rid="ref-9">ASF, 2021</xref></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <p>We accessed land cover data specific to Nepal from <xref ref-type="bibr" rid="ref-32">ESRI (2020)</xref> to generate land use types within our study area. Subsequently, for each grid cell, we computed the areas corresponding to various land cover classes, including agricultural land, forests, bare ground, grassland, and shrubland. We applied the “Spatial join” tool in Arc GIS 10.5. We relied on Nepal’s land cover data to assess water bodies within our study area. We extracted information regarding the river network from OCHA Nepal (<xref ref-type="bibr" rid="ref-58"> OCHA Nepal, 2021a</xref>) and computed the lengths of rivers within each grid cell through the ‘Intersect’ function in Arc GIS. To determine the distance from water bodies to each grid cell, we employed the “Euclidean distance” tool.</p>
+            <p>Regarding roads and settlements, we obtained shape files representing Nepal’s road network and settlements from OCHA Nepal (<xref ref-type="bibr" rid="ref-59"> OCHA Nepal, 2021b</xref>; <xref ref-type="bibr" rid="ref-60">OCHA Nepal, 2021c</xref>). Using the Euclidean distance tool, we then calculated the distances from roads and settlements to each grid cell. Additionally, we assessed the lengths of roads within each grid cell using the ‘Intersect’ function in Arc GIS. We derived mean slope and elevation values for each grid from the Digital Elevation Model (DEM) file available on the Alaska Satellite Facility (ASF) website (<xref ref-type="bibr" rid="ref-9">ASF, 2021</xref>). This process was facilitated by the ‘zonal statistics’ tool in ARC GIS. The nearest distance from protected areas boundary to the center of each grid cell was calculated for each grid using the Euclidean distance tool in Arc GIS. The points inside the protected area boundary were manually set as zero, the distance of points outside the boundary were calculated, and the datasets were merged to get the final distance value.</p>
+         </sec>
+         <sec>
+            <title>Data analysis</title>
+            <p>We also tested three additional temporal predictor variables for a relationship with leopard depredations, including time of day, month, and season. First, attacks were assigned to a time frame. We divided 24 h into four-hour intervals since the precise timing of livestock predation was unknown (12 AM–4 AM, 4 AM–8 AM, 8 AM–12 PM, 12 PM–4 PM, 4 PM–8 PM, 8 PM–12 AM). We also divided 12 months into three seasons of 4 months each (winter <italic>i.e.,</italic> November–February, summer, <italic>i.e.,</italic> March–June, monsoon, <italic>i.e.,</italic> July–October). Statistical data analysis was done in the R Statistical package v 4.0.4 (<xref ref-type="bibr" rid="ref-66">R Core Team, 2021</xref>). We also used a chi-square (<italic>χ</italic><sup>2</sup>) test to examine seasonal, monthly, and temporal variations in livestock depredation. To uncover more information about the features of kill sites, we divided the assigned predictors into groups (<xref ref-type="table" rid="table-2">Table 2</xref>). Descriptive summaries based on month, season, and time of leopard attacks on livestock were calculated using the Pivot table function in Microsoft Excel 2013.</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/table-2</object-id><label>Table 2</label><caption>
+                  <title>Association of conflict sites within different landscape variables.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>Variables</th>
+                           <th>Classes</th>
+                           <th>Frequency of attack (%)</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Slope (°)</td>
+                           <td>2–10<break/>10–20<break/>20–30<break/>30–40<break/>&gt;40</td>
+                           <td>22<break/>30<break/>29<break/>13<break/>6</td>
+                        </tr>
+                        <tr>
+                           <td>Elevation (m)</td>
+                           <td>415–1,000<break/>1,000–2,000<break/>2,000–3,000<break/>&gt;3,000</td>
+                           <td>28<break/>34<break/>27<break/>11</td>
+                        </tr>
+                        <tr>
+                           <td>Location</td>
+                           <td>Outside conservation areas<break/>Inside conservation areas</td>
+                           <td>49<break/>51</td>
+                        </tr>
+                        <tr>
+                           <td>Distance from road (m)</td>
+                           <td>0–500<break/>500–1,000<break/>1,000–1,500<break/>1,500–2,000<break/>2,000–2,500<break/>&gt;2,500</td>
+                           <td>44<break/>23<break/>14<break/>6<break/>4<break/>9</td>
+                        </tr>
+                        <tr>
+                           <td>Distance from river (m)</td>
+                           <td>0–500<break/>500–1,000<break/>1,000–1,500<break/>1,500–2,000<break/>2,000–2,500<break/>&gt;2,500</td>
+                           <td>42<break/>29<break/>17<break/>9<break/>2<break/>1</td>
+                        </tr>
+                        <tr>
+                           <td>Distance from settlement (m)</td>
+                           <td>0–500<break/>500–1,000<break/>1,000–1,500<break/>1,500–2,000<break/>2,000–2,500<break/>&gt;2,500</td>
+                           <td>65<break/>21<break/>9<break/>2<break/>2<break/>1</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <p>To model the spatial spread and extent of livestock depredation, we used the presence or absence of conflict as the response variable. We used a generalized linear model (GLM) that included 14 continuous variables as predictors (explanatory variables) with the binomial distribution respectively using the package ‘Desctools’ (<xref ref-type="bibr" rid="ref-74">Signorell et al., 2019</xref>) and ‘manipulate’ (<xref ref-type="bibr" rid="ref-67">Racine, 2012</xref>). For binomial distribution, the presence/absence of the conflict incidents (response variable) was recorded on a binary coding basis (1 = presence of a conflict incident in a grid, 0 = absence of a conflict incident in a grid). The absence of conflict was taken as the reference variable when running the models. We selected the GLM due to its suitability for modeling binary response data (<xref ref-type="bibr" rid="ref-33">Fernandes et al., 2021</xref>) and its balance between simplicity and interpretability, aligning well with our research objectives. All the variables were standardized using Z transformation, ensuring that they were on the same scale for easier comparison of their contributions in the GLM. Before model construction, a multi-collinearity test was done for all the variables based on variance inflation factor (VIF) functions using the package ‘faraway’ (<xref ref-type="bibr" rid="ref-19">Boomsma, 2014</xref>). Since none of the variables showed any multi-collinearity (VIF value &gt; 5), we used all the variables for model construction (<xref ref-type="bibr" rid="ref-22">Chatterjee &amp; Hadi, 2013</xref>).</p>
+            <p>To select the most parsimonious model among the set of models, Akaike’s Information Criterion (AIC) was performed (<xref ref-type="bibr" rid="ref-7">Akaike, 1973</xref>). Using the function ‘dredge’ under the package ‘MuMIn’ (<xref ref-type="bibr" rid="ref-15">Barton, 2009</xref>), all possible models were constructed and ranked based on small-sampled AICc (<xref ref-type="bibr" rid="ref-16">Barton &amp; Barton, 2020</xref>). The final model was obtained by averaging the top candidate models (delta AIC ≤ 2) (<xref ref-type="bibr" rid="ref-21">Burnham &amp; Anderson, 2001</xref>). To test the predictive performance of the dominant model, we generated the receiver operating characteristic (ROC) curve and area under the curve (AUC) value using the package ‘ROCR’ (<xref ref-type="bibr" rid="ref-76">Sing et al., 2005</xref>). We obtained high model uncertainty among the selected predictors indicated by similar model weight. Thus, we did full model averaging (<xref ref-type="table" rid="table-3">Table 3</xref> and <xref ref-type="table" rid="table-4">Table 4</xref>) to compute the effect of predictors. Additionally, we created an odds ratio plot to visualize the effect sizes of the predictors. The plot displayed the odds ratios with 95% confidence intervals, aiding in the interpretation of predictor variable impacts on the presence or absence of conflict incidents using the package ‘ggplot 2’ (<xref ref-type="bibr" rid="ref-82">Wickham, 2016</xref>).</p>
+            <table-wrap id="table-3">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/table-3</object-id><label>Table 3</label><caption>
+                  <title>GLM model with the binomial structure for the probability of livestock predation by leopard.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/table-3.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th>Estimate</th>
+                           <th>Std. Error</th>
+                           <th>z value</th>
+                           <th>Pr(&gt;—z—)</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>(Intercept)</td>
+                           <td>−2.75313</td>
+                           <td>0.541284</td>
+                           <td>−5.0863</td>
+                           <td>3.65E−07</td>
+                        </tr>
+                        <tr>
+                           <td>LR</td>
+                           <td>0.243474</td>
+                           <td>0.213269</td>
+                           <td>1.141631</td>
+                           <td>0.2536</td>
+                        </tr>
+                        <tr>
+                           <td>RL</td>
+                           <td>0.334842</td>
+                           <td>0.163479</td>
+                           <td>2.048231</td>
+                           <td>0.0405</td>
+                        </tr>
+                        <tr>
+                           <td>Slope</td>
+                           <td>−0.59343</td>
+                           <td>0.234312</td>
+                           <td>−2.53266</td>
+                           <td>0.0113</td>
+                        </tr>
+                        <tr>
+                           <td>DPA</td>
+                           <td>−0.37682</td>
+                           <td>0.192787</td>
+                           <td>−1.9546</td>
+                           <td>0.0486</td>
+                        </tr>
+                        <tr>
+                           <td>Elevation</td>
+                           <td>1.144401</td>
+                           <td>0.5124</td>
+                           <td>2.233416</td>
+                           <td>0.0255</td>
+                        </tr>
+                        <tr>
+                           <td>DS</td>
+                           <td>−1.16784</td>
+                           <td>0.468449</td>
+                           <td>−2.493</td>
+                           <td>0.0127</td>
+                        </tr>
+                        <tr>
+                           <td>DR</td>
+                           <td>−0.3269</td>
+                           <td>0.534292</td>
+                           <td>−0.61183</td>
+                           <td>0.5407</td>
+                        </tr>
+                        <tr>
+                           <td>DWB</td>
+                           <td>−0.40473</td>
+                           <td>0.667943</td>
+                           <td>−0.60594</td>
+                           <td>0.5446</td>
+                        </tr>
+                        <tr>
+                           <td>AF</td>
+                           <td>0.503323</td>
+                           <td>0.263548</td>
+                           <td>1.909795</td>
+                           <td>0.0462</td>
+                        </tr>
+                        <tr>
+                           <td>AGL</td>
+                           <td>−0.13252</td>
+                           <td>0.247977</td>
+                           <td>−0.53439</td>
+                           <td>0.5931</td>
+                        </tr>
+                        <tr>
+                           <td>AAL</td>
+                           <td>0.333532</td>
+                           <td>0.146614</td>
+                           <td>2.274901</td>
+                           <td>0.0229</td>
+                        </tr>
+                        <tr>
+                           <td>ASL</td>
+                           <td>−0.15425</td>
+                           <td>0.235238</td>
+                           <td>−0.6557</td>
+                           <td>0.5120</td>
+                        </tr>
+                        <tr>
+                           <td>ABG</td>
+                           <td>−1.52401</td>
+                           <td>1.225288</td>
+                           <td>−1.24379</td>
+                           <td>0.2136</td>
+                        </tr>
+                        <tr>
+                           <td>AWB</td>
+                           <td>0.100116</td>
+                           <td>0.154925</td>
+                           <td>0.646221</td>
+                           <td>0.5181</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <table-wrap id="table-4">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/table-4</object-id><label>Table 4</label><caption>
+                  <title>Second order Akaike Information criterion scores (AICc, ΔAIC &amp; AIC weight) of a generalized linear model with binomial structure.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/table-4.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Component models*</bold></th>
+                           <th><bold>df</bold></th>
+                           <th><bold>AICc</bold></th>
+                           <th><bold>ΔAIC</bold></th>
+                           <th><bold>AIC weight</bold></th>
+                           <th><bold>LogLik</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td><bold>Binomial distribution</bold></td>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+DPA+DS+Elevation+RL+Slope</td>
+                           <td>9</td>
+                           <td>−162.742</td>
+                           <td>343.9</td>
+                           <td>0.00</td>
+                           <td>0.018</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+DPA+DS+RL+Slope</td>
+                           <td>8</td>
+                           <td>−164.005</td>
+                           <td>344.3</td>
+                           <td>0.44</td>
+                           <td>0.014</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+DPA+DS+Elevation+RL+LR+Slope</td>
+                           <td>10</td>
+                           <td>−162.168</td>
+                           <td>344.8</td>
+                           <td>0.94</td>
+                           <td>0.011</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+DPA+DR+DS+Elevation+RL+Slope</td>
+                           <td>7</td>
+                           <td>−165.405</td>
+                           <td>345.1</td>
+                           <td>1.17</td>
+                           <td>0.010</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+AF+DPA+DR+DS+Elevation+RL+Slope</td>
+                           <td>10</td>
+                           <td>−162.433</td>
+                           <td>345.4</td>
+                           <td>1.47</td>
+                           <td>0.008</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+AWB+DPA+DS+Elevation+RL+Slope</td>
+                           <td>10</td>
+                           <td>−162.460</td>
+                           <td>345.4</td>
+                           <td>1.53</td>
+                           <td>0.008</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+AGL+DPA+DS+DWB+Elevation+RL+Slope</td>
+                           <td>10</td>
+                           <td>−162.570</td>
+                           <td>345.6</td>
+                           <td>1.75</td>
+                           <td>0.007</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+ASL+DPA+DS+Elevation+RL+Slope</td>
+                           <td>10</td>
+                           <td>−162.599</td>
+                           <td>345.7</td>
+                           <td>1.80</td>
+                           <td>0.007</td>
+                        </tr>
+                        <tr>
+                           <td>AAL+ABG+AF+AGL+DPA+DS+Elevation+RL+Slope</td>
+                           <td>10</td>
+                           <td>−162.646</td>
+                           <td>345.8</td>
+                           <td>1.90</td>
+                           <td>0.007</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <p>We generated the conflict probability map through the maximum entropy (MaxEnt) modelling. MaxEnt is a widely used approach (<xref ref-type="bibr" rid="ref-34">Fitzpatrick, Gotelli &amp; Ellison, 2013</xref>; <xref ref-type="bibr" rid="ref-63">Phillips, Anderson &amp; Schapire, 2006</xref>), demonstrating the best predictive power across all sample sizes (<xref ref-type="bibr" rid="ref-30">Elith et al., 2011</xref>; <xref ref-type="bibr" rid="ref-83">Wisz et al., 2008</xref>). The occurrence points of conflict were filtered by keeping at least 100 m of the distance between locations, thereby minimizing spatial autocorrelation (<xref ref-type="bibr" rid="ref-43">Karki &amp; Panthi, 2021</xref>; <xref ref-type="bibr" rid="ref-4">Adhikari et al., 2022</xref>). For this purpose, the georeferenced points were spatially thinned using the SpThin package (<xref ref-type="bibr" rid="ref-6">Aiello-Lammens et al., 2015</xref>). Using this technique, we utilized the spatially filtered conflict occurrence points alongside the variables with high significance in the GLM models to predict the conflict probability in the study area (<xref ref-type="bibr" rid="ref-4">Adhikari et al., 2022</xref>). The MaxEnt program (version 3.4.4) was set up to use 70% of the data points for training and 30% for model validation. A maximum iteration limit of 1,000 was chosen, and models were replicated ten times to generate average model information (<xref ref-type="bibr" rid="ref-14">Barbet-Massin et al., 2012</xref>). We assessed the model accuracy through the threshold-independent (AUC-ROC) method and the threshold-dependent true skill statistics (TSS) method. AUC value ranges from 0 to 1. Similarly, TSS ranges from −1 to +1, with the model with a higher value in both representing good predictive performance (<xref ref-type="bibr" rid="ref-10">Allouche, Tsoar &amp; Kadmon, 2006</xref>). The continuous probability map obtained from MaxEnt was reclassified in ArcGis 10.5 to obtain a distinct probability of conflict (low = &lt;0.40, medium = 0.4–0.6, and high = &gt;0.6).</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Seasonal and temporal patterns of livestock predation</title>
+            <p>Livestock losses to leopards varied significantly with respect to season (<italic>χ</italic>2 = 15.738, <italic>df</italic> = 2, <italic>p</italic>-value &lt; 0.001) and month (<italic>χ</italic>2 = 28.665, <italic>df</italic> = 11, <italic>p</italic>-value &lt; 0.002). Winter exhibited the highest average count of approximately 37.00, suggesting a potential peak in livestock depredation during this season. Summer followed closely with an average count of approximately 34.33, while monsoon had the lowest average count of about 20.33. The standard errors for all three seasons were relatively consistent, indicating a similar level of variability in the counts within each season (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Similarly, there was also a significant difference in the timing of leopard attacks on livestock (<italic>χ</italic>2 = 56.745, <italic>df</italic> = 5, <italic>p</italic>-value &lt; 0.001). The “4 PM to 8 PM” consistently recorded the highest average count, averaging approximately 30.33 livestock depredation, signifying a recurrent peak in the phenomenon during the late afternoon and early evening hours. Following closely, the “8 PM to 12 AM” exhibited a substantial average count of approximately 14.33, indicating continued activity during the evening and early night.</p>
+            <fig id="fig-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/fig-2</object-id><label>Figure 2</label><caption>
+                  <title>Mean count for (A) month, (B) season and (C) with error bars in the study area during 2017–2020.</title>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/fig-2.png"/>
+            </fig>
+            <p>Conversely, the “12 PM to 4 PM” displayed a significantly lower average livestock depredation count, with an average of approximately 13.33. The time period between “8 AM to 12 PM” had a moderate average count of about 12.33, while the “12 AM to 4 AM” and “4 AM to 8 AM” had the lowest average counts, each hovering around 12.00, suggesting relatively low activity during the late night and early morning. The standard error values for each time period indicate the precision of the mean estimates and the extent to which the counts may vary within each specific time period (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>).</p>
+         </sec>
+         <sec>
+            <title>Livestock losses and characteristics of kill sites</title>
+            <p>During the three years, 439 livestock were reportedly killed by leopards in three districts. Goats (<italic>Capra aegagrus hircus</italic>) were the most predated livestock (66.5%), followed by sheep (<italic>Ovis aries</italic>) (22.5%), cows/oxen (<italic>Bos taurus</italic>) (7%), and buffalo (<italic>Bubalus bubalis</italic>) (4%). The analysis of data across slope and elevation revealed that about 80% of kill sites occurred within a 30-degree slope, and about 90% occurred within 3,000 m elevation. In inside conservation areas, there was a lower percentage of livestock depredation (41%) than in outside conservation areas (59%). It is apparent from the kill sites that about 65% of livestock depredation in the study area was recorded within 1 km of a road. The number of livestock depredation events decreased with distance from roads. Similar patterns were observed when conflict locations were analyzed in relation to distance from rivers and settlements. About 70% of livestock depredation was observed within 1 km of a river and 85% within 1 km of a settlement (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+         </sec>
+         <sec>
+            <title>Influence of variables on leopard attack on livestock</title>
+            <p>In our study, we examined the significance of various variables regarding the presence or absence of livestock depredation by leopards. River length exhibited a significant positive association with livestock depredation (ß = 0.3348; <italic>p</italic> = 0.0405), indicating that areas with longer rivers were more susceptible to leopard attacks on livestock. Additionally, slope displayed a significant negative relation with livestock depredation (ß = −0.5934; <italic>p</italic> = 0.0113), suggesting that areas characterized by steeper terrain experienced fewer instances of leopard predation. The proximity to the protected area demonstrated a significant negative correlation with livestock depredation (ß = −0.3768; <italic>p</italic> = 0.0486). This suggests that areas closer to protected areas experienced elevated risks of livestock depredation.</p>
+            <p>Moreover, elevation demonstrated a significant positive relation (ß = 1.1444; <italic>p</italic> = 0.0255), implying that higher elevations were linked to an increased likelihood of leopard attacks on livestock. Furthermore, the forest area exhibited a significant positive relation with livestock depredation (ß = 0.5033; <italic>p</italic> = 0.0462), indicating that larger forested areas heightened the risk of leopard predation. Similarly, the area of agricultural land demonstrated a significant positive association with livestock depredation (ß = 0.3335; <italic>p</italic> = 0.0229), suggesting that larger agricultural areas were more vulnerable to leopard attacks on livestock. The distance to settlements variable exhibited a statistically significant negative relationship with livestock depredation (ß = −1.1678; <italic>p</italic> = 0.0127) (<xref ref-type="table" rid="table-3">Table 3</xref>). This suggests that areas closer to human settlements experienced a higher risk of leopard predation. The dominant model (GLM with binomial structure) had a receiver operating curve value of 0.85 (83.55% accuracy). We also generated an odds ratio plot to provide a visual representation of the effect sizes of our predictor variables. This plot displayed odds ratios along with their corresponding 95% confidence intervals, serving as a valuable tool for interpreting the impacts of these predictor variables on the presence or absence of conflict incidents (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>).</p>
+            <fig id="fig-3">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/fig-3</object-id><label>Figure 3</label><caption>
+                  <title>Odd ratios plot for predictor variables with 95% confidence intervals.</title>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/fig-3.png"/>
+            </fig>
+            <p>Among the nine different component models developed through model averaging (delta AIC ≤ 2), the results of the GLM model with binomial structure (smallest AICc = −162.742) indicate that predictors such as the area of agricultural land, bare ground, forests, distance to protected areas and settlements, elevation, length of the river, and slope appeared as the dominant model for leopard attacks on livestock in the study area (<xref ref-type="table" rid="table-4">Table 4</xref>.</p>
+         </sec>
+         <sec>
+            <title>Probability of conflict</title>
+            <p>A total of 289.11 km<sup>2</sup> (approximately 5% of the total study area) was considered high risk for livestock depredation by leopards. Kaski district had the largest high conflict-prone area (approximately 122.28 km<sup>2</sup>), followed by Lamjung (approximately 107.01 km<sup>2</sup>) and Myagdi (approximately 59.82 km<sup>2</sup>). Similarly, 18% of the high-risk area was incorporated within Annapurna CA (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). The model accuracy was quite good, with an average AUC of 0.82 ± 0.09 and an average TSS 0.68 ± 0.08.</p>
+            <fig id="fig-4">
+               <object-id pub-id-type="doi">10.7717/peerj.16516/fig-4</object-id><label>Figure 4</label><caption>
+                  <title>Leopard livestock predation risk map.</title>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16516/fig-4.png"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Our study comprehensively analyzes the multifaceted interactions between leopards and livestock within our research area. By delving into various aspects of leopard predation patterns and the environmental factors that influence them, we aim to contribute significantly to understanding human-leopard conflicts and developing effective mitigation strategies.</p>
+         <sec>
+            <title>Livestock depredation by leopards</title>
+            <p>This study revealed that leopards primarily preyed on goats, followed by sheep and cattle. This predation pattern aligns with the livestock population ratios in the study districts, as the Ministry of Agricultural and Livestock Development Nepal (<xref ref-type="bibr" rid="ref-54">MOALD, 2021</xref>) reported in 2021: 50% goats, 7% sheep, 29% cattle, and 14% buffalo. In contrast, sheep were the second most vulnerable prey livestock to leopards in the study area despite constituting the smallest proportion of the population compared to cattle and buffalo. Goats and sheep, as opposed to cattle and buffalo, exhibit less defensive behavior (<xref ref-type="bibr" rid="ref-28">Dhungana et al., 2019</xref>), making them easier prey for leopards to capture. Although the diet of the leopard ranges mainly from small to some very large prey (&gt;100 kg) (<xref ref-type="bibr" rid="ref-49">Lovari, Ventimiglia &amp; Minder, 2013</xref>), they generally prefer species weighing between 10–40 kg (<xref ref-type="bibr" rid="ref-36">Hayward et al., 2006</xref>) and 2–25 kg (<xref ref-type="bibr" rid="ref-49">Lovari, Ventimiglia &amp; Minder, 2013</xref>). As a result, they exhibit similar size preferences when preying on goats and sheep. Moreover, the lesser killing of cattle and buffalos in the study area might be attributed to their large body size, which is not preferred by leopards (<xref ref-type="bibr" rid="ref-49">Lovari, Ventimiglia &amp; Minder, 2013</xref>; <xref ref-type="bibr" rid="ref-36">Hayward et al., 2006</xref>).</p>
+         </sec>
+         <sec>
+            <title>Seasonal and time-based variations in livestock depredation by leopards</title>
+            <p>Our analysis showed strong variations in livestock losses among seasons, months, and times. Most leopard attacks on livestock occur during the dry season (winter and summer). Our results coincide with studies conducted by <xref ref-type="bibr" rid="ref-55">Naha et al. (2020)</xref> in the Himalayan region of India and <xref ref-type="bibr" rid="ref-75">Sijapati et al. (2021)</xref> in the Terai region of Nepal. The dry season corresponds with the planting and harvesting of agricultural crops. During these months, farmers are busy with crop harvesting and production, leaving their livestock ranging freely (<xref ref-type="bibr" rid="ref-55">Naha et al., 2020</xref>). Due to the cold temperatures in the winter, managing livestock guarding also becomes difficult for herders. Negligence by herders is regarded as one of the main contributing factors to livestock losses by predators (<xref ref-type="bibr" rid="ref-50">Maclennan et al., 2009</xref>).</p>
+            <p>Moreover, the months of the winter season (November and December) receive less rainfall and thus require free grazing of livestock in forest areas due to the limited availability of fodder for stall feeding, making them more vulnerable to leopard attacks (<xref ref-type="bibr" rid="ref-28">Dhungana et al., 2019</xref>). Several studies have reported leopard behavior as nocturnal (<xref ref-type="bibr" rid="ref-61">Odden et al., 2014</xref>; <xref ref-type="bibr" rid="ref-5">Ahmed et al., 2012</xref>; <xref ref-type="bibr" rid="ref-65">Qamar et al., 2010</xref>). However, some studies also reported higher livestock depredation by leopards during the daytime (<xref ref-type="bibr" rid="ref-55">Naha et al., 2020</xref>; <xref ref-type="bibr" rid="ref-84">Woodroffe et al., 2007</xref>). In our study, the timing of leopard attacks on livestock also varied significantly, with peak occurrence during the evening time (4 PM–8 PM), similar to the studies conducted by <xref ref-type="bibr" rid="ref-26">Dar et al. (2009)</xref> at Machiara National Park, Pakistan. Multiple factors, such as animal husbandry practices and the availability of alternate prey, influence the timing of leopard depredation on livestock (<xref ref-type="bibr" rid="ref-8">Akrim et al., 2021</xref>). To sum up, our study emphasizes the significant impact of seasonality and daily timing on leopard predation of livestock, echoing findings from various regions. These insights underscore the complex interplay of factors, including animal husbandry practices and prey availability, in shaping the patterns of leopard attacks on livestock.</p>
+         </sec>
+         <sec>
+            <title>Factors influencing leopard predation on livestock</title>
+            <p>This study revealed that forest area, agricultural area, slope, distance to protected areas, distance to settlements, length of the river, and elevation affect livestock kills by leopards (<xref ref-type="table" rid="table-3">Table 3</xref>). In India, the availability of water resources emerged as a spatial factor influencing leopard predation rates, as previously highlighted by <xref ref-type="bibr" rid="ref-42">Karanth et al. (2013)</xref>. This observation resonates with similar research conducted in arid ecosystems of Africa, where water availability has consistently been identified as a primary driver of human-carnivore conflicts (<xref ref-type="bibr" rid="ref-1">Abade et al., 2018</xref>; <xref ref-type="bibr" rid="ref-17">Beattie et al., 2020</xref>). Our study corroborates these established findings. Specifically, we found a statistically significant positive correlation between the length of the river and the probability of livestock depredation by leopards. Rural villages heavily rely on livestock rearing as a prominent profession in our study area, which is characterized by higher-sloped geographical terrain and lush forests. Previous studies, such as <xref ref-type="bibr" rid="ref-70">Rostro-García et al. (2016)</xref>, have reported leopard predation on livestock in rugged areas of Bhutan. Our study revealed a contrasting pattern where the probability of livestock depredation decreased with increasing slope. This finding can be attributed to the already prevalent sloped geographical terrain in our study area, which may act as a natural deterrent for leopards, making it more difficult to access and prey upon livestock. Interestingly, the study conducted by <xref ref-type="bibr" rid="ref-69">Rather, Kumar &amp; Khan (2020)</xref> also observed high occurrences of leopards on gentle slopes, indicating that leopard behavior and habitat preferences can vary across different regions. These findings highlight the complexity of the relationship between slope and leopard predation and emphasize the need for further research to understand better the factors influencing livestock depredation in diverse geographical settings.</p>
+            <p>With increasing distance from protected areas, we observed a decreasing trend in leopard predation on livestock. Our findings are consistent with studies conducted by <xref ref-type="bibr" rid="ref-23">Constant (2014)</xref> in South Africa. However, <xref ref-type="bibr" rid="ref-55">Naha et al. (2020)</xref> documented contrasting results and found that conflicts with leopards were higher as they moved farther away from reserves. Factors such as habitat availability, prey availability, and local community dynamics can play significant roles in shaping the patterns of leopard predation on livestock. Further research is needed to understand the underlying mechanisms driving these variations and develop context-specific strategies for mitigating human-leopard conflicts.</p>
+            <p>This study revealed that elevation was a significant factor for leopard attacks on livestock, implying that higher elevations were linked to an increased likelihood of leopard attacks on livestock. Leopards can be found throughout Nepal, from the low-lying Terai (100 m) to the Himalayan peaks (4,000 m) (<xref ref-type="bibr" rid="ref-28">Dhungana et al., 2019</xref>). This finding aligns with recent research conducted by <xref ref-type="bibr" rid="ref-12">Baral et al. (2023)</xref>, which suggests that leopards are experiencing a shift in their habitat preferences in response to the effects of climate change. As temperature rises and ecosystems undergo transformations, leopards may be compelled to explore higher-elevation areas in search of suitable habitats and prey resources. Consequently, the increased presence of leopards at higher elevations may bring a higher incidence of livestock attacks in these regions.</p>
+            <p>In the rural villages inside the Annapurna Conservation Area (ACA), livestock grazing practices are prevalent throughout the year, with cattle sheds strategically positioned at different elevation ranges within the forest. This availability of prey, facilitated by the existing livestock husbandry practices, may be one of the reasons why the probability of leopard predation on livestock is positively associated with the forested area. The mid-hills region of Nepal has witnessed an increase in forest area in recent decades, which could further contribute to higher carnivore-related livestock depredations, as found by <xref ref-type="bibr" rid="ref-52">Michalski et al. (2006)</xref>.</p>
+            <p>Despite this trend, studies have also shown that leopards exhibit adaptability to human-modified landscapes (<xref ref-type="bibr" rid="ref-13">Baral et al., 2021</xref>; <xref ref-type="bibr" rid="ref-61">Odden et al., 2014</xref>; <xref ref-type="bibr" rid="ref-24">Constant, Bell &amp; Hill, 2015</xref>). A study conducted by <xref ref-type="bibr" rid="ref-18">Bista et al. (2022)</xref> in Nepal’s Kathmandu district further strengthens this assertion, revealing a substantial leopard presence in areas characterized by high human population densities. This underscores the leopard’s capacity to thrive in proximity to human settlements. Furthermore, the settlements in our study area are mostly scattered and not so densely populated, allowing leopards to dwell nearby. This adaptability, in conjunction with the easy availability of livestock near the settlements, likely contributes to the observed increase in livestock depredation with a decrease in distance from settlements.</p>
+            <p>Our findings support a positive association between livestock depredation and agricultural land, consistent with previous studies by <xref ref-type="bibr" rid="ref-46">Kshettry, Vaidyanathan &amp; Athreya (2018)</xref> and <xref ref-type="bibr" rid="ref-40">Kabir et al. (2014)</xref>, which reported higher leopard predation on livestock in human-use landscapes, especially in areas with agricultural activities. Agricultural lands provide a potential food source for leopards, including domestic livestock like cattle, buffalo, goats, and chickens. The remarkable adaptive nature of leopards (<xref ref-type="bibr" rid="ref-18">Bista et al., 2022</xref>) allows them to exploit these human-modified habitats for hunting and acquiring additional food resources. <xref ref-type="bibr" rid="ref-46">Kshettry, Vaidyanathan &amp; Athreya (2018)</xref> even reported a higher contribution of livestock to the leopard diet from human-use landscapes. The ability of leopards to cover large home ranges and their highly adaptive nature (<xref ref-type="bibr" rid="ref-1">Abade et al., 2018</xref>) enables them to persist in areas with varying degrees of human presence (<xref ref-type="bibr" rid="ref-62">Odden, Wegge &amp; Fredriksen, 2010</xref>). Despite their adaptive behaviors, leopards may avoid areas with higher human settlement density due to potential conflicts and increased human activity, thereby limiting their predation on livestock in such regions. Hence, our results suggest that while leopards may exploit agricultural land for hunting opportunities, they may also exhibit caution and avoid areas with denser human populations. This dual pattern intricate interplay of ecological and behavioral factors underscores the complex dynamics of human-leopard interactions, necessitating further research on spatial dynamics of settlements and their impact on human-leopard conflicts.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>Conclusion</title>
+         <p>Our findings offer valuable insights for managing human-leopard conflicts in the study area and beyond. The conflict risk maps generated are instrumental in pinpointing high-risk regions where resources and policy changes can be strategically directed. Key mitigation strategies include enhancing corral structures, reinforcing stock guarding, and discouraging livestock grazing in vulnerable areas. Collaborative efforts among stakeholders are essential for successful coexistence between communities and leopards. Effective guarding is crucial in the winter and summer months, especially in December and March when leopard attacks on cattle are at their worst. Building safer or predator-proof corrals and emphasizing stall-feeding techniques, particularly in locations with forest fringes, are necessary. It is also necessary to avoid grazing livestock inside dense forests and near water bodies. If grazing is unavoidable in such areas, we advise using communally coordinated herding practices. Developing a conflict mitigation strategy that incorporates cooperation between divisional forest offices, local populations, and conservationists will be essential to encourage coexistence between people and leopards. We recommend a detailed and extensive study to understand the habitat utilization pattern of leopards at a finer scale through intensive camera trapping and radio telemetry methods in the study area.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title>Supplemental Information</title>
+         <supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16516/DataS1.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16516/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Data binomial</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16516/DataS2.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16516/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Time and season</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We thank Dr. Dipanjan Naha, Mr. Manoj Subedi, and Mr. Bikram Gautam for their constant support and motivation.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>Bikram Shrestha is a general member of Green Governance Nepal and employee of Department of Biodiversity Research, Global Change Research Institute, Czech Academy of Sciences, Brno, Czech Republic.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Saurav Lamichhane</xref> conceived and designed the experiments, performed the experiments, prepared figures and/or tables, authored or reviewed drafts of the article, identified funding agency, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Divya Bhattarai</xref> conceived and designed the experiments, performed the experiments, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Tek Maraseni</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Kyle J. Shaney</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Jhamak Bahadur Karki</xref> performed the experiments, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-6" fn-type="con"><p><xref ref-type="contrib" rid="author-6">Binaya Adhikari</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-7" fn-type="con"><p><xref ref-type="contrib" rid="author-7">Pratik Pandeya</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-8" fn-type="con"><p><xref ref-type="contrib" rid="author-8">Bikram Shrestha</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-9" fn-type="con"><p><xref ref-type="contrib" rid="author-9">Hari Adhikari</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Field Study Permissions</title><fn id="addinfo-1"><p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+            <p>Field experiments were approved by the Department of Forest and Watershed Management (Permission number: 279/077/078).</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-2"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw measurements are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplementary Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Abade et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Abade</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Cusack</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Moll</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Strampelli</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Dickman</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Macdonald</surname>
+                     <given-names>DW</given-names>
+                  </name>
+                  <name>
+                     <surname>Montgomery</surname>
+                     <given-names>RA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Spatial variation in leopard (Panthera pardus) site use across a gradient of anthropogenic pressure in Tanzania’s Ruaha landscape</article-title>
+               <source>PLOS ONE</source>
+               <volume>13</volume>
+               <issue>10</issue>
+               <elocation-id>e0204370</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0204370</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Acharya et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Acharya</surname>
+                     <given-names>KP</given-names>
+                  </name>
+                  <name>
+                     <surname>Paudel</surname>
+                     <given-names>PK</given-names>
+                  </name>
+                  <name>
+                     <surname>Jnawali</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Neupane</surname>
+                     <given-names>PR</given-names>
+                  </name>
+                  <name>
+                     <surname>Koehl</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Can forest fragmentation and configuration work as indicators of human-wildlife conflict? Evidences from human death and injury by wildlife attacks in Nepal</article-title>
+               <source>Ecological Indicators</source>
+               <volume>80</volume>
+               <fpage>74</fpage>
+               <lpage>83</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ecolind.2017.04.037</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Acharya et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Acharya</surname>
+                     <given-names>KP</given-names>
+                  </name>
+                  <name>
+                     <surname>Paudel</surname>
+                     <given-names>PK</given-names>
+                  </name>
+                  <name>
+                     <surname>Neupane</surname>
+                     <given-names>PR</given-names>
+                  </name>
+                  <name>
+                     <surname>Köhl</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Human-wildlife conflicts in Nepal: patterns of human fatalities and injuries caused by large mammals</article-title>
+               <source>PLOS ONE</source>
+               <volume>11</volume>
+               <issue>9</issue>
+               <elocation-id>e0161717</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0161717</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Adhikari et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adhikari</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Baral</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhandari</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Szydlowski</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kunwar</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Panthi</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Neupane</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Koirala</surname>
+                     <given-names>RK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Potential risk zone for anthropogenic mortality of carnivores in Gandaki Province, Nepal</article-title>
+               <source>Ecology and Evolution</source>
+               <volume>12</volume>
+               <issue>1</issue>
+               <elocation-id>e8491</elocation-id>
+               <pub-id pub-id-type="doi">10.1002/ece3.8491</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Ahmed et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ahmed</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Prusty</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Jena</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Dave</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Das</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Sahu</surname>
+                     <given-names>HK</given-names>
+                  </name>
+                  <name>
+                     <surname>Rout</surname>
+                     <given-names>SD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Prevailing human carnivore conflict in Kanha-Achanakmar corridor, Central India</article-title>
+               <source>World Journal of Zoology</source>
+               <volume>7</volume>
+               <issue>2</issue>
+               <fpage>158</fpage>
+               <lpage>164</lpage>
+               <pub-id pub-id-type="doi">10.5829/idosi.wjz.2012.7.2.6335</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Aiello-Lammens et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aiello-Lammens</surname>
+                     <given-names>ME</given-names>
+                  </name>
+                  <name>
+                     <surname>Boria</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Radosavljevic</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Vilela</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>RP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>spThin: an R package for spatial thinning of species occurrence records for use in ecological niche models</article-title>
+               <source>Ecography</source>
+               <volume>38</volume>
+               <issue>5</issue>
+               <fpage>541</fpage>
+               <lpage>545</lpage>
+               <pub-id pub-id-type="doi">10.1111/ecog.01132</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Akaike (1973)</label><element-citation publication-type="confproc">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Akaike</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1973">1973</year>
+               <article-title>Information theory and an extension of the maximum likelihood principle</article-title>
+               <conf-name>Proceedings of the 2nd international symposium on information</conf-name>
+               <conf-sponsor>Akademiai Kiado</conf-sponsor>
+               <conf-loc>Budapest</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Akrim et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Akrim</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Mahmood</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Belant</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Nadeem</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Qasim</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Zangi</surname>
+                     <given-names>IUD</given-names>
+                  </name>
+                  <name>
+                     <surname>Asadi</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Livestock depredations by leopards in Pir Lasura National Park, Pakistan: characteristics, control and costs</article-title>
+               <source>Wildlife Biology</source>
+               <volume>2021</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>7</lpage>
+               <pub-id pub-id-type="doi">10.2981/wlb.00782</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Alaska Satellite Facility (2021)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>Alaska Satellite Facility (ASF)</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <uri>https://asf.alaska.edu</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2022-04-30">30 April 2022</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Allouche, Tsoar &amp; Kadmon (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allouche</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Tsoar</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kadmon</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Assessing the accuracy of species distribution models: prevalence, kappa and the true skill statistic (TSS)</article-title>
+               <source>Journal of Applied Ecology</source>
+               <volume>43</volume>
+               <issue>6</issue>
+               <fpage>1223</fpage>
+               <lpage>1232</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2664.2006.01214.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Athreya et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Athreya</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Odden</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Linnell</surname>
+                     <given-names>JDC</given-names>
+                  </name>
+                  <name>
+                     <surname>Karanth</surname>
+                     <given-names>KU</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Translocation as a tool for mitigating conflict with leopards in human-dominated landscapes of India</article-title>
+               <source>Conservation Biology</source>
+               <volume>25</volume>
+               <issue>1</issue>
+               <fpage>133</fpage>
+               <lpage>141</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1523-1739.2010.01599.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Baral et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baral</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Adhikari</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhandari</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Kunwar</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>HP</given-names>
+                  </name>
+                  <name>
+                     <surname>Aryal</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ji</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Impact of climate change on distribution of common leopard (Panthera pardus) and its implication on conservation and conflict in Nepal</article-title>
+               <source>Heliyon</source>
+               <volume>9</volume>
+               <issue>5</issue>
+               <elocation-id>e12807</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.heliyon.2023.e12807</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Baral et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baral</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>HP</given-names>
+                  </name>
+                  <name>
+                     <surname>Rimal</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Thapa-Magar</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhattarai</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Kunwar</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Aryal</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ji</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Characterization and management of human-wildlife conflicts in mid-hills outside protected areas of Gandaki province, Nepal</article-title>
+               <source>PLOS ONE</source>
+               <volume>16</volume>
+               <issue>11</issue>
+               <elocation-id>e0260307</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0260307</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Barbet-Massin et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barbet-Massin</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Jiguet</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Albert</surname>
+                     <given-names>CH</given-names>
+                  </name>
+                  <name>
+                     <surname>Thuiller</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Selecting pseudo-absences for species distribution models: how, where and how many?</article-title>
+               <source>Methods in Ecology and Evolution</source>
+               <volume>3</volume>
+               <issue>2</issue>
+               <fpage>327</fpage>
+               <lpage>338</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.2041-210X.2011.00172.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Barton (2009)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barton</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <data-title>MuMIn: multi-model inference</data-title>
+               <version designator="0.12.2/r18">R Package Version 0.12.2/r18</version>
+               <uri>http://R-Forge.R-project.org/projects/mumin/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Barton &amp; Barton (2020)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barton</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Barton</surname>
+                     <given-names>MK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>MuMIn: multi-model inference</article-title>
+               <version designator="1.43.17">R package version 1.43.17. Version 1, 18</version>
+               <uri>https://CRAN.R-project.org/package=MuMIn</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Beattie et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Beattie</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Olson</surname>
+                     <given-names>ER</given-names>
+                  </name>
+                  <name>
+                     <surname>Kissui</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Kirschbaum</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kiffner</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Predicting livestock depredation risk by African lions (Panthera leo) in a multi-use area of northern Tanzania</article-title>
+               <source>European Journal of Wildlife Research</source>
+               <volume>66</volume>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10344-019-1348-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Bista et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bista</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Chanchani</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Subedi</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Bajracharya</surname>
+                     <given-names>SB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>The peri-urban leopards of Kathmandu: assessing determinants of presence and predation on domestic animals</article-title>
+               <source>Oryx</source>
+               <volume>56</volume>
+               <issue>1</issue>
+               <fpage>91</fpage>
+               <lpage>100</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Boomsma (2014)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Boomsma</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <source>Regression diagnostics with R. Regrdiag R.tEx</source>
+               <publisher-name>Department of Statistics &amp; Measurement Theory. University of Groningen, Groningen Netherlands</publisher-name>
+               <fpage>22</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Broekhuis, Cushman &amp; Elliot (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Broekhuis</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Cushman</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Elliot</surname>
+                     <given-names>NB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Identification of human—carnivore conflict hotspots to prioritize mitigation efforts</article-title>
+               <source>Ecology and Evolution</source>
+               <volume>7</volume>
+               <fpage>10630</fpage>
+               <lpage>10639</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Burnham &amp; Anderson (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Burnham</surname>
+                     <given-names>KP</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>DR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Kullback—Leibler information as a basis for strong inference in ecological studies</article-title>
+               <source>Wildlife Research</source>
+               <volume>28</volume>
+               <fpage>111</fpage>
+               <lpage>119</lpage>
+               <pub-id pub-id-type="doi">10.1071/WR99107</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Chatterjee &amp; Hadi (2013)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chatterjee</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hadi</surname>
+                     <given-names>AS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <source>Regression analysis by example</source>
+               <publisher-name>Wiley</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <fpage>98</fpage>
+               <edition designator="5">5th edition</edition>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Constant (2014)</label><element-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Constant</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>A socio-ecological approach towards understanding conflict between leopards (Panthera pardus) and humans in South Africa: implications for leopard conservation and farming livelihoods</article-title>
+               <source>Doctoral dissertation</source>
+               <institution>Durham University</institution>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Constant, Bell &amp; Hill (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Constant</surname>
+                     <given-names>NL</given-names>
+                  </name>
+                  <name>
+                     <surname>Bell</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hill</surname>
+                     <given-names>RA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>The impacts, characterisation and management of human—leopard conflict in a multi-use land system in South Africa</article-title>
+               <source>Biodiversity and Conservation</source>
+               <volume>24</volume>
+               <issue>12</issue>
+               <fpage>2967</fpage>
+               <lpage>2989</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10531-015-0989-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Dalerum, Selby &amp; Pirk (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dalerum</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Selby</surname>
+                     <given-names>LO</given-names>
+                  </name>
+                  <name>
+                     <surname>Pirk</surname>
+                     <given-names>CW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Relationships between livestock damages and large carnivore densities in Sweden</article-title>
+               <source>Frontiers in Ecology and Evolution</source>
+               <volume>7</volume>
+               <fpage>507</fpage>
+               <pub-id pub-id-type="doi">10.3389/fevo.2019.00507</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Dar et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dar</surname>
+                     <given-names>NI</given-names>
+                  </name>
+                  <name>
+                     <surname>Minhas</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Zaman</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Linkie</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Predicting the patterns, perceptions and causes of human—carnivore conflict in and around Machiara National Park, Pakistan</article-title>
+               <source>Biological Conservation</source>
+               <volume>142</volume>
+               <issue>10</issue>
+               <fpage>2076</fpage>
+               <lpage>2082</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biocon.2009.04.003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Dheer et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dheer</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Davidian</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Courtiol</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Bailey</surname>
+                     <given-names>LD</given-names>
+                  </name>
+                  <name>
+                     <surname>Wauters</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Naman</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Shayo</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Höner</surname>
+                     <given-names>OP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Diurnal pastoralism does not reduce juvenile recruitment nor elevate allostatic load in spotted hyenas</article-title>
+               <source>Journal of Animal Ecology</source>
+               <volume>91</volume>
+               <issue>11</issue>
+               <fpage>2289</fpage>
+               <lpage>2300</lpage>
+               <pub-id pub-id-type="doi">10.1111/1365-2656.13812</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Dhungana et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dhungana</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Lamichhane</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Savini</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Dhakal</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Poudel</surname>
+                     <given-names>BS</given-names>
+                  </name>
+                  <name>
+                     <surname>Karki</surname>
+                     <given-names>JB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Livestock depredation by leopards around Chitwan national park, Nepal</article-title>
+               <source>Mammalian Biology</source>
+               <volume>96</volume>
+               <issue>1</issue>
+               <fpage>7</fpage>
+               <lpage>13</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.mambio.2019.03.006</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>DNPWC (2017)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>DNPWC</collab>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <source>Profiling of protected and human wildlife conflicts associated wild animals in Nepal</source>
+               <publisher-name>Department of National Parks and Wildlife Conservation</publisher-name>
+               <publisher-loc>Kathmandu</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Elith et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Elith</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Phillips</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Hastie</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Dudík</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Chee</surname>
+                     <given-names>YE</given-names>
+                  </name>
+                  <name>
+                     <surname>Yates</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>A statistical explanation of MaxEnt for ecologists</article-title>
+               <source>Diversity and Distributions</source>
+               <volume>17</volume>
+               <issue>1</issue>
+               <fpage>43</fpage>
+               <lpage>57</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1472-4642.2010.00725.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>ESRI (2017)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>ESRI</collab>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <source>ArcGIS desktop: release 10.5</source>
+               <publisher-name>Environmental Systems Research Institute</publisher-name>
+               <publisher-loc>Redlands, California</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>ESRI (2020)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>ESRI</collab>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Sentinel-2 10-meter land use/land cover</article-title>
+               <uri>https://livingatlas.arcgis.com/landcover/</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2022-05-22">22 May 2022</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Fernandes et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fernandes</surname>
+                     <given-names>AAT</given-names>
+                  </name>
+                  <name>
+                     <surname>Figueiredo Filho</surname>
+                     <given-names>DB</given-names>
+                  </name>
+                  <name>
+                     <surname>Rocha</surname>
+                     <given-names>ECD</given-names>
+                  </name>
+                  <name>
+                     <surname>Nascimento</surname>
+                     <given-names>WDS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Read this paper if you want to learn logistic regression</article-title>
+               <source>Revista de Sociologia e Politica</source>
+               <volume>28</volume>
+               <fpage>006</fpage>
+               <pub-id pub-id-type="doi">10.1590/1678-987320287406en</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Fitzpatrick, Gotelli &amp; Ellison (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fitzpatrick</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Gotelli</surname>
+                     <given-names>NJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Ellison</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>MaxEnt versus MaxLike: empirical comparisons with ant species distributions</article-title>
+               <source>Ecosphere</source>
+               <volume>4</volume>
+               <issue>5</issue>
+               <fpage>1</fpage>
+               <lpage>15</lpage>
+               <pub-id pub-id-type="doi">10.1890/ES13-00066.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Graham, Beckerman &amp; Thirgood (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Graham</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Beckerman</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Thirgood</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Human—predator—prey conflicts: ecological correlates, prey losses and patterns of management</article-title>
+               <source>Biological Conservation</source>
+               <volume>122</volume>
+               <issue>2</issue>
+               <fpage>159</fpage>
+               <lpage>171</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biocon.2004.06.006</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Hayward et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hayward</surname>
+                     <given-names>MW</given-names>
+                  </name>
+                  <name>
+                     <surname>Henschel</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Brien</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Hofmeyr</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Balme</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Kerley</surname>
+                     <given-names>GI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Prey preferences of the leopard (<italic>Panthera pardus</italic>)</article-title>
+               <source>Journal of Zoology</source>
+               <volume>270</volume>
+               <issue>2</issue>
+               <fpage>298</fpage>
+               <lpage>313</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1469-7998.2006.00139.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Inskip &amp; Zimmermann (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Inskip</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Zimmermann</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Human-felid conflict: a review of patterns and priorities worldwide</article-title>
+               <source>Oryx</source>
+               <volume>43</volume>
+               <issue>1</issue>
+               <fpage>18</fpage>
+               <lpage>34</lpage>
+               <pub-id pub-id-type="doi">10.1017/S003060530899030X</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Jacobson et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jacobson</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerngross</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Lemeris Jr</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Schoonover</surname>
+                     <given-names>RF</given-names>
+                  </name>
+                  <name>
+                     <surname>Anco</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Breitenmoser-Würsten</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Durant</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Farhadinia</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Henschel</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Kamler</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Laguardia</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Rostro-García</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Stein</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Dollar</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Leopard (<italic>Panthera pardus</italic>) status, distribution, and the research efforts across its range</article-title>
+               <source>PeerJ</source>
+               <volume>4</volume>
+               <elocation-id>e1974</elocation-id>
+               <pub-id pub-id-type="doi">10.7717/peerj.1974</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Jnawali et al. (2011)</label><element-citation publication-type="report">
+               <person-group person-group-type="compiler">
+                  <name>
+                     <surname>Jnawali</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Baral</surname>
+                     <given-names>HS</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Acharya</surname>
+                     <given-names>KP</given-names>
+                  </name>
+                  <name>
+                     <surname>Upadhyay</surname>
+                     <given-names>GP</given-names>
+                  </name>
+                  <name>
+                     <surname>Pandey</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Shrestha</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Joshi</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Laminchhane</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Griffiths</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Khatiwada</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Subedi</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Amin</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <source>The status of Nepal mammals</source>
+               <institution>The National Red List Series, Department of National Parks and Wildlife Conservation, Kathmandu, Nepal</institution>
+               <uri>https://www.researchgate.net/publication/258516080_The_Status_of_Nepal_Mammals_The_National_Red_List_Series_Department_of_National_Parks_and_Wildlife_Conservation_Kathmandu_Nepal</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2023-10-13">13 October 2023</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Kabir et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kabir</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ghoddousi</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Awan</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Awan</surname>
+                     <given-names>MN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Assessment of human—leopard conflict in Machiara National Park, Azad Jammu and Kashmir, Pakistan</article-title>
+               <source>European Journal of Wildlife Research</source>
+               <volume>60</volume>
+               <fpage>291</fpage>
+               <lpage>296</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10344-013-0782-z</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Kandel et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kandel</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Neupane</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Miya</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Sadadev</surname>
+                     <given-names>BM</given-names>
+                  </name>
+                  <name>
+                     <surname>Khatri</surname>
+                     <given-names>ND</given-names>
+                  </name>
+                  <name>
+                     <surname>Dhami</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>An emerging issue of human-leopard conflict in the human-dominated landscape of mid-hills: a case study from Tanahun District of Nepal</article-title>
+               <source>International Journal of Zoology</source>
+               <volume>2023</volume>
+               <fpage>5690289</fpage>
+               <pub-id pub-id-type="doi">10.1155/2023/5690289</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Karanth et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Karanth</surname>
+                     <given-names>KK</given-names>
+                  </name>
+                  <name>
+                     <surname>Gopalaswamy</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Prasad</surname>
+                     <given-names>PK</given-names>
+                  </name>
+                  <name>
+                     <surname>Dasgupta</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Patterns of human—wildlife conflicts and compensation: insights from Western Ghats protected areas</article-title>
+               <source>Biological Conservation</source>
+               <volume>166</volume>
+               <fpage>175</fpage>
+               <lpage>185</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biocon.2013.06.027</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Karki &amp; Panthi (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Karki</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Panthi</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Factors affecting livestock depredation by snow leopards (<italic>Panthera uncia</italic>) in the Himalayan region of Nepal</article-title>
+               <source>PeerJ</source>
+               <volume>9</volume>
+               <elocation-id>e11575</elocation-id>
+               <pub-id pub-id-type="doi">10.7717/peerj.11575</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Karki &amp; Rawat (2014)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Karki</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Rawat</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Human-leopard conflict in Nepal: a case study from Baitadi District. DNPWC, 2014</article-title>
+               <source>Special issues on biodiversity conservation efforts in Nepal</source>
+               <publisher-name>Department of National Parks and Wildlife Conservation</publisher-name>
+               <publisher-loc>Kathmandu</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Koirala et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Koirala</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Aryal</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Parajuli</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>David</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Human-common leopard (<italic>Panthera pardus</italic>) conflict in lower belt of Annapurna Conservation Area, Nepal</article-title>
+               <source>Journal of Research in Conservation Biology</source>
+               <volume>1</volume>
+               <fpage>005</fpage>
+               <lpage>012</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Kshettry, Vaidyanathan &amp; Athreya (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kshettry</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Vaidyanathan</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Athreya</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Diet selection of Leopards (<italic>Panthera pardus</italic>) in a human-use landscape in North-Eastern India</article-title>
+               <source>Tropical Conservation Science</source>
+               <volume>11</volume>
+               <elocation-id>1940082918764635</elocation-id>
+               <pub-id pub-id-type="doi">10.1177/1940082918764635</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Lamichhane et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lamichhane</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Lamichhane</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Regmi</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Dhungana</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Thapa</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Prasai</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Gurung</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhattarai</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Paudel</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Subedi</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Leopard (Panthera pardus) occupancy in the Chure range of Nepal</article-title>
+               <source>Ecology and Evolution</source>
+               <volume>11</volume>
+               <issue>20</issue>
+               <fpage>13641</fpage>
+               <lpage>13660</lpage>
+               <pub-id pub-id-type="doi">10.1002/ece3.8105</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Lamichhane et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lamichhane</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Persoon</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name>
+                     <surname>Leirs</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Poudel</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Subedi</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Pokheral</surname>
+                     <given-names>CP</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhattarai</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Thapaliya</surname>
+                     <given-names>BP</given-names>
+                  </name>
+                  <name>
+                     <surname>de Iongh</surname>
+                     <given-names>HH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Spatio-temporal patterns of attacks on human and economic losses from wildlife in Chitwan National Park, Nepal</article-title>
+               <source>PLOS ONE</source>
+               <volume>13</volume>
+               <issue>4</issue>
+               <elocation-id>e0195373</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0195373</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Lovari, Ventimiglia &amp; Minder (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lovari</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Ventimiglia</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Minder</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Food habits of two leopard species, competition, climate change and upper treeline: a way to the decrease of an endangered species?</article-title>
+               <source>Ethology Ecology &amp; Evolution</source>
+               <volume>25</volume>
+               <issue>4</issue>
+               <fpage>305</fpage>
+               <lpage>318</lpage>
+               <pub-id pub-id-type="doi">10.1080/03949370.2013.806362</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Maclennan et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maclennan</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Groom</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Macdonald</surname>
+                     <given-names>DW</given-names>
+                  </name>
+                  <name>
+                     <surname>Frank</surname>
+                     <given-names>LG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Evaluation of a compensation scheme to bring about pastoralist tolerance of lions</article-title>
+               <source>Biological Conservation</source>
+               <volume>142</volume>
+               <issue>11</issue>
+               <fpage>2419</fpage>
+               <lpage>2427</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biocon.2008.12.003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Mateo-Tomás et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mateo-Tomás</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Olea</surname>
+                     <given-names>PP</given-names>
+                  </name>
+                  <name>
+                     <surname>Sánchez-Barbudo</surname>
+                     <given-names>IS</given-names>
+                  </name>
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Alleviating human—wildlife conflicts: identifying the causes and mapping the risk of illegal poisoning of wild fauna</article-title>
+               <source>Journal of Applied Ecology</source>
+               <volume>49</volume>
+               <issue>2</issue>
+               <fpage>376</fpage>
+               <lpage>385</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2664.2012.02119.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Michalski et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Michalski</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Boulhosa</surname>
+                     <given-names>RLP</given-names>
+                  </name>
+                  <name>
+                     <surname>Faria</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Peres</surname>
+                     <given-names>CA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Human—wildlife conflicts in a fragmented Amazonian Forest landscape: determinants of large felid depredation on livestock</article-title>
+               <source>Animal Conservation</source>
+               <volume>9</volume>
+               <issue>2</issue>
+               <fpage>179</fpage>
+               <lpage>188</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1469-1795.2006.00025.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Miller (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Mapping attack hotspots to mitigate human—carnivore conflict: approaches and applications of spatial predation risk modeling</article-title>
+               <source>Biodiversity and Conservation</source>
+               <volume>24</volume>
+               <issue>12</issue>
+               <fpage>2887</fpage>
+               <lpage>2911</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10531-015-0993-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>MOALD (2021)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>MOALD</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Livestock statistics of Nepal (2019/2020): Hariharbhawan, Lalitpur, Nepal</article-title>
+               <uri>https://www.dls.gov.np/downloadfiles/Livestock_Statistics_of_Nepal_2077_78_1659524236-1669717523.pdf</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Naha et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Naha</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Dash</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Chettri</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Chaudhary</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Sonker</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Heurich</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Rawat</surname>
+                     <given-names>GS</given-names>
+                  </name>
+                  <name>
+                     <surname>Sathyakumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Landscape predictors of human—leopard conflicts within multi-use areas of the Himalayan region</article-title>
+               <source>Scientific Reports</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>12</lpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-020-67980-w</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Naha, Sathyakumar &amp; Rawat (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Naha</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Sathyakumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Rawat</surname>
+                     <given-names>GS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Understanding drivers of human-leopard conflicts in the Indian Himalayan region: spatio-temporal patterns of conflicts and perception of local communities towards conserving large carnivores</article-title>
+               <source>PLOS ONE</source>
+               <volume>13</volume>
+               <issue>10</issue>
+               <elocation-id>e0204528</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0204528</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>NTNC National Trust for Nature Conservation (2018)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <collab>NTNC (National Trust for Nature Conservation)</collab>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <source>Annual report 2018</source>
+               <institution>NTNC: Khumaltar, Lalitpur, Nepal</institution>
+               <uri>https://www.ntnc.org.np/sites/default/files/doc_publication/2019-10/NTNC%20Annual_Report%202018.pdf</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>OCHA Nepal (2021a)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <collab>OCHA Nepal</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021a</year>
+               <article-title>Nepal road network</article-title>
+               <institution>Humanitarian Data Exchange</institution>
+               <uri>https://data.humdata.org/dataset/nepal-watercourses-rivers</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2022-03-28">28 March 2022</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>OCHA Nepal (2021b)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <collab>OCHA Nepal</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021b</year>
+               <article-title>Road network for Nepal</article-title>
+               <institution>Humanitarian Data Exchange</institution>
+               <uri>https://data.humdata.org/dataset/nepal-road-network</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2022-03-28">28 March 2022</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-60"><label>OCHA Nepal (2021c)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <collab>OCHA Nepal</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021c</year>
+               <article-title>Settlements in Nepal</article-title>
+               <institution>Humanitarian Data Exchange</institution>
+               <uri>https://data.humdata.org/dataset/settlements-in-nepal</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2022-03-28">28 March 2022</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-61"><label>Odden et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Odden</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Athreya</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Rattan</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Linnell</surname>
+                     <given-names>JD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Adaptable neighbours: movement patterns of GPS-collared leopards in human dominated landscapes in India</article-title>
+               <source>PLOS ONE</source>
+               <volume>9</volume>
+               <issue>11</issue>
+               <elocation-id>e112044</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0112044</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-62"><label>Odden, Wegge &amp; Fredriksen (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Odden</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Wegge</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Fredriksen</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Do tigers displace leopards? If so, why?</article-title>
+               <source>Ecological Research</source>
+               <volume>25</volume>
+               <issue>4</issue>
+               <fpage>875</fpage>
+               <lpage>881</lpage>
+               <pub-id pub-id-type="doi">10.1007/s11284-010-0723-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-63"><label>Phillips, Anderson &amp; Schapire (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Phillips</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Schapire</surname>
+                     <given-names>RE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Maximum entropy modeling of species geographic distributions</article-title>
+               <source>Ecological Modelling</source>
+               <volume>190</volume>
+               <issue>3–4</issue>
+               <fpage>231</fpage>
+               <lpage>259</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2005.03.026</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-64"><label>Puri et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Puri</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Srivathsa</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Karanth</surname>
+                     <given-names>KK</given-names>
+                  </name>
+                  <name>
+                     <surname>Patel</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>NS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>The balancing act: maintaining leopard-wild prey equilibrium could offer economic benefits to people in a shared forest landscape of central India</article-title>
+               <source>Ecological Indicators</source>
+               <volume>110</volume>
+               <elocation-id>105931</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.ecolind.2019.105931</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-65"><label>Qamar et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Qamar</surname>
+                     <given-names>QZ</given-names>
+                  </name>
+                  <name>
+                     <surname>Dar</surname>
+                     <given-names>NI</given-names>
+                  </name>
+                  <name>
+                     <surname>Ali</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name>
+                     <surname>Minhas</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayub</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Anwar</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Human—leopard conflict: an emerging issue of common leopard conservation in Machiara National Park, Azad Jammu and Kashmir, Pakistan</article-title>
+               <source>Pakistan Journal of Wildlife</source>
+               <volume>1</volume>
+               <fpage>50</fpage>
+               <lpage>56</lpage>
+               <pub-id pub-id-type="doi">10.3724/SP.J.1141.2010.01035</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-66"><label>R Core Team (2021)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>R Core Team</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <data-title>R: a language and environment for statistical computing</data-title>
+               <publisher-name>R Foundation for statistical Computing</publisher-name>
+               <publisher-loc>Vienna</publisher-loc>
+               <uri>https://www.R-project.org/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-67"><label>Racine (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Racine</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Rstudio: a platform-independent IDE for R and sweave</article-title>
+               <source>Journal of Applied Economics</source>
+               <volume>27</volume>
+               <fpage>167</fpage>
+               <lpage>172</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-68"><label>Ramesh et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ramesh</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Kalle</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Milda</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Gayathri</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Thanikodi</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ashish</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Giordano</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Patterns of livestock predation risk by large carnivores in India’s Eastern and Western Ghats</article-title>
+               <source>Global Ecology and Conservation</source>
+               <volume>24</volume>
+               <elocation-id>e01366</elocation-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-69"><label>Rather, Kumar &amp; Khan (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rather</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Khan</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Multi-scale habitat modelling and predicting change in the distribution of tiger and leopard using random forest algorithm</article-title>
+               <source>Scientific Reports</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>19</lpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-020-68167-z</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-70"><label>Rostro-García et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rostro-García</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Tharchen</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Abade</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Astaras</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Cushman</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Macdonald</surname>
+                     <given-names>DW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Scale dependence of felid predation risk: identifying predictors of livestock kills by tiger and leopard in Bhutan</article-title>
+               <source>Landscape Ecology</source>
+               <volume>31</volume>
+               <issue>6</issue>
+               <fpage>1277</fpage>
+               <lpage>1298</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10980-015-0335-9</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-71"><label>Sharma et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Chettri</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Uddin</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Wangchuk</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Joshi</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Tandin</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Pandey</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaira</surname>
+                     <given-names>KS</given-names>
+                  </name>
+                  <name>
+                     <surname>Basnet</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Wangdi</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Dorji</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Mapping human-wildlife conflict hotspots in a transboundary landscape, Eastern Himalaya</article-title>
+               <source>Global Ecology and Conservation</source>
+               <volume>24</volume>
+               <elocation-id>e01284</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.gecco.2020.e01284</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-72"><label>Shehzad et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shehzad</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Nawaz</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pompanon</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Coissac</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Riaz</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Shah</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Taberlet</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Forest without prey: livestock sustain a leopard Panthera pardus population in Pakistan</article-title>
+               <source>Oryx</source>
+               <volume>49</volume>
+               <issue>2</issue>
+               <fpage>248</fpage>
+               <lpage>253</lpage>
+               <pub-id pub-id-type="doi">10.1017/S0030605313001026</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-73"><label>Shrestha et al. (2022)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shrestha</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Khatri</surname>
+                     <given-names>TB</given-names>
+                  </name>
+                  <name>
+                     <surname>Rana</surname>
+                     <given-names>DB</given-names>
+                  </name>
+                  <name>
+                     <surname>Karki</surname>
+                     <given-names>JB</given-names>
+                  </name>
+                  <name>
+                     <surname>Kindlmann</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Snow leopard-human conflict and effectiveness of mitigation measures</article-title>
+               <source>Snow Leopards in Nepal: predator-prey system on the top of the world</source>
+               <publisher-name>Springer International Publishing</publisher-name>
+               <publisher-loc>Cham</publisher-loc>
+               <fpage>177</fpage>
+               <lpage>201</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-3-031-11355-0_8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-74"><label>Signorell et al. (2019)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Signorell</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Aho</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Alfons</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderegg</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Aragon</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Arppe</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Baddeley</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Barton</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Bolker</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Borchers</surname>
+                     <given-names>HW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <data-title>DescTools: tools for descriptive statistics (Version 0.99 28)</data-title>
+               <uri>https://CRAN.R-project.org/package=DescTools</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-75"><label>Sijapati et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sijapati</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>HP</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Subedi</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Belant</surname>
+                     <given-names>JL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Livestock depredation by Leopards and Tigers near Bardia National Park, Nepal</article-title>
+               <source>Animals</source>
+               <volume>11</volume>
+               <issue>7</issue>
+               <fpage>1896</fpage>
+               <pub-id pub-id-type="doi">10.3390/ani11071896</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-76"><label>Sing et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sing</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Sander</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Beerenwinkel</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Lengauer</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>ROCR: visualizing classifier performance in R</article-title>
+               <source>Bioinformatics</source>
+               <volume>21</volume>
+               <issue>20</issue>
+               <fpage>3940</fpage>
+               <lpage>3941</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-77"><label>Stein et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Stein</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Athreya</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerngross</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Balme</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Henschel</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Karanth</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name>
+                     <surname>Miquelle</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Rostro-Garcia</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Kamler</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Laguardia</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Khorozyan</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Panthera pardus</article-title>
+               <source>The IUCN Red List of Threatened Species</source>
+               <volume>2016</volume>
+               <elocation-id>e.T15954A102421779</elocation-id>
+               <pub-id pub-id-type="doi">10.2305/IUCN.UK.2016-1.RLTS.T15954A50659089.en</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-78"><label>Torres, Oliveira &amp; Alves (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Torres</surname>
+                     <given-names>DF</given-names>
+                  </name>
+                  <name>
+                     <surname>Oliveira</surname>
+                     <given-names>ES</given-names>
+                  </name>
+                  <name>
+                     <surname>Alves</surname>
+                     <given-names>RR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Conflicts between humans and terrestrial vertebrates: a global review</article-title>
+               <source>Tropical Conservation Science</source>
+               <volume>11</volume>
+               <elocation-id>1940082918794084</elocation-id>
+               <pub-id pub-id-type="doi">10.1177/1940082918794084</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-79"><label>Treves &amp; Karanth (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Treves</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Karanth</surname>
+                     <given-names>KU</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Human-carnivore conflict and perspectives on carnivore management worldwide</article-title>
+               <source>Conservation Biology</source>
+               <volume>17</volume>
+               <fpage>1491</fpage>
+               <lpage>1499</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1523-1739.2003.00059.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-80"><label>Treves et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Treves</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Martin</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Wydeven</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Wiedenhoeft</surname>
+                     <given-names>JE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Forecasting environmental hazards and the application of risk maps to predator attacks on livestock</article-title>
+               <source>BioScience</source>
+               <volume>61</volume>
+               <issue>6</issue>
+               <fpage>451</fpage>
+               <lpage>458</lpage>
+               <pub-id pub-id-type="doi">10.1525/bio.2011.61.6.7</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-81"><label>Venumière-Lefebvre, Breck &amp; Crooks (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Venumière-Lefebvre</surname>
+                     <given-names>CC</given-names>
+                  </name>
+                  <name>
+                     <surname>Breck</surname>
+                     <given-names>SW</given-names>
+                  </name>
+                  <name>
+                     <surname>Crooks</surname>
+                     <given-names>KR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>A systematic map of human-carnivore coexistence</article-title>
+               <source>Biological Conservation</source>
+               <volume>268</volume>
+               <elocation-id>109515</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.biocon.2022.109515</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-82"><label>Wickham (2016)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wickham</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <data-title>ggplot2: elegant graphics for data analysis</data-title>
+               <publisher-name>Springer-Verlag</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <uri>https://ggplot2.tidyverse.org/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-83"><label>Wisz et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wisz</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Hijmans</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Peterson</surname>
+                     <given-names>AT</given-names>
+                  </name>
+                  <name>
+                     <surname>Graham</surname>
+                     <given-names>CH</given-names>
+                  </name>
+                  <name>
+                     <surname>Guisan</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <collab>NCEAS Predicting Species Distributions Working Group</collab>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Effects of sample size on the performance of species distribution models</article-title>
+               <source>Diversity and Distributions</source>
+               <volume>14</volume>
+               <issue>5</issue>
+               <fpage>763</fpage>
+               <lpage>773</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1472-4642.2008.00482.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-84"><label>Woodroffe et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Woodroffe</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Frank</surname>
+                     <given-names>LG</given-names>
+                  </name>
+                  <name>
+                     <surname>Lindsey</surname>
+                     <given-names>PA</given-names>
+                  </name>
+                  <name>
+                     <surname>Mole Ranah</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Romañach</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Livestock husbandry as a tool for carnivore conservation in Africa’s community rangelands: a case—control study</article-title>
+               <source>Biodiversity and Conservation</source>
+               <volume>16</volume>
+               <issue>5</issue>
+               <fpage>1245</fpage>
+               <lpage>1260</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10531-006-9124-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-85"><label>Yadav et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yadav</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Areendran</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Sarma</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Raj</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Sahana</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Susceptibility assessment of human—leopard conflict in Aravalli landscape of Haryana using geospatial techniques</article-title>
+               <source>Modeling Earth Systems and Environment</source>
+               <volume>7</volume>
+               <issue>3</issue>
+               <fpage>1459</fpage>
+               <lpage>1473</lpage>
+               <pub-id pub-id-type="doi">10.1007/s40808-020-00858-y</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

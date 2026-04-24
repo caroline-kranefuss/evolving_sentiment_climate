@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16622</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16622</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Biodiversity</subject>
+<subject>Entomology</subject>
+<subject>Environmental Impacts</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Living on the edge: urban fireflies (Coleoptera, Lampyridae) in Morelia, Michoacán, Mexico</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-6698-2524</contrib-id>
+<name name-style="western">
+<surname>Pérez-Hernández</surname>
+<given-names>Cisteil X.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Gutiérrez Mancillas</surname>
+<given-names>Ana María</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0003-3862-1024</contrib-id>
+<name name-style="western">
+<surname>del-Val</surname>
+<given-names>Ek</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-2749-8369</contrib-id>
+<name name-style="western">
+<surname>Mendoza-Cuenca</surname>
+<given-names>Luis</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>lfmendoza@umich.mx</email>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>IUCN SSC Firefly Specialist Group, Gland, Switzerland</institution>, <addr-line>Gland</addr-line>, <country>Switzerland</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Faculty of Biology, Behavioral Ecology Laboratory, Universidad Michoacana de San Nicolás de Hidalgo</institution>, <addr-line>Morelia, Michoacán</addr-line>, <country>Mexico</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Universidad Autónoma de Occidente, Los Mochis, Sinaloa, México</institution>, <addr-line>Los Mochis, Sinaloa</addr-line>, <country>Mexico</country></aff>
+<aff id="aff-4">
+<label>4</label><institution>Instituto de Investigaciones en Ecosistemas y Sustentabilidad, Universidad Nacional Autónoma de México</institution>, <addr-line>Morelia, Michoacán</addr-line>, <country>Mexico</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Silva</surname>
+<given-names>Daniel</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-14"><day>14</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16622</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-08-23"><day>23</day><month>8</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-16"><day>16</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Pérez-Hernández et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Pérez-Hernández et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16622"/>
+<abstract>
+<p>Fireflies (Coleoptera, Lampyridae) are a globally threatened group of insects due to habitat loss and fragmentation, light pollution, climate change and pesticides. However, against all odds, some firefly populations persist in urbanized environments where all four of these factors are present simultaneously. In this work, we compiled several data sources to document the diversity of fireflies in the urbanized area of Morelia, characterize their current habitats, and determine the main stressors affecting these bioluminescent insects. We found seven genera and 26 species of fireflies (19 nocturnal, seven diurnal) associated with 32 urban, peri-urban and extra-urban areas; at least, 14 are new records for Michoacán, and the list for the state now includes nine genera and 41 species. Five additional sites were documented as extinction sites. We compared the characteristics of these five sites with those of the sites with extant populations. We found that in Morelia, fireflies are mainly associated with areas that have high to moderate proportions of vegetation cover, are near water bodies, have very gentle to moderate slopes, and are exposed to low levels of light pollution. In contrast, the extinction sites showed high proportions of artificial surfaces and high levels of light pollution. Because some fireflies are considered bioindicators of ecosystem integrity as they are associated to specific habitats, are highly diverse and due to their sensitivity to environmental changes, we consider that sites from Morelia’s urban core and extinction sites show the highest levels of environmental degradation, threatening most fireflies and other insects living in the urban core with local extinction. At the same time, our results also suggest that implementing conservation strategies and sustainable planning for the urban development of Morelia in the short term could allow fireflies and other vital elements of the city’s insect communities to persist for future generations. Restoration and conservation of green areas and nighttime environments are essential for biodiversity and human health, especially in intra-urban zones.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Urbanization</kwd>
+<kwd>Local extinction</kwd>
+<kwd>Nocturnal insects</kwd>
+<kwd>Peri-urbanization</kwd>
+<kwd>Light pollution</kwd>
+<kwd>Urban green areas</kwd>
+<kwd>Citizen science</kwd>
+<kwd>Photinus</kwd>
+<kwd>Photuris</kwd>
+<kwd>Conservation areas</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Coordination of Scientific Research, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH)</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Institute of Science, Technology and Innovation of the Government of Michoacán</funding-source>
+</award-group>
+<award-group id="fund-3">
+<funding-source>Program for Scientific Research Projects of Regional Impact</funding-source>
+<award-id>PICIR-071</award-id>
+</award-group>
+<award-group id="fund-4">
+<funding-source>The National Council of Science and Technology (CONAHCyT) funded Cisteil Xinum Pérez-Hernández’s Postdoctoral Project through the program Estancias Posdoctorales por México</funding-source>
+</award-group>
+<award-group id="fund-6">
+<funding-source>Universidad Michoacana de San Nicolás de Hidalgo</funding-source>
+</award-group>
+<award-group id="fund-7">
+<funding-source>Institute of Science, Technology and Innovation of the Government of Michoacán</funding-source>
+</award-group>
+<award-group id="fund-8">
+<funding-source>Program “Comparte tus Ideas”</funding-source>
+<award-id>ICTI/D.A./213/2023</award-id>
+</award-group>
+<award-group id="fund-9">
+<funding-source>Coordination of Scientific Research, Universidad Michoacana de San Nicolás de Hidalgo</funding-source>
+</award-group>
+<funding-statement>Entomological sampling for this work was funded by the Coordination of Scientific Research, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH) and the Institute of Science, Technology and Innovation of the Government of Michoacán, through the Program for Scientific Research Projects of Regional Impact (PICIR-071). The National Council of Science and Technology (CONAHCyT) funded Cisteil Xinum Pérez-Hernández’s postdoctoral project, of which this publication is a part, through the program “Estancias Posdoctorales por México”. This work was published using the annual institutional membership of the Universidad Michoacana de San Nicolás de Hidalgo through the joint support of the Institute of Science, Technology and Innovation of the Government of Michoacán, through the Program “Comparte tus Ideas” (ICTI/D.A./213/2023) and the Coordination of Scientific Research, Universidad Michoacana de San Nicolás de Hidalgo. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Urban areas are geographical barriers for biodiversity. The most strongly modified environments (<italic>i.e</italic>., the intra-urban or urban core areas) are separated from less drastically transformed suburban, rural, agricultural and wildland zones (extra-urban areas) by an ecotone or peri-urban zone that can sometimes act as continuum, blurring the boundary between urban and non-urban (<xref ref-type="bibr" rid="ref-32">MacGregor-Fors, 2010</xref>). Peri-urbanization refers to the increasing phenomenon of accelerated urbanization in this zone at the periphery of the cities that implies land-cover change, increasing building infrastructure and ecological disturbance, which impacts natural ecosystems and biodiversity, and modifies the urban lifestyle of human communities (<xref ref-type="bibr" rid="ref-57">Viviani, Rocha &amp; Hagen, 2010</xref>; <xref ref-type="bibr" rid="ref-38">Ortiz &amp; Vieyra, 2018</xref>; <xref ref-type="bibr" rid="ref-54">Tzortzakaki et al., 2019</xref>).</p>
+<p>Some studies have shown that high levels of urbanization change insect community structure and provoke a severe decline in their abundance, species richness and diversity (<xref ref-type="bibr" rid="ref-34">Merckx &amp; Van Dyck, 2019</xref>; <xref ref-type="bibr" rid="ref-54">Tzortzakaki et al., 2019</xref>). Insect communities associated with urban core zones also tend to be more homogeneous and less diverse in their ecological functions, which increases their susceptibility to extinction (<xref ref-type="bibr" rid="ref-49">Rocha-Ortega &amp; Castaño-Meneses, 2015</xref>; <xref ref-type="bibr" rid="ref-34">Merckx &amp; Van Dyck, 2019</xref>). Therefore in peri-urban areas, insect diversity can be higher than within the urban core. This is probably due to the presence of both native and introduced entomofauna and of generalist insects that are able to persist within the more diverse/less modified remnant vegetation patches of peri-urban areas (<xref ref-type="bibr" rid="ref-31">López-López, 2011</xref>; <xref ref-type="bibr" rid="ref-54">Tzortzakaki et al., 2019</xref>).</p>
+<p>Recently, it has been stated that firefly populations are declining globally due to factors associated with human activities (<xref ref-type="bibr" rid="ref-42">Picchi et al., 2013</xref>; <xref ref-type="bibr" rid="ref-26">Lewis et al., 2020</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>). Habitat loss, light pollution, and climate change are the main current factors threatening firefly populations, and these factors are also associated with urbanization, industrialization, and agricultural intensification within cities and surrounding areas (<xref ref-type="bibr" rid="ref-8">De Cock, 2009</xref>; <xref ref-type="bibr" rid="ref-18">Hagen et al., 2015</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>; <xref ref-type="bibr" rid="ref-55">Vaz et al., 2021</xref>). Fireflies are usually associated with well-preserved terrestrial ecosystems, from temperate forests to deserts and marshes (<xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>). They occupy different microhabitats during their life cycle; larvae and pupae can be terrestrial, aquatic, semiaquatic, fossorial, arboreal, or scansorial and can be associated with stream marshes, brackish waters, epiphytes, humid soils and leaf litter (<xref ref-type="bibr" rid="ref-48">Riley, Rosa &amp; Silveira, 2021</xref>). Adults are frequently found in trees, shrubs, and herbs (<xref ref-type="bibr" rid="ref-28">Lloyd, 2002</xref>). However, some firefly species have also been recorded opportunistically occupying urban areas, such as green spaces, backyards, urban parks, and vacant lots (<xref ref-type="bibr" rid="ref-42">Picchi et al., 2013</xref>; <xref ref-type="bibr" rid="ref-26">Lewis et al., 2020</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>). To date, most studies on fireflies have been done in natural and well-preserved habitats, while urban areas remain poorly studied. Therefore, more studies are needed on the diversity of these bioluminescent beetles in cities and peri-urban areas, as well as the threats and challenges posed to them in these modified landscapes.</p>
+<p>In general, fireflies can be considered good bioindicators because they are highly diverse, have a relatively stable taxonomy, are associated to specific habitats and elevational ranges, and their populations sizes respond to environmental changes and different disturbance factors (<italic>e.g</italic>., temperature and artificial light at night; <xref ref-type="bibr" rid="ref-18">Hagen et al., 2015</xref>; <xref ref-type="bibr" rid="ref-71">Colares et al., 2021</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>). They also have an important ecosystem role as predators of soft bodied invertebrates, and as prey of birds, frogs, and bats (<xref ref-type="bibr" rid="ref-27">Lloyd, 1973</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>; <xref ref-type="bibr" rid="ref-48">Riley, Rosa &amp; Silveira, 2021</xref>).</p>
+<p>A total of 167 and more than 1,200 species have been documented from the Nearctic and Neotropical biogeographical regions respectively (<xref ref-type="bibr" rid="ref-7">Costa, 2000</xref>; <xref ref-type="bibr" rid="ref-51">Silveira et al., 2020</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>). Mexico, located in the transition of both regions, is a hotspot of fireflies, as it harbors more than 10% (284 species) of all described species of fireflies in the world (<xref ref-type="bibr" rid="ref-44">Pérez-Hernández, Zaragoza-Caballero &amp; Romo-Galicia, 2022</xref>; <xref ref-type="bibr" rid="ref-64">Zaragoza-Caballero et al., 2023</xref>; <xref ref-type="bibr" rid="ref-16">Gutiérrez-Carranza, Domínguez-León &amp; Rodríguez-Mirón, 2023</xref>; <xref ref-type="bibr" rid="ref-17">Gutiérrez-Carranza, Zaragoza-Caballero &amp; Domínguez-León, 2023</xref>). Several studies on Mexican fireflies have been conducted in recent years, but none of them have considered urban assemblages. However, as occurs in other regions of the world, fireflies inhabiting urban or peri-urban Mexican localities are constantly faced with several threats associated with human disturbance and may even suffer frequent local extinctions in urban zones. Therefore, it is urgent to evaluate their conservation status and determine their current threats to generate conservation strategies.</p>
+<p>Recently, based on anecdotal reports and records from citizen science platforms (<xref ref-type="bibr" rid="ref-36">Naturalista, 2022</xref>), we learned about the current presence of firefly populations within the urbanized area of Morelia, the capital city of Michoacán state, in central-western Mexico. We also compiled stories about the existence of vast firefly populations in the city from the 1950’s through the 1980s, which gradually decreased over the decades until they disappeared. However, to date no scientific reports have documented this phenomenon, and there are no specific conservation strategies or environmental protection for fireflies or their habitats. In addition, there are no studies on fireflies in Morelia, and only two species have been reported in the city before this work: <italic>Photuris versicolor</italic> (Fabricius, 1798) ((under <italic>Photuris trilineata</italic> (Say, 1835)) and <italic>Pyropyga minuta</italic> Gorham, 1881 (<xref ref-type="bibr" rid="ref-58">Zaragoza-Caballero, 1993</xref>). Note that <xref ref-type="bibr" rid="ref-64">Zaragoza-Caballero et al. (2023)</xref> also mentioned finding <italic>Photinus apahtzii</italic> Zaragoza-Caballero and López-Pérez, 2023 in the city, but the authors have since confirmed that the record should be treated as an error (S Zaragoza-Caballero and S López-Pérez, 2023, personal communication).</p>
+<p>Morelia has shown a remarkable increase in size and human population since the 1950s, and its growth has become faster and less controlled in recent years, leading to rapid peri-urbanization that threatens the biodiversity that survives in the area (<xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-32">MacGregor-Fors, 2010</xref>; <xref ref-type="bibr" rid="ref-38">Ortiz &amp; Vieyra, 2018</xref>). For instance, of the area currently covered by the city, in 1960, 93.1% was covered by different types of vegetated spaces and crops; by 1990 that percentage diminished to 28.1% and was less than 8% by 2020 (<xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-2">Bollo, Martín &amp; Martínez, 2022</xref>). Despite that rapid transformation, there are few studies on the effects of urbanization on insect biodiversity in the region. These few examples have generally found dramatic effects. For instance, there was a drastic loss of lepidopteran diversity in highly urbanized sites from Morelia (<xref ref-type="bibr" rid="ref-45">Quiróz Pérez, 2008</xref>), while high lepidopteran diversity in peri-urban areas was associated with the presence of young trees and the coexistence of both native and introduced plants in those areas (<xref ref-type="bibr" rid="ref-31">López-López, 2011</xref>). As lepidopterans are bioindicators of insect diversity and environmental change (<xref ref-type="bibr" rid="ref-3">Cabrero-Sañudo et al., 2022</xref>), we expect other groups of insects to show similar patterns.</p>
+<p>In the present work, we used recent records from citizen science platforms, entomological sampling, and entomological collections to determine the main stressors for urban firefly populations in Morelia. We determined the current diversity of fireflies from Morelia and characterized their habitats using different variables, such as terrain slope, elevation, landscape class, habitat size, type and proportion of vegetated spaces, and presence and size of watercourses. We also evaluated disturbance factors associated with those habitats, such as the degree of urbanization (urban, peri-urban, and extra-urban), light pollution levels, and type and proportion of urban surfaces. We also characterized sites where fireflies have been reported as extinct to compare them with sites where fireflies still survive.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Study area</title>
+<p>Morelia municipality is in the central-western region of Mexico in the state of Michoacán (between 19°27′06″ and 19°50′12″N, −101°01′43″ and −101°30′32″W) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>), at an average elevation of 1,920 m asl. The city currently covers an area of 157.6 km<sup>2</sup> (<xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>). It has a temperate sub-humid climate type Cb(wo)(w)(i.)g with summer rains (June–September; <xref ref-type="bibr" rid="ref-5">Cigna &amp; Tapete, 2022</xref>). The annual mean minimum temperature in the city is 10.5 °C, the annual mean maximum temperature is 26.9 °C, and the mean annual precipitation is 770.5 mm (<xref ref-type="bibr" rid="ref-35">National Weather Service, 2022</xref>). In the past decade, the maximum and average temperatures have increased by 0.02 °C and 0.07 °C per year, respectively, and the total annual precipitation has increased by about 7 mm per year (<xref ref-type="bibr" rid="ref-5">Cigna &amp; Tapete, 2022</xref>).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16622/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Growth of the urban area and human population of Morelia city (Michoacán, Mexico) since 1960.</title>
+<p>Based on <xref ref-type="bibr" rid="ref-29">López et al. (2001)</xref>; <xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón (2012)</xref>; <xref ref-type="bibr" rid="ref-19">IMPLAN (2022)</xref>. This OSM Standard map is made available under the Open Database License.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/fig-1.png"/>
+</fig>
+<p>Land cover in Morelia includes temperate mixed forest, <italic>Eucalyptus</italic> plantings, wetlands, shrubs, and crops; land uses include residential, industrial, and commercial use, in addition to conservation and green areas (<italic>e.g</italic>., well-preserved woods, parks, open grasses, public gardens, vacant lots, and corridors mainly located in the Southern part of the city; <xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>). A number of seasonal and year-round creeks, rivers, and artificial channels cross or influence the urban area of Morelia; these include the Río Grande (previously known as Río Guayangareo), Río Chiquito, La Mintzita, and Presa Cointzio which are part of the Río Grande, Río Chiquito, and Los Pirules microwatersheds (<xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón, 2012</xref>; <xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>). Morelia is situated in alluvial plains that contain very gentle slopes (27.5% of the total area), gentle slope–intermediate piedmont (32.5%), and steep slopes (16%) (<xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>).</p>
+<p>Morelia is in the Cuitzeo hydrological basin, between the Cuitzeo lagoon and Lake Pátzcuaro. According to <xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón (2012)</xref>, during the pre-colonization era, the area surrounding the city harbored numerous swamps which increased in size during the rainy season, and human populations settled in the peripheral areas, in the mountains. Later, during Spanish colonization from the XVI–XVIII centuries, swamps were replaced by agricultural and livestock zones, and homes. During the XIX century, the city had slow growth and a relatively stable population size. However, Morelia began to expand rapidly in the mid-twentieth century. By 1960, the population of Morelia reached 106,000 (double its size in the XIX century), and by 2020, it had reached nearly 850,000, mainly due to migration from rural areas and other urban areas (<italic>e.g</italic>., Mexico City) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>; <xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón, 2012</xref>; <xref ref-type="bibr" rid="ref-20">INEGI, 2022</xref>). As a result, the urbanized area of the city has mostly followed an “edge-expansion” growth model and increased in size by 506% from 1960 to 1990 and nearly doubled in area from 2000 to 2010 (<xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón, 2012</xref>; <xref ref-type="bibr" rid="ref-5">Cigna &amp; Tapete, 2022</xref>; <xref ref-type="bibr" rid="ref-20">INEGI, 2022</xref>). Thus, in 2020 Morelia City was approximately 15 times its size in 1960, with an average rate of urban expansion of 1.8 km<sup>2</sup> or 1.6% per year (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>; <xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón, 2012</xref>; <xref ref-type="bibr" rid="ref-5">Cigna &amp; Tapete, 2022</xref>; <xref ref-type="bibr" rid="ref-20">INEGI, 2022</xref>; <xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>).</p>
+</sec>
+<sec>
+<title>Distributional and taxonomic data on fireflies</title>
+<p>Distributional data of the firefly populations in Morelia were obtained from: (i) anecdotal reports of recent and past sightings obtained from surveys and interviews; (ii) public databases and citizen science projects, such as <xref ref-type="bibr" rid="ref-36">Naturalista (2022)</xref> and <xref ref-type="bibr" rid="ref-12">GBIF (2021)</xref>; (iii) direct observations and entomological sampling performed from 2020 to 2022 (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>, <xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>); and (iv) few specimens from the entomological collection of the Laboratorio de Entomología Biol. Sócrates Cisneros Paz, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH). Most of the data were obtained between 2016 and 2022 and were used to determine the current habitat of fireflies in the city. Systematic entomological samplings were performed by using aerial nets for 4 h each night in specific localities, during the previous and posterior days of New Moon from May to September 2022 (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>); occasional, nonsystematic diurnal and nocturnal samplings were also done by using light traps, Malaise traps and direct collection on different sites throughout 2020–2022. We also used the date of the records from Naturalista to determine the entomological samplings of the less common species and consulted participants of Naturalista to corroborate and correct coordinates of some records (<italic>e.g</italic>., downtown). Sites where firefly populations were reported to be present in the past but where they have not been seen during the last decade, were defined as extinction sites. We characterized sites of extinct populations by comparing their characteristics with those of places where fireflies are still present.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16622/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Localities of extant (green squares, yellow dots and gray triangles) and extinct orange circles firefly populations were found in the urban area of Morelia city.</title>
+<p>Based on records from 2016 to 2021 obtained in <xref ref-type="bibr" rid="ref-36">Naturalista (2022)</xref> and <xref ref-type="bibr" rid="ref-12">GBIF (2021)</xref>, and entomological samplings made during 2022. Image ©2023 CNES/AIRBUS, Landsat/Copernicus, Image ©2023 Maxar Technologies. Map data ©2023 Google, INEGI.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/fig-2.png"/>
+</fig>
+<p>Based on the specimens available from collections and samplings, and photographs from <xref ref-type="bibr" rid="ref-36">Naturalista (2022)</xref>, we identified firefly genera, species, and morphospecies mainly using the works by <xref ref-type="bibr" rid="ref-14">Gorham (1885)</xref>, <xref ref-type="bibr" rid="ref-15">Green (1961)</xref>, <xref ref-type="bibr" rid="ref-4">Cicero (1988)</xref>, <xref ref-type="bibr" rid="ref-59">Zaragoza-Caballero (1995a</xref>, <xref ref-type="bibr" rid="ref-60">1995b</xref>, <xref ref-type="bibr" rid="ref-61">1996</xref>, <xref ref-type="bibr" rid="ref-62">2002</xref>, <xref ref-type="bibr" rid="ref-63">2012)</xref>, <xref ref-type="bibr" rid="ref-28">Lloyd (2002)</xref>, and <xref ref-type="bibr" rid="ref-65">Zaragoza-Caballero et al. (2020</xref>, <xref ref-type="bibr" rid="ref-64">2023)</xref>. We also compared firefly specimens with type material deposited at the National Insect Collection at the Universidad Nacional Autónoma de México. The taxonomic identity of fireflies from Naturalista platform was determined to the highest level of taxonomic resolution (species) in cases of very distinctive fireflies from the assemblage; photographs of visually similar species (<italic>e.g</italic>., <italic>Photinus ater</italic>, <italic>P. parvusater</italic>, and other) or with low-resolution were treated at family or genus level and only temporal and spatial data of the presence of fireflies was considered. The Secretary of Environment and Natural Resources of the Government of Mexico granted the collection permit for the project “Surviving urbanization: Evaluation of the main anthropic pressure factors on firefly populations in the urbanized area of Morelia, Michoacán” (SGPA/DGVS/O5322/22). All specimens collected during the study were deposited at the Gene Library and Entomological Collection of the Behavioral Ecology Laboratory, at the Faculty of Biology, UMSNH (GCEUMSNH) and will be part of a reference collection of the Lampyridae of Michoacán.</p>
+<p>Based on the preliminary data compiled, we added information on different habitat variables for each site to characterize fireflies’ habitats. These were: (i) geographic location (decimal coordinates, elevation), (ii) habitat characteristics (<italic>e.g</italic>., habitat size, landscape class, type and percentage of vegetated space, watercourses presence and features, terrain slope), and (iii) disturbance factors associated with urbanization (<italic>i.e</italic>., degree of urbanization, type of urban surfaces or built cover, percentage of urban surfaces, radiance value) (<xref ref-type="supplementary-material" rid="supp-1">Table S2</xref>). All of these variables have been previously associated with ecological requirements and the main threats to different firefly life stages (<xref ref-type="bibr" rid="ref-28">Lloyd, 2002</xref>; <xref ref-type="bibr" rid="ref-23">Kazama et al., 2007</xref>; <xref ref-type="bibr" rid="ref-26">Lewis et al., 2020</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>).</p>
+</sec>
+<sec>
+<title>Characterization of urban firefly habitat</title>
+<p>The landscape in Morelia was primarily classified according to <xref ref-type="bibr" rid="ref-33">MacGregor-Fors (2011)</xref> into urban land use categories of “commercial”, “conservation”, “green space”, “residential” or “industrial.” Vegetated spaces were also categorized into forests or woods (possessing a tree layer), shrubs (bush layer), meadows (open grass), crop land, urban green spaces (<italic>e.g</italic>., backyards or domestic gardens, parks, open grass, sport areas, public gardens), vacant lots, corridors (<italic>e.g</italic>., median strips, green areas along rivers or between residential areas), hills, or conservation areas. Firefly habitat size (the area of the specific site where fireflies were recorded) was measured using GIS analysis and satellite imagery from <xref ref-type="bibr" rid="ref-13">Google Earth (2021)</xref>; for open spaces (such as those of extra-urban zones), we limited the habitat size to the area within a 500-m radius circular buffer (0.79 km<sup>2</sup>) around the exact geographical point where fireflies were reported, in order to make all sites comparable. We also estimated the suitable area for fireflies in the zone as the percentage of vegetated area within a 500-m radius circular buffer zone around the center of each site of firefly observation. Then, we established three categories of the proportion of suitable habitat within the 500-m buffer: (1) highly vegetated (67–100% vegetated area), (2) moderately vegetated (34–66% vegetated area), and (3) sparsely vegetated (0–33% vegetated area).</p>
+<p>Adult fireflies are terrestrial insects commonly associated with watercourses and wet habitats, and the larvae of some species are truly aquatic or facultatively aquatic (<xref ref-type="bibr" rid="ref-28">Lloyd, 2002</xref>; <xref ref-type="bibr" rid="ref-22">Jäch &amp; Balke, 2008</xref>; <xref ref-type="bibr" rid="ref-48">Riley, Rosa &amp; Silveira, 2021</xref>). To evaluate whether urban fireflies in Morelia are occupying habitats with those characteristics, we recorded the presence and type of watercourses (<italic>e.g</italic>., lakes, creeks, rivers, ponds, channels, and wetlands) in the vicinity of the firefly habitats, and whether those watercourses were seasonal or permanent. We also calculated the approximate watercourse width and the distance between the site of the firefly sighting to the nearest watercourse using GIS analysis and satellite imagery from <xref ref-type="bibr" rid="ref-13">Google Earth (2021)</xref>.</p>
+<p>Slope has been found to be related with the geological conditions that fireflies prefer; very gentle and gentle slopes have been previously reported to be more suitable for fireflies’ habitat because they generally have damp conditions with slow stream velocity and a high density of suspended sediments, which are beneficial for larval development (<xref ref-type="bibr" rid="ref-23">Kazama et al., 2007</xref>). The slope angle of each site was obtained from a Digital Elevation Model of Morelia (<xref ref-type="bibr" rid="ref-6">CONABIO National Commission for the Knowledge and Use of Biodiversity, 2023</xref>) using GIS analysis (QGIS 3.16.14-Hannover) and was characterized in four categories: flat plains to very gentle slopes (0−4% slope angle), gentle slopes (&gt;4−8%), moderate slopes (&gt;8−16%), and steep to extremely steep slopes (&gt;16%).</p>
+</sec>
+<sec>
+<title>Disturbance factors</title>
+<p>Based on the urban gradient categories suggested by <xref ref-type="bibr" rid="ref-32">MacGregor-Fors (2010)</xref>, firefly sites were sorted into (i) urban core, (ii) peri-urban zone, or (iii) extra-urban zone depending on the geographic location in the city. We also included an (iv) extinction zone, as a fourth category to compare with the sites of extant populations habitats. This categorization allowed us to estimate the degree of influence of urban development on the city’s ecosystems.</p>
+<p>Urban surfaces in each locality were sorted into residential areas, streets and/or avenues, commercial buildings, parking lots, or industrial areas. This information was utilized as a surrogate of the intensity of urbanization (based on <xref ref-type="bibr" rid="ref-33">MacGregor-Fors, 2011</xref>). We also estimated the percentage of impervious urban surfaces within a 500-m radius circular buffer zone around the center of each site of firefly observation to analyze its relationship with the presence/absence of firefly populations. Following <xref ref-type="bibr" rid="ref-33">MacGregor-Fors (2011)</xref>, the percentage of urban surfaces was sorted into three categories: (1) sparsely developed (0–33% built cover), (2) moderately developed (34–66% built cover), and (3) highly developed (67–100% built cover). All estimations and changes were calculated using GIS data analysis and satellite imagery available from <xref ref-type="bibr" rid="ref-13">Google Earth (2021)</xref>.</p>
+<p>Fireflies depend on their bioluminescence for feeding, defense against predators, and reproduction, making them highly vulnerable to light pollution (<xref ref-type="bibr" rid="ref-52">Stanger-Hall, Lloyd &amp; Hillis, 2011</xref>; <xref ref-type="bibr" rid="ref-40">Owens &amp; Lewis, 2021</xref>; <xref ref-type="bibr" rid="ref-41">Owens et al., 2022</xref>). To estimate the degree of light pollution to which fireflies in Morelia are exposed, we compiled data from the nighttime light maps produced by the <xref ref-type="bibr" rid="ref-9">Earth Observation Group (2021)</xref>. Based on <xref ref-type="bibr" rid="ref-55">Vaz et al. (2021)</xref>, we used the radiance values (nW/cm<sup>2</sup>/sr) data set provided by the Visible and Infrared Imaging Suite (VIIRS) and Day Night Band (DNB) satellites as an indirect measure of light pollution and as a proxy for urbanization for each site where fireflies were observed in Morelia in 2021. Each pixel in the light pollution map shows radiance values ranging from 0 to 63, where zero represents total darkness (often associated with rural zones), and 63 represents very bright sites associated with urban zones.</p>
+</sec>
+<sec>
+<title>Statistical analysis</title>
+<p>We tested for differences among firefly population sites in their (i) habitat size, (ii) proportion of urban surfaces, (iii) slope, and (iv) radiance values, as a function of their degree of urbanization (urban core, peri-urban zone, extra-urban zone, extinction zone) or land use category (residential, conservation, or green areas). Because the data showed a normal distribution and we have evidence of homoscedasticity, we performed these analyses using Analysis of Variance (ANOVA) followed by multiple comparisons adjusted with the Bonferroni correction, which is useful for sets of univariate non-independent analyses. All statistical analyses were performed with R 4.1.2 (<xref ref-type="bibr" rid="ref-46">R Core Team, 2021</xref>) using the package “vegan” (<xref ref-type="bibr" rid="ref-37">Oksanen et al., 2015</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<p>We documented firefly populations at 37 localities associated with the urban area of Morelia city and surrounding areas based on the different sources consulted (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>, <xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="supplementary-material" rid="supp-1">Table S2</xref>). A total of 86.5% (32 sites) of the records represented extant or possibly extant firefly populations, and the rest (13.5%, 5 sites) were reported as extinct populations (all documented through interviews and surveys); at least 40.5% (15) of the sites were exclusively recovered from citizen science platforms, 40.5% (15) were sampled, 5.4% (2) were recovered from GBIF, and the rest (5 sites of firefly extinctions) were exclusively recovered from anecdotes. Most firefly records were from within the past decade (from 2016 to 2022) through sampling collections performed for this work (56.7%) and citizen science platforms (21.6%); only a few records were obtained from anecdotal (13.5%) and public databases reports or entomological collections (8.2%).</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.16622/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Firefly species associated with the urban area of Morelia city and surrounding areas, and characteristics of their habitats.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/table-1a.png"/>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/table-1b.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Species</th>
+<th>Urban zone</th>
+<th>Behavior and morphology</th>
+<th>Habitat in Morelia</th>
+<th>Elevation (m asl)</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><bold>Lampyrinae</bold></td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Cratomorphini</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td><italic>Aspisomoides bilineatum</italic> (Gorham, 1880)<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>E, P</td>
+<td>Nocturnal, fully winged females</td>
+<td>Wetlands and open grasses, near creeks and rivers</td>
+<td align="char" char=".">1,999–2,153</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Cratomorphus halffteri</italic> <xref ref-type="bibr" rid="ref-63">Zaragoza-Caballero, 2012</xref><xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>E</td>
+<td>Crepuscular (?); unknown females</td>
+<td>Well preserved woods</td>
+<td align="char" char=".">2,200</td>
+<td>ES, NT</td>
+</tr>
+<tr>
+<td><italic>Pyractomena striatella</italic> Gorham, 1880<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>CA, P</td>
+<td>Nocturnal, fully winged females</td>
+<td>Wetlands near channels and rivers</td>
+<td align="char" char=".">1,891–1,930</td>
+<td>ES, NT</td>
+</tr>
+<tr>
+<td>Photinini</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td><italic>Photinus acutiformis</italic> Zaragoza-Caballero and Cifuentes-Ruíz, 2023<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>CA</td>
+<td>Nocturnal, fully winged females (new record)</td>
+<td>Wetlands near channels</td>
+<td align="char" char=".">1,898</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus anisodrilus</italic> Zaragoza-Caballero, 2007<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>U, CA, P</td>
+<td>Nocturnal, fully winged females</td>
+<td>Open grasses, shrubs and wetlands near channels and lake</td>
+<td align="char" char=".">1,898–1,983</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus ater</italic><xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>E, P</td>
+<td>Diurnal</td>
+<td>Shrubs, near rivers</td>
+<td align="char" char=".">2,362</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus barrerae</italic> Zaragoza-Caballero and Rodríguez-Mirón, 2023<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>E</td>
+<td>Crepuscular; unknown females</td>
+<td>Well-preserved woods, often near creeks and rivers</td>
+<td align="char" char=".">2,153–2,200</td>
+<td>ES, NT</td>
+</tr>
+<tr>
+<td><italic>Photinus chipirietetsi</italic> Zaragoza-Caballero and Vega-Badillo, 2023<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>P</td>
+<td>Nocturnal; unknown females</td>
+<td>Shrubs and open grasses near creeks</td>
+<td align="char" char=".">2,045</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus extensus</italic> Gorham, 1881<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>E</td>
+<td>Nocturnal; females with reduced wings (brachypterous)</td>
+<td>Well-preserved woods</td>
+<td align="char" char=".">2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus guillermodeltoroi</italic> Zaragoza-Caballero and Rodríguez-Mirón, 2023<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>CA, P, E</td>
+<td>Nocturnal; fully winged females (new record)</td>
+<td>Well-preserved woods and open grasses near creeks and lakes</td>
+<td align="char" char=".">1,983–2,200</td>
+<td>ES, NT</td>
+</tr>
+<tr>
+<td><italic>Photinus leobonillai</italic> Zaragoza-Caballero and Domínguez-León 2023<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>E</td>
+<td>Nocturnal; unknown females</td>
+<td>Well-preserved woods</td>
+<td align="char" char=".">2,200</td>
+<td>EC (1991), NT</td>
+</tr>
+<tr>
+<td><italic>Photinus parvusater</italic> Zaragoza-Caballero, 1995<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>P, E</td>
+<td>Diurnal, fully winged females</td>
+<td>Well-preserved woods and shrubs often near rivers and ponds</td>
+<td align="char" char=".">1,983–2,200</td>
+<td>EC (1994), ES, NT</td>
+</tr>
+<tr>
+<td><italic>Photinus vegai</italic> Zaragoza-Caballero y Cifuentes-Ruiz, 2020<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>E</td>
+<td>Nocturnal; unknown females</td>
+<td>Well-preserved woods</td>
+<td align="char" char=".">2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus zuritai</italic> Zaragoza-Caballero and Cifuentes-Ruiz, 2023<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>U, CA, P, E</td>
+<td>Crepuscular, Nocturnal; fully winged females (new record)</td>
+<td>Well-preserved woods, public gardens, and open grasses near different water bodies</td>
+<td align="char" char=".">1,904–2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus</italic> sp. ca. <italic>brailovskyi</italic> Zaragoza-Caballero, 2017<italic><xref ref-type="fn" rid="table-1fn2">*</xref></italic></td>
+<td>E</td>
+<td>Diurnal; fully winged females</td>
+<td>Well-preserved woods</td>
+<td align="char" char=".">2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus</italic> sp. 1 (under <italic>P. pyralis</italic> in <xref ref-type="bibr" rid="ref-64">Zaragoza-Caballero et al., 2023</xref>)<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>P</td>
+<td>Nocturnal; females with reduced wings (brachypterous)</td>
+<td>Shrubs and open grasses near creeks</td>
+<td align="char" char=".">1,999–2,045</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photinus</italic> sp. 2<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>E</td>
+<td>Diurnal</td>
+<td>Well-preserved woods</td>
+<td align="char" char=".">2,010–2,200</td>
+<td>NT</td>
+</tr>
+<tr>
+<td><italic>Pyropyga alticola</italic> <xref ref-type="bibr" rid="ref-15">Green, 1961</xref><xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>P, CA, U</td>
+<td>Diurnal; fully winged females</td>
+<td>Public gardens, open grasses, vacant lots</td>
+<td align="char" char=".">1,898–1,910</td>
+<td>ES, NT</td>
+</tr>
+<tr>
+<td><italic>Pyropyga minuta</italic> (LeConte, 1851)</td>
+<td>U</td>
+<td>Diurnal; fully winged females</td>
+<td>Public gardens, open grasses</td>
+<td align="char" char=".">1,910</td>
+<td>EC, ES, NT, ES</td>
+</tr>
+<tr>
+<td><italic>Pyropyga nigricans</italic> (Say, 1823)<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>P</td>
+<td>Diurnal; fully winged females</td>
+<td>Public gardens, open grasses</td>
+<td align="char" char=".">1,963</td>
+<td>NT, ES</td>
+</tr>
+<tr>
+<td>Pleotomini</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td><italic>Pleotomus emmiltos</italic> <xref ref-type="bibr" rid="ref-62">Zaragoza-Caballero, 2002</xref><xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>E</td>
+<td>Nocturnal; bioluminescent, flightless females (apterous; new record)</td>
+<td>Well-preserved woods, open grasses</td>
+<td align="char" char=".">2,185–2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Pleotomus pallens</italic> <xref ref-type="bibr" rid="ref-62">Zaragoza-Caballero, 2002</xref><xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>CA</td>
+<td>Nocturnal; flightless females (apterous)</td>
+<td>Well-preserved open grasses</td>
+<td align="char" char=".">1,983–1,999</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><bold>Photurinae</bold></td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Photurini</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td><italic>Photuris fulvipes</italic> (Blanchard, 1846)<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>P, E</td>
+<td>Crepuscular, nocturnal; fully winged predatory females</td>
+<td>Well-preserved woods, and open grasses near channels and rivers</td>
+<td align="char" char=".">1,930–2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photuris lugubris</italic> Gorham, 1881<xref ref-type="fn" rid="table-1fn3">**</xref></td>
+<td>E</td>
+<td>Nocturnal; fully winged predatory females</td>
+<td>Well-preserved woods</td>
+<td align="char" char=".">2,200</td>
+<td>ES</td>
+</tr>
+<tr>
+<td><italic>Photuris</italic> group <italic>versicolor</italic> (Fabricius, 1798)<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>U, CA, P</td>
+<td>Nocturnal; fully winged, predatory females</td>
+<td>Wetlands, open grasses, public gardens, near waterbodies</td>
+<td align="char" char=".">1,898–2,045</td>
+<td>EC, ES</td>
+</tr>
+<tr>
+<td><italic>Photuris</italic> sp.<xref ref-type="fn" rid="table-1fn2">*</xref></td>
+<td>E, P, CA</td>
+<td>Nocturnal; fully winged, predatory females</td>
+<td>Well preserved woods, wetlands, and meadows near waterbodies</td>
+<td align="char" char=".">1,898–2,200</td>
+<td>ES, NT</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Urban zones: U, urban core; CA, conservation area within the urban core; P, peri-urban; E, extra-urban. Method of sampling: EC, entomological collection of the UMSNH (sampling year indicated in the table); ES, entomological sampling (2021, 2022); NT, Naturalista citizen science project (2016 to 2022).</p>
+</fn>
+<fn id="table-1fn2" fn-type="other">
+<label>*</label>
+<p>New records for Morelia.</p>
+</fn>
+<fn id="table-1fn3" fn-type="other">
+<label>**</label>
+<p>New records for Michoacán, mainly based on <xref ref-type="bibr" rid="ref-65">Zaragoza-Caballero et al. (2020</xref>, <xref ref-type="bibr" rid="ref-64">2023</xref>) and <xref ref-type="bibr" rid="ref-44">Pérez-Hernández, Zaragoza-Caballero &amp; Romo-Galicia (2022)</xref>.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>In total, we obtained 351 records and identified 7 genera and 26 species of fireflies in Morelia and the surrounding areas from 2016 to 2022 (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>, <xref ref-type="table" rid="table-1">Table 1</xref>; also see the Naturalista project “Luciérnagas de Michoacán”, and the dataset <xref ref-type="bibr" rid="ref-43">Pérez-Hernández, Mendoza-Cuenca &amp; Romo-Galicia (2023)</xref>. Five species were recorded in the urban core, 11 in conservation areas within the urban core (such as the Universidad Latina de América, UNLA), 13 in the peri-urban area, and 16 in extra-urban zones. At least 12 species were collected in more than one zone of the city, another 10 species were exclusively found in one well-preserved extra-urban site (Tsíntani), three were exclusive to peri-urban areas, one to the urban core, and one to an urban conservation area (at the UNLA). The most species-rich genus was <italic>Photinus</italic> (14 species), followed by <italic>Photuris</italic> (4), <italic>Pyropyga</italic> (3), <italic>Pleotomus</italic> (2), <italic>Aspisomoides</italic> (1), <italic>Cratomorphus</italic> (1), and <italic>Pyractomena</italic> (1). A total of 12 firefly species (46.2%) were crepuscular or nocturnal, with adult females and males showing luminescent organs (<italic>Aspisomoides bilineatum</italic>, <italic>Pyractomena striatella</italic>, <italic>Photinus</italic> spp., <italic>Photuris</italic> spp.). Another five species have brachypterous bioluminescent females (<italic>Photinus extensus</italic>, <italic>Photinus</italic> sp. ca. <italic>pyralis</italic>) and bioluminescent males (<xref ref-type="table" rid="table-1">Table 1</xref>). Only seven species (26.9%) are diurnal fireflies without luminescent organs in adults of either sex (all <italic>Pyropyga</italic> species, <italic>Photinus parvusater</italic>, <italic>Photinus</italic> sp. ca. <italic>brailovskyi</italic>, <italic>Photinus ater</italic>, <italic>Photinus</italic> sp. 2). Adult males of the two nocturnal <italic>Pleotomus</italic> (7.7%) are non-luminescent, while the females are luminescent larviform, apterous and flightless. The females of at least five (19.2%) nocturnal species are still unknown to date, and we reported here for the first time the females of <italic>Photinus acutiformis</italic>, <italic>P. guillermodeltoroi</italic>, <italic>P. zuritai</italic>, and <italic>Pleotomus emmiltos</italic>.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.16622/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Urban fireflies of Morelia, Michoacán.</title>
+<p>(A) <italic>Photinus anisodrilus</italic>; (B) <italic>P. zuritai</italic>; (C) <italic>P. parvusater</italic> female; (D) <italic>P. leobonillai</italic>; (E) <italic>P. guillermodeltoroi</italic>; (F) <italic>P. vegai</italic>; (G) <italic>P. barrerae</italic>; (H) <italic>P. acutiformis</italic>; (I) <italic>Pyractomena striatella</italic>; (J) <italic>Pleotomus emmiltos</italic>. Image credits: (A, B, C, G) Cisteil X. Pérez-Hernández; (D, E, F) Pablo Alarcón Chairés (D) <uri xlink:href="https://www.naturalista.mx/photos/146942173">https://www.naturalista.mx/photos/146942173</uri>, CC BY NC; (F) Pablo Alarcón Chairés, <uri xlink:href="https://www.naturalista.mx/photos/90868076">https://www.naturalista.mx/photos/90868076</uri>, CC BY NC; (J) Pablo Alarcón Chairés, <uri xlink:href="https://www.naturalista.mx/photos/131149998">https://www.naturalista.mx/photos/131149998</uri>, CC BY NC; (E) Ana M. Flores; (H, I) Danna Betsabe Rivera Ramírez.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/fig-3.png"/>
+</fig>
+<sec>
+<title>Characterization of firefly habitats</title>
+<p>Urban, peri-urban, and extra-urban sites with extant and possibly extant firefly populations were mainly distributed in the Central and Southern regions of Morelia, in a variety of vegetated spaces such as backyards, cultivated lands, hills, open grass, meadows, public gardens, residential areas, corridors, roads, and vacant lots distributed among the different urban zones (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>; <xref ref-type="supplementary-material" rid="supp-1">Table S2</xref>). The five sites where extinct populations were reported had public gardens (1 site) and green spaces within residential areas (4 sites). Firefly habitats were distributed in an elevational range of 1,886–2,384 m asl, with most sites found at the lower altitudes. There were significant differences in elevational range among the urban zones (F<sub>3,33</sub> = 19.42, <italic>p</italic> &lt; 0.001; <xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>, <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>). Of the firefly habitat sites, 29.7% of sites were categorized as residential landscapes (including the five extinction sites), 43.3% as green spaces, and 27% as conservation zones; there were no reports of populations in industrial or commercial landscapes.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.16622/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Variation in characteristics of firefly habitats among urban core, peri-urban, extra-urban, and firefly extinction zones of Morelia city, in 2021: (A) types of vegetated spaces; (B) habitat size; (C) proportion of suitable habitat; (D) types of watercourses near firefly habitats; (E) slope category. Also, (F) variation in firefly habitat size among three land use categories.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/fig-4.png"/>
+</fig>
+<p>The size of the current firefly habitats (the total area of the specific site where fireflies have been observed) in the urban core and peri-urban zones ranged from 0.0005 km<sup>2</sup> to 0.79 km<sup>2</sup> (<xref ref-type="fig" rid="fig-4">Fig. 4D</xref>), whereas in extra-urban zones, the size of firefly habitats varied from 0.46 km<sup>2</sup> to 0.79 km<sup>2</sup>. There was a significant difference in habitat size between the extra-urban zones and the other two urban zone categories, as well as with the sites of extinct populations (F<sub>3,33</sub> = 20.87, <italic>p</italic> &lt; 0.001) (<xref ref-type="fig" rid="fig-4">Fig. 4D</xref>). In addition, habitat size differed significantly among the different categories of land uses (F<sub>2,34</sub> = 6.509, <italic>p</italic> &lt; 0.001) (<xref ref-type="fig" rid="fig-4">Fig. 4F</xref>). Based on the suitable habitat for fireflies (measured as the vegetated area in the vicinity of the firefly habitat), a total of 24% sites were sorted as highly vegetated, 28% as moderately vegetated, and 48% as sparsely vegetated, whereas the five sites with extinct populations showed moderate (two sites) or sparse proportions of vegetation (three sites) (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). All extra-urban sites were highly vegetated.</p>
+<p>In total, 78.1% of the 32 sites with extant firefly populations were near watercourses, such as creeks, rivers, ponds, lakes, channels, wetlands, and wellsprings (<xref ref-type="fig" rid="fig-4">Fig. 4C</xref>) with a width range of 1 m (creeks) to 500 m (lakes and wetlands), and a distance between 0 m and 350 m from the observation site to the nearest point of the watercourse. At least 59.4% were permanent watercourses, and 34.4% were longer than 500 m. For extinct populations, only one of the five sites was near a permanent river (longer than 500 m); the site was 242 m from the river. Most of the urban and peri-urban sites but only half of the extra-urban sites were near water bodies.</p>
+<p>Also, 59.5% of the sites were on very gentle slopes (alluvial or flat plains), 21.6% on gentle slopes, 8.1% on moderate slopes, and the remaining 10.8% of the sites corresponded to steep slopes. All five extinct populations were distributed in flat plains. We found significant differences among urban zones (F<sub>3,33</sub> = 9.786, <italic>p</italic> &lt; 0.001) in their slope category, with extra-urban zones showing higher slopes than the other three zones (<xref ref-type="fig" rid="fig-4">Fig. 4E</xref>); also, there were significant differences in slope among land-use categories (F<sub>2,34</sub> = 4.125, <italic>p</italic> = 0.0249), with conservation sites showing significantly steeper slopes than green spaces and residential areas.</p>
+<p>According to our observations, at least <italic>Aspisomoides bilineatum</italic>, <italic>Pyractomena striatella</italic> and <italic>Photinus acutiformis</italic> (Photinini) seem to be exclusively associated with wetlands or flooding areas, and the immature stages of the former two species have semiaquatic behavior. All of the other species recorded from Morelia and surrounding areas seemed to be terrestrial during their adult stage, which were associated with meadows, open grass, vacant lots, public gardens, roads and/or woods (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+</sec>
+<sec>
+<title>Disturbance factors for urban fireflies</title>
+<p>The 32 firefly assemblages were more frequently located in the peri-urban zone (48.6%) than in the urban core (32.4%, including two conservations sites) or the extra-urban zones (19%); in contrast, four out of five extinct assemblages were in the urban core. The percentage of impervious urban surfaces within the 500-m radius circular buffer ranged from 0 to 95.4%; a total of 53.1% of the sites were sparsely developed, 31.3% were moderately developed, and 15.6% were highly developed. Four of the five sites of extinct assemblages were highly developed. The proportion of urban surfaces was similar between urban core and extinction zones, which had higher values than in the peri- and extra-urban zones (F<sub>3,33</sub> = 43.47, <italic>p</italic> &lt; 0.001; <xref ref-type="fig" rid="fig-5">Fig. 5A</xref>).</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.16622/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Disturbance factors influencing the firefly populations in Morelia city.</title>
+<p>Variation in the (A) proportion of impervious urban surfaces within a 500-m buffer; and (B) light pollution levels (radiance) among urban core, peri-urban, extra-urban, and firefly extinction zones in 2021.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16622/fig-5.png"/>
+</fig>
+<p>Radiance values in firefly habitats ranged from 0 to 41.5 nW/cm<sup>2</sup>/sr; in sites of firefly extinction, radiance varied from 22.3 to 34.4 nW/cm<sup>2</sup>/sr and showed a similar pattern to urban surface percentage. In peri-urban sites radiance was lower than 22.2 nW/cm<sup>2</sup>/sr and lower than 4.78 nW/cm<sup>2</sup>/sr in extra-urban sites. We found significant differences among urban zones (F<sub>3,33</sub> = 43.65, <italic>p</italic> &lt; 0.001) with the urban core and extinction zones showing similar values of light pollution (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>). We did not find significant differences in light pollution levels among land use categories (F<sub>2,34</sub> = 2.819, <italic>p</italic> = 0.073).</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>According to anecdotal evidence, some decades ago there were vast populations of nocturnal fireflies in sites where the urban zone of Morelia city is now located. However, fireflies in the region have been poorly studied. Before this work, no systematic studies of fireflies had been carried out in the city, its surrounding areas, or even in the entire state of Michoacán. Our work represents the first effort to document the fireflies found in Morelia, in addition to characterizing their current habitats and identifying threats to their persistence in urban zones. We increased the firefly species list from only two previously documented species to 26 (a 92.3% increase) and found females of some species for the first time (which will be described in posterior taxonomical works). We also detected sites of local extinction, which differed from sites with current firefly populations mainly in that they both lack vegetated spaces, have high levels of urban development (<italic>i.e</italic>., low proportion of impervious surfaces) and high levels of light pollution; thus, it seems likely that these factors are strongly related to the local extinction of fireflies in sites where they had been present only a couple of decades ago.</p>
+<p>Based on previous studies, a total of six genera and 16 firefly species had been reported in Michoacán state (<xref ref-type="bibr" rid="ref-44">Pérez-Hernández, Zaragoza-Caballero &amp; Romo-Galicia, 2022</xref>); later six new <italic>Photinus</italic> species were described by <xref ref-type="bibr" rid="ref-64">Zaragoza-Caballero et al. (2023)</xref>. According to our findings, the species list for Michoacán now contains at least nine genera (<italic>Cratomorphus</italic> and <italic>Pyractomena</italic> as new records) and 41 species (at least 14 new records for the state; <xref ref-type="supplementary-material" rid="supp-1">Table S3</xref>). This nearly doubles the previous list for Michoacán, which now contains 14.6% of the total Mexican lampyrid fauna (284 species). Here, we highlight the relevance of citizen science platforms such as Naturalista and targeted entomological sampling as highly important data sources for inventorying current biodiversity. Without those sources, the current species list of fireflies from Morelia and Michoacán would be less complete. Citizen participation through interviews was not only relevant to increase the temporal scale of presence-absence data on fireflies but also to inform people on the conservation of insects and their habitats. However, our interviews implied a bias towards adult bioluminescent species, therefore future studies on urban fireflies based on citizen science could involve trained volunteers to perform diurnal surveys.</p>
+<p>Fireflies were mainly found in the Central and Southern regions of Morelia, perhaps because those areas have been the most recently developed and still show moderate to high levels of vegetation as well as high levels of humidity throughout the year (<xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>). These areas were previously crop fields or conservation areas and were only recently changed to residential use. As we expected, fireflies in Morelia are associated with a variety of vegetated spaces in three different land covers and are more frequent in extra-urban and peri-urban green spaces and conservation zones where the environmental conditions seem to be better for them. These favorable habitat conditions can be summarized as larger, moderately to highly vegetated habitats near water bodies with low levels of urban development and low light pollution. In contrast, in Morelia fireflies are less frequent in residential areas and were never detected in industrial or commercial lands. Residential areas are usually sparsely vegetated, highly developed, and show high levels of light pollution, which are very similar to conditions in sites where fireflies are already extinct. Previous studies have also reported a negative impact of urbanization on lampyrids and other bioluminescent coleopterans of Elateroidea from Brazil and suggested that their disappearance or decrease in urbanized sites could be associated with a reduction of green spaces and increase in artificial illumination (<xref ref-type="bibr" rid="ref-56">Viviani, 2001</xref>; <xref ref-type="bibr" rid="ref-57">Viviani, Rocha &amp; Hagen, 2010</xref>). Meanwhile, <xref ref-type="bibr" rid="ref-10">Fallon et al. (2021)</xref> found that habitat loss, light pollution and climate change are the main threats for at least 66.6% of North American firefly species, and <xref ref-type="bibr" rid="ref-42">Picchi et al. (2013)</xref> also found a negative relationship between the abundance of two firefly species and the level of urbanization of their habitats in Turin, Italy.</p>
+<p>Although we found firefly habitats in Morelia that could still be large enough to harbor healthy populations of a variety of species, most are very small in size. For instance, the smallest habitat size for extant firefly populations in the city was about 0.0005 km<sup>2</sup> (an urban garden near a creek in the urban core) where very small populations of two species have been recorded (<italic>Photinus guillermodeltoroi</italic> and <italic>Photuris versicolor</italic>). In particular, <italic>P. guillermodeltoroi</italic> was almost exclusively found in peri-urban sites and therefore we suggest that that specific population from the urban core could be at high risk in such a small habitat. <xref ref-type="bibr" rid="ref-25">Lee et al. (2019)</xref> reported a minimum size of suitable habitat of 0.0039 km<sup>2</sup> for terrestrial fireflies from Daegu and Gyeongbuk provinces in South Korea. In contrast, <xref ref-type="bibr" rid="ref-42">Picchi et al. (2013)</xref> reported green areas greater than 0.023 km<sup>2</sup> for two species of fireflies from the city of Turin, Italy. Further efforts should be made to determine the minimum size habitat for each of the 26 species reported in this work and analyze the assemblage composition to better understand both their ecological requirements and threats, especially because only 8% of the current area of the city is still covered by green areas and crops where fireflies and other insects could survive in the long term (<xref ref-type="bibr" rid="ref-2">Bollo, Martín &amp; Martínez, 2022</xref>).</p>
+<p>Sites from the urban core of Morelia with extant firefly populations share several characteristics with sites where fireflies are already extinct. Hence, we could expect those firefly populations to decline if the environmental health in those places does not improve. In addition, peri-urban areas of the city are rapidly changing due to human activities and could soon be transformed in ways that make them more similar to the urban core if no sustainable planning is applied in the short term. For instance, the size of firefly habitats in peri-urban areas are not significantly different from sites in the urban core or extinction zones (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>) and already show moderate levels of development and light pollution (<xref ref-type="fig" rid="fig-5">Figs. 5A</xref>, <xref ref-type="fig" rid="fig-5">5B</xref>). This finding suggests that the current development of peri-urban sites could follow a similar model to the urbanization that created the current urban core. However, we are certain that many fireflies and other native insect populations that still survive within the urban core could recover their populations if the government and the public increase their efforts to diminish light pollution and increase the size of green areas.</p>
+<p>As we expected, most of the firefly populations in Morelia are associated with a diversity of water bodies. The presence, seasonality, and width of watercourses varied widely among urban zones, and we did not detect any pattern among them other than most being permanent. However, most extinction sites do not have any waterbodies, which could also be a relevant factor explaining the absence of fireflies in those sites. In addition, we did not explore other factors associated with waterbodies that could be relevant for firefly survival, such as pollutants, high proportions of aquatic vegetation, and draining or channelizing waterbodies, which could directly cause firefly larvae mortality due to poisoning or habitat loss, or indirectly, through the loss of their prey (<xref ref-type="bibr" rid="ref-53">Takeda et al., 2006</xref>; <xref ref-type="bibr" rid="ref-11">Fauzdi et al., 2021</xref>). Future studies could evaluate the effect of pollutants and the presence of riparian vegetation on the population dynamics of fireflies.</p>
+<p>Slope has been found to be a relevant variable of fireflies’ habitats because larvae are frequent on soggy ground and around ponds, marshes and streams which are usually found in flat plains or very gentle slopes (<xref ref-type="bibr" rid="ref-28">Lloyd, 2002</xref>; <xref ref-type="bibr" rid="ref-23">Kazama et al., 2007</xref>; <xref ref-type="bibr" rid="ref-25">Lee et al., 2019</xref>). Therefore, we expected that fireflies from Morelia would also be more frequent in flat plains, which cover about half of the city and used to be rice paddy fields (<xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-30">López Núñez &amp; Pedraza Marrón, 2012</xref>). However, flat plains have also been attractive for crops, <italic>Eucalyptus</italic> plantations, and urban settlement beginning in the 1970’s, and currently the city continues to increase in areas with steeper slopes because of population growth (<xref ref-type="bibr" rid="ref-29">López et al., 2001</xref>; <xref ref-type="bibr" rid="ref-2">Bollo, Martín &amp; Martínez, 2022</xref>). Current populations of fireflies and other fauna are likely more frequent in peri-urban and extra-urban areas because their slope degree is higher and are of less interest for human settlements. However, since human population rapidly grows and available spaces diminish at the same rate, we could expect that those steep zones of the city would also be urbanized, with negative impacts on ecosystem health and biodiversity if green spaces and conservation zones are not explicitly included in urban planning and development. Additional variables associated with the degree of inclination are its geographic orientation (<italic>i.e</italic>., windward or leeward), wind direction, and speed, which influence temperature and humidity levels and, therefore, fireflies’ horizontal distribution and reproductive behavior (<xref ref-type="bibr" rid="ref-21">Jaikla et al., 2020</xref>).</p>
+<p>Habitat loss due to urbanization is one of the main threats to fireflies on a global and regional scale and has especially strong negative impacts on habitat specialist fireflies (<xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>). Based on our results, the proportion of artificial surfaces and light pollution (measured here as radiance) are the main stressors for fireflies from Morelia, similar to other studies (<italic>e.g</italic>., <xref ref-type="bibr" rid="ref-42">Picchi et al., 2013</xref>; <xref ref-type="bibr" rid="ref-10">Fallon et al., 2021</xref>; <xref ref-type="bibr" rid="ref-55">Vaz et al., 2021</xref>). Artificial surfaces are replacing vegetated areas at a high rate in the city, and their proportions are so high that only 1% of the total urban area is currently covered by green spaces. This means that only 1.6 m<sup>2</sup> of green space is available per inhabitant in Morelia, despite the World Organization of Health recommendation of 9 m<sup>2</sup> per inhabitant (<xref ref-type="bibr" rid="ref-2">Bollo, Martín &amp; Martínez, 2022</xref>; <xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>). Thus, there are not enough vegetated spaces for fireflies and other insects to survive. On the other hand, light pollution is strongly associated with urbanization and is one of the main threats to nocturnal, crepuscular, and diurnal fireflies (<italic>e.g</italic>., by affecting sexual communication in bioluminescent adults, and prolonging daily and seasonal activity, and delaying dormancy in diurnal species; <xref ref-type="bibr" rid="ref-57">Viviani, Rocha &amp; Hagen, 2010</xref>; <xref ref-type="bibr" rid="ref-39">Owens et al., 2020</xref>, <xref ref-type="bibr" rid="ref-41">2022</xref>). Excess artificial light influences life story traits of fireflies, their assemblage structures, and the population dynamics and dispersal of other insect species (<xref ref-type="bibr" rid="ref-24">Khattar et al., 2022</xref>; <xref ref-type="bibr" rid="ref-41">Owens et al., 2022</xref>). In Morelia, we found high levels of light pollution derived from the increase in artificial light at night (ALAN), which likely has similar impacts on local firefly populations.</p>
+<p>Land cover has been found to have a strong influence on insect species richness, abundance, and community structure, leading to poorer diversity in highly urbanized areas compared to peri-urban and extra-urban zones (<xref ref-type="bibr" rid="ref-54">Tzortzakaki et al., 2019</xref>). Urbanization not only provokes habitat loss but likely influences other variables associated with habitat suitability for fireflies and other insects, such as temperature and humidity levels, and plant composition (<xref ref-type="bibr" rid="ref-1">Adams et al., 2020</xref>). For instance, the meteorological station from downtown Morelia reports the lowest levels of precipitation and the highest monthly temperatures in the city, which has been directly associated with the accelerated growth of Morelia (<xref ref-type="bibr" rid="ref-19">IMPLAN, 2022</xref>). <xref ref-type="bibr" rid="ref-42">Picchi et al. (2013)</xref> also mentioned isolation and fragmentation of green spaces due to urbanization as relevant factors influencing colonization by viable populations of fireflies. Further efforts should be made to analyze the relationships between diversity and community structure of fireflies from Morelia with land cover and development levels. Other factors that could be explored in future studies are temperature, humidity, vegetation type, dew point, and heat index which have been associated with firefly abundances and sex proportion (<xref ref-type="bibr" rid="ref-47">Ramírez-Manzano et al., 2023</xref>).</p>
+<p>Based on our findings, we suggest that the number of firefly species and their abundance within the city could rapidly decrease in the coming years due to the increasing effect of their stressor factors (except, perhaps, within conservation areas). Some inhabitants of Morelia have already experienced the loss of fireflies and a decrease in their abundance in recent years, and they even notice the potential species substitution after land use changes. One anecdote supports this hypothesis: “fireflies used to shine in orange color, but they changed to green when the forest was cut, and meadows and buildings replaced it” (María Eloísa León García, 84 years old; 2022, personal communication). The species that was initially observed could be <italic>Photinus barrerae</italic>, which emits an amber colored bioluminescence and is only associated with well-preserved woods in extra-urban zones from Morelia; it may have been replaced by <italic>Photuris versicolor</italic>, which is a more resistant species that emits green light and still has high abundance in the same site, which is now a school campus with large areas of introduced grass.</p>
+<p>As other studies have suggested, some species seem to be well adapted to urban areas and tolerate higher levels of light pollution (<xref ref-type="bibr" rid="ref-56">Viviani, 2001</xref>; <xref ref-type="bibr" rid="ref-57">Viviani, Rocha &amp; Hagen, 2010</xref>). In Morelia, at least <italic>Photuris versicolor</italic>, <italic>Photinus zuritai</italic>, and all of the <italic>Pyropyga</italic> species found seem to be highly resistant and are able to thrive in urban gardens from highly developed zones; <italic>Photuris versicolor</italic> and <italic>Photinus zuritai</italic> were present at high abundances. In contrast, other species (likely habitat specialists) seem to barely survive in peri-urban zones and are constantly exposed to habitat loss and other stressors derived from human activities (<italic>e.g</italic>., <italic>Pyractomena striatella</italic>, <italic>P. chipirietetsi</italic>, <italic>P. guillermodeltoroi</italic>); whereas <italic>P. acutiformis</italic> was only found in well-preserved wetlands in a conservation area with intermediate levels of light pollution in the urban core. Furthermore, some species could already be excluded from their original habitats within Morelia; for instance, <italic>Photinus leobonillai</italic> was collected in the city in 1991, but we did not find any specimens in the urban core during our 2021–2022 samplings, although it is reported in areas surrounding Morelia (<xref ref-type="bibr" rid="ref-36">Naturalista, 2022</xref>). Also, <italic>P. barrerae</italic> seems to be currently restricted to well-preserved forests with low levels of light pollution, a type of habitat that used to be widely distributed around the current periphery of the city. It seems that the species that are the most strongly affected will be crepuscular or nocturnal species whose females have low dispersal capacity (<italic>i.e</italic>., brachypterous or apterous females). In addition, even the more resistant species in Morelia were not able to inhabit sites with radiance values higher than 36 nW/cm<sup>2</sup>/sr.</p>
+<p>In contrast, sites with conservation and restoration programs have shown the persistence of firefly assemblages or even an increase in their richness and abundances in the last two decades. That is the case for the Universidad Latina de América, an ecological conservation area within the urban core, and for Tsíntani, an extra-urban site and Voluntary Conservation Area, that used to be covered with croplands 20 years ago. This highlights the need for more patches and corridors of green areas with native plants, non-polluted water bodies and low levels of light pollution to preserve nocturnal wildlife and their contributions for people. Monitoring well-preserved firefly populations as well as those threatened by urbanization will be essential for the understanding of firefly population dynamics in the short and long terms in the cities in development.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>Due to their sensitivity to environmental degradation, fireflies can be used as bioindicators of ecosystems health (<xref ref-type="bibr" rid="ref-42">Picchi et al., 2013</xref>; <xref ref-type="bibr" rid="ref-18">Hagen et al., 2015</xref>). Based on our findings, sites from the urban core and extinction sites in Morelia likely have the highest levels of environmental degradation, while peri-urban sites could face the same scenarios in the near future if environmental planning and conservation actions are not taken soon. On other hand, firefly fauna from Morelia is still quite rich in species, representing an important proportion of Mexican fireflies (9.28%), and fireflies are highly appreciated by some people in the city. Sharing their experiences with fireflies and our academic findings through science communication strategies would support potential conservation programs and restoration planning at sites where fireflies are now living on the edge of extinction. Cities are rapidly expanding, and peri-urbanization is becoming more frequent; in those scenarios, fireflies could be used as good bioindicators of environmental health that could help to detect and monitor zones in need of protection for nocturnal biodiversity and human health.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16622/SUPPLEMENTARY_MATERIAL.docx">
+<object-id pub-id-type="doi">10.7717/peerj.16622/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Sites from Morelia city and surrounding areas where firefly populations have been reported in the last decades.</title>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>CXPH thanks to David Venegas Suárez Peredo, Danna Betsabé Rivera Ramírez, Olivia Huerta Luna, Yuritzi Román Garibay, and Rodolfo Gutiérrez Bolaños for their great assistance in the entomological samplings in 2022. Special thanks to Pablo Alarcón, Adriana Acosta and members of “Tsíntani, Voluntary Conservation Area” for providing access to their site, entomological material, and photographs of fireflies. We are grateful to the Universidad Latina de América (UNLA), Instituto de Investigaciones sobre los Recursos Naturales (INIRENA), Botanical Garden of the UMSNH, Restaurante Los Laureles in La Mintzita, Municipal Pantheon of Morelia, Tres Cascadas Ecotourism site, Rancho La Planta, and all the people who provided access to their green spaces for firefly sampling and those who shared anecdotes on their experiences with Morelian fireflies. We also thank the UMSNH Entomological Collection for providing entomological material through Javier Ponce Saavedra, and the National Insect Collection at the Universidad Nacional Autónoma de México for access to the firefly type material through Santiago Zaragoza Caballero. Our manuscript was proofread by professional English translator Lynna Kiere.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Cisteil X. Pérez-Hernández</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Ana María Gutiérrez Mancillas</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Ek del-Val</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Luis Mendoza-Cuenca</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to field study approvals (<italic>i.e</italic>., approving body and any reference numbers):</p>
+<p>The Secretary of Environment and Natural Resources of the Government of Mexico granted the collection permit for the project “Surviving urbanization: Evaluation of the main anthropic pressure factors on firefly populations in the urbanized area of Morelia, Michoacán” (SGPA/DGVS/O5322/22).</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-2">
+<p>The following information was supplied regarding data availability:</p>
+<p>The data is available at OSF: Mendoza-Cuenca, Luis. 2023. “Urban Fireflies (Coleoptera, Lampyridae) in Morelia, Michoacán, Mexico.” OSF. November 18. <uri xlink:href="http://osf.io/2nam6">osf.io/2nam6</uri>.</p>
+<p>Pérez-Hernández CX, Mendoza-Cuenca LF, Romo-Galicia A. 2023. Dataset of the Lampyridae (Coleoptera from Morelia, Michoacán, México. Universidad Michoacana de San Nicolás de Hidalgo Facultad de Biología. Available at <uri xlink:href="https://doi.org/10.15468/3asucg">https://doi.org/10.15468/3asucg</uri> (accessed 26 september 2023).</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Adams et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Adams</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Bahlai</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Meineke</surname>
+<given-names>EK</given-names>
+</name>
+<name>
+<surname>McGlynn</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>BV</given-names>
+</name>
+</person-group>
+<article-title>Local and landscape-scale variables shape insect diversity in an urban biodiversity hot spot</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2020">2020</year>
+<volume>30</volume>
+<issue>4</issue>
+<elocation-id>e02089</elocation-id>
+<pub-id pub-id-type="doi">10.1002/eap.2089</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Bollo, Martín &amp; Martínez (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bollo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Martín</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Martínez</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Las áreas verdes de la ciudad de Morelia, Michoacán, México</article-title>
+<source>Investigaciones Geográficas</source>
+<year iso-8601-date="2022">2022</year>
+<volume>107</volume>
+<elocation-id>e60494</elocation-id>
+<pub-id pub-id-type="doi">10.14350/rig.60494</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Cabrero-Sañudo et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cabrero-Sañudo</surname>
+<given-names>FJ</given-names>
+</name>
+<name>
+<surname>Cañizares García</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Caro-Miralles</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Gil Tapetado</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Grzechnik</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>López Collar</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Seguimiento de artrópodos bioindicadores en áreas urbanas: objetivos, experiencias y perspectivas</article-title>
+<source>Ecosistemas</source>
+<year iso-8601-date="2022">2022</year>
+<volume>31</volume>
+<issue>1</issue>
+<fpage>2340</fpage>
+<pub-id pub-id-type="doi">10.7818/ECOS.2340</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Cicero (1988)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cicero</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Ontophylogenetics of cantharoid larviforms (Coleoptera: Cantharoidea)</article-title>
+<source>The Coleopterists Bulletin</source>
+<year iso-8601-date="1988">1988</year>
+<volume>42</volume>
+<issue>2</issue>
+<fpage>105</fpage>
+<lpage>151</lpage>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Cigna &amp; Tapete (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cigna</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Tapete</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Urban growth and land subsidence: multi-decadal investigation using human settlement data and satellite InSAR in Morelia</article-title>
+<source>Mexico Science of the Total Environment</source>
+<year iso-8601-date="2022">2022</year>
+<volume>811</volume>
+<fpage>152211</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2021.152211</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-71">
+<label>Colares et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Colares</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Roza</surname>
+<given-names>AS</given-names>
+</name>
+<name>
+<surname>Mermudes</surname>
+<given-names>JRM</given-names>
+</name>
+<name>
+<surname>Silveira</surname>
+<given-names>LFL</given-names>
+</name>
+<name>
+<surname>Macedo</surname>
+<given-names>MVD</given-names>
+</name>
+</person-group>
+<article-title>Elevational specialization and the monitoring of the effects of climate change in insects: beetles in a Brazilian rainforest mountain</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2021">2021</year>
+<volume>120</volume>
+<fpage>106888</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2020.106888</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>CONABIO National Commission for the Knowledge and Use of Biodiversity (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>CONABIO National Commission for the Knowledge and Use of Biodiversity</collab>
+</person-group>
+<article-title>Portal de gEoinformación, Sistema Nacional De Información Sobre BioDiversidad</article-title>
+<year iso-8601-date="2023">2023</year><uri>http://www.conabio.gob.mx/informacion/gis/</uri>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Costa (2000)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Costa</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Martín Piera</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Morrone</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Melic</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Estado de conocimiento de los Coleoptera neotropicales</article-title>
+<source>Hacia un Proyecto CYTED Para El Inventario Y Estimación De La Diversidad Entomológica en Iberoamérica: PrIBES-2000. M3M: Monografías Tercer Milenio</source>
+<year iso-8601-date="2000">2000</year>
+<volume>I</volume>
+<publisher-loc>Zaragoza, Spain</publisher-loc>
+<publisher-name>Sociedad Entomológica Aragonesa &amp; Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo</publisher-name>
+<fpage>99</fpage>
+<lpage>114</lpage>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>De Cock (2009)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>De Cock</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Meyer-Rochow</surname>
+<given-names>VB</given-names>
+</name>
+</person-group>
+<article-title>Biology and behaviour of European lampyrids</article-title>
+<source>Bioluminescence in Focus: A Collection of Illuminating Essays</source>
+<year iso-8601-date="2009">2009</year>
+<publisher-loc>Kerala</publisher-loc>
+<publisher-name>Research Signpost</publisher-name>
+<fpage>161</fpage>
+<lpage>200</lpage>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Earth Observation Group (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Earth Observation Group</collab>
+</person-group>
+<article-title>Visible and infrared imaging suite (VIIRS) day night band (DNB)</article-title>
+<year iso-8601-date="2021">2021</year><uri>https://eogdata.mines.edu/products/vnl/</uri>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Fallon et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fallon</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Walker</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cicero</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Faust</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Heckscher</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Pérez-Hernández</surname>
+<given-names>CX</given-names>
+</name>
+<name>
+<surname>Pfeiffer</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Jepsen</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Evaluating firefly extinction risk: initial red list assessments for North America</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2021">2021</year>
+<volume>16</volume>
+<issue>11</issue>
+<elocation-id>e0259379</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0259379</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Fauzdi et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fauzdi</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Abas</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wahida Othman</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mazian Mazlan</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Effect of water quality on the abundance of firefly populations at Cherating river, Pahang</article-title>
+<source>Malaysia Environment Asia</source>
+<year iso-8601-date="2021">2021</year>
+<volume>14</volume>
+<issue>1</issue>
+<fpage>69</fpage>
+<lpage>79</lpage>
+<pub-id pub-id-type="doi">10.14456/ea.2021.8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>GBIF (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>GBIF</collab>
+</person-group>
+<article-title>Global biodiversity information facility. GBIF.org. GBIF occurrence download</article-title>
+<year iso-8601-date="2021">2021</year><uri>https://doi.org/10.15468/dl.t7289w</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2022-02-04">4 February 2022</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Google Earth (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Google Earth</collab>
+</person-group>
+<article-title>Morelia city and surrounding areas. Coordinates 19.68329177, -101.24299184, Eye alt. 37 km. INEGI Maxar Technologies CNES/Airbus</article-title>
+<year iso-8601-date="2021">2021</year><uri>http://www.google.com/earth/index.html</uri>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Gorham (1885)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Gorham</surname>
+<given-names>HS</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Godman</surname>
+<given-names>FD</given-names>
+</name>
+<name>
+<surname>Salvin</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Insecta, Coleoptera, Vol. III Part 2. Malacodermata (Lycidae, Lampyridae, Telephoridae, Lymexylonidae, Melyridae, Cleridae, Ptinidae, Bostrychidae, Cioidae)</article-title>
+<source>Biologia Centrali-Americana. R.H III</source>
+<year iso-8601-date="1885">1885</year>
+<publisher-loc>London</publisher-loc>
+<publisher-name>R.H. Porter</publisher-name>
+<fpage>1</fpage>
+<lpage>372</lpage>
+<comment>(Supplement (1885): 306–307)</comment>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Green (1961)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>JW</given-names>
+</name>
+</person-group>
+<article-title>Revision of the species of <italic>Pyropyga</italic> (Lampyridae)</article-title>
+<source>The Coleopterists Bulletin</source>
+<year iso-8601-date="1961">1961</year>
+<volume>15</volume>
+<issue>3</issue>
+<fpage>65</fpage>
+<lpage>74</lpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Gutiérrez-Carranza, Domínguez-León &amp; Rodríguez-Mirón (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gutiérrez-Carranza</surname>
+<given-names>IG</given-names>
+</name>
+<name>
+<surname>Domínguez-León</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Rodríguez-Mirón</surname>
+<given-names>GM</given-names>
+</name>
+</person-group>
+<article-title>Distribución de la luciérnaga de los volcanes <italic>Photinus palaciosi</italic> (Zaragoza-Caballero, 2012) (Coleoptera: Lampyridae)</article-title>
+<source>Dugesiana</source>
+<year iso-8601-date="2023">2023</year>
+<volume>30</volume>
+<issue>2</issue>
+<fpage>65</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.32870/dugesiana.v30i2.7280</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Gutiérrez-Carranza, Zaragoza-Caballero &amp; Domínguez-León (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gutiérrez-Carranza</surname>
+<given-names>IG</given-names>
+</name>
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Domínguez-León</surname>
+<given-names>DE</given-names>
+</name>
+</person-group>
+<article-title><italic>Photinus favilai</italic> y <italic>P. tilae</italic> nuevas especies de luciérnagas de México (Coleoptera: Lampyridae)</article-title>
+<source>Dugesiana</source>
+<year iso-8601-date="2023">2023</year>
+<volume>30</volume>
+<issue>2</issue>
+<fpage>209</fpage>
+<lpage>219</lpage>
+<pub-id pub-id-type="doi">10.32870/dugesiana.v30i2.7280</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Hagen et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hagen</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Santos</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Schlindwein</surname>
+<given-names>MN</given-names>
+</name>
+<name>
+<surname>Viviani</surname>
+<given-names>VR</given-names>
+</name>
+</person-group>
+<article-title>Artificial night lighting reduces firefly (Coleoptera: Lampyridae) occurrence in Sorocaba</article-title>
+<source>Brazil Advances in Entomology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>3</volume>
+<issue>01</issue>
+<fpage>24</fpage>
+<lpage>32</lpage>
+<pub-id pub-id-type="doi">10.4236/ae.2015.31004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>IMPLAN (2022)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>IMPLAN</collab>
+</person-group>
+<article-title>Instituto Municipal de Planeación de Morelia (IMPLAN)</article-title>
+<year iso-8601-date="2022">2022</year><uri>https://implanmorelia.org</uri>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>INEGI (2022)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>INEGI</collab>
+</person-group>
+<article-title>Mexico in figures</article-title>
+<year iso-8601-date="2022">2022</year><uri>http://en.www.inegi.org.mx/app/areasgeograficas/?ag=16053#collapse-Resumen</uri>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Jäch &amp; Balke (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jäch</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Balke</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Global diversity of water beetles (Coleoptera) in freshwater</article-title>
+<source>Hydrobiologia</source>
+<year iso-8601-date="2008">2008</year>
+<volume>595</volume>
+<issue>1</issue>
+<fpage>419</fpage>
+<lpage>442</lpage>
+<pub-id pub-id-type="doi">10.1007/s10750-007-9117-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Jaikla et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jaikla</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Thancharoen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pinkaewc</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Distribution, abundance, and habitat characteristics of the congregating firefly, <italic>Pteroptyx olivier</italic> (Coleoptera: Lampyridae) in Thailand</article-title>
+<source>Journal of Asia-Pacific Biodiversity</source>
+<year iso-8601-date="2020">2020</year>
+<volume>13</volume>
+<fpage>358e366</fpage>
+<pub-id pub-id-type="doi">10.1016/j.japb.2020.06.002</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Kazama et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kazama</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Matsumoto</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Priyantha Ranhan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Hamamoto</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Sawamoto</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Characterization of firefly habitat using a geographical information system with hydrological simulation</article-title>
+<source>Ecological Modelling</source>
+<year iso-8601-date="2007">2007</year>
+<volume>209</volume>
+<issue>2–4</issue>
+<fpage>392</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolmodel.2007.06.029</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Khattar et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Khattar</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Vaz</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pereira Braga</surname>
+<given-names>P-H</given-names>
+</name>
+<name>
+<surname>Macedo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Silveira</surname>
+<given-names>LFL</given-names>
+</name>
+</person-group>
+<article-title>Life history traits modulate the influence of environmental stressors on biodiversity: the case of fireflies, climate and artificial light at night</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2022">2022</year>
+<volume>28</volume>
+<issue>9</issue>
+<fpage>1820</fpage>
+<lpage>1831</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.13584</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Lee et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lee</surname>
+<given-names>DH</given-names>
+</name>
+<name>
+<surname>Kim</surname>
+<given-names>TS</given-names>
+</name>
+<name>
+<surname>Kim</surname>
+<given-names>JY</given-names>
+</name>
+<name>
+<surname>Park</surname>
+<given-names>IH</given-names>
+</name>
+<name>
+<surname>Jang</surname>
+<given-names>GB</given-names>
+</name>
+</person-group>
+<article-title>Spatial estimation for establishing fireflies habitat in Daegu City and Gyeongbuk Province</article-title>
+<source>Journal of Forest and Environmental Science</source>
+<year iso-8601-date="2019">2019</year>
+<volume>35</volume>
+<issue>1</issue>
+<fpage>61</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="doi">10.7747/JFES.2019.35.1.61</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Lewis et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lewis</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Wong</surname>
+<given-names>CH</given-names>
+</name>
+<name>
+<surname>Owens</surname>
+<given-names>ACS</given-names>
+</name>
+<name>
+<surname>Fallon</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Jepsen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Thancharoen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>De Cock</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Novák</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>López- Palafox</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Khoo</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Reed</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>A global perspective on firefly extinction threats</article-title>
+<source>BioScience</source>
+<year iso-8601-date="2020">2020</year>
+<volume>70</volume>
+<issue>2</issue>
+<fpage>157</fpage>
+<lpage>167</lpage>
+<pub-id pub-id-type="doi">10.1093/biosci/biz157</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Lloyd (1973)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lloyd</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Firefly parasites and predators</article-title>
+<source>The Coleopterists’ Bulletin</source>
+<year iso-8601-date="1973">1973</year>
+<volume>27</volume>
+<issue>2</issue>
+<fpage>91</fpage>
+<lpage>106</lpage>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Lloyd (2002)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lloyd</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Arnett</surname>
+<given-names>RH</given-names>
+</name>
+<name>
+<surname>Thomas</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Skelley</surname>
+<given-names>PE</given-names>
+</name>
+<name>
+<surname>Frank</surname>
+<given-names>JH</given-names>
+</name>
+</person-group>
+<article-title>Family 62. Lampyridae</article-title>
+<source>American Beetles, Polyphaga: Scarabaeoidea Through Curculionoidea</source>
+<year iso-8601-date="2002">2002</year>
+<volume>2</volume>
+<publisher-loc>Boca Raton, Florida</publisher-loc>
+<publisher-name>CRC Press</publisher-name>
+<fpage>187</fpage>
+<lpage>196</lpage>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>López et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>López</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Bocco</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Mendoza</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Duhau</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Predicting land-cover and land-use change in the urban fringe: a case in Morelia city, Mexico</article-title>
+<source>Landscape and Urban Planning</source>
+<year iso-8601-date="2001">2001</year>
+<volume>55</volume>
+<issue>4</issue>
+<fpage>271</fpage>
+<lpage>285</lpage>
+<pub-id pub-id-type="doi">10.1016/S0169-2046(01)00160-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>López Núñez &amp; Pedraza Marrón (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>López Núñez</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Pedraza Marrón</surname>
+<given-names>HA</given-names>
+</name>
+</person-group>
+<article-title>Territorio como patrimonio: el espacio periurbano de la ciudad de Morelia y el agotamiento de los recursos</article-title>
+<source>Revista Asuntos Económicos y Administrativos, Facultad de Ciencias Contables, Económicas y Administrativas</source>
+<year iso-8601-date="2012">2012</year>
+<volume>22</volume>
+<fpage>267</fpage>
+<lpage>283</lpage>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>López-López (2011)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>López-López</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Efectos de la urbanización sobre las comunidades de aves y lepidópteros de la ciudad de Morelia</article-title>
+<year iso-8601-date="2011">2011</year>
+<comment>Bachelor Thesis. Faculty of Biology, Michoacan University of Saint Nicholas of Hidalgo, Morelia, Michoacán, México</comment>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>MacGregor-Fors (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>MacGregor-Fors</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>How to measure the urban-wildland ecotone: redefining ‘peri-urban’ areas</article-title>
+<source>Ecological Research</source>
+<year iso-8601-date="2010">2010</year>
+<volume>25</volume>
+<issue>4</issue>
+<fpage>883</fpage>
+<lpage>887</lpage>
+<pub-id pub-id-type="doi">10.1007/s11284-010-0717-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>MacGregor-Fors (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>MacGregor-Fors</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Misconceptions or misunderstandings? On the standardization of basic terms and definitions in urban ecology</article-title>
+<source>Landscape and Urban Planning</source>
+<year iso-8601-date="2011">2011</year>
+<volume>100</volume>
+<issue>4</issue>
+<fpage>347</fpage>
+<lpage>349</lpage>
+<pub-id pub-id-type="doi">10.1016/j.landurbplan.2011.01.013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Merckx &amp; Van Dyck (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Merckx</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Van Dyck</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Urbanization-driven homogenization is more pronounced and happens at wider spatial scales in nocturnal and mobile flying insects</article-title>
+<source>Global Ecology and Biogeography</source>
+<year iso-8601-date="2019">2019</year>
+<volume>28</volume>
+<issue>10</issue>
+<fpage>1</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.1111/geb.12969</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>National Weather Service (2022)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>National Weather Service</collab>
+</person-group>
+<article-title>Servicio meteorológico nacional</article-title>
+<year iso-8601-date="2022">2022</year><uri>https://smn.conagua.gob.mx/es/informacion-climatologica-por-estado?estado=mich</uri>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Naturalista (2022)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Naturalista</collab>
+</person-group>
+<article-title>Lampyridae from Michoacán</article-title>
+<year iso-8601-date="2022">2022</year><uri>https://www.naturalista.mx/observations?place_id=7447&amp;taxon_id=47731</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2022-12-21">21 December 2022</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Oksanen et al. (2015)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Oksanen</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Blanchet</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Kindt</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Legendre</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Minchin</surname>
+<given-names>PR</given-names>
+</name>
+<name>
+<surname>O’Hara</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Simpson</surname>
+<given-names>GL</given-names>
+</name>
+<name>
+<surname>Solymos</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Stevens</surname>
+<given-names>MH</given-names>
+</name>
+<name>
+<surname>Wagner</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>vegan: community ecology Package. R package version 2.3-0</article-title>
+<year iso-8601-date="2015">2015</year><uri>http://cran.r-project.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Ortiz &amp; Vieyra (2018)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ortiz</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Vieyra</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Vieyra</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Méndez-Lemus</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Hernández</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Periurbanización y sus efectos en el ambiente y la calidad de vida: análisis en dos localidades socioeconómicamente contrastantes de Morelia, Michoacán</article-title>
+<source>Procesos Periurbanos: Desequilibrios Territoriales, Desigualdades Sociales, Ambientales y Pobreza</source>
+<year iso-8601-date="2018">2018</year>
+<publisher-loc>México</publisher-loc>
+<publisher-name>Universidad Nacional Autónoma de México, CIGA</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Owens et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Owens</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Cochard</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Durrant</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Farnworth</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Perkin</surname>
+<given-names>EK</given-names>
+</name>
+<name>
+<surname>Seymoure</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Light pollution is a driver of insect declines</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2020">2020</year>
+<volume>241</volume>
+<fpage>108259</fpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2019.108259</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Owens &amp; Lewis (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Owens</surname>
+<given-names>ACS</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>SM</given-names>
+</name>
+</person-group>
+<article-title>Effects of artificial light on growth, development, and dispersal of two North American fireflies (Coleoptera: Lampyridae)</article-title>
+<source>Journal of Insect Physiology</source>
+<year iso-8601-date="2021">2021</year>
+<volume>130</volume>
+<issue>3</issue>
+<fpage>104200</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jinsphys.2021.104200</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Owens et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Owens</surname>
+<given-names>ACS</given-names>
+</name>
+<name>
+<surname>Van den Broeck</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>De Cock</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>SM</given-names>
+</name>
+</person-group>
+<article-title>Behavioral responses of bioluminescent fireflies to artificial light at night</article-title>
+<source>Frontiers in Ecology and Evolution</source>
+<year iso-8601-date="2022">2022</year>
+<volume>10</volume>
+<fpage>946640</fpage>
+<pub-id pub-id-type="doi">10.3389/fevo.2022.946640</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Pérez-Hernández, Mendoza-Cuenca &amp; Romo-Galicia (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Pérez-Hernández</surname>
+<given-names>CX</given-names>
+</name>
+<name>
+<surname>Mendoza-Cuenca</surname>
+<given-names>LF</given-names>
+</name>
+<name>
+<surname>Romo-Galicia</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Dataset of the Lampyridae (Coleoptera) from Morelia, Michoacán, México. Universidad Michoacana de San Nicolás de Hidalgo Facultad de Biología</article-title>
+<year iso-8601-date="2023">2023</year><uri>https://doi.org/10.15468/3asucg</uri>
+<comment>(accessed 26 september 2023)</comment>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Pérez-Hernández, Zaragoza-Caballero &amp; Romo-Galicia (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pérez-Hernández</surname>
+<given-names>CX</given-names>
+</name>
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Romo-Galicia</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Updated checklist of the fireflies (Coleoptera: Lampyridae) of Mexico</article-title>
+<source>Zootaxa</source>
+<year iso-8601-date="2022">2022</year>
+<volume>5092</volume>
+<issue>3</issue>
+<fpage>291</fpage>
+<lpage>317</lpage>
+<pub-id pub-id-type="doi">10.11646/zootaxa.5092.3.3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Picchi et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Picchi</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Avolio</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Azzani</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Brombin</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Camerini</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Fireflies and land use in an urban landscape: the case of <italic>Luciola italica</italic> L. (Coleoptera: Lampyridae) in the city of Turin</article-title>
+<source>Journal of Insect Conservation</source>
+<year iso-8601-date="2013">2013</year>
+<volume>17</volume>
+<issue>4</issue>
+<fpage>797</fpage>
+<lpage>805</lpage>
+<pub-id pub-id-type="doi">10.1007/s10841-013-9562-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Quiróz Pérez (2008)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Quiróz Pérez</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Diversidad y abundancia de lepidópteros diurnos en la cuenca de Cuitzeo</article-title>
+<year iso-8601-date="2008">2008</year>
+<comment>Bachelor Thesis. Faculty of Biology, Michoacan University of Saint Nicholas of Hidalgo, Morelia, Michoacán, México</comment>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>R Core Team (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>R Core Team</collab>
+</person-group>
+<source>R: A language and environment for statistical. computing</source>
+<year iso-8601-date="2021">2021</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name><uri>https://www.r-project.org</uri>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Ramírez-Manzano et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ramírez-Manzano</surname>
+<given-names>SI</given-names>
+</name>
+<name>
+<surname>Cano-Santana</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Cibrián-Tovar</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Luna-Cavazos</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Romero-Manzanares</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Ruiz-Posadas</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>García-Moya</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Influencia de los factores abióticos y del tipo de vegetación sobre la abundancia de los adultos de <italic>Photinus palaciosi</italic> (Coleoptera: Lampyridae) en Nanacamilpa, Tlaxcala, México</article-title>
+<source>Revista Mexicana de Biodiversidad</source>
+<year iso-8601-date="2023">2023</year>
+<volume>94</volume>
+<elocation-id>e945091</elocation-id>
+<pub-id pub-id-type="doi">10.22201/ib.20078706e.2023.94.5091</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Riley, Rosa &amp; Silveira (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Riley</surname>
+<given-names>WB</given-names>
+</name>
+<name>
+<surname>Rosa</surname>
+<given-names>SP</given-names>
+</name>
+<name>
+<surname>Silveira</surname>
+<given-names>LF</given-names>
+</name>
+</person-group>
+<article-title>A comprehensive review and call for studies on firefly larvae</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2021">2021</year>
+<volume>9</volume>
+<issue>e12121</issue>
+<fpage>1</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="doi">10.7717/peerj.12121</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Rocha-Ortega &amp; Castaño-Meneses (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rocha-Ortega</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Castaño-Meneses</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Effects of urbanization on the diversity of ant assemblages in tropical dry forests, Mexico</article-title>
+<source>Urban Ecosystems</source>
+<year iso-8601-date="2015">2015</year>
+<volume>18</volume>
+<issue>4</issue>
+<fpage>1373</fpage>
+<lpage>1388</lpage>
+<pub-id pub-id-type="doi">10.1007/s11252-015-0446-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Silveira et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Silveira</surname>
+<given-names>LFL</given-names>
+</name>
+<name>
+<surname>Khattar</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Vaz</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wilson</surname>
+<given-names>VA</given-names>
+</name>
+<name>
+<surname>Souto</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Mermudes</surname>
+<given-names>JRM</given-names>
+</name>
+<name>
+<surname>Stanger Hall</surname>
+<given-names>KF</given-names>
+</name>
+<name>
+<surname>Macedo</surname>
+<given-names>MV</given-names>
+</name>
+<name>
+<surname>Monteiro</surname>
+<given-names>RF</given-names>
+</name>
+</person-group>
+<article-title>Natural history of the fireflies of the Serra dos Órgãos mountain range (Brazil: Rio de Janeiro)—one of the ‘hottest’ firefly spots on Earth, with a key to genera (Coleoptera: Lampyridae)</article-title>
+<source>Journal of Natural History</source>
+<year iso-8601-date="2020">2020</year>
+<volume>54</volume>
+<issue>5–6</issue>
+<fpage>275</fpage>
+<lpage>308</lpage>
+<pub-id pub-id-type="doi">10.1080/00222933.2020.1749323</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Stanger-Hall, Lloyd &amp; Hillis (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stanger-Hall</surname>
+<given-names>KH</given-names>
+</name>
+<name>
+<surname>Lloyd</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Hillis</surname>
+<given-names>DM</given-names>
+</name>
+</person-group>
+<article-title>Phylogeny of North American fireflies (Coleoptera: Lampyridae): Implications for the evolution of light signals</article-title>
+<source>Molecular Phylogenetics and Evolution</source>
+<year iso-8601-date="2011">2011</year>
+<volume>45</volume>
+<fpage>33</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ympev.2007.05.013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Takeda et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Takeda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Amano</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Katoh</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Higuchi</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>The habitat requirement of the Genji-firefly <italic>Luciola cruciata</italic> (Coleoptera: Lampyridae), a representative endemic species of Japanese rural landscapes</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2006">2006</year>
+<volume>15</volume>
+<issue>1</issue>
+<fpage>191</fpage>
+<lpage>203</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-004-6903-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Tzortzakaki et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tzortzakaki</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Kati</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Panitsa</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Tzanatos</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Giokas</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Butterfly diversity along the urbanization gradient in a densely-built Mediterranean city: land cover is more decisive than resources in structuring communities</article-title>
+<source>Landscape and Urban Planning</source>
+<year iso-8601-date="2019">2019</year>
+<volume>183</volume>
+<fpage>79</fpage>
+<lpage>87</lpage>
+<pub-id pub-id-type="doi">10.1016/j.landurbplan.2018.11.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Vaz et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vaz</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Manes</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gama-Maia</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Silveira</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Mattos</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Paiva</surname>
+<given-names>PC</given-names>
+</name>
+<name>
+<surname>Figueiredo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lorini</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Light pollution is the fastest growing potential threat to firefly conservation in the Atlantic Forest hotspot</article-title>
+<source>Insect Conservation and Diversity</source>
+<year iso-8601-date="2021">2021</year>
+<volume>14</volume>
+<issue>2</issue>
+<fpage>211</fpage>
+<lpage>224</lpage>
+<pub-id pub-id-type="doi">10.1111/icad.12481</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Viviani (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Viviani</surname>
+<given-names>VR</given-names>
+</name>
+</person-group>
+<article-title>Fireflies (Coleoptera: Lampyridae) from Southeastern Brazil: habitats, life history, and bioluminescence</article-title>
+<source>Conservation Biology and Biodiversity</source>
+<year iso-8601-date="2001">2001</year>
+<volume>94</volume>
+<issue>1</issue>
+<fpage>129</fpage>
+<lpage>145</lpage>
+<pub-id pub-id-type="doi">10.1603/0013-8746(2001)094[0129:FCLFSB]2.0.CO;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Viviani, Rocha &amp; Hagen (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Viviani</surname>
+<given-names>VR</given-names>
+</name>
+<name>
+<surname>Rocha</surname>
+<given-names>MY</given-names>
+</name>
+<name>
+<surname>Hagen</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Bioluminescent beetles (Coleoptera: Elateroidea: Lampyridae, Phengodidae, Elateridae) in the municipalities of Campinas, Sorocaba-Votorantim and Rio Claro-Limeira (SP, Brazil): Biodiversity and influence of urban sprawl</article-title>
+<source>Biota Neotropica</source>
+<year iso-8601-date="2010">2010</year>
+<volume>10</volume>
+<fpage>103</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1590/S1676-06032010000200013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Zaragoza-Caballero (1993)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Descripción de especie nueva y registros nuevos del género <italic>Pyropyga</italic> (Coleoptera: Lampyridae: Lampyrinae: Photinini) de México</article-title>
+<source>Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología</source>
+<year iso-8601-date="1993">1993</year>
+<volume>64</volume>
+<issue>2</issue>
+<fpage>139</fpage>
+<lpage>151</lpage>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Zaragoza-Caballero (1995a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>La familia Lampyridae (Coleoptera) en la Estación de Biología Tropical Los Tuxtlas, Veracruz, México</article-title>
+<source>Instituto de Biología, Universidad Nacional Autónoma de México. Publicaciones Especiales</source>
+<year iso-8601-date="1995a">1995a</year>
+<volume>14</volume>
+<fpage>1</fpage>
+<lpage>93</lpage>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Zaragoza-Caballero (1995b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Descripción de ocho especies nuevas de <italic>Photinus</italic> (Coleoptera: Lampyridae, Photinini) de México</article-title>
+<source>Acta Zoológica Mexicana (n.s.)</source>
+<year iso-8601-date="1995b">1995b</year>
+<volume>66</volume>
+<fpage>1</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.21829/azm.1995.66661658</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Zaragoza-Caballero (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Especies nuevas de <italic>Cratomorphus</italic> (Coleoptera: Lampyridae, Photinini) de México</article-title>
+<source>Anales del Instituto de Biología de la Universidad Nacional Autónoma de México, Serie Zoología</source>
+<year iso-8601-date="1996">1996</year>
+<volume>67</volume>
+<issue>2</issue>
+<fpage>319</fpage>
+<lpage>329</lpage>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Zaragoza-Caballero (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Cantharoidea of Mexico V. Two new species of <italic>Pleotomus</italic> LeConte (Insecta: Coleoptera: Lampyridae: Pleotomini)</article-title>
+<source>Reichenbachia, Staatliches Museum für Tierkunde Dresden</source>
+<year iso-8601-date="2002">2002</year>
+<volume>34</volume>
+<issue>40</issue>
+<fpage>325</fpage>
+<lpage>332</lpage>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Zaragoza-Caballero (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title><italic>Cratomorphus halffteri</italic>, una nueva especie de México (Coleoptera: Lampyridae: Cratomorphini)</article-title>
+<source>Dugesiana</source>
+<year iso-8601-date="2012">2012</year>
+<volume>18</volume>
+<issue>2</issue>
+<fpage>175</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="doi">10.32870/dugesiana.v18i2.4023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Zaragoza-Caballero et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>López-Pérez</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>González-Ramírez</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Rodríguez-Mirón</surname>
+<given-names>GM</given-names>
+</name>
+<name>
+<surname>Vega-Badillo</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Domínguez-León</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Cifuentes-Ruiz</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Luciérnagas (Coleoptera: Lampyridae) del norte-occidente de México, con la descripción de 48 especies nuevas</article-title>
+<source>Revista Mexicana de Biodiversidad</source>
+<year iso-8601-date="2023">2023</year>
+<volume>94</volume>
+<elocation-id>e945028</elocation-id>
+<pub-id pub-id-type="doi">10.22201/ib.20078706e.2023.94.5028</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Zaragoza-Caballero et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaragoza-Caballero</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>López-Pérez</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Vega-Badillo</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Domínguez-León</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Rodríguez-Mirón</surname>
+<given-names>GM</given-names>
+</name>
+<name>
+<surname>González-Ramírez</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gutiérrez-Carranza</surname>
+<given-names>IG</given-names>
+</name>
+<name>
+<surname>Cifuentes-Ruiz</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zurita-García</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Luciérnagas del centro de México (Coleoptera: Lampyridae): descripción de 37 especies nuevas</article-title>
+<source>Revista Mexicana de Biodiversidad</source>
+<year iso-8601-date="2020">2020</year>
+<volume>91</volume>
+<issue>0</issue>
+<fpage>1</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.22201/ib.20078706e.2020.91.3104</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

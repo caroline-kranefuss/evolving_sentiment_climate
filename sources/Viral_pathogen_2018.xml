@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5949</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5949</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Conservation Biology</subject>
+<subject>Ecology</subject>
+<subject>Zoology</subject>
+<subject>Freshwater Biology</subject>
+<subject>Population Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>An emerging viral pathogen truncates population age structure in a European amphibian and may reduce population viability</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-7852-2250</contrib-id>
+<name name-style="western">
+<surname>Campbell</surname>
+<given-names>Lewis J.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<xref ref-type="aff" rid="aff-3">3</xref>
+<email>lewis.campbell@wisc.edu</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Garner</surname>
+<given-names>Trenton W.J.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Tessa</surname>
+<given-names>Giulia</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Scheele</surname>
+<given-names>Benjamin C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7455-6795</contrib-id>
+<name name-style="western">
+<surname>Griffiths</surname>
+<given-names>Amber G.F.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-6">6</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-6075-458X</contrib-id>
+<name name-style="western">
+<surname>Wilfert</surname>
+<given-names>Lena</given-names>
+</name>
+<xref ref-type="aff" rid="aff-7">7</xref>
+<xref ref-type="aff" rid="aff-8">8</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-2004-3601</contrib-id>
+<name name-style="western">
+<surname>Harrison</surname>
+<given-names>Xavier A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>Xav.harrison@gmail.com</email>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>Environment and Sustainability Institute, University of Exeter</institution>, <addr-line>Penryn</addr-line>, <country>UK</country></aff>
+<aff id="aff-2"><label>2</label><institution>Institute of Zoology, Zoological Society of London</institution>, <addr-line>London</addr-line>, <country>UK</country></aff>
+<aff id="aff-3"><label>3</label><institution>Department of Pathobiological Sciences, University of Wisconsin-Madison</institution>, <addr-line>Madison, WI</addr-line>, <country>USA</country></aff>
+<aff id="aff-4"><label>4</label><institution>Life Sciences and Systems Biology, University of Turin</institution>, <addr-line>Turin</addr-line>, <country>Italy</country></aff>
+<aff id="aff-5"><label>5</label><institution>Fenner School of Environment and Society, Australian National University</institution>, <addr-line>Canberra</addr-line>, <country>ACT, Australia</country></aff>
+<aff id="aff-6"><label>6</label><institution>FoAM Kernow</institution>, <addr-line>Penryn</addr-line>, <country>UK</country></aff>
+<aff id="aff-7"><label>7</label><institution>Centre for Ecology and Conservation, University of Exeter</institution>, <addr-line>Penryn</addr-line>, <country>UK</country></aff>
+<aff id="aff-8"><label>8</label><institution>Institute of Evolutionary Ecology and Conservation Genomics, Universität Ulm</institution>, <addr-line>Ulm</addr-line>, <country>Germany</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Forbes</surname>
+<given-names>Valery</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-16">
+<day>16</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5949</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-07-19">
+<day>19</day>
+<month>7</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-17">
+<day>17</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Campbell et al.</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Campbell et al.</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5949"/>
+<abstract>
+<p>Infectious diseases can alter the demography of their host populations, reducing their viability even in the absence of mass mortality. Amphibians are the most threatened group of vertebrates globally, and emerging infectious diseases play a large role in their continued population declines. Viruses belonging to the genus <italic>Ranavirus</italic> are responsible for one of the deadliest and most widespread of these diseases. To date, no work has used individual level data to investigate how ranaviruses affect population demographic structure. We used skeletochronology and morphology to evaluate the impact of ranaviruses on the age structure of populations of the European common frog (<italic>Rana temporaria</italic>) in the UK. We compared ecologically similar populations that differed most notably in their historical presence or absence of ranavirosis (the acute syndrome caused by ranavirus infection). Our results suggest that ranavirosis may truncate the age structure of <italic>R. temporaria</italic> populations. One potential explanation for such a shift might be increased adult mortality and subsequent shifts in the life history of younger age classes that increase reproductive output earlier in life. Additionally, we constructed population projection models which indicated that such increased adult mortality could heighten the vulnerability of frog populations to stochastic environmental challenges.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Demography</kwd>
+<kwd>Environmental stochasticity</kwd>
+<kwd>Disease</kwd>
+<kwd>Amphibians</kwd>
+<kwd>Ranavirus</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>A Natural Environment Research Council PhD Studentship</funding-source>
+</award-group>
+<funding-statement>This work was supported by a Natural Environment Research Council PhD Studentship. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>The emergence of infectious diseases can truncate the age structure of host populations (<xref ref-type="bibr" rid="ref-25">Jones et al., 2008</xref>; <xref ref-type="bibr" rid="ref-27">Lachish, McCallum &amp; Jones, 2009</xref>; <xref ref-type="bibr" rid="ref-33">Ohlberger et al., 2011</xref>; <xref ref-type="bibr" rid="ref-16">Fitzpatrick et al., 2014</xref>). Within age-structured populations, such truncation is primarily caused by compensatory changes in the vital rates (rates of growth, fecundity, and survival) of younger age classes which occur in response to elevated levels of extrinsic adult mortality (death of adult animals attributable to external factors such as disease or predation; <xref ref-type="bibr" rid="ref-47">Stearns, 1992</xref>; <xref ref-type="bibr" rid="ref-39">Roff, 1993</xref>). To maximise individual fitness within an environment of high extrinsic adult mortality, selection for increased developmental rates, decreased size, and age at sexual maturity, and an increased adult life span (decreased intrinsic adult mortality) will occur (<xref ref-type="bibr" rid="ref-48">Stearns et al., 2000</xref>). This theory has been empirically borne out in a number of systems in response to several different sources of mortality, including predation (<xref ref-type="bibr" rid="ref-38">Reznick, Bryga &amp; Endler, 1990</xref>), over-harvesting (<xref ref-type="bibr" rid="ref-34">Olsen et al., 2004</xref>), and experimentally induced adult mortality (<xref ref-type="bibr" rid="ref-48">Stearns et al., 2000</xref>).</p>
+<p>Changes to population demography can have profound impacts on the growth and stability of infected populations (<xref ref-type="bibr" rid="ref-42">Saether &amp; Bakke, 2000</xref>). This phenomenon has recently been demonstrated by <xref ref-type="bibr" rid="ref-44">Scheele et al. (2016)</xref>, who documented high adult mortality and associated truncation of population age structure in alpine tree frog (<italic>Litoria verreauxii alpina</italic>) populations infected with the lethal fungal pathogen <italic>Batrachochytrium dendrobatidis</italic>. Populations with truncated age structure were shown to be more vulnerable to decline due to stochastic recruitment failure than <italic>B. dendrobatidis</italic>-free populations (<xref ref-type="bibr" rid="ref-44">Scheele et al., 2016</xref>). These results highlight an important, yet relatively unexplored mechanism by which infectious diseases can negatively affect their hosts.</p>
+<p>Infectious diseases are emerging at a faster rate and threatening a larger range of species than at any prior point in history (<xref ref-type="bibr" rid="ref-26">Jones, Patel &amp; Levy, 2008</xref>). Therefore, it is imperative to better understand demographic shifts associated with disease, and their consequence for population viability, particularly in species of conservation concern.</p>
+<p>Worldwide, amphibians are the most imperilled class of vertebrates (<xref ref-type="bibr" rid="ref-53">Wake &amp; Vredenburg, 2008</xref>). Aside from threats such as habitat loss (<xref ref-type="bibr" rid="ref-11">Cushman, 2006</xref>), over-harvesting (<xref ref-type="bibr" rid="ref-57">Xie et al., 2007</xref>), and climate change (<xref ref-type="bibr" rid="ref-17">Foden et al., 2013</xref>), one major driver of amphibian declines is the emergence of a suite of infectious diseases (<xref ref-type="bibr" rid="ref-12">Daszak et al., 1999</xref>). One of the most widespread and deadly of these diseases, ranavirosis, is caused by viral pathogens belonging to the genus <italic>Ranavirus</italic> (<xref ref-type="bibr" rid="ref-9">Chinchar, 2002</xref>; <xref ref-type="bibr" rid="ref-20">Green, Converse &amp; Schrader, 2002</xref>). Ranaviruses are globally distributed and are capable of infecting and killing a wide range of species from three classes of ectothermic vertebrates (Amphibians, <xref ref-type="bibr" rid="ref-10">Cunningham et al., 1996</xref>; Fish, <xref ref-type="bibr" rid="ref-55">Whittington, Becker &amp; Dennis, 2010</xref>; Reptiles, <xref ref-type="bibr" rid="ref-29">Marschang, 2011</xref>). Clinical ranavirosis is often characterised by severe dermal ulcerations (<xref ref-type="bibr" rid="ref-10">Cunningham et al., 1996</xref>), as well as haemorrhaging and lesions affecting the internal organs (<xref ref-type="bibr" rid="ref-10">Cunningham et al., 1996</xref>; <xref ref-type="bibr" rid="ref-2">Bayley, Hill &amp; Feist, 2013</xref>). At the population level, acute incidences of ranavirosis often manifest in mass mortality events, with extreme or complete population mortality reported in some instances (<xref ref-type="bibr" rid="ref-20">Green, Converse &amp; Schrader, 2002</xref>; <xref ref-type="bibr" rid="ref-54">Wheelwright et al., 2014</xref>). Evidence from the UK shows that following an episode of mass mortality due to ranavirosis European common frog (<italic>Rana temporaria</italic>) populations can decline in size by more than 80% (<xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>). Though population recovery has been observed in some instances, often population size remains supressed, and some populations decline to local extinction (<xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>). <xref ref-type="bibr" rid="ref-8">Campbell et al. (2018)</xref> demonstrated that ranaviruses are potentially more widespread than previously thought, and present within the environment even when resident frog populations show no overt signs of disease. These findings suggests that whether or not an outbreak of ranavirosis occurs may depend on currently unknown biotic or abiotic factors of an environment, although there is evidence for a role of the cutaneous or environmental microbiome (<xref ref-type="bibr" rid="ref-8">Campbell et al., 2018</xref>), secondary host species, and chemical usage (<xref ref-type="bibr" rid="ref-32">North et al., 2015</xref>). Susceptibility to ranavirosis outbreaks varies among species, but a number of ecological risk factors, including life history strategy (the species specific cycle of growth, maturation, reproduction and death), have been identified (<xref ref-type="bibr" rid="ref-24">Hoverman et al., 2011</xref>). To date, no work has evaluated the impact of ranavirosis on the demographic structure of host populations using individual age data.</p>
+<p>In this study, we used a unique comparative field system born out of the Frog Mortality Project (FMP; see <xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>; <xref ref-type="bibr" rid="ref-37">Price et al., 2016</xref> for details) to study the impacts of ranaviral disease history on the demographic structure of wild <italic>R. temporaria</italic> populations in the UK. Unlike in most other species of susceptible amphibian, ranavirosis disproportionately kills adult <italic>R. temporaria</italic>, rather than tadpoles (<xref ref-type="bibr" rid="ref-14">Duffus, Nichols &amp; Garner, 2013</xref>). We determined population age structure using skeletochronology (age determination by counting skeletal growth rings) to test the hypothesis that a history of ranavirosis truncates the age structure of <italic>R. temporaria</italic> populations. Additionally, we investigated potential mechanisms for such age truncation by using morphometric data to explore if frogs originating from populations with a history of ranavirosis display reduced body size or evidence of more rapid growth compared to their counterparts from ostensibly disease-free populations. Finally, to examine the potential effect of the demographic impacts of ranavirosis, we used population projection modelling to simulate the dynamics of hypothetical <italic>R. temporaria</italic> populations under a range of stochastic environmental scenarios that impact recruitment, adult survival, or both. Based on previous evidence (<xref ref-type="bibr" rid="ref-33">Ohlberger et al., 2011</xref>; <xref ref-type="bibr" rid="ref-40">Rouyer et al., 2012</xref>; <xref ref-type="bibr" rid="ref-44">Scheele et al., 2016</xref>), we hypothesised that age structure truncation would heighten the vulnerability of <italic>R. temporaria</italic> populations to environmental stochasticity.</p>
+</sec>
+<sec sec-type="methods">
+<title>Methods</title>
+<sec>
+<title>Ethics statement</title>
+<p>This project was approved by the ethics boards of both the University of Exeter and Zoological Society of London and conducted under UK Home Office project license 80/2466. All field sampling was conducted under the personal Home Office license 30/10730 issued to Lewis Campbell.</p>
+</sec>
+<sec>
+<title>Field sampling</title>
+<p>Evidence from the same populations studied herein suggests that ranaviruses may be more ubiquitous within amphibian populations in the UK than previously thought, being detectable even in populations with no history of ranavirosis (<xref ref-type="bibr" rid="ref-8">Campbell et al., 2018</xref>). We therefore used a history of ranavirosis related mortality (or lack of), rather than detectable ranavirus burden, to differentiate between populations that are impacted by ranaviruses and those which are not. Candidate <italic>R. temporaria</italic> populations were identified using the FMP database of privately owned fieldsites that have experienced at least one <italic>R. temporaria</italic> mass mortality event due to ranavirosis and a complimentary database of fieldssites thought to have not experienced a ranavirosis outbreak, based upon information provided by fieldsite owners. All fieldsites were urban or sub-urban gardens, distributed throughout Southern England (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Although sizes varied, all fieldsites contained an artificially constructed pond. Site owners reported that neither their gardens nor ponds were treated with any chemicals which could harm the resident <italic>R. temporaria</italic> populations.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5949/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Map of sampled <italic>R. temporaria</italic> populations.</title>
+<p>Map of the locations of sampled populations within the southern UK. Fieldsites were drawn from the Frog Mortality Project database of populations known to have experienced mass mortality events due to ranavirosis and a complimentary database of populations known to have been ranavirosis-free since disease emergence in the 1990s. Populations = 1. Oxford; 2. Witham; 3. Palmer’s Green; 4. Folkington Corner; 5. Ealing; 6. Chessington; 7. Mitcham; 8. Tadworth; 9. Southampton; 10. Poole.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5949/fig-1.png"/>
+</fig>
+<p>Briefly, ranavirosis-positive fieldsites were classified as such if they had experienced a confirmed ranavirosis mass mortality event between 1997 and 1998 and ongoing discovery of frog carcasses with symptoms consistent with ranavirosis was reported by property owners to <xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner (2010)</xref>. Ranaviruses were confirmed as the causative agents of mortality within these populations using a combination of post-mortem pathological examination of frog carcasses and molecular diagnostic techniques (<xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>). In order to be classified as disease-free, fieldsites must have been owned or occupied by the same people at all times since 1997 and have contained a well-monitored <italic>R. temporaria</italic> population for at least as long. Owners/occupiers of disease-free fieldsites must not have observed any signs or symptoms of ranavirosis at any time. See <xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner (2010)</xref> for more detailed fieldsite selection criteria. Fieldsite proprietors were contacted to establish their willingness to be involved in this study. Five ranavirosis populations were successfully recruited and matched with five populations that have remained disease-free (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). None of our ranavirosis-positive populations had experienced a mass mortality event within the last decade.</p>
+<p>Fieldsites were surveyed during the spring breeding season of 2015, with each site sampled on a single day. Sampling involved opportunistic searching for frogs within and around the perimeter of the breeding ponds. Captured frogs were placed into plastic holding tanks before sampling, which took place <italic>in situ</italic>. To ensure sampling effort between populations was as equal as possible, searching took place during a 1 h, mid-morning time window.</p>
+<p>Snout to vent length (SVL) was measured using 0.1 mm scale callipers and the distal portion of the 1st digit of a hind limb was clipped using surgical scissors. A topical disinfectant that contained an analgesic (Bactine; WellSpring Pharmaceutical, Sarasota, FL, USA) was applied to the surgical area prior to the procedure. Toe clips were placed into individual 1.5 ml micro-centrifuge tubes containing 1 ml of 70% ethanol. Following sampling, all animals were released at point of capture. The number of individuals sampled in each population varied between 4 (Witham) and 61 (Mitcham and Palmer’s Green) with a mean of 30 animals sampled per site (<xref ref-type="supplementary-material" rid="supp-8">Table S1</xref>). All captured frogs were considered to be part of the breeding population, as juvenile frogs rarely return to breeding ponds (<xref ref-type="bibr" rid="ref-56">Wilbur, 1980</xref>; <xref ref-type="bibr" rid="ref-52">Verrell, 1985</xref>), and all sampled individuals were found to be over the minimum known age of sexual maturity for the study species (<xref ref-type="bibr" rid="ref-18">Gibbons, 1983</xref>; <xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>).</p>
+</sec>
+<sec>
+<title>Age determination</title>
+<p>The age of each frog was determined by skeletochronology, which has been calibrated and demonstrated as a reliable method of determining the age of northern European <italic>R. temporaria</italic> in several previous studies (<xref ref-type="bibr" rid="ref-18">Gibbons, 1983</xref>; <xref ref-type="bibr" rid="ref-19">Gibbons &amp; McCarthy, 1986</xref>; <xref ref-type="bibr" rid="ref-41">Ryser, 1996</xref>; <xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>). We followed the protocol for aging <italic>R. temporaria</italic> from (<xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>) with the following modifications. The phalangeal bone was separated from soft tissues, decalcified with 5% nitric acid for 1.5 h, and washed with water over night. Cross sections (12 μm thick) were then cut from the bone using a cryostat and stained using haematoxylin for 20 min. Lines of arrested growth (LAG) were counted using a light microscope at 200–400× magnification, 10–12 sections were analysed for each individual and two different researchers verified counts. Age at sexual maturity was determined as the youngest age at which inter-LAG space reduced in size, as juvenile inter-LAG space is significantly wider than post-sexual maturity (<xref ref-type="bibr" rid="ref-46">Sinsch, 2015</xref>).</p>
+</sec>
+<sec>
+<title>Statistical analyses</title>
+<sec>
+<title>Body size by age and age at sexual maturity</title>
+<p>We conducted all statistical modelling in R (<xref ref-type="bibr" rid="ref-50">R Core Team, 2014</xref>). We used linear mixed effects regression (lmer) models, implemented in the package lme4 (<xref ref-type="bibr" rid="ref-1">Bates et al., 2015</xref>), fitted with a Gaussian error structure, and a stepwise simplification procedure to investigate the impact of population ranavirosis history on the body size (SVL) of <italic>R. temporaria</italic>. Age, ranaviral disease history of the source population (a two level binary factor) and their interaction were fitted as fixed effects. We controlled for variation in SVL between sampled populations by the inclusion of population of origin as a random effect, applied to the intercepts (<xref ref-type="table" rid="table-1">Table 1</xref>). Since male and female frogs grow at different rates (<xref ref-type="bibr" rid="ref-18">Gibbons, 1983</xref>; <xref ref-type="bibr" rid="ref-41">Ryser, 1996</xref>; <xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>), the datasets of each sex were analysed separately.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5949/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Summary of statistical model simplification procedure and results.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5949/table-1.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Fixed effects structure</th>
+<th>Removed fixed effect</th>
+<th>Est</th>
+<th>d<italic>f</italic></th>
+<th>Chi<sup>2</sup></th>
+<th><italic>p</italic></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="6">Male body size</td>
+</tr>
+<tr>
+<td>svl∼age * status</td>
+<td/>
+<td/>
+<td>6</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>svl∼age + status</td>
+<td>Age * status</td>
+<td/>
+<td>5</td>
+<td>0.059</td>
+<td>0.81</td>
+</tr>
+<tr>
+<td>svl∼age</td>
+<td>Status</td>
+<td/>
+<td>4</td>
+<td>0.21</td>
+<td>0.65</td>
+</tr>
+<tr>
+<td>svl∼1</td>
+<td>Age</td>
+<td>3.51</td>
+<td>3</td>
+<td>186.38</td>
+<td>&lt;0.001</td>
+</tr>
+<tr>
+<td colspan="6">Female body size</td>
+</tr>
+<tr>
+<td>svl∼age * status</td>
+<td/>
+<td/>
+<td>6</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>svl∼age + status</td>
+<td>Age * status</td>
+<td/>
+<td>5</td>
+<td>0.94</td>
+<td>0.33</td>
+</tr>
+<tr>
+<td>svl∼age</td>
+<td>Status</td>
+<td/>
+<td>4</td>
+<td>2.43</td>
+<td>0.12</td>
+</tr>
+<tr>
+<td>svl∼1</td>
+<td>Age</td>
+<td>3.21</td>
+<td>3</td>
+<td>47.16</td>
+<td>&lt;0.001</td>
+</tr>
+<tr>
+<td colspan="6">Male age at maturity</td>
+</tr>
+<tr>
+<td>agemat ∼ status</td>
+<td/>
+<td/>
+<td>4</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>agemat ∼ 1</td>
+<td>Status</td>
+<td>−0.12</td>
+<td>3</td>
+<td>0.99</td>
+<td>0.32</td>
+</tr>
+<tr>
+<td colspan="6">Female age at maturity</td>
+</tr>
+<tr>
+<td>agemat ∼ status</td>
+<td/>
+<td/>
+<td>4</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>agemat ∼ 1</td>
+<td>Status</td>
+<td>−0.12</td>
+<td>3</td>
+<td>0.29</td>
+<td>0.59</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Model summaries of model simplification procedure to evaluate the effect of ranavirosis history on the body size and age at maturity of <italic>R. temporaria</italic> populations. All models contained only population of origin as a random effect applied to model intercepts.</p>
+<p>The <italic>p</italic>-values presented here represent the significance of the parameter removed from the preceding model as calculated by a likelihood ratio test between models (ANOVA in R).</p>
+<p>svl, snout to vent length; agemat, age at sexual maturity; df, degrees of freedom of the model; Est, effect size estimates of the final fixed effect removed from each model. All comparisons use disease-free populations as the reference level.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>A separate lmer model was fitted to investigate the impact of ranavirosis history status of the source population on age at sexual maturity. In the full model, age at maturity was fitted as the response variable, ranaviral disease history of source population as a fixed effect and source population as a random effect. As female <italic>R. temporaria</italic> mature later than males (<xref ref-type="bibr" rid="ref-18">Gibbons, 1983</xref>, <xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>), the datasets of each sex were analysed separately.</p>
+</sec>
+<sec>
+<title>Influence of ranavirus on population age structure</title>
+<p>The impact of disease status on the age structure of <italic>R. temporaria</italic> populations was investigated using a Bayesian ordinal mixed effects model in the package MCMCglmm (<xref ref-type="bibr" rid="ref-21">Hadfield, 2010</xref>). We fitted age class as an ordinal response variable (nine discrete classes, ages 2–10 years), disease status of the source population as the fixed effect, and source population as a random effect. We used uninformative priors for both the random effect (G) and residual variance (R) structures, but fixed the residual variance at 1 as this quantity cannot be estimated in ordinal models (<xref ref-type="bibr" rid="ref-21">Hadfield, 2010</xref>, <xref ref-type="bibr" rid="ref-22">2018</xref>). The model was run for a total of 600,000 iterations with a burn-in period of 100,000 iterations and a thinning rate of 500, giving a final sample of 1,000 draws from the posterior distributions. We assessed model convergence using the Gelman–Rubin (G–R) statistic calculated from three independent chains initiated with overdispersed starting values. All G–R values were &lt;1.05, indicating convergence. Mean probability of membership and associated 95% credible intervals for each age class were calculated from the linear predictor, for each of the two disease history groups. Age structure plots (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) suggest that observed changes were similar for both sexes, so the dataset was not split by sex.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5949/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Observed age structure across disease-free and ranavirosis-positive <italic>R. temporaria</italic> populations.</title>
+<p>(A) Histogram of raw counts of numbers of individuals observed per age class per disease history status type. (B) Proportional stacked bar chart of the proportion of individuals found in populations of each disease history that was a given age, broken down by sex. Breeding populations with a positive history of ranavirosis are dominated by animals 5 years of age and younger. Disease-free populations are majorly comprised of animals 6 years of age and older. D-f = Disease free, R-p = Ranavirosis-positive.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5949/fig-2.png"/>
+</fig>
+</sec>
+</sec>
+<sec>
+<title>Population matrix modelling</title>
+<p>To investigate how changes in population age structure, as well as scenarios that can bring about such changes, can impact the dynamics and stability of <italic>R. temporaria</italic> populations, we constructed population matrix models. Comprehensive methodologies of our matrix modelling can be found in our supplementary methods section (Methods S1). However, in brief, we created hypothetical <italic>R. temporaria</italic> populations of 150 sexually mature female animals and projected these populations 20 years into the future based on two matrices which represented potential vital rates at ranavirosis-positive <italic>R. temporaria</italic> population (increasing annual mortality in each adult age class) and a disease-free <italic>R. temporaria</italic> population (uniform adult mortality). We populated these matrices using the vital rates for <italic>R. temporaria</italic> published by <xref ref-type="bibr" rid="ref-4">Biek et al. (2002)</xref> except that we increased the fecundity of each post sexual maturity age class of <italic>R. temporaria</italic> by 50 eggs compared to the previous age class. Theoretical clutch sizes ranged from 250 eggs per year per 2-year-old adults to 650 eggs per year per 10-year-old adults. This increase was done according to age by size data collected for this study and previously published work showing that the clutch sizes of <italic>R. temporaria</italic> are tightly positively correlated with female body size with a &gt;3 fold increase between individuals of 50 mm versus individuals of 80 mm (<xref ref-type="bibr" rid="ref-19">Gibbons &amp; McCarthy, 1986</xref>). To analyse the impact of these adjustments we compared the sensitives of our adjusted matrices to one constructed with the unadjusted vital rates of <xref ref-type="bibr" rid="ref-4">Biek et al. (2002)</xref>. As previous evidence has shown that disease induced demographic shifts or the changes in vital rates which may bring them about can increase susceptibility to environmental change (<xref ref-type="bibr" rid="ref-40">Rouyer et al., 2012</xref>; <xref ref-type="bibr" rid="ref-45">Scheele et al., 2017</xref>) we then modelled our populations in environmentally stochastic scenarios which incorporated processes which may result in annual reproductive failure, mass mortality, or in extreme cases, both simultaneously.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Body size by age and age at sexual maturity</title>
+<p>We sampled 208 male and 66 female frogs, of which 103 males and 31 females were sampled at ranavirosis-positive populations. A break-down of the number of frogs sampled per each population can be found in <xref ref-type="supplementary-material" rid="supp-8">Table S1</xref>. For both sexes, age had a significant effect on SVL (males; d<italic>f</italic> = 4, Chi<sup>2</sup> = 186.38, <italic>p</italic> &lt; 0.001, females; d<italic>f</italic> = 4, Chi<sup>2</sup> = 47.16, <italic>p</italic> &lt; 0.001; <xref ref-type="supplementary-material" rid="supp-2">Fig. S1</xref>; <xref ref-type="table" rid="table-1">Table 1</xref>). Mean age at sexual maturity of males from ranavirosis-positive populations (<italic>n</italic> = 57) was 2.6 years (± SE 0.07) and from disease-free populations (<italic>n</italic> = 59) it was 2.8 years (± SE 0.06). Mean age at sexual maturity of females from ranavirosis-positive populations (<italic>n</italic> = 19) was 3.2 years (± SE 0.13) and for females from disease-free populations (<italic>n</italic> = 17) it was 3.3 years (± SE 0.10), and all differences were non-significant (<xref ref-type="supplementary-material" rid="supp-3">Fig. S2</xref>; <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+</sec>
+<sec>
+<title>Influence of ranavirosis on population age structure</title>
+<p>The mean age of males from ranavirosis-positive populations was 4.8-years-old (± SE 0.16) compared to an average age of 6.3 years (± SE 0.13) at disease-free populations. Mean female age at ranavirosis-positive populations was 5.3 years (± SE 0.28) compared to 6.6 years (± SE 0.26) at disease-free populations.</p>
+<p>Disease history had a significant effect on population age structure (effect size −1.43, 95% credible intervals −2.37, −0.38, <italic>p</italic> = 0.008; <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). We found populations with a positive history of ranavirosis to be dominated by younger <italic>R. temporaria</italic>. We calculated the difference in posterior probabilities of belonging to an age class based upon disease history status by subtracting the posterior probability of a frog of age <italic>X</italic> being encountered at ranavirosis-positive population from the posterior probability of a frog of age <italic>X</italic> being found at a disease-free population. The resulting difference values show that adults aged 2–5 years old are more likely to be encountered in positive disease history populations, and those aged 6–10 years old are more likely to be observed at populations where no disease has been recorded (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Differences in age distributions were strongly supported for all age classes (95% credible intervals of difference do not cross zero) except for 6-year-olds. Although 6-year-old frogs were more likely to be observed in disease-free populations, the 95% credible intervals incorporated 0 (mean difference = −14.41, 95% CI [−30.45 – 3.96]; <xref ref-type="fig" rid="fig-3">Fig. 3</xref>).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5949/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Differences in posterior probabilities of belonging to a given age class between population groups of varying disease history.</title>
+<p>The mean difference in the posterior probabilities of belonging to a given age class by population ranavirosis history. Values &gt;0 indicate that an age class is more likely to be observed in a ranavirosis-positive population and &lt;0 a disease-free population. An age with 95% (2.5–97.5%) credible intervals that do not span zero suggests that influence of disease history on that age class is significantly supported by our model. This is the case for all classes other than age 6 which although found to be observed more often in disease-free populations has credible intervals spanning 0.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5949/fig-3.png"/>
+</fig>
+</sec>
+<sec>
+<title>Population projection modelling</title>
+<p>When projected based upon a matrix with constant annual adult survival, both disease-free and ranavirosis-positive population vectors showed similar population dynamics. Population growth initially spiked due to an influx of pre-mature age classes into the population. This initial growth was followed by a period of attenuating oscillation, before reaching equilibrium at around the 15th year (<xref ref-type="supplementary-material" rid="supp-4">Fig. S3</xref>). Projected populations starting with a truncated age structure obtained smaller population sizes per each year, however, this difference was non-significant (<xref ref-type="supplementary-material" rid="supp-4">Fig. S3</xref>, ANOVA; d<italic>f</italic> = 1, <italic>F</italic> = 0.935, <italic>p</italic> = 0.34). Projecting either starting population vector using a matrix incorporating reduced annual adult survival resulted in the same pattern of population growth but further reduced population sizes per year, with the lowest annual population sizes obtained by an age truncated population projected with decreased annual adult survival, though this reduction was again non-significant (<xref ref-type="supplementary-material" rid="supp-4">Fig. S3</xref>; ANOVA; d<italic>f</italic> = 3, <italic>F</italic> = 0.99, <italic>p</italic> = 0.39).</p>
+<p>Elasticity analysis showed that both disease-free and ranavirosis-positive matrices were similarly sensitive to the same matrix elements. However, the decreased annual adult survival incorporated into our ranavirosis-positive matrix rendered that matrix marginally more sensitive to fluctuations in survival of larval, juvenile and 2-year-old life stages. Sensitivity to survival of all subsequent adult age classes was higher in our disease-free population matrix (<xref ref-type="supplementary-material" rid="supp-5">Fig. S4</xref>). Similarly, our ranavirosis-positive matrix was more sensitive to changes in the fecundity of 2, 3 and 4 year old breeding adults, whereas sensitivity to changes in fecundity of older adult age classes was higher in our disease-free population matrix (<xref ref-type="supplementary-material" rid="supp-6">Fig. S5</xref>). In concordance with the matrix constructed using the unadjusted vital rates of Biek et al<italic>.</italic> (2002), both of our altered matrices were most sensitive to fluctuations in the summed vital rates of post metamorphic <italic>R. temporaria</italic> life stages, though larval survival demonstrated the highest or second highest individual elasticity in all matrices (<xref ref-type="supplementary-material" rid="supp-5">Fig. S4</xref>). The most noticeable dissimilarity between our adjusted matrices and the unadjusted matrix was that matrix sensitivity was distributed more evenly between the fecundity of all adult age classes in the former, whereas the unadjusted matrix was extremely sensitive to the fecundity of 2-year-old breeding adults (<xref ref-type="supplementary-material" rid="supp-6">Fig. S5</xref>).</p>
+<p>Our stochastic projection models showed that disease-free populations subject to a 10% probability of recruitment failure per year were still able to consistently attain population sizes near carrying capacity much more often than ranavirosis-positive populations subjected to the same scenario, which attained a more variable array of population sizes (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>; <xref ref-type="table" rid="table-2">Table 2</xref>). The inclusion of potential ranavirosis mass mortality events further destabilised ranavirosis-positive populations and under a scenario when both adult mass mortality and reproductive failure could occur within the same year populations were driven locally extinct in 58% of model iterations (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>; <xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5949/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Frequency plot of the number of model iterations in which each modelled population reached a given population size under stochastic environmental conditions.</title>
+<p>Frequency polygon of iterations in which the projected population hit a given size in stochastic projection modelling. The same starting population vector based on summed observed disease-free populations was used in all models. D-f = Simulated disease-free population under a 10% annual chance of complete reproductive failure. R-p A = Simulated ranavirosis-positive population under a 10% annual chance of complete reproductive failure. R-p B = Simulated ranavirosis-positive population under a 10% annual chance of reproductive failure AND a 10% annual chance of a recurrent adult mass mortality event in exclusive years. R-p C = Simulated ranavirosis-positive population under identical conditions to R-p B = with addition of a 5% annual chance of complete recruitment failure and adult mass mortality in the same year.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5949/fig-4.png"/>
+</fig>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.5549/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Summary of the number of projection model iterations in which a population reached a given size under stochastic environmental conditions.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5949/table-2.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Model</th>
+<th>Extinct</th>
+<th>&lt;50</th>
+<th>50–100</th>
+<th>100–150</th>
+<th>150–199</th>
+<th><italic>K</italic></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Disease-free</td>
+<td>12</td>
+<td>525</td>
+<td>177</td>
+<td>734</td>
+<td>1,319</td>
+<td>2,233</td>
+</tr>
+<tr>
+<td>Ranavirosis-positive A</td>
+<td>429</td>
+<td>4,062</td>
+<td>443</td>
+<td>48</td>
+<td>15</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Ranavirosis-postiive B</td>
+<td>611</td>
+<td>4,300</td>
+<td>87</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ranavirosis-positive C</td>
+<td>2,918</td>
+<td>2,081</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<p>The number of iterations per 5,000 that each stochastic projection model reached a given population size. Disease-Free = Simulated disease-free population under a 10% annual chance of complete reproductive failure. Ranavirosis-positive A = Simulated ranavirosis-positive population under a 10% annual chance of complete reproductive failure. Ranavirosis-postiive B = Simulated ranavirosis population under a 10% annual chance of reproductive failure and a 10% annual chance of a recurrent adult mass mortality event in exclusive years. Ranavirosis-positive C = Simulated ranavirosis-positive population under identical conditions to Ranavirosis-positive B with addition of a 5% annual chance of complete recruitment failure and adult mass mortality in the same year. <italic>K</italic> = Imposed population carrying capacity of 200.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<sec>
+<title>The impact of disease on population demographics</title>
+<p>Our results illustrate that a history of ranavirosis can have a significant effect on the age structure of a population. We found that older <italic>R. temporaria</italic> (aged 6–10 years) are significantly less likely to be found within populations with a positive history of ranavirosis than they are in disease-free populations. Since none of our sampled populations have experienced a significant mass mortality event within the lifetime of any of the sampled frogs (∼10 years), this suggests a pattern of attritional mortality in ranavirosis-positive populations, rather than the sudden and catastrophic loss of any particular age classes. Attritional mortality of adults is consistent with our knowledge of ranavirosis in <italic>R. temporaria</italic>. First, <italic>R. temporaria</italic> are highly philopatric (<xref ref-type="bibr" rid="ref-6">Brabec et al., 2009</xref>), and our study populations occupy permanent, urban, or semi-urban garden ponds (<xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>; <xref ref-type="bibr" rid="ref-37">Price et al., 2016</xref>). Ranaviruses have been shown to persist in such water bodies (<xref ref-type="bibr" rid="ref-31">Nazir, Spengler &amp; Marschang, 2012</xref>), particularly in the presence of secondary host species such as fish or other, less susceptible, amphibian species (<xref ref-type="bibr" rid="ref-24">Hoverman et al., 2011</xref>; <xref ref-type="bibr" rid="ref-32">North et al., 2015</xref>). None of our fieldsites supported natural or stocked populations of fish, however, we did encounter the common toad (<italic>Bufo bufo</italic>) at one population of each disease status. The presence or absence of secondary hosts therefore does not represent a consistent confounding variable between our disease history groups. Second, mortality due to ranavirosis is annually recurrent (<xref ref-type="bibr" rid="ref-12">Daszak et al., 1999</xref>; <xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>), and unlike all other host-ranavirus systems, infection in the UK primarily affects adult life stages of <italic>R. temporaria</italic> (<xref ref-type="bibr" rid="ref-10">Cunningham et al., 1996</xref>; <xref ref-type="bibr" rid="ref-14">Duffus, Nichols &amp; Garner, 2013</xref>). Third, adaptive immune response to ranaviruses are apparently limited in <italic>R. temporaria</italic> (<xref ref-type="bibr" rid="ref-36">Price et al., 2015</xref>; <xref ref-type="bibr" rid="ref-8">Campbell et al., 2018</xref>). Consequently, it is possible that adult mortality within populations with a history of ranavirosis is maintained in such a way that an individual is more likely to become infected and succumb to ranavirosis the more often it returns to spawn. Such a scenario would explain the decreased likelihood of observing individuals older than 5 years of age in populations with a history of ranavirosis.</p>
+<p>Concurrently, we found that a significantly higher number of 2–5 year old frogs were captured at disease-free populations than at populations with a history of ranavirosis. Life history theory predicts that the first compensatory response to high adult mortality should come in the survival rates of lower age classes (<xref ref-type="bibr" rid="ref-47">Stearns, 1992</xref>). We lack any data on the immature age classes present at our study populations and the snapshot nature of our study means we cannot draw inference on whether the survival rates of younger adult age classes are increased in ranavirosis-positive populations. However, it is plausible that such an increase could result in the observed increased abundance of younger animals.</p>
+<p>Empirical studies conducted on populations of other vertebrates subjected to persistent infectious diseases have detected a reduction in the age or size at sexual maturity within diseased populations (<xref ref-type="bibr" rid="ref-25">Jones et al., 2008</xref>; <xref ref-type="bibr" rid="ref-27">Lachish, McCallum &amp; Jones, 2009</xref>; <xref ref-type="bibr" rid="ref-33">Ohlberger et al., 2011</xref>; <xref ref-type="bibr" rid="ref-16">Fitzpatrick et al., 2014</xref>). As such, we hypothesised that <italic>R. temporaria</italic> originating from populations where ranavirosis causes increased adult mortality would reach sexual maturity at an earlier age than frogs from disease-free populations. We also hypothesised that a trade-off in the allocation of resources to early reproduction, away from growth, would cause frogs from ranavirosis-positive populations to attain a lower body size per age than those from disease-free populations. However, we found that a positive history of ranavirosis is not associated with a significant impact on either age at sexual maturity or body size throughout life. These findings are in contrast with the findings of (<xref ref-type="bibr" rid="ref-45">Scheele et al., 2017</xref>) who found that an infectious disease (<italic>B. dendrobatidis</italic>) reduced the size and age at sexual maturity of <italic>L. v. alpina.</italic></p>
+<p>The age at which <italic>R. temporaria</italic> mature is intrinsically linked to attaining a minimum body length needed to successfully reproduce (<xref ref-type="bibr" rid="ref-41">Ryser, 1996</xref>; <xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>). The age at which this length is attained has been shown to be heavily influenced by several environmental factors such as photo-period and altitude (<xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>). All frogs in our study were found to mature at either 2, 3, or 4 years of age and this is consistent with the findings of other similar studies on <italic>R. temporaria</italic> (<xref ref-type="bibr" rid="ref-18">Gibbons, 1983</xref>; <xref ref-type="bibr" rid="ref-41">Ryser, 1996</xref>; <xref ref-type="bibr" rid="ref-30">Miaud, Guyétant &amp; Elmberg, 1999</xref>). In fact, no previous study has found male or female <italic>R. temporaria</italic> to reach maturity younger than 2 years of age and post-sexual maturity there is little detectable trade-off between growth and fecundity in response to sub-prime environments (<xref ref-type="bibr" rid="ref-28">Lardner &amp; Loman, 2003</xref>). This evidence suggests that the life history strategy of <italic>R. temporaria</italic> may already be optimised to generate maximum reproductive fitness in light of other environmental factors and that scope for further plasticity in traits such as age at sexual maturity and subsequent growth rate in response to diseases may be minimal.</p>
+<p>Given the apparent lack of compensatory change in the onset of sexual maturity an alternative explanation for the fact that we encountered 2- and 3-year-old breeding frogs at ranavirosis-positive populations but not disease-free populations may be behavioural changes that enhance the life time reproductive success of individuals in the face of high adult mortality. Participation in spawning events in exposed aquatic environments is associated with a significant mortality risk to an individual, caused either by exposure to predation or the act of mating itself (<xref ref-type="bibr" rid="ref-3">Beebee, 1996</xref>). Additionally, smaller <italic>R. temporaria</italic> present in breeding populations are easily outcompeted by larger individuals, who are better able to secure a mate and achieve amplexus (<xref ref-type="bibr" rid="ref-18">Gibbons, 1983</xref>). The loss of larger, more competitive individuals at ranavirosis-positive fieldsites may release smaller <italic>R. temporaria</italic> from this intraspecific competitive pressure. Increased opportunity for less competitive individuals to participate successfully in reproductive events may result in animals that would normally defer breeding until subsequent years or larger body sizes attempting to reproduce earlier. Additionally, in environments of high adult mortality the number of lifetime reproductive events is potentially limited. In such environments lifetime reproductive success is likely higher when an individual exploits all possible chances to produce offspring. Thus smaller, less competitive individuals may attempt to breed earlier than they would do in the absence of disease induced mortality, irrespective of the odds of being out competed by older/larger frogs.</p>
+<p>Any or all of the potential processes outlined above could lead to the observed truncation of age structures in <italic>R. temporaria</italic> populations with a history of ranavirosis. While our results provide strong evidence of such truncation, they are based on data collected from adult <italic>R. temporaria</italic> sampled during one breeding season. As such we are unable to draw conclusions as to the mechanisms which drive observed changes to population age structure. Additionally, due to the correlational nature of our study we are unable to emphatically exclude the possibility that the age structure truncation we observed is attributable to some other unmeasured variable between our studied populations. Although the lack of systematic differences between our fieldsites other than disease history suggests that this is unlikely. Nevertheless, our results highlight a potentially important and as yet unexplored facet of the relationship between ranaviruses and their amphibian hosts. The impact of demographic shifts has been demonstrated in a number of study systems (<xref ref-type="bibr" rid="ref-25">Jones et al., 2008</xref>; <xref ref-type="bibr" rid="ref-27">Lachish, McCallum &amp; Jones, 2009</xref>; <xref ref-type="bibr" rid="ref-33">Ohlberger et al., 2011</xref>; <xref ref-type="bibr" rid="ref-40">Rouyer et al., 2012</xref>; <xref ref-type="bibr" rid="ref-44">Scheele et al., 2016</xref>) and as such the relationship between ranaviruses and population demographics undoubtedly warrants further investigation. A long-term, mark-recapture study within the same populations used here would likely prove a critical first step in elucidating the mechanisms which bring about shifts in <italic>R. temporaria</italic> population age structure.</p>
+</sec>
+<sec>
+<title>The potential impact of disease on the viability of populations</title>
+<p>Previous investigations have shown that age structure truncation, associated with an emerging pathogen, severely reduces the viability of host populations, particularly under variable environmental conditions (<xref ref-type="bibr" rid="ref-44">Scheele et al., 2016</xref>). We used population matrix models to probe the potential impacts of a truncated age structure, and the demographic processes which may bring about such changes, on the viability of <italic>R. temporaria</italic> populations in the UK. Additionally, we introduced environmental stochasticity into our models in order to explore the combined impact of these two challenges simultaneously.</p>
+<p>When modelled in the absence of increased adult mortality due to ranavirosis, starting population vectors representing both a disease-free population and a ranavirosis-positive population (truncated age structure) exhibited minimal difference in their dynamics. This finding suggests that the level of age structure truncation we document is unlikely to reduce the viability of <italic>R. temporaria</italic> populations. The same was true when both population age structures were modelled in the presence of increasing adult mortality due to ranavirosis, suggesting that even under such conditions the relatively high survival of pre-metamorphic, juvenile and young adult age classes is enough to maintain population viability. This suggestion is supported by the elasticity of our population matrices which demonstrated that the survival of tadpoles, juveniles and early adult life stages have higher predicted impact on the population growth dynamics of our populations than the survival of older adult age classes. This result is supportive of the findings of other investigations of amphibian population dynamics (<xref ref-type="bibr" rid="ref-4">Biek et al., 2002</xref>; <xref ref-type="bibr" rid="ref-15">Earl &amp; Gray, 2014</xref>).</p>
+<p>However, under environmentally stochastic scenarios, where recruitment was reduced, populations that were subjected to increasing adult mortality due to ranavirosis faired much worse than ranavirosis-free populations. These results are consistent with previous observations of age structure truncation increasing the vulnerability of populations to environmental stochasticity (<xref ref-type="bibr" rid="ref-33">Ohlberger et al., 2011</xref>; <xref ref-type="bibr" rid="ref-40">Rouyer et al., 2012</xref>; <xref ref-type="bibr" rid="ref-44">Scheele et al., 2016</xref>). Body size, age and fecundity are positively correlated in <italic>R. temporaria</italic> (<xref ref-type="bibr" rid="ref-19">Gibbons &amp; McCarthy, 1986</xref>), as well as in many other species (<xref ref-type="bibr" rid="ref-5">Blueweiss et al., 1978</xref>; <xref ref-type="bibr" rid="ref-23">Honěk, 1993</xref>; <xref ref-type="bibr" rid="ref-51">Trippel, 1993</xref>; <xref ref-type="bibr" rid="ref-43">Sand, 1996</xref>; <xref ref-type="bibr" rid="ref-35">Penteriani, Balbontin &amp; Ferrer, 2003</xref>). The relative absence of the oldest and largest breeding animals from disease positive populations means that <italic>per capita</italic> fecundity will be reduced and annual recruitment rates lowered. Such changes likely heighten the impacts of any events that result in failed recruitment or further adult mortality.</p>
+<p>It is important to note that our matrix models are approximations of the populations that they represent, and the results of our models are therefore demonstrative of potential additional impacts of ranavirosis, rather than definitively demonstrating the existence of such impacts. Although our simulations are based on published literature, they necessarily incorporate several assumptions. A key assumption in our models is the number of eggs produced per each individual, per each adult year of age. Although we have strong grounds to suggest that fecundity of female <italic>R. temporaria</italic> increases with age and size, the number of eggs produced by each frog of a given age or size is unknown in our study populations. If a larger number of eggs are produced than represented by our matrices, it may be that the impact of stochastic recruitment failure upon our populations is reduced and vice versa. Similarly, we reduce the survival of each adult age class into the next by 5% for each year of development post-sexual maturity. Whilst we found no impact of the amount by which we reduced this annual survival parameter on the dynamics of our modelled populations, in reality survival may not decrease annually in such a uniform manner. Finally, we set an upper limit for our theoretical populations of 150 female animals. However, due to the nature of our fieldsites we lack the ability to make accurate estimations of actual population sizes at our studied populations. Larger actual population sizes may buffer populations against the potential impacts that we have demonstrated but smaller actual population sizes may mean that the potential demographic impacts of ranavirosis may be even more consequential for <italic>R. temporaria</italic> populations. Further investigation of the life history traits and an accurate estimation of sizes of our study populations would allow for more robust parameterisation of our models and the ability to more accurately predict the impact of ongoing ranavirosis within them.</p>
+<p>Despite these limitations, our population models corroborate previous empirical data collected from within our study system. A long-term study of population sizes has shown that following an outbreak of ranavirosis, characterised by a mass mortality event, UK <italic>R. temporaria</italic> populations follow three possible trajectories. These are: (1) complete recovery to post outbreak population levels, (2) persistence at a largely reduced population size, or (3) local extinction (<xref ref-type="bibr" rid="ref-49">Teacher, Cunningham &amp; Garner, 2010</xref>). Our simulated <italic>R. temporaria</italic> populations were projected to population sizes that incorporate all of these possible outcomes, dependant on the levels of environmental stochasticity to which a population was subjected. Importantly, our simulations suggest that the fate of a population subjected to ranavirosis may depend heavily upon the stability of its environment, providing a potential explanation as to why some populations appear to persist with endemic infectious disease, while others are driven to local extirpation.</p>
+</sec>
+<sec>
+<title>The importance of variations in fecundity in population models</title>
+<p>Variations in adult fecundity due to body size are often not included in population projection modelling (<xref ref-type="bibr" rid="ref-7">Briggs et al., 2005</xref>; but see <xref ref-type="bibr" rid="ref-58">Zambrano et al., 2007</xref>). However, our results highlight the importance of considering age or body size specific changes in fecundity in population modelling, particularly when considered threats disproportionately impact certain age classes. Ensuring matrix models of populations represent the life history of the study species as closely as possible is essential, especially when seeking to inform conservation or policy decision making.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusion</title>
+<p>Our results highlight an increasing need to better understand the impact of disease on the demography of host populations and the processes which can bring about such demographic shifts. Further investigation of this relationship, possibly via a long-term mark-recapture study on the same populations used here could help elucidate the exact mechanisms responsible for age structure truncation in <italic>R. temporaria</italic> populations. This work also further suggests that the emergence of an infectious disease within a population can heighten its vulnerability to external stressors. Although the theoretical stressor incorporated into our models was environmental stochasticity, the same is likely to be true for all types of stressor including anthropogenic. This result is timely given that we live in a time of unprecedented disease emergence and anthropogenic change (<xref ref-type="bibr" rid="ref-13">Daszak, Cunningham &amp; Hyatt, 2001</xref>).</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5949/Campbell_et_al_PeerJ2018_Supplementary_Methods_S1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Supplementary Methods - Population Projection Modelling.</title>
+<p>A comprehensive overview of the rationale and methodologies behind our populations projection matrix modelling analyses.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5949/SVL_by_age(FigS1).pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Snout to vent length by age.</title>
+<p>The relationship between snout to vent length (SVL) and age in <italic>R. temporaria</italic> from ranavirosis-positive and disease-free populations. We found no significant effect of disease history on the SVL of frogs. Our data does however show clear evidence of continued growth throughout life regardless of disease history.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5949/Age_at_maturity(FigS2).pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>The age at which <italic>R. temporaria</italic> reached sexual maturity by sex and population disease history.</title>
+<p>The proportion of individuals that reached sexual maturity at each possible age within the summed male and female populations of each disease history. Age at sexual maturity was calculated via skeletochronology.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5949/Scenario_combinations(FigS3).pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Projected populations under different combinations of starting population vectors and transition matrices.</title>
+<p>Projected population dynamics of <italic>R. temporaria</italic> populations modelled under different scenarios. Starting population vectors were created by weighted random sampling of 150 animals based on the proportions of each age class observed in populations of each disease history in our data. D-f = disease free and R-p = ranavirosis-positive. Our R-p matrix incorporated decreasing annual adult survival and our R-p starting population vector was age structure truncated.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/5949/Survival_elasticities(FigS4).pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Survival elasticities of our population matrices.</title>
+<p>Computed elasticities of each survival element of our population projection matrices. Elasticities of our matrix which incorporated increasing adult mortality and therefore represented a population subjected to ongoing ranavirosis are shown in red, whilst those of our matrix which represented a disease-free population are shown in blue. For reference the elasticities of an extended matrix created using the unadjusted viral rates published by <xref ref-type="bibr" rid="ref-4">Biek et al. (2002)</xref> are shown in white.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/5949/Fecundity_elasticities(FigS5).pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>Fecundity elasticities of our population matrices.</title>
+<p>Computed elasticities of each fecundity element of our population projection matrices. Elasticities of our matrix which incorporated increasing adult mortality and therefore represented a population subjected to ongoing ranavirosis are shown in red, whilst those of our matrix which represented a disease-free population are shown in blue. For reference the elasticities of an extended matrix created using the unadjusted viral rates published by <xref ref-type="bibr" rid="ref-4">Biek et al. (2002)</xref> are shown in white.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-7" xlink:href="https://peerj.com/articles/5949/Initial_projections(FigS6).pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-7</object-id>
+<label>Supplemental Information 7</label>
+<caption>
+<title>Population projections under varying decreases in per annual survival rates of adult <italic>R. temporaria</italic>.</title>
+<p>Population dynamics of theoretical disease-free populations and theoretical ranavirosis-positive populations modelled with an increasingly large annual percentage increase in adult mortality due disease. We found no significant difference between the population estimates through time based on varying this survival parameter alone (ANOVA; df = 6, F = 0.889, <italic>p</italic> = 0.505). In the absence of an empirically proven value for this parameter, we selected a value of 5% annual increase in mortality to represent the probabilistic increase of succumbing to ranavirosis with an increasing number of years returning to breed within the same infected population.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-8" xlink:href="https://peerj.com/articles/5949/Frogs_per_population_Table_S1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-8</object-id>
+<label>Supplemental Information 8</label>
+<caption>
+<title>The number of frogs sampled per each population.</title>
+<p>The number of <italic>R. temporaria</italic> sampled at each individual population.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-9" xlink:href="https://peerj.com/articles/5949/Basal_Matrix_Table_S2.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-9</object-id>
+<label>Supplemental Information 9</label>
+<caption>
+<title>Basal population matrix.</title>
+<p>Basal population matrix. Row one represents the fecundity of all life stages on the horizontal into the egg life stage, the number is equivalent to females produced per female. All other rows represent the proportional survival of each age class on the horizontal to the relevant age class on the vertical aspect of the matrix.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-10" xlink:href="https://peerj.com/articles/5949/Spawn_fail_rp_Table_S3.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-10</object-id>
+<label>Supplemental Information 10</label>
+<caption>
+<title>Matrix representing spawning failure in a ranavirosis-positive population.</title>
+<p>Population matrix representing complete spawning failure in ranavirosis-positive populations (5% reduced survival per year for adults). Row one represents the fecundity of all life stages on the horizontal into the egg life stage, the number is equivalent to females produced per female. All other rows represent the proportional survival of each age class on the horizontal to the relevant age class on the vertical aspect of the matrix.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-11" xlink:href="https://peerj.com/articles/5949/Spawn_fail_df_Table_S4.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-11</object-id>
+<label>Supplemental Information 11</label>
+<caption>
+<title>Matrix representing spawning failure in a disease-free population.</title>
+<p>Population matrix representing complete spawning failure in disease-free populations. Row one represents the fecundity of all life stages on the horizontal into the egg life stage, the number is equivalent to females produced per female. All other rows represent the proportional survival of each age class on the horizontal to the relevant age class on the vertical aspect of the matrix.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-12" xlink:href="https://peerj.com/articles/5949/Mass_mort_Table_S5.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-12</object-id>
+<label>Supplemental Information 12</label>
+<caption>
+<title>Matrix representing mass mortality in ranavirosis-positive populations.</title>
+<p>Population matrix representing a year with a mass mortality event in ranavirosis-positive populations. Row one represents the fecundity of all life stages on the horizontal into the egg life stage, the number is equivalent to females produced per female. All other rows represent the proportional survival of each age class on the horizontal to the relevant age class on the vertical aspect of the matrix.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-13" xlink:href="https://peerj.com/articles/5949/Catastrophic_Year_Table_S6.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5949/supp-13</object-id>
+<label>Supplemental Information 13</label>
+<caption>
+<title>Matrix representing a mass mortality and spawning failure in a ranavirosis-positive population.</title>
+<p>Population matrix representing a year with a mass mortality event and total reproductive failure in ranavirosis-positive populations. Row one represents the fecundity of all life stages on the horizontal into the egg life stage, the number is equivalent to females produced per female. All other rows represent the proportional survival of each age class on the horizontal to the relevant age class on the vertical aspect of the matrix.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>Xavier A Harrison serves as an Academic Editor for PeerJ. Amber G F Griffiths is a director of FoAM Kernow (FoAM Kernow is an affiliated studio of FoAM, which is a multinational, not for profit, network of transdisciplinary labs at the intersection of art, science, nature and everyday life).</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Lewis J. Campbell</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Trenton W.J. Garner</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Giulia Tessa</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Benjamin C. Scheele</xref> analyzed the data, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Amber G.F. Griffiths</xref> authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Lena Wilfert</xref> authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-7">
+<p><xref ref-type="contrib" rid="author-7">Xavier A. Harrison</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Animal Ethics</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+<p>This work was approved by the ethics committees of both the University of Exeter and the Institute of Zoology (Home Office Project License: 80/2466; Home Office Personal License: 30/10730)</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-2">
+<p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+<p>Permits were granted by the UK Home Office (Home Office Personal License: 30/10730).</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-3">
+<p>The following information was supplied regarding data availability:</p>
+<p>GitHub: <uri xlink:href="https://github.com/zoolew/Ranavirus-FrogDemography">https://github.com/zoolew/Ranavirus-FrogDemography</uri></p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Bates et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bates</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Maechler</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bolker</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Walker</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Fitting linear mixed-effects models using lme4</article-title>
+<source>Journal of Statistical Software</source>
+<year iso-8601-date="2015">2015</year>
+<volume>67</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="doi">10.18637/jss.v067.i01</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Bayley, Hill &amp; Feist (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bayley</surname>
+<given-names>AE</given-names>
+</name>
+<name>
+<surname>Hill</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Feist</surname>
+<given-names>SW</given-names>
+</name>
+</person-group>
+<article-title>Susceptibility of the European common frog <italic>Rana temporaria</italic> to a panel of ranavirus isolates from fish and amphibian hosts</article-title>
+<source>Diseases of Aquatic Organisms</source>
+<year iso-8601-date="2013">2013</year>
+<volume>103</volume>
+<issue>3</issue>
+<fpage>171</fpage>
+<lpage>183</lpage>
+<pub-id pub-id-type="doi">10.3354/dao02574</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Beebee (1996)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Beebee</surname>
+<given-names>TJC</given-names>
+</name>
+</person-group>
+<source>Ecology and conservation of amphibians</source>
+<year iso-8601-date="1996">1996</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Biek et al. (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Biek</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Funk</surname>
+<given-names>WC</given-names>
+</name>
+<name>
+<surname>Maxell</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Mills</surname>
+<given-names>LS</given-names>
+</name>
+</person-group>
+<article-title>What is missing from insights amphibian decline ecological sensitivity analysis</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>16</volume>
+<issue>3</issue>
+<fpage>728</fpage>
+<lpage>734</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1739.2002.00433.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Blueweiss et al. (1978)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Blueweiss</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Fox</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kudzma</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Nakashima</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Peters</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Sams</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Relationships between body size and some life history parameters</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="1978">1978</year>
+<volume>37</volume>
+<issue>2</issue>
+<fpage>257</fpage>
+<lpage>272</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00344996</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Brabec et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brabec</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Czech</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Bocek</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Ecology</surname>
+<given-names>RB</given-names>
+</name>
+</person-group>
+<article-title>Spring migration distances of some Central European amphibian species Spring migration distances of some Central European</article-title>
+<source>Amphibia-Reptilia</source>
+<year iso-8601-date="2009">2009</year>
+<volume>30</volume>
+<issue>3</issue>
+<fpage>367</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="doi">10.1163/156853809788795236</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Briggs et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Briggs</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Vredenburg</surname>
+<given-names>VT</given-names>
+</name>
+<name>
+<surname>Knapp</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Rachowicz</surname>
+<given-names>LJ</given-names>
+</name>
+</person-group>
+<article-title>Investigating the population-level effects of chytridiomycosis: an emerging infectious disease of amphibians</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>86</volume>
+<issue>12</issue>
+<fpage>3149</fpage>
+<lpage>3159</lpage>
+<pub-id pub-id-type="doi">10.1890/04-1428</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Campbell et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Campbell</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Hammond</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Price</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Sharma</surname>
+<given-names>MD</given-names>
+</name>
+<name>
+<surname>Garner</surname>
+<given-names>TWJ</given-names>
+</name>
+<name>
+<surname>Birol</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Helbing</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Wilfert</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Griffiths</surname>
+<given-names>AGF</given-names>
+</name>
+</person-group>
+<article-title>A novel approach to wildlife transcriptomics provides evidence of disease-mediated differential expression and changes to the microbiome of amphibian populations</article-title>
+<source>Molecular Ecology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>27</volume>
+<issue>6</issue>
+<fpage>1413</fpage>
+<lpage>1427</lpage>
+<pub-id pub-id-type="doi">10.1111/mec.14528</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Chinchar (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chinchar</surname>
+<given-names>VG</given-names>
+</name>
+</person-group>
+<article-title>Ranaviruses (family Iridoviridae): emerging cold-blooded killers</article-title>
+<source>Archives of Virology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>147</volume>
+<issue>3</issue>
+<fpage>447</fpage>
+<lpage>470</lpage>
+<pub-id pub-id-type="doi">10.1007/s007050200000</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Cunningham et al. (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cunningham</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Langton</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Bennett</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Lewin</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Drury</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Gough</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Macgregor</surname>
+<given-names>SK</given-names>
+</name>
+</person-group>
+<article-title>Pathological and microbiological findings from incidents of unusual mortality of the common frog (<italic>Rana temporaria</italic>)</article-title>
+<source>Philosophical transactions of the Royal Society of London. Series B: Biological sciences</source>
+<year iso-8601-date="1996">1996</year>
+<volume>351</volume>
+<issue>1347</issue>
+<fpage>1539</fpage>
+<lpage>1557</lpage>
+<pub-id pub-id-type="doi">10.1098/rstb.1996.0140</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Cushman (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cushman</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Effects of habitat loss and fragmentation on amphibians: a review and prospectus</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2006">2006</year>
+<volume>128</volume>
+<issue>2</issue>
+<fpage>231</fpage>
+<lpage>240</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2005.09.031</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Daszak et al. (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Daszak</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Berger</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Cunningham</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Hyatt</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Speare</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title><italic>Emerging infectious diseases</italic> and amphibian population declines</article-title>
+<source>Emerging Infectious Diseases</source>
+<year iso-8601-date="1999">1999</year>
+<volume>5</volume>
+<issue>6</issue>
+<fpage>735</fpage>
+<lpage>748</lpage>
+<pub-id pub-id-type="doi">10.3201/eid0506.990601</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Daszak, Cunningham &amp; Hyatt (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Daszak</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Cunningham</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Hyatt</surname>
+<given-names>AD</given-names>
+</name>
+</person-group>
+<article-title>Anthropogenic environmental change and the emergence of infectious diseases in wildlife</article-title>
+<source>Acta Tropica</source>
+<year iso-8601-date="2001">2001</year>
+<volume>78</volume>
+<issue>2</issue>
+<fpage>103</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1016/S0001-706X(00)00179-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Duffus, Nichols &amp; Garner (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Duffus</surname>
+<given-names>ALJ</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Garner</surname>
+<given-names>TWJ</given-names>
+</name>
+</person-group>
+<article-title>Investigations into the life history stages of the common frog (<italic>Rana temporaria</italic>) affected by an amphibian ranavirus in the United Kingdom</article-title>
+<source>Herpetological Review</source>
+<year iso-8601-date="2013">2013</year>
+<volume>44</volume>
+<fpage>260</fpage>
+<lpage>263</lpage>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Earl &amp; Gray (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Earl</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Gray</surname>
+<given-names>MJ</given-names>
+</name>
+</person-group>
+<article-title>Introduction of ranavirus to isolated wood frog populations could cause local extinction</article-title>
+<source>EcoHealth</source>
+<year iso-8601-date="2014">2014</year>
+<volume>11</volume>
+<issue>4</issue>
+<fpage>581</fpage>
+<lpage>592</lpage>
+<pub-id pub-id-type="doi">10.1007/s10393-014-0950-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Fitzpatrick et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fitzpatrick</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Torres-Dowdall</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Reznick</surname>
+<given-names>DN</given-names>
+</name>
+<name>
+<surname>Ghalambor</surname>
+<given-names>CK</given-names>
+</name>
+<name>
+<surname>Chris Funk</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Parallelism isn’t perfect: could disease and flooding drive a life-history anomaly in Trinidadian guppies?</article-title>
+<source>American Naturalist</source>
+<year iso-8601-date="2014">2014</year>
+<volume>183</volume>
+<issue>2</issue>
+<fpage>290</fpage>
+<lpage>300</lpage>
+<pub-id pub-id-type="doi">10.1086/674611</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Foden et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Foden</surname>
+<given-names>WB</given-names>
+</name>
+<name>
+<surname>Butchart</surname>
+<given-names>SHM</given-names>
+</name>
+<name>
+<surname>Stuart</surname>
+<given-names>SN</given-names>
+</name>
+<name>
+<surname>Vié</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Akçakaya</surname>
+<given-names>HR</given-names>
+</name>
+<name>
+<surname>Angulo</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>DeVantier</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Gutsche</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Turak</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Cao</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Donner</surname>
+<given-names>SD</given-names>
+</name>
+<name>
+<surname>Katariya</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Bernard</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Holland</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>O’Hanlon</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Garnett</surname>
+<given-names>ST</given-names>
+</name>
+<name>
+<surname>Şekercioǧlu</surname>
+<given-names>ÇH</given-names>
+</name>
+<name>
+<surname>Mace</surname>
+<given-names>GM.</given-names>
+</name>
+</person-group>
+<article-title>Identifying the world’s most climate change vulnerable species: a systematic trait-based assessment of all birds, amphibians and corals</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2013">2013</year>
+<volume>8</volume>
+<issue>6</issue>
+<elocation-id>e65427</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0065427</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Gibbons (1983)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Gibbons</surname>
+<given-names>MM</given-names>
+</name>
+</person-group>
+<source>Reproduction, Growth and Demography of Frogs, Rana temporaria, in the West of Ireland</source>
+<year iso-8601-date="1983">1983</year>
+<publisher-loc>Galway</publisher-loc>
+<publisher-name>National University of Ireland</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Gibbons &amp; McCarthy (1986)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gibbons</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>McCarthy</surname>
+<given-names>TK</given-names>
+</name>
+</person-group>
+<article-title>The reproductive output of frogs <italic>Rana temporaria</italic> (L.) with particular reference to body size and age</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="1986">1986</year>
+<volume>209</volume>
+<issue>4</issue>
+<fpage>579</fpage>
+<lpage>593</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.1986.tb03613.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Green, Converse &amp; Schrader (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Converse</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Schrader</surname>
+<given-names>AK</given-names>
+</name>
+</person-group>
+<article-title>Epizootiology of sixty-four amphibian morbidity and mortality events in the USA, 1996-2001</article-title>
+<source>Annals of the New York Academy of Sciences</source>
+<year iso-8601-date="2002">2002</year>
+<volume>969</volume>
+<issue>1</issue>
+<fpage>323</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1749-6632.2002.tb04400.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Hadfield (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hadfield</surname>
+<given-names>JD</given-names>
+</name>
+</person-group>
+<article-title>MCMC methods for multi-response generalized linear mixed models: the MCMCglmm R package</article-title>
+<source>Journal of Statistical Software</source>
+<year iso-8601-date="2010">2010</year>
+<volume>33</volume>
+<issue>2</issue>
+<fpage>1</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.18637/jss.v033.i02</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Hadfield (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Hadfield</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>MCMCglmm course notes</article-title>
+<year iso-8601-date="2018">2018</year>
+<uri>https://cran.r-project.org/web/packages/MCMCglmm/vignettes/CourseNotes.pdf</uri>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Honěk (1993)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Honěk</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Intraspecific variation in body size and fecundity in insects: a general relationship</article-title>
+<source>Oikos</source>
+<year iso-8601-date="1993">1993</year>
+<volume>66</volume>
+<issue>3</issue>
+<fpage>483</fpage>
+<lpage>492</lpage>
+<pub-id pub-id-type="doi">10.2307/3544943</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Hoverman et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoverman</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Gray</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Haislip</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>DL</given-names>
+</name>
+</person-group>
+<article-title>Phylogeny, life history, and ecology contribute to differences in amphibian susceptibility to ranaviruses</article-title>
+<source>EcoHealth</source>
+<year iso-8601-date="2011">2011</year>
+<volume>8</volume>
+<issue>3</issue>
+<fpage>301</fpage>
+<lpage>319</lpage>
+<pub-id pub-id-type="doi">10.1007/s10393-011-0717-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Jones et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Cockburn</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hamede</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Hawkins</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Hesterman</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Lachish</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mann</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>McCallum</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Pemberton</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Life-history change in disease-ravaged Tasmanian devil populations</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2008">2008</year>
+<volume>105</volume>
+<fpage>10023</fpage>
+<lpage>10027</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0711236105</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Jones, Patel &amp; Levy (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>KE</given-names>
+</name>
+<name>
+<surname>Patel</surname>
+<given-names>NG</given-names>
+</name>
+<name>
+<surname>Levy</surname>
+<given-names>MA</given-names>
+</name>
+</person-group>
+<article-title>Global trends in emerging infectious diseases</article-title>
+<source>Nature</source>
+<year iso-8601-date="2008">2008</year>
+<volume>451</volume>
+<issue>7181</issue>
+<fpage>990</fpage>
+<lpage>993</lpage>
+<pub-id pub-id-type="doi">10.1038/nature06536</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Lachish, McCallum &amp; Jones (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lachish</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>McCallum</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Demography, disease and the devil: life-history changes in a disease-affected population of Tasmanian devils (<italic>Sarcophilus harrisii</italic>)</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>78</volume>
+<issue>2</issue>
+<fpage>427</fpage>
+<lpage>436</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2656.2008.01494.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Lardner &amp; Loman (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lardner</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Loman</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Growth or reproduction? Resource allocation by female frogs</article-title>
+<source>Rana temporaria. Oecologia</source>
+<year iso-8601-date="2003">2003</year>
+<volume>137</volume>
+<issue>4</issue>
+<fpage>541</fpage>
+<lpage>546</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-003-1390-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Marschang (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marschang</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title><italic>Viruses</italic> infecting reptiles</article-title>
+<source>Viruses</source>
+<year iso-8601-date="2011">2011</year>
+<volume>3</volume>
+<issue>11</issue>
+<fpage>2087</fpage>
+<lpage>2126</lpage>
+<pub-id pub-id-type="doi">10.3390/v3112087</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Miaud, Guyétant &amp; Elmberg (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miaud</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Guyétant</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Elmberg</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Variations in life-history traits in the common frog <italic>Rana temporaria</italic> (Amphibia: Anura): a literature review and new data from the French Alps</article-title>
+<source>Journal of Zoology</source>
+<year iso-8601-date="1999">1999</year>
+<volume>249</volume>
+<issue>1</issue>
+<fpage>61</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-7998.1999.tb01060.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Nazir, Spengler &amp; Marschang (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nazir</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Spengler</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Marschang</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Environmental persistence of amphibian and reptilian ranaviruses</article-title>
+<source>Diseases of Aquatic Organisms</source>
+<year iso-8601-date="2012">2012</year>
+<volume>98</volume>
+<fpage>177</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="doi">10.3354/dao02443</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>North et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>North</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Hodgson</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Price</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Griffiths</surname>
+<given-names>AGF</given-names>
+</name>
+</person-group>
+<article-title>Anthropogenic and ecological drivers of amphibian disease (ranavirosis)</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2015">2015</year>
+<volume>10</volume>
+<issue>6</issue>
+<elocation-id>e0127037</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0127037</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Ohlberger et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ohlberger</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Langangen</surname>
+<given-names>Ø</given-names>
+</name>
+<name>
+<surname>Edeline</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Olsen</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Winfield</surname>
+<given-names>IJ</given-names>
+</name>
+<name>
+<surname>Fletcher</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>James</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Stenseth</surname>
+<given-names>NC</given-names>
+</name>
+<name>
+<surname>Vollestad</surname>
+<given-names>LA</given-names>
+</name>
+</person-group>
+<article-title>Pathogen-induced rapid evolution in a vertebrate life-history trait</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2011">2011</year>
+<volume>278</volume>
+<fpage>35</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2010.0960</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Olsen et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Olsen</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Heino</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lilly</surname>
+<given-names>GR</given-names>
+</name>
+<name>
+<surname>Morgan</surname>
+<given-names>MJJ</given-names>
+</name>
+<name>
+<surname>Brattey</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ernande</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Dieckmann</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<article-title>Maturation trends indicative of rapid evolution preceded the collapse of northern cod</article-title>
+<source>Nature</source>
+<year iso-8601-date="2004">2004</year>
+<volume>428</volume>
+<issue>6986</issue>
+<fpage>932</fpage>
+<lpage>935</lpage>
+<pub-id pub-id-type="doi">10.1038/nature02430</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Penteriani, Balbontin &amp; Ferrer (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Penteriani</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Balbontin</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ferrer</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Simultaneous effects of age and territory quality on fecundity in Bonelli’s Eagle</article-title>
+<source>Hieraaetus fasciatus</source>
+<year iso-8601-date="2003">2003</year>
+<comment>Ibis</comment>
+<volume>145</volume>
+<issue>2</issue>
+<fpage>E77</fpage>
+<lpage>E82</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1474-919x.2003.00159.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Price et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Price</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Garner</surname>
+<given-names>TWJ</given-names>
+</name>
+<name>
+<surname>Balloux</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ruis</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Paszkiewicz</surname>
+<given-names>KH</given-names>
+</name>
+<name>
+<surname>Moore</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Griffiths</surname>
+<given-names>AGF</given-names>
+</name>
+</person-group>
+<article-title>A <italic>de novo</italic> assembly of the common frog (<italic>Rana temporaria</italic>) transcriptome and comparison of transcription following exposure to ranavirus and <italic>Batrachochytrium dendrobatidis</italic></article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2015">2015</year>
+<volume>10</volume>
+<issue>6</issue>
+<fpage>e0130500</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0130500</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Price et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Price</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Garner</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cunningham</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Langton</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Reconstructing the emergence of a lethal infectious disease of wildlife supports a key role for spread through translocations by humans</article-title>
+<source>Proceedings of the Royal Society B</source>
+<year iso-8601-date="2016">2016</year>
+<volume>283</volume>
+<issue>1839</issue>
+<fpage>20160952</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2016.0952</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Reznick, Bryga &amp; Endler (1990)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reznick</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Bryga</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Endler</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Experimentally induced life-history evolution in a natural population</article-title>
+<source>Nature</source>
+<year iso-8601-date="1990">1990</year>
+<volume>346</volume>
+<issue>6282</issue>
+<fpage>357</fpage>
+<lpage>359</lpage>
+<pub-id pub-id-type="doi">10.1038/346357a0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Roff (1993)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Roff</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<source>The evolution of life histories: theory and analysis</source>
+<year iso-8601-date="1993">1993</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Rouyer et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rouyer</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Sadykov</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Ohlberger</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Stenseth</surname>
+<given-names>NC</given-names>
+</name>
+</person-group>
+<article-title>Does increasing mortality change the response of fish populations to environmental fluctuations?</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2012">2012</year>
+<volume>15</volume>
+<issue>7</issue>
+<fpage>658</fpage>
+<lpage>665</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2012.01781.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Ryser (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ryser</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Comparative life histories of a low and high-elevation population of the common frog <italic>Rana temporaria</italic></article-title>
+<source>Amphibia-Reptilia</source>
+<year iso-8601-date="1996">1996</year>
+<volume>27</volume>
+<issue>3</issue>
+<fpage>183</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1163/156853896X00379</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Saether &amp; Bakke (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saether</surname>
+<given-names>B-E</given-names>
+</name>
+<name>
+<surname>Bakke</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>Avian life history variation and contribution of demographic traits to the population growth rate</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2000">2000</year>
+<volume>81</volume>
+<issue>3</issue>
+<fpage>642</fpage>
+<lpage>653</lpage>
+<pub-id pub-id-type="doi">10.2307/177366</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Sand (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sand</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Life history patterns in female moose (<italic>Alces alces</italic>): the relationship between age, body size, fecundity and environmental conditions</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="1996">1996</year>
+<volume>106</volume>
+<issue>2</issue>
+<fpage>212</fpage>
+<lpage>220</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00328601</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Scheele et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scheele</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Hunter</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Banks</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Pierson</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Skerratt</surname>
+<given-names>LF</given-names>
+</name>
+<name>
+<surname>Webb</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Driscoll</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>High adult mortality in disease-challenged frog populations increases vulnerability to drought</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>85</volume>
+<issue>6</issue>
+<fpage>1453</fpage>
+<lpage>1460</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2656.12569</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Scheele et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scheele</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Skerratt</surname>
+<given-names>LF</given-names>
+</name>
+<name>
+<surname>Hunter</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Banks</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Pierson</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Driscoll</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Byrne</surname>
+<given-names>PG</given-names>
+</name>
+<name>
+<surname>Berger</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Disease-associated change in an amphibian life-history trait</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="2017">2017</year>
+<volume>184</volume>
+<issue>4</issue>
+<fpage>825</fpage>
+<lpage>833</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-017-3911-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Sinsch (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sinsch</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<article-title>Life-history traits in amphibians</article-title>
+<source>Herpetological Journal</source>
+<year iso-8601-date="2015">2015</year>
+<volume>25</volume>
+<fpage>5</fpage>
+<lpage>13</lpage>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Stearns (1992)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Stearns</surname>
+<given-names>SC</given-names>
+</name>
+</person-group>
+<source>The evolution of life histories</source>
+<year iso-8601-date="1992">1992</year>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>Oxford University Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Stearns et al. (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stearns</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Ackermann</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Doebeli</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kaiser</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Experimental evolution of aging, growth, and reproduction in fruitflies</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2000">2000</year>
+<volume>97</volume>
+<fpage>3309</fpage>
+<lpage>3313</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.97.7.3309</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Teacher, Cunningham &amp; Garner (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Teacher</surname>
+<given-names>AGF</given-names>
+</name>
+<name>
+<surname>Cunningham</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Garner</surname>
+<given-names>TWJ</given-names>
+</name>
+</person-group>
+<article-title>Assessing the long-term impact of ranavirus infection in wild common frog populations</article-title>
+<source>Animal Conservation</source>
+<year iso-8601-date="2010">2010</year>
+<volume>13</volume>
+<issue>5</issue>
+<fpage>514</fpage>
+<lpage>522</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-1795.2010.00373.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>R Core Team (2014)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab><institution>R Core Team</institution></collab>
+</person-group>
+<source>R: a language and environment for statistical computing</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name>
+<uri>http://www.R-project.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Trippel (1993)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Trippel</surname>
+<given-names>EA</given-names>
+</name>
+</person-group>
+<article-title>Relations of fecundity, maturation, and body size of lake trout, and implications for management in Northwestern Ontario lakes</article-title>
+<source>North American Journal of Fisheries Management</source>
+<year iso-8601-date="1993">1993</year>
+<volume>13</volume>
+<issue>1</issue>
+<fpage>64</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="doi">10.1577/1548-8675(1993)013&lt;0064:ROFMAB&gt;2.3.CO;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Verrell (1985)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Verrell</surname>
+<given-names>PA</given-names>
+</name>
+</person-group>
+<article-title>Return to water by juvenile amphibians at a pond in southern England</article-title>
+<source>Amphibia-Reptilia</source>
+<year iso-8601-date="1985">1985</year>
+<volume>6</volume>
+<issue>1</issue>
+<fpage>93</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.1163/156853885X00227</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Wake &amp; Vredenburg (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wake</surname>
+<given-names>DB</given-names>
+</name>
+<name>
+<surname>Vredenburg</surname>
+<given-names>VT</given-names>
+</name>
+</person-group>
+<article-title>Are we in the midst of the sixth mass extinction? A view from the world of amphibians</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2008">2008</year>
+<volume>105</volume>
+<fpage>11466</fpage>
+<lpage>11473</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0801921105</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Wheelwright et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wheelwright</surname>
+<given-names>NT</given-names>
+</name>
+<name>
+<surname>Gray</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Hill</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>DL</given-names>
+</name>
+</person-group>
+<article-title>Sudden mass die-off of a large population of wood frog (<italic>Lithobates sylvaticus</italic>) tadpoles in Maine, USA, likely due to ranavirus</article-title>
+<source>Herpetological Review</source>
+<year iso-8601-date="2014">2014</year>
+<volume>45</volume>
+<fpage>240</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1038/srep01515.S</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Whittington, Becker &amp; Dennis (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Whittington</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Becker</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Dennis</surname>
+<given-names>MM</given-names>
+</name>
+</person-group>
+<article-title>Iridovirus infections in finfish—critical review with emphasis on ranaviruses</article-title>
+<source>Journal of fish diseases</source>
+<year iso-8601-date="2010">2010</year>
+<volume>33</volume>
+<issue>2</issue>
+<fpage>95</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2761.2009.01110.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Wilbur (1980)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wilbur</surname>
+<given-names>HM</given-names>
+</name>
+</person-group>
+<article-title>Complex life cycles</article-title>
+<source>Annual Review of Ecology and Systematics</source>
+<year iso-8601-date="1980">1980</year>
+<volume>11</volume>
+<issue>1</issue>
+<fpage>67</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.es.11.110180.000435</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Xie et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xie</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Lau</surname>
+<given-names>MWN</given-names>
+</name>
+<name>
+<surname>Stuart</surname>
+<given-names>SN</given-names>
+</name>
+<name>
+<surname>Chanson</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Cox</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Fischman</surname>
+<given-names>DL</given-names>
+</name>
+</person-group>
+<article-title>Conservation needs of amphibians in China: a review</article-title>
+<source>Science in China, Series C: Life Sciences</source>
+<year iso-8601-date="2007">2007</year>
+<volume>50</volume>
+<issue>2</issue>
+<fpage>265</fpage>
+<lpage>276</lpage>
+<pub-id pub-id-type="doi">10.1007/s11427-007-0021-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Zambrano et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zambrano</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Vega</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Herrera</surname>
+<given-names>MLG</given-names>
+</name>
+<name>
+<surname>Prado</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Reynoso</surname>
+<given-names>VH</given-names>
+</name>
+</person-group>
+<article-title>A population matrix model and population viability analysis to predict the fate of endangered species in highly managed water systems</article-title>
+<source>Animal Conservation</source>
+<year iso-8601-date="2007">2007</year>
+<volume>10</volume>
+<issue>3</issue>
+<fpage>297</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-1795.2007.00105.x</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

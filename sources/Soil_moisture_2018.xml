@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5904</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5904</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Soil Science</subject>
+<subject>Climate Change Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Soil moisture dynamics under two rainfall frequency treatments drive early spring CO<sub>2</sub> gas exchange of lichen-dominated biocrusts in central Spain</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Baldauf</surname>
+<given-names>Selina</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>selina.baldauf@fu-berlin.de</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Ladrón de Guevara</surname>
+<given-names>Mónica</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7434-4856</contrib-id>
+<name name-style="western">
+<surname>Maestre</surname>
+<given-names>Fernando T.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0003-4767-6406</contrib-id>
+<name name-style="western">
+<surname>Tietjen</surname>
+<given-names>Britta</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>Freie Universität Berlin, Department of Biodiversity/Theoretical Ecology, Institute of Biology</institution>, <addr-line>Berlin</addr-line>, <country>Germany</country></aff>
+<aff id="aff-2"><label>2</label><institution>Departamento de Biología y Geología, Física y Química Inorgánica, Escuela Superior de Ciencias Experimentales y Tecnología, Universidad Rey Juan Carlos</institution>, <addr-line>Móstoles</addr-line>, <country>Spain</country></aff>
+<aff id="aff-3"><label>3</label><institution>Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB)</institution>, <addr-line>Berlin</addr-line>, <country>Germany</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Yeager</surname>
+<given-names>Chris</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-16">
+<day>16</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5904</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-05-02">
+<day>2</day>
+<month>5</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-09">
+<day>9</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Baldauf et al.</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Baldauf et al.</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5904"/>
+<abstract>
+<sec>
+<title>Background</title>
+<p>Biocrusts, communities dominated by mosses, lichens, cyanobacteria, and other microorganisms, largely affect the carbon cycle of drylands. As poikilohydric organisms, their activity time is often limited to short hydration events. The photosynthetic and respiratory response of biocrusts to hydration events is not only determined by the overall amount of available water, but also by the frequency and size of individual rainfall pulses.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>We experimentally assessed the carbon exchange of a biocrust community dominated by the lichen <italic>Diploschistes diacapsis</italic> in central Spain. We compared the effect of two simulated precipitation patterns providing the same overall amount of water, but with different pulse sizes and frequency (high frequency: five mm/day vs. low frequency: 15 mm/3 days), on net/gross photosynthesis and dark respiration.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>Radiation and soil temperature, together with the watering treatment, affected the rates of net and gross photosynthesis, as well as dark respiration. On average, the low frequency treatment showed a 46% ± 3% (mean ± 1 SE) lower rate of net photosynthesis, a 13% ± 7% lower rate of dark respiration, and a 24% ± 8% lower rate of gross photosynthesis. However, on the days when samples of both treatments were watered, no differences between their carbon fluxes were observed. The carbon flux response of <italic>D. diacapsis</italic> was modulated by the environmental conditions and was particularly dependent on the antecedent soil moisture.</p>
+</sec>
+<sec>
+<title>Discussion</title>
+<p>In line with other studies, we found a synergetic effect of individual pulse size, frequency, environmental conditions, and antecedent moisture on the carbon exchange fluxes of biocrusts. However, most studies on this subject were conducted in summer and they obtained results different from ours, so we conclude that there is a need for long-term experiments of manipulated precipitation impacts on the carbon exchange of biocrusts. This will enable a more complete assessment of the impacts of climate change-induced alterations in precipitation patterns on biocrust communities.</p>
+</sec>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Biological soil crust</kwd>
+<kwd>Altered precipitation</kwd>
+<kwd>Carbon exchange</kwd>
+<kwd>Lichens</kwd>
+<kwd>Drylands</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Collaborative Research Centre 973 of the German Research Foundation (DFG) and the European Research Council</funding-source>
+<award-id>BIODESERT project, ERC Agreement No. 647038</award-id>
+</award-group>
+<funding-statement>This research was supported by the Collaborative Research Centre 973 (<uri xlink:href="http://www.sfb.973">www.sfb.973</uri>) of the German Research Foundation (DFG) and the European Research Council (BIODESERT project, ERC Agreement No. 647038). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Biocrusts are communities dominated by cyanobacteria, algae, fungi, lichens, and bryophytes living on the soil surface. They are a major feature in drylands worldwide, with an estimated cover of around 12% of the terrestrial surface (<xref ref-type="bibr" rid="ref-34">Rodriguez-Caballero et al., 2018</xref>), and act as a boundary layer between the soil and the atmosphere (<xref ref-type="bibr" rid="ref-3">Belnap, Büdel &amp; Lange, 2001</xref>; <xref ref-type="bibr" rid="ref-5">Belnap, Weber &amp; Büdel, 2016</xref>). Biocrust constituents, such as lichens and mosses, are poikilohydric organisms, which are dormant when desiccated and, unlike vascular plants, cannot actively control their water balance. Their activity time is thus limited to hydration events with water inputs from the atmosphere in the form of rain, fog, dew, water vapor, or melting snow (<xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>; <xref ref-type="bibr" rid="ref-9">Darrouzet-Nardi et al., 2015</xref>). Despite their restricted activity time, biocrusts play an important role in the carbon cycle of drylands through their photosynthetic and respiratory activity (<xref ref-type="bibr" rid="ref-41">Weber et al., 2012</xref>; <xref ref-type="bibr" rid="ref-35">Sancho et al., 2016</xref>). The duration of moisture availability thereby controls the ratio of respiratory losses to photosynthetic gains (<xref ref-type="bibr" rid="ref-15">Jeffries, Link &amp; Klopatek, 1993</xref>; <xref ref-type="bibr" rid="ref-4">Belnap, Phillips &amp; Miller, 2004</xref>). Therefore, larger rainfall events are generally associated with higher carbon gains, whereas small rain events can result in a carbon deficit, because the initial respiratory losses cannot be compensated by subsequent photosynthesis (<xref ref-type="bibr" rid="ref-8">Coe, Belnap &amp; Sparks, 2012</xref>; <xref ref-type="bibr" rid="ref-33">Reed et al., 2012</xref>; <xref ref-type="bibr" rid="ref-39">Su, Lin &amp; Zhang, 2012</xref>).</p>
+<p>In addition to the importance of individual event size, rainfall frequency is a key factor in determining the duration of moisture availability at the soil surface (<xref ref-type="bibr" rid="ref-10">D’Odorico &amp; Porporato, 2004</xref>), which affects the activity of biocrust constituents (<xref ref-type="bibr" rid="ref-30">Raggio et al., 2017</xref>). As an example, a laboratory study with the common biocrust moss <italic>Syntrichia caninervis</italic> showed that a higher frequency of sufficiently large rainfall events is beneficial in terms of photosynthesis (<xref ref-type="bibr" rid="ref-8">Coe, Belnap &amp; Sparks, 2012</xref>). These authors found that a shift in the interval between two wetting events from 1 day to 5 days led to a decrease in the mean carbon balance by nearly 90%, and became negative at an interval of 10 days. Furthermore, the effect of watering patterns on the carbon flux response depends on the season considered, as it plays an important role in determining the event size that is necessary to reach the compensation point for net photosynthesis (<xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>; <xref ref-type="bibr" rid="ref-2">Büdel et al., 2009</xref>). Precipitation patterns can be beneficial in winter and lead to carbon losses in summer due to higher temperatures (<xref ref-type="bibr" rid="ref-9">Darrouzet-Nardi et al., 2015</xref>) and different physiological responses to rainfall events of the same size (<xref ref-type="bibr" rid="ref-8">Coe, Belnap &amp; Sparks, 2012</xref>).</p>
+<p>A spring to fall rainfall manipulation experiment on the Colorado Plateau (southwestern United States) showed that a 50% above-average precipitation frequency negatively impacts quantum yield, chlorophyll α, and protective pigment concentration in lichen- and cyanobacterial biocrusts, especially if applied for a longer period (<xref ref-type="bibr" rid="ref-4">Belnap, Phillips &amp; Miller, 2004</xref>). In another study located in the same area, an increase in the frequency of small summer rainfall events led to a negative carbon balance and rapid mortality of <italic>S. caninervis</italic> (<xref ref-type="bibr" rid="ref-33">Reed et al., 2012</xref>; <xref ref-type="bibr" rid="ref-43">Zelikova et al., 2012</xref>). The additional small rainfall events caused C starvation due to non-sufficient hydration of the moss (<xref ref-type="bibr" rid="ref-33">Reed et al., 2012</xref>). In the same experiment, soil cyanobacterial biomass and abundance also declined significantly following the second summer of altered precipitation patterns although the treatment increased overall moisture availability compared to control conditions (<xref ref-type="bibr" rid="ref-16">Johnson et al., 2012</xref>). In the long term, an increase in the summer precipitation frequency has been found to drive a shift in species composition from lichen- and moss-dominated to cyanobacteria-dominated biocrusts (<xref ref-type="bibr" rid="ref-43">Zelikova et al., 2012</xref>; <xref ref-type="bibr" rid="ref-12">Ferrenberg, Reed &amp; Belnap, 2015</xref>).</p>
+<p>Precipitation and water availability are the major driver of biocrust activity (<xref ref-type="bibr" rid="ref-42">Wertin et al., 2012</xref>) and hence, changes in precipitation patterns, such as those projected for climate change in drylands worldwide (<xref ref-type="bibr" rid="ref-27">Pachauri et al., 2014</xref>), will directly and indirectly influence the ability of biocrusts to fix and store carbon (<xref ref-type="bibr" rid="ref-4">Belnap, Phillips &amp; Miller, 2004</xref>). However, we still know little about the impact of changes in precipitation on the carbon uptake across biocrust communities in different dryland regions and across seasons. In order to contribute to filling this knowledge gap, we have conducted a short-term manipulative experiment in early spring to assess the effect of rainfall patterns on photosynthesis and respiration of <italic>Diploschistes diacapsis</italic>, a lichen that generally is dominant in the biocrust communities in central Spain (<xref ref-type="bibr" rid="ref-23">Maestre et al., 2011</xref>). We compared the carbon exchange fluxes in response to two rainfall patterns that provided the same overall water amount; in one of the treatments, single rainfall events were smaller, but more frequent; while in the other one, single rainfall events were larger, but less frequent. By doing so, we seek to understand which rainfall pattern could be more beneficial for carbon fixation by biocrusts, and to set the direction for follow-up long-term experiments in the field.</p>
+</sec>
+<sec sec-type="methods">
+<title>Methods</title>
+<sec>
+<title>Sample collection and experimental design</title>
+<p>In March 2017, we collected 12 undisturbed soil cores (diameter: 10 cm, height: seven cm) with a high crust cover (between 80% and 100%) of <italic>D. diacapsis</italic> at the rural estate El Espartal, in the Southeast Regional Park of Madrid, central Spain (40°11′N 3°36′W, 574 m a.s.l.). The bioclimate of El Espartal is upper semiarid meso-Mediterranean, with a mean annual temperature of 14.5 °C and a mean annual precipitation of around 389 mm in the period from 1971 to 2000 (<xref ref-type="bibr" rid="ref-6">Cano Sánchez, 2006</xref>). The mean precipitation in March and April is 36 and 52 mm, respectively. However, the historical minimum and maximum monthly precipitation (1981–2010) are 1 and 196 mm in March and 11 and 162 mm in April with maximum daily precipitation amounts of 29 mm in March and 45 mm in April (<xref ref-type="bibr" rid="ref-1">Agencia Estatal De Meteorología, 2012</xref>). The soils of the area are classified as Gypsic Regosols (<xref ref-type="bibr" rid="ref-26">Ortíz-Bernard et al., 1997</xref>) and Calcic Gypsisol (<xref ref-type="bibr" rid="ref-25">Monturiol Rodriguez &amp; Alcala Del Olmo, 1990</xref>). Perennial plant coverage is lower than 40% and the site hosts a well-developed biocrust community dominated by lichens, such as <italic>D. diacapsis</italic>, <italic>Squamarina lentigera</italic>, <italic>Fulgensia subbracteata</italic>, and <italic>Buellia zoharyi</italic> (see <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>).</p>
+<p>After collection, we covered the bottom of the soil cores with a fine-meshed fabric to avoid soil loss and then took them to the lab, where they were watered to full saturation with low mineralized water and drained for 24 h to determine the weight at saturation water content. The undisturbed cores were placed on a structure that allowed water to drain from the cores under a transparent roof at the Climate Change Outdoor Laboratory, located at the facilities of Rey Juan Carlos University (Móstoles, Spain: 40°20′N, 3°52′W, 650 m a.s.l., see <xref ref-type="supplementary-material" rid="supp-2">Fig. S2</xref>). Rainfall was excluded by the roof, whereas temperature and radiation remained similar to those at ambient conditions. Five days after placing the cores under the roof, we started to apply a daily water pulse of 5 mm to six of the samples (high frequency treatment), and a 15 mm pulse at a 3-day interval to the other six samples (low frequency treatment). In total, all samples received a water amount of 60 mm during 12 days (from March 21st, 2017 until April 1st, 2017). Although <italic>D. diacapsis</italic> can activate the photosynthetic system at smaller rainfall pulses (<xref ref-type="bibr" rid="ref-21">Lange et al., 1997</xref>; <xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>), the watering patterns were chosen such that they were sufficient to provide enough water to both stimulate a pulse of lichen activity and wet the soil beneath the sample. Also, we wanted to ensure that the pulses exceed the threshold for ecologically effective precipitation, which has been reported to be five mm in a semiarid steppe ecosystem (<xref ref-type="bibr" rid="ref-14">Hao et al., 2013</xref>).</p>
+</sec>
+<sec>
+<title>Measurements</title>
+<p>One of the six samples from each treatment was used to monitor soil temperature at three cm depth with a temperature sensor (UP Umweltanalytische Produkte GmbH, Cottbus, Germany). In the other five soil cores, we conducted gas exchange measurements using a Li-6400 portable photosynthesis system (Li-Cor, Lincoln, NE, USA). Measurements were taken every day after the water application and started earliest at 9:30 am. The mean time between water application and the first measurement of the samples was 77 min (SD = 13 min). In each sample, light and dark measurements were paired. First, the net CO<sub>2</sub> flux was measured by placing a transparent chamber on the sample (hereafter referred to as net photosynthesis), waiting for equilibrium to be reached between the chamber (see <xref ref-type="bibr" rid="ref-17">Ladrón De Guevara et al., 2015</xref> for a detailed description of the chamber) and the sample prior to measurement. For each measurement under light conditions, we recorded photosynthetically active radiation (PAR) with a Field Scout Quantum Light Meter (Spectrum Technologies, Plainfield, IL, USA). Next, measurements were conducted in the dark using the same technique as before, but this time placing an opaque cloth around the chamber to exclude light (hereafter referred to as dark respiration). Similar to the net photosynthesis measurements, we waited for the gas exchange to stabilize before taking the measurements, a process which took ca. 3–5 min. We assume, that after this time of dark-acclimation and stabilization, there is no longer a dynamic evolution of gas exchange due to a decrease in residual photosynthesis (compare, <xref ref-type="bibr" rid="ref-36">Smith &amp; Griffiths, 1996</xref>, <xref ref-type="bibr" rid="ref-37">1998</xref>). Between each measurement, the infrared gas analyzers were standardized using the “match” procedure of the measuring device. With these constraints, the paired measurements were taken at the closest time possible to avoid a shift in the environmental conditions between them. The difference between the paired light and dark measurements was calculated, and will be referred to as gross photosynthesis hereafter. As the underlying soil was not removed from the crusts, the measurements comprise the fluxes from both biocrusts and underlying soil. With this, we follow an ecological approach, taking into account the contribution of the whole soil profile and avoiding any mechanical disturbance to the lichen (e.g., by thallus clipping) that could affect its functioning.</p>
+<p>Paired measurements were taken alternatingly between the samples receiving a high and low frequency watering treatment to minimize the differences in environmental variables between the measurements. In total, three paired measurements were taken daily for every sample with a mean interval of 88 min between measurements. The last measurements were taken with a mean time of 4.5 h after the watering of that day (for detailed information on the mean times since the last watering see <xref ref-type="supplementary-material" rid="supp-6">Table S1</xref>). On the 23rd of March, only one paired measurement was made for each sample due to snow and heavy wind being registered. Further measurements on that day were cancelled to avoid damage to the measuring device. After daily gas exchange measurements, the sample weights were determined to calculate the volumetric soil moisture. An average of on-site bulk density measurements of 1.03 g cm<sup>−3</sup> was used for all calculations.</p>
+<p>The occurrence of dew could potentially influence the photosynthetic activity in our microcosms. Therefore, we estimated dewpoint temperature according to <xref ref-type="bibr" rid="ref-22">Lawrence (2005)</xref>. For the calculation, we used the relative air humidity and temperature recorded by the Li-6400 device and compared it to the lichen surface temperature which was recorded by the device as well (see <xref ref-type="supplementary-material" rid="supp-3">Fig. S3</xref> for relative humidity, dewpoint and lichen surface temperature during the measurements). Relative humidity did not exceed 76% and the dewpoint never was reached. Hence, we assume that dew did not confound the response of the microcosms to the applied watering treatments.</p>
+</sec>
+<sec>
+<title>Data analysis</title>
+<p>We applied linear mixed effect models to evaluate the effect of the high and low watering frequency treatment and the environmental conditions on dark respiration, net and gross photosynthesis. We used the R statistical software (<xref ref-type="bibr" rid="ref-32">R Core Team, 2018</xref>) with the “nlme” package (<xref ref-type="bibr" rid="ref-28">Pinheiro et al., 2018</xref>) to conduct these analyses. Due to a high correlation between PAR, air and soil temperature (<italic>T</italic><sub>soil</sub>), we used PAR as a covariate in the models of net and gross photosynthesis, and <italic>T</italic><sub>soil</sub> in the model of respiration. Because of problems with the measuring device, soil temperature data on the first day were only available for the low frequency treatment from 11 to 12 am. We used the average of these temperatures to fill the day’s measurement gaps because soil temperature did not differ substantially between treatments. The watering treatment, PAR or <italic>T</italic><sub>soil</sub> and their interaction were included as fixed factors in the models. We followed a protocol for model selection based on the AIC and maximum likelihood ratio tests to compare between models (<xref ref-type="bibr" rid="ref-44">Zuur et al., 2009</xref>). We considered the sample identification as a random intercept to account for the repeated measures, and we used a continuous autocorrelation structure of order 1 (CAR1 correlation structure) to correct the temporal autocorrelation within each sample. We monitored the AIC to choose the best-fitting model and checked model assumptions using QQ-plots of the residuals and a plot of the standardized residuals vs. fitted values. Due to the heteroscedasticity of the residuals, we allowed each day to have a different variance structure. Next, we sequentially excluded the fixed factors from the full model starting with the interaction and compared the models using a maximum likelihood ratio test. In this way, we selected a final model that only contained terms significant at the 5% level. The final model was refitted with restricted maximum likelihood estimators.</p>
+<p>We performed Wilcoxon rank sum tests to compare the soil moisture of the two treatments on day 0, 1, and 2 since the last watering of the low frequency treatment. Because data were not normally distributed, paired Wilcoxon rank sum tests were used to compare CO<sub>2</sub> fluxes of dark respiration, net and gross photosynthesis between the two treatments overall and on the different days since the last watering. The same test was also used to compare soil temperatures between treatments during the measurement times. This data analysis was also performed using R statistical software (<xref ref-type="bibr" rid="ref-32">R Core Team, 2018</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Environmental conditions during the experiment</title>
+<p>The temporal dynamics of the measured environmental variables (PAR, soil and air temperature and soil moisture) were highly variable during the experiment (see <xref ref-type="fig" rid="fig-1">Figs. 1</xref> and <xref ref-type="fig" rid="fig-2">2</xref>). PAR values ranged from 50 to 2,000 μmol m<sup>−2</sup> s<sup>−1</sup>, and exceeded the light compensation point of <italic>D. diacapsis</italic> of around 100 μmol m<sup>−2</sup> s<sup>−1</sup> (<xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>) for all but five measurements. Ambient air and soil temperatures ranged from 6 to 31 °C and from 3 to 25 °C, respectively. These wide ranges reflect the variable climatic conditions during the experimental phase, with PAR, air and soil temperature decreasing after March 21st and increasing towards the end of the experimental phase. Soil temperature was slightly lowered in the high frequency treatment samples (<italic>W</italic> = 1,156, <italic>p</italic> &lt; 0.001). The difference in soil temperature was markedly higher during the last 4 days of the experiment (mean difference of 1 °C) compared to the period before (mean difference of 0.3 °C).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5904/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Time progression of PAR, soil and air temperature during the experiment.</title>
+<p>Points and error bars represent the mean ± 1 SE (<italic>n</italic> = 15 for each data point in PAR), the smaller, transparent points are the individual PAR measurements. The dashed, gray vertical lines indicate the days on which samples of both treatments were watered and the gray background visually separates the measuring time into four periods of 3 days.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5904/fig-1.png"/>
+</fig>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5904/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Soil moisture dynamics during the experiment.</title>
+<p>Points and error bars represent the mean ± 1 SE (<italic>n</italic> = 5 for each data point). The dashed, gray vertical lines indicate the days on which samples of both treatments were watered and the gray background visually separates the measuring time into four periods of 3 days.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5904/fig-2.png"/>
+</fig>
+<p>Soil moisture dynamics generally reflected the applied watering patterns. The samples of the low frequency treatment showed a decrease in soil moisture following the days after the 15 mm pulse. The soil moisture of the high frequency treatment increased during the first days because temperature and therefore evaporation were low and thus moisture accumulated in the samples. When air temperature exceeded 20 °C, evaporation was high enough for soil moisture to decrease. On the days when the samples of both treatments were watered, soil moisture was 13% higher for the low watering frequency samples, which received 15 mm (<italic>W</italic> = 195, <italic>p</italic> &lt; 0.001). On the following day there was no significant difference in soil moisture between the treatments (<italic>W</italic> = 246, <italic>p</italic> = 0.221), and on the second day after watering, soil moisture was 27% lower for the low watering frequency samples (<italic>W</italic> = 354, <italic>p</italic> &lt; 0.001). An overall comparison of soil moisture for the entire experimental period did not indicate moisture differences between the treatments (<italic>W</italic> = 1,262, <italic>p</italic> = 0.135). However, cumulative moisture was higher in the high frequency treatment for all four periods of 3 days (see <xref ref-type="supplementary-material" rid="supp-7">Table S2</xref> for details).</p>
+</sec>
+<sec>
+<title>Watering effects on CO<sub>2</sub> fluxes</title>
+<p>Similar to the environmental conditions, the CO<sub>2</sub> flux measurements showed a high variability. On the first day of the experiment, we observed a negative net photosynthesis associated with high respiration rates in all samples measured (see <xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). On the second day, net photosynthesis increased and stayed above or close to zero for the remaining experiment. The flux difference between treatments became more pronounced from the 29th of March until the end of the experiment. During these days, temperature and radiation were higher and the largest flux differences were associated with the largest differences in soil moisture between treatments.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5904/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Time progression (A) and overall comparison (B) of carbon flux measurements for the low and high frequency watering treatment.</title>
+<p>Points and error bars (A) represent mean ± 1 SE (<italic>n</italic> = 15 for each data point) for net photosynthesis (closed symbols) and dark respiration (open symbols). The boxplots (B) of net photosynthesis (NP), dark respiration (DR), and gross photosynthesis (GP) include a black dot indicating the group mean (<italic>n</italic> = 170 in each group). The non-overlapping notches represent the 95% confidence interval of the median and suggest differences between treatments over the experimental period.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5904/fig-3.png"/>
+</fig>
+<p>Overall, we observed a net CO<sub>2</sub> uptake (i.e., positive net photosynthesis) with mean net fluxes of 0.35 ± 0.05 (mean ± 1 SE) and 0.56 ± 0.06 μmol m<sup>−2</sup> s<sup>−1</sup> for the low and the high frequency treatment, respectively. When comparing the mean CO<sub>2</sub> fluxes of the two frequency treatments, all fluxes were significantly lower in the low frequency treatment, with 13 ± 7% (mean ± 1 SE) lower dark respiration (<italic>W</italic> = 4,046, <italic>p</italic> &lt; 0.001), 46 ± 3% lower net photosynthesis (<italic>W</italic> = 9,818, <italic>p</italic> &lt; 0.001) and 24% ± 8% lower gross photosynthesis (<italic>W</italic> = 17,602, <italic>p</italic> &lt; 0.001) (see <xref ref-type="fig" rid="fig-3">Fig. 3B</xref>).</p>
+<p>The relative difference between treatments changed with the days since the last watering of the low frequency treatment (see <xref ref-type="table" rid="table-1">Table 1</xref> and <xref ref-type="supplementary-material" rid="supp-4">Fig. S4</xref>). On days when both treatments were watered, no significant flux differences between them were found (see <xref ref-type="fig" rid="fig-4">Figs. 4A</xref>–<xref ref-type="fig" rid="fig-4">4C</xref>), net photosynthesis: <italic>W</italic> = 1,032, <italic>p</italic> = 0.391; dark respiration: <italic>W</italic> = 980, <italic>p</italic> = 0.635; gross photosynthesis: <italic>W</italic> = 931, <italic>p</italic> = 0.909). In the low frequency treatment, the CO<sub>2</sub> fluxes for dark respiration, net and gross photosynthesis decreased on the days following water application. For dark respiration the difference between the two treatments was significant on the first and second day after watering (<italic>W</italic> = 587, <italic>p</italic> = 0.016). Net and gross photosynthesis were more variable among samples, therefore means only differed significantly on the second day following water application (net photosynthesis: <italic>W</italic> = 1,034, <italic>p</italic> &lt; 0.001, gross photosynthesis: <italic>W</italic> = 1,118, <italic>p</italic> &lt; 0.001).</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5904/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Median and 95% confidence interval of the median (in brackets) of the pairwise relative differences (%) between the two treatments by days since the last watering of the low frequency treatment.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5904/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Days since last watering of low frequency treatment</th>
+<th>Net photosynthesis</th>
+<th>Dark respiration</th>
+<th>Gross photosynthesis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>6 (−30.68)</td>
+<td>1 (−4.8)</td>
+<td>−2 (−14.20)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>15 (−44.64)</td>
+<td><bold>7</bold>* (−2.14)</td>
+<td>5 (−3.27)</td>
+</tr>
+<tr>
+<td>2</td>
+<td><bold>136***</bold> (−92.182)</td>
+<td><bold>38***</bold> (27.52)</td>
+<td><bold>71***</bold> (55.91)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Significant differences resulting from a Wilcoxon rank sum test are marked in bold (*<italic>p</italic> &lt; 0.05, ***<italic>p</italic> &lt; 0.001).</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5904/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Comparison of net photosynthesis (A), dark respiration (B), and gross photosynthesis (C) between the two treatments on the different days since the last watering of the low frequency treatment.</title>
+<p>Measurements are displayed separately for each of the three low frequency interval days and compared to the corresponding values of the daily watered high frequency treatment. The asterisks indicate significant differences between the two treatments, calculated with a paired Wilcoxon rank sum test (*<italic>p</italic> &lt; 0.05; ***<italic>p</italic> &lt; 0.001; ns, not significant, <italic>n</italic> = 60 for 0 and 1 days since the last watering and <italic>n</italic> = 50 for 2 days since the last watering). Note the significant difference in dark respiration on day 1 since the last watering despite largely overlapping notches, which arises due to the paired nature of the test. An unpaired test did not show significant differences in this case.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5904/fig-4.png"/>
+</fig>
+<p>The linear mixed model analysis (see <xref ref-type="supplementary-material" rid="supp-8">Table S3</xref> for results of final model) showed a significant influence of both the watering treatment and the environmental conditions on the measured carbon fluxes. We found a significant watering treatment:PAR interaction and a watering treatment:Tsoil interaction on net photosynthesis and on dark respiration, respectively (saturated model vs. model without interaction: d<italic>f</italic> = 17, <italic>L</italic>-ratio = 6.96, <italic>p</italic> = 0.008 for net photosynthesis and d<italic>f</italic> = 17, <italic>L</italic>-ratio = 7.85, <italic>p</italic> = 0.005 for dark respiration). Therefore, we could not exclude the single effects from the model. In contrast, the interaction between these variables was not found to be significant for gross photosynthesis (saturated model vs. model without interaction: d<italic>f</italic> = 17, <italic>L</italic>-ratio = 2.65, <italic>p</italic> = 0.104). The additive fixed terms PAR and the watering treatment both significantly affected the model (additive model vs. model without PAR: d<italic>f</italic> = 16, <italic>L</italic>-ratio = 147.7, <italic>p</italic> &lt; 0.001, additive model vs. model without the watering treatment: d<italic>f</italic> = 16. <italic>L</italic>-ratio = 4.2, <italic>p</italic> = 0.040).</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>The carbon balance of biocrust communities depends on the patterns of moisture availability, which are likely to be altered by climate change. Therefore, it is important to assess how different biocrust communities respond to an alteration in the rainfall event size and frequency and how regional and seasonal differences can influence this response. In this study, we assessed how two different precipitation frequency patterns providing the same overall amount of water (i.e. 5 mm/day vs. 15 mm/3 days) affected photosynthesis and respiration of biocrusts dominated by <italic>D. diacapsis</italic> in central Spain. We observed that radiation and soil temperature, together with the watering treatment, affected the rates of net and gross photosynthesis, as well as dark respiration.</p>
+<p>During most of the experimental period, temperature was below the optimum of 22–24 °C for NP reported from <italic>D. diacapsis</italic> in Spain (<xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>). We observed the highest carbon flux rates on the days when temperatures exceeded 20 °C. However, the rates of 4–5 μmol m<sup>−2</sup> s<sup>−1</sup> that are reported at optimum temperature (<xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>) were not reached in our experiment, where the maximum rates of net photosynthesis and dark respiration were ca. 3 μmol m<sup>−2</sup> s<sup>−1</sup>. A major contribution to the difference of our measurements to the maximum net photosynthesis at optimum conditions reported in the literature is possibly the hydration status of the lichens, because PAR values exceed NP compensation point of <italic>D. diacapsis</italic> at this temperature (<xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>).</p>
+<p>In addition to the different water availability in the treatments, the lowered soil temperature in the high frequency samples (0.3–1 °C difference) possibly contributed to the observed differences between the treatments due to the exponential sensitivity of respiration to temperature. A difference of 1 °C in temperature can lead to a difference of around 5–8% in additive respiration of bare soil and <italic>D. diacapsis</italic> at the temperatures relevant to our study (<xref ref-type="bibr" rid="ref-21">Lange et al., 1997</xref>; <xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>; <xref ref-type="bibr" rid="ref-7">Castillo-Monroy et al., 2011</xref>, see <xref ref-type="supplementary-material" rid="supp-5">Fig. S5</xref>). However, these temperature differences can only explain a small part of the observed total changes in dark respiration and net photosynthesis. Thus, we conclude that the main driver of the differences is water availability but that soil temperature differences also contributed to the observed patterns.</p>
+<sec>
+<title>Individual pulse sizes</title>
+<p>We did not find differences in the mean photosynthetic and respiratory response between the two pulse sizes evaluated (5 and 15 mm) on days when they were both applied. However, on the first day of the experiment, when soils and lichens were dry prior to watering, respiration, and net photosynthesis were higher in the samples receiving the larger pulse. The lichen <italic>D. diacapsis</italic> can achieve its maximum net photosynthesis rate at thallus water contents of around 0.5–0.75 mm precipitation equivalent (<xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>; <xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>). There are studies showing an effect of suprasaturation at a relative water content of around 50% of the maximum water holding capacity (<xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>) and others that do not show a depression of photosynthesis at suprasaturation (<xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>). Following these studies, we can assume that in our experiment both pulses were large enough for moisture within the lichen to exceed this threshold. However, it is unclear whether suprasaturation limited photosynthesis. An indication for a suprasaturation effect could be the fact that the larger watering pulse did not lead to a higher NP response, as we would have expected. Generally, larger rainfall events lead to longer periods of moist conditions and therefore, more carbon can be fixed (<xref ref-type="bibr" rid="ref-8">Coe, Belnap &amp; Sparks, 2012</xref>; <xref ref-type="bibr" rid="ref-33">Reed et al., 2012</xref>). <xref ref-type="bibr" rid="ref-39">Su, Lin &amp; Zhang (2012)</xref> reported higher net carbon fluxes and respiration rates from cyanobacterial-lichen crusted soils in the Gurbantunggut Desert after applying a single rainfall pulse of 15 mm compared to a 5 mm pulse applied on dry soil. On the first days of our study, the 15 mm pulse led to higher net photosynthesis despite the higher respiration compared to the 5 mm pulse. The rewetting of dry biocrust communities and the underlying soil can lead to large immediate carbon losses caused by physical processes, and increased respiration due to cell reparation processes (<xref ref-type="bibr" rid="ref-11">Farrar, 1973</xref>; <xref ref-type="bibr" rid="ref-38">Smith &amp; Molesworth, 1973</xref>; <xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>). This explains the high respiration rates on the first day despite soil moisture being lower than in the following days. The beneficial effect of the 15 mm watering pulse was not sustained throughout the experiment, despite the soil moisture level after the water application being always higher for this pulse size. This indicates that not only the moisture content itself, but also the condition of a sample prior to moistening plays a role in the carbon exchange response of biocrusts. Applying the larger pulse on previously wetted soil was not beneficial in comparison to a smaller pulse that was already large enough to sufficiently wet the sample to trigger photosynthetic activity.</p>
+</sec>
+<sec>
+<title>Inter-pulse frequency</title>
+<p>When looking at the simulated rainfall patterns, we found that smaller, more frequent watering pulses were beneficial in terms of net photosynthesis. The observed differences between treatments increased with differences in soil moisture, and were higher during the last days of the experiment (when temperature and radiation increased). Our findings suggest a synergetic effect between the individual watering pulse size, the frequency of its occurrence, and other environmental factors such as antecedent moisture, temperature, and radiation. Apart from the size and frequency of rainfall events, temperature is an important control for moisture availability in drylands (<xref ref-type="bibr" rid="ref-40">Tietjen et al., 2017</xref>) and evaporative losses increase with it. Consequently, the response of biocrusts to altered precipitation frequencies is seasonally different because the water amount necessary to exceed the photosynthetic net compensation point differs between summer and winter (<xref ref-type="bibr" rid="ref-20">Lange, 2001</xref>; <xref ref-type="bibr" rid="ref-2">Büdel et al., 2009</xref>). There is evidence that, apart from the indirect effect of temperature on water availability, desiccation tolerance is also a seasonally dynamic physiological property in lichens and mosses (<xref ref-type="bibr" rid="ref-13">Green, Sancho &amp; Pintado, 2011</xref>). For example, the carbon balance of the biocrust moss <italic>S. caninervis</italic> was higher for the same watering event when collected in winter compared to summer despite identical laboratory conditions (<xref ref-type="bibr" rid="ref-8">Coe, Belnap &amp; Sparks, 2012</xref>).</p>
+<p>The interacting effect of season and temperature with alterations in rainfall patterns on the performance of biocrust constituents is a common observation in many studies. The correlation between rainfall frequency and biocrust growth was found to be positive for winter rain and negative for summer rain areas in a study across southern African sites (<xref ref-type="bibr" rid="ref-2">Büdel et al., 2009</xref>). In the southwestern United States, the carbon balance of <italic>S. caninervis</italic> in response to rainfall frequency and amount was modulated by season and events leading to a positive carbon balance in winter could result in carbon losses in summer (<xref ref-type="bibr" rid="ref-8">Coe, Belnap &amp; Sparks, 2012</xref>). Other studies from the same area reported a negative effect of an increased summer precipitation frequency on different variables related to the photosynthetic performance of cyanobacterial- and lichen-dominated soil crusts (<xref ref-type="bibr" rid="ref-4">Belnap, Phillips &amp; Miller, 2004</xref>; <xref ref-type="bibr" rid="ref-16">Johnson et al., 2012</xref>; <xref ref-type="bibr" rid="ref-43">Zelikova et al., 2012</xref>).</p>
+<p>To our knowledge, there are no rainfall manipulation studies assessing the response of <italic>D. diacapsis</italic> dominated biocrusts to different rainfall frequencies. Most of the studies evaluating how alterations in the precipitation frequency affect physiology and functioning of biocrust constituents have been conducted in summer, and therefore reported a negative impact of a higher frequency of small pulses. We conducted this study in early spring, with rather cold nights and maximum temperatures around 30 °C. These moderate temperatures enabled a constant activation of lichen photosynthesis during daily measurements. The rainfall patterns applied in this study provided a total water amount of 60 mm, which is well above the monthly saturation rainfall of 40 mm that is reported for maximum biocrust activity across Europe (<xref ref-type="bibr" rid="ref-30">Raggio et al., 2017</xref>). In combination, this led to a positive net photosynthesis and crust activity during the experiment. Field measurements with lichen-dominated biocrusts in Spain show that periods of net carbon fixation occur during the winter months, and are commonly restricted to a few hours in the morning or the late afternoon; in summer and during midday, net photosynthesis is mostly negative (<xref ref-type="bibr" rid="ref-24">Maestre et al., 2013</xref>; <xref ref-type="bibr" rid="ref-18">Ladrón De Guevara et al., 2014</xref>; <xref ref-type="bibr" rid="ref-31">Raggio et al., 2014</xref>). In summer, potential evaporation rates are high and both biocrusts and the underlying soil dry out relatively quickly upon rewetting. For an identical experiment conducted in the summer time, we would therefore expect results that are more similar to those reported from the summer studies mentioned above. However, since most rainfall events in central Spain occur during the spring and autumn/winter period (<xref ref-type="bibr" rid="ref-19">Lafuente et al., 2018</xref>), the impact of different rainfall patterns should also be studied during these phases of high biocrust activity.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusion</title>
+<p>In accordance with other studies, we showed that precipitation frequency plays an important role for the carbon balance of lichen-dominated biocrusts in central Spain. Previous studies revealed a large variability in the carbon exchange response of different biocrust constituents and communities to rainfall. To our knowledge, no studies so far have assessed the responses of <italic>D. diacapsis</italic> dominated biocrusts to altered early spring precipitation frequency. In contrast to what has been found in previous studies at high summer temperatures and conducted with other biocrust-forming lichens and mosses, our results indicate that at moderate temperatures, a higher rainfall frequency is beneficial given the same overall water amount over a short period. This clearly shows that the gas exchange response to different rainfall frequencies is modulated by radiation and temperature conditions leading to seasonal differences. We therefore call for detailed cross-site and cross-season comparisons of the impacts of altered rainfall patterns on the carbon fluxes of biocrust-dominated soils.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5904/Supplemental_Figure_S1.png">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Picture of the hillslope (top) at El Espartal, central Spain (40°11′ N 3°36′ W, 574 m a.s.l.), where the soil cores (bottom left) for the experiment were collected.</title>
+<p>The lichen-dominated biocrusts cover a substantial part of the interplant space and are characterized by a high cover of <italic>Diploschistes diacapsis</italic> (bottom right) (Photo credit: Selina Baldauf).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5904/Supplemental_Figure_S2.png">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Experimental setup with the soil cores at the Climate Change Outdoor Laboratory of the Rey Juan Carlos University in Móstoles (Photo credit: Selina Baldauf).</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5904/Supplemental_Figure_S3.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Relative air humidity (%) and lichen surface temperature as recorded with the Li-6400 device and calculated dewpoint temperature.</title>
+<p>During the measurements the lichen surface temperature was always higher than the dewpoint temperature, i.e. no dew occurred during the measuring.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5904/Supplemental_Figure_S4.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Boxplots with relative differences (%) of net photosynthesis, dark respiration and gross photosynthesis between the high and the low frequency treatment on the different days since the last watering.</title>
+<p>The blue area indicates that the high frequency flux was higher and the orange area indicates that the low frequency flux was higher. The red dots represent the mean. The asterisks show significant differences between the two treatments, calculated with a paired Wilcoxon rank sum test (<italic>p</italic> &lt; 0.05*, <italic>p</italic> &lt; 0.001***, ns = not significant, <italic>n</italic> = 60 for 0 and 1 days since the last watering and n=50 for 2 days since the last watering).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/5904/Supplemental_Figure_S5.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Effect of soil temperature differences on additive dark respiration of soil and <italic>D. diacapsis</italic>.</title>
+<p><bold>(A)</bold> Temperature dependency of respiration. Crust data is from a population in Utah (<xref ref-type="bibr" rid="ref-21">Lange et al., 1997</xref>) and a sun and shade population in Spain (<xref ref-type="bibr" rid="ref-29">Pintado et al., 2005</xref>), both measured at optimal water content. Bare soil respiration data is from a study conducted in Aranjuez (central Spain) with soil similar to the soil used in this study at soil moistures above 25%. The blue and yellow lines are fits for crust and soil respiration, the red line is the additive respiration of soil and crust. <bold>(B)</bold> Relative increase in crust and soil dark respiration for a 1°C increase in temperature as calculated from the red line in 2A. The grey box indicates the soil temperature relevant to our study in which relative increases in dark respiration of ca. 5-8% are expected.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/5904/Supplemental_Table_S1.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>Mean measurement times since the last watering (h) of the respective samples for the three daily measurements.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-7" xlink:href="https://peerj.com/articles/5904/Supplemental_Table_S2.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-7</object-id>
+<label>Supplemental Information 7</label>
+<caption>
+<title>Cumulative soil moisture obtained by summarizing the moisture values for 0, 1 and 2 days since the last watering of the low frequency treatment.</title>
+<p>Note that on March 21<sup>st</sup>, no moisture measurement was available, therefore, the cumulative moisture is lower than in the other periods.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-8" xlink:href="https://peerj.com/articles/5904/Supplemental_Table_S3.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5904/supp-8</object-id>
+<label>Supplemental Information 8</label>
+<caption>
+<title>Results of the final linear mixed model.</title>
+<p>Effects of the watering treatments and photosynthetically active radiation (PAR) or soil temperature (T<sub>soil</sub>) on net photosynthesis, dark respiration and gross photosynthesis. Significant values are highlighted in bold.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>The authors would like to thank Victoria Ochoa and Beatriz Gozalo for their assistance with the laboratory work and Arantzazu López de Luzuriaga for providing the space for the experiment.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Selina Baldauf</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Mónica Ladrón de Guevara</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Fernando T. Maestre</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Britta Tietjen</xref> conceived and designed the experiments, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availbility</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>Baldauf, Selina (2018): Data and R script: Soil moisture dynamics under two rainfall frequency treatments drive early spring CO<sub>2</sub> gas exchange of lichen-dominated biocrusts in central Spain. figshare. Collection. <uri xlink:href="https://doi.org/10.6084/m9.figshare.c.4077107.v2">https://doi.org/10.6084/m9.figshare.c.4077107.v2</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Agencia Estatal De Meteorología (2012)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<collab>
+<institution>Agencia Estatal De Meteorología</institution>
+</collab>
+</person-group>
+<data-title>Guía resumida del clima en España (1981–2010)</data-title>
+<year iso-8601-date="2012">2012</year>
+<version designator="3.0">Version 3.0</version>
+<uri>http://www.aemet.es/en/conocermas/recursos_en_linea/publicaciones_y_estudios/publicaciones/detalles/guia_resumida_2010</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-11-01">1 November 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Büdel et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Darienko</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Deutschewitz</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Dojani</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Friedl</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Mohr</surname>
+<given-names>KI</given-names>
+</name>
+<name>
+<surname>Salisch</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Reisser</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Southern African biological soil crusts are ubiquitous and highly diverse in drylands, being restricted by rainfall frequency</article-title>
+<source>Microbial Ecology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>57</volume>
+<issue>2</issue>
+<fpage>229</fpage>
+<lpage>247</lpage>
+<pub-id pub-id-type="doi">10.1007/s00248-008-9449-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Belnap, Büdel &amp; Lange (2001)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Lange</surname>
+<given-names>OL</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lange</surname>
+<given-names>OL</given-names>
+</name>
+</person-group>
+<article-title>Biological soil crusts: characteristics and distribution</article-title>
+<source>Biological Soil Crusts: Structure, Function, and Management</source>
+<year iso-8601-date="2001">2001</year>
+<publisher-loc>Berlin, Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>3</fpage>
+<lpage>30</lpage>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Belnap, Phillips &amp; Miller (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>Response of desert biological soil crusts to alterations in precipitation frequency</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="2004">2004</year>
+<volume>141</volume>
+<issue>2</issue>
+<fpage>306</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-003-1438-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Belnap, Weber &amp; Büdel (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Biological soil crusts as an organizing principle in drylands</article-title>
+<source>Biological Soil Crusts: An Organizing Principle in Drylands</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Berlin, Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>3</fpage>
+<lpage>13</lpage>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Cano Sánchez (2006)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Cano Sánchez</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Algunas adaptaciones de plantas al clima pseudoestepario de El Espartal, Parque Regional del Sureste (Madrid)</source>
+<year iso-8601-date="2006">2006</year>
+<publisher-loc>Madrid</publisher-loc>
+<publisher-name>Instituto Nacional de Meteorología</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Castillo-Monroy et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Castillo-Monroy</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Maestre</surname>
+<given-names>FT</given-names>
+</name>
+<name>
+<surname>Rey</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Soliveres</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Garca-Palacios</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Biological soil crust microsites are the main contributor to soil respiration in a semiarid ecosystem</article-title>
+<source>Ecosystems</source>
+<year iso-8601-date="2011">2011</year>
+<volume>14</volume>
+<issue>5</issue>
+<fpage>835</fpage>
+<lpage>847</lpage>
+<pub-id pub-id-type="doi">10.1007/s10021-011-9449-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Coe, Belnap &amp; Sparks (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Coe</surname>
+<given-names>KK</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sparks</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<article-title>Precipitation-driven carbon balance controls survivorship of desert biocrust mosses</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>93</volume>
+<issue>7</issue>
+<fpage>1626</fpage>
+<lpage>1636</lpage>
+<pub-id pub-id-type="doi">10.1890/11-2247.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Darrouzet-Nardi et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Darrouzet-Nardi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Reed</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Grote</surname>
+<given-names>EE</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Observations of net soil exchange of CO<sub>2</sub> in a dryland show experimental warming increases carbon losses in biocrust soils</article-title>
+<source>Biogeochemistry</source>
+<year iso-8601-date="2015">2015</year>
+<volume>126</volume>
+<issue>3</issue>
+<fpage>363</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="doi">10.1007/s10533-015-0163-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>D’Odorico &amp; Porporato (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>D’Odorico</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Porporato</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Preferential states in soil moisture and climate dynamics</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2004">2004</year>
+<volume>101</volume>
+<issue>24</issue>
+<fpage>8848</fpage>
+<lpage>8851</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0401428101</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Farrar (1973)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Farrar</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Ferry</surname>
+<given-names>BW</given-names>
+</name>
+<name>
+<surname>Baddeley</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Hawksworth</surname>
+<given-names>DL</given-names>
+</name>
+</person-group>
+<article-title>Lichen physiology: progress and pitfalls</article-title>
+<source>Air Pollution and Lichens</source>
+<year iso-8601-date="1973">1973</year>
+<publisher-loc>London</publisher-loc>
+<publisher-name>Athlone Press</publisher-name>
+<fpage>238</fpage>
+<lpage>282</lpage>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Ferrenberg, Reed &amp; Belnap (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ferrenberg</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Reed</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Climate change and physical disturbance cause similar community shifts in biological soil crusts</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2015">2015</year>
+<volume>112</volume>
+<issue>39</issue>
+<fpage>12116</fpage>
+<lpage>12121</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1509150112</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Green, Sancho &amp; Pintado (2011)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>Sancho</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Pintado</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Lüttge</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Beck</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Bartels</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Ecophysiology of desiccation/rehydration cycles in mosses and lichens</article-title>
+<source>Plant Desiccation Tolerance</source>
+<year iso-8601-date="2011">2011</year>
+<publisher-loc>Berlin, Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>89</fpage>
+<lpage>120</lpage>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Hao et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Kang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Cui</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Is frequency or amount of precipitation more important in controlling CO<sub>2</sub> fluxes in the 30-year-old fenced and the moderately grazed temperate steppe?</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2013">2013</year>
+<volume>171</volume>
+<fpage>63</fpage>
+<lpage>71</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2013.03.011</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Jeffries, Link &amp; Klopatek (1993)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jeffries</surname>
+<given-names>DL</given-names>
+</name>
+<name>
+<surname>Link</surname>
+<given-names>SO</given-names>
+</name>
+<name>
+<surname>Klopatek</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>CO<sub>2</sub> fluxes of cryptogamic crusts</article-title>
+<source>New Phytologist</source>
+<year iso-8601-date="1993">1993</year>
+<volume>125</volume>
+<issue>1</issue>
+<fpage>163</fpage>
+<lpage>173</lpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Johnson et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Johnson</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Kuske</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>Carney</surname>
+<given-names>TD</given-names>
+</name>
+<name>
+<surname>Housman</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Gallegos-Graves</surname>
+<given-names>LV</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Increased temperature and altered summer precipitation have differential effects on biological soil crusts in a dryland ecosystem</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>18</volume>
+<issue>8</issue>
+<fpage>2583</fpage>
+<lpage>2593</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2012.02709.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Ladrón De Guevara et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ladrón De Guevara</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lázaro</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Quero</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Chamizo</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Domingo</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Easy-to-make portable chamber for in situ CO<sub>2</sub> exchange measurements on biological soil crusts</article-title>
+<source>Photosynthetica</source>
+<year iso-8601-date="2015">2015</year>
+<volume>53</volume>
+<issue>1</issue>
+<fpage>72</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.1007/s11099-015-0086-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Ladrón De Guevara et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ladrón De Guevara</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lázaro</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Quero</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Ochoa</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Gozalo</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Berdugo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Uclés</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Escolar</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Maestre</surname>
+<given-names>FT</given-names>
+</name>
+</person-group>
+<article-title>Simulated climate change reduced the capacity of lichen-dominated biocrusts to act as carbon sinks in two semi-arid Mediterranean ecosystems</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>23</volume>
+<issue>7</issue>
+<fpage>1787</fpage>
+<lpage>1807</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-014-0681-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Lafuente et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lafuente</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Berdugo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ladrón De Guevara</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gozalo</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Maestre</surname>
+<given-names>FT</given-names>
+</name>
+</person-group>
+<article-title>Simulated climate change affects how biocrusts modulate water gains and desiccation dynamics after rainfall events</article-title>
+<source>Ecohydrology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>11</volume>
+<issue>6</issue>
+<elocation-id>e1935</elocation-id>
+<pub-id pub-id-type="doi">10.1002/eco.1935</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Lange (2001)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lange</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lange</surname>
+<given-names>OL</given-names>
+</name>
+</person-group>
+<article-title>Photosynthesis of soil-crust biota as dependent on environmental factors</article-title>
+<source>Biological Soil Crusts: Structure, Function, and Management, Volume 150 of Ecological Studies</source>
+<year iso-8601-date="2001">2001</year>
+<publisher-loc>Berlin, Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>217</fpage>
+<lpage>240</lpage>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Lange et al. (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lange</surname>
+<given-names>OL</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Reichenberger</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Meyer</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Photosynthesis of green algal soil crust lichens from arid lands in southern Utah, USA: role of water content on light and temperature responses of CO<sub>2</sub> exchange</article-title>
+<source>Flora</source>
+<year iso-8601-date="1997">1997</year>
+<volume>192</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.1016/s0367-2530(17)30749-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Lawrence (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lawrence</surname>
+<given-names>MG</given-names>
+</name>
+</person-group>
+<article-title>The relationship between relative humidity and the dewpoint temperature in moist air: a simple conversion and applications</article-title>
+<source>Bulletin of the American Meteorological Society</source>
+<year iso-8601-date="2005">2005</year>
+<volume>86</volume>
+<issue>2</issue>
+<fpage>225</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="doi">10.1175/bams-86-2-225</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Maestre et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Maestre</surname>
+<given-names>FT</given-names>
+</name>
+<name>
+<surname>Bowker</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Cantón</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Castillo-Monroy</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Cortina</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Escolar</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Escudero</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lázaro</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Martnez</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Ecology and functional roles of biological soil crusts in semi-arid ecosystems of Spain</article-title>
+<source>Journal of Arid Environments</source>
+<year iso-8601-date="2011">2011</year>
+<volume>75</volume>
+<issue>12</issue>
+<fpage>1282</fpage>
+<lpage>1291</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jaridenv.2010.12.008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Maestre et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Maestre</surname>
+<given-names>FT</given-names>
+</name>
+<name>
+<surname>Escolar</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>De Guevara</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Quero</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Lázaro</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Delgado-Baquerizo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ochoa</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Berdugo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gozalo</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Gallardo</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Changes in biocrust cover drive carbon cycle responses to climate change in drylands</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>19</volume>
+<issue>12</issue>
+<fpage>3835</fpage>
+<lpage>3847</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.12306</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Monturiol Rodriguez &amp; Alcala Del Olmo (1990)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Monturiol Rodriguez</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Alcala Del Olmo</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<source>Mapa de capacidad potencial de uso agrícola de la comunidad de madrid</source>
+<year iso-8601-date="1990">1990</year>
+<publisher-loc>Madrid</publisher-loc>
+<publisher-name>Instituto de Edafología y Biología Vegetal Consejería de Agricultura y Cooperación</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Ortíz-Bernard et al. (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ortíz-Bernard</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Simón</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Iriarte</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Garca</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Caracterizaciòn de las aguas de escorrentía en un paisaje desarrollado sobre materiales evaporticos</article-title>
+<source>Edafologa</source>
+<year iso-8601-date="1997">1997</year>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>3</fpage>
+<lpage>12</lpage>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Pachauri et al. (2014)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Pachauri</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Allen</surname>
+<given-names>MR</given-names>
+</name>
+<name>
+<surname>Barros</surname>
+<given-names>VR</given-names>
+</name>
+<name>
+<surname>Broome</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cramer</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Christ</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Church</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Clarke</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Dahe</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Dasgupta</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Dubash</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>IPCC</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Pinheiro et al. (2018)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Pinheiro</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bates</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>DebRoy</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sarkar</surname>
+<given-names>D</given-names>
+</name>
+<collab>
+<institution>R Core Team</institution>
+</collab>
+</person-group>
+<data-title>nlme: linear and nonlinear mixed effects models</data-title>
+<year iso-8601-date="2018">2018</year>
+<version designator="3.1">R package version 3.1</version>
+<fpage>137</fpage>
+<uri>https://CRAN.R-project.org/package=nlme</uri>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Pintado et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pintado</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sancho</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>Blanquer</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Lázaro</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Functional ecology of the biological soil crust in semiarid se Spain: sun and shade populations of <italic>Diploschistes diacapsis</italic> (Ach.) Lumbsch</article-title>
+<source>Lichenologist</source>
+<year iso-8601-date="2005">2005</year>
+<volume>37</volume>
+<issue>5</issue>
+<fpage>425</fpage>
+<lpage>432</lpage>
+<pub-id pub-id-type="doi">10.1017/s0024282905015021</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Raggio et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Raggio</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>Sancho</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Pintado</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Colesie</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Metabolic activity duration can be effectively predicted from macroclimatic data for biological soil crust habitats across Europe</article-title>
+<source>Geoderma</source>
+<year iso-8601-date="2017">2017</year>
+<volume>306</volume>
+<fpage>10</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1016/j.geoderma.2017.07.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Raggio et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Raggio</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Pintado</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vivas</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sancho</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Colesie</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Schroeter</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Lázaro</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>TA</given-names>
+</name>
+</person-group>
+<article-title>Continuous chlorophyll fluorescence, gas exchange and microclimate monitoring in a natural soil crust habitat in Tabernas badlands, Almera, Spain: progressing towards a model to understand productivity</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2014">2014</year>
+<volume>23</volume>
+<issue>7</issue>
+<fpage>1809</fpage>
+<lpage>1826</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-014-0692-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>R Core Team (2018)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>R Core Team</institution>
+</collab>
+</person-group>
+<source>R: a language and environment for statistical computing</source>
+<year iso-8601-date="2018">2018</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>The R Foundation for Statistical Computing</publisher-name>
+<uri>http://www.Rproject.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Reed et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reed</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Coe</surname>
+<given-names>KK</given-names>
+</name>
+<name>
+<surname>Sparks</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Housman</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Zelikova</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Changes to dryland rainfall result in rapid moss mortality and altered soil fertility</article-title>
+<source>Nature Climate Change</source>
+<year iso-8601-date="2012">2012</year>
+<volume>2</volume>
+<issue>10</issue>
+<fpage>752</fpage>
+<lpage>755</lpage>
+<pub-id pub-id-type="doi">10.1038/nclimate1596</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Rodriguez-Caballero et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rodriguez-Caballero</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Crutzen</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Andreae</surname>
+<given-names>MO</given-names>
+</name>
+<name>
+<surname>Pöschl</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Dryland photoautotrophic soil surface communities endangered by global change</article-title>
+<source>Nature Geoscience</source>
+<year iso-8601-date="2018">2018</year>
+<volume>11</volume>
+<issue>3</issue>
+<fpage>185</fpage>
+<lpage>189</lpage>
+<pub-id pub-id-type="doi">10.1038/s41561-018-0072-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Sancho et al. (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Sancho</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Colesie</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Raggio</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Carbon budgets of biological soil crusts at micro-, meso-, and global scales</article-title>
+<source>Biological Soil Crusts: An Organizing Principle in Drylands</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Berlin, Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>287</fpage>
+<lpage>304</lpage>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Smith &amp; Griffiths (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Griffiths</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>The occurrence of the chloroplast pyrenoid is correlated with the activity of a CO2-concentrating mechanism and carbon isotope discrimination in lichens and bryophytes</article-title>
+<source>Planta</source>
+<year iso-8601-date="1996">1996</year>
+<volume>198</volume>
+<issue>1</issue>
+<fpage>6</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.1007/bf00197580</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Smith &amp; Griffiths (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Griffiths</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Intraspecific variation in photosynthetic responses of trebouxioid lichens with reference to the activity of a carbon-concentrating mechanism</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="1998">1998</year>
+<volume>113</volume>
+<issue>3</issue>
+<fpage>360</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="doi">10.1007/s004420050387</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Smith &amp; Molesworth (1973)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Molesworth</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Lichen physiology XIII. Effects of rewetting dry lichens</article-title>
+<source>New Phytologist</source>
+<year iso-8601-date="1973">1973</year>
+<volume>72</volume>
+<issue>3</issue>
+<fpage>525</fpage>
+<lpage>533</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-8137.1973.tb04403.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Su, Lin &amp; Zhang (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Su</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>WU</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Characteristics of carbon flux in two biologically crusted soils in the Gurbantunggut Desert, Northwestern China</article-title>
+<source>Catena</source>
+<year iso-8601-date="2012">2012</year>
+<volume>96</volume>
+<fpage>41</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="doi">10.1016/j.catena.2012.04.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Tietjen et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tietjen</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Schlaepfer</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Bradford</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Lauenroth</surname>
+<given-names>WK</given-names>
+</name>
+<name>
+<surname>Hall</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Duniway</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Hochstrasser</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Jia</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Munson</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Pyke</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Climate change-induced vegetation shifts lead to more ecological droughts despite projected rainfall increases in many global temperate drylands</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>23</volume>
+<issue>7</issue>
+<fpage>2743</fpage>
+<lpage>2754</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.13598</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Weber et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Büdel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Steinkamp</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Andreae</surname>
+<given-names>MO</given-names>
+</name>
+<name>
+<surname>Burrows</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pöschl</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Elbert</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Contribution of cryptogamic covers to the global cycles of carbon and nitrogen</article-title>
+<source>Nature Geoscience</source>
+<year iso-8601-date="2012">2012</year>
+<volume>5</volume>
+<issue>7</issue>
+<fpage>459</fpage>
+<lpage>462</lpage>
+<pub-id pub-id-type="doi">10.1038/ngeo1486</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Wertin et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wertin</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Reed</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Elevated CO<sub>2</sub> did not mitigate the effect of a short-term drought on biological soil crusts</article-title>
+<source>Biology and Fertility of Soils</source>
+<year iso-8601-date="2012">2012</year>
+<volume>48</volume>
+<issue>7</issue>
+<fpage>797</fpage>
+<lpage>805</lpage>
+<pub-id pub-id-type="doi">10.1007/s00374-012-0673-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Zelikova et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zelikova</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Housman</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Grote</surname>
+<given-names>EE</given-names>
+</name>
+<name>
+<surname>Neher</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Belnap</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Warming and increased precipitation frequency on the Colorado Plateau: implications for biological soil crusts and soil processes</article-title>
+<source>Plant and Soil</source>
+<year iso-8601-date="2012">2012</year>
+<volume>355</volume>
+<issue>1–2</issue>
+<fpage>265</fpage>
+<lpage>282</lpage>
+<pub-id pub-id-type="doi">10.1007/s11104-011-1097-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Zuur et al. (2009)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Zuur</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Ieno</surname>
+<given-names>EN</given-names>
+</name>
+<name>
+<surname>Walker</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Saveliev</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>GM</given-names>
+</name>
+</person-group>
+<source>Mixed Effects Models and Extensions in Ecology with R</source>
+<year iso-8601-date="2009">2009</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

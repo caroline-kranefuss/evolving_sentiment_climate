@@ -1,0 +1,2777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16629</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16629</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Plant Science</subject>
+<subject>Environmental Impacts</subject>
+<subject>Forestry</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Impact of livestock grazing management on carbon stocks: a case study in sparse elm woodlands of semi-arid lands</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-4374-6334</contrib-id>
+<name name-style="western">
+<surname>Tang</surname>
+<given-names>Yi</given-names>
+</name>
+<email>tangyi@lnu.edu.cn</email>
+</contrib><aff><institution>School of Emergency Management, Institute of Disaster Prevention</institution>, <addr-line>Sanhe, Hebei Province</addr-line>, <country>China</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Fernandez-Marcos</surname>
+<given-names>Maria Luisa</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-12"><day>12</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16629</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-05-11"><day>11</day><month>5</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-16"><day>16</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Tang</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Tang</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16629"/>
+<abstract>
+<p>Livestock grazing is a widespread practice in human activities worldwide. However, the effects of livestock grazing management on vegetation carbon storage have not been thoroughly evaluated. In this study, we used the system dynamic approach to simulate the effects of different livestock grazing management strategies on carbon stock in sparse elm woodlands. The livestock grazing management strategies included rotational grazing every 5 years (RG5), prohibited grazing (PG), seasonal prohibited grazing (SPG), and continuous grazing (CG). We evaluated the carbon sequestration rate in vegetation using logistical models. The results showed that the carbon stock of elm trees in sparse woodlands was 5–15 M g ha<sup>−1</sup>. The values of the carbon sequestration rate were 0.15, 0.13, 0.13, and 0.09 Mg C ha<sup>−1</sup> year<sup>−1</sup> in RG5, PG, CG, and SPG management, respectively. This indicates that rotational grazing management might be the optimal choice for improving vegetation carbon accumulation in sparse woodlands. This study contributes to decision-making on how to choose livestock grazing management to maintain higher carbon storage.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Biomass</kwd>
+<kwd>Elm trees</kwd>
+<kwd>Logistic model</kwd>
+<kwd>System dynamic approach</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>National Natural Science Foundation of China</funding-source>
+<award-id>31870709</award-id>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Scientific Research Funding Project of the Education Department of Liaoning Province</funding-source>
+<award-id>LJKZ0103</award-id>
+</award-group>
+<funding-statement>This work was supported by the National Natural Science Foundation of China (31870709) and the Scientific Research Funding Project of the Education Department of Liaoning Province (LJKZ0103). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Global warming, which is primarily caused by excessive emissions of CO<sub>2</sub>, has attracted worldwide attention (<xref ref-type="bibr" rid="ref-29">Lv et al., 2019</xref>). One important strategy for reducing anthropogenic CO<sub>2</sub> emissions is carbon storage (<xref ref-type="bibr" rid="ref-33">Min et al., 2018</xref>). The terrestrial biosphere, a repository of approximately 2,000 Gt of carbon, plays a crucial role in carbon storage (<xref ref-type="bibr" rid="ref-46">Ruhland &amp; Niere, 2019</xref>). Vegetation, as a major component of the terrestrial biosphere, is responsible for a large proportion of carbon storage (<xref ref-type="bibr" rid="ref-17">Hou et al., 2015</xref>; <xref ref-type="bibr" rid="ref-12">Fu et al., 2019</xref>). Trees, as the largest and longest-lived plants, are particularly important for carbon storage (<xref ref-type="bibr" rid="ref-62">Zellweger et al., 2022</xref>). Vegetation plays a pivotal role in regulating the carbon cycle and storing carbon primarily by absorbing CO<sub>2</sub> through photosynthesis and subsequently releasing some of it back into the atmosphere through respiration (<xref ref-type="bibr" rid="ref-43">Qiu et al., 2020</xref>). Therefore, strategies that enhance vegetation carbon storage can effectively mitigate global warming (<xref ref-type="bibr" rid="ref-19">Iglesias, Barchuk &amp; Grilli, 2012</xref>; <xref ref-type="bibr" rid="ref-41">Piao et al., 2018</xref>).</p>
+<p>Arid and semi-arid areas together constitute almost one-third of the world’s land area (<xref ref-type="bibr" rid="ref-66">Zhang et al., 2018</xref>). In these regions, livestock grazing is a prominent human activity. It is considered as an effective approach for regulating carbon storage in soil and vegetation (<xref ref-type="bibr" rid="ref-6">Chen et al., 2012</xref>; <xref ref-type="bibr" rid="ref-59">Wu et al., 2014</xref>). The effects of grazing exclusion and its duration on carbon storage in soil and vegetation have been studied in previous studies (<xref ref-type="bibr" rid="ref-32">Medina-Roldan, Paz-Ferreiro &amp; Bardgett, 2012</xref>; <xref ref-type="bibr" rid="ref-60">Xiong et al., 2016</xref>; <xref ref-type="bibr" rid="ref-56">Wang et al., 2018</xref>). For example, the effects of fencing on carbon stocks were explored in degraded alpine grasslands (<xref ref-type="bibr" rid="ref-23">Li et al., 2013</xref>), and the duration of exclosure practice was investigated in a degraded grassland in China (<xref ref-type="bibr" rid="ref-26">Li et al., 2012</xref>).</p>
+<p>Grazing management plays a pivotal role in shaping the carbon dynamics of terrestrial ecosystems (<xref ref-type="bibr" rid="ref-42">Polley et al., 2008</xref>). At the most fundamental level, grazing alters plant biomass, which directly impacts the amount of carbon that vegetation can sequester from the atmosphere (<xref ref-type="bibr" rid="ref-11">Farrell et al., 2015</xref>). For instance, moderate grazing can stimulate plant growth due to the removal of old plant material, which can pave the way for new shoots. This often results in a net increase in photosynthetic activity and, thus, increased carbon capture. In contrast, the balance of different plant species, dictated in part by grazing intensity, can also influence the carbon storage potential of an ecosystem, as different plants possess varying carbon sequestration capacities (<xref ref-type="bibr" rid="ref-63">Zhang et al., 2017</xref>). Therefore, understanding the intricacies of grazing management is paramount not just for ecosystem health, but also for optimizing the carbon sequestration potential of landscapes.</p>
+<p>Recently, the difference in the effects of livestock grazing management on ecosystems has attracted much attention (<xref ref-type="bibr" rid="ref-9">Eldridge &amp; Delgado-Baquerizo, 2017</xref>). Studies have reported on the effects of seasonal prohibited grazing and grazing intensities on soil organic carbon stock in Mongolian grasslands (<xref ref-type="bibr" rid="ref-16">He et al., 2011</xref>; <xref ref-type="bibr" rid="ref-5">Chang et al., 2015</xref>). Other management practices, including grazing period, number of burns, and slashes, have been considered in a dry tropical region of western Mexico (<xref ref-type="bibr" rid="ref-54">Trilleras et al., 2015</xref>). Although the effects of several grazing management practices have been reported separately in case studies, the role of grazing management in carbon stock, especially in vegetation, has not been fully compared.</p>
+<p>Given the fragmented nature of current research on grazing management’s effect on carbon stock, there’s a pressing need for a more comprehensive approach to these investigations. The model simulation approach presents a robust avenue to address this gap. Through modeling, we can holistically evaluate the impacts of varied livestock grazing management practices against a unified benchmark, enabling more thorough comparisons. Firstly, models in plant population and vegetation dynamics have been widely reported, providing a framework for models (<xref ref-type="bibr" rid="ref-14">Griffith &amp; Forseth, 2005</xref>; <xref ref-type="bibr" rid="ref-31">Marano &amp; Collalti, 2020</xref>). Secondly, the quantitative relationship between carbon stock and plant biomass has been explored (<xref ref-type="bibr" rid="ref-1">Bayen et al., 2020</xref>; <xref ref-type="bibr" rid="ref-4">Brown et al., 2020</xref>). Lastly, experimental studies have provided some evidence to verify the simulating models (<xref ref-type="bibr" rid="ref-22">Li, 2006</xref>; <xref ref-type="bibr" rid="ref-67">Zhao et al., 2016</xref>).</p>
+<p>Understanding the impacts of grazing management on vegetation carbon storage is not only of academic interest but also holds profound implications for policy formulation and the evaluation of ecosystem services. Firstly, optimizing carbon storage in ecosystems serves as a countermeasure to rising atmospheric CO<sub>2</sub> concentrations, potentially mitigating the impacts of global warming (<xref ref-type="bibr" rid="ref-40">Piao et al., 2009</xref>). Moreover, the retained carbon stock is intrinsically linked to the broader spectrum of ecosystem services, underpinning their value and functionality (<xref ref-type="bibr" rid="ref-61">Yang &amp; Tang, 2019</xref>). As grazing practices directly modulate the carbon balance of an ecosystem, they become pivotal tools in enhancing ecological services.</p>
+<p>Carbon sequestration rates serve as a crucial aspect in understanding the role of grazing management in determining carbon fixation within vegetation. The carbon sequestration rate is an insightful metric to represent the annual carbon accumulation in vegetation (<xref ref-type="bibr" rid="ref-57">Wang, Wang &amp; Niu, 2014</xref>; <xref ref-type="bibr" rid="ref-15">He et al., 2017</xref>). Calculating vegetation carbon sequestration rates is conventionally achieved by examining the average change in carbon stock over a designated time span (<xref ref-type="bibr" rid="ref-25">Li et al., 2023</xref>). In recent studies, it has been proposed that the relationship between vegetation carbon stocks and carbon sequestration rates can be effectively described using logistic functions (<xref ref-type="bibr" rid="ref-8">Dong, Bettinger &amp; Liu, 2021</xref>). Utilizing logistic functions to determine carbon sequestration rates proves advantageous as it encompasses non-linear growth patterns, offering a comprehensive perspective on carbon accumulation dynamics over time.</p>
+<p>The primary objective of this study was to assess the impacts of livestock grazing management on vegetation in semi-arid regions from two perspectives: carbon stock and carbon sequestration rates. Our approach involved establishing a system dynamics model with multiple life-history stages to simulate the effects of grazing managements on plant biomass. By understanding the relationship between biomass and carbon stock, we could determine the carbon stock. Subsequently, by employing a logistic model linking carbon stock to carbon sequestration rates, we estimated the latter. This research provides a holistic methodology to comprehend the multifaceted repercussions of grazing management on carbon dynamics, thereby offering valuable insights for sustainable land-use strategies in semi-arid environments.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>This study was conducted in the Wulanaodu region (42° 29′–43° 06′N, 119° 39′–120° 02′E, 480 m a.s.l.), located in the Horqin Sandy Land, one of the largest sand lands in China (<xref ref-type="bibr" rid="ref-50">Tang, Jiang &amp; Lv, 2014</xref>). This region is a typical landscape composed of active sand dunes, stabilized sand dunes, and inter-dune lowlands. The region has a semi-arid climate, with a mean temperature of 23 °C in July and –14 °C in January (<xref ref-type="bibr" rid="ref-64">Zhang et al., 2016</xref>). Sparse elm woodlands are the original vegetation community in this region, and <italic>Ulmus pumila</italic> is the dominant tree species in these woodlands (<xref ref-type="bibr" rid="ref-48">Tang, 2020</xref>). Besides <italic>U. pumila</italic> trees, there are also sparsely distributed shrubs and herbs, whose biomass is far less than <italic>U. pumila</italic> trees (<xref ref-type="bibr" rid="ref-67">Zhao et al., 2016</xref>).</p>
+<sec>
+<title>System dynamic model</title>
+<p>A system dynamic model was constructed, taking into account the five stages of the <italic>U. pumila</italic> life cycle, <italic>i.e</italic>., seed (i = 1), seedling, juvenile, mature, and over-mature (i = 5) tree stages. In this model, the seed stage is linked to the mature and over-mature stages, as seeds are produced in these two stages. The seeds become seedlings at a specific germination rate. <italic>U. pumila</italic> trees die at a stage-specific rate, except for the seed stage. At the over-mature stage, no transition is made to the next stage; as a result, the over-mature stage is the last in the <italic>U. pumila</italic> life cycle. The equations depicting the elm life cycle are shown below (<xref ref-type="bibr" rid="ref-49">Tang &amp; Busso, 2018</xref>).</p>
+<p><disp-formula id="eqn-1">
+<label>(1)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[$${{d{N_i}} \over {dt}} = \sum\limits_{i = 4}^5 {{B_i}}  \cdot {N_i} - T{P_i}\; \cdots  \cdots  \cdots  \cdots  \cdots \; \cdots  \cdots  \cdots  \cdots  \cdots \;\;for\;seed\;stage$$]]></tex-math><mml:math id="mml-eqn-1" display="block"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>=</mml:mo><mml:munderover><mml:mrow><mml:mo movablelimits="false">∑</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>4</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:munderover><mml:mo>⁡</mml:mo><mml:mrow><mml:msub><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>⋅</mml:mo><mml:mrow><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>−</mml:mo><mml:mi>T</mml:mi><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mrow/><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mrow/><mml:mi>f</mml:mi><mml:mi>o</mml:mi><mml:mi>r</mml:mi><mml:mtext> </mml:mtext><mml:mi>s</mml:mi><mml:mi>e</mml:mi><mml:mi>e</mml:mi><mml:mi>d</mml:mi><mml:mtext> </mml:mtext><mml:mi>s</mml:mi><mml:mi>t</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>e</mml:mi></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p><disp-formula id="eqn-2">
+<label>(2)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-2.png"/><tex-math id="tex-eqn-2"><![CDATA[$${{d{N_i}} \over {dt}}\, = \,\left\{ {\matrix{
+   {T{P_{i - 1}} \cdot {N_{i - 1}} - \left( {{D_i}\, + \,T{P_i}} \right)\, \cdot {N_i}} & {,{N_i}\, < {M_i}}  \cr 
+   0 & {,{N_i} \ge M}  \cr 
+
+ } } \right\},\,\,i = 2,\, \cdots \,,\,n - 1$$]]></tex-math><mml:math id="mml-eqn-2" display="block"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mtext> </mml:mtext><mml:mo>=</mml:mo><mml:mtext> </mml:mtext><mml:mrow><mml:mo>{</mml:mo> <mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mi>T</mml:mi><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>⋅</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>D</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mtext> </mml:mtext><mml:mo>+</mml:mo><mml:mtext> </mml:mtext><mml:mi>T</mml:mi><mml:msub><mml:mi>P</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mtext> </mml:mtext><mml:mo>⋅</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mo>,</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mtext> </mml:mtext><mml:mo>&lt;</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mrow><mml:mo>,</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>≥</mml:mo><mml:mi>M</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow> <mml:mo>}</mml:mo></mml:mrow><mml:mo>,</mml:mo><mml:mtext>  </mml:mtext><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:mo>⋯</mml:mo><mml:mtext> </mml:mtext><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:mi>n</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math>
+</alternatives></disp-formula></p>
+<p><disp-formula id="eqn-3">
+<label>(3)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-3.png"/><tex-math id="tex-eqn-3"><![CDATA[$$\displaystyle{{d{N_i}} \over {dt}} = \left\{ {\matrix{ {T{P_{i - 1}}\cdot {N_{i - 1}} - {D_i}\cdot {N_i},{\rm \; \; }{N_i} \lt {M_i}\; \; } \cr {\; \; \; \; \; \; \; \; \; \; \; \;  \; \; \; 0\; \;\;\; \; \; \; \; \; \;\; \; \; \; \; ,{N_i} \ge {M_i}\; } \cr } } \right\} \cdots \cdots \cdots \cdots i = n{\rm}$$]]></tex-math><mml:math id="mml-eqn-3" display="block"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mtext> </mml:mtext><mml:mo>=</mml:mo><mml:mtext> </mml:mtext><mml:mrow><mml:mo>{</mml:mo> <mml:mrow><mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mi>T</mml:mi><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>⋅</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>⋅</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd><mml:mtd><mml:mrow><mml:mo>,</mml:mo><mml:mtext>  </mml:mtext><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mtext> </mml:mtext><mml:mo>&lt;</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>M</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mn>0</mml:mn></mml:mtd><mml:mtd><mml:mrow><mml:mo>,</mml:mo><mml:msub><mml:mi>N</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>≥</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow> <mml:mo>}</mml:mo></mml:mrow><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mi>n</mml:mi></mml:mrow></mml:math>
+</alternatives></disp-formula></p>
+<p><disp-formula id="eqn-4">
+<label>(4)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-4.png"/><tex-math id="tex-eqn-4"><![CDATA[$${M_i} = {{{P_i}} \over {W{C_i}}}, \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots  \cdots i = 2, \cdots ,n$$]]></tex-math><mml:math id="mml-eqn-4" display="block"><mml:mrow><mml:msub><mml:mi>M</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mrow><mml:mrow><mml:mi>W</mml:mi><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mo>,</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mo>⋯</mml:mo><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:mo>,</mml:mo><mml:mo>⋯</mml:mo><mml:mo>,</mml:mo><mml:mi>n</mml:mi><mml:mrow/></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p>Here, N represents the number of individuals at each of the five stages, while B and D represent birth and death rates, respectively. TP stands for the transition probability (<italic>i.e</italic>., the probability associated with an elm population at one age-stage shifting to another age-stage). WC represents the water consumption per individual at each of the developmental stages, except for the seed stage. P represents precipitation, which follows a normal distribution, whose parameters, <italic>i.e</italic>., mean and variance, were calculated according to long-term collected data. Besides the parameters mentioned above, other parameters include death rate, seed germination rate, and the period of each morphological stage. The values of all parameters used in the system dynamic model are shown in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.16629/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Values of parameters used in the system dynamic model.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Parameters</th>
+<th>Seed</th>
+<th>Seedling</th>
+<th>Juvenile tree</th>
+<th>Mature tree</th>
+<th>Over-mature tree</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Seed production (seeds·m<sup>−2</sup>)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>2,456</td>
+<td>7,744</td>
+</tr>
+<tr>
+<td>Death rate (%)</td>
+<td>–</td>
+<td>0.268</td>
+<td>0.133</td>
+<td>0.346</td>
+<td>0.941</td>
+</tr>
+<tr>
+<td>Expectation in precipitation (mm)</td>
+<td>352</td>
+<td>352</td>
+<td>352</td>
+<td>352</td>
+<td>352</td>
+</tr>
+<tr>
+<td>Variance in precipitation</td>
+<td>8,627</td>
+<td>8,627</td>
+<td>8,627</td>
+<td>8,627</td>
+<td>8,627</td>
+</tr>
+<tr>
+<td>Seed germinatied rate (%)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Period of stages (years)</td>
+<td>1</td>
+<td>5</td>
+<td>15</td>
+<td>30</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Transition probability (%)</td>
+<td>–</td>
+<td>20</td>
+<td>6.67</td>
+<td>3.33</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Water consumption (L/individuals year)</td>
+<td>–</td>
+<td>21.6</td>
+<td>1,680.7</td>
+<td>1,977</td>
+<td>1,977</td>
+</tr>
+<tr>
+<td>RG5</td>
+<td>1.51</td>
+<td>0.56</td>
+<td>0.89</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>CG</td>
+<td>1.51</td>
+<td>0.56</td>
+<td>0.89</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>SPG</td>
+<td>–</td>
+<td>0.56</td>
+<td>0.89</td>
+<td>–</td>
+<td>–</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+</sec>
+<sec>
+<title>Carbon stock</title>
+<p>The carbon stock of elm trees was calculated using <xref ref-type="disp-formula" rid="eqn-5">Eq. (5)</xref>, where the C content of elm trees was calculated by considering different parts of the elm trees, including leaves, twigs, stems, and roots.</p>
+<p><disp-formula id="eqn-5">
+<label>(5)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-5.png"/><tex-math id="tex-eqn-5"><![CDATA[$$Total{\rm \; }C = \mathop \sum \nolimits_{i = 1}^4 C{\rm \; }concentratio{n_i} \times Biomas{s_i}$$]]></tex-math><mml:math id="mml-eqn-5" display="block"><mml:mi>T</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi><mml:mi>a</mml:mi><mml:mi>l</mml:mi><mml:mrow/><mml:mi>C</mml:mi><mml:mo>=</mml:mo><mml:munderover><mml:mrow><mml:mo movablelimits="false">∑</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>4</mml:mn></mml:munderover><mml:mo>⁡</mml:mo><mml:mi>C</mml:mi><mml:mrow/><mml:mi>c</mml:mi><mml:mi>o</mml:mi><mml:mi>n</mml:mi><mml:mi>c</mml:mi><mml:mi>e</mml:mi><mml:mi>n</mml:mi><mml:mi>t</mml:mi><mml:mi>r</mml:mi><mml:mi>a</mml:mi><mml:mi>t</mml:mi><mml:mi>i</mml:mi><mml:mi>o</mml:mi><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mi>B</mml:mi><mml:mi>i</mml:mi><mml:mi>o</mml:mi><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>s</mml:mi><mml:mrow><mml:msub><mml:mi>s</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></disp-formula></p>
+<p>In <xref ref-type="disp-formula" rid="eqn-5">Eq. (5)</xref>, i ranges from 1 to 4, representing the leaf, twig, stem, and root separately. The C concention of each part of the elm trees was specifically measured in a previous study (<xref ref-type="bibr" rid="ref-67">Zhao et al., 2016</xref>, <xref ref-type="table" rid="table-2">Table 2A</xref>). The biomass in each part was calculated using allometric equations, the formation of which follows <xref ref-type="disp-formula" rid="eqn-6">Eq. (6)</xref>. Species-specific allometric equations based on tree diameter at breast height (DBH) were applied to estimate the biomass.</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.16629/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>The values of parameters describing the allometric growth and carbon contents of leaf, twig, stem, and root in elm trees.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Parameters</th>
+<th>Leaf</th>
+<th>Swig</th>
+<th>Stem</th>
+<th>Root</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a</td>
+<td>0.033</td>
+<td>0.0303</td>
+<td>0.0146</td>
+<td>0.0146</td>
+</tr>
+<tr>
+<td>b</td>
+<td>1.7241</td>
+<td>2.3445</td>
+<td>2.5837</td>
+<td>2.893</td>
+</tr>
+<tr>
+<td>C content (g Kg<sup>−1</sup>)</td>
+<td>406</td>
+<td>444</td>
+<td>446</td>
+<td>424</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p><disp-formula id="eqn-6">
+<label>(6)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-6.png"/><tex-math id="tex-eqn-6"><![CDATA[$$Biomas{s_i} = {a_i} \times DB{H^{{b_i}}}$$]]></tex-math><mml:math id="mml-eqn-6" display="block"><mml:mi>B</mml:mi><mml:mi>i</mml:mi><mml:mi>o</mml:mi><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>s</mml:mi><mml:mrow><mml:msub><mml:mi>s</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:msub><mml:mi>a</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mi>D</mml:mi><mml:mi>B</mml:mi><mml:mrow><mml:msup><mml:mi>H</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mi>b</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:math>
+</alternatives></disp-formula>where a<sub>i</sub> and b<sub>i</sub> are special parameters measured in a previous study (<xref ref-type="bibr" rid="ref-22">Li, 2006</xref>, <xref ref-type="table" rid="table-2">Table 2</xref>), i from 1 to 4 representing leaf, twig, stem, and root separately. DBH was estimated using <xref ref-type="disp-formula" rid="eqn-7">Eq. (7)</xref>, with the age of the elm tree serving as the independent variable.</p>
+<p><disp-formula id="eqn-7">
+<label>(7)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-7.png"/><tex-math id="tex-eqn-7"><![CDATA[$$DBH = A + B \times age$$]]></tex-math><mml:math id="mml-eqn-7" display="block"><mml:mi>D</mml:mi><mml:mi>B</mml:mi><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mi>A</mml:mi><mml:mo>+</mml:mo><mml:mi>B</mml:mi><mml:mo>×</mml:mo><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>e</mml:mi></mml:math>
+</alternatives></disp-formula>where A and B are estimated using data from a previous study and their values here are −0.1698 and 0.3839 (<xref ref-type="bibr" rid="ref-36">Niu, 2008</xref>).</p>
+</sec>
+<sec>
+<title>Carbon sequestration rate</title>
+<p>The vegetation carbon sequestration rate (Rseq) was obtained with a logistic model, where the carbon sequestration rate serves as a parameter and is estimated using <xref ref-type="disp-formula" rid="eqn-8">Eq. (8)</xref>.</p>
+<p><disp-formula id="eqn-8">
+<label>(8)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/eqn-8.png"/><tex-math id="tex-eqn-8"><![CDATA[$$Carbon{\rm \; }stock = K \times {N_0} \times \displaystyle{{{e^{{{\rm R}_{{\rm seq}}} \times age}}} \over {K + {N_0} \times \left( {{e^{{{\rm R}_{{\rm seq}}} \times age}} - 1} \right)}}$$]]></tex-math><mml:math id="mml-eqn-8" display="block"><mml:mi>C</mml:mi><mml:mi>a</mml:mi><mml:mi>r</mml:mi><mml:mi>b</mml:mi><mml:mi>o</mml:mi><mml:mi>n</mml:mi><mml:mrow/><mml:mi>s</mml:mi><mml:mi>t</mml:mi><mml:mi>o</mml:mi><mml:mi>c</mml:mi><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mi>K</mml:mi><mml:mo>×</mml:mo><mml:mrow><mml:msub><mml:mi>N</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mstyle scriptlevel="0" displaystyle="true"><mml:mrow><mml:mfrac><mml:mrow><mml:mrow><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">R</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">q</mml:mi></mml:mrow></mml:mrow></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:mrow><mml:mrow><mml:mi>K</mml:mi><mml:mo>+</mml:mo><mml:mrow><mml:msub><mml:mi>N</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">R</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">q</mml:mi></mml:mrow></mml:mrow></mml:msub></mml:mrow><mml:mo>×</mml:mo><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p>In <xref ref-type="disp-formula" rid="eqn-8">Eq. (8)</xref>, carbon stock refers to the amount of carbon stored in the vegetation at a given age. K is the carrying capacity, representing the maximum potential carbon stock achievable by the vegetation in the given conditions. N<sub>0</sub> is the initial carbon stock at age 0, representing the amount of carbon present in the vegetation at the time of planting or the start of observation. R<sub>seq</sub> is the C sequestration rate, which governs the rate at which the vegetation assimilates atmospheric carbon. Here K, N<sub>0</sub> and R<sub>seq</sub> are parameters needed to estimate.</p>
+</sec>
+<sec>
+<title>Scenarios analysis</title>
+<p>We evaluated the effects of grazing management on carbon stock in sparse elm woodlands. In this study, we considered four scenarios of grazing management, <italic>i.e</italic>., rotational grazing every 5 years (RG5), prohibited grazing (PG), seasonal prohibited grazing (prohibition in periods from March to July, SPG), and continuous grazing (CG). Continuous grazing increases elm seed production and decreases elm seedling densities in sparse elm woodlands in a previous study (<xref ref-type="bibr" rid="ref-50">Tang, Jiang &amp; Lv, 2014</xref>). Seasonal prohibited grazing influences elm seedlings but does not influence seed production, as seed dispersal mainly occurs in May (<xref ref-type="bibr" rid="ref-28">Liu &amp; Tang, 2018</xref>). Meanwhile, rotational grazing every 5 years works as continuous grazing once every 5 years. The specific values are shown in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+</sec>
+<sec>
+<title>Data analysis</title>
+<p>The system dynamic model was formulated and simulated using professional SD software (Vensim PLE). A unit-consistency test, which checks for agreement among units, was used to validate this model. It was automatically completed in the Vensim package (<xref ref-type="bibr" rid="ref-51">Tang &amp; Li, 2018</xref>).</p>
+<p>The models in <xref ref-type="disp-formula" rid="eqn-7">Eqs. (7)</xref> and <xref ref-type="disp-formula" rid="eqn-8">(8)</xref> were estimated using the R programming language (<xref ref-type="bibr" rid="ref-45">R Core Team, 2022</xref>). The best-fit model derived from <xref ref-type="disp-formula" rid="eqn-7">Eq. (7)</xref> is <inline-formula id="ieqn-1">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16629/ieqn-1.png"/><tex-math id="tex-ieqn-1"><![CDATA[$DBH = - 0.169 + 0.383 \times age$]]></tex-math><mml:math id="mml-ieqn-1"><mml:mi>D</mml:mi><mml:mi>B</mml:mi><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mn>0.169</mml:mn><mml:mo>+</mml:mo><mml:mn>0.383</mml:mn><mml:mo>×</mml:mo><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>e</mml:mi></mml:math>
+</alternatives></inline-formula> (F-statistics = 431.8, adjusted R2 = 0.837, <italic>P</italic> &lt; 0.05). The parameters were significant at a critical value (<italic>P</italic> &lt; 0.05). The standard error (SE) of the estimated parameters and residual standard error (RSE) of the logistical model were reported.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Effects of grazing management on carbon stock</title>
+<p>In the first 10 years, the carbon stock of elm trees was almost the same under all four management techniques. From the 10th year to a 100 years, the carbon stock of elm trees in RG5 and PG management was higher than in CG and SPG management. From the 20th year to a 100 years, the carbon stock of elm trees under CG management was more substantial than under SPG management.</p>
+<p>When comparing RG5 to PG management, the carbon accumulation in the PG treatment surpassed that of the RG-5 between the 70th and 80th years, but was diminished between the 90th and 100th years. In contrast, when comparing RG5 with CG management, carbon sequestration in CG was inferior to that in RG-5.</p>
+<p>From the beginning to the 80th year, the ability to store carbon increased under RG5, PG, CG, and SPG management. After the peak, the ability to maintain carbon stock decreased under RG5, PG, and CG management, while the ability to maintain carbon stock remained steady under SPG management (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16629/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Carbon stock in <italic>U. pumila</italic> of sparse woodlands under livestock grazing management.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/fig-1.png"/>
+</fig>
+<p>The carbon stock of elm trees remained below 5 M g ha<sup>−1</sup> throughout the simulation period under SPG management. In contrast, the carbon stock of elm trees exceeded 5 M g ha<sup>−1</sup> almost from the 15th year and onwards under CG management. Additionally, the carbon stock of elm trees exceeded 5 M g ha<sup>−1</sup> after the 20th year under RG5 and PG management. Furthermore, the carbon stock of elm trees under RG5 and PG management ranged between 10 and 15 M g haz<sup>−1</sup> after the 40th year (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+</sec>
+<sec>
+<title>Effects of grazing management on carbon sequestration rate</title>
+<p>The carbon sequestration rate was significantly related to the carbon stock in elm trees under all four management techniques. The estimated values of the carbon sequestration rate in elm trees were 0.15, 0.13, 0.13, and 0.09 Mg C ha<sup>−1</sup> year<sup>−1</sup> in RG5, PG, CG, and SPG management, respectively. Additionally, under all four management techniques, the K values were also found to be significantly related to the carbon stock in elm trees (<xref ref-type="table" rid="table-3">Table 3</xref>, <xref ref-type="fig" rid="fig-2">Fig. 2</xref>).</p>
+<table-wrap id="table-3">
+<object-id pub-id-type="doi">10.7717/peerj.16629/table-3</object-id>
+<label>Table 3</label>
+<caption>
+<title>The values of estimated parameters in logistical models of carbon stock.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/table-3.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th rowspan="2">Scenarios</th>
+<th colspan="2">K</th>
+<th colspan="2">N<sub>0</sub></th>
+<th colspan="2">R<sub>seq</sub></th>
+<th rowspan="2">RSE</th>
+</tr>
+<tr>
+<th>Mean</th>
+<th>SE</th>
+<th>Mean</th>
+<th>SE</th>
+<th>Mean</th>
+<th>SE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RG5</td>
+<td align="char" char=".">10.5</td>
+<td align="char" char=".">0.39</td>
+<td align="char" char=".">0.1</td>
+<td align="char" char=".">0.11</td>
+<td align="char" char=".">0.15</td>
+<td align="char" char=".">0.03</td>
+<td align="char" char=".">2.635</td>
+</tr>
+<tr>
+<td>PG</td>
+<td align="char" char=".">10.43</td>
+<td align="char" char=".">0.45</td>
+<td align="char" char=".">0.24</td>
+<td align="char" char=".">0.21</td>
+<td align="char" char=".">0.13</td>
+<td align="char" char=".">0.03</td>
+<td align="char" char=".">2.914</td>
+</tr>
+<tr>
+<td>SPG</td>
+<td align="char" char=".">4.9</td>
+<td align="char" char=".">0.15</td>
+<td align="char" char=".">0.02</td>
+<td align="char" char=".">0.01</td>
+<td align="char" char=".">0.09</td>
+<td align="char" char=".">0.01</td>
+<td align="char" char=".">0.3071</td>
+</tr>
+<tr>
+<td>CG</td>
+<td align="char" char=".">8.65</td>
+<td align="char" char=".">0.32</td>
+<td align="char" char=".">0.02</td>
+<td align="char" char=".">0.02</td>
+<td align="char" char=".">0.13</td>
+<td align="char" char=".">0.02</td>
+<td align="char" char=".">1.648</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap><fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16629/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Simulation results of carbon stock were fitted with logistical models.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16629/fig-2.png"/>
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<sec>
+<title>Carbon stock in elm trees</title>
+<p>In RG5 and PG management, the carbon stock in elm trees is faster and in greater quantities than in CG and SPG management. This suggests that RG5 and PG are the preferred choices for maintaining steady carbon storage in elm trees. This result is consistent with a previous study, where elm seedlings and sapling densities were found to be significantly higher in fenced plots than in grazed plots (<xref ref-type="bibr" rid="ref-50">Tang, Jiang &amp; Lv, 2014</xref>). This is likely due to grazing threats to the growth of seedlings and saplings (<xref ref-type="bibr" rid="ref-2">Bergmeier, Petermann &amp; Schroeder, 2010</xref>). Similar results were also found in a similar landscape, the tropical savanna, where long-term grazing was found to have reduced vegetation biomass (<xref ref-type="bibr" rid="ref-35">Ngatia et al., 2015</xref>).</p>
+<p>According to this study, the carbon stock of elm trees is 10–15 M g ha<sup>−1</sup> in mature-stage sparse woodlands under prohibited grazing management. This result is consistent with an experimental study in sparse woodlands, where the carbon stock of elm trees was found to be 15.57 M g ha<sup>−1</sup> in fenced plots (<xref ref-type="bibr" rid="ref-67">Zhao et al., 2016</xref>). These consistent results suggest that the system dynamic approach is effective in simulating changes in the carbon stock of plant populations. In previous studies, the system dynamic approach has been used to simulate various aspects of plant populations, including the carbon cycle, hydrological processes, and population dynamics (<xref ref-type="bibr" rid="ref-34">Mukherjee, Ray &amp; Ghosh, 2013</xref>; <xref ref-type="bibr" rid="ref-37">Ouyang et al., 2016</xref>; <xref ref-type="bibr" rid="ref-52">Tang, Liu &amp; Wu, 2016</xref>). This study expands the application of the system dynamic approach by incorporating it in the calculation of vegetation carbon sequestration and evaluating the effects of specific factors.</p>
+<p>The results reveal a notably low carbon sequestration associated with the SPG treatment (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). A plausible rationale for this observation hinges on the period spanning March to July, which is likely the predominant growth phase for regional vegetation. By prohibiting grazing during these crucial months, an excessive proliferation of herbs may ensue, which could subsequently impede the germination and establishment of elm tree seeds (<xref ref-type="bibr" rid="ref-50">Tang, Jiang &amp; Lv, 2014</xref>). Such a reduction in the available seed source inevitably results in a decline in the population of elm trees. This chain reaction, commencing from the lowered elm population, can be linked to the observed decrement in vegetation carbon sequestration within the SPG treatment.</p>
+<p>Meanwhile, the carbon accumulation observed in the PG treatment appears to surpass that of the RG-5 treatment between 70 and 80 years. This can potentially be attributed to the enclosure practices, which tend to bolster biomass accumulation, yielding a slight elevation in carbon sequestration compared to RG5 within that timeframe. Yet, as the duration of enclosure prolongs, an elevated population density ensues, inciting heightened interspecific competition. This amplified competition paves the way for increased individual mortality, leading to a reduction in the aggregate population biomass, and, in turn, a subsequent decline in carbon accumulation.</p>
+<p>Grazing management can influence soil carbon stock by regulating soil organic carbon and soil microbial carbon (<xref ref-type="bibr" rid="ref-23">Li et al., 2013</xref>). The effects of grazing exclusion on soil carbon stock are more commonly reported compared to other grazing management techniques (<xref ref-type="bibr" rid="ref-26">Li et al., 2012</xref>). A possible reason for this is that grazing and grazing exclusion are the most commonly used grazing management techniques in grasslands and degraded lands, and it is relatively easier to establish designed experimental plots for these methods. Rotational grazing management has great potential for maintaining vegetation carbon stock, and its effects on soil carbon stock should be fully considered.</p>
+</sec>
+<sec>
+<title>Carbon sequestration rate under grazing managements</title>
+<p>Elm trees exhibited varying carbon sequestration rates under different management practices: 0.15, 0.13, 0.13 and 0.09 Mg C ha<sup>−1</sup> year<sup>−1</sup> in RG5, PG, CG, and SPG, respectively. This clearly highlights RG5 management as the most efficient in terms of carbon sequestration, while SPG management lagged behind the others. Although both CG and PG management exhibited the same carbon sequestration rate, the carrying capacity (K value) was notably higher under PG management. This could account for the observed higher carbon stock in PG as compared to CG throughout the duration of the study. This data suggests a hierarchical efficiency in carbon sequestration by elm trees under different management practices: RG5 being the most efficient, followed by PG, CG, and then SPG.</p>
+<p>Management practices can significantly shape vegetation carbon sequestration rates by influencing the structural and functional attributes of plant communities (<xref ref-type="bibr" rid="ref-58">Whittinghill et al., 2014</xref>). For instance, practices that promote plant diversity and maintain a dense vegetative cover tend to enhance the overall photosynthetic capacity of an ecosystem (<xref ref-type="bibr" rid="ref-44">Quijas, Schmid &amp; Balvanera, 2010</xref>). A diverse plant community, with species that have varied photosynthetic rates and growth patterns, can capture carbon more efficiently throughout the year (<xref ref-type="bibr" rid="ref-65">Zhang, Wu &amp; Tang, 2016</xref>). Moreover, management interventions that optimize nutrient availability, such as controlled grazing or periodic soil amendments, can boost plant growth and thereby enhance their carbon intake (<xref ref-type="bibr" rid="ref-30">Ma et al., 2019</xref>).</p>
+<p>Conversely, mismanaged practices can have deleterious effects on vegetation carbon sequestration. Overgrazing, for example, can result in the dominance of less productive plant species, diminishing the overall carbon capture capacity of the vegetation (<xref ref-type="bibr" rid="ref-47">Senbeta et al., 2013</xref>). Practices that lead to soil compaction or erosion can hinder root growth, thereby reducing the plant’s ability to access water and nutrients essential for photosynthesis (<xref ref-type="bibr" rid="ref-21">Kim et al., 2010</xref>). Additionally, the loss or suppression of certain plant species due to specific management choices can disrupt the synchrony between plant phenology and climatic patterns, potentially leading to decreased photosynthetic periods (<xref ref-type="bibr" rid="ref-38">Pathare et al., 2017</xref>). Hence, tailoring management practices to the ecological needs of the vegetation is vital to maximize carbon sequestration rates.</p>
+<p>Our findings, indicating carbon sequestration rates for elm trees ranging between 0.09 and 0.15 under various management measures, align with those reported by <xref ref-type="bibr" rid="ref-3">Bhatta, Sharma &amp; Balami (2018)</xref> in Central Nepal. <xref ref-type="bibr" rid="ref-3">Bhatta, Sharma &amp; Balami (2018)</xref> documented a carbon sequestration rate of 0.14 Mg C ha<sup>−1</sup> year<sup>−1</sup> for trees within the Ulmaceae family. This further attests to the appropriateness of employing logistic models to capture the accumulation dynamics of biomass in vegetation. It is worth noting, however, that the carbon sequestration rates derived from our logistic models represent an average value across the entire life cycle of the vegetation and do not imply that the annual carbon sequestration rates for the plants consistently maintain this state.</p>
+</sec>
+<sec>
+<title>Other factors influencing carbon stock in semi-arid lands</title>
+<p>In addition to grazing management, the duration of grazing and grazing exclusion management can also influence carbon storage in soil and vegetation (<xref ref-type="bibr" rid="ref-13">Gebregergs et al., 2019</xref>). For example, ecosystem carbon storage in an alpine meadow steppe showed a hump-shaped pattern in response to the duration of grazing exclusion with a 6-year threshold (<xref ref-type="bibr" rid="ref-24">Li et al., 2018</xref>). In this study, the results provide evidence that the duration of grazing management influences vegetation carbon storage in sparse woodlands. Moreover, longer periods of grazing exclusion management do not necessarily lead to more vegetation carbon storage in over-mature trees. While our study emphasizes the importance of considering the duration of grazing management in decision-making processes to enhance carbon sequestration, it is pivotal to also scrutinize the specific strategies implemented during grazing. This encompasses analyzing the length and timing of rotations, as the efficacy of grazing management on carbon storage in sparse woodlands might be intricately linked to these variables. Moreover, integrating auxiliary strategies such as selective cutting, especially when trees exhibit diminished carbon storage capabilities, could serve as a pragmatic approach to sustain and potentially augment carbon sequestration in these ecosystems (<xref ref-type="bibr" rid="ref-18">Hulvey et al., 2013</xref>). Thus, a holistic approach, examining both the temporal and strategic facets of grazing management alongside supplementary woodland management practices like selective cutting, should be adopted to cultivate a robust framework that optimally supports carbon sequestration.</p>
+<p>Climate changes, especially changes in precipitation and temperature, can affect vegetation carbon stock as biomass accumulation is influenced (<xref ref-type="bibr" rid="ref-7">Dai et al., 2013</xref>). Precipitation plays a vital role in regulating plant growth and vegetation patterns in terrestrial ecosystems (<xref ref-type="bibr" rid="ref-39">Peng et al., 2017</xref>). In sparse elm woodlands, population densities, but not the population age structure of elm trees, are greatly influenced by precipitation (<xref ref-type="bibr" rid="ref-49">Tang &amp; Busso, 2018</xref>). The effects of precipitation on carbon storage in sparse elm woodlands are worth exploring in future research.</p>
+<p>Livestock grazing can decrease the herb layer in terms of biomass, coverage, and spatial distribution (<xref ref-type="bibr" rid="ref-10">Eldridge et al., 2020</xref>; <xref ref-type="bibr" rid="ref-53">Trigo et al., 2020</xref>). Subsequently, the changes in herbs might affect the growth of elm trees, especially in the early stages of their life history. However, the effects of herbs on elm tree growth are relatively difficult to evaluate. Firstly, herbs play different roles in influencing the secondary dispersal of elm seeds. Herbs with vegetation coverage lower than the threshold can promote seed secondary dispersal, while herbs with vegetation coverage higher than the threshold can impede seed secondary dispersal (<xref ref-type="bibr" rid="ref-20">Jiang, Tang &amp; Busso, 2014</xref>). Secondly, herbs have little effect on elm seed germination and seedling growth, as their effects might be mixed with other factors, such as light and litter biomass (<xref ref-type="bibr" rid="ref-55">Vaz et al., 2019</xref>). Thirdly, microbiomes might connect the interaction between herbs and elm trees, yet the role of microbiomes on plants in sparse elm woodlands is only recently being considered (<xref ref-type="bibr" rid="ref-27">Liang et al., 2019</xref>). Therefore, considering the interaction between herb layers and elm trees could promote the accuracy of tree growth models.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>In our research, we crafted an advanced system dynamics model that integrates multiple life-history stages to explore the impact of livestock grazing management strategies on carbon storage, both in terms of carbon stock and sequestration rates. Importantly, for a nuanced estimation of carbon sequestration rates, we employed logistical models.</p>
+<p>In this study, we examined four distinct grazing management strategies: RG5, PG, CG, and SPG. Our findings indicate that the carbon stock of elm trees under RG5 and PG management surpassed those observed under CG and SPG management. Moreover, our research highlights the differences in carbon sequestration rates of elm trees across these managements, with RG5 standing out as the most effective. As a result, our data suggests that rotational grazing management may offer a superior strategy to enhance vegetation carbon storage in sparse elm woodlands in semi-arid landscapes. Furthermore, in line with previous research, our logistic model outcomes showed that the carbon sequestration rates for elm trees ranged between 0.09 and 0.15 Mg C ha<sup>−1</sup> year<sup>−1</sup>.</p>
+<p>Our assessment sheds light on the carbon sequestration capabilities of vegetation in sparse elm woodlands, offering valuable insights for grazing management in semi-arid regions. For a more refined understanding of carbon storage capacities in the future, it will be imperative to integrate soil carbon sequestration studies and delve deeper into the interactions between the herb layers and elm trees within these sparse woodlands.</p>
+</sec>
+</body>
+<back>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Yi Tang</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data is available in <xref ref-type="table" rid="table-1">Tables 1</xref>–<xref ref-type="table" rid="table-3">3</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Bayen et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bayen</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Noulekoun</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Bognounou</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Lykke</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Djomo</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lamers</surname>
+<given-names>JPA</given-names>
+</name>
+<name>
+<surname>Thiombiano</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Models for estimating aboveground biomass of four dryland woody species in Burkina Faso, West Africa</article-title>
+<source>Journal of Arid Environments</source>
+<year iso-8601-date="2020">2020</year>
+<volume>180</volume>
+<fpage>104205</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jaridenv.2020.104205</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Bergmeier, Petermann &amp; Schroeder (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bergmeier</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Petermann</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Schroeder</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Geobotanical survey of wood-pasture habitats in Europe: diversity, threats and conservation</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2010">2010</year>
+<volume>19</volume>
+<issue>11</issue>
+<fpage>2995</fpage>
+<lpage>3014</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-010-9872-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Bhatta, Sharma &amp; Balami (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bhatta</surname>
+<given-names>SP</given-names>
+</name>
+<name>
+<surname>Sharma</surname>
+<given-names>KP</given-names>
+</name>
+<name>
+<surname>Balami</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Variation in carbon storage among tree species in the planted forest of Kathmandu, Central Nepal</article-title>
+<source>Current Science</source>
+<year iso-8601-date="2018">2018</year>
+<volume>2018</volume>
+<issue>115</issue>
+<fpage>274</fpage>
+<lpage>282</lpage>
+<pub-id pub-id-type="doi">10.18520/cs/v115/i2/274-282</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Brown et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>HCA</given-names>
+</name>
+<name>
+<surname>Berninger</surname>
+<given-names>FA</given-names>
+</name>
+<name>
+<surname>Larjavaara</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Appiah</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Above-ground carbon stocks and timber value of old timber plantations, secondary and primary forests in southern Ghana</article-title>
+<source>Forest Ecology and Management</source>
+<year iso-8601-date="2020">2020</year>
+<volume>472</volume>
+<issue>2</issue>
+<fpage>118236</fpage>
+<pub-id pub-id-type="doi">10.1016/j.foreco.2020.118236</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Chang et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Bao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wilkes</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Erdenetsetseg</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Baival</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Avaadorj</surname>
+<given-names>DO</given-names>
+</name>
+<name>
+<surname>Maisaikhan</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Damdinsuren</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Simulating effects of grazing on soil organic carbon stocks in Mongolian grasslands</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2015">2015</year>
+<volume>212</volume>
+<issue>1</issue>
+<fpage>278</fpage>
+<lpage>284</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2015.07.014</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Chen et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Awada</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Shang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Effects of grazing exclusion on soil properties and on ecosystem carbon and nitrogen storage in a sandy rangeland of inner mongolia, Northern China</article-title>
+<source>Environmental Management</source>
+<year iso-8601-date="2012">2012</year>
+<volume>50</volume>
+<issue>4</issue>
+<fpage>622</fpage>
+<lpage>632</lpage>
+<pub-id pub-id-type="doi">10.1007/s00267-012-9919-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Dai et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dai</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jia</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Jiang</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Effects of climate change on biomass carbon sequestration in old-growth forest ecosystems on Changbai Mountain in Northeast China</article-title>
+<source>Forest Ecology and Management</source>
+<year iso-8601-date="2013">2013</year>
+<volume>300</volume>
+<fpage>106</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1016/j.foreco.2012.06.046</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Dong, Bettinger &amp; Liu (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dong</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bettinger</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Estimating the optimal internal carbon prices for balancing forest wood production and carbon sequestration: the case of northeast China</article-title>
+<source>Journal of Cleaner Production</source>
+<year iso-8601-date="2021">2021</year>
+<volume>281</volume>
+<issue>4</issue>
+<fpage>125342</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jclepro.2020.125342</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Eldridge &amp; Delgado-Baquerizo (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Eldridge</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Delgado-Baquerizo</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Continental-scale impacts of livestock grazing on ecosystem supporting and regulating services</article-title>
+<source>Land Degradation &amp; Development</source>
+<year iso-8601-date="2017">2017</year>
+<volume>28</volume>
+<issue>4</issue>
+<fpage>1473</fpage>
+<lpage>1481</lpage>
+<pub-id pub-id-type="doi">10.1002/ldr.2668</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Eldridge et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Eldridge</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Oliver</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Val</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Travers</surname>
+<given-names>SK</given-names>
+</name>
+</person-group>
+<article-title>Limited evidence for the use of livestock for the conservation management of exotic plant cover</article-title>
+<source>Australian Journal of Botany</source>
+<year iso-8601-date="2020">2020</year>
+<volume>68</volume>
+<issue>2</issue>
+<fpage>137</fpage>
+<lpage>145</lpage>
+<pub-id pub-id-type="doi">10.1071/BT19183</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Farrell et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Farrell</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Harpole</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Stein</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Suding</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Borer</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Grassland arthropods are controlled by direct and indirect interactions with cattle but are largely unaffected by plant provenance</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2015">2015</year>
+<volume>10</volume>
+<issue>7</issue>
+<elocation-id>e0129823</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0129823</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Fu et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fu</surname>
+<given-names>DF</given-names>
+</name>
+<name>
+<surname>Bu</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>RP</given-names>
+</name>
+</person-group>
+<article-title>Investigation on the carbon sequestration capacity of vegetation along a heavy traffic load expressway</article-title>
+<source>Journal of Environmental Management</source>
+<year iso-8601-date="2019">2019</year>
+<volume>241</volume>
+<issue>6</issue>
+<fpage>549</fpage>
+<lpage>557</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvman.2018.09.098</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Gebregergs et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gebregergs</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Tessema</surname>
+<given-names>ZK</given-names>
+</name>
+<name>
+<surname>Solomon</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Birhane</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Carbon sequestration and soil restoration potential of grazing lands under exclosure management in a semi-arid environment of northern Ethiopia</article-title>
+<source>Ecology and Evolution</source>
+<year iso-8601-date="2019">2019</year>
+<volume>9</volume>
+<issue>11</issue>
+<fpage>6468</fpage>
+<lpage>6479</lpage>
+<pub-id pub-id-type="doi">10.1002/ece3.5223</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Griffith &amp; Forseth (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Griffith</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>Forseth</surname>
+<given-names>IN</given-names>
+</name>
+</person-group>
+<article-title>Population matrix models of <italic>Aeschynomene virginica</italic>, a rare annual plant: implications for conservation</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2005">2005</year>
+<volume>15</volume>
+<issue>1</issue>
+<fpage>222</fpage>
+<lpage>233</lpage>
+<pub-id pub-id-type="doi">10.1890/02-5219</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>He et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>He</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Wen</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Vegetation carbon sequestration in Chinese forests from 2010 to 2050</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>23</volume>
+<issue>4</issue>
+<fpage>1575</fpage>
+<lpage>1584</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.13479</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>He et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>He</surname>
+<given-names>NP</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>YH</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>QS</given-names>
+</name>
+<name>
+<surname>Pan</surname>
+<given-names>QM</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>GM</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>XG</given-names>
+</name>
+</person-group>
+<article-title>Grazing intensity impacts soil carbon and nitrogen storage of continental steppe</article-title>
+<source>Ecosphere</source>
+<year iso-8601-date="2011">2011</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>art 8</fpage>
+<pub-id pub-id-type="doi">10.1890/es10-00017.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Hou et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hou</surname>
+<given-names>HP</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Ding</surname>
+<given-names>ZY</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Tian</surname>
+<given-names>YF</given-names>
+</name>
+</person-group>
+<article-title>Spatiotemporal dynamics of carbon storage in terrestrial ecosystem vegetation in the Xuzhou coal mining area, China</article-title>
+<source>Environmental Earth Sciences</source>
+<year iso-8601-date="2015">2015</year>
+<volume>74</volume>
+<issue>2</issue>
+<fpage>1657</fpage>
+<lpage>1669</lpage>
+<pub-id pub-id-type="doi">10.1007/s12665-015-4171-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Hulvey et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hulvey</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Hobbs</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Standish</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Lindenmayer</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Lach</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Perring</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Benefits of tree mixes in carbon plantings</article-title>
+<source>Nature Climate Change</source>
+<year iso-8601-date="2013">2013</year>
+<volume>3</volume>
+<issue>10</issue>
+<fpage>869</fpage>
+<lpage>874</lpage>
+<pub-id pub-id-type="doi">10.1038/nclimate1862</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Iglesias, Barchuk &amp; Grilli (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Iglesias</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Barchuk</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Grilli</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Carbon storage, community structure and canopy cover: a comparison along a precipitation gradient</article-title>
+<source>Forest Ecology and Management</source>
+<year iso-8601-date="2012">2012</year>
+<volume>265</volume>
+<issue>3</issue>
+<fpage>218</fpage>
+<lpage>229</lpage>
+<pub-id pub-id-type="doi">10.1016/j.foreco.2011.10.036</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Jiang, Tang &amp; Busso (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jiang</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Busso</surname>
+<given-names>CA</given-names>
+</name>
+</person-group>
+<article-title>Effects of vegetation cover on recruitment of <italic>Ulmus pumila</italic> L. in Horqin Sandy Land, northeastern China</article-title>
+<source>Journal of Arid Land</source>
+<year iso-8601-date="2014">2014</year>
+<volume>6</volume>
+<issue>3</issue>
+<fpage>343</fpage>
+<lpage>351</lpage>
+<pub-id pub-id-type="doi">10.1007/s40333-013-0204-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Kim et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Motavalli</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gantzer</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Compaction effects on soil macropore geometry and related parameters for an arable field</article-title>
+<source>Geoderma</source>
+<year iso-8601-date="2010">2010</year>
+<volume>160</volume>
+<issue>2</issue>
+<fpage>244</fpage>
+<lpage>251</lpage>
+<pub-id pub-id-type="doi">10.1016/j.geoderma.2010.09.030</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Li (2006)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>Biomass, net primary productivity, and ecological restoration of sparse forest grassland ecosystem of Hunshandake Sandy Land</source>
+<year iso-8601-date="2006">2006</year>
+<publisher-loc>Beijing</publisher-loc>
+<publisher-name>Graduate School of the Chinese Academy of Sciences</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Li et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Dong</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wen</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>The effects of fencing on carbon stocks in the degraded alpine grasslands of the Qinghai-Tibetan Plateau</article-title>
+<source>Journal of Environmental Management</source>
+<year iso-8601-date="2013">2013</year>
+<volume>128</volume>
+<fpage>393</fpage>
+<lpage>399</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvman.2013.05.058</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Li et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cao</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Six years of grazing exclusion is the optimum duration in the alpine meadow-steppe of the north-eastern Qinghai-Tibetan Plateau</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2018">2018</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>17269</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-35273-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Li et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Ramos Aguila</surname>
+<given-names>LC</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Lie</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Carbon sequestration and storage capacity of Chinese fir at different stand ages</article-title>
+<source>Science of the Total Environment</source>
+<year iso-8601-date="2023">2023</year>
+<volume>904</volume>
+<fpage>166962</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2023.166962</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Li et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Brandle</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Temporal progress in improving carbon and nitrogen storage by grazing exclosure practice in a degraded land area of China’s Horqin Sandy Grassland</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2012">2012</year>
+<volume>159</volume>
+<fpage>55</fpage>
+<lpage>61</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2012.06.024</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Liang et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liang</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yao</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pan</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>GT</given-names>
+</name>
+</person-group>
+<article-title>Seasonal dynamics of microbial diversity in the rhizosphere of <italic>Ulmus pumila</italic> L. var. sabulosa in a steppe desert area of Northern China</article-title>
+<source>Peerj</source>
+<year iso-8601-date="2019">2019</year>
+<volume>7</volume>
+<elocation-id>e7536</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.7526</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Liu &amp; Tang (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liu</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>The simulation in wind. Driven seed dispersal of <italic>Ulmus pumila</italic> in sparse woodland steppe</article-title>
+<source>Chinese Journal of Ecology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>37</volume>
+<fpage>2524</fpage>
+<lpage>2531</lpage>
+<pub-id pub-id-type="doi">10.13292/j.1000-4890.201808.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Lv et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lv</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Chi</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Mu</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Experimental study of the supercritical CO<sub>2</sub> diffusion coefficient in porous media under reservoir conditions</article-title>
+<source>Royal Society Open Science</source>
+<year iso-8601-date="2019">2019</year>
+<volume>6</volume>
+<issue>6</issue>
+<fpage>181902</fpage>
+<pub-id pub-id-type="doi">10.1098/rsos.181902</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Ma et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ma</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Jimoh</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Guo</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Hou</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Stoichiometric ratios support plant adaption to grazing moderated by soil nutrients and root enzymes</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2019">2019</year>
+<volume>7</volume>
+<issue>1</issue>
+<elocation-id>e7047</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.7047</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Marano &amp; Collalti (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marano</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Collalti</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Models of tree and stand dynamics: a differential journey through forest modelling</article-title>
+<source>iforest</source>
+<year iso-8601-date="2020">2020</year>
+<volume>13</volume>
+<issue>1</issue>
+<fpage>152</fpage>
+<lpage>153</lpage>
+<pub-id pub-id-type="doi">10.3832/ifor0061-013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Medina-Roldan, Paz-Ferreiro &amp; Bardgett (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Medina-Roldan</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Paz-Ferreiro</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bardgett</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>Grazing exclusion affects soil and plant communities, but has no impact on soil carbon storage in an upland grassland</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2012">2012</year>
+<volume>149</volume>
+<fpage>118</fpage>
+<lpage>123</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2011.12.012</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Min et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Min</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Choi</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Kim</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Choi</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Oxidation-stable amine-containing adsorbents for carbon dioxide capture</article-title>
+<source>Nature Communications</source>
+<year iso-8601-date="2018">2018</year>
+<volume>9</volume>
+<issue>1</issue>
+<fpage>726</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-018-03123-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Mukherjee, Ray &amp; Ghosh (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mukherjee</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ray</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ghosh</surname>
+<given-names>PB</given-names>
+</name>
+</person-group>
+<article-title>A system dynamic modeling of carbon cycle from mangrove litter to the adjacent Hooghly estuary, India</article-title>
+<source>Ecological Modelling</source>
+<year iso-8601-date="2013">2013</year>
+<volume>252</volume>
+<fpage>185</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolmodel.2012.06.036</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Ngatia et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ngatia</surname>
+<given-names>LW</given-names>
+</name>
+<name>
+<surname>Turner</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Njoka</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Young</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>Reddy</surname>
+<given-names>KR</given-names>
+</name>
+</person-group>
+<article-title>The effects of herbivory and nutrients on plant biomass and carbon storage in Vertisols of an East African savanna</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2015">2015</year>
+<volume>208</volume>
+<issue>1</issue>
+<fpage>55</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2015.04.025</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Niu (2008)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Niu</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Analyisis of population characterics of <italic>Ulmus pumila</italic> sparse forest in Hunshandake sandy land</article-title>
+<year iso-8601-date="2008">2008</year>
+<publisher-loc>Hohhot</publisher-loc>
+<publisher-name>Inner Mongolia University</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Ouyang et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ouyang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Leininger</surname>
+<given-names>TD</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>A system dynamic model to estimate hydrological processes and water use in a eucalypt plantation</article-title>
+<source>Ecological Engineering</source>
+<year iso-8601-date="2016">2016</year>
+<volume>6</volume>
+<fpage>290</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecoleng.2015.11.008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Pathare et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pathare</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Crous</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Cooke</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Creek</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ghannoum</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Ellsworth</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Water availability affects seasonal CO<sub>2</sub>-induced photosynthetic enhancement in herbaceous species in a periodically dry woodland</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>23</volume>
+<issue>12</issue>
+<fpage>5164</fpage>
+<lpage>5178</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.13778</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Peng et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Peng</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Huete</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Gonsamo</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lei</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Ponce-Campos</surname>
+<given-names>GE</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Country-level net primary production distribution and response to drought and land cover change</article-title>
+<source>Science of the Total Environment</source>
+<year iso-8601-date="2017">2017</year>
+<volume>574</volume>
+<fpage>65</fpage>
+<lpage>77</lpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.09.033</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Piao et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Piao</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Fang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ciais</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Peylin</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Sitch</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>The carbon balance of terrestrial ecosystems in China</article-title>
+<source>Nature</source>
+<year iso-8601-date="2009">2009</year>
+<volume>458</volume>
+<issue>7241</issue>
+<fpage>1009</fpage>
+<lpage>1013</lpage>
+<pub-id pub-id-type="doi">10.1038/nature07944</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Piao et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Piao</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Ciais</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Canadell</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bastos</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Friedlingstein</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Houghton</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Quéré</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Myneni</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Peng</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pongratz</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sitch</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Yan</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Lower land-use emissions responsible for increased net land carbon sink during the slow warming period</article-title>
+<source>Nature Geoscience</source>
+<year iso-8601-date="2018">2018</year>
+<volume>11</volume>
+<issue>10</issue>
+<fpage>739</fpage>
+<lpage>743</lpage>
+<pub-id pub-id-type="doi">10.1038/s41561-018-0204-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Polley et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Polley</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Frank</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sanabria</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Interannual variability in carbon dioxide fluxes and flux-climate relationships on grazed and ungrazed northern mixed-grass prairie</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>14</volume>
+<issue>7</issue>
+<fpage>1620</fpage>
+<lpage>1632</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2008.01599.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Qiu et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Qiu</surname>
+<given-names>ZX</given-names>
+</name>
+<name>
+<surname>Feng</surname>
+<given-names>ZK</given-names>
+</name>
+<name>
+<surname>Song</surname>
+<given-names>YN</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>PP</given-names>
+</name>
+</person-group>
+<article-title>Carbon sequestration potential of forest vegetation in China from 2003 to 2050: predicting forest vegetation growth based on climate and the environment</article-title>
+<source>Journal of Cleaner Production</source>
+<year iso-8601-date="2020">2020</year>
+<volume>252</volume>
+<fpage>119715</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jclepro.2019.119715</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Quijas, Schmid &amp; Balvanera (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Quijas</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Schmid</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Balvanera</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Plant diversity enhances provision of ecosystem services: a new synthesis</article-title>
+<source>Basic and Applied Ecology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>11</volume>
+<issue>7</issue>
+<fpage>582</fpage>
+<lpage>593</lpage>
+<pub-id pub-id-type="doi">10.1016/j.baae.2010.06.009</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>R Core Team (2022)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>R Core Team</collab>
+</person-group>
+<source>R: a language and environment for statistical computing</source>
+<year iso-8601-date="2022">2022</year>
+<publisher-loc>Vienna, Austria</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name><uri>https://www.R-project.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Ruhland &amp; Niere (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ruhland</surname>
+<given-names>CT</given-names>
+</name>
+<name>
+<surname>Niere</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>The effects of surface albedo and initial lignin concentration on photodegradation of two varieties of Sorghum bicolor litter</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2019">2019</year>
+<volume>9</volume>
+<issue>1</issue>
+<fpage>18748</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-019-55272-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Senbeta et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Senbeta</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Gole</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Denich</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kellbessa</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Diversity of useful plants in the coffee forests of ethiopia</article-title>
+<source>Ethnobotany Research and Applications</source>
+<year iso-8601-date="2013">2013</year>
+<volume>11</volume>
+<fpage>49</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.17348/ERA.11.0.049-069</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Tang (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Impact of grazing intensities on reproduction patterns of elm trees (<italic>Ulmus pumila</italic>) in degraded sandy lands in China</article-title>
+<source>Peerj</source>
+<year iso-8601-date="2020">2020</year>
+<volume>8</volume>
+<issue>4</issue>
+<elocation-id>e9013</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.9013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Tang &amp; Busso (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Busso</surname>
+<given-names>CA</given-names>
+</name>
+</person-group>
+<article-title>Effects of precipitation changes on the dynamics of sparse elm woodland in Northeastern China</article-title>
+<source>Biocell</source>
+<year iso-8601-date="2018">2018</year>
+<volume>42</volume>
+<issue>2</issue>
+<fpage>61</fpage>
+<lpage>66</lpage>
+<pub-id pub-id-type="doi">10.32604/biocell.2018.07015</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Tang, Jiang &amp; Lv (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Jiang</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Lv</surname>
+<given-names>XT</given-names>
+</name>
+</person-group>
+<article-title>Effects of exclosure management on Elm (<italic>Ulmus pumila</italic>) recruitment in Horqin Sandy Land, Northeastern China</article-title>
+<source>Arid Land Research and Management</source>
+<year iso-8601-date="2014">2014</year>
+<volume>28</volume>
+<issue>1</issue>
+<fpage>109</fpage>
+<lpage>117</lpage>
+<pub-id pub-id-type="doi">10.1080/15324982.2013.800922</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Tang &amp; Li (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Simulating effects of precipitation and initial planting density on population size of Mongolian pine in the Horqin Sandy Land, China</article-title>
+<source>Agroforestry Systems</source>
+<year iso-8601-date="2018">2018</year>
+<volume>92</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1007/s10457-016-0004-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Tang, Liu &amp; Wu (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>MY</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>JH</given-names>
+</name>
+</person-group>
+<article-title>Effects of thinning and water supply manipulation on the productivity of <italic>Pinus sylvestris</italic> var. mongolica in Northeastern China</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2016">2016</year>
+<volume>11</volume>
+<issue>11</issue>
+<elocation-id>e0166109</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0166109</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Trigo et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Trigo</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Villagra</surname>
+<given-names>PE</given-names>
+</name>
+<name>
+<surname>Cowper Coles</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Maras</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Andrade-Diaz</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Nunez-Regueiro</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Derlindati</surname>
+<given-names>EJ</given-names>
+</name>
+<name>
+<surname>Talamo</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Can livestock exclusion affect understory plant community structure? An experimental study in the dry Chaco forest, Argentina</article-title>
+<source>Forest Ecology and Management</source>
+<year iso-8601-date="2020">2020</year>
+<volume>463</volume>
+<issue>6324</issue>
+<fpage>6324</fpage>
+<pub-id pub-id-type="doi">10.1016/j.foreco.2020.118014</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Trilleras et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Trilleras</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Jaramillo</surname>
+<given-names>VJ</given-names>
+</name>
+<name>
+<surname>Vega</surname>
+<given-names>EV</given-names>
+</name>
+<name>
+<surname>Balvanera</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Effects of livestock management on the supply of ecosystem services in pastures in a tropical dry region of western Mexico</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2015">2015</year>
+<volume>211</volume>
+<fpage>133</fpage>
+<lpage>144</lpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2015.06.011</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Vaz et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vaz</surname>
+<given-names>PG</given-names>
+</name>
+<name>
+<surname>Bugalho</surname>
+<given-names>MN</given-names>
+</name>
+<name>
+<surname>Fedriani</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Branco</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lecomte</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Nogueira</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Caldeira</surname>
+<given-names>MC</given-names>
+</name>
+</person-group>
+<article-title>Unravelling associations between tree-seedling performance, herbivory, competition, and facilitation in high nature value farmlands</article-title>
+<source>Journal of Environmental Management</source>
+<year iso-8601-date="2019">2019</year>
+<volume>232</volume>
+<issue>1</issue>
+<fpage>1066</fpage>
+<lpage>1074</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jenvman.2018.11.082</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Wang et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Gan</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Wiesmeier</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Han</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Siddique</surname>
+<given-names>KHM</given-names>
+</name>
+<name>
+<surname>Hou</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Grazing exclusion-an effective approach for naturally restoring degraded grasslands in Northern China</article-title>
+<source>Land Degradation &amp; Development</source>
+<year iso-8601-date="2018">2018</year>
+<volume>29</volume>
+<issue>12</issue>
+<fpage>4439</fpage>
+<lpage>4456</lpage>
+<pub-id pub-id-type="doi">10.1002/ldr.3191</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Wang, Wang &amp; Niu (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Niu</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Forest carbon sequestration in China and its benefits</article-title>
+<source>Scandinavian Journal of Forest Research</source>
+<year iso-8601-date="2014">2014</year>
+<volume>29</volume>
+<issue>1</issue>
+<fpage>51</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="doi">10.1080/02827581.2013.856936</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Whittinghill et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Whittinghill</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Rowe</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Schutzki</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Cregg</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Quantifying carbon sequestration of various green roof and ornamental landscape systems</article-title>
+<source>Landscape and Urban Planning</source>
+<year iso-8601-date="2014">2014</year>
+<volume>123</volume>
+<issue>3</issue>
+<fpage>41</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="doi">10.1016/j.landurbplan.2013.11.015</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Wu et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Fu</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Lu</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Effects of grazing exclusion on soil carbon and nitrogen storage in semi-arid grassland in Inner Mongolia, China</article-title>
+<source>Chinese Geographical Science</source>
+<year iso-8601-date="2014">2014</year>
+<volume>24</volume>
+<issue>4</issue>
+<fpage>479</fpage>
+<lpage>487</lpage>
+<pub-id pub-id-type="doi">10.1007/s11769-014-0694-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Xiong et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xiong</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zou</surname>
+<given-names>CB</given-names>
+</name>
+</person-group>
+<article-title>Effects of grazing exclusion on carbon sequestration and plant diversity in grasslands of China a meta-analysis</article-title>
+<source>Ecological Engineering</source>
+<year iso-8601-date="2016">2016</year>
+<volume>94</volume>
+<fpage>647</fpage>
+<lpage>655</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecoleng.2016.06.124</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Yang &amp; Tang (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>The increase in ecosystem services values of the sand dune succession in northeastern China</article-title>
+<source>Heliyon</source>
+<year iso-8601-date="2019">2019</year>
+<volume>5</volume>
+<issue>8</issue>
+<elocation-id>e02243</elocation-id>
+<pub-id pub-id-type="doi">10.1016/j.heliyon.2019.e02243</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Zellweger et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zellweger</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Flack-Prain</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Footring</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wilebore</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>KJ</given-names>
+</name>
+</person-group>
+<article-title>Carbon storage and sequestration rates of trees inside and outside forests in great Britain</article-title>
+<source>Environmental Research Letters</source>
+<year iso-8601-date="2022">2022</year>
+<volume>17</volume>
+<issue>7</issue>
+<fpage>074004</fpage>
+<pub-id pub-id-type="doi">10.1088/1748-9326/ac74d5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Zhang et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Dong</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Chu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Grassland community composition response to grazing intensity under different grazing regimes</article-title>
+<source>Rangeland Ecology and Management</source>
+<year iso-8601-date="2017">2017</year>
+<volume>71</volume>
+<issue>2</issue>
+<fpage>196</fpage>
+<lpage>204</lpage>
+<pub-id pub-id-type="doi">10.1016/j.rama.2017.09.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Zhang et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Fan</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Xiong</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Xie</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Enhanced photosynthetic capacity by perennials in the riparian zone of the Three Gorges Reservoir Area</article-title>
+<source>China Ecological Engineering</source>
+<year iso-8601-date="2016">2016</year>
+<volume>90</volume>
+<fpage>6</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecoleng.2016.01.075</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Zhang, Wu &amp; Tang (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>The effects of grazing on the spatial pattern of elm (<italic>Ulmus pumila</italic> L.) in the sparse woodland steppe of Horqin Sandy Land in northeastern China</article-title>
+<source>Solid Earth</source>
+<year iso-8601-date="2016">2016</year>
+<volume>7</volume>
+<issue>2</issue>
+<fpage>631</fpage>
+<lpage>637</lpage>
+<pub-id pub-id-type="doi">10.5194/se-7-631-2016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Zhang et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Kung</surname>
+<given-names>HT</given-names>
+</name>
+<name>
+<surname>Shi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Ayinuer</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Estimation of the Fe and Cu contents of the surface water in the Ebinur Lake basin based on LIBS and a machine learning algorithm</article-title>
+<source>International Journal of Environmental Research and Public Health</source>
+<year iso-8601-date="2018">2018</year>
+<volume>15</volume>
+<issue>11</issue>
+<fpage>2390</fpage>
+<pub-id pub-id-type="doi">10.3390/ijerph15112390</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Zhao et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhao</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>ZM</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Guo</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>ZY</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>DY</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>SG</given-names>
+</name>
+</person-group>
+<article-title>Carbon density characteristics of sparse <italic>Ulmus pumila</italic> forest and <italic>Populus simonii</italic> plantation in Onqin Daga Sandy Land and their relationships with stand age</article-title>
+<source>Chinese Journal of Plant Ecology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>40</volume>
+<issue>4</issue>
+<fpage>318</fpage>
+<lpage>326</lpage>
+<pub-id pub-id-type="doi">10.17521/cjpe.2015.1080</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

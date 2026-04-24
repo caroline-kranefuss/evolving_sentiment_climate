@@ -1,0 +1,3940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16586</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16586</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Marine Biology</subject>
+<subject>Zoology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Characterization of trade-offs between immunity and reproduction in the coral species <italic>Astrangia poculata</italic></article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<name name-style="western">
+<surname>Villafranca</surname>
+<given-names>Natalie</given-names>
+</name>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Changsut</surname>
+<given-names>Isabella</given-names>
+</name>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Diaz de Villegas</surname>
+<given-names>Sofia</given-names>
+</name>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Womack</surname>
+<given-names>Haley</given-names>
+</name>
+</contrib>
+<contrib id="author-5" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Fuess</surname>
+<given-names>Lauren E.</given-names>
+</name>
+<email>lfuess@txstate.edu</email>
+</contrib><aff><institution>Department of Biology, Texas State University</institution>, <addr-line>San Marcos, TX</addr-line>, <country>United States</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Venmathi Maran</surname>
+<given-names>Balu Alagar</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-04"><day>4</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16586</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-07-28"><day>28</day><month>7</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-14"><day>14</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Villafranca et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Villafranca et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16586"/>
+<abstract>
+<sec>
+<title>Background</title>
+<p>Living organisms face ubiquitous pathogenic threats and have consequently evolved immune systems to protect against potential invaders. However, many components of the immune system are physiologically costly to maintain and engage, often drawing resources away from other organismal processes such as growth and reproduction. Evidence from a diversity of systems has demonstrated that organisms use complex resource allocation mechanisms to manage competing needs and optimize fitness. However, understanding of resource allocation patterns is limited across taxa. Cnidarians, which include ecologically important organisms like hard corals, have been historically understudied in the context of resource allocations. Improving understanding of resource allocation-associated trade-offs in cnidarians is critical for understanding future ecological dynamics in the face of rapid environmental change.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>Here, we characterize trade-offs between constitutive immunity and reproduction in the facultatively symbiotic coral <italic>Astrangia poculata</italic>. Male colonies underwent ex situ spawning and sperm density was quantified. We then examined the effects of variable symbiont density and energetic budget on physiological traits, including immune activity and reproductive investment. Furthermore, we tested for potential trade-offs between immune activity and reproductive investment.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>We found limited associations between energetic budget and immune metrics; melanin production was significantly positively associated with carbohydrate concentration. However, we failed to document any associations between immunity and reproductive output which would be indicative of trade-offs, possibly due to experimental limitations. Our results provide a preliminary framework for future studies investigating immune trade-offs in cnidarians.</p>
+</sec>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Ecoimmunology</kwd>
+<kwd>Resource allocation</kwd>
+<kwd>Symbiosis</kwd>
+<kwd>Immune trade-offs</kwd>
+<kwd>Cnidarians</kwd>
+<kwd>Invertebrate immunity</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Texas State University</funding-source>
+</award-group>
+<funding-statement>This work was supported by startup funding from Texas State University to Lauren E Fuess. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>The ability to successfully defend against a variety of pathogenic threats is an essential component of organismal fitness (<xref ref-type="bibr" rid="ref-42">Lochmiller &amp; Deerenberg, 2000</xref>). However, most immune defenses which prevent or mitigate damage from pathogens are energetically costly (<xref ref-type="bibr" rid="ref-42">Lochmiller &amp; Deerenberg, 2000</xref>). This is particularly important as organisms operate using a fixed budget of energetic resources that must be allocated to competing demands (<italic>i.e</italic>., growth, reproduction, defense, <italic>etc</italic>; <xref ref-type="bibr" rid="ref-88">Stearns, 1989</xref>). Consequently, allocation of resources to one demand often comes at the cost of others, creating trade-offs (<xref ref-type="bibr" rid="ref-48">Melbinger &amp; Vergassola, 2015</xref>). Optimal organismal fitness therefore requires careful allocation of resources across these demands to minimize negative effects of trade-offs and maximize reproductive output. Notably, the high costs of maintaining immune systems and mounting immune responses often result in trade-offs with other traits (<xref ref-type="bibr" rid="ref-42">Lochmiller &amp; Deerenberg, 2000</xref>; <xref ref-type="bibr" rid="ref-45">Martin, Weil &amp; Nelson, 2008</xref>; <xref ref-type="bibr" rid="ref-76">Rauw, 2012</xref>; <xref ref-type="bibr" rid="ref-77">Rigby &amp; Jokela, 2000</xref>; <xref ref-type="bibr" rid="ref-99">van der Most et al., 2010</xref>). Among the most well documented immune-related trade-offs are those between reproduction and immunity, with organisms most often able to exhibit high immune capacity or high reproductive ability, but not both (<xref ref-type="bibr" rid="ref-1">Adamo, Jensen &amp; Younger, 2001</xref>; <xref ref-type="bibr" rid="ref-9">Brokordt et al., 2019</xref>; <xref ref-type="bibr" rid="ref-29">Gwynn et al., 2005</xref>; <xref ref-type="bibr" rid="ref-33">Hosken, 2001</xref>; <xref ref-type="bibr" rid="ref-81">Schwenke, Lazzaro &amp; Wolfner, 2016</xref>). However, despite frequent empirical observation of immune-reproductive trade-offs and robust proposed theory, many questions still remain regarding the generalizability of resource allocation theory and immune-related trade-offs. In some systems, consistent immune-reproductive trade-offs have not been observed (<xref ref-type="bibr" rid="ref-37">Kelley et al., 2021</xref>; <xref ref-type="bibr" rid="ref-47">McNamara et al., 2013</xref>; <xref ref-type="bibr" rid="ref-55">Miyashita et al., 2019</xref>; <xref ref-type="bibr" rid="ref-90">Syed et al., 2020</xref>; <xref ref-type="bibr" rid="ref-103">Xu, Yang &amp; Wang, 2012</xref>). Furthermore, it remains unclear how dynamic changes in resources/energetic budget might impact these trade-offs. It is theorized that since total energy and relative allocation are co-dependent, variation in energy budget may have an impact on trade-offs such as those between immunity and reproduction, however limited empirical evidence exists to support or refute this theory (<xref ref-type="bibr" rid="ref-15">Cotter et al., 2010</xref>; <xref ref-type="bibr" rid="ref-18">Descamps et al., 2016</xref>; <xref ref-type="bibr" rid="ref-86">Simmons, 2012</xref>; <xref ref-type="bibr" rid="ref-87">Stahlschmidt et al., 2013</xref>). Combined, these gaps in existing theory make it difficult to predict how resources are allocated among traits, requiring further study to improve understanding of resource allocation and immune trade-offs in complex contexts. This is particularly important in light of the rising prevalence of epizootic outbreaks affecting vulnerable species across the globe (<xref ref-type="bibr" rid="ref-16">Croquer &amp; Weil, 2009</xref>; <xref ref-type="bibr" rid="ref-27">Glenn &amp; Pugh, 2006</xref>; <xref ref-type="bibr" rid="ref-38">Kilburn et al., 2010</xref>).</p>
+<p>Scleractinian or reef building corals are arguably one of the taxa most impacted by increases in epizootic outbreaks (<xref ref-type="bibr" rid="ref-10">Bruno et al., 2007</xref>; <xref ref-type="bibr" rid="ref-72">Precht et al., 2016</xref>; <xref ref-type="bibr" rid="ref-79">Ruiz-Moreno et al., 2012</xref>). Disease outbreaks have been one of the largest drivers of coral declines in recent decades, affecting almost all major reef building species (<xref ref-type="bibr" rid="ref-4">Alvarez-Filip et al., 2022</xref>; <xref ref-type="bibr" rid="ref-7">Bourne et al., 2009</xref>; <xref ref-type="bibr" rid="ref-17">Cróquer, Weil &amp; Rogers, 2021</xref>; <xref ref-type="bibr" rid="ref-56">Moriarty et al., 2020</xref>; <xref ref-type="bibr" rid="ref-83">Sharma &amp; Ravindran, 2020</xref>; <xref ref-type="bibr" rid="ref-89">Sutherland, Porter &amp; Torres, 2004</xref>). Still, despite the severity of these outbreaks, many gaps remain in our understanding of associated disease processes. For example, significant inter- and intra-specific variation has been observed in coral disease resilience (<xref ref-type="bibr" rid="ref-4">Alvarez-Filip et al., 2022</xref>; <xref ref-type="bibr" rid="ref-53">Miller et al., 2019</xref>; <xref ref-type="bibr" rid="ref-62">Palmer et al., 2011a</xref>). While some studies have pointed to the importance of divergence in certain cellular processes in driving this variation (<xref ref-type="bibr" rid="ref-6">Beavers et al., 2023</xref>; <xref ref-type="bibr" rid="ref-25">Fuess et al., 2017</xref>; <xref ref-type="bibr" rid="ref-44">MacKnight et al., 2022</xref>; <xref ref-type="bibr" rid="ref-70">Pinzon et al., 2014a</xref>; <xref ref-type="bibr" rid="ref-96">Traylor-Knowles et al., 2021</xref>), little is known regarding how broader ecological processes, including resource allocation, might contribute to variation in disease resistance. To date, most studies of cnidarian resource allocation have focused on stress associated trade-offs. The negative effects of thermal anomalies on coral reproductive output have been well documented (<xref ref-type="bibr" rid="ref-49">Michalek-Wagner &amp; Willis, 2001</xref>; <xref ref-type="bibr" rid="ref-59">Nielsen et al., 2020</xref>; <xref ref-type="bibr" rid="ref-69">Paxton et al., 2016</xref>). In contrast, only a handful of studies have documented reproductive trade-offs involving immunological processes, all of which had focused on the negative impacts of disease outbreaks on coral reproduction (<xref ref-type="bibr" rid="ref-23">Fuess et al., 2018</xref>; <xref ref-type="bibr" rid="ref-101">Weil, Croquer &amp; Urreiztieta, 2009</xref>). No studies have directly linked reproductive investment and constitutive immunity in cnidarians, in part due to the historic lack of tractable model cnidarian systems.</p>
+<p>Recent advances in the development of cnidarian model and study systems have greatly expanded the scope of cnidarian research. One such emergent model species is <italic>Astrangia poculata</italic> (common name: northern star coral), a non-reef building stony coral that can be found along the Atlantic Coast of the United States ranging from Cape Cod, MA to the Texas Gulf Coast (<xref ref-type="bibr" rid="ref-20">Dimond et al., 2012</xref>). Importantly, unlike tropical corals which are dependent on symbiotic relationships for survival, <italic>A. poculata</italic> associates facultatively with a single species of symbiont, <italic>Breviolum psygmophilum</italic> (<xref ref-type="bibr" rid="ref-40">Lajeunesse, Parkinson &amp; Reimer, 2012</xref>) with colonies ranging from high symbiont density (“brown”) to low symbiont density (“white”; <xref ref-type="bibr" rid="ref-84">Sharp et al., 2017</xref>). Classification of symbiotic states is based on color, approximate chlorophyll concentration, and symbiont density (“brown” &gt;10<sup>6</sup> cells cm<sup>−2</sup>; “white” 10<sup>4</sup>–10<sup>6</sup> cells cm<sup>−2</sup>; <xref ref-type="bibr" rid="ref-84">Sharp et al., 2017</xref>). A key benefit of the symbiotic relationship between corals and their symbionts is the exchange of organic nutrients to the host (<xref ref-type="bibr" rid="ref-39">Kirk &amp; Weis, 2016</xref>). Consequently, facultative symbiosis may serve as a natural system for exploring the effects of variable resource budget on immune-associated trade-offs in corals, though the exact effects of variation in symbiont density on host energetic budget are poorly studied (<xref ref-type="bibr" rid="ref-92">Szmant-Froelich &amp; Pilson, 1980</xref>). In contrast, recent studies have highlighted significant impacts of variation in <italic>A. poculata</italic> symbiont density on host immunity (<xref ref-type="bibr" rid="ref-13">Changsut et al., 2022</xref>; <xref ref-type="bibr" rid="ref-30">Harman et al., 2022</xref>), suggesting that variation in host-symbiont dynamics have significant consequences for broader organismal physiology.</p>
+<p>Here we used the tractable <italic>A. poculata</italic> study system to investigate cnidarian resource allocation and potential trade-offs between reproduction and immunity (<italic>i.e</italic>., negative associations between reproduction and immunity resulting from resource limitation). We first assessed general effects of variability in symbiont density on host physiology (reproductive output, energetic budget, and immune activity). Next, we assessed the effects of energetic budget on both reproductive output and immune activity generally, independent of symbiont density. Finally, we tested for reproductive-immune trade-offs. Our study provides a preliminary framework for future studies considering the inter-connected roles of symbiosis, resource allocation, and immunity in cnidarians.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>Portions of this manuscript were previously published as a preprint (<xref ref-type="bibr" rid="ref-100">Villafranca et al., 2023</xref>).</p>
+<sec>
+<title>Sample collection &amp; experimental design</title>
+<p>Entire colonies of “white” (low symbiont density; <italic>n</italic> = 13) and “brown” (high symbiont densities; <italic>n</italic> = 7) <italic>A. poculata</italic> ranging in size from ~5–61 cm (17–86 polyps) were collected from Fort Wetherill in Jamestown, Rhode Island (41°28′40″N, 71°21′34″W) in August 2021, at a depth of 10–15 m. Corals were collected under RI Department of Environmental Management Permit #825 issued to Koty Sharp/Roger Williams University. Previous studies have indicated <italic>A. poculata</italic> reaches peak gametogenesis between August and September each year (<xref ref-type="bibr" rid="ref-93">Szmant-Froelich, Yevich &amp; Pilson, 1980</xref>). Samples were returned to Roger Williams University (Bristol, Rhode Island), and held overnight prior to experimental spawning. To trigger spawning, individuals were moved from the recirculating tanks at ambient temperatures (~19 °C) to individual containers with 100 mL of filtered seawater heated to 27 °C. Colonies were then closely monitored for signs of spawning. Colony sex was confirmed based on gametes released at time of spawning (<italic>A. poculata</italic> is gonochoristic; <xref ref-type="bibr" rid="ref-93">Szmant-Froelich, Yevich &amp; Pilson, 1980</xref>). Twenty male colonies were identified and used for the study, 13 white and seven brown. Individuals were allowed to spawn for 30 min, at which point gamete release had nearly or completely ceased. Following this period adult colonies were removed and flash frozen in liquid nitrogen. The water in the container was then thoroughly mixed and a 1 mL sample was taken from each colony for sperm density estimation. Sperm density was estimated by counting in triplicate on a haemocytometer; counts were then normalized to number of polyps per colony prior to statistical analyses. Flash frozen adult corals were later shipped to Texas State University for downstream sample processing and analysis.</p>
+</sec>
+<sec>
+<title>Symbiont density quantification</title>
+<p>Flash frozen adult colonies were airbrushed using a Paasche air brusher (VL0221) with 100 mM Tris + 0.5 mM Dithiothreitol (DTT; pH 7.8) to remove tissue from the skeleton and extract symbionts and host-enriched proteins (<xref ref-type="bibr" rid="ref-24">Fuess et al., 2016</xref>). First, in order to estimate symbiont density, an area of 2.14 cm<sup>2</sup> (1-2 polyps) was marked on a flat surface of the colony. Tissue was airbrushed from the area until no tissue remained. The resulting tissue slurry was placed in a 2.0 mL microcentrifuge tube, and homogenized for 10 seconds using a handheld homogenizer (Fisherbrand 150). Following homogenization, samples were centrifuged (2000 RPM for 3 min) and then washed with 500 µl of DI H<sub>2</sub>O. This process was repeated twice; final samples were preserved in 500 µl of Deionized H<sub>2</sub>O + 0.01% Sodium Dodecyl Sulfate (SDS) and stored at 4 °C. Symbiont density was later determined <italic>via</italic> microscopy (Nikon Eclipse E600) by counting in triplicate on a hemocytometer (<xref ref-type="bibr" rid="ref-13">Changsut et al., 2022</xref>; <xref ref-type="bibr" rid="ref-50">Mieog et al., 2009</xref>).</p>
+</sec>
+<sec>
+<title>Protein extraction and immune metric analyses</title>
+<p>A cell free tissue extract was generated from the remaining portion of the <italic>A. poculata</italic> colony following established protocols (<xref ref-type="bibr" rid="ref-13">Changsut et al., 2022</xref>). Host immunity was then characterized using a suite of established biochemical immune assays designed to measure multiple components of host coral immunity. Specifically we measured antioxidant activity (catalase and peroxidase), components of the melanin synthesis cascade (total phenoloxidase activity and melanin concentration), and antibacterial activity following established protocols optimized for <italic>A. poculata</italic> (<xref ref-type="bibr" rid="ref-13">Changsut et al., 2022</xref>). The assays capture three main components of the coral immune system. Antioxidant activity is essential in both stress and immune response, mitigating the impacts of toxic reactive oxygen species produced by pathogens, as a byproduct of other immune pathways, or as a result of stress (<xref ref-type="bibr" rid="ref-64">Palmer, Roth &amp; Gates, 2009</xref>; <xref ref-type="bibr" rid="ref-94">Tarrant et al., 2014</xref>). The melanin synthesis cascade is a multi-functional pathway with important roles in immune defense. Melanin can be used to encapsulate pathogens, and is directly cytotoxic to pathogens (<xref ref-type="bibr" rid="ref-66">Palmer et al., 2011b</xref>). The production of melanin is dependent on phenoloxidase enzymes which are secreted in an inactive form (<xref ref-type="bibr" rid="ref-12">Cerenius et al., 2010</xref>; <xref ref-type="bibr" rid="ref-63">Palmer, Mydlarz &amp; Willis, 2008</xref>); total phenoloxidase assays captures activity of both active and inactive phenoloxidases. Finally, we measured the ability of cell free protein extracts to inhibit growth of the known coral pathogen, <italic>Vibrio coralliilyticus</italic> (Strain RE22Sm provided by D. Nelson at University of Rhode Island; <xref ref-type="bibr" rid="ref-97">Ushijima et al., 2020</xref>, <xref ref-type="bibr" rid="ref-98">2014</xref>) as a metric of antibacterial activity. All immune assays were run in triplicate on 96 well plates using a Cytation 1 cell imaging multi-mode reader and Gen 5 software (BioTek Instruments, Winooski, VT, USA). A Red660 (G Biosciences, St. Louis, Missouri) assay was used to determine protein concentration to standardize immune activity metrics (<xref ref-type="bibr" rid="ref-58">Mydlarz &amp; Palmer, 2011</xref>). Full processing and assay details can be found in <xref ref-type="supplementary-material" rid="supp-1">Supplementary File 1</xref>.</p>
+</sec>
+<sec>
+<title>Energetic assays (lipid and carbohydrate concentration)</title>
+<p>Energetic budget, specifically lipid and carbohydrate concentration, were estimated using a portion of the generated cell free tissue extract. Measurement of lipid and carbohydrate concentration is a standard approach for estimating coral energetic budget (<xref ref-type="bibr" rid="ref-78">Rodrigues &amp; Grottoli, 2007</xref>) A standard coral protocol for quantification of lipids within coral tissue slurries was used to estimate lipid content (<xref ref-type="bibr" rid="ref-8">Bove &amp; Baumann, 2021</xref>). Similarly, we estimated total carbohydrate concentration following previously established protocols (<xref ref-type="bibr" rid="ref-21">Dubois et al., 1956</xref>; <xref ref-type="bibr" rid="ref-46">Masuko et al., 2005</xref>). Both lipid and carbohydrate concentration were standardized by dry tissue weight. Full methodological details can be found in <xref ref-type="supplementary-material" rid="supp-1">Supplementary File 1</xref>.</p>
+</sec>
+<sec>
+<title>Statistical analyses</title>
+<p>All statistical analyses were conducted in R (version 4.2.1; <xref ref-type="bibr" rid="ref-75">R Core Team, 2021</xref>), with the RStudio integrated development environment (<xref ref-type="bibr" rid="ref-74">R Core Team, 2020</xref>). Prior to statistical analyses, outliers were removed based on results of a Rosner Test (EnvStats, v 2.7.0; <xref ref-type="bibr" rid="ref-51">Millard, 2013</xref>) One outlier was identified and removed each for peroxidase, melanin, and lipid concentration. Data was checked for normality using a Shapiro Test (base R), and total phenoloxidase activity and sperm density were normalized using a log transformation. We then conducted statistical analyses taking the following approach: first we tested specific hypotheses regarding variation in symbiont density across colony types, effects of variation in symbiont density, and drivers of variation in sperm density. Then we considered the factors contributing to variation in immune function using both multivariate and univariate approaches. Full details of our statistical approaches are below.</p>
+</sec>
+<sec>
+<title>Hypothesis testing</title>
+<p>First, differences in symbiont density between white and brown colonies were assessed using a non-parametric t-test (Wilcoxon test; base R) as symbiont density data distribution could not be normalized. Next, the impact of both symbiotic state (categorical) and symbiont density (continuous) on lipid and carbohydrate concentration was evaluated using linear models (base R). Finally, the impact of symbiont density and energetic budget (lipid and carbohydrate concentration) on sperm density was assessed. Using the R package MuMIn (v. 1.47.5; <xref ref-type="bibr" rid="ref-5">Barton, 2023</xref>) we dredged all possible linear models explaining this relationship, performed model testing, and then applied model averaging for the best fit models (Δ AIC &lt; 2).</p>
+</sec>
+<sec>
+<title>Multivariate statistics</title>
+<p>Next, multivariate statistics were used to investigate the roles of symbiont state/density, energetic budget (lipids and carbohydrates), and sperm density on immune parameters. First, a MANOVA was run to test for the impacts of symbiont state on immune parameters (base R). Then a principal component analysis was used to further compare immune profiles between white and brown colonies (base R). Prior to PCA analysis all numeric variables were centered and scaled. Next, to determine the effects of our continuous predictors (symbiont density, energetic budget, and sperm density) on immune profiles (response variables) centered and scaled values were used to conduct an RDA analysis with the R package vegan (v. 2.6-4; <xref ref-type="bibr" rid="ref-60">Oksanen et al., 2023</xref>). Forward model selection was used to determine significant predictors in our analysis. Finally, a correlational analysis was conducted to test for associations between all continuous variables (predictor and response) using base R (Pearson correlation).</p>
+</sec>
+<sec>
+<title>Univariate statistics</title>
+<p>After completing multivariate statistics, the impacts of our predictor variables (symbiont state/density, energetic budget, sperm density) on each of our immune parameters individually were assessed. For each immune parameter the R package MuMIn (v. 1.47.5; <xref ref-type="bibr" rid="ref-5">Barton, 2023</xref>) was used to dredge and test all possible linear models. Model averaging was used to summarize all best fit models (Δ AIC &lt; 2).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Hypothesis testing</title>
+<p>Symbiont density was significantly higher in colonies classified as “brown” than those classified as “white” (Wilcoxon test, W=91, <italic>p</italic> &lt; 0.001; <xref ref-type="supplementary-material" rid="supp-6">Fig. S1</xref>). However, there was no significant association between symbiont density and carbohydrate (linear model, coefficient estimate = −3.18e<sup>−9</sup>, std err = 7.25e<sup>−9</sup>, t val. = −0.439, <italic>p</italic> = 0.666) or lipid concentration (linear model, coefficient estimate = −2.65e<sup>−10</sup>, std err = 6.50e<sup>−9</sup>, t val. = −0.041, <italic>p</italic> = 0.968), nor was there a difference in either carbohydrates (linear model, coefficient estimate = 0.00133, std err = 0.00178, t val = 0.749, <italic>p</italic> = 0.463) or lipids (linear model, coefficient estimate = 0.000383, std err = 0.00131, t val = 0.293, <italic>p</italic> = 0.773) between white and brown colonies. Finally, the only significant predictor of sperm density was carbohydrate concentration, which was positively associated with normalized sperm density (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>, <xref ref-type="table" rid="table-1">Tables 1</xref>, <xref ref-type="supplementary-material" rid="supp-4">S1</xref>).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16586/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Linear regression modeling of the relationship between average sperm production per polyp and carbohydrate concentration.</title>
+<p>Points are colored based on original sample symbiotic state classification (white or brown). Trendline is representative of the linear model of the relationship of the two variables, with 95% confidence intervals shaded.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16586/fig-1.png"/>
+</fig><table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.16586/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Linear model results for sperm density.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16586/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Predictors</th>
+<th>Estimates</th>
+<th>SE</th>
+<th>t</th>
+<th><italic>p</italic> value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(Intercept)</td>
+<td align="char" char=".">12.3</td>
+<td align="char" char=".">0.687</td>
+<td align="char" char=".">17.9</td>
+<td align="char" char="."><bold>&lt;0.001 ***</bold></td>
+</tr>
+<tr>
+<td>Carbohydrates</td>
+<td align="char" char=".">224</td>
+<td align="char" char=".">84.5</td>
+<td align="char" char=".">2.65</td>
+<td align="char" char="."><bold>0.0167*</bold></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Best-fit linear models for sperm density when including symbiont density, carbohydrate concentration, lipid concentration as predictors. All possible models were compared and model averaging was used where appropriate (AIC delta &lt; 2). Bold font indicates significant p-values; asterisks represent significance: *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec>
+<title>Multivariate statistics</title>
+<p>Immunity did not vary significantly as a result of symbiont state (MANOVA, Pillai’s Trace = 0.482, F (5/11) = 2.047, <italic>p</italic> = 0.1497). Principle component analysis was in congruence with this finding (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>); no clear spatial separation between white and brown colonies was observed. Furthermore, forward model selection for RDA analysis failed to identify any significant predictors. Finally, we identified several significant correlations among our continuous variables (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Carbohydrate concentration was significantly positively correlated to both antibacterial activity (Pearson correlation, <italic>r</italic> = 0.59, <italic>p</italic> = 0.0158) and lipid concentration (Pearson correlation, <italic>r</italic> = 0.51, <italic>p</italic> = 0.0459). Symbiont density was significantly correlated to melanin concentration (Pearson correlation, <italic>r</italic> = 0.54, <italic>p</italic> = 0.0317). Sperm density was significantly positively correlated to total phenoloxidase activity (Pearson correlation, <italic>r</italic> = 0.5, <italic>p</italic> = 0.0494).</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16586/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Principal component analysis showing special orientation of average immune activity of each coral.</title>
+<p>Points are colored and grouped by symbiotic state classification. Arrows depict principal component loadings of each measured immune metric.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16586/fig-2.png"/>
+</fig><fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.16586/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Correlation plot displaying results of all possible pairwise comparisons of all continuous variables measured (Pearson correlation).</title>
+<p>Only significant (<italic>p</italic> &lt; 0.05) associations are displayed. Histograms along the y axis display distribution of each continuous variable (split into approximately 20 bins).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16586/fig-3.png"/>
+</fig>
+</sec>
+<sec>
+<title>Univariate statistics</title>
+<p>Based on the limited observed significant multivariate associations, we also considered the impacts of each of our predictors (symbiont density/state, energetic budget, sperm density) on activity of our immune metrics using general linear models. Only melanin was significantly impacted by any of predictors (<xref ref-type="table" rid="table-2">Tables 2</xref>, <xref ref-type="supplementary-material" rid="supp-5">S2</xref>). Melanin concentration was significantly positively associated with both carbohydrate concentration (<italic>p</italic> = 0.00927) and symbiont density (<italic>p</italic> = 0.0176; <xref ref-type="fig" rid="fig-4">Fig. 4</xref>).</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.16586/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Linear model results for individual immune parameters.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16586/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th colspan="9">Catalase</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><bold>Predictors</bold></td>
+<td><bold>Estimates</bold></td>
+<td colspan="2"><bold>SE</bold></td>
+<td colspan="2"><bold>SEadj</bold></td>
+<td colspan="2"><bold>z</bold></td>
+<td><bold><italic>p</italic> value</bold></td>
+</tr>
+<tr>
+<td>(Intercept)</td>
+<td align="char" char=".">1,386</td>
+<td colspan="2">134.5</td>
+<td colspan="2">141.5</td>
+<td colspan="2">9.80</td>
+<td align="char" char="."><bold>&lt;0.001 ***</bold></td>
+</tr>
+<tr>
+<td>Sperm</td>
+<td>−1.10E<sup>−5</sup></td>
+<td colspan="2">2.02E<sup>−5</sup></td>
+<td colspan="2">2.10E<sup>−5</sup></td>
+<td colspan="2">0.529</td>
+<td align="char" char=".">0.597</td>
+</tr>
+<tr>
+<td>Carbohydrates</td>
+<td align="char" char=".">9,829</td>
+<td colspan="2">18,200</td>
+<td colspan="2">18,820</td>
+<td colspan="2">0.522</td>
+<td align="char" char=".">0.602</td>
+</tr>
+<tr>
+<td colspan="9"><bold>Peroxidase</bold></td>
+</tr>
+<tr>
+<td><bold>Predictors</bold></td>
+<td><bold>Estimates</bold></td>
+<td colspan="2"><bold>SE</bold></td>
+<td colspan="2"><bold>SEadj</bold></td>
+<td colspan="2"><bold>z</bold></td>
+<td><bold><italic>p</italic> value</bold></td>
+</tr>
+<tr>
+<td>(Intercept)</td>
+<td align="char" char=".">1.875</td>
+<td colspan="2">0.315</td>
+<td colspan="2">0.334</td>
+<td colspan="2">5.62</td>
+<td align="char" char="."><bold>&lt;0.001 ***</bold></td>
+</tr>
+<tr>
+<td>Symbiont</td>
+<td align="char" char=".">−2.74E<sup>−6</sup></td>
+<td colspan="2">2.98E<sup>−6</sup></td>
+<td colspan="2">3.08E<sup>−6</sup></td>
+<td colspan="2">0.889</td>
+<td align="char" char=".">0.374</td>
+</tr>
+<tr>
+<td colspan="9"><bold>Antibacterial activity</bold></td>
+</tr>
+<tr>
+<td><bold>Predictors</bold></td>
+<td><bold>Estimates</bold></td>
+<td colspan="2"><bold>SE</bold></td>
+<td colspan="2"><bold>SEadj</bold></td>
+<td colspan="2"><bold>z</bold></td>
+<td><bold><italic>p</italic> value</bold></td>
+</tr>
+<tr>
+<td>(Intercept)</td>
+<td align="char" char=".">3.35</td>
+<td align="char" char="." colspan="2">0.187</td>
+<td align="char" char="." colspan="2">0.196</td>
+<td colspan="2">17.2</td>
+<td><bold>&lt;0.001 ***</bold></td>
+</tr>
+<tr>
+<td>Carbohydrates</td>
+<td align="char" char=".">13.5</td>
+<td align="char" char="." colspan="2">20.3</td>
+<td align="char" char="." colspan="2">20.9</td>
+<td colspan="2">0.647</td>
+<td align="char" char=".">0.518</td>
+</tr>
+<tr>
+<td>Lipids</td>
+<td align="char" char=".">5.32</td>
+<td align="char" char="." colspan="2">15.0</td>
+<td align="char" char="." colspan="2">15.5</td>
+<td colspan="2">0.343</td>
+<td align="char" char=".">0.732</td>
+</tr>
+<tr>
+<td colspan="9"><bold>Total phenoloxidase</bold></td>
+</tr>
+<tr>
+<td><bold>Predictors</bold></td>
+<td><bold>Estimates</bold></td>
+<td colspan="2"><bold>SE</bold></td>
+<td colspan="2"><bold>SEadj</bold></td>
+<td colspan="2"><bold>z</bold></td>
+<td><bold><italic>p</italic> value</bold></td>
+</tr>
+<tr>
+<td>(Intercept)</td>
+<td align="char" char=".">−1.39</td>
+<td colspan="2">0.144</td>
+<td colspan="2">0.153</td>
+<td colspan="2">9.12</td>
+<td><bold>&lt;0.001 ***</bold></td>
+</tr>
+<tr>
+<td>Sperm</td>
+<td align="char" char=".">4.06E<sup>−8</sup></td>
+<td colspan="2">3.50E<sup>−8</sup></td>
+<td colspan="2">3.77E<sup>−8</sup></td>
+<td colspan="2">1.08</td>
+<td align="char" char=".">0.282</td>
+</tr>
+<tr>
+<td colspan="9"><bold>Melanin</bold></td>
+</tr>
+<tr>
+<td><bold>Predictors</bold></td>
+<td colspan="2"><bold>Estimates</bold></td>
+<td colspan="2"><bold>SE</bold></td>
+<td colspan="2"><bold>t</bold></td>
+<td colspan="2"><bold><italic>p</italic> value</bold></td>
+</tr>
+<tr>
+<td>(Intercept)</td>
+<td colspan="2">2.61E<sup>−5</sup></td>
+<td colspan="2">1.61E<sup>−5</sup></td>
+<td colspan="2">1.621</td>
+<td colspan="2">0.126</td>
+</tr>
+<tr>
+<td>Carbohydrates</td>
+<td colspan="2">5.44E<sup>−3</sup></td>
+<td colspan="2">1.82E<sup>−3</sup></td>
+<td colspan="2">2.984</td>
+<td colspan="2"><bold>0.00927**</bold></td>
+</tr>
+<tr>
+<td>Symbiont</td>
+<td colspan="2">1.97E<sup>−10</sup></td>
+<td colspan="2">7.37E<sup>−11</sup></td>
+<td colspan="2">2.67</td>
+<td colspan="2"><bold>0.0176*</bold></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<p>Best-fit linear models for each immune parameter when including symbiont density, carbohydrate concentration, lipid concentration, and sperm produced per polyp as predictors. All possible models were compared and model averaging was used where appropriate (Δ AIC &lt; 2). Bold font indicates significant p-values; asterisks represent significance: *<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap><fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.16586/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Linear regression modeling of the relationship between carbohydrate concentration and symbiont density and melanin concentration.</title>
+<p>(A) Relationship between carbohydrate concentration and melanin concentration; (B) relationship between symbiont density and melanin concentration. Points are colored based on original sample symbiotic state classification (white or brown). Trendline is representative of the linear model of the relationship of the two variables, with 95% confidence intervals shaded.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16586/fig-4.png"/>
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Coral reefs globally are undergoing rapid, unprecedented declines due to anthropogenic climate change and associated disease outbreaks (<xref ref-type="bibr" rid="ref-32">Hoegh-Guldberg et al., 2007</xref>; <xref ref-type="bibr" rid="ref-36">Johnston, Clark &amp; Bruno, 2022</xref>; <xref ref-type="bibr" rid="ref-72">Precht et al., 2016</xref>). Corals exhibit both inter- and intra-specific variation in susceptibility to disease and infection, but the ecological factors that drive susceptibility are poorly understood (<xref ref-type="bibr" rid="ref-25">Fuess et al., 2017</xref>; <xref ref-type="bibr" rid="ref-57">Mydlarz et al., 2016</xref>). Few studies have investigated trade-offs between key life-history traits and immunity in cnidarians (<xref ref-type="bibr" rid="ref-4">Alvarez-Filip et al., 2022</xref>; <xref ref-type="bibr" rid="ref-71">Pinzon et al., 2014b</xref>; <xref ref-type="bibr" rid="ref-80">Schlecker et al., 2022</xref>; <xref ref-type="bibr" rid="ref-101">Weil, Croquer &amp; Urreiztieta, 2009</xref>). Here, we used the facultatively symbiotic coral <italic>Astrangia poculata</italic> to investigate potential reproductive-immune trade-offs in scleractinian corals, and the impacts of variation in symbiont density and energy budgets on these trade-offs.</p>
+<p>Our study found limited links between variation in symbiont density and our measured physiological traits (lipid/carbohydrate concentration, immune activity, reproductive output). Most notably, we observed no significant difference in total lipid and carbohydrate content as a result of variable symbiont density in adult coral colonies. While this is in agreement with a previous study of <italic>A. poculata</italic> (<xref ref-type="bibr" rid="ref-92">Szmant-Froelich &amp; Pilson, 1980</xref>), it is in opposition to conventional thinking regarding symbiosis, which would suggest that increased symbiont density results in increased energetic budget (<xref ref-type="bibr" rid="ref-13">Changsut et al., 2022</xref>; <xref ref-type="bibr" rid="ref-30">Harman et al., 2022</xref>; <xref ref-type="bibr" rid="ref-34">Hughes et al., 2010</xref>; <xref ref-type="bibr" rid="ref-73">Pupier et al., 2019</xref>). We propose two alternative hypotheses to explain these patterns: first, it is possible corals with lower symbiont density compensate <italic>via</italic> increased heterotrophic feeding. Unlike tropical corals, <italic>Astrangia</italic> is commonly found in low light, nutritionally rich waters. Consequently, these corals may obtain a significant portion of their nutrition from heterotrophy, especially colonies with low symbiont densities (<xref ref-type="bibr" rid="ref-91">Szmant-Froelich, 1981</xref>; <xref ref-type="bibr" rid="ref-102">Wuitchik et al., 2021</xref>). Heterotrophic feeding has previously been demonstrated to have a significant role in the efficiency of physiological traits in <italic>Astrangia</italic> and other facultatively symbiotic corals (<xref ref-type="bibr" rid="ref-2">Aichelman et al., 2016</xref>; <xref ref-type="bibr" rid="ref-19">Dimond &amp; Carrington, 2007</xref>; <xref ref-type="bibr" rid="ref-22">Ferrier-Pagès et al., 1998</xref>; <xref ref-type="bibr" rid="ref-52">Miller, 1995</xref>). Thus, it is possible that our colonies with lower symbiont densities were compensating <italic>via</italic> heterotrophic feeding and actually not nutrient limited. The absence of nutrient limitation due to heterotrophic feeding may also explain the lack of trade-offs observed (see below). Alternatively, total lipid and carbohydrate assays may not fully captured host energetic budget, as coral energetic budgets are exceptionally complex (<xref ref-type="bibr" rid="ref-41">Lesser, 2012</xref>). Other approaches which account for carbon flux, utilize stoichiometric approaches, or assess diverse metabolites in both the presence and absence of heterotrophy, may provide further insight regarding the relationship between symbiont state and energetic budget.</p>
+<p>Similar to energetic budget, associations between symbiont density and immunity were limited. Our multivariate analyses failed to detect any differences in immunity between white and brown colonies, nor as a result of symbiont density. However, correlational analysis and univariate linear modeling detected a positive association between melanin concentration and symbiont density (but not symbiont state). Previous <italic>A. poculata</italic> studies have noted a significant positive association between melanin synthesis and symbiotic state/symbiont density (<xref ref-type="bibr" rid="ref-13">Changsut et al., 2022</xref>; <xref ref-type="bibr" rid="ref-30">Harman et al., 2022</xref>). This broad consensus regarding the positive association between melanin and symbiont density is most likely reflective of the dual roles of melanin synthesis in immunity and symbiont regulation. Melanin production can be used as a mechanism of symbiont shading in response to UV, reducing organismal stress (<xref ref-type="bibr" rid="ref-61">Palmer, Bythell &amp; Willis, 2011</xref>). Further investigation of response of <italic>A. poculata</italic> to pathogens/immune threats, as opposed to measurement of constitutive immunity, will provide insight regarding the roles of melanin in immune responses, and clarify the mechanisms of symbiont-melanin associations.</p>
+<p>Next, we considered associations between symbiont density, carbohydrate and lipid concentration and sperm density. Only carbohydrate concentration was positively associated with sperm density, suggesting that sperm release is at least in part resource limited. As gametogenesis in <italic>A. poculata</italic> begins earlier in the year (<xref ref-type="bibr" rid="ref-93">Szmant-Froelich, Yevich &amp; Pilson, 1980</xref>), this association may be more indicative of the energetic costs of sperm release (spawning), rather than sperm production. Nutrient limitation has significant negative effects on multiple ejaculate traits (<xref ref-type="bibr" rid="ref-43">Macartney et al., 2019</xref>), reflective of the costs of sperm release. Further analysis of the association between energetic budget and sperm density throughout gametogenesis will provide improved understanding of temporal shifts in energetic allocation to reproduction.</p>
+<p>In addition to sperm density, carbohydrate concentration was also positively associated with two metrics of immunity: melanin concentration and antibacterial activity. These associations are likely indicative of the high costs of both of these immune metrics. Melanin production is the result of a complex pathway; beginning with pathogen recognition and continuing through a series of protein cascades leading to the production of melanin (<xref ref-type="bibr" rid="ref-12">Cerenius et al., 2010</xref>; <xref ref-type="bibr" rid="ref-63">Palmer, Mydlarz &amp; Willis, 2008</xref>). The complexity of the pathway is likely associated with high metabolic costs. To such end, previous studies have documented negative associations between lipid reserves and melanin concentration following immune stimulation (<xref ref-type="bibr" rid="ref-85">Sheridan et al., 2014</xref>). Similarly, antibacterial activity as measured here is the result of the action of many unique compounds. Corals and other cnidarians secrete a wide diversity of often complex antibacterial compounds (<xref ref-type="bibr" rid="ref-54">Mitchell et al., 2019</xref>; <xref ref-type="bibr" rid="ref-57">Mydlarz et al., 2016</xref>; <xref ref-type="bibr" rid="ref-65">Palmer &amp; Traylor-Knowles, 2012</xref>), which may require significant energy to produce. In contrast, other metrics of immunity measured here, specifically antioxidants, are single molecules/compounds, and likely require significantly less metabolic input (<xref ref-type="bibr" rid="ref-95">Traylor-Knowles &amp; Connelly, 2017</xref>). The low cost of investment in these components could explain the lack of strong correlation between our metrics of energetic budget and these immune parameters.</p>
+<p>Finally, when considering the factors driving variation in immunity using both a multivariate and univariate approach, we found limited evidence for any association between sperm density and immunity. A moderate positive association between total phenoloxidase and sperm density was observed using correlational analyses. There is conflicting evidence regarding the link between reproduction and phenoloxidase in other invertebrates, with studies indicating both positive and negative associations (<xref ref-type="bibr" rid="ref-11">Castella, Christe &amp; Chapuisat, 2009</xref>; <xref ref-type="bibr" rid="ref-28">Guo et al., 2021</xref>). Further study of immune-reproduction associations in cnidarians will help clarify this relationship.</p>
+<p>In total, our results were in contrast with our hypothesis; we observed no significant trade-offs between constitutive immunity and reproduction. We can posit several hypotheses to explain these observations. First, the timing of our experiment may not have properly reflected peak reproductive investment. Gametogenesis in <italic>A. poculata</italic> begins in early March-April and continues through June and July, with colonies spawning in early August/September (<xref ref-type="bibr" rid="ref-93">Szmant-Froelich, Yevich &amp; Pilson, 1980</xref>). While we observed some association between sperm density and carbohydrate concentration indicative of resource allocation, is possible that this allocation may have been higher at earlier points of gametogenesis, as opposed to at the time of sampling in August (<xref ref-type="bibr" rid="ref-93">Szmant-Froelich, Yevich &amp; Pilson, 1980</xref>). Consequently, the most pronounced trade-offs would have occurred earlier in the season, and tapered off by the point of sampling as resources availability increased and more resources could be allocated to immunity. Second, we chose here to measure sperm density due to sampling logistics. Sperm production is typically considered to be less energetically costly than production of eggs (<xref ref-type="bibr" rid="ref-31">Hayward &amp; Gillooly, 2011</xref>; <xref ref-type="bibr" rid="ref-67">Parker, 1970</xref>; <xref ref-type="bibr" rid="ref-68">Parker, 1982</xref>). While we did observe some association between energetic resources and sperm, it is likely that these associations are more pronounced in females and consequently reproductive trade-offs would be more evident when considering females. Finally, our study does not account for multiple spawning events, specifically spawning events that may have occurred naturally prior to sample collection. Some coral species spawn multiple times throughout a season, and exact timing of <italic>Astrangia</italic> spawning in natural environments is unknown (<xref ref-type="bibr" rid="ref-93">Szmant-Froelich, Yevich &amp; Pilson, 1980</xref>). Thus, it is possible that the collected <italic>Astrangia</italic> colonies had previously spawned <italic>in situ</italic>, and the induced events were a secondary release with reduced sperm density not reflective of true reproductive investment. Congruent with this possibility, several of our colonies had negligible measured sperm density. Future studies combining histology with immunological assays at different points of gametogenesis in both male and female colonies may clarify presence and timing of potential trade-offs.</p>
+<p>It is also possible that nuances in our study design did not allow us to observe trade-offs. It must be noted that trade-offs occur in a multi-dimensional trait space filled with competed demands (<xref ref-type="bibr" rid="ref-42">Lochmiller &amp; Deerenberg, 2000</xref>; <xref ref-type="bibr" rid="ref-88">Stearns, 1989</xref>), and our experimental analyses only captured two of these demands (<italic>i.e</italic>., reproduction and immunity). It is highly likely that more complicated trade-offs, that involve other organismal demands (growth, maintenance, <italic>etc</italic>.,) may occur and were not captured by our study. Approaches that properly reflect the multi-dimensional trait space associated with resource allocation will be necessary to fully disentangle the relationship between immunity and other costly processes. Additionally, our study measured a limited number of immune metrics; it is possible that trade-offs exist between reproduction and immunity but involve other components of the immune system. The coral immune system is complex, involving many different components (receptors, signaling cascades, cellular and humoral effector responses, <italic>etc</italic>.), all of which have different relative costs (<xref ref-type="bibr" rid="ref-14">Colditz, 2008</xref>; <xref ref-type="bibr" rid="ref-35">Ivanina et al., 2018</xref>; <xref ref-type="bibr" rid="ref-42">Lochmiller &amp; Deerenberg, 2000</xref>; <xref ref-type="bibr" rid="ref-82">Seppala &amp; Leicht, 2013</xref>). It is therefore reasonable to assume that trade-offs are not equivalent across components, as has previously been observed in other systems (<xref ref-type="bibr" rid="ref-1">Adamo, Jensen &amp; Younger, 2001</xref>; <xref ref-type="bibr" rid="ref-3">Albery et al., 2019</xref>; <xref ref-type="bibr" rid="ref-26">Gershman et al., 2010</xref>; <xref ref-type="bibr" rid="ref-42">Lochmiller &amp; Deerenberg, 2000</xref>). Future studies should incorporate more comprehensive metrics of immunity using methods such as gene expression or proteomics.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>In sum, our results fail to document notable associations between variation in symbiont density or energetic budget and metrics of host physiology (reproductive output and immunity). Furthermore, we find no evidence of trade-offs between reproductive output and immune activity. Still, our results are an important first step in broadening general understanding of resource allocation theory in cnidarians, which can be applied to other organisms facing rapid environmental changes. The information provided here provides an important preliminary framework for future studies of immunological trade-offs in marine invertebrates and the potential effects of variation in energetic budget on these patterns.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16586/SuppFile1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.16586/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>The methodology used for cell free protein extract generation, immune assays, and energetic reserve assays.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/16586/cleandata_withmeta.xls">
+<object-id pub-id-type="doi">10.7717/peerj.16586/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Annotated Data Files.</title>
+<p>Readme and raw data collected and analyzed as part of the experiment. Readme explains each measured value including units and collection parameters.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/16586/natstats_resubmission_final.R">
+<object-id pub-id-type="doi">10.7717/peerj.16586/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Statistical code used for all analyses.</title>
+<p>Annotated R code used to conduct all reported statistical analyses and produce all presented figures.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/16586/SuppTable1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.16586/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Linear model results for sperm density when using symbiotic state as categorical predictor.</title>
+<p>Best-fit linear models for sperm density when including symbiotic state, carbohydrate concentration, lipid concentration as predictors. All possible models were compared and model averaging was used where appropriate (AIC delta &lt; 2). Asterisks (*) represent significant p-value (a = 0.05).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/16586/SuppTable2.docx">
+<object-id pub-id-type="doi">10.7717/peerj.16586/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Linear model results for individual immune parameters when using symbiotic state as a categorical predictor.</title>
+<p>Best-fit linear models for each immune parameter when including symbiotic state, carbohydrate concentration, lipid concentration, and sperm produced per polyp as predictors. All possible models were compared and model averaging was used where appropriate (AIC delta &lt; 2). Asterisks (*) represent significant p-value (a = 0.05).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/16586/SuppFig1.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.16586/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>Box plot displaying average symbiont density within colonies originally classified as “white” or “brown”.</title>
+<p>Dots represent raw data values within each group. Colonies classified in the brown symbiotic state have significantly higher symbiont density than those classified as white (Wilcoxin Test, <italic>p</italic> &lt; 0.001)</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>The authors would like to thank Koty Sharp, Alicia Shickle, and members of the Roger Williams University Wet Lab for use of their facilities, assistance in collection of corals for this experiment, and execution of spawning/larval husbandry.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Natalie Villafranca</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Isabella Changsut</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Sofia Diaz de Villegas</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Haley Womack</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Lauren E Fuess</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to field study approvals (<italic>i.e</italic>., approving body and any reference numbers):</p>
+<p>RI Department of Environmental Management, Division of Marine Fisheries</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-2">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data and code used for all presented analyses are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Adamo, Jensen &amp; Younger (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Adamo</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Jensen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Younger</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Changes in lifetime immunocompetence in male and female Gryllus texensis (formerly G. integer): trade-offs between immunity and reproduction</article-title>
+<source>Animal Behaviour</source>
+<year iso-8601-date="2001">2001</year>
+<volume>62</volume>
+<issue>3</issue>
+<fpage>417</fpage>
+<lpage>425</lpage>
+<pub-id pub-id-type="doi">10.1006/anbe.2001.1786</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Aichelman et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Aichelman</surname>
+<given-names>HE</given-names>
+</name>
+<name>
+<surname>Townsend</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Courtney</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>Baumann</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Castillo</surname>
+<given-names>KD</given-names>
+</name>
+</person-group>
+<article-title>Heterotrophy mitigates the response of the temperate coral Oculina arbuscula to temperature stress</article-title>
+<source>Ecology and Evolution</source>
+<year iso-8601-date="2016">2016</year>
+<volume>6</volume>
+<issue>18</issue>
+<fpage>6758</fpage>
+<lpage>6769</lpage>
+<pub-id pub-id-type="doi">10.1002/ece3.2399</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Albery et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Albery</surname>
+<given-names>GF</given-names>
+</name>
+<name>
+<surname>Watt</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Keith</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Morris</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Morris</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kenyon</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Nussey</surname>
+<given-names>DH</given-names>
+</name>
+<name>
+<surname>Pemberton</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Gremillet</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Reproduction has different costs for immunity and parasitism in a wild mammal</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="2019">2019</year>
+<volume>34</volume>
+<issue>1</issue>
+<fpage>229</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2435.13475</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Alvarez-Filip et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alvarez-Filip</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>González-Barrios</surname>
+<given-names>FJ</given-names>
+</name>
+<name>
+<surname>Pérez-Cervantes</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Molina-Hernández</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Estrada-Saldívar</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Stony coral tissue loss disease decimated Caribbean coral populations and reshaped reef functionality</article-title>
+<source>Communications Biology</source>
+<year iso-8601-date="2022">2022</year>
+<volume>5</volume>
+<issue>1</issue>
+<fpage>989</fpage>
+<pub-id pub-id-type="doi">10.1038/s42003-022-03398-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Barton (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Barton</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>MuMIn: multi-model inference</article-title>
+<year iso-8601-date="2023">2023</year><uri>https://CRAN.R-project.org/package=MuMIn</uri>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Beavers et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Beavers</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Van Buren</surname>
+<given-names>EW</given-names>
+</name>
+<name>
+<surname>Rossin</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Emery</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Veglia</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Karrick</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>MacKnight</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Dimos</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Meiling</surname>
+<given-names>SS</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>TB</given-names>
+</name>
+<name>
+<surname>Apprill</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Muller</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Holstein</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Correa</surname>
+<given-names>AMS</given-names>
+</name>
+<name>
+<surname>Brandt</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Stony coral tissue loss disease induces transcriptional signatures of in situ degradation of dysfunctional Symbiodiniaceae</article-title>
+<source>Nature Communications</source>
+<year iso-8601-date="2023">2023</year>
+<volume>14</volume>
+<issue>1</issue>
+<fpage>2915</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-023-38612-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Bourne et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bourne</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>Garren</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Work</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Rosenberg</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>GW</given-names>
+</name>
+<name>
+<surname>Harvell</surname>
+<given-names>CD</given-names>
+</name>
+</person-group>
+<article-title>Microbial disease and the coral holobiont</article-title>
+<source>Trends in Microbiology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>17</volume>
+<issue>12</issue>
+<fpage>554</fpage>
+<lpage>562</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tim.2009.09.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Bove &amp; Baumann (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bove</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Baumann</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Coral Lipid Assay for 96-well plates. portocols.io</article-title>
+<year iso-8601-date="2021">2021</year><uri>https://www.protocols.io/view/coral-lipid-assay-for-96-well-plates-q26g789pqlwz/v1</uri>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Brokordt et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brokordt</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Defranchi</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Esposito</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Carcamo</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Schmitt</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Mercado</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>de la Fuente-Ortega</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Rivera-Ingraham</surname>
+<given-names>GA</given-names>
+</name>
+</person-group>
+<article-title>Reproduction immunity trade-off in a mollusk: hemocyte energy metabolism underlies cellular and molecular immune responses</article-title>
+<source>Frontiers in Physiology</source>
+<year iso-8601-date="2019">2019</year>
+<volume>10</volume>
+<fpage>77</fpage>
+<pub-id pub-id-type="doi">10.3389/fphys.2019.00077</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Bruno et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bruno</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Selig</surname>
+<given-names>ER</given-names>
+</name>
+<name>
+<surname>Casey</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Page</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Harvell</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Sweatman</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Melendy</surname>
+<given-names>AM</given-names>
+</name>
+</person-group>
+<article-title>Thermal stress and coral cover as drivers of coral disease outbreaks</article-title>
+<source>PLOS Biology</source>
+<year iso-8601-date="2007">2007</year>
+<volume>5</volume>
+<issue>6</issue>
+<elocation-id>e124</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.0050124</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Castella, Christe &amp; Chapuisat (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Castella</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Christe</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Chapuisat</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Mating triggers dynamic immune regulations in wood ant queens</article-title>
+<source>Journal of Evolutionary Biology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>22</volume>
+<issue>3</issue>
+<fpage>564</fpage>
+<lpage>570</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1420-9101.2008.01664.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Cerenius et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cerenius</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Kawabata</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Nonaka</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Soderhall</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Proteolytic cascades and their involvement in invertebrate immunity</article-title>
+<source>Trends in Biochemical Sciences</source>
+<year iso-8601-date="2010">2010</year>
+<volume>35</volume>
+<issue>10</issue>
+<fpage>575</fpage>
+<lpage>583</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tibs.2010.04.006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Changsut et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Changsut</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Womack</surname>
+<given-names>HR</given-names>
+</name>
+<name>
+<surname>Shickle</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sharp</surname>
+<given-names>KH</given-names>
+</name>
+<name>
+<surname>Fuess</surname>
+<given-names>LE</given-names>
+</name>
+</person-group>
+<article-title>Variation in symbiont density is linked to changes in constitutive immunity in the facultatively symbiotic coral, Astrangia poculata</article-title>
+<source>Biology Letters</source>
+<year iso-8601-date="2022">2022</year>
+<volume>18</volume>
+<issue>11</issue>
+<fpage>20220273</fpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2022.0273</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Colditz (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Colditz</surname>
+<given-names>IG</given-names>
+</name>
+</person-group>
+<article-title>Six costs of immunity to gastrointestinal nematode infections</article-title>
+<source>Parasite Immunology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>30</volume>
+<issue>2</issue>
+<fpage>63</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-3024.2007.00964.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Cotter et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cotter</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Simpson</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Raubenheimer</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Wilson</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Macronutrient balance mediates trade-offs between immune function and life history traits</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>25</volume>
+<issue>1</issue>
+<fpage>186</fpage>
+<lpage>198</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2435.2010.01766.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Croquer &amp; Weil (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Croquer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Changes in Caribbean coral disease prevalence after the 2005 bleaching event</article-title>
+<source>Diseases of Aquatic Organisms</source>
+<year iso-8601-date="2009">2009</year>
+<volume>87</volume>
+<fpage>33</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="doi">10.3354/dao02164</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Cróquer, Weil &amp; Rogers (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cróquer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Rogers</surname>
+<given-names>CS</given-names>
+</name>
+</person-group>
+<article-title>Similarities and differences between two deadly caribbean coral diseases: white plague and stony coral tissue loss disease</article-title>
+<source>Frontiers in Marine Science</source>
+<year iso-8601-date="2021">2021</year>
+<volume>8</volume>
+<fpage>25</fpage>
+<pub-id pub-id-type="doi">10.3389/fmars.2021.709544</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Descamps et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Descamps</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gaillard</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Hamel</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Yoccoz</surname>
+<given-names>NG</given-names>
+</name>
+</person-group>
+<article-title>When relative allocation depends on total resource acquisition: implication for the analysis of trade-offs</article-title>
+<source>Journal of Evolutionary Biology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>29</volume>
+<issue>9</issue>
+<fpage>1860</fpage>
+<lpage>1866</lpage>
+<pub-id pub-id-type="doi">10.1111/jeb.12901</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Dimond &amp; Carrington (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dimond</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Carrington</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Temporal variation in the symbiosis and growth of the temperate scleractinian coral Astrangia poculata</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="2007">2007</year>
+<volume>348</volume>
+<fpage>161</fpage>
+<lpage>172</lpage>
+<pub-id pub-id-type="doi">10.3354/meps07050</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Dimond et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dimond</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Kerwin</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Rotjan</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Sharp</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Stewart</surname>
+<given-names>FJ</given-names>
+</name>
+<name>
+<surname>Thornhill</surname>
+<given-names>DJ</given-names>
+</name>
+</person-group>
+<article-title>A simple temperature-based model predicts the upper latitudinal limit of the temperate coral Astrangia poculata</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2012">2012</year>
+<volume>32</volume>
+<issue>2</issue>
+<fpage>401</fpage>
+<lpage>409</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-012-0983-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Dubois et al. (1956)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dubois</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gilles</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Hamilton</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Rebers</surname>
+<given-names>PT</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Colorimetric method for determination of sugars and related substances</article-title>
+<source>Analytical chemistry</source>
+<year iso-8601-date="1956">1956</year>
+<volume>28</volume>
+<issue>3</issue>
+<fpage>350</fpage>
+<lpage>356</lpage>
+<pub-id pub-id-type="doi">10.1021/ac60111a017</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Ferrier-Pagès et al. (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ferrier-Pagès</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Allemand</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Gattuso</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Jaubert</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Rassoulzadegan</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Microheterotrophy in the zooxanthellate coral Stylophora pistillata: effects of light and ciliate density</article-title>
+<source>Limnology and Oceanography</source>
+<year iso-8601-date="1998">1998</year>
+<volume>43</volume>
+<fpage>1639</fpage>
+<lpage>1648</lpage>
+<pub-id pub-id-type="doi">10.4319/lo.1998.43.7.1639</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Fuess et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fuess</surname>
+<given-names>LE</given-names>
+</name>
+<name>
+<surname>Mann</surname>
+<given-names>WT</given-names>
+</name>
+<name>
+<surname>Jinks</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Brinkhuis</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Transcriptional analyses provide new insight into the late-stage immune response of a diseased Caribbean coral</article-title>
+<source>Royal Society Open Science</source>
+<year iso-8601-date="2018">2018</year>
+<volume>5</volume>
+<issue>5</issue>
+<fpage>172062</fpage>
+<pub-id pub-id-type="doi">10.1098/rsos.172062</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Fuess et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fuess</surname>
+<given-names>LE</given-names>
+</name>
+<name>
+<surname>Pinzomicronn</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Associations between transcriptional changes and protein phenotypes provide insights into immune regulation in corals</article-title>
+<source>Developmental and Comparative Immunology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>62</volume>
+<fpage>17</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.dci.2016.04.017</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Fuess et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fuess</surname>
+<given-names>LE</given-names>
+</name>
+<name>
+<surname>Pinzon</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Grinshpon</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Life or death: disease-tolerant coral species activate autophagy following immune challenge</article-title>
+<source>Proceedings of the Royal Society</source>
+<year iso-8601-date="2017">2017</year>
+<volume>284</volume>
+<issue>1856</issue>
+<fpage>20170771</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2017.0771</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Gershman et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gershman</surname>
+<given-names>SN</given-names>
+</name>
+<name>
+<surname>Barnett</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Pettinger</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Weddle</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Hunt</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sakaluk</surname>
+<given-names>SK</given-names>
+</name>
+</person-group>
+<article-title>Give ’til it hurts: trade-offs between immunity and male reproductive effort in the decorated cricket, Gryllodes sigillatus</article-title>
+<source>Journal of Evolutionary Biology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>23</volume>
+<issue>4</issue>
+<fpage>829</fpage>
+<lpage>839</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1420-9101.2010.01951.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Glenn &amp; Pugh (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Glenn</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Pugh</surname>
+<given-names>TL</given-names>
+</name>
+</person-group>
+<article-title>Epizootic shell disease in american lobster (Homarus Americanus) in massachusetts coastal waters: interactions of temperature, maturity, and intermolt duration</article-title>
+<source>Journal of Crustacean Biology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>26</volume>
+<issue>4</issue>
+<fpage>639</fpage>
+<lpage>645</lpage>
+<pub-id pub-id-type="doi">10.1651/s-2754.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Guo et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Guo</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Pang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Mating stimulates the immune response and sperm storage-related genes expression in spermathecae of bumblebee (Bombus terrestris) queen</article-title>
+<source>Front Genet</source>
+<year iso-8601-date="2021">2021</year>
+<volume>12</volume>
+<fpage>795669</fpage>
+<pub-id pub-id-type="doi">10.3389/fgene.2021.795669</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Gwynn et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gwynn</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Callaghan</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Gorham</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Walters</surname>
+<given-names>KF</given-names>
+</name>
+<name>
+<surname>Fellowes</surname>
+<given-names>MD</given-names>
+</name>
+</person-group>
+<article-title>Resistance is costly: trade-offs between immunity, fecundity and survival in the pea aphid</article-title>
+<source>Proceedings Biological Sciences</source>
+<year iso-8601-date="2005">2005</year>
+<volume>272</volume>
+<issue>1574</issue>
+<fpage>1803</fpage>
+<lpage>1808</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2005.3089</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Harman et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harman</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Barshis</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Hauff Salas</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Hamsher</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Strychar</surname>
+<given-names>KB</given-names>
+</name>
+</person-group>
+<article-title>Indications of symbiotic state influencing melanin-synthesis immune response in the facultative coral Astrangia poculata</article-title>
+<source>Diseases of Aquatic Organisms</source>
+<year iso-8601-date="2022">2022</year>
+<volume>151</volume>
+<fpage>63</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="doi">10.3354/dao03695</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Hayward &amp; Gillooly (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hayward</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Gillooly</surname>
+<given-names>JF</given-names>
+</name>
+</person-group>
+<article-title>The cost of sex: quantifying energetic investment in gamete production by males and females</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2011">2011</year>
+<volume>6</volume>
+<issue>1</issue>
+<elocation-id>e16557</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0016557</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Hoegh-Guldberg et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoegh-Guldberg</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Mumby</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Hooten</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Steneck</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Greenfield</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gomez</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Harvell</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Sale</surname>
+<given-names>PF</given-names>
+</name>
+<name>
+<surname>Edwards</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Caldeira</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Knowlton</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Eakin</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Iglesias-Prieto</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Muthiga</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Bradbury</surname>
+<given-names>RH</given-names>
+</name>
+<name>
+<surname>Dubi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hatziolos</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>Coral reefs under rapid climate change and ocean acidification</article-title>
+<source>Science</source>
+<year iso-8601-date="2007">2007</year>
+<volume>318</volume>
+<issue>5857</issue>
+<fpage>1737</fpage>
+<lpage>1742</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1152509</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Hosken (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hosken</surname>
+<given-names>DJ</given-names>
+</name>
+</person-group>
+<article-title>Sex and death: microevolutionary trade-offs between reproductive and immune investment in dung flies</article-title>
+<source>Current Biology</source>
+<year iso-8601-date="2001">2001</year>
+<volume>11</volume>
+<issue>10</issue>
+<fpage>R379</fpage>
+<lpage>R380</lpage>
+<pub-id pub-id-type="doi">10.1016/S0960-9822(01)00211-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Hughes et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hughes</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Grottoli</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Pease</surname>
+<given-names>TK</given-names>
+</name>
+<name>
+<surname>Matsui</surname>
+<given-names>Y</given-names>
+</name>
+</person-group>
+<article-title>Acquisition and assimilation of carbon in non-bleached and bleached corals</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="2010">2010</year>
+<volume>420</volume>
+<fpage>91</fpage>
+<lpage>101</lpage>
+<pub-id pub-id-type="doi">10.3354/meps08866</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Ivanina et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ivanina</surname>
+<given-names>AV</given-names>
+</name>
+<name>
+<surname>Borah</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Vogts</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Malik</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Chin</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Almarza</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Kumta</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Piontkivska</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Beniash</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Sokolova</surname>
+<given-names>IM</given-names>
+</name>
+</person-group>
+<article-title>Potential trade-offs between biomineralization and immunity revealed by shell properties and gene expression profiles of two closely related Crassostrea species</article-title>
+<source>Journal of Experimental Biology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>221</volume>
+<fpage>158</fpage>
+<pub-id pub-id-type="doi">10.1242/jeb.183236</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Johnston, Clark &amp; Bruno (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Johnston</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Clark</surname>
+<given-names>GF</given-names>
+</name>
+<name>
+<surname>Bruno</surname>
+<given-names>JF</given-names>
+</name>
+</person-group>
+<article-title>The speeding up of marine ecosystems</article-title>
+<source>Climate Change Ecology</source>
+<year iso-8601-date="2022">2022</year>
+<volume>3</volume>
+<issue>14</issue>
+<fpage>100055</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ecochg.2022.100055</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Kelley et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kelley</surname>
+<given-names>ER</given-names>
+</name>
+<name>
+<surname>Sleith</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Matz</surname>
+<given-names>MV</given-names>
+</name>
+<name>
+<surname>Wright</surname>
+<given-names>RM</given-names>
+</name>
+</person-group>
+<article-title>Gene expression associated with disease resistance and long-term growth in a reef-building coral</article-title>
+<source>Royal Society Open Science</source>
+<year iso-8601-date="2021">2021</year>
+<volume>8</volume>
+<issue>4</issue>
+<fpage>210113</fpage>
+<pub-id pub-id-type="doi">10.1098/rsos.210113</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Kilburn et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kilburn</surname>
+<given-names>VL</given-names>
+</name>
+<name>
+<surname>Ibanez</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Sanjur</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Bermingham</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Suraci</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>DM</given-names>
+</name>
+</person-group>
+<article-title>Ubiquity of the pathogenic chytrid fungus, Batrachochytrium dendrobatidis, in Anuran communities in Panama</article-title>
+<source>Ecohealth</source>
+<year iso-8601-date="2010">2010</year>
+<volume>7</volume>
+<issue>4</issue>
+<fpage>537</fpage>
+<lpage>548</lpage>
+<pub-id pub-id-type="doi">10.1007/s10393-010-0634-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Kirk &amp; Weis (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kirk</surname>
+<given-names>NL</given-names>
+</name>
+<name>
+<surname>Weis</surname>
+<given-names>VM</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Hurst</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Animal-symbiodinium symbioses: foundations of coral reef ecosystems</article-title>
+<source>The Mechanistic Benefits of Microbial Symbionts. Advances in Environmental Microbiology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>2</volume>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<pub-id pub-id-type="doi">10.1007/978-3-319-28068-4_10</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Lajeunesse, Parkinson &amp; Reimer (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lajeunesse</surname>
+<given-names>TC</given-names>
+</name>
+<name>
+<surname>Parkinson</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Reimer</surname>
+<given-names>JD</given-names>
+</name>
+</person-group>
+<article-title>A genetics-based description of Symbiodinium minutum sp. nov. and S. psygmophilum sp. nov. (Dinophyceae), two dinoflagellates symbiotic with cnidaria</article-title>
+<source>Journal of Phycology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>48</volume>
+<fpage>1380</fpage>
+<lpage>1391</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1529-8817.2012.01217.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Lesser (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lesser</surname>
+<given-names>MP</given-names>
+</name>
+</person-group>
+<article-title>Using energetic budgets to assess the effects of environmental stress on corals: are we measuring the right things?</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2012">2012</year>
+<volume>32</volume>
+<issue>1</issue>
+<fpage>25</fpage>
+<lpage>33</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-012-0993-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Lochmiller &amp; Deerenberg (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lochmiller</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Deerenberg</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Trade-offs in evolutionary immunology: just what is the cost of immunity?</article-title>
+<source>Oikos</source>
+<year iso-8601-date="2000">2000</year>
+<volume>88</volume>
+<issue>1</issue>
+<fpage>87</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="doi">10.1034/j.1600-0706.2000.880110.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Macartney et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Macartney</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Crean</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Nakagawa</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Bonduriansky</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Effects of nutrient limitation on sperm and seminal fluid: a systematic review and meta-analysis</article-title>
+<source>Biological Reviews of the Cambridge Philosophical Society</source>
+<year iso-8601-date="2019">2019</year>
+<volume>94</volume>
+<issue>5</issue>
+<fpage>1722</fpage>
+<lpage>1739</lpage>
+<pub-id pub-id-type="doi">10.1111/brv.12524</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>MacKnight et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>MacKnight</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Dimos</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Beavers</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Muller</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Brandt</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Disease resistance in coral is mediated by distinct adaptive and plastic gene expression profiles</article-title>
+<source>Science Advances</source>
+<year iso-8601-date="2022">2022</year>
+<volume>8</volume>
+<issue>39</issue>
+<fpage>eabo6153</fpage>
+<pub-id pub-id-type="doi">10.1126/sciadv.abo6153</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Martin, Weil &amp; Nelson (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Martin</surname>
+<given-names>LB</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>ZM</given-names>
+</name>
+<name>
+<surname>Nelson</surname>
+<given-names>RJ</given-names>
+</name>
+</person-group>
+<article-title>Seasonal changes in vertebrate immune activity: mediation by physiological trade-offs</article-title>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2008">2008</year>
+<volume>363</volume>
+<issue>1490</issue>
+<fpage>321</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2007.2142</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Masuko et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Masuko</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Minami</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Iwasaki</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Majima</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Nishimura</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>YC</given-names>
+</name>
+</person-group>
+<article-title>Carbohydrate analysis by a phenol-sulfuric acid method in microplate format</article-title>
+<source>Analytical Biochemistry</source>
+<year iso-8601-date="2005">2005</year>
+<volume>339</volume>
+<issue>1</issue>
+<fpage>69</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ab.2004.12.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>McNamara et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McNamara</surname>
+<given-names>KB</given-names>
+</name>
+<name>
+<surname>van Lieshout</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Simmons</surname>
+<given-names>LW</given-names>
+</name>
+</person-group>
+<article-title>Age‐dependent trade‐offs between immunity and male, but not female, reproduction</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>82</volume>
+<issue>1</issue>
+<fpage>235</fpage>
+<lpage>244</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2656.2012.02018.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Melbinger &amp; Vergassola (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Melbinger</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vergassola</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The impact of environmental fluctuations on evolutionary fitness functions</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2015">2015</year>
+<volume>5</volume>
+<issue>1</issue>
+<fpage>15211</fpage>
+<pub-id pub-id-type="doi">10.1038/srep15211</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Michalek-Wagner &amp; Willis (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Michalek-Wagner</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+</person-group>
+<article-title>Impacts of bleaching on the soft coral Lobophytum compactum. I. Fecundity, fertilization and offspring viability</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2001">2001</year>
+<volume>19</volume>
+<issue>3</issue>
+<fpage>231</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.1007/s003380170003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Mieog et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mieog</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Van Oppen</surname>
+<given-names>MJH</given-names>
+</name>
+<name>
+<surname>Berkelmans</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Stam</surname>
+<given-names>WT</given-names>
+</name>
+<name>
+<surname>Olsen</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<article-title>Quantification of algal endosymbionts (Symbiodinium) in coral tissue using real-time PCR</article-title>
+<source>Molecular Ecology Resources</source>
+<year iso-8601-date="2009">2009</year>
+<volume>9</volume>
+<issue>1</issue>
+<fpage>74</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1755-0998.2008.02222.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Millard (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Millard</surname>
+<given-names>SP</given-names>
+</name>
+</person-group>
+<source>EnvStats: an R package for environmental statistics</source>
+<year iso-8601-date="2013">2013</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Miller (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miller</surname>
+<given-names>MW</given-names>
+</name>
+</person-group>
+<article-title>Growth of a temperate coral: effects of temperature, light, depth, and heterotrophy</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="1995">1995</year>
+<volume>122</volume>
+<fpage>217</fpage>
+<lpage>225</lpage>
+<pub-id pub-id-type="doi">10.3354/meps122217</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Miller et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miller</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Colburn</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Pontes</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Bright</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Serrano</surname>
+<given-names>XM</given-names>
+</name>
+<name>
+<surname>Peters</surname>
+<given-names>EC</given-names>
+</name>
+</person-group>
+<article-title>Genotypic variation in disease susceptibility among cultured stocks of elkhorn and staghorn corals</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2019">2019</year>
+<volume>7</volume>
+<issue>11</issue>
+<elocation-id>e6751</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.6751</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Mitchell et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mitchell</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Shafee</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Papenfuss</surname>
+<given-names>AT</given-names>
+</name>
+<name>
+<surname>Norton</surname>
+<given-names>RS</given-names>
+</name>
+</person-group>
+<article-title>Evolution of cnidarian trans-defensins: Sequence, structure and exploration of chemical space</article-title>
+<source>Proteins-Structure Function and Bioinformatics</source>
+<year iso-8601-date="2019">2019</year>
+<volume>87</volume>
+<issue>7</issue>
+<fpage>551</fpage>
+<lpage>560</lpage>
+<pub-id pub-id-type="doi">10.1002/prot.25679</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Miyashita et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miyashita</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>TYM</given-names>
+</name>
+<name>
+<surname>McMillan</surname>
+<given-names>LE</given-names>
+</name>
+<name>
+<surname>Easy</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Adamo</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Immunity for nothing and the eggs for free: apparent lack of both physiological trade-offs and terminal reproductive investment in female crickets (Gryllus texensis)</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2019">2019</year>
+<volume>14</volume>
+<issue>5</issue>
+<elocation-id>e0209957</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0209957</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Moriarty et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Moriarty</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Leggat</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Huggett</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Ainsworth</surname>
+<given-names>TD</given-names>
+</name>
+</person-group>
+<article-title>Coral disease causes, consequences, and risk within coral restoration</article-title>
+<source>Trends in Microbiology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>28</volume>
+<issue>10</issue>
+<fpage>793</fpage>
+<lpage>807</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tim.2020.06.002</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Mydlarz et al. (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+<name>
+<surname>Fuess</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Mann</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Pinzón</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Gochfeld</surname>
+<given-names>DJ</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Goffredo</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Dubinsky</surname>
+<given-names>Z</given-names>
+</name>
+</person-group>
+<article-title>Cnidarian immunity: from genomes to phenomes</article-title>
+<source>The Cnidaria, Past, Present and Future</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Berlin</publisher-loc>
+<publisher-name>Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Mydlarz &amp; Palmer (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+</person-group>
+<article-title>The presence of multiple phenoloxidases in Caribbean reef-building corals</article-title>
+<source>Comparative Biochemistry and Physiology Part A: Molecular &amp; Integrative Physiology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>159</volume>
+<issue>4</issue>
+<fpage>372</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cbpa.2011.03.029</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Nielsen et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nielsen</surname>
+<given-names>JJV</given-names>
+</name>
+<name>
+<surname>Kenkel</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Bourne</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>Despringhere</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Mocellin</surname>
+<given-names>VJL</given-names>
+</name>
+<name>
+<surname>Bay</surname>
+<given-names>LK</given-names>
+</name>
+</person-group>
+<article-title>Physiological effects of heat and cold exposure in the common reef coral Acropora millepora</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2020">2020</year>
+<volume>39</volume>
+<issue>2</issue>
+<fpage>259</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-019-01881-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Oksanen et al. (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Oksanen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Simpson</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Blanchet</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Kindt</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Legendre</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Minchin</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>O’Hara</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Solymos</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Stevens</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Szoecs</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Wagner</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Barbour</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bedward</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bolker</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Borcard</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Carvalho</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Chirico</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>De Caceres</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Durand</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Evangelista</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>FitzJohn</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Friendly</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Furneaux</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Hannigan</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Hill</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lahti</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>McGlinn</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ouellette</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ribeiro Cunha</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Stier</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Ter Braak</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Weedon</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>vegan: community ecology package</article-title>
+<comment>R package version 2.6-4</comment><year iso-8601-date="2023">2023</year><uri>https://CRAN.R-project.org/package=vegan</uri>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Palmer, Bythell &amp; Willis (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>Bythell</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+</person-group>
+<article-title>A comparative study of phenoloxidase activity in diseased and bleached colonies of the coral Acropora millepora</article-title>
+<source>Developmental and Comparative Immunology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>35</volume>
+<issue>10</issue>
+<fpage>1098</fpage>
+<lpage>1101</lpage>
+<pub-id pub-id-type="doi">10.1016/j.dci.2011.04.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Palmer et al. (2011a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>McGinty</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Cummings</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Bartels</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Patterns of coral ecological immunology: variation in the responses of Caribbean corals to elevated temperature and a pathogen elicitor</article-title>
+<source>Journal of Experimental Biology</source>
+<year iso-8601-date="2011a">2011a</year>
+<volume>214</volume>
+<issue>24</issue>
+<fpage>4240</fpage>
+<lpage>4249</lpage>
+<pub-id pub-id-type="doi">10.1242/jeb.061267</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Palmer, Mydlarz &amp; Willis (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+</person-group>
+<article-title>Evidence of an inflammatory-like response in non-normally pigmented tissues of two scleractinian corals</article-title>
+<source>Proceedings Biological Sciences</source>
+<year iso-8601-date="2008">2008</year>
+<volume>275</volume>
+<issue>1652</issue>
+<fpage>2687</fpage>
+<lpage>2693</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2008.0335</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Palmer, Roth &amp; Gates (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>Roth</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Gates</surname>
+<given-names>RD</given-names>
+</name>
+</person-group>
+<article-title>Red fluorescent protein responsible for pigmentation in trematode-infected Porites compressa tissues</article-title>
+<source>Biological Bulletin</source>
+<year iso-8601-date="2009">2009</year>
+<volume>216</volume>
+<issue>1</issue>
+<fpage>68</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="doi">10.1086/BBLv216n1p68</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Palmer &amp; Traylor-Knowles (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>Traylor-Knowles</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Towards an integrated network of coral immune mechanisms</article-title>
+<source>Proceedings Biological Sciences</source>
+<year iso-8601-date="2012">2012</year>
+<volume>279</volume>
+<issue>1745</issue>
+<fpage>4106</fpage>
+<lpage>4114</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2012.1477</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Palmer et al. (2011b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>Traylor-Knowles</surname>
+<given-names>NG</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Bythell</surname>
+<given-names>JC</given-names>
+</name>
+</person-group>
+<article-title>Corals use similar immune cells and wound-healing processes as those of higher organisms</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2011b">2011b</year>
+<volume>6</volume>
+<issue>8</issue>
+<elocation-id>e23992</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0023992</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Parker (1970)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Parker</surname>
+<given-names>GA</given-names>
+</name>
+</person-group>
+<article-title>Sperm competition and its evolutionary consequences in the insects</article-title>
+<source>Biological Reviews</source>
+<year iso-8601-date="1970">1970</year>
+<volume>45</volume>
+<issue>4</issue>
+<fpage>525</fpage>
+<lpage>567</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1469-185X.1970.tb01176.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Parker (1982)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Parker</surname>
+<given-names>GA</given-names>
+</name>
+</person-group>
+<article-title>Why are there so many tiny sperm? Sperm competition and the maintenance of two sexes</article-title>
+<source>Journal of Theoretical Biology</source>
+<year iso-8601-date="1982">1982</year>
+<volume>96</volume>
+<issue>2</issue>
+<fpage>281</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-5193(82)90225-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Paxton et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Paxton</surname>
+<given-names>CW</given-names>
+</name>
+<name>
+<surname>Baria</surname>
+<given-names>MV</given-names>
+</name>
+<name>
+<surname>Weis</surname>
+<given-names>VM</given-names>
+</name>
+<name>
+<surname>Harii</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Effect of elevated temperature on fecundity and reproductive timing in the coral Acropora digitifera</article-title>
+<source>Zygote</source>
+<year iso-8601-date="2016">2016</year>
+<volume>24</volume>
+<issue>4</issue>
+<fpage>511</fpage>
+<lpage>516</lpage>
+<pub-id pub-id-type="doi">10.1017/S0967199415000477</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>Pinzon et al. (2014a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pinzon</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Beach-Letendre</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>Relationship between phylogeny and immunity suggests older Caribbean coral lineages are more resistant to disease</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014a">2014a</year>
+<volume>9</volume>
+<issue>8</issue>
+<elocation-id>e104787</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0104787</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-71">
+<label>Pinzon et al. (2014b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pinzon</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Dornberger</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Beach-Letendre</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Mydlarz</surname>
+<given-names>LD</given-names>
+</name>
+</person-group>
+<article-title>The link between immunity and life history traits in scleractinian corals</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2014b">2014b</year>
+<volume>2</volume>
+<issue>4</issue>
+<elocation-id>e628</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.628</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-72">
+<label>Precht et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Precht</surname>
+<given-names>WF</given-names>
+</name>
+<name>
+<surname>Gintert</surname>
+<given-names>BE</given-names>
+</name>
+<name>
+<surname>Robbart</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Fura</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>van Woesik</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Unprecedented disease-related coral mortality in southeastern florida</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2016">2016</year>
+<volume>6</volume>
+<fpage>31374</fpage>
+<pub-id pub-id-type="doi">10.1038/srep31374</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-73">
+<label>Pupier et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pupier</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Fine</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bednarz</surname>
+<given-names>VN</given-names>
+</name>
+<name>
+<surname>Rottier</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Grover</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Ferrier-Pages</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Productivity and carbon fluxes depend on species and symbiont density in soft coral symbioses</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2019">2019</year>
+<volume>9</volume>
+<issue>1</issue>
+<fpage>17819</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-019-54209-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-74">
+<label>R Core Team (2020)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>R Core Team</collab>
+</person-group>
+<article-title>RStudio: integrated development for R</article-title>
+<year iso-8601-date="2020">2020</year><uri>http://www.rstudio.com/</uri>
+</element-citation>
+</ref>
+<ref id="ref-75">
+<label>R Core Team (2021)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>R Core Team</collab>
+</person-group>
+<article-title>R. A language and environment for statistical computing</article-title>
+<year iso-8601-date="2021">2021</year>
+<publisher-loc>Vienna, Austria</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name><uri>https://www.R-project.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-76">
+<label>Rauw (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rauw</surname>
+<given-names>WM</given-names>
+</name>
+</person-group>
+<article-title>Immune response from a resource allocation perspective</article-title>
+<source>Frontiers in Genetics</source>
+<year iso-8601-date="2012">2012</year>
+<volume>3</volume>
+<fpage>267</fpage>
+<pub-id pub-id-type="doi">10.3389/fgene.2012.00267</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-77">
+<label>Rigby &amp; Jokela (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rigby</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Jokela</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Predator avoidance and immune defence: costs and trade-offs in snails</article-title>
+<source>Proceedings Biological Sciences</source>
+<year iso-8601-date="2000">2000</year>
+<volume>267</volume>
+<issue>1439</issue>
+<fpage>171</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2000.0983</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-78">
+<label>Rodrigues &amp; Grottoli (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rodrigues</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Grottoli</surname>
+<given-names>AG</given-names>
+</name>
+</person-group>
+<article-title>Energy reserves and metabolism as indicators of coral recovery from bleaching</article-title>
+<source>Limnology and Oceanography</source>
+<year iso-8601-date="2007">2007</year>
+<volume>52</volume>
+<issue>5</issue>
+<fpage>1874</fpage>
+<lpage>1882</lpage>
+<pub-id pub-id-type="doi">10.4319/lo.2007.52.5.1874</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-79">
+<label>Ruiz-Moreno et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ruiz-Moreno</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Willis</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Page</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Croquer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vargas-Angel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Jordan-Garza</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Jordan-Dahlgren</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Raymundo</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Harvell</surname>
+<given-names>CD</given-names>
+</name>
+</person-group>
+<article-title>Global coral disease prevalence associated with sea temperature anomalies and local factors</article-title>
+<source>Diseases of Aquatic Organisms</source>
+<year iso-8601-date="2012">2012</year>
+<volume>100</volume>
+<issue>3</issue>
+<fpage>249</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="doi">10.3354/dao02488</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-80">
+<label>Schlecker et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schlecker</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Page</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Matz</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wright</surname>
+<given-names>RM</given-names>
+</name>
+</person-group>
+<article-title>Mechanisms and potential immune tradeoffs of accelerated coral growth induced by microfragmentation</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2022">2022</year>
+<volume>10</volume>
+<issue>3</issue>
+<elocation-id>e13158</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.13158</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-81">
+<label>Schwenke, Lazzaro &amp; Wolfner (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schwenke</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Lazzaro</surname>
+<given-names>BP</given-names>
+</name>
+<name>
+<surname>Wolfner</surname>
+<given-names>MF</given-names>
+</name>
+</person-group>
+<article-title>Reproduction-immunity trade-offs in insects</article-title>
+<source>Annual Review of Entomology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>61</volume>
+<issue>1</issue>
+<fpage>239</fpage>
+<lpage>256</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-ento-010715-023924</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-82">
+<label>Seppala &amp; Leicht (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Seppala</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Leicht</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Activation of the immune defence of the freshwater snail Lymnaea stagnalis by different immune elicitors</article-title>
+<source>Journal of Experimental Biology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>216</volume>
+<issue>15</issue>
+<fpage>2902</fpage>
+<lpage>2907</lpage>
+<pub-id pub-id-type="doi">10.1242/jeb.084947</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-83">
+<label>Sharma &amp; Ravindran (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sharma</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ravindran</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Diseases and pathogens of marine invertebrate corals in Indian reefs</article-title>
+<source>Journal of Invertebrate Pathology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>173</volume>
+<issue>6</issue>
+<fpage>107373</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jip.2020.107373</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-84">
+<label>Sharp et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sharp</surname>
+<given-names>KH</given-names>
+</name>
+<name>
+<surname>Pratte</surname>
+<given-names>ZA</given-names>
+</name>
+<name>
+<surname>Kerwin</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Rotjan</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Stewart</surname>
+<given-names>FJ</given-names>
+</name>
+</person-group>
+<article-title>Season, but not symbiont state, drives microbiome structure in the temperate coral Astrangia poculata</article-title>
+<source>Microbiome</source>
+<year iso-8601-date="2017">2017</year>
+<volume>5</volume>
+<fpage>120</fpage>
+<pub-id pub-id-type="doi">10.1186/s40168-017-0329-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-85">
+<label>Sheridan et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sheridan</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Grosjean</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Leblud</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Palmer</surname>
+<given-names>CV</given-names>
+</name>
+<name>
+<surname>Kushmaro</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Eeckhaut</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Sedimentation rapidly induces an immune response and depletes energy stores in a hard coral</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2014">2014</year>
+<volume>33</volume>
+<issue>4</issue>
+<fpage>1067</fpage>
+<lpage>1076</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-014-1202-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-86">
+<label>Simmons (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Simmons</surname>
+<given-names>LW</given-names>
+</name>
+</person-group>
+<article-title>Resource allocation trade-off between sperm quality and immunity in the field cricket, Teleogryllus oceanicus</article-title>
+<source>Behavioral Ecology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>23</volume>
+<issue>1</issue>
+<fpage>168</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.1093/beheco/arr170</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-87">
+<label>Stahlschmidt et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stahlschmidt</surname>
+<given-names>ZR</given-names>
+</name>
+<name>
+<surname>Rollinson</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Acker</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Adamo</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Martin</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Are all eggs created equal? Food availability and the fitness trade-off between reproduction and immunity</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>27</volume>
+<issue>3</issue>
+<fpage>800</fpage>
+<lpage>806</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2435.12071</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-88">
+<label>Stearns (1989)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stearns</surname>
+<given-names>SC</given-names>
+</name>
+</person-group>
+<article-title>Trade-offs in life-history evolution</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="1989">1989</year>
+<volume>3</volume>
+<issue>3</issue>
+<fpage>259</fpage>
+<lpage>268</lpage>
+<pub-id pub-id-type="doi">10.2307/2389364</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-89">
+<label>Sutherland, Porter &amp; Torres (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sutherland</surname>
+<given-names>KP</given-names>
+</name>
+<name>
+<surname>Porter</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Torres</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Disease and immunity in Caribbean and Indo-Pacific zooxanthellate corals</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="2004">2004</year>
+<volume>266</volume>
+<fpage>273</fpage>
+<lpage>302</lpage>
+<pub-id pub-id-type="doi">10.3354/meps266273</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-90">
+<label>Syed et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Syed</surname>
+<given-names>ZA</given-names>
+</name>
+<name>
+<surname>Gupta</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Arun</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Dhiman</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Nandy</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Prasad</surname>
+<given-names>NG</given-names>
+</name>
+</person-group>
+<article-title>Absence of reproduction-immunity trade-off in male Drosophila melanogaster evolving under differential sexual selection</article-title>
+<source>BMC Evolutionary Biology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>20</volume>
+<fpage>13</fpage>
+<pub-id pub-id-type="doi">10.1186/s12862-019-1574-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-91">
+<label>Szmant-Froelich (1981)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Szmant-Froelich</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Coral nutrition: Comparison of the fate of 14C from ingested labeled brine shrimp and from the uptake of NaH14CO3 by its zooxanthellae</article-title>
+<source>Journal of Experimental Marine Biology and Ecology</source>
+<year iso-8601-date="1981">1981</year>
+<volume>55</volume>
+<issue>2–3</issue>
+<fpage>133</fpage>
+<lpage>144</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-0981(81)90107-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-92">
+<label>Szmant-Froelich &amp; Pilson (1980)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Szmant-Froelich</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pilson</surname>
+<given-names>MEQ</given-names>
+</name>
+</person-group>
+<article-title>The effects of feeding frequency and symbiosis with zooxanthellae on the biochemical composition of Astrangia Danae Milne Edwards &amp; Haime 1849</article-title>
+<source>Journal of Experimental Marine Biology and Ecology</source>
+<year iso-8601-date="1980">1980</year>
+<volume>48</volume>
+<issue>1</issue>
+<fpage>85</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-0981(80)90009-X</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-93">
+<label>Szmant-Froelich, Yevich &amp; Pilson (1980)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Szmant-Froelich</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Yevich</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Pilson</surname>
+<given-names>MEQ</given-names>
+</name>
+</person-group>
+<article-title>Gametogenesis and early development of the temperate coralastrangia danae(Anthozoa: Scleractinia)</article-title>
+<source>The Biological Bulletin</source>
+<year iso-8601-date="1980">1980</year>
+<volume>158</volume>
+<issue>2</issue>
+<fpage>257</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="doi">10.2307/1540935</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-94">
+<label>Tarrant et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tarrant</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Reitzel</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Kwok</surname>
+<given-names>CK</given-names>
+</name>
+<name>
+<surname>Jenny</surname>
+<given-names>MJ</given-names>
+</name>
+</person-group>
+<article-title>Activation of the cnidarian oxidative stress response by ultraviolet radiation, polycyclic aromatic hydrocarbons and crude oil</article-title>
+<source>Journal of Experimental Biology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>217</volume>
+<fpage>1444</fpage>
+<lpage>1453</lpage>
+<pub-id pub-id-type="doi">10.1242/jeb.093690</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-95">
+<label>Traylor-Knowles &amp; Connelly (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Traylor-Knowles</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Connelly</surname>
+<given-names>MT</given-names>
+</name>
+</person-group>
+<article-title>What is currently known about the effects of climate change on the coral immune response</article-title>
+<source>Current Climate Change Reports</source>
+<year iso-8601-date="2017">2017</year>
+<volume>3</volume>
+<issue>4</issue>
+<fpage>252</fpage>
+<lpage>260</lpage>
+<pub-id pub-id-type="doi">10.1007/s40641-017-0077-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-96">
+<label>Traylor-Knowles et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Traylor-Knowles</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Connelly</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Young</surname>
+<given-names>BD</given-names>
+</name>
+<name>
+<surname>Eaton</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Muller</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Paul</surname>
+<given-names>VJ</given-names>
+</name>
+<name>
+<surname>Ushijima</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>DeMerlis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Drown</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Goncalves</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kron</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Snyder</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Martin</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Rodriguez</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Gene expression response to stony coral tissue loss disease transmission in M. cavernosa and O. faveolata from florida</article-title>
+<source>Frontiers in Marine Science</source>
+<year iso-8601-date="2021">2021</year>
+<volume>8</volume>
+<fpage>681563</fpage>
+<pub-id pub-id-type="doi">10.3389/fmars.2021.681563</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-97">
+<label>Ushijima et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ushijima</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Meyer</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Thompson</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pitts</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Marusich</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Tittl</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Weatherup</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Reu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wetzell</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Aeby</surname>
+<given-names>GS</given-names>
+</name>
+<name>
+<surname>Hase</surname>
+<given-names>CC</given-names>
+</name>
+<name>
+<surname>Paul</surname>
+<given-names>VJ</given-names>
+</name>
+</person-group>
+<article-title>Disease diagnostics and potential coinfections by vibrio coralliilyticus during an ongoing coral disease outbreak in florida</article-title>
+<source>Frontiers in Microbiology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>11</volume>
+<fpage>569354</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2020.569354</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-98">
+<label>Ushijima et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ushijima</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Videau</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Burger</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Shore-Maggio</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Runyon</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Sudek</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Aeby</surname>
+<given-names>GS</given-names>
+</name>
+<name>
+<surname>Callahan</surname>
+<given-names>SM</given-names>
+</name>
+</person-group>
+<article-title>Vibrio coralliilyticus strain OCN008 is an etiological agent of acute Montipora white syndrome</article-title>
+<source>Applied and Environmental Microbiology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>80</volume>
+<issue>7</issue>
+<fpage>2102</fpage>
+<lpage>2109</lpage>
+<pub-id pub-id-type="doi">10.1128/AEM.03463-13</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-99">
+<label>van der Most et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>van der Most</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>de Jong</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Parmentier</surname>
+<given-names>HK</given-names>
+</name>
+<name>
+<surname>Verhulst</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Trade-off between growth and immune function: a meta-analysis of selection experiments</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>25</volume>
+<issue>1</issue>
+<fpage>74</fpage>
+<lpage>80</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2435.2010.01800.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-100">
+<label>Villafranca et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Villafranca</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Changsut</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Diaz de Villegas</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Womack</surname>
+<given-names>HR</given-names>
+</name>
+<name>
+<surname>Fuess</surname>
+<given-names>LE</given-names>
+</name>
+</person-group>
+<article-title>Characterization of trade-offs between immunity and reproduction in Astrangia poculata</article-title>
+<source>BioRxiv preprint</source>
+<year iso-8601-date="2023">2023</year>
+<pub-id pub-id-type="doi">10.1101/2023.07.24.550370</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-101">
+<label>Weil, Croquer &amp; Urreiztieta (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Croquer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Urreiztieta</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Yellow band disease compromises the reproductive output of the Caribbean reef-building coral Montastraea faveolata (Anthozoa, Scleractinia)</article-title>
+<source>Diseases of Aquatic Organisms</source>
+<year iso-8601-date="2009">2009</year>
+<volume>87</volume>
+<fpage>45</fpage>
+<lpage>55</lpage>
+<pub-id pub-id-type="doi">10.3354/dao02103</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-102">
+<label>Wuitchik et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wuitchik</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Almanzar</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Benson</surname>
+<given-names>BE</given-names>
+</name>
+<name>
+<surname>Brennan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Chavez</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Liesegang</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Reavis</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Reyes</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Schniedewind</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Trumble</surname>
+<given-names>IF</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>SW</given-names>
+</name>
+</person-group>
+<article-title>Characterizing environmental stress responses of aposymbiotic Astrangia poculata to divergent thermal challenges</article-title>
+<source>Molecular Ecology</source>
+<year iso-8601-date="2021">2021</year>
+<volume>30</volume>
+<issue>20</issue>
+<fpage>5064</fpage>
+<lpage>5079</lpage>
+<pub-id pub-id-type="doi">10.1111/mec.16108</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-103">
+<label>Xu, Yang &amp; Wang (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xu</surname>
+<given-names>YC</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>DB</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>DH</given-names>
+</name>
+</person-group>
+<article-title>No evidence for a trade-off between reproductive investment and immunity in a rodent</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2012">2012</year>
+<volume>7</volume>
+<issue>5</issue>
+<elocation-id>e37182</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0037182</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16510</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16510</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Genetics</subject>
+               <subject>Genomics</subject>
+               <subject>Marine Biology</subject>
+               <subject>Molecular Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Genomic DNA extraction optimization and validation for genome sequencing using the marine gastropod Kellet’s whelk</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Daniels</surname>
+                  <given-names>Benjamin N.</given-names>
+               </name>
+               <email>ben.daniels255@gmail.com</email><xref ref-type="aff" rid="aff-1">1</xref><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Nurge</surname>
+                  <given-names>Jenna</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Sleeper</surname>
+                  <given-names>Olivia</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Lee</surname>
+                  <given-names>Andy</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>López</surname>
+                  <given-names>Cataixa</given-names>
+               </name><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <contrib id="author-6" contrib-type="author">
+               <name>
+                  <surname>Christie</surname>
+                  <given-names>Mark R.</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref><xref ref-type="aff" rid="aff-5">5</xref></contrib>
+            <contrib id="author-7" contrib-type="author">
+               <name>
+                  <surname>Toonen</surname>
+                  <given-names>Robert J.</given-names>
+               </name><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <contrib id="author-8" contrib-type="author">
+               <name>
+                  <surname>White</surname>
+                  <given-names>Crow</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-9" contrib-type="author">
+               <name>
+                  <surname>Davidson</surname>
+                  <given-names>Jean M.</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Center for Coastal Marine Sciences, California Polytechnic State University - San Luis Obispo</institution>, <city>San Luis Obispo</city>, <state>CA</state>, <country>United States of America</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Biological Sciences Department, California Polytechnic State University - San Luis Obispo</institution>, <city>San Luis Obispo</city>, <state>CA</state>, <country>United States of America</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Department of Biological Sciences, Purdue University</institution>, <city>West Lafayette</city>, <state>IN</state>, <country>United States of America</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Hawai‘i Institute of Marine Biology, University of Hawai‘i at Mānoa</institution>, <city>Kāne‘ohe</city>, <state>HI</state>, <country>United States of America</country></aff>
+            <aff id="aff-5"><label>5</label><institution>Department of Forestry and Natural Resources, Purdue University</institution>, <city>West Lafayette</city>, <state>IN</state>, <country>United States of America</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Waiho</surname>
+                  <given-names>Khor</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-06">
+            <day>6</day>
+            <month>12</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16510</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2023-08-24">
+               <day>24</day>
+               <month>8</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-11-01">
+               <day>1</day>
+               <month>11</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Daniels et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Daniels et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16510"/>
+         <abstract>
+            <p>Next-generation sequencing technologies, such as Nanopore MinION, Illumina Hiseq and Novaseq, and PacBio Sequel II, hold immense potential for advancing genomic research on non-model organisms, including the vast majority of marine species. However, application of these technologies to marine invertebrate species is often impeded by challenges in extracting and purifying their genomic DNA due to high polysaccharide content and other secondary metabolites. In this study, we help resolve this issue by developing and testing DNA extraction protocols for Kellet’s whelk (<italic>Kelletia kelletii</italic>), a subtidal gastropod with ecological and commercial importance, by comparing four DNA extraction methods commonly used in marine invertebrate studies. In our comparison of extraction methods, the Salting Out protocol was the least expensive, produced the highest DNA yields, produced consistent high DNA quality, and had low toxicity. We validated the protocol using an independent set of tissue samples, then applied it to extract high-molecular-weight (HMW) DNA from over three thousand Kellet’s whelk tissue samples. The protocol demonstrated scalability and, with added clean-up, suitability for RAD-seq, GT-seq, as well as whole genome sequencing using both long read (ONT MinION) and short read (Illumina NovaSeq) sequencing platforms. Our findings offer a robust and versatile DNA extraction and clean-up protocol for supporting genomic research on non-model marine organisms, to help mediate the under-representation of invertebrates in genomic studies.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>DNA extraction</kwd>
+            <kwd>Protocol optimization</kwd>
+            <kwd>Genetics</kwd>
+            <kwd>Genome sequencing</kwd>
+            <kwd>Population genetics</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>The National Science Foundation</funding-source>
+               <award-id>1924537</award-id>
+            </award-group>
+            <funding-statement>This material is based upon work supported by the National Science Foundation under Grant No. 1924537. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Rapidly advancing next generation sequencing technologies such as whole genome sequencing, genotyping-in-thousands by sequencing (GT-seq), and restriction-site-associated DNA sequencing (RAD-seq), are becoming more available and affordable for non-model organisms (<xref ref-type="bibr" rid="ref-30">Park &amp; Kim, 2016</xref>; <xref ref-type="bibr" rid="ref-14">Ellegren, 2014</xref>; <xref ref-type="bibr" rid="ref-38">Van Wyngaarden et al., 2017</xref>; <xref ref-type="bibr" rid="ref-8">Bootsma et al., 2020</xref>). However, applying these technologies to marine invertebrate species, which are nearly all non-model organisms, is hindered by challenges in extracting and purifying their genomic DNA (<xref ref-type="bibr" rid="ref-9">Boughattas et al., 2021</xref>). DNA extraction of marine invertebrate species can be riddled with contaminants that result in poor sequencing results (<xref ref-type="bibr" rid="ref-1">Adema, 2021</xref>; <xref ref-type="bibr" rid="ref-11">Chakraborty, Saha &amp; Neelavar Ananthram, 2020</xref>; <xref ref-type="bibr" rid="ref-29">Panova et al., 2016</xref>; <xref ref-type="bibr" rid="ref-4">Angthong et al., 2020</xref>). The contaminants are commonly attributed to mucopolysaccharides that co-precipitate with genomic DNA, increasing the viscosity of the sample during extractions and preventing the activity of enzymes as well as proper homogenization of mixtures (<xref ref-type="bibr" rid="ref-9">Boughattas et al., 2021</xref>). As a result, researchers studying marine invertebrates species have had to dedicate extensive time and resources to troubleshooting and optimizing their genomic DNA extraction methods (<xref ref-type="bibr" rid="ref-15">Ferrara et al., 2006</xref>; <xref ref-type="bibr" rid="ref-29">Panova et al., 2016</xref>; <xref ref-type="bibr" rid="ref-9">Boughattas et al., 2021</xref>; <xref ref-type="bibr" rid="ref-1">Adema, 2021</xref>).</p>
+         <p>This study aims to develop and test DNA extraction protocols and generate an optimal protocol for the marine gastropod, Kellet’s whelk (<italic>Kelletia kelletii</italic>), for supporting genomic research on the species and marine invertebrates in general. Kellet’s whelk is a subtidal gastropod distributed along the North American west coast (<xref ref-type="bibr" rid="ref-40">Zacherl, Gaines &amp; Lonhart, 2003</xref>), a significant predator in kelp forest ecosystems (<xref ref-type="bibr" rid="ref-20">Halpern, Cottenie &amp; Broitman, 2006</xref>), and a species of interest to commercial fisheries (<xref ref-type="bibr" rid="ref-6">Aseltine-Neilson et al., 2006</xref>). Kellet’s whelk currently supports the second-largest molluscan commercial fishery in California in both landings and ex-vessel value (<xref ref-type="bibr" rid="ref-10">CDFW, 2023</xref>). Furthermore, Kellet’s whelk recently exhibited a ∼ 300 km northward range expansion (<xref ref-type="bibr" rid="ref-23">Herrlinger, 1981</xref>), potentially driven by intensifying El Niño Southern Oscillation (ENSO) oceanographic conditions due to climate change (<xref ref-type="bibr" rid="ref-40">Zacherl, Gaines &amp; Lonhart, 2003</xref>; <xref ref-type="bibr" rid="ref-21">Harley et al., 2006</xref>). Current research on the species seeks to use genomic-based assignment testing (<italic>sensu</italic> <xref ref-type="bibr" rid="ref-12">Christie et al., 2017</xref>) to investigate this hypothesis and, more broadly, elucidate spatio-temporal patterns of gene flow and population dynamics of Kellet’s whelk. Such information holds significant promise in addressing pivotal marine ecological and evolutionary inquiries and providing valuable support for the sustainable management of the Kellet’s whelk fishery, as well as that of other ecologically and economically important coastal species with analogous life history traits (<italic>e.g.</italic>, large populations, slow growth, sedentary demersal adults, and pelagic larvae) such as spiny lobster (<italic>Panulirus interruptus</italic>), kelp bass (<italic>Paralabrax clathratus</italic>), sheephead (<italic>Semicossyphus pulcher</italic>), and some rockfish (<italic>Sebastes atrovirens</italic>) (<xref ref-type="bibr" rid="ref-3">Allen, Pondella &amp; Horn, 2006</xref>; <xref ref-type="bibr" rid="ref-17">Froese &amp; Pauly, 2011</xref>).</p>
+         <p>An experimental design for revealing genomic features of Kellet’s whelk could be supported by applying next generation sequencing technologies to a large sample size of individuals in parent and recruit (1–2 year old Kellet’s whelk individuals) populations across the species’ biogeographic range and over multiple years (<xref ref-type="bibr" rid="ref-12">Christie et al., 2017</xref>). For instance, the application of GT-seq and RAD-seq techniques targeting neutral loci, along with GT-seq focusing on geographically-associated loci harboring putatively adaptive alleles, can offer insights into the underlying adaptive genetic mechanisms and historical population dynamics within the species (<xref ref-type="bibr" rid="ref-32">Reitzel et al., 2013</xref>). Moreover, these approaches can delineate spatially distinct population units characterized by unique genotypic patterns, facilitating the assignment testing of recruits to adult populations, thereby revealing population connectivity in the species (<xref ref-type="bibr" rid="ref-27">Malde, 2014</xref>; <xref ref-type="bibr" rid="ref-12">Christie et al., 2017</xref>). To support such genomics research, a reliable method for generating high-molecular weight (HMW) genomic DNA is required from each sample. Furthermore, analysis of a large sample size (<italic>e.g.</italic>, 1,000s of individuals, necessary for generating a complete population connectivity matrix; <xref ref-type="bibr" rid="ref-12">Christie et al., 2017</xref>) requires an optimized high-throughput HMW DNA extraction methodology. To help meet this need for Kellet’s whelk and potentially other non-model marine invertebrate species, we tested and compared the efficacy of DNA extraction protocols on Kellet’s whelk tissue. We evaluated four DNA extraction methods from marine invertebrate studies: (1) Qiagen Blood and Tissue kit (QIAGEN, MD, USA) (<xref ref-type="bibr" rid="ref-39">White &amp; Toonen, 2008</xref>; <xref ref-type="bibr" rid="ref-35">Song, Thomas &amp; Edwards, 2019</xref>), (2) Zymo Quick-DNA HMW Magbead kit (Zymo, CA, USA) (<xref ref-type="bibr" rid="ref-2">Akinde et al., 2022</xref>), (3) Phenol Chloroform protocol (PCI)(Thermo Fisher Scientific, MA, USA) (<xref ref-type="bibr" rid="ref-28">Nagel, Sewell &amp; Lavery, 2015</xref>), and, (4) an optimized version of a Salting out protocol (<xref ref-type="bibr" rid="ref-25">Li et al., 2011</xref>; <xref ref-type="bibr" rid="ref-15">Ferrara et al., 2006</xref>). For each, we conducted DNA extraction on 4–5 tissue samples, then compared the quality of DNA extractions produced, as well as the difficulty, toxicity and cost of the extraction method. We then used our test results and lessons learned from other marine genomic research projects to develop a modified protocol intended to optimally balance efficiency, cost, toxicity, and quality of extracting Kellet’s whelk DNA. We validated our protocol by evaluating DNA yield, DNA quality, and DNA purity generated by DNA extractions on an independent set of 16 tissue samples. We then applied our protocol to over three thousand tissue samples. We conducted the DNA extractions in batches using a group of trained student researchers, and assessed the quality of the DNA extractions produced on a random subset of the samples. We also tested a subset of the extractions for both RAD-seq and GT-seq methods. Finally, we tested our protocol by applying DNA extractions generated from it to whole genome sequencing using both long read sequencing (ONT MinION) and short read sequencing (Illumina Novaseq).</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Methods</title>
+         <p>Portions of this text were previously published as part of a preprint (<ext-link ext-link-type="uri" xlink:href="https://www.biorxiv.org/content/10.1101/2023.07.31.551321v2">https://www.biorxiv.org/content/10.1101/2023.07.31.551321v2</ext-link>). We tested four DNA extraction methods used in previous marine invertebrate studies. Each method was applied to tissue samples dissected from adult Kellet’s whelk (between 60–120 mm in length) collected in the wild and maintained prior to dissection in flow-through filtered seawater aquaria at the California Polytechnic State University research pier, located in Avila Beach, California, USA. The adult whelks were collected from sub-tidal reefs located near Monterey (36.6181670N, 121.897W), Naples (34.4219670N, 119.952283W), Diablo Canyon (35.2244500N, 120.877483W), and Point Loma (32.665333N, 117.261517W) California in 2019, transported live to the aquaria, and maintained under ambient conditions with food in the form of frozen seafood provided ad libitum (CDFW Scientific Collection Permit 8018 to C.W.). Tissue samples were dissected in March 2021. Approximately 200 mg tissue was dissected non-invasively from the foot of the individual, immediately frozen in liquid nitrogen, then transported to the Center for Applied Biotechnology at California Polytechnic State University and stored at −80 °C. A portion of each tissue sample was used for DNA extractions as specified in each method.</p>
+         <p>Five Kellet’s whelk individuals were dissected for the Qiagen and Zymo kit extractions with each sample having a duplicate (10 total extractions conducted using the Qiagen kit and 10 total extractions conducted using the Zymo kit) in March 2021. Four Kellet’s whelk individuals were dissected for the Salting out and PCI protocols with duplicates for the Salting out protocol but not for the PCI protocol (eight total extractions conducted using the Salting out protocol and four total extractions conducted using the PCI protocol) in May 2021.</p>
+         <p>Each method was evaluated based on protocol difficulty, cost per extraction, DNA yield, DNA quality, and toxicity. Difficulty was measured on a three-level qualitative scale. Easy: requires very little wet bench expertise - simple pipetting volumes and reagents as well as basic techniques. Medium: requires some wet bench experience—simple pipetting volumes and reagents with more advanced techniques (<italic>e.g.</italic>, bead binding, DNA washing and drying). Hard: requires more extensive wet bench experience—precise pipetting and handling of toxic reagents (<italic>e.g.</italic>, pipetting layered solutions, working in fume hoods and more extensive use of personal protective equipment (PPE)). Cost per extraction was calculated by the sum of costs per method (<italic>e.g.</italic>, price of Qiagen kit, cost of all reagents for PCI method) divided by the number of possible DNA extractions. DNA yield was measured by a Qubit fluorometer using the DNA Broad Range assay (Invitrogen, USA). DNA quality was evaluated based on gel electrophoresis using ∼250 ng DNA per sample (or 10 µL sample if concentration was under 25 µg/µL) on a 1% agarose gel at 80V for 45 min with a 1kb DNA ladder. Gel electrophoresis has been shown to be a robust method for quantifying DNA quality (<xref ref-type="bibr" rid="ref-18">Gaither et al., 2011</xref>; <xref ref-type="bibr" rid="ref-7">Bag et al., 2016</xref>; <xref ref-type="bibr" rid="ref-19">Green &amp; Sambrook, 2012</xref>). Quality was measured as good: high molecular weight (HMW) band; medium: HMW band with degradation; or, bad: digested. Toxicity of each method was measured by the reagent classification in accordance with Occupational Safety and Health Administration(OSHA), International Agency for Research on Cancer (IARC), or National Toxicology Program (NTP). Low toxicity: no ingredients are registered as carcinogenic, aspirationally or reproductively toxic. Medium toxicity: no ingredients are registered as carcinogenic, aspirationally or reproductively toxic, but some ingredients are registered as causing skin irritation, serious irritation, or damage to eyes. High toxicity: ingredients are registered as carcinogenic, aspirationally or reproductively toxic.</p>
+         <sec>
+            <title>Qiagen DNeasy blood and tissue kit</title>
+            <p>DNA extraction procedures followed the manufacturer’s protocol. For the Qiagen DNeasy Blood and Tissue kit, 25 mg tissue per sample was cut into small pieces and placed in a 1.5 mL microcentrifuge tube. 180 µL Buffer ATL and 20 µL Proteinase K were added. The sample was mixed by vortexing, then incubated at 56 °C overnight. The sample was vortexed for 15 s, then 200 µL Buffer AL was added. The sample was again vortexed, then 200 µL 100% ethanol was added. The sample was vortexed one last time, then pipetted into a DNeasy Mini spin column placed in a two mL collection tube. The sample was centrifuged at 6,000× g for 1 min and the flow-through was discarded. The DNeasy Mini spin column was placed in a new two mL collection tube, 500 µL Buffer AW1 was added, and then the sample was centrifuged at 6,000× g for 1 min. The flow-through was discarded, 500 µL Buffer AW2 was added, and then the sample was centrifuged at 20,000× g for 3 min. The flow-through and collection tube were discarded and the DNeasy Mini spin column was placed in a clean 1.5 mL microcentrifuge tube. 100 µL Buffer AE was added to the DNeasy membrane and incubated at room temperature for 1 min. The sample was centrifuged at 6,000 x g for 1 min to elute the DNA. The previous step was repeated with 100 µL Buffer AE to maximize DNA yield. Eluted DNA was stored at −20 °C. Protocol can be found in the <xref ref-type="supplementary-material" rid="supp-7">SI 7</xref>.</p>
+         </sec>
+         <sec>
+            <title>Zymo Quick-DNA HMW Magbead kit</title>
+            <p>DNA extraction procedures followed the manufacturer’s protocol. For the Zymo Quick-DNA HMW Magbead kit, 25 mg tissue per sample was added to a 1.5 mL microcentrifuge tube. 95 µL DNA Elution Buffer, 95 µL Biofluid and Solid Tissue Buffer, and 10 µL Proteinase K were added to the sample. The sample mixture was pipette mixed 5 times and incubated at 55 °C for 1–3 h until tissue became soluble. The sample was centrifuged at 10,000× g for 1 min. The supernatant was removed and transferred to a new clean 1.5 mL microcentrifuge tube. 400 µL Quick-DNA MagBinding Buffer was added to the sample and mixed by pipetting. 33 µL MagBinding Beads were added to the sample, pipette mixed five times, and placed on a shaker for 10 min. The sample was placed on a magnetic stand until the beads separated from the solution. The supernatant was removed and discarded and the sample was taken off of the magnetic stand. 500 µL Quick-DNA MagBinding Buffer was added to the sample, pipette mixed five times, and placed on a shaker for 5 min. The sample was placed on a magnetic stand until the beads separated from the solution. The supernatant was removed and discarded and the sample was taken off of the magnetic stand. 500 µL DNA Pre-Wash Buffer was added to the sample and pipette mixed 10 times. The sample was placed on a magnetic stand until the beads separated from the solution. The supernatant was removed and discarded and the sample was taken off of the magnetic stand. 900 µL g-DNA Wash Buffer was added to the sample and pipette mixed 10 times. All liquid was transferred into a new microcentrifuge tube and placed on a magnetic stand until the beads separated from the solution.The supernatant was removed and discarded and the sample was taken off of the magnetic stand. The DNA wash step was repeated. The beads were dried for 20 min at room temperature and 50 µL DNA Elution Buffer was added. The sample mixture was pipette mixed 20 times and incubated at room temperature for 5 min. The sample was placed on a magnetic stand until the beads separated from the solution. The supernatant (eluted DNA) was removed and transferred to a new clean 1.5 mL microcentrifuge tube. Eluted DNA was stored at −20 °C. Protocol can be found in the <xref ref-type="supplementary-material" rid="supp-7">SI 8</xref>.</p>
+         </sec>
+         <sec>
+            <title>PCI Protocol</title>
+            <p>The PCI DNA extraction procedure followed an adopted method from Thermo Fisher Scientific. For each sample, 30 mg tissue was homogenized mechanically in 1% SDS cell lysis buffer, 0.5M EDTA, and Proteinase K. The sample was then placed in a 65° C water bath for 1 h, and vortexed every 20 min. 1× volume Phenol Chloroform (PCI) was added to the sample and vortexed. The sample was centrifuged for 5 min at 16,000× g and the upper aqueous phase was transferred to a new tube. 20 µg Glycogen, 0.5× volume Ammonium Acetate 7.5 M, and 2.5× volume 100% ethanol were added to the sample. The sample was pipette mixed and kept at −20 °C overnight, then centrifuged at 4 °C for 30 min at 16,000× g and the supernatant was removed. 150 µL 70% ethanol was added to the sample, it was centrifuged at 4 °C for 2 min at 16,000× g and the supernatant was removed. The previous step was repeated. DNA was dried in a speedvac for 2 min and resuspended in 200 µL Elution Buffer. Eluted DNA was stored at −20 °C. Protocol can be found in the <xref ref-type="supplementary-material" rid="supp-7">SI 9</xref>.</p>
+         </sec>
+         <sec>
+            <title>Salting out protocol</title>
+            <p>The Salting out protocol was adopted from <xref ref-type="bibr" rid="ref-25">Li et al. (2011)</xref>. For each sample, 30 mg tissue was homogenized mechanically in 1% SDS cell lysis buffer, 0.5M EDTA, and Proteinase K. The sample was placed in a 65 °C water bath for 1 h, and vortexed for 5 s every 20 min. RNase A was added, the sample was lightly vortexed, then incubated at 37 °C for 10 min. 150 µL 7.5M Ammonium Acetate was added to the sample and mixed by vortexing. The sample was incubated at 4 °C for 5 min and centrifuged at 12,000× g for 10 min at 4 °C. The supernatant was transferred to a new tube and 60 µL 7.5M Ammonium Acetate was added. The sample was mixed by vortexing, incubated at 4 °C for 5 min, and centrifuged at 12,000× g for 10 min at 4 °C. The supernatant was transferred to a new tube and 1x volume 100% isopropanol was added. The sample was inverted 50 times and centrifuged at 8,000× g for 5 min at 4 °C. The supernatant was discarded and 400 µL 70% ethanol was added. The sample was inverted 3 times and centrifuged at 4 °C at 16,000× g for 5 min. The previous two steps were repeated. The sample was dried in a speedvac at 30 °C for 4 min. DNA was resuspended in 100 µL TE buffer and incubated at 4 °C overnight. Eluted DNA was stored at −20 °C. Protocol can be found in the <xref ref-type="supplementary-material" rid="supp-7">SI 10</xref>.</p>
+         </sec>
+         <sec>
+            <title>Validation</title>
+            <p>The protocol selected as the most optimal among the four methods (based on the four selection criteria; see above and Results), was then validated on an independent set of 16 tissue samples from 9 adult and 7 recruit Kellet’s whelks collected in the wild at 15 sub-tidal reef locations across the species’ range in 2015, 2016, and 2017 (CDFW Scientific Collection Permit 8018 to C.W.) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Tissue samples were collected from the foot of each individual Kellet’s whelk using a modified scalpel. Tissue samples from adults were collected non-lethally in the field, while recruits were collected whole in the field (because of their small size) and tissue samples were collected from them in the lab. Adult tissues and whole recruits collected in the field were frozen on dry ice or in liquid nitrogen, then transported to Cal Poly and stored at −80 °C until used for this study in 2021 and 2022. DNA extractions were evaluated based on DNA yield, DNA quality, and DNA purity. DNA yield and DNA quality were assessed using the same methods described above for comparing the four DNA extraction methods. DNA purity was measured by absorbance at 260/280 (contamination of proteins absorb at ∼280 nm, ideal ratio = ∼1.8) and 260/230 (contamination of salts, carbohydrates, and/or phenols absorb at ∼230 nm, ideal ratio = ∼1.8–2.2) (<xref ref-type="bibr" rid="ref-36">Thermo Fisher Scientific, 2009</xref>) using a Nanodrop-1000 spectrophotometer (Invitrogen, Waltham, MA, USA).</p>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Collection sites which span the entire biogeographic range of Kellet’s whelk.</title>
+                  <p>Kellet’s whelk populations north of Pt. Conception represents a recent range expansion into colder-water habitat (<xref ref-type="bibr" rid="ref-23">Herrlinger, 1981</xref>). See Supplementary Material section for location coordinates (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>).</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/fig-1.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Scaling-up</title>
+            <p>The selected optimal method was applied to 3,325 Kellet’s whelk tissue samples and assessed by DNA yield and DNA quality using the same methods above. The tissue samples represent 2,026 adults and 1,299 recruits from the same set of wild-collected samples used in the validation step described above, but covering more sites (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The extraction procedure was conducted by 13 undergraduate students at California Polytechnic State University in the Center for Applied Biotechnology from January 2022 to May 2022. DNA was extracted from samples in groups of 20 each week by each student. Three extractions were randomly selected from each set of 20 extractions bi-weekly for quality check assurance throughout the extraction procedure. Quality checks were conducted based on DNA yield and DNA quality, using the same methods described above for comparing the four DNA extraction methods. Sample quality and DNA concentration correlations were tested in R and visualized using ggplot2.</p>
+         </sec>
+         <sec>
+            <title>RAD-seq and GT-seq</title>
+            <p>A subset of the scaled-up DNA extractions were tested for sequencing quality on both GT-seq and RAD-seq platforms. A range of varying locations, years, and tissue types were used for each subset (<xref ref-type="supplementary-material" rid="supp-3">Tables S3</xref>, <xref ref-type="supplementary-material" rid="supp-4">S4</xref>, <xref ref-type="supplementary-material" rid="supp-5">S5</xref>). For GT-seq, 96 DNA extractions were shipped frozen to Twin Falls, ID, USA and processed at the GTseek LLC laboratory. Briefly, exonuclease 1 was added to each gDNA extraction. gDNA was amplified using the set GT-seq primers. PCR products were indexed for Illumina sequencing with i7 and i5 index. Samples were normalized using Nate’s Plates Tagging and Normalization kit (SI 18). Size selection was conducted using SPRI beads. In depth methods can be found in the Supplementary Material section. Further optimization was conducted for GT-seq using the Zymo Clean and concentrator kit on aliquots of the same samples initially tested. The same methods were used for sequencing these samples. The genotyping pipeline used can be found at <ext-link ext-link-type="uri" xlink:href="https://github.com/GTseq/GTseek_utils">https://github.com/GTseq/GTseek_utils</ext-link>. For RAD-seq, 172 DNA extractions were shipped frozen to the Hawai‘i Institute of Marine Biology, Hawai‘i, USA and processed at the ToBo genomics lab (<ext-link ext-link-type="uri" xlink:href="https://tobolab.org/">https://tobolab.org/</ext-link>). The gDNA digestion was performed with isoschizomer restriction enzymes (New England Bio-Labs, Ipswich, MA, USA). Libraries were generated using the KAPA Hyper Prep DNA kit (Roche Sequencing and Life Science) and then shipped frozen to the University of California, Davis, CA, USA (UCD) and sequenced at the UCD Genome Center through HiSeq2500. RAD-seq reads were filtered by their quality scores and the presence of the RADcutsite using process_radtags in Stacks (<xref ref-type="bibr" rid="ref-33">Rivera-Colón &amp; Catchen, 2022</xref>). Protocols can be found in the <xref ref-type="supplementary-material" rid="supp-7">SI 11</xref>–<xref ref-type="supplementary-material" rid="supp-7">12</xref>.</p>
+         </sec>
+         <sec>
+            <title>Library preparation</title>
+            <p>To optimize and validate the selected DNA extraction method for next generation sequencing, a library from one of the DNA extractions generated using the Salting out protocol was prepared for Nanopore MinION sequencing using the rapid sequencing kit (SQK-RAD004; ONT, Oxford, UK) without any further cleaning or repair. Three DNA libraries from the same DNA extraction were prepared with further purification and concentration using the Genomic DNA Clean and Concentrator kit (Zymo Research, Irvine, CA, USA). The DNA was then selected for high molecular weight DNA using the PacBio Short Read Eliminator kit (PacBio, Menlo Park, CA, USA). Concentration was assessed using the dsDNA BR assay on a Qubit fluorometer (Thermo Fisher Scientific, Waltham, MA, USA). Two libraries were prepared for Nanopore MinION sequencing using the Ligation Sequencing kit (SQK-LSK108; ONT, Oxford, UK) and NEBnext DNA Repair kit reagents (NEB, MA, USA) according to the manufacturer’s instructions. The other library was shipped frozen to the University of Oregon (Eugene, OR, USA) and prepared for Illumina Novaseq sequencing using the NEB Ultra II kit (NEB, Ipswich, MA, USA) according to the manufacturer’s instructions with a few modifications by the Genomics and Cell Characterization Facility (GC3F) at the University of Oregon (Eugene, OR, USA). DNA was mixed with the fragmentation reagents as described in the kit instructions and fragmented at 37 °C for 8 min, and end repaired as described in the manual. The end repaired sample was mixed with the ligation buffer and enhancer from the NEB kit, and 2.5 µL of 15 µm pre-annealed Tru-Seq style Y-adapter and ligated for 15 min at 20 °C. The sample was cleaned with 2, 0.75× bead cleans to remove adapter dimer. Samples were quantified by qPCR and loaded on the NovaSeq. Protocol methods can be found in the <xref ref-type="supplementary-material" rid="supp-7">SI 13</xref>–<xref ref-type="supplementary-material" rid="supp-7">17</xref>.</p>
+         </sec>
+         <sec>
+            <title>Whole genome sequencing</title>
+            <p>For Nanopore MinION sequencing, each library was loaded onto an R9 flow cell (FLO-MIN106, ONT). Priming and loading of the SpotON Flow Cells were performed using the standard protocol (sequencing gDNA (SQK-RAD004 or SQK-LSK109) Protocol) (<xref ref-type="bibr" rid="ref-26">Lu, Giordano &amp; Ning, 2016</xref>). MinION sequencing was operated with MinKNOW v5.2.13 without basecalling (<xref ref-type="supplementary-material" rid="supp-7">SI 17</xref>). Each flow cell was sequenced until &lt;2 pores were sequencing. Basecalling was conducted on the raw Nanopore MinION reads using Guppy v6.2.1 and high accuracy mode (&lt;5% error rate). Illumina Novaseq sequencing was conducted by GC3F at the University of Oregon using the NEBNext Ultra 2 DNA Library Prep kit for Illumina with slight modifications as stated above. All methods and protocols described above can be found in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Information</xref>.</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/table-1</object-id><label>Table 1</label><caption>
+                  <title>DNA extraction protocol evaluation on commonly used DNA extraction methods in other marine invertebrate studies.</title>
+                  <p>Evaluation is based on difficulty, cost, yield, quality, and toxicity.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Protocol</bold></th>
+                           <th><bold>Difficulty</bold><break/>(easy, medium, hard)</th>
+                           <th><bold>Cost per</bold><break/><bold>extraction</bold></th>
+                           <th><bold>DNA yield</bold><break/>(µg)</th>
+                           <th><bold>DNA quality</bold><break/>(Good=HMW Band,<break/>Medium=HMW band with smear,<break/>Bad=fragmented smear)</th>
+                           <th><bold>Toxicity</bold><break/>(high, medium, low)</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Qiagen Blood and<break/>Tissue Kit</td>
+                           <td>Easy</td>
+                           <td align="char" char="±">$3.49</td>
+                           <td>0.14 ± 0.084</td>
+                           <td>Bad</td>
+                           <td>low</td>
+                        </tr>
+                        <tr>
+                           <td>Zymo Magbead<break/>HMW Kit</td>
+                           <td>Medium</td>
+                           <td>$3.15</td>
+                           <td>13.38 ± 2.06</td>
+                           <td>Medium - inconsistent</td>
+                           <td>low</td>
+                        </tr>
+                        <tr>
+                           <td>PCI<break/> Protocol</td>
+                           <td>Hard</td>
+                           <td>$1.83</td>
+                           <td>2.84 ± 1.27</td>
+                           <td>Good</td>
+                           <td>high</td>
+                        </tr>
+                        <tr>
+                           <td>Salting Out<break/>Protocol</td>
+                           <td>Medium</td>
+                           <td>$1.50</td>
+                           <td>27.78 ± 9.45</td>
+                           <td>Good</td>
+                           <td>low</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Extraction performance</title>
+            <p>Each extraction method was evaluated based on its difficulty, cost, yield, quality, and toxicity. Regarding DNA extraction difficulty (<xref ref-type="table" rid="table-1">Table 1</xref>), the Qiagen kit was considered “easy” due to its lack of complex pipetting steps, while the Zymo kit and Salting out protocol were considered “medium” due to steps such as DNA washing and drying that required proficient lab skills. The PCI protocol was considered “hard” because it required steps with precise pipetting skills such as layered toxic solutions and under a fume hood. Comparing the cost per extraction of each method revealed the PCI and Salting out protocols, which required separate purchasing and assembly of reagents, to be approximately half as expensive as the Qiagen and Zymo kit methods, which contain pre-assembled reagents with the kit purchase (<xref ref-type="table" rid="table-1">Table 1</xref>). DNA yield was broadly low in all samples prepared by the Qiagen Blood and Tissue kit (<xref ref-type="table" rid="table-1">Table 1</xref>). DNA extractions produced by the Zymo kit produced optimal DNA yields (&gt;1 µg of DNA) (<xref ref-type="table" rid="table-1">Table 1</xref>). The Salting out protocol produced high and more variable DNA yields with a standard deviation of 9.45 µg (<xref ref-type="table" rid="table-1">Table 1</xref>). The PCI method produced DNA yields lower than either the Zymo kit or salting out protocol, but higher than that by the Qiagen Blood and Tissue kit (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+            <fig id="fig-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/fig-2</object-id><label>Figure 2</label><caption>
+                  <title>Genomic DNA extractions conducted on flash frozen Kellet’s whelk tissue on 1% gel with ∼250 ng gDNA (M = 1 kb DNA ladder).</title>
+                  <p>(A) Wells 1–10 display Qiagen Blood and Tissue kit, wells 11–20 display Zymo Quick-DNA HMW Magbead kit. (B) Wells 21–24 display PCI protocol (∼400 bp bands are most likely RNA contaminants due to lack of RNase use in protocol) with 1kb DNA markers (C) Wells 25–32 display modified Salting out protocol.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/fig-2.png"/>
+            </fig>
+            <p>The Qiagen and Zymo kits produced poor quality extractions. Samples prepared by the Qiagen Blood and Tissue kit had DNA degradation across most samples as observed by “digested” smears and low molecular weight bands on the agarose gel electrophoresis (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). DNA extractions produced by the Zymo kit resulted in inconsistent HMW bands with DNA degradation (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The PCI method produced HMW bands with little DNA degradation (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The Salting out protocol produced consistent HMW bands without DNA degradation across all samples (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). All methods had relatively low toxicity, except the PCI method which required the use of phenol and chloroform, which are dangerous chemicals that can be absorbed through the skin and are suspected mutagens. The Salting out protocol was selected as optimal among the four methods, due to its lack of difficulty, lowest cost per extraction, low toxicity, high DNA yield, and best quality HMW DNA.</p>
+         </sec>
+         <sec>
+            <title>Validation</title>
+            <p>To test the reliability of the Salting out protocol, it was validated on 16 Kellet’s whelk adult and recruit foot tissues from frozen samples collected across the species’ entire biogeographic range over multiple years (<xref ref-type="table" rid="table-2">Table 2</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). DNA yield of these extractions was broadly high, with an average of 35.7 ± 27.48 µg (<xref ref-type="table" rid="table-2">Table 2</xref>). HMW bands were evident in all extractions, but signs of digestion/degradation were also evident (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The purity of these DNA extractions were evaluated using the samples absorbance ratios at A260/280 and A260/230. The average A260/280 ratio of these extractions was 1.85 ± 0.046 and A260/230 was 1.81 ± 0.27 indicating pure DNA with, potentially, some ∼230 nm absorbing contaminants.</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/table-2</object-id><label>Table 2</label><caption>
+                  <title>Salting out protocol validation with 16 samples from different tissue types, location (see <xref ref-type="fig" rid="fig-1">Fig. 1</xref>), and year of collection.</title>
+                  <p>Resulting DNA yield, DNA quality, and DNA purity based on A260/280 and A260/230 ratios are reported. Average DNA yield = 35.7 ± 27.48µg, A260/280 =1.85 ± 0.046 , A260/230 = 1.81 ± 0.27. See DNA quality descriptions in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Sample</bold><break/><bold>number</bold></th>
+                           <th><bold>Tissue type</bold></th>
+                           <th><bold>Site</bold></th>
+                           <th><bold>Year</bold></th>
+                           <th><bold>DNA yield</bold><break/>(µg)</th>
+                           <th><bold>DNA quality</bold><break/>(Good, Medium, Bad)</th>
+                           <th align="center" colspan="2"><bold>DNA purity</bold></th>
+                        </tr>
+                        <tr>
+                           <th/>
+                           <th/>
+                           <th/>
+                           <th/>
+                           <th/>
+                           <th/>
+                           <th><bold>260/280</bold></th>
+                           <th><bold>260/230</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>1</td>
+                           <td>Adult</td>
+                           <td>POD</td>
+                           <td>2015</td>
+                           <td>27.71</td>
+                           <td>Good</td>
+                           <td>1.89</td>
+                           <td>2.13</td>
+                        </tr>
+                        <tr>
+                           <td>2</td>
+                           <td>Adult</td>
+                           <td>CAK</td>
+                           <td>2015</td>
+                           <td>72.87</td>
+                           <td>Medium</td>
+                           <td>1.74</td>
+                           <td>1.54</td>
+                        </tr>
+                        <tr>
+                           <td>3</td>
+                           <td>Adult</td>
+                           <td>PUB</td>
+                           <td>2015</td>
+                           <td>26.33</td>
+                           <td>Good</td>
+                           <td>1.86</td>
+                           <td>1.89</td>
+                        </tr>
+                        <tr>
+                           <td>4</td>
+                           <td>Adult</td>
+                           <td>ISM</td>
+                           <td>2015</td>
+                           <td>28.7</td>
+                           <td>Good</td>
+                           <td>1.89</td>
+                           <td>2.24</td>
+                        </tr>
+                        <tr>
+                           <td>5</td>
+                           <td>Adult</td>
+                           <td>PAV</td>
+                           <td>2015</td>
+                           <td>107.71</td>
+                           <td>Medium</td>
+                           <td>1.91</td>
+                           <td>2.23</td>
+                        </tr>
+                        <tr>
+                           <td>6</td>
+                           <td>Adult</td>
+                           <td>JAL</td>
+                           <td>2016</td>
+                           <td>13.43</td>
+                           <td>Bad</td>
+                           <td>1.84</td>
+                           <td>1.81</td>
+                        </tr>
+                        <tr>
+                           <td>7</td>
+                           <td>Adult</td>
+                           <td>MON</td>
+                           <td>2016</td>
+                           <td>13.67</td>
+                           <td>Medium</td>
+                           <td>1.85</td>
+                           <td>1.81</td>
+                        </tr>
+                        <tr>
+                           <td>8</td>
+                           <td>Adult</td>
+                           <td>RHR</td>
+                           <td>2016</td>
+                           <td>2.97</td>
+                           <td>Good</td>
+                           <td>1.82</td>
+                           <td>1.83</td>
+                        </tr>
+                        <tr>
+                           <td>9</td>
+                           <td>Adult</td>
+                           <td>COJ</td>
+                           <td>2016</td>
+                           <td>67.96</td>
+                           <td>Bad</td>
+                           <td>1.9</td>
+                           <td>2.15</td>
+                        </tr>
+                        <tr>
+                           <td>10</td>
+                           <td>Recruit</td>
+                           <td>POD</td>
+                           <td>2015</td>
+                           <td>31.32</td>
+                           <td>Medium</td>
+                           <td>1.86</td>
+                           <td>1.79</td>
+                        </tr>
+                        <tr>
+                           <td>11</td>
+                           <td>Recruit</td>
+                           <td>ISG</td>
+                           <td>2015</td>
+                           <td>20.16</td>
+                           <td>Medium</td>
+                           <td>1.84</td>
+                           <td>1.53</td>
+                        </tr>
+                        <tr>
+                           <td>12</td>
+                           <td>Recruit</td>
+                           <td>GUI</td>
+                           <td>2016</td>
+                           <td>30.2</td>
+                           <td>Good</td>
+                           <td>1.85</td>
+                           <td>1.6</td>
+                        </tr>
+                        <tr>
+                           <td>13</td>
+                           <td>Recruit</td>
+                           <td>BIC</td>
+                           <td>2016</td>
+                           <td>7.4</td>
+                           <td>Medium</td>
+                           <td>1.83</td>
+                           <td>1.33</td>
+                        </tr>
+                        <tr>
+                           <td>14</td>
+                           <td>Recruit</td>
+                           <td>MON</td>
+                           <td>2016</td>
+                           <td>40.35</td>
+                           <td>Medium</td>
+                           <td>1.87</td>
+                           <td>1.87</td>
+                        </tr>
+                        <tr>
+                           <td>15</td>
+                           <td>Recruit</td>
+                           <td>RII</td>
+                           <td>2016</td>
+                           <td>27.64</td>
+                           <td>Bad</td>
+                           <td>1.76</td>
+                           <td>1.53</td>
+                        </tr>
+                        <tr>
+                           <td>16</td>
+                           <td>Recruit</td>
+                           <td>WHC</td>
+                           <td>2017</td>
+                           <td>52.73</td>
+                           <td>Bad</td>
+                           <td>1.87</td>
+                           <td>1.71</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <fig id="fig-3">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/fig-3</object-id><label>Figure 3</label><caption>
+                  <title>Genomic DNA extractions using the Salting out protocol on 16 adult foot tissue or recruit samples from frozen samples collected in different years (2015, 2016, and 2017) and locations (POD, CAK, PUB, ISM, PAV, JAL, MON, RHR, COJ, POD, ISG, GUI, BIC, RII, WHC; see sample locations and year in <xref ref-type="table" rid="table-2">Table 2</xref> and location of site code indicated in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>) on a 1% gel with ∼250 ng gDNA (M = 1 kb DNA ladder).</title>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/fig-3.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Scaling</title>
+            <p>When the Salting out protocol was tested on 3,325 samples, the randomly sampled DNA extractions (252 DNA extractions from all different locations, tissue type, and years) resulted in a range of quality, with most falling into high enough quality for downstream GT-seq and RAD-seq applications. The overall quality of each extraction fell into three groups; Digested (8.7%), HMW + Degradation (29.8%), and HMW (61.5%) (<xref ref-type="fig" rid="fig-4">Figs. 4</xref>; <xref ref-type="fig" rid="fig-5">5</xref>). The majority (81.3%) fell into the groups optimal for RAD-seq and GT-seq; high quality HMW group or HMW + Degradation. The remaining Digested samples (8.7%), would be the least likely to produce sufficient RAD-seq and GT-seq libraries. DNA concentration was found to be correlated with DNA quality (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). This result is most likely due to smaller sample sizes that may have undergone DNA degradation more rapidly during the storing and thawing phase of tissue.</p>
+            <fig id="fig-4">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/fig-4</object-id><label>Figure 4</label><caption>
+                  <title>Quality check gel electrophoresis on randomly selected genomic DNA extractions bi-weekly.</title>
+                  <p>1% gel with ∼250 ng of DNA and 1kb or XL DNA ladder in the first well of each row. See <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Information</xref> for sample location, concentration, and quality.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/fig-4.png"/>
+            </fig>
+            <fig id="fig-5">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/fig-5</object-id><label>Figure 5</label><caption>
+                  <title>Assessment of 252 randomly selected DNA extractions (A) Examples of Digested, HMW + Degradation, and HMW quality genomic DNA extractions determined by gel electrophoresis (B) Quality assessment of genomic DNA extractions.</title>
+                  <p>Average concentration of Digested extractions (22 total samples), HMW + Degradation extractions (75 total samples), and HMW extractions (155 total samples). The top of the box represents the 75th percentile and the bottom represents the 25th percentile. Whiskers represent the highest and lowest values of the sample group. Kruskal Wallis tests are indicated by horizontal lines and asterisks (****: <italic>p</italic> ≤ 0.0001, **: <italic>p</italic> ≤ 0.01). (C) Pie chart displaying percentage of the 252 randomly-selected samples of the 3,325 DNA extractions within each quality assessment group: Digested, HMW + Degradation or HMW (<xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>).</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/fig-5.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>RAD-seq and GT-seq</title>
+            <p>A subset of 172 of the scaled-up DNA extractions were analyzed <italic>via</italic> RAD-seq, producing a total of 793,871,366 reads that passed quality assessment. Among the sequenced samples, nine (5.2%) exhibited a total read count lower than 410, with the remainder displaying a notably higher count of over 250,000 reads. All reads were further filtered by the presence of the anticipated RAD-seq cut site, resulting in an average of 78.9% of reads retained after all filtering from the raw reads (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). A subset of 96 of the scaled-up DNA extractions were also analyzed with GT-seq. Twenty five (26%) generated &gt;90% GT, 15 (15.6%) generated 30–90% GT, and 56 (58.3%) generated &lt;30% GT (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). Approximately half of the samples (49%) had raw read counts below 100,000 reads indicating unsuccessful sequencing. In general, the number of raw reads per sample decreased with lower % GT (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). No correlation was found between successful genotyping and sample location or DNA yield (<xref ref-type="supplementary-material" rid="supp-6">Table S6</xref>). After the same samples were cleaned using the Zymo Clean and Concentrator there was a 49% increase in successful genotype calling (&gt;90%). Of the samples, 72 (75%) were above 90% GT, 13 (13.5%) were between 30 and 90% GT, and only 11 (11.5%) under 30% GT (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). The number of raw reads across each sample was far more consistent with only one sample having less than 100,000 reads, a 50% increase in samples with optimal raw read counts after cleaning (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>).</p>
+            <fig id="fig-6">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/fig-6</object-id><label>Figure 6</label><caption>
+                  <title>(A) GT-seq tested samples in order of percent genotyped (%GT) from scaled DNA extractions.</title>
+                  <p>96 total samples were tested (see <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Information</xref>). Varied read distribution indicates unsuccessful sequencing especially in samples 40+. (B) GT-seq on the same 96 samples after Zymo clean and concentrator. Samples are ordered by %GT. Distribution of raw reads across samples indicates much more consistent and successful sequencing results. (C) Samples tested on RAD-seq platform. Reads that passed the quality filter and contained the RADcutsite are indicated by Retained reads. Reads are ordered by retained reads. Overall, an average of 78.84% of reads were retained after filtering for quality and RADcutsite. 94.77% of samples produced &gt;180,000 raw reads.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/fig-6.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Genome sequencing</title>
+            <p>The DNA from the Salting out protocol was sequenced on the Nanopore MinION and the Illumina Novaseq. The first library prepared using the rapid sequencing kit resulted in a failed sequencing run (<xref ref-type="table" rid="table-3">Table 3</xref>). The sequencing run produced an estimated 14.01 k reads and 8.94 Mb bases, yet when finalized using the MinKONOW software, no data was produced (<xref ref-type="table" rid="table-3">Table 3</xref>). Both Nanopore MinION libraries prepared using the Genomic DNA Clean Concentrator kit, the PacBio Short Read Eliminator kit, and the ligation sequencing protocol produced successful whole genome sequencing (<xref ref-type="table" rid="table-3">Table 3</xref>). Both sequencing runs produced more than 80 times the estimated number of bases from the rapid sequencing kit run (<xref ref-type="table" rid="table-3">Table 3</xref>). The KK_Ligationseq library produced a total of 2.6 Gb from 446.26 k reads and the KK_Ligationseq2 library produced a total of 1.4 Gb from 98.57 k reads of data that passed high quality base calling using Guppy. Each run had an estimated retention rate of 80.02% and 87.53% for reads that passed high quality filtering, respectively (<xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+            <p>The DNA from the salting out protocol extraction was also subjected to sequencing on the Illumina Novaseq. The same DNA cleaning and selection method used to produce successful libraries for nanopore sequencing was used. The Illumina Novaseq run produced 715.94 million reads and 113.83 Gb of bases. After filtering, there were 682.18 million reads and 104.85 Gb of bases. The filtered data consisted of 88.78% Q30 bases and 95.27% Q20 bases.</p>
+            <table-wrap id="table-3">
+               <object-id pub-id-type="doi">10.7717/peerj.16510/table-3</object-id><label>Table 3</label><caption>
+                  <title>Each sequencing run’s output from MinKNOW sequencing software (estimated reads and estimated bases) and Fastp (data produced post-filtering and reads passed filtering).</title>
+                  <p>Reads produced by the KK_Ligationseq and KK_Ligationseq2 libraries that passed quality filtering were 80.02% and 87.53% respectively indicating similar quality of sequencing for both libraries. Lower yields for the second round of ONT ligation sequencing library was most likely due to an observed air bubble within the sequencing pore.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16510/table-3.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Sequence</bold><break/><bold>run</bold></th>
+                           <th><bold>Estimated</bold><break/><bold>reads</bold></th>
+                           <th><bold>Estimated</bold><break/><bold>bases</bold></th>
+                           <th><bold>Data produced</bold><break/><bold>post-filtering</bold></th>
+                           <th><bold>Reads passed</bold><break/><bold>filtering</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>KK_Rapidseq</td>
+                           <td>14.01 k</td>
+                           <td>8.94 Mb</td>
+                           <td> 0 B</td>
+                           <td> 0</td>
+                        </tr>
+                        <tr>
+                           <td>KK_Ligationseq</td>
+                           <td>557.70 k</td>
+                           <td>1347 Mb</td>
+                           <td>2.6 Gb</td>
+                           <td>446.26 k</td>
+                        </tr>
+                        <tr>
+                           <td>KK_Ligationseq2</td>
+                           <td>112.61 k</td>
+                           <td>724 Mb</td>
+                           <td>1.4 Gb</td>
+                           <td>98.57 k</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Investigating the spatial and temporal scales of genetic variation among populations of non-model organisms, such as marine invertebrates, can reveal emergent, novel patterns and drivers of population connectivity in a marine system, with significant implications for science and management (<xref ref-type="bibr" rid="ref-13">Cowen et al., 2007</xref>; <xref ref-type="bibr" rid="ref-16">Fogarty &amp; Botsford, 2007</xref>). Recent advances in genome sequencing technologies hold tremendous potential for genomic research across the tree of life, particularly in under-represented organisms. While these new technologies hold the capacity for sequencing numerous non-model species. It is essential to recognize that sequencing many organisms, especially marine invertebrates, remains inherently challenging (<xref ref-type="bibr" rid="ref-11">Chakraborty, Saha &amp; Neelavar Ananthram, 2020</xref>). Marine organisms retain chemical composites within their tissue that interfere with both common DNA extraction methods as well as many downstream sequencing techniques (<xref ref-type="bibr" rid="ref-9">Boughattas et al., 2021</xref>). Moreover, they often exhibit notably high heterozygosity and large numbers of repetitive regions within their genomes (<italic>e.g.</italic>, transposable elements), underscoring the need for DNA extraction methods capable of producing high molecular weight DNA for long-read sequencing to overcome these genome assembly limitations (<xref ref-type="bibr" rid="ref-4">Angthong et al., 2020</xref>). Our objective was to test four common DNA extraction methods using the non-model organism Kellet’s whelk, generate an optimal protocol for producing HMW DNA for next generation sequencing, apply this protocol to a large collection of samples, and test its suitability for whole genome sequencing as well as RAD-seq and GT-seq platforms across large sample sizes. Among the four tested DNA extraction methods, the Salting out protocol stood out by producing the highest quality genomic DNA, while also being cost-effective and high yielding (<xref ref-type="table" rid="table-1">Table 1</xref>). The Salting out protocol was improved by the use of simple low agitation mechanical tissue homogenization, a set duration for chemical tissue lysis with proteinase K, and an overall lack of DNA disruption by minimizing the use of pipette mixing, vortexing, and filter columns (<xref ref-type="supplementary-material" rid="supp-7">SI 10</xref>). The necessity of these improvements became evident during initial testing, as they played a vital role in producing HMW DNA, given that different methods for homogenization and tissue lysis yielded varying outcomes (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). It is unclear why the Salting Out method was most successful in extracting consistent HMW DNA; it is possible that secondary metabolites specific to Kellet’s whelk may interfere with the efficacy of these extraction methods/kits differently. Importantly, we validated this method using samples collected 3–5 years prior to extractions and stored at −80 °C, which resulted in genomic DNA with high purity, as evident by A260/280 and A260/230 ratios suitable for population genetic platforms (<xref ref-type="table" rid="table-2">Table 2</xref>). Notably, any signs of degradation observed in these samples collected years ago from disparate locations (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) were not evident in samples produced in the lab from fresh tissue (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). This finding strongly suggests that compromised DNA quality stems not from the extraction method but rather from DNA degradation during tissue collection or storage. Conducting extractions on all 3,325 tissue samples using the Salting out protocol produced DNA with sufficient quality for RAD-seq and GT-seq, despite some variability among samples (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). We attribute this variability to potential factors such as human error, low tissue input, and suboptimal storage conditions (frozen on dry ice and subjected to multiple transfers before being stored at −80 °C). Nevertheless, the Salting out method yielded a majority (81.3%) of DNA extractions of optimal quality for RAD-seq and GT-seq platforms. We interpreted the quality of the DNA as measures of the potential success in RAD-seq and GT-seq platforms (81.3%) by requiring HMW DNA be present (as shown in gel electrophoresis <xref ref-type="fig" rid="fig-4">Fig. 4</xref>) and this was reflected in the overall results of the subset testing on GT-seq (75% successful) and RAD-seq (78.9% successful) (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). We anticipate that further improvements can be achieved by collecting samples under more consistent conditions and employing robotics rather than manual operators (trained students, see Methods), which may elevate the overall DNA quality across samples. While the Salting out protocol produced HMW DNA extraction, it likely did not remove all contaminants, as indicated by the failed ONT rapid sequencing library and initial suboptimal GT-seq libraries (<xref ref-type="table" rid="table-3">Table 3</xref>, <xref ref-type="fig" rid="fig-6">Fig. 6</xref>). These contaminants may have potentially interfered with the polymerase activity of the MinION Nanopore technology and enzyme activity during library preparation for the Illumina technologies (<xref ref-type="bibr" rid="ref-22">Healey et al., 2014</xref>). With the introduction of additional cleanup steps, the ONT ligation sequencing libraries and Illumina Novaseq library successfully achieved high-quality genome sequencing. Moreover, following the same cleanup process, 80% of the failed GT-seq samples from the initial run produced successful genotyping (&gt;90% call rate) (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). The bead cleaning steps in combination with the PCR step employed in the library preparation of the RAD-seq libraries appeared to exhibit resistance to inhibition by co-precipitants during sequencing. This observation implies a cleanup step is necessary before conducting PCR library amplification in order to facilitate successful sequencing.</p>
+         <p>The issue of inhibition or blockage of Nanopore pores was also observed in the black tiger prawn, <italic>Penaeus monodon</italic>, and believed to be caused by repetitive regions in the genome (<xref ref-type="bibr" rid="ref-37">Van Quyen et al., 2020</xref>). Successful Nanopore sequencing occurred after PCR-based library preparation, suggesting that there may be unknown contaminants associated with mollusc DNA that are removed or destroyed during PCR (<xref ref-type="bibr" rid="ref-1">Adema, 2021</xref>). Similarly, we encountered comparable challenges in producing successful genome sequencing using the Nanopore MinION without added cleanup and purification. Our cleanup, which did not include PCR steps and maintained the integrity of our HMW DNA, allowing secondary structures to form prior to sequencing, is believed to remove the unidentified contaminant responsible for the failed Nanopore MinION sequencing runs (<xref ref-type="supplementary-material" rid="supp-7">SI 14</xref>–<xref ref-type="supplementary-material" rid="supp-7">15</xref>). Our comparison of DNA extraction methods could have benefited from a method for isolating or quantifying co-precipitants. These co-precipitants, most likely a mucopolysaccharide (<xref ref-type="bibr" rid="ref-34">Sokolov, 2000</xref>), were not significantly implicated by the A260/280 ratio (A260/280 = 1.85 ± 0.046) or the A260/230 ratio (A260/230 = 1.81 ± 0.27) and were only clearly evident after sequencing, not being implicated by PCR failure (<xref ref-type="bibr" rid="ref-31">Popa, Murariu &amp; Popa, 2007</xref>). To prevent future failed sequencing runs, we recommend implementing a method for detecting these co-precipitants (2D gel-electrophoresis) or ensuring their removal (using the added clean-up, HMW selection kits, or PCR). Other methods known for removing polysaccharides, such as the CTAB method (<xref ref-type="bibr" rid="ref-11">Chakraborty, Saha &amp; Neelavar Ananthram, 2020</xref>; <xref ref-type="bibr" rid="ref-24">Huelsken, Schreiber &amp; Hollmann, 2011</xref>), should also be explored, as well as other modified methods being published regularly, given the increasing number of non-model marine invertebrates under genetic analysis (<xref ref-type="bibr" rid="ref-5">Ardura et al., 2017</xref>; <xref ref-type="bibr" rid="ref-29">Panova et al., 2016</xref>; <xref ref-type="bibr" rid="ref-4">Angthong et al., 2020</xref>).</p>
+         <p>By applying whole genome sequencing using GT-seq and RAD-seq to the extensive collection of Kellet’s whelk adult and recruit samples from populations spanning the US and Mexico coasts, southern and central California, and the species’ historical and expanded range, over multiple years covering ENSO and non-ENSO oceanographic conditions, researchers can hope to increase understanding of population connectivity in this and other coastal marine species with extensive larval dispersal (<xref ref-type="bibr" rid="ref-12">Christie et al., 2017</xref>). However, accomplishing such large-scale sequencing data on a non-model marine invertebrate species of this scale is challenging. This study serves as an important contribution towards enhancing our understanding of the performance and potential use of DNA extraction methods for future large-scale genomics.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title>Supplemental Information</title>
+         <supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16510/TableS1.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Metadata on Samples Extracted</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/16510/TableS2.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Scaled Extractions QC</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/16510/TableS3.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>GT-seq Raw DNA</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/16510/TableS4.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-4</object-id><label>Supplemental Information 4</label><caption>
+               <title>GT-seq Cleaned DNA</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/16510/TableS5.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-5</object-id><label>Supplemental Information 5</label><caption>
+               <title>RAD-seq Raw DNA</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/16510/TableS6.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-6</object-id><label>Supplemental Information 6</label><caption>
+               <title>GT% vs Conc. &amp; Location</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-7" mimetype="application" mime-subtype="zip" xlink:href="https://peerj.com/articles/16510/Protocols.zip">
+            <object-id pub-id-type="doi">10.7717/peerj.16510/supp-7</object-id><label>Supplemental Information 7</label><caption>
+               <title>All protocols used in the Methods</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>The undergraduate students that conducted the DNA extractions in the Center for Biotechnology at California Polytechnic State University: Jaden Hansen, Anabel Sanchez, Gabriella Richardson, Hanna Jaynes, Tyler Weipert, Alyssa Queen, Kathryn Hutchinson, Olivia Watt, Jordan Reichhardt, Chanel De Smet, and Alli Clark. The RAD-sequencing was carried out by the DNA Technologies and Expression Analysis Core at the UC Davis Genome Center. The GT-sequencing testing was carried out by GTseek with special thanks to Nathan Campbell. The Illumina Novaseq Genome sequencing was carried out by the Genomics &amp; Cell Characterization Facility (GC3F) at the University of Oregon with special thanks to Jeff Bishop.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>Robert J. Toonen is an Academic Editor for PeerJ.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Benjamin N. Daniels</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Jenna Nurge</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Olivia Sleeper</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Andy Lee</xref> conceived and designed the experiments, performed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Cataixa López</xref> conceived and designed the experiments, performed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-6" fn-type="con"><p><xref ref-type="contrib" rid="author-6">Mark R. Christie</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-7" fn-type="con"><p><xref ref-type="contrib" rid="author-7">Robert J. Toonen</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-8" fn-type="con"><p><xref ref-type="contrib" rid="author-8">Crow White</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-9" fn-type="con"><p><xref ref-type="contrib" rid="author-9">Jean M. Davidson</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Field Study Permissions</title><fn id="addinfo-1"><p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+            <p>Field collections were approved by the CDFW under the Scientific Collection Permit 8018.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>DNA Deposition</title><fn id="addinfo-2"><p>The following information was supplied regarding the deposition of DNA sequences:</p>
+            <p>The Nanopore MinION and Illumina NovaSeq data is available at the Sequence Read Archive (SRA): <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/SRR25442105">SRR25442105</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/SRR25442104">SRR25442104</ext-link> (Nanopore MinION); <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/SRR25442103">SRR25442103</ext-link> (Illumina NovaSeq), respectively. The data is also available at NCBI BioProject: <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA999368">PRJNA999368</ext-link>.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-3"><p>The following information was supplied regarding data availability:</p>
+            <p>The code described in the Methods is available at Github:</p>
+            <p>- <ext-link ext-link-type="uri" xlink:href="https://github.com/bndaniel/Genomic-DNA-Extractions-for-Kelletia-Kelletii">https://github.com/bndaniel/Genomic-DNA-Extractions-for-Kelletia-Kelletii</ext-link>
+            </p>
+            <p>- Daniels, B. (2023). Kellet’s whelk genomic extractions. Zenodo. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.10058845">https://doi.org/10.5281/zenodo.10058845</ext-link>.</p>
+            <p>The commands for quality checking were adopted from FastQC (<ext-link ext-link-type="uri" xlink:href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/">https://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link>) and base calling from Oxford Nanopore Technologies (<ext-link ext-link-type="uri" xlink:href="https://community.nanoporetech.com/downloads">https://community.nanoporetech.com/downloads</ext-link>).</p>
+            <p>The R scripts were developed using ggplot2 (<ext-link ext-link-type="uri" xlink:href="https://ggplot2.tidyverse.org/">https://ggplot2.tidyverse.org/</ext-link>).</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Adema (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adema</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Sticky problems: extraction of nucleic acids from molluscs</article-title>
+               <source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+               <volume>376</volume>
+               <issue>1825</issue>
+               <fpage>20200162</fpage>
+               <pub-id pub-id-type="doi">10.1098/rstb.2020.0162</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Akinde et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Akinde</surname>
+                     <given-names>SB</given-names>
+                  </name>
+                  <name>
+                     <surname>Adeyemi</surname>
+                     <given-names>FM</given-names>
+                  </name>
+                  <name>
+                     <surname>Oyedara</surname>
+                     <given-names>OO</given-names>
+                  </name>
+                  <name>
+                     <surname>Ajani</surname>
+                     <given-names>TF</given-names>
+                  </name>
+                  <name>
+                     <surname>Sule</surname>
+                     <given-names>WF</given-names>
+                  </name>
+                  <name>
+                     <surname>Olaitan</surname>
+                     <given-names>JO</given-names>
+                  </name>
+                  <name>
+                     <surname>Iwalokun</surname>
+                     <given-names>BA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ojo</surname>
+                     <given-names>OO</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>16S rRNA metagenomics data on the bacterial communities in integrated poultry-fish farm ponds</article-title>
+               <source>Data in Brief</source>
+               <volume>42</volume>
+               <elocation-id>108269</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.dib.2022.108269</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Allen, Pondella &amp; Horn (2006)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allen</surname>
+                     <given-names>LG</given-names>
+                  </name>
+                  <name>
+                     <surname>Pondella</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Horn</surname>
+                     <given-names>MH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <source>The ecology of marine fishes: California and adjacent waters</source>
+               <publisher-name>University of California Press</publisher-name>
+               <publisher-loc>Berkeley</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Angthong et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Angthong</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Uengwetwanit</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Pootakham</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Sittikankaew</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Sonthirod</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Sangsrakru</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Yoocha</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Nookaew</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Wongsurawat</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Jenjaroenpun</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Rungrassamee</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Karoonuthaisiri</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Optimization of high molecular weight DNA extraction methods in shrimp for a long-read sequencing platform</article-title>
+               <source>PeerJ</source>
+               <volume>8</volume>
+               <elocation-id>e10340</elocation-id>
+               <pub-id pub-id-type="doi">10.7717/peerj.10340</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Ardura et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ardura</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Zaiko</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Morán</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Planes</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Garcia-Vazquez</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Epigenetic signatures of invasive status in populations of marine invertebrates</article-title>
+               <source>Scientific Reports</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>42193</fpage>
+               <pub-id pub-id-type="doi">10.1038/srep42193</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Aseltine-Neilson et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aseltine-Neilson</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Brady</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Connell</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kalvass</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Laughlin</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Leos</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Mello</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Neillands</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Roberts</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Taniguchi</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Vejar</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Review of some California fisheries for 2005: coastal pelagic finfish, market squid, Dungeness crab, sea urchin, abalone, Kellet’s whelk, groundfish, highly migratory species, ocean salmon, nearshore live-fish, Pacific herring, and white seabass</article-title>
+               <source>California Cooperative Oceanic Fisheries Investigations Reports</source>
+               <volume>47</volume>
+               <fpage>9</fpage>
+               <lpage>29</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Bag et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bag</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Saha</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Mehta</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Anbumani</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Dayal</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Pant</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Saxena</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Allin</surname>
+                     <given-names>KH</given-names>
+                  </name>
+                  <name>
+                     <surname>Hansen</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>An improved method for high quality metagenomics DNA extraction from human and environmental samples</article-title>
+               <source>Scientific Reports</source>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>26775</fpage>
+               <pub-id pub-id-type="doi">10.1038/srep26775</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Bootsma et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bootsma</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Gruenthal</surname>
+                     <given-names>KM</given-names>
+                  </name>
+                  <name>
+                     <surname>McKinney</surname>
+                     <given-names>GJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Simmons</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Sass</surname>
+                     <given-names>GG</given-names>
+                  </name>
+                  <name>
+                     <surname>Larson</surname>
+                     <given-names>WA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>A GT-seq panel for walleye (Sander vitreus) provides a generalized workflow for efficient development and implementation of amplicon panels in non-model organisms</article-title>
+               <source>BioRxiv</source>
+               <pub-id pub-id-type="doi">10.1101/2020.02.13.948331</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Boughattas et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Boughattas</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Albatesh</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Al-Khater</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Giraldes</surname>
+                     <given-names>BW</given-names>
+                  </name>
+                  <name>
+                     <surname>Althani</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>Benslimane</surname>
+                     <given-names>FM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Whole genome sequencing of marine organisms by Oxford Nanopore Technologies: assessment and optimization of HMW-DNA extraction protocols</article-title>
+               <source>Ecology and Evolution</source>
+               <volume>11</volume>
+               <issue>24</issue>
+               <fpage>18505</fpage>
+               <lpage>18513</lpage>
+               <pub-id pub-id-type="doi">10.1002/ece3.8447</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>CDFW (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <collab>California Department of Fish and Wildlife (CDFW)</collab>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>California Department of Fish and Wildlife</article-title>
+               <uri>http://www.wildlife.ca.gov</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Chakraborty, Saha &amp; Neelavar Ananthram (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chakraborty</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Saha</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Neelavar Ananthram</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Comparison of DNA extraction methods for non-marine molluscs: is modified CTAB DNA extraction method more efficient than DNA extraction kits?</article-title>
+               <source>3 Biotech</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <pub-id pub-id-type="doi">10.3390/biotech10010001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Christie et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Christie</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name>
+                     <surname>Meirmans</surname>
+                     <given-names>PG</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaggiotti</surname>
+                     <given-names>OE</given-names>
+                  </name>
+                  <name>
+                     <surname>Toonen</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>White</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Disentangling the relative merits and disadvantages of parentage analysis and assignment tests for inferring population connectivity</article-title>
+               <source>ICES Journal of Marine Science</source>
+               <volume>74</volume>
+               <issue>6</issue>
+               <fpage>1749</fpage>
+               <lpage>1762</lpage>
+               <pub-id pub-id-type="doi">10.1093/icesjms/fsx044</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Cowen et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cowen</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Gawarkiewicz</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Pineda</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Thorrold</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Werner</surname>
+                     <given-names>FE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Population connectivity in marine systems an overview</article-title>
+               <source>Oceanography</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>14</fpage>
+               <lpage>21</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Ellegren (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ellegren</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Genome sequencing and population genomics in non-model organisms</article-title>
+               <source>Trends in Ecology &amp; Evolution</source>
+               <volume>29</volume>
+               <issue>1</issue>
+               <fpage>51</fpage>
+               <lpage>63</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tree.2013.09.008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Ferrara et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ferrara</surname>
+                     <given-names>GB</given-names>
+                  </name>
+                  <name>
+                     <surname>Murgia</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Parodi</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Valisano</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Cerrano</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Palmisano</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Bavestrello</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Sara</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>The assessment of DNA from marine organisms via a modified salting-out protocol</article-title>
+               <source>Cellular &amp; Molecular Biology Letters</source>
+               <volume>11</volume>
+               <fpage>155</fpage>
+               <lpage>160</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Fogarty &amp; Botsford (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fogarty</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Botsford</surname>
+                     <given-names>LW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Population connectivity and spatial management of marine fisheries</article-title>
+               <source>Oceanography</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>112</fpage>
+               <lpage>123</lpage>
+               <pub-id pub-id-type="doi">10.5670/oceanog.2007.34</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Froese &amp; Pauly (2011)</label><element-citation publication-type="data">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Froese</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Pauly</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <data-title>FishBase</data-title>
+               <uri>https://www.fishbase.se/search.php</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Gaither et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gaither</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Szabó</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Crepeau</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bird</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Toonen</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Preservation of corals in salt-saturated DMSO buffer is superior to ethanol for PCR experiments</article-title>
+               <source>Coral Reefs</source>
+               <volume>30</volume>
+               <fpage>329</fpage>
+               <lpage>333</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00338-010-0687-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Green &amp; Sambrook (2012)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name>
+                     <surname>Sambrook</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Molecular cloning</article-title>
+               <source>A Laboratory manual 4th</source>
+               <publisher-name>Cold Spring Harbor Laboratory</publisher-name>
+               <publisher-loc>Laurel Hollow</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Halpern, Cottenie &amp; Broitman (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Halpern</surname>
+                     <given-names>BS</given-names>
+                  </name>
+                  <name>
+                     <surname>Cottenie</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Broitman</surname>
+                     <given-names>BR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Strong top-down control in southern California kelp forest ecosystems</article-title>
+               <source>Science</source>
+               <volume>312</volume>
+               <issue>5777</issue>
+               <fpage>1230</fpage>
+               <lpage>1232</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.1128613</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Harley et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harley</surname>
+                     <given-names>CD</given-names>
+                  </name>
+                  <name>
+                     <surname>Randall Hughes</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Hultgren</surname>
+                     <given-names>KM</given-names>
+                  </name>
+                  <name>
+                     <surname>Miner</surname>
+                     <given-names>BG</given-names>
+                  </name>
+                  <name>
+                     <surname>Sorte</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Thornber</surname>
+                     <given-names>CS</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodriguez</surname>
+                     <given-names>LF</given-names>
+                  </name>
+                  <name>
+                     <surname>Tomanek</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>SL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>The impacts of climate change in coastal marine systems</article-title>
+               <source>Ecology Letters</source>
+               <volume>9</volume>
+               <issue>2</issue>
+               <fpage>228</fpage>
+               <lpage>241</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00871.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Healey et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Healey</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Furtado</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Cooper</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Henry</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Protocol: a simple method for extracting next-generation sequencing quality genomic DNA from recalcitrant plant species</article-title>
+               <source>Plant Methods</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>8</lpage>
+               <pub-id pub-id-type="doi">10.1186/1746-4811-10-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Herrlinger (1981)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Herrlinger</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1981">1981</year>
+               <article-title>Range extension of <italic>Kelletia kelletii</italic></article-title>
+               <source>Veliger</source>
+               <volume>24</volume>
+               <issue>1</issue>
+               <fpage>78</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Huelsken, Schreiber &amp; Hollmann (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Huelsken</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Schreiber</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hollmann</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>COI amplification success from mucus-rich marine gastropods (Gastropoda: Naticidae) depends on DNA extraction method and preserving agent</article-title>
+               <source>Mitteilungen der Deutschen Malakozoologischen Gesellschaft</source>
+               <volume>85</volume>
+               <issue>July 2011</issue>
+               <fpage>17</fpage>
+               <lpage>26</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Li et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Luo</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Gul</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>DNA extraction from crayfish exoskeleton</article-title>
+               <source>Indian Journal of Experimental Biology</source>
+               <volume>49</volume>
+               <issue>12</issue>
+               <fpage>953</fpage>
+               <lpage>957</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Lu, Giordano &amp; Ning (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lu</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Giordano</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Ning</surname>
+                     <given-names>Z</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Oxford nanopore MinION sequencing and genome assembly</article-title>
+               <source>Genomics, Proteomics &amp; Bioinformatics</source>
+               <volume>14</volume>
+               <issue>5</issue>
+               <fpage>265</fpage>
+               <lpage>279</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.gpb.2016.05.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Malde (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Malde</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Estimating the information value of polymorphic sites using pooled sequences</article-title>
+               <source>BMC Genomics</source>
+               <volume>15</volume>
+               <fpage>S20</fpage>
+               <pub-id pub-id-type="doi">10.1186/1471-2164-15-S6-S20</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Nagel, Sewell &amp; Lavery (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nagel</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Sewell</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Lavery</surname>
+                     <given-names>SD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Differences in population connectivity of a benthic marine invertebrate Evechinus chloroticus (Echinodermata: Echinoidea) across large and small spatial scales</article-title>
+               <source>Conservation Genetics</source>
+               <volume>16</volume>
+               <fpage>965</fpage>
+               <lpage>978</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10592-015-0716-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Panova et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Panova</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Aronsson</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Cameron</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Dahl</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Godhe</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Lind</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortega-Martinez</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Pereyra</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Tesson</surname>
+                     <given-names>SV</given-names>
+                  </name>
+                  <name>
+                     <surname>Wrange</surname>
+                     <given-names>A-L</given-names>
+                  </name>
+                  <name>
+                     <surname>Blomberg</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>DNA extraction protocols for whole-genome sequencing in marine organisms</article-title>
+               <source>Marine Genomics: Methods and Protocols</source>
+               <volume>1452</volume>
+               <fpage>13</fpage>
+               <lpage>44</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-1-4939-3774-5_2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Park &amp; Kim (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>ST</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Trends in next-generation sequencing and a new era for whole genome sequencing</article-title>
+               <source>International Neurourology Journal</source>
+               <volume>20</volume>
+               <issue>Suppl 2</issue>
+               <fpage>S76</fpage>
+               <pub-id pub-id-type="doi">10.5213/inj.1632742.371</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Popa, Murariu &amp; Popa (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Popa</surname>
+                     <given-names>OP</given-names>
+                  </name>
+                  <name>
+                     <surname>Murariu</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Popa</surname>
+                     <given-names>LO</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Comparison of four DNA extraction methods from invasive freshwater bivalve species (Mollusca: Bivalvia) in Romanian fauna</article-title>
+               <source>Travaux Du Muséum National d’Histoire Naturelle “Grigore Antipa”</source>
+               <volume>6</volume>
+               <fpage>527</fpage>
+               <lpage>536</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Reitzel et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Reitzel</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Herrera</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Layden</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Martindale</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Shank</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Going where traditional markers have not gone before: utility of and promise for RAD sequencing in marine invertebrate phylogeography and population genomics</article-title>
+               <source>Molecular Ecology</source>
+               <volume>22</volume>
+               <issue>11</issue>
+               <fpage>2953</fpage>
+               <lpage>2970</lpage>
+               <pub-id pub-id-type="doi">10.1111/mec.12228</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Rivera-Colón &amp; Catchen (2022)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rivera-Colón</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                  <name>
+                     <surname>Catchen</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Population genomics analysis with RAD, reprised: Stacks 2</article-title>
+               <source>Marine genomics: methods and protocols</source>
+               <publisher-name>Humana</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <fpage>99</fpage>
+               <lpage>149</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Sokolov (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sokolov</surname>
+                     <given-names>EP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>An improved method for DNA isolation from mucopolysaccharide-rich molluscan tissues</article-title>
+               <source>Journal of Molluscan Studies</source>
+               <volume>66</volume>
+               <issue>4</issue>
+               <fpage>573</fpage>
+               <lpage>575</lpage>
+               <pub-id pub-id-type="doi">10.1093/mollus/66.4.573</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Song, Thomas &amp; Edwards (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Song</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Edwards</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Complete genome sequences of pooled genomic DNA from 10 marine bacteria using PacBio long-read sequencing</article-title>
+               <source>Marine Genomics</source>
+               <volume>48</volume>
+               <elocation-id>100687</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.margen.2019.05.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Thermo Fisher Scientific (2009)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Thermo Fisher Scientific</collab>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <source>NanoDrop 2000/2000c spectrophotometer V1. 0 User Manual</source>
+               <publisher-name>Thermo Fisher Scientific</publisher-name>
+               <publisher-loc>Waltham</publisher-loc>
+               <fpage>19810</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Van Quyen et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Quyen</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Gan</surname>
+                     <given-names>HM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>YP</given-names>
+                  </name>
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>DD</given-names>
+                  </name>
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>TH</given-names>
+                  </name>
+                  <name>
+                     <surname>Tran</surname>
+                     <given-names>XT</given-names>
+                  </name>
+                  <name>
+                     <surname>Khang</surname>
+                     <given-names>DD</given-names>
+                  </name>
+                  <name>
+                     <surname>Austin</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Improved genomic resources for the black tiger prawn (Penaeus monodon)</article-title>
+               <source>Marine Genomics</source>
+               <volume>52</volume>
+               <elocation-id>100751</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.margen.2020.100751</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Van Wyngaarden et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Wyngaarden</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Snelgrove</surname>
+                     <given-names>PV</given-names>
+                  </name>
+                  <name>
+                     <surname>DiBacco</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Hamilton</surname>
+                     <given-names>LC</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodríguez-Ezpeleta</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Jeffery</surname>
+                     <given-names>NW</given-names>
+                  </name>
+                  <name>
+                     <surname>Stanley</surname>
+                     <given-names>RR</given-names>
+                  </name>
+                  <name>
+                     <surname>Bradbury</surname>
+                     <given-names>IR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Identifying patterns of dispersal, connectivity and selection in the sea scallop, Placopecten magellanicus, using RAD seq-derived SNP s</article-title>
+               <source>Evolutionary Applications</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>102</fpage>
+               <lpage>117</lpage>
+               <pub-id pub-id-type="doi">10.1111/eva.12432</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>White &amp; Toonen (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>White</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Toonen</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Isolation and characterization of polymorphic microsatellite and COI loci from the whelk <italic>Kelletia kelletii</italic></article-title>
+               <source>Molecular Ecology Resources</source>
+               <volume>8</volume>
+               <issue>4</issue>
+               <fpage>881</fpage>
+               <lpage>883</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1755-0998.2008.02097.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Zacherl, Gaines &amp; Lonhart (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zacherl</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaines</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Lonhart</surname>
+                     <given-names>SI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>The limits to biogeographical distributions: insights from the northward range extension of the marine snail, <italic>Kelletia kelletii</italic> (Forbes, 1852)</article-title>
+               <source>Journal of Biogeography</source>
+               <volume>30</volume>
+               <issue>6</issue>
+               <fpage>913</fpage>
+               <lpage>924</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-2699.2003.00899.x</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

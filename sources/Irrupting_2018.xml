@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">6146</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.6146</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Animal Behavior</subject>
+               <subject>Biodiversity</subject>
+               <subject>Conservation Biology</subject>
+               <subject>Zoology</subject>
+               <subject>Population Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Optimal control of irrupting pest populations in a climate-driven ecosystem</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" equal-contrib="yes">
+               <name>
+                  <surname>Holland</surname>
+                  <given-names>E Penelope</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Binny</surname>
+                  <given-names>Rachelle N.</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author" equal-contrib="yes" corresp="yes">
+               <name>
+                  <surname>James</surname>
+                  <given-names>Alex</given-names>
+               </name>
+               <email>alex.james@canterbury.ac.nz</email><xref ref-type="aff" rid="aff-3">3</xref><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Department of Biology, University of York</institution>, <city>York</city>, <country>United Kingdom</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Manaaki Whenua Landcare Research</institution>, <city>Lincoln</city>, <country>New Zealand</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Biomathematics Research Centre, University of Canterbury</institution>, <city>Christchurch</city>, <country>New Zealand</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Te Pūnaha Matatini</institution>, <country>New Zealand</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Kramer</surname>
+                  <given-names>Donald</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-20">
+            <day>20</day>
+            <month>12</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e6146</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-08-28">
+               <day>28</day>
+               <month>8</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-11-21">
+               <day>21</day>
+               <month>11</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Holland et al.</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Holland et al.</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/6146"/>
+         <abstract>
+            <p>Irruptions of small consumer populations, driven by pulsed resources, can lead to adverse effects including the decline of indigenous species or increased disease spread. Broad-scale pest management to combat such effects benefits from forecasting of irruptions and an assessment of the optimal control conditions for minimising consumer abundance. We use a climate-based consumer-resource model to predict irruptions of a pest species (<italic>Mus musculus</italic>) population in response to masting (episodic synchronous seed production) and extend this model to account for broad-scale pest control of mice using toxic bait. The extended model is used to forecast the magnitude and frequency of pest irruptions under low, moderate and high control levels, and for different timings of control operations. In particular, we assess the optimal control timing required to minimise the frequency with which pests reach ‘plague’ levels, whilst avoiding excessive toxin use. Model predictions suggest the optimal timing for mouse control in beech forest, with respect to minimising plague time, is mid-September. Of the control regimes considered, a seedfall driven biannual-biennial regime gave the greatest reduction in plague time and plague years for low and moderate control levels. Although inspired by a model validated using house mouse populations in New Zealand forests, our modelling approach is easily adapted for application to other climate-driven systems where broad-scale control is conducted on irrupting pest populations.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Consumer-resource model</kwd>
+            <kwd><italic>Mus musculus</italic></kwd>
+            <kwd>Broad-scale aerial control</kwd>
+            <kwd>Pulsed resources</kwd>
+            <kwd>Mast seeding</kwd>
+            <kwd>Invasive species</kwd>
+            <kwd>Rodent management</kwd>
+         </kwd-group>
+         <funding-group>
+            <funding-statement>The authors received no funding for this work.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Pulses in food resources can drive irruptions of small consumers and trigger cascading responses in population dynamics across multiple trophic levels (<xref ref-type="bibr" rid="ref-36">Ostfeld &amp; Keesing, 2000</xref>). This can result in the decline or extinction of indigenous species (<xref ref-type="bibr" rid="ref-15">Innes et al., 2010</xref>) and/or an increase in disease spread (<xref ref-type="bibr" rid="ref-20">Jones et al., 1998</xref>), particularly in ecosystems inhabited by pest species. To avoid or mitigate the impact of pest populations on the ecological community, it is necessary to forecast irruptions, often using weather-based forecast models (e.g., <xref ref-type="bibr" rid="ref-22">Kelly et al., 2013</xref>; <xref ref-type="bibr" rid="ref-26">Magarey &amp; Isard, 2017</xref>), and then optimise the timing and intensity of management operations to reduce pest abundance at critical times of the year (e.g., <xref ref-type="bibr" rid="ref-51">Singleton, Tann &amp; Krebs, 2007</xref>).</p>
+         <p>The diverse effects of mast seeding - the synchronous intermittent production of large seed crops (<xref ref-type="bibr" rid="ref-1">Allen et al., 2012</xref>; <xref ref-type="bibr" rid="ref-23">Kelly &amp; Sork, 2002</xref>) - on ecological communities around the world are illustrated well using rodent populations in forests. Yellow-necked mice (<italic>Apodemus flavicollis</italic>) have increased winter survival and rapid population growth following mast seeding in oak (<italic>Quercus robur</italic>) and hornbeam (<italic>Carpinus betulus</italic>) in Biolowieza Primeval Forest in Poland, with a corresponding increase and peak in predator populations such as the pine marten (<italic>Martes martes</italic>) a few months to a year later (<xref ref-type="bibr" rid="ref-36">Ostfeld &amp; Keesing, 2000</xref>; <xref ref-type="bibr" rid="ref-38">Pucek et al., 1993</xref>). When rodent prey becomes scarce following an irruption, pine martens compensate by increasing consumption of alternative resources including birds and berries (<xref ref-type="bibr" rid="ref-19">Jedrzejewska &amp; Jedrzejewski, 1998</xref>). Forest bird populations are also limited by predation by raptors, e.g., buzzards, which undergo prey-switching from rodents to birds following a crash in rodent abundance (<xref ref-type="bibr" rid="ref-19">Jedrzejewska &amp; Jedrzejewski, 1998</xref>). In oak (<italic>Quercus</italic> spp.) forest in the eastern U.S., white-footed mice (<italic>Peromyscus leucopus</italic>) respond similarly to acorn masts, with increased winter survival and breeding success (<xref ref-type="bibr" rid="ref-20">Jones et al., 1998</xref>). However, in this case mice are also predators, playing an important role in suppressing gypsy moth (<italic>Lymantria dispar</italic>), an invasive and outbreaking species. Defoliation by gypsy moths can delay and reduce mast production, creating a negative feedback loop for the mast-driven mouse populations with catastrophic consequences for tree growth and survival as well as reduced mouse abundance (<xref ref-type="bibr" rid="ref-20">Jones et al., 1998</xref>). However, high densities of mice lead to increases in tick (<italic>Ixodes scapularis</italic>) populations, and the associated spread of Lyme disease in humans (<xref ref-type="bibr" rid="ref-20">Jones et al., 1998</xref>).</p>
+         <p>In South America, rodent outbreaks are associated with emerging viral diseases such as hantavirus (<xref ref-type="bibr" rid="ref-17">Jaksic &amp; Lima, 2003</xref>). These outbreaks occur after bamboo (<italic>Chusquea</italic> sp. and <italic>Merostachys</italic> sp.) masts, but may also follow heavy rainfall events (<xref ref-type="bibr" rid="ref-17">Jaksic &amp; Lima, 2003</xref>), emphasizing the need for ecologically sound pest forecasting models. Introduced bamboo (<italic>Melocanna baccifera</italic>) is a well-used non-timber forest product in India, but rodent (<italic>Rattus</italic> sp. and <italic>Mus</italic> sp.) migration towards agricultural areas following mast events can have devastating effects on standing crops and stored grains, as well as increasing the risk of infection for rodent-borne diseases (<xref ref-type="bibr" rid="ref-3">Biswas, Kumar &amp; Mittal, 2016</xref>). It has also been suggested that masting by introduced Asian bamboos into North America, particularly the Pacific Northwest, poses a health risk to humans as a result of population irruptions and subsequent dispersal of deer mice (<italic>Peromyscus maniculatus</italic>, a hantavirus carrier) following mast seed depletion (<xref ref-type="bibr" rid="ref-53">Smith, Gomulkiewicz &amp; Mack, 2015</xref>).</p>
+         <p>Broad-scale management of mouse populations to reduce damaging effects is typically attempted through the application of baits laced with rodenticide toxin, applied either via aerial drops or ground-based bait stations (<xref ref-type="bibr" rid="ref-49">Singleton et al., 2010</xref>). In Australia, for example, plaguing mouse populations can exceed densities of 1,000 mice per hectare, causing significant damage to cereal crops (<xref ref-type="bibr" rid="ref-50">Singleton et al., 2001</xref>). Sterilised wheat grains coated with zinc phosphide toxin are applied in and around crops, aerially or using calibrated fertiliser spreaders, and can reduce the mouse population by 40–98% (<xref ref-type="bibr" rid="ref-30">Mutze &amp; Sinclair, 2004</xref>).</p>
+         <p>In New Zealand, invasive house mouse (<italic>Mus musculus)</italic> populations undergo episodic outbreaks in response to high seedfall, particularly in the heavy masts of native beech forest (<italic>Nothofagus</italic> species) (<xref ref-type="bibr" rid="ref-12">Fitzgerald et al., 1996</xref>; <xref ref-type="bibr" rid="ref-24">King, 1983</xref>; <xref ref-type="bibr" rid="ref-41">Ruscoe, 2001</xref>) or rimu (<italic>Dacrydium cupressinum</italic>) (<xref ref-type="bibr" rid="ref-46">Ruscoe et al., 2004</xref>). Irruptions in beech forest occur predominantly in late summer to autumn (i.e., February–May) (<xref ref-type="bibr" rid="ref-42">Ruscoe et al., 2003</xref>; <xref ref-type="bibr" rid="ref-56">Wardle, 1984</xref>) and are accompanied by an increase in abundance of other seed consumers, including ship rats (<italic>Rattus rattus)</italic> (<xref ref-type="bibr" rid="ref-54">Studholme, 2000</xref>) and kiore (<italic>R. exulans)</italic> (<xref ref-type="bibr" rid="ref-45">Ruscoe &amp; Pech, 2010</xref>). Small mammal predators, predominantly invasive stoats (<italic>Mustela erminea</italic>), benefit from the irruptions of prey and increase after a delay caused by seasonal breeding (<xref ref-type="bibr" rid="ref-24">King, 1983</xref>). These dynamics are harmful to a wide range of native fauna. For instance, in addition to fallen seed, mouse and rat diets comprise invertebrates (<xref ref-type="bibr" rid="ref-12">Fitzgerald et al., 1996</xref>; <xref ref-type="bibr" rid="ref-21">Jones &amp; Toft, 2006</xref>; <xref ref-type="bibr" rid="ref-27">Miller &amp; Miller, 1995</xref>; <xref ref-type="bibr" rid="ref-44">Ruscoe &amp; Murphy, 2005</xref>), bird chicks and eggs (<xref ref-type="bibr" rid="ref-35">O’Donnell &amp; Phillipson, 1996</xref>; <xref ref-type="bibr" rid="ref-59">Wilson et al., 2006</xref>; <xref ref-type="bibr" rid="ref-58">Wilson et al., 1998</xref>), and lizards (<xref ref-type="bibr" rid="ref-33">Norbury et al., 2014</xref>). Stoats also have a flexible diet, and in masting forests will switch from mice as their primary food source, to predating on birds and invertebrates when mice become scarce (<xref ref-type="bibr" rid="ref-28">Murphy et al., 2016</xref>; <xref ref-type="bibr" rid="ref-58">Wilson et al., 1998</xref>).</p>
+         <p>Despite the threat posed to native biota, there is currently no broad-scale control targeting mice alone in mainland New Zealand. This is primarily due to higher prioritisation of control for other small mammal pest targets, e.g., common brushtail possum (<italic>Trichosurus vulpecula</italic>), rats (<italic>Rattus</italic> sp.) and mustelids (<italic>Mustela</italic> sp.), which are considered to pose a greater risk to native flora and fauna (<xref ref-type="bibr" rid="ref-15">Innes et al., 2010</xref>; <xref ref-type="bibr" rid="ref-45">Ruscoe &amp; Pech, 2010</xref>). In addition, the lack of cost-effective mouse-specific control tools and public concern around widespread toxin use, means that the broad-scale management of mice on mainland New Zealand still presents a major challenge (<xref ref-type="bibr" rid="ref-45">Ruscoe &amp; Pech, 2010</xref>). Ground-based control (e.g., trapping) targeting mice alone has been undertaken on smaller spatial scales within predator-fenced sanctuaries, where all other vertebrate pests have been eradicated, and has been shown to confer benefits to biodiversity (<xref ref-type="bibr" rid="ref-57">Watts et al., 2017</xref>). Broad-scale multi-species control operations involving aerially applied bait laced within sodium fluoroacetate (1,080) toxin are undertaken in New Zealand to control rodents, possums and stoats (via secondary poisoning when stoats consume poisoned rodents (<xref ref-type="bibr" rid="ref-29">Murphy et al., 1999</xref>)). These operations have been partially successful in reducing mouse abundance but less so than for other small mammals (<xref ref-type="bibr" rid="ref-10">Elliott &amp; Kemp, 2016</xref>), likely due to lower uptake of the 1,080 bait by mice compared to other targets (<xref ref-type="bibr" rid="ref-11">Fisher &amp; Airey, 2009</xref>; <xref ref-type="bibr" rid="ref-34">O’Connor, Morriss &amp; Murphy, 2005</xref>). There has been some success with mouse eradication programmes on New Zealand’s offshore islands, predominantly through aerial application of the second-generation anti-coagulant toxin brodifacoum (<xref ref-type="bibr" rid="ref-25">Mackay, Russell &amp; Murphy, 2007</xref>). However, long-term broad-scale brodifacoum use is avoided on mainland New Zealand due to its persistence in the environment and risks to non-target species (<xref ref-type="bibr" rid="ref-9">Eason et al., 2002</xref>).</p>
+         <p>Control targeting only a subset of predators in an ecosystem may lead to an increase in abundance of other smaller predators, an effect termed ‘mesopredator release’, causing a subsequent decline in indigenous prey species (<xref ref-type="bibr" rid="ref-7">Crooks &amp; Soulé, 1999</xref>; <xref ref-type="bibr" rid="ref-39">Ritchie &amp; Johnson, 2009</xref>). In New Zealand, mesopredator release of mouse populations has been observed both on islands (<xref ref-type="bibr" rid="ref-48">Simberloff, 2002</xref>) and on the mainland (<xref ref-type="bibr" rid="ref-32">Norbury et al., 2013</xref>). It is therefore becoming increasingly important to have the understanding and technologies in place to effectively forecast and manage irrupting mouse populations over large spatial scales. In particular, the optimal timing for broad-scale mouse control on mainland New Zealand remains a critical knowledge gap. For eradication of mice on islands, the preferred season for control is winter to early spring when food is likely to be limiting because this maximizes bait up-take (<xref ref-type="bibr" rid="ref-5">Broome et al., 2017</xref>). The optimal timing for broad-scale aerial 1,080 control targeting irrupting rodents and stoats is between July and November in a mast year, determined with the aim of minimising rat abundance. However, operational logistics (e.g., availability of helicopters), weather and legal requirements also place significant constraints on timing (<xref ref-type="bibr" rid="ref-10">Elliott &amp; Kemp, 2016</xref>). <xref ref-type="bibr" rid="ref-16">Innes et al. (1995)</xref> proposed that broad-scale aerial operations targeting ship rats (<italic>Rattus rattus</italic>) to protect nesting birds should coincide with the onset of nesting each year. The conceptual model of <xref ref-type="bibr" rid="ref-58">Wilson et al. (1998)</xref> for mouse dynamics in beech forest suggests conducting control in November prior to a mast would have little effect, while the November after a mast would be too late (see e.g., Fig. 5 in <xref ref-type="bibr" rid="ref-58">Wilson et al. (1998)</xref>). However, conducting control in February at the start of a mast and/or May during heavy seedfall may be optimal.</p>
+         <p>Models for irrupting mouse populations require good predictions of the size and timing of masts. Temperature and rainfall in the years before the mast event are almost always the primary cue for mast seeding (<xref ref-type="bibr" rid="ref-18">Janzen, 1971</xref>). <xref ref-type="bibr" rid="ref-22">Kelly et al. (2013)</xref> proposed a generic and widely applicable model using the change in temperature in a set period over the previous two years (ΔT) as the sole predictor. This model offered much improved predictions over other simple models and has been shown to be applicable to a wide range of plant species around the world, including oak and many New Zealand species, either as a cue or a proximate driver of masting (<xref ref-type="bibr" rid="ref-22">Kelly et al., 2013</xref>; <xref ref-type="bibr" rid="ref-37">Pearse, Koenig &amp; Knops, 2014</xref>).</p>
+         <p><xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref> previously developed a climate-based consumer-resource model for mouse irruptions in masting forests, parameterised using long-term temperature, hard beech (<italic>Fuscospora truncata</italic>) seedfall and house mouse (<italic>Mus musculus)</italic> abundance data from mixed beech-podocarp-broadleaved forest in Orongorongo Valley (OV), New Zealand. Seedfall was predicted using the ΔT model (<xref ref-type="bibr" rid="ref-22">Kelly et al., 2013</xref>). In this paper, we extend the <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref> model of mouse population dynamics driven by pulses in food resource, to account for broad-scale mouse control. We use the extended model to forecast population irruptions (timing and size) and the impact of pest control on mouse populations, to assess if and how we can avoid ’plague’ levels of mice while also avoiding excessive poison use. Predictions of the impacts of tailored vs. untailored vs. no control will be crucial for effective and efficient broad-scale management of irrupting mouse populations.</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Methods</title>
+         <sec>
+            <title>Consumer–resource model</title>
+            <p>The underlying consumer-resource model is the best-fit model developed by <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref>. Relative mouse abundance <italic>M</italic>(<italic>t</italic>) is quantified by an index: captures per 100 trap nights (C/100TN) (<xref ref-type="bibr" rid="ref-43">Ruscoe, Goldsmith &amp; Choquenot, 2001</xref>). The rate of change of <italic>M</italic> over time <italic>t</italic> (years) is given by <disp-formula id="eqn-1"><label>(1)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-1.png"/>
+                     <tex-math id="tex-eqn-1"><![CDATA[\begin{eqnarray} \frac{dM}{dt} = \left( \alpha g \left( F \right) -{\mu }_{1}-{\mu }_{2}M-B(t) \right) M,\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-1">
+                        <mml:mstyle displaystyle="true">
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mi>M</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfrac>
+                           <mml:mo>=</mml:mo>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>α</mml:mi>
+                                 <mml:mi>g</mml:mi>
+                                 <mml:mfenced separators="" open="(" close=")">
+                                    <mml:mrow>
+                                       <mml:mi>F</mml:mi>
+                                    </mml:mrow>
+                                 </mml:mfenced>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>μ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>μ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mi>M</mml:mi>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mi>B</mml:mi>
+                                 <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mi>t</mml:mi></mml:mfenced></mml:mrow>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mi>M</mml:mi>
+                           <mml:mo>,</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>Food availability <italic>F</italic> (seeds m<sup>−2</sup>) is predicted by the functional response <italic>g</italic>(<italic>F</italic>) and <italic>α</italic> is the demographic efficiency of mice (i.e., efficiency at converting food into recruitment for the mouse population). The total mortality rate is <italic>μ</italic><sub>1</sub> − <italic>μ</italic><sub>2</sub><italic>M</italic> − <italic>B</italic>(<italic>t</italic>), where the parameters <italic>μ</italic><sub>1</sub> and <italic>μ</italic><sub>2</sub> are density-independent and density-dependent mortality rates respectively. They may both be positive or negative depending on non-food related processes, e.g., predation, social interactions, Allee effects. In this paper, we extend the previously published model by adding <italic>B</italic>(<italic>t</italic>), which is a time-dependent, density-independent rate of mortality due to control by bait application (see below).</p>
+            <p>The original model tested four candidate models for the food availability functional response. The best fit was a Holling II (Ivlev) function where <italic>c</italic> (seeds m<sup>−2</sup> mouse<sup>−1</sup> year<sup>−1</sup>) is the maximum per capita feeding rate and <italic>e</italic> ((seeds m<sup>−2</sup>)<sup>−1</sup>) is a measure of foraging efficiency: <disp-formula id="eqn-2"><label>(2)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-2.png"/>
+                     <tex-math id="tex-eqn-2"><![CDATA[\begin{eqnarray}g \left( F \right) =c(1-\exp \nolimits (-eF)).\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-2">
+                        <mml:mstyle displaystyle="true">
+                           <mml:mi>g</mml:mi>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>F</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mo>=</mml:mo>
+                           <mml:mi>c</mml:mi>
+                           <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mn>1</mml:mn>
+                              <mml:mo>−</mml:mo>
+                              <mml:mo class="qopname">exp</mml:mo>
+                              <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mo>−</mml:mo>
+                                 <mml:mi>e</mml:mi>
+                                 <mml:mi>F</mml:mi></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow>
+                           <mml:mo>.</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>The rate of change of available food over time is modelled by <disp-formula id="eqn-3"><label>(3)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-3.png"/>
+                     <tex-math id="tex-eqn-3"><![CDATA[\begin{eqnarray} \frac{dF}{dt} =S \left( t \right) -hF-g \left( F \right) M,\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-3">
+                        <mml:mstyle displaystyle="true">
+                           <mml:mfrac>
+                              <mml:mrow>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mi>F</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>d</mml:mi>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfrac>
+                           <mml:mo>=</mml:mo>
+                           <mml:mi>S</mml:mi>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mo>−</mml:mo>
+                           <mml:mi>h</mml:mi>
+                           <mml:mi>F</mml:mi>
+                           <mml:mo>−</mml:mo>
+                           <mml:mi>g</mml:mi>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>F</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mi>M</mml:mi>
+                           <mml:mo>,</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>where the second term, <italic>hF</italic>, describes the change in available food that happens throughout the year at a constant rate <italic>h</italic> (year<sup>−1</sup>) unrelated to mouse density and the third term, <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-20.png"/>
+                  <tex-math id="tex-ieqn-20"><![CDATA[$g \left( F \right) M$]]></tex-math>
+                  <mml:math id="mml-ieqn-20">
+                     <mml:mi>g</mml:mi>
+                     <mml:mfenced separators="" open="(" close=")">
+                        <mml:mrow>
+                           <mml:mi>F</mml:mi>
+                        </mml:mrow>
+                     </mml:mfenced>
+                     <mml:mi>M</mml:mi>
+                  </mml:math>
+               </alternatives></inline-formula>, describes the rate of seed consumption by mice. The first term, <italic>S</italic>(<italic>t</italic>), describes the rate at which food is delivered as a function of time, with <disp-formula id="eqn-4"><label>(4)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-4.png"/>
+                     <tex-math id="tex-eqn-4"><![CDATA[\begin{eqnarray}S \left( t \right) = \left\{ \begin{array}{@{}l@{}} \displaystyle \frac{{F}_{y}}{0.25} \mathrm{if} 0\leq t-\text{floor}(t) \lt 0.25 \\ \displaystyle 0~~~\text{otherwise}.  \end{array} \right. \end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-4">
+                        <mml:mstyle displaystyle="true">
+                           <mml:mi>S</mml:mi>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mo>=</mml:mo>
+                           <mml:mfenced separators="" open="{" close="">
+                              <mml:mrow>
+                                 <mml:mtable>
+                                    <mml:mtr>
+                                       <mml:mtd columnalign="left">
+                                          <mml:mfrac>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mrow>
+                                                      <mml:mi>F</mml:mi>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mi>y</mml:mi>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>0</mml:mn>
+                                                <mml:mo>.</mml:mo>
+                                                <mml:mn>25</mml:mn>
+                                             </mml:mrow>
+                                          </mml:mfrac>
+                                          <mml:mi mathvariant="normal">if</mml:mi>
+                                          <mml:mspace width="6.0pt"/>
+                                          <mml:mn>0</mml:mn>
+                                          <mml:mo>≤</mml:mo>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:mtext>floor</mml:mtext>
+                                          <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mi>t</mml:mi></mml:mfenced></mml:mrow>
+                                          <mml:mspace width="2.22198pt"/>
+                                          <mml:mo>&lt;</mml:mo>
+                                          <mml:mn>0</mml:mn>
+                                          <mml:mo>.</mml:mo>
+                                          <mml:mn>25</mml:mn>
+                                          <mml:mspace width="10.00002pt"/>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                    <mml:mtr>
+                                       <mml:mtd columnalign="left">
+                                          <mml:mn>0</mml:mn>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:mtext>otherwise</mml:mtext>
+                                          <mml:mo>.</mml:mo>
+                                          <mml:mspace width="10.00002pt"/>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                 </mml:mtable>
+                              </mml:mrow>
+                           </mml:mfenced>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>The floor function rounds <italic>t</italic> down to the largest integer smaller than <italic>t</italic>. Thus, during the <italic>y</italic>th annual cycle, a total amount of seed <italic>F</italic><sub><italic>y</italic></sub> is produced, which is delivered at a constant rate over the first quarter of the year (nominally February–April). At the start of each year we set <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-24.png"/>
+                  <tex-math id="tex-ieqn-24"><![CDATA[$F \left( t \right) =0$]]></tex-math>
+                  <mml:math id="mml-ieqn-24">
+                     <mml:mi>F</mml:mi>
+                     <mml:mfenced separators="" open="(" close=")">
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                     </mml:mfenced>
+                     <mml:mo>=</mml:mo>
+                     <mml:mn>0</mml:mn>
+                  </mml:math>
+               </alternatives></inline-formula>, i.e., seed is not carried over between years. The annual seedfall amount <italic>F</italic><sub><italic>y</italic></sub>, was determined by a climate induced seedfall model (see below). All parameter values are given in <xref ref-type="table" rid="table-1">Table 1</xref> and were those determined as best-fit parameter values by <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref> (Table 2 in <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref>). These were chosen by modelling mouse density over 25 years using observed annual seedfall data from the OV (starting February 1972) as the annual values of seed <italic>F</italic><sub><italic>y</italic></sub>. Mouse density at the start of each quarter was extracted from the continuous-time model prediction. These predicted values were compared to observed quarterly mouse density data from the OV collected over the same time period (quarterly, February 1972 –November 1996) and best-fit parameter estimates chosen by minimising the root mean square error. <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref> showed that with these best-fit parameter values the model predicted all major outbreaks in mouse density occurring in the 25 year observed mouse density (C/100TN) time series, although it tended to slightly under-predict the magnitude of outbreaks.</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.6146/table-1</object-id><label>Table 1</label><caption>
+                  <title>Parameters and variables.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th>Symbol</th>
+                           <th>Value</th>
+                           <th>Units</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td><bold>Parameters</bold></td>
+                           <td/>
+                           <td/>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td>Demographic efficiency</td>
+                           <td><italic>α</italic></td>
+                           <td>1</td>
+                           <td>mice (seeds m<sup>−2</sup>)<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Density independent birth</td>
+                           <td><italic>μ</italic><sub>1</sub></td>
+                           <td>−1.23</td>
+                           <td>year<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Density dependent mortality</td>
+                           <td><italic>μ</italic><sub>2</sub></td>
+                           <td>0.76</td>
+                           <td>mouse<sup>−1</sup> year<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Maximum per capita feeding rate</td>
+                           <td><italic>c</italic></td>
+                           <td>6.74</td>
+                           <td>seeds m<sup>−2</sup> mouse<sup>−1</sup> year<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Foraging efficiency</td>
+                           <td><italic>e</italic></td>
+                           <td>1.08</td>
+                           <td>(seeds m<sup>−2</sup>)<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Seedfall decay</td>
+                           <td><italic>h</italic></td>
+                           <td>9.48</td>
+                           <td>year<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Bait decay</td>
+                           <td><italic>d</italic></td>
+                           <td>50</td>
+                           <td>year<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Control level</td>
+                           <td><italic>B</italic><sub>0</sub></td>
+                           <td>50, 100, 150</td>
+                           <td>–</td>
+                        </tr>
+                        <tr>
+                           <td><bold>Variables</bold></td>
+                           <td/>
+                        </tr>
+                        <tr>
+                           <td>Mouse density</td>
+                           <td><italic>M</italic>(<italic>t</italic>)</td>
+                           <td>–</td>
+                           <td>mice (measured as an index = captures per 100 trap nights (C/100TN))</td>
+                        </tr>
+                        <tr>
+                           <td>Available resource density</td>
+                           <td>F(t)</td>
+                           <td>–</td>
+                           <td>seeds m<sup>−2</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Resource delivery rate</td>
+                           <td>S(t)</td>
+                           <td>–</td>
+                           <td>seeds m<sup>−2</sup> year<sup>−1</sup></td>
+                        </tr>
+                        <tr>
+                           <td>Mortality rate due to control</td>
+                           <td>B(t)</td>
+                           <td>–</td>
+                           <td>year<sup>−1</sup></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <p>During a control year, bait is applied as an impulse function at a specific time point <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-35.png"/>
+                  <tex-math id="tex-ieqn-35"><![CDATA[${t}_{i}^{\ast }$]]></tex-math>
+                  <mml:math id="mml-ieqn-35">
+                     <mml:msubsup>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>i</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mo>∗</mml:mo>
+                        </mml:mrow>
+                     </mml:msubsup>
+                  </mml:math>
+               </alternatives></inline-formula>, such that <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-36.png"/>
+                  <tex-math id="tex-ieqn-36"><![CDATA[$t-{t}_{i}^{\ast }$]]></tex-math>
+                  <mml:math id="mml-ieqn-36">
+                     <mml:mi>t</mml:mi>
+                     <mml:mo>−</mml:mo>
+                     <mml:msubsup>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>i</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mo>∗</mml:mo>
+                        </mml:mrow>
+                     </mml:msubsup>
+                  </mml:math>
+               </alternatives></inline-formula> describes the time since the <italic>i</italic>th bait application. After application, bait degrades according to a simple decay function <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-38.png"/>
+                  <tex-math id="tex-ieqn-38"><![CDATA[${B}_{0}\exp (-d(t-{t}_{i}^{\ast }))$]]></tex-math>
+                  <mml:math id="mml-ieqn-38">
+                     <mml:msub>
+                        <mml:mrow>
+                           <mml:mi>B</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mn>0</mml:mn>
+                        </mml:mrow>
+                     </mml:msub>
+                     <mml:mo class="qopname"> exp</mml:mo>
+                     <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mo>−</mml:mo>
+                        <mml:mi>d</mml:mi>
+                        <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mi>t</mml:mi>
+                           <mml:mo>−</mml:mo>
+                           <mml:msubsup>
+                              <mml:mrow>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>i</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mo>∗</mml:mo>
+                              </mml:mrow>
+                           </mml:msubsup></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow>
+                  </mml:math>
+               </alternatives></inline-formula>, where <italic>d</italic> is the decay rate. The constant <italic>B</italic><sub>0</sub> governs peak bait availability, i.e., at the time of application (<inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-41.png"/>
+                  <tex-math id="tex-ieqn-41"><![CDATA[$t-{t}_{i}^{\ast }=0$]]></tex-math>
+                  <mml:math id="mml-ieqn-41">
+                     <mml:mi>t</mml:mi>
+                     <mml:mo>−</mml:mo>
+                     <mml:msubsup>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>i</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mo>∗</mml:mo>
+                        </mml:mrow>
+                     </mml:msubsup>
+                     <mml:mo>=</mml:mo>
+                     <mml:mn>0</mml:mn>
+                  </mml:math>
+               </alternatives></inline-formula>). Therefore, bait availability <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-42.png"/>
+                  <tex-math id="tex-ieqn-42"><![CDATA[${b}_{i} \left( t \right) $]]></tex-math>
+                  <mml:math id="mml-ieqn-42">
+                     <mml:msub>
+                        <mml:mrow>
+                           <mml:mi>b</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>i</mml:mi>
+                        </mml:mrow>
+                     </mml:msub>
+                     <mml:mfenced separators="" open="(" close=")">
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                     </mml:mfenced>
+                  </mml:math>
+               </alternatives></inline-formula> from the <italic>i</italic>th application is described by a piecewise function <disp-formula id="eqn-5"><label>(5)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-5.png"/>
+                     <tex-math id="tex-eqn-5"><![CDATA[\begin{eqnarray}{b}_{i} \left( t \right) = \left\{ \begin{array}{@{}l@{}} \displaystyle {B}_{0}\exp \nolimits \left( -d \left( t-{t}_{i}^{\ast } \right) \right) ,\mathrm{if}~~{t}_{i}^{\ast }\leq t\lt {t}_{i+1}^{\ast } \\ \displaystyle 0,~~\text{otherwise},  \end{array} \right. \end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-5">
+                        <mml:mstyle displaystyle="true">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>b</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>i</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mo>=</mml:mo>
+                           <mml:mfenced separators="" open="{" close="">
+                              <mml:mrow>
+                                 <mml:mtable>
+                                    <mml:mtr>
+                                       <mml:mtd columnalign="left">
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>B</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>0</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo class="qopname"> exp</mml:mo>
+                                          <mml:mfenced separators="" open="(" close=")">
+                                             <mml:mrow>
+                                                <mml:mo>−</mml:mo>
+                                                <mml:mi>d</mml:mi>
+                                                <mml:mfenced separators="" open="(" close=")">
+                                                   <mml:mrow>
+                                                      <mml:mi>t</mml:mi>
+                                                      <mml:mo>−</mml:mo>
+                                                      <mml:msubsup>
+                                                         <mml:mrow>
+                                                            <mml:mi>t</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mi>i</mml:mi>
+                                                         </mml:mrow>
+                                                         <mml:mrow>
+                                                            <mml:mo>∗</mml:mo>
+                                                         </mml:mrow>
+                                                      </mml:msubsup>
+                                                   </mml:mrow>
+                                                </mml:mfenced>
+                                             </mml:mrow>
+                                          </mml:mfenced>
+                                          <mml:mo>,</mml:mo>
+                                          <mml:mi mathvariant="normal">if</mml:mi>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:msubsup>
+                                             <mml:mrow>
+                                                <mml:mi>t</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>i</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo>∗</mml:mo>
+                                             </mml:mrow>
+                                          </mml:msubsup>
+                                          <mml:mo>≤</mml:mo>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mo>&lt;</mml:mo>
+                                          <mml:msubsup>
+                                             <mml:mrow>
+                                                <mml:mi>t</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>i</mml:mi>
+                                                <mml:mo>+</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo>∗</mml:mo>
+                                             </mml:mrow>
+                                          </mml:msubsup>
+                                          <mml:mspace width="10.00002pt"/>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                    <mml:mtr>
+                                       <mml:mtd columnalign="left">
+                                          <mml:mn>0</mml:mn>
+                                          <mml:mo>,</mml:mo>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:mspace width="1em" class="nbsp"/>
+                                          <mml:mtext>otherwise</mml:mtext>
+                                          <mml:mo>,</mml:mo>
+                                          <mml:mspace width="10.00002pt"/>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                 </mml:mtable>
+                              </mml:mrow>
+                           </mml:mfenced>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>and overall bait availability <italic>B</italic>(<italic>t</italic>) at time <italic>t</italic> is given by <disp-formula id="eqn-6"><label>(6)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-6.png"/>
+                     <tex-math id="tex-eqn-6"><![CDATA[\begin{eqnarray}B \left( t \right) =\sum _{i=1}^{n-1}{b}_{i} \left( t \right) ,\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-6">
+                        <mml:mstyle displaystyle="true">
+                           <mml:mi>B</mml:mi>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mo>=</mml:mo>
+                           <mml:munderover>
+                              <mml:mrow>
+                                 <mml:mo mathsize="big" movablelimits="false"> ∑</mml:mo>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>i</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>n</mml:mi>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:munderover>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>b</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>i</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mfenced separators="" open="(" close=")">
+                              <mml:mrow>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:mfenced>
+                           <mml:mo>,</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>for <italic>n</italic> bait applications. In the absence of mice, bait is considered to be inactive after one month, so we choose <italic>d</italic> = 50 (meaning that <italic>b</italic><sub><italic>i</italic></sub>(<italic>t</italic>) has decayed to &lt;2% of its original size one month after the <italic>i</italic>th application, and &lt;0.02% of its original size after two months. It is presumed that, compared to this decay rate, the effect of mouse predation on bait levels is negligible. Note that the actual value of <italic>B</italic><sub>0</sub> is defined later in terms of the kill success rate.</p>
+         </sec>
+         <sec>
+            <title>Climate-induced seedfall model</title>
+            <p>A 1,000 year normally distributed temperature time series <italic>T</italic><sub>1</sub>, <italic>T</italic><sub>2</sub>, …, <italic>T</italic><sub>1,000</sub>, was generated where <disp-formula id="eqn-7"><label>(7)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-7.png"/>
+                     <tex-math id="tex-eqn-7"><![CDATA[\begin{eqnarray}{T}_{y}\sim N(14,1).\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-7">
+                        <mml:mstyle displaystyle="true">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>∼</mml:mo>
+                           <mml:mi>N</mml:mi>
+                           <mml:mrow><mml:mfenced separators="" open="(" close=")"><mml:mn>14</mml:mn>
+                              <mml:mo>,</mml:mo>
+                              <mml:mn>1</mml:mn></mml:mfenced></mml:mrow>
+                           <mml:mo>.</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>This represents historical mean summer temperatures (daily average for the three month period January to March) in the Orongorongo Valley (hereafter OV), 1972–2014. Randomly generating time-series for the OV in this way was shown to be a valid approach by <xref ref-type="bibr" rid="ref-13">Holland &amp; James (2015)</xref>. From this, a time series was calculated using the ΔT model of <xref ref-type="bibr" rid="ref-22">Kelly et al. (2013)</xref>, where <disp-formula id="eqn-8"><label>(8)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-8.png"/>
+                     <tex-math id="tex-eqn-8"><![CDATA[\begin{eqnarray}\Delta {T}_{y}={T}_{y}-{T}_{y-1}.\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-8">
+                        <mml:mstyle displaystyle="true">
+                           <mml:mi>Δ</mml:mi>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>=</mml:mo>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>−</mml:mo>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>.</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>Annual seedfall predictions were made using the following linear relationship fitted to observed OV beech seedfall data (1972–1996) by <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref>: <disp-formula id="eqn-9"><label>(9)</label><alternatives>
+                     <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/eqn-9.png"/>
+                     <tex-math id="tex-eqn-9"><![CDATA[\begin{eqnarray}{\log \nolimits }_{10}~{F}_{y}=0.33+0.97\Delta {T}_{y}+{\epsilon }_{y}.\end{eqnarray}]]></tex-math>
+                     <mml:math id="mml-eqn-9">
+                        <mml:mstyle displaystyle="true">
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mo class="qopname">log</mml:mo>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>10</mml:mn>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mspace width="1em" class="nbsp"/>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>F</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>0</mml:mn>
+                           <mml:mo>.</mml:mo>
+                           <mml:mn>33</mml:mn>
+                           <mml:mo>+</mml:mo>
+                           <mml:mn>0</mml:mn>
+                           <mml:mo>.</mml:mo>
+                           <mml:mn>97</mml:mn>
+                           <mml:mi>Δ</mml:mi>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>T</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>+</mml:mo>
+                           <mml:msub>
+                              <mml:mrow>
+                                 <mml:mi>ϵ</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mi>y</mml:mi>
+                              </mml:mrow>
+                           </mml:msub>
+                           <mml:mo>.</mml:mo>
+                        </mml:mstyle>
+                     </mml:math>
+                  </alternatives>
+               </disp-formula>
+            </p>
+            <p>The noise term was chosen to have distribution <italic>ϵ</italic><sub><italic>y</italic></sub> ∼ <italic>N</italic>(0, 1.3) to give a correlation between change in temperature and seedfall of <italic>r</italic><sup>2</sup> ≈ 0.54 corresponding to the findings of <xref ref-type="bibr" rid="ref-22">Kelly et al. (2013)</xref>. These seedfall time series were used as annual inputs of <italic>F</italic><sub><italic>y</italic></sub> to the mouse model above. Mouse density (C/100TN) was simulated for each of the control scenarios above, with <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-61.png"/>
+                  <tex-math id="tex-ieqn-61"><![CDATA[$M \left( 0 \right) =1.0$]]></tex-math>
+                  <mml:math id="mml-ieqn-61">
+                     <mml:mi>M</mml:mi>
+                     <mml:mfenced separators="" open="(" close=")">
+                        <mml:mrow>
+                           <mml:mn>0</mml:mn>
+                        </mml:mrow>
+                     </mml:mfenced>
+                     <mml:mo>=</mml:mo>
+                     <mml:mn>1</mml:mn>
+                     <mml:mo>.</mml:mo>
+                     <mml:mn>0</mml:mn>
+                  </mml:math>
+               </alternatives></inline-formula>.</p>
+         </sec>
+         <sec>
+            <title>Plague definitions</title>
+            <p>We define the mouse density plague level, <italic>M</italic><sub><italic>p</italic></sub> = 2.02, to be the maximum mouse density in a median seedfall year if the initial mouse density is one, i.e., <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-63.png"/>
+                  <tex-math id="tex-ieqn-63"><![CDATA[$M \left( 0 \right) =1$]]></tex-math>
+                  <mml:math id="mml-ieqn-63">
+                     <mml:mi>M</mml:mi>
+                     <mml:mfenced separators="" open="(" close=")">
+                        <mml:mrow>
+                           <mml:mn>0</mml:mn>
+                        </mml:mrow>
+                     </mml:mfenced>
+                     <mml:mo>=</mml:mo>
+                     <mml:mn>1</mml:mn>
+                  </mml:math>
+               </alternatives></inline-formula>, (see <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Using this definition, if the mouse density was 1 at the start of the year (<inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-64.png"/>
+                  <tex-math id="tex-ieqn-64"><![CDATA[$M \left( 0 \right) =1$]]></tex-math>
+                  <mml:math id="mml-ieqn-64">
+                     <mml:mi>M</mml:mi>
+                     <mml:mfenced separators="" open="(" close=")">
+                        <mml:mrow>
+                           <mml:mn>0</mml:mn>
+                        </mml:mrow>
+                     </mml:mfenced>
+                     <mml:mo>=</mml:mo>
+                     <mml:mn>1</mml:mn>
+                  </mml:math>
+               </alternatives></inline-formula>) 50% of years would be defined as <italic>plague years</italic> i.e., the mouse density ‘just’ reached plague level at some point during the year. In a longer time series where no control measures are applied (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) and the density is continuous across years, i.e., mouse density at the start of the year is the density at the end of the previous year, the plague level definition is not changed and the proportion of years that are plague years is much higher, 85%. Specific thresholds for what constitutes a mouse ‘plague’ or eruption in New Zealand have not been formally defined in the literature; it is difficult to measure exact population densities, and it is not known exactly at what threshold level mice may have an impact on native biodiversity. We therefore use the term ‘plague’, to mean greater than average population abundance for an extended period of time, i.e., demonstrably not an undetectable population and therefore likely to have some impact, and a convenient reference point with which to compare scenarios. In the 25 year time-series of observed mouse abundance from the OV, when mouse abundance was above 2.02 the population tended to be undergoing one of seven larger eruptions. In addition, mouse abundance was above the 2.02 level in 80% of years, suggesting that our definition for plague level and estimate of proportion of plague years are reasonable in this context. We also define <italic>plague time,</italic> the proportion of time during which the mouse density is above the plague level. For example, in <xref ref-type="fig" rid="fig-1">Fig. 1</xref> the plague time for the mast year trajectory is 0.89. In the long term time series of <xref ref-type="fig" rid="fig-2">Fig. 2</xref> the plague time is 0.71. Finally we define the <italic>plague size</italic>, the highest mouse density during the plague period. In the <xref ref-type="fig" rid="fig-1">Fig. 1</xref> example, the plague size for the mast trajectory is 6.93. In the long term series (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>), the expected plague size, given that a plague occurs, is 5.7. Higher values of <italic>M</italic><sub><italic>p</italic></sub> could be used with the same plague definitions given here, with qualitatively similar results.</p>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.6146/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Example one year (Feb-Feb) time series of mouse density and seedfall.</title>
+                  <p>Example one year (Feb-Feb) time series of mouse density (C/100TN) (A) and seedfall (seeds m<sup>−2</sup>) (B, log scale) through time, modelled using three different seedfall levels: high (a mast year, the 75th percentile of the seedfall distribution, black solid line); median (50th percentile of the seedfall distribution, blue dashed line); low (25th percentile of the seedfall distribution, green dot-dashed line). The mouse plague level is defined such that, for an initial mouse density of 1, if the seedfall is at or below the median level, there is no plague (grey horizontal line, A only). Note that the start of the year coincides with the start of the seedfall season. When high level control takes place at the start of the seedfall season (February 1) in a mast year (black dotted line, A and B), the mouse density is much reduced compared to no control in a mast year (c.f. black solid line, A) and seed remains available until the end of the year (c.f. black solid line, B). With control, the seedfall is closer to the seedfall in the absence of mice (red dashed line, B only).</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/fig-1.png"/>
+            </fig>
+            <fig id="fig-2">
+               <object-id pub-id-type="doi">10.7717/peerj.6146/fig-2</object-id><label>Figure 2</label><caption>
+                  <title>A 20 year example time series for mouse density and seedfall in the absence of control.</title>
+                  <p>A 20 year example time series for mouse density (A) and seedfall (B, log scale) in the absence of control. The dashed lines show the defined plague level for the mouse population and the seedfall mast level. The plague threshold is exceeded in 85% of years and for 71% of the total time.<bold/></p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/fig-2.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Control definitions</title>
+            <p>The strength of the control impulse is governed by the parameter <italic>B</italic><sub>0</sub>, which is the value of <italic>B</italic>(<italic>t</italic>) at the time of bait application <inline-formula><alternatives>
+                  <inline-graphic xlink:href="https://peerj.com/articles/6146/ieqn-70.png"/>
+                  <tex-math id="tex-ieqn-70"><![CDATA[$t={t}_{i}^{\ast }$]]></tex-math>
+                  <mml:math id="mml-ieqn-70">
+                     <mml:mi>t</mml:mi>
+                     <mml:mo>=</mml:mo>
+                     <mml:msubsup>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>i</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mo>∗</mml:mo>
+                        </mml:mrow>
+                     </mml:msubsup>
+                  </mml:math>
+               </alternatives></inline-formula> (<xref ref-type="disp-formula" rid="eqn-5">Eqs. (5)</xref>–<xref ref-type="disp-formula" rid="eqn-6">(6)</xref>). The absolute value of the control impulse is of little practical use in modelling terms, though operationally it relates to control effort and a parameter value could be calibrated for a given operation. A more appropriate measure of control size is the <italic>control success</italic>, typically assessed in terms of percentage kill, defined here as the relative decrease in the mouse density one month after the control impulse. The control success will change depending on the current mast level and mouse density but percentage kill is still a useful and widely used measure (<xref ref-type="bibr" rid="ref-10">Elliott &amp; Kemp, 2016</xref>; <xref ref-type="bibr" rid="ref-16">Innes et al., 1995</xref>). In the example of <xref ref-type="fig" rid="fig-1">Fig. 1</xref> (black dotted line), where <italic>B</italic><sub>0</sub> = 150 and control is applied at the start of the mast season, control success is 88%. Even with this relatively high level of control (consistent with historic broad-scale aerial poison operations for rodents (<xref ref-type="bibr" rid="ref-16">Innes et al., 1995</xref>)), the mouse density at the end of the year remains high as the population recovers, and the mouse density rises above the plague level during September. However, both the plague time (0.31) and the plague size (2.18) are much lower than in the uncontrolled mast year. Crucially, for the success of native species that rely on beech mast for food, the seedfall level is much higher in the controlled scenario compared to the uncontrolled.</p>
+         </sec>
+         <sec>
+            <title>Scenarios</title>
+            <p>To obtain precise estimates for expected plague time, plague size and proportion of plague years under different control scenarios, we ran the extended model (<xref ref-type="disp-formula" rid="eqn-1">Eqs. (1)</xref>–<xref ref-type="disp-formula" rid="eqn-6">(6)</xref>) or a 1,000 year long simulation with M(0) = 1, using a seedfall time series generated with (<xref ref-type="disp-formula" rid="eqn-8">Eqs. (8)</xref>–<xref ref-type="disp-formula" rid="eqn-9">(9)</xref>) from a temperature time series generated using <xref ref-type="disp-formula" rid="eqn-7">Eq. (7)</xref>. In this longer simulation, the initial mouse density is not reset to 1 each year but continues with the value at the end of the previous year. Seedfall is reset to zero at the beginning of each year to reflect the inedibility of the previous year’s seed. Note that all the control scenarios used the same underlying seedfall series.</p>
+         </sec>
+         <sec>
+            <title>Optimal control timing</title>
+            <p>Initially, we assume that control can only be applied once each year and we examine three levels of control: low, medium and high, <italic>B</italic><sub>0</sub> = 50, 100, 150, respectively. For each level of control, we used the 1,000 year weather/seedfall time series, applying control at a range of times throughout the year. We calculated the proportion of plague years, proportion of time above plague level (i.e., <italic>plague time</italic>), and average plague size for each control application time.</p>
+         </sec>
+         <sec>
+            <title>Tailored control</title>
+            <p>We now consider how other control options with similar costs could offer greater benefit if tailored. An alternative to annual control could be a biannual-biennial regime, i.e., control is applied twice a year every two years. In some cases this may be more cost effective as resources only need to be acquired every other year; it may also be socially advantageous if the application of poison is somewhat controversial and its use needs to be limited. As operational costs may be considerable (particularly labour and transport/flight-time), and the amount of bait applied contributes relatively little to the overall cost of each control dose, we do not consider control via very frequent smaller doses here. We used the 1,000 year seedfall simulation to compare three biannual-biennial regimes with no control and the annual control regime described above:</p>
+            <list id="list-1" list-type="order">
+               <list-item><label> 1.</label><p>Regular biennial control: Control occurs every second year and is executed in early September and a month later in early October, i.e., straddling the optimal control period (see ‘Results’).</p>
+               </list-item>
+               <list-item><label> 2.</label><p>Seedfall determined control: Control occurs in years when seedfall is above the median (i.e., with the same long term average frequency as regular biennial control), in early September and early October.</p>
+               </list-item>
+               <list-item><label> 3.</label><p>Climate determined control: Control occurs in years when the seedfall temperature driver Δ<italic>T</italic> is above the median (i.e., with the same long term average frequency as regular biennial control but with more opportunity for error in true/false seedfall prediction), in early September and early October.</p>
+               </list-item>
+            </list>
+            <p>Regime two could be used if the seedfall could be measured early enough to plan a control application that year. In cases where this was too late to muster a control application then regime three may be of use.</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>When mice are not controlled, 85% of years are plague years, the mouse density is above the plague level for 71% of the time and the average plague size is 5.71 (see <xref ref-type="fig" rid="fig-2">Fig. 2</xref> for a 20 year time series example).</p>
+         <sec>
+            <title>Optimal control timing</title>
+            <p>As the control time is changed across the year the plague time varies (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). The different control levels (low, medium and high) have a much stronger effect on the plague time than the control timing. For example, under the low control regime, where the control success rate is between 50 and 60%, the optimal control timing to reduce plague time is spring (mid-September) before the mast season starts when plague time is 0.36. Conversely the lowest reduction is seen in autumn (late April) at the end of the mast season which reduces the plague time to 0.42. The optimal control time at medium and high control levels is also around mid-September. Medium control, which has an 80–85% success rate, reduces the plague time to 0.20, while high control has a 92–94% success rate and reduces the plague time to 0.045.</p>
+            <fig id="fig-3">
+               <object-id pub-id-type="doi">10.7717/peerj.6146/fig-3</object-id><label>Figure 3</label><caption>
+                  <title>The effect of timing of annual control on plague time and plague size.</title>
+                  <p>The effect of timing of annual control on plague time (A) and plague size (B), for low (red), medium (blue dashed) and high (green dot-dashed) control levels, and compared to no control (black dashed). If control has a low success rate then optimal control timing is mid-September. However, if control is more effective then there is little difference in plague time if control is applied at different times throughout the year. Plague size is more strongly affected by control timing, particularly for low and medium control levels.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/fig-3.png"/>
+            </fig>
+            <p>In contrast, the expected plague size (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>) appears to be strongly affected by control timing, in particular for low and medium control levels. The optimal timing to reduce plague time gives the least reduction in expected plague size. Initially this seems counter-intuitive but less so after recalling the definition of expected plague size (the maximum mouse density <italic>given</italic> that there is a plague). On examination of the time series (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>) for control during the mast season (March—<xref ref-type="fig" rid="fig-4">Figs. 4A</xref>, <xref ref-type="fig" rid="fig-4">4C</xref>, <xref ref-type="fig" rid="fig-4">4E</xref>) and after (September—<xref ref-type="fig" rid="fig-4">Figs. 4B</xref>, <xref ref-type="fig" rid="fig-4">4D</xref>, <xref ref-type="fig" rid="fig-4">4F</xref>) we see that the small reduction in plague time between the control timings comes from the years where the plague threshold is only just exceeded. For low control effort both timings have relatively little impact on the maximum mouse density reached for large plagues, but in post mast control (September) the timing is appropriate to reduce mouse density to below the plague threshold for smaller plagues. This means that, for low level control post mast season small plagues are often avoided but if control is during the mast the small plagues still occur. Larger plagues still occur and reach similar maximum densities as in the absence of control for both timings. When calculating an expected plague size over the entire time-series, smaller plagues will reduce the average. Therefore, while the larger expected plague size for low control may seem counter-intuitive, the reduction in small plagues driving this is actually a desirable outcome. Using an alternative metric of plague severity, for example the expected density over the entire time-series, loses this subtlety and gives results similar to the plague time metric.</p>
+            <fig id="fig-4">
+               <object-id pub-id-type="doi">10.7717/peerj.6146/fig-4</object-id><label>Figure 4</label><caption>
+                  <title>Time series of mouse density for each of the three control levels applied annually, compared against mouse density with no control.</title>
+                  <p>Time series of mouse density (C/100TN) for each of the three control levels (low, medium and high) applied annually (red lines), compared against mouse density with no control (black lines). The black dashed line shows the mouse density plague level. A, C, E show control applied in autumn (March), B, D, F show control applied in early spring (September). Low control stops plagues in only the years with the lowest plague size. Contrastingly, high control reduces mouse density to below the plague threshold in almost all years but in the highest plague years mouse populations still persist.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/fig-4.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Tailored control</title>
+            <p>Seedfall- and climate-determined biennial-biannual control regimes are more effective in reducing proportion of plague years and time above plague levels than a regular biennial-biannual control regime (<xref ref-type="table" rid="table-2">Table 2</xref>). For both the low and medium control levels a seedfall driven biennial-biannual control regime is more effective than annual control (<xref ref-type="table" rid="table-2">Table 2</xref>). If the control trigger is based on climatic variables rather than actual seedfall, the biennial-biannual regime is slightly less effective than annual control, though the differences in plague time between these methods is relatively small.</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.6146/table-2</object-id><label>Table 2</label><caption>
+                  <title>Effectiveness of control regimes.</title>
+                  <p>Plague time, proportion of time density is above the plague level. Plague years, proportion of years maximum density exceeds the plague level. Plague size (C/100TN) maximum density during plague years. All values calculated from 1,000 year time series. Control is carried out in mid-September for annual control or two weeks either side for regular biennial control. For each control level, the minimum expected plague time, plague years and plague size across the different regimes are shown in bold text.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6146/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th align="center" colspan="3">Plague time</th>
+                           <th align="center" colspan="3">Plague years</th>
+                           <th align="center" colspan="3">Plague size (C/100TN)</th>
+                        </tr>
+                        <tr>
+                           <th>Level<break/>Regime</th>
+                           <th>Low</th>
+                           <th>Med</th>
+                           <th>High</th>
+                           <th>Low</th>
+                           <th>Med</th>
+                           <th>High</th>
+                           <th>Low</th>
+                           <th>Med</th>
+                           <th>High</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>None</td>
+                           <td colspan="3">0.72</td>
+                           <td colspan="3">0.85</td>
+                           <td colspan="3">5.78</td>
+                        </tr>
+                        <tr>
+                           <td>Annual</td>
+                           <td>0.35</td>
+                           <td>0.20</td>
+                           <td><bold>0.042</bold></td>
+                           <td>0.56</td>
+                           <td>0.43</td>
+                           <td>0.15</td>
+                           <td>6.39</td>
+                           <td>5.53</td>
+                           <td><bold>4.39</bold></td>
+                        </tr>
+                        <tr>
+                           <td colspan="10">Biannual</td>
+                        </tr>
+                        <tr>
+                           <td>Regular biennial</td>
+                           <td>0.42</td>
+                           <td>0.23</td>
+                           <td>0.056</td>
+                           <td>0.62</td>
+                           <td>0.45</td>
+                           <td>0.16</td>
+                           <td><bold>5.96</bold></td>
+                           <td><bold>5.48</bold></td>
+                           <td>4.73</td>
+                        </tr>
+                        <tr>
+                           <td>Seedfall driven</td>
+                           <td><bold>0.34</bold></td>
+                           <td><bold>0.18</bold></td>
+                           <td>0.048</td>
+                           <td><bold>0.55</bold></td>
+                           <td><bold>0.41</bold></td>
+                           <td>0.15</td>
+                           <td>6.43</td>
+                           <td>5.96</td>
+                           <td>5.16</td>
+                        </tr>
+                        <tr>
+                           <td>Climate driven</td>
+                           <td>0.39</td>
+                           <td>0.20</td>
+                           <td>0.057</td>
+                           <td>0.57</td>
+                           <td><bold>0.41</bold></td>
+                           <td><bold>0.13</bold></td>
+                           <td>6.27</td>
+                           <td>5.93</td>
+                           <td>5.41</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Management to mitigate the adverse effects of irrupting small consumers should be optimised to ensure that the limited resources available to managers are implemented to have the greatest impact and to meet control objectives. In this work, we offer insights into the dynamics of an irrupting rodent population undergoing broad-scale aerial control in an ecosystem with pulsed resources. It is clear from our results that the timing and frequency of control can affect the time spent above the plague threshold. While we have focused on mouse irruptions in beech forest, insights from this work have clear ramifications for dynamics of predators, prey and disease spread in other systems with climate-driven pulsed resources and outbreaking consumers worldwide.</p>
+         <p>There is currently no broad-scale control of mice alone in mainland New Zealand, due, in part, to the higher prioritisation of other vertebrate pest targets. In addition, achieving a large reduction in mouse abundance at large spatial scale is difficult with the control tools currently available on the mainland (<xref ref-type="bibr" rid="ref-45">Ruscoe &amp; Pech, 2010</xref>). As a result, considerably less is known about the optimal control practices when targeting mice, compared to other small mammals. In a year of high seedfall and in the absence of control, our model predicts that mouse populations exceed the plague threshold and drive a rapid decline in the amount of available seed. As seedfall is depleted, mouse density decreases but still remains above the plague threshold by the end of the mast year. As well as the local impacts of this prolonged high mouse density, there is a risk that after seedfall depletion mice may disperse out of beech forest into other adjacent areas or habitats (<xref ref-type="bibr" rid="ref-6">Choquenot &amp; Ruscoe, 2000</xref>; <xref ref-type="bibr" rid="ref-36">Ostfeld &amp; Keesing, 2000</xref>). Dispersal of outbreaking rodents has been reported globally and contributes to disease spread (<xref ref-type="bibr" rid="ref-8">Deter et al., 2008</xref>; <xref ref-type="bibr" rid="ref-53">Smith, Gomulkiewicz &amp; Mack, 2015</xref>), damage to agriculture (<xref ref-type="bibr" rid="ref-3">Biswas, Kumar &amp; Mittal, 2016</xref>; <xref ref-type="bibr" rid="ref-31">Newsome, 1969</xref>; <xref ref-type="bibr" rid="ref-40">Ruscoe, 1996</xref>) or declines in indigenous biota (<xref ref-type="bibr" rid="ref-52">Smith, Dickman &amp; Banks, 2016</xref>). However, conducting high level mouse control in mast years can successfully reduce mouse density to below plague level and to an extent where seed abundance is closer to that observed in the absence of mice. This should provide more food resource for other indigenous consumers competing for seedfall, and reduce the risks of dispersal and predation by mice and stoats.</p>
+         <p>Our model quantifies relative mouse abundance as an index of captures per 100 trap nights. Measuring actual mouse density in the field is difficult and costly, therefore indices such as C/100TN or a rodent tracking index (i.e., mean percentage of ‘run-through’ tracking tunnels containing mouse prints per line) are commonly used (<xref ref-type="bibr" rid="ref-4">Blackwell, Potter &amp; McLennan, 2002</xref>; <xref ref-type="bibr" rid="ref-43">Ruscoe, Goldsmith &amp; Choquenot, 2001</xref>). Quantifying relative abundance in this way facilitates model parameterisation and validation of model predictions using observation data that is more readily available to managers. Our model assumes logistic-type density dependence in the mouse population, which has been shown to be a good description of density-dependent dynamics in small rodent populations (see e.g., <xref ref-type="bibr" rid="ref-55">Turchin &amp; Ostfeld (1997)</xref>). The best-fit parameters were similar to those used in other models of house mouse population dynamics, for example the model of <xref ref-type="bibr" rid="ref-6">Choquenot &amp; Ruscoe (2000)</xref> also had a positive density-independent growth term and a negative density-dependent growth term.</p>
+         <p>The three values chosen for peak bait availability to model low, moderate and high control levels, gave control success rates (measured as percentage kill) in the ranges 50–60%, 80–85% and 92–94%, respectively. How these ranges relate to success for real control operations, that aim to suppress as opposed to eradicate mouse populations, will depend on control objectives. To date, very little has been published on the density-impact relationships for mouse abundance and biodiversity in New Zealand. These knowledge deficits currently present a major barrier for managers, both in terms of setting conservation aims and measuring success of mouse control operations. However, our modelling framework provides predictions of mouse abundance and kill rates that can be readily applied to real control operations, as research advances in this area and new thresholds for successful suppression of mouse populations on mainland New Zealand are set.</p>
+         <p>Our model predicts that the optimal timing for mouse control in beech forest, with respect to minimising plague time, is mid-September. This timing fits within the recommended range for broad-scale aerial 1,080 control targeting rats and stoats (<xref ref-type="bibr" rid="ref-10">Elliott &amp; Kemp, 2016</xref>). Across all the regimes considered here, the seedfall driven biannual-biennial regime gave the greatest reduction in plague time and plague years for low and moderate control levels, although the differences between regimes were relatively small. Managers will need to take additional factors into consideration when selecting an optimal approach, for instance the benefits of seedfall driven control need to be weighed against the cost and effort associated with collecting the necessary seedfall data, while temperature data required for the climate driven regime is readily available.</p>
+         <p>An important advantage of this modelling approach is its simplicity and generality. This work considered a case study of optimal control for mouse populations in New Zealand hard beech forest, where the aim is to minimise plague time. Different compositions of masting species in other forests will drive slightly different seedfall and mouse dynamics. For example, <xref ref-type="bibr" rid="ref-46">Ruscoe et al. (2004)</xref> reported a later onset of mouse population increase due to heavy rimu (<italic>D. cupressium</italic>) masting occurring two to three months later than in beech forest. Therefore, optimal control conditions will likely differ for other forest compositions. Nonetheless, our model and approach could be easily adapted for application to other habitats with climate-driven pulsed resources, for which temperature, resource, and consumer abundance data is available for parameterisation. Similarly, it would be straightforward to alter our model to account for additional drivers of population irruptions, such as the effect of rainfall alongside bamboo masts on rodent outbreaks in South America (<xref ref-type="bibr" rid="ref-17">Jaksic &amp; Lima, 2003</xref>), or to adjust the thresholds for conducting control.</p>
+         <p>Interactions between mice and their competitors or predators are captured implicitly in the model via the density-independent and density-dependent growth rates. However, making these interactions explicit by including rate of change of equations for other interacting species in the system, could offer additional insights, e.g., into cascading responses across different trophic levels. For instance, an equation for stoat density could be included in the model to consider the effectiveness of targeting mice as vectors for secondary poisoning of stoats. In addition, this work could be extended to relate the mouse densities expected under different control regimes to outcomes for indigenous biota, as this will be another key factor for determining the optimal approach and assessing whether conservation objectives are being met.</p>
+         <p>In this work, we have attempted to maintain approximately equal costs across each control scenario by comparing regimes with similar long-term frequency (e.g., annual vs. biennual-biannual). We assume that low, moderate and high effort poisoning will likely have similar overall costs since the operational costs (e.g., aerial transport and/or application, labour costs) are relatively large and constant compared to equipment costs (e.g., traps, bait). However, a cost-benefit analysis of higher and lower frequency control regimes could also be undertaken.</p>
+         <p>Our results assume the same distribution of summer temperatures over a 1,000 year time-series; however the effects of climate change could be investigated by relaxing this assumption. If consumer-resource dynamics are altered due to climate change, our model could be useful for guiding how management timing and intensity should be modified to still be effective in reducing the mouse population. For example, our model would be compatible with a recently developed framework, based on the <xref ref-type="bibr" rid="ref-22">Kelly et al. (2013)</xref> model, that uses climate projections to assess whether climate change might affect the frequency or spatial extent of beech forest masts (<xref ref-type="bibr" rid="ref-2">Barron et al., 2016</xref>).</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>With large-scale predator control campaigns causing pest control to ramp up across New Zealand’s mainland (<xref ref-type="bibr" rid="ref-47">Russell et al., 2015</xref>), there are opportunities to answer increasingly complex questions around the impacts of broad-scale invasive pest management for ecosystems, and to determine optimal control practices. We have attempted to fill an important knowledge gap concerning broad-scale control of irrupting mouse populations in masting beech forest, however a deeper understanding of climate-driven consumer-resource dynamics and control outcomes will benefit managers globally. In a rapidly changing world, having the modelling tools in place to make good predictions about the behaviour of such systems, puts us in a stronger position to anticipate and mitigate the potential adverse effects of change.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>The authors thank John Innes for helpful discussions, and Andrea Byrom and Roger Pech for useful comments on manuscript drafts.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">E Penelope Holland</xref> and <xref ref-type="contrib" rid="author-2">Rachelle N. Binny</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Alex James</xref> analyzed the data, prepared figures and/or tables, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>Data used to parameterise the model (temperature, seedfall, and trap catch of mice) are the same as for <xref ref-type="bibr" rid="ref-14">Holland et al. (2015)</xref> and are publicly available from the Landcare Research Manaaki Whenua DataStore database at the URL <ext-link ext-link-type="uri" xlink:href="https://datastore.landcareresearch.co.nz/dataset/climate-driven-consumer-resource-models-data">https://datastore.landcareresearch.co.nz/dataset/climate-driven-consumer-resource-models-data</ext-link> or at the DOI <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.7931/J2W66HPB">10.7931/J2W66HPB</ext-link>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Allen et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Allen</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                  <name>
+                     <surname>Mason</surname>
+                     <given-names>NWH</given-names>
+                  </name>
+                  <name>
+                     <surname>Richardson</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Platt</surname>
+                     <given-names>KH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Synchronicity, periodicity and bimodality in inter-annual tree seed production along an elevation gradient</article-title>
+               <source>Oikos</source>
+               <volume>121</volume>
+               <issue>3</issue>
+               <fpage>367</fpage>
+               <lpage>376</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1600-0706.2011.19306.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Barron et al. (2016)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barron</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Pech</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Christie</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Tait</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrom</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Elliot</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Climate change impacts and implications: an integrated assessment in the alpine case study</article-title>
+               <source>Synthesis report: RA2 Alpine Case Study. The beech forests of New Zealand. Climate change impacts and implications for New Zealand to 2100 MBIE contract C01X1225</source>
+               <fpage>19 p</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Biswas, Kumar &amp; Mittal (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Biswas</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Mittal</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>A note on rodent migration following gregarious bamboo flowering in north eastern hill region with particular reference to Mizoram (India) and its consequences</article-title>
+               <source>Journal of Common Diseases</source>
+               <volume>48</volume>
+               <issue>3</issue>
+               <fpage>1</fpage>
+               <lpage>12</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Blackwell, Potter &amp; McLennan (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Blackwell</surname>
+                     <given-names>GL</given-names>
+                  </name>
+                  <name>
+                     <surname>Potter</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>McLennan</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Rodent density indices from tracking tunnels, snap-traps and Fenn traps: do they tell the same story?</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>26</volume>
+               <issue>1</issue>
+               <fpage>43</fpage>
+               <lpage>51</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Broome et al. (2017)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Broome</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Golding</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Horn</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Corson</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Bell</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <source>Mouse eradication using aerial baiting: current agreed best practice used in New Zealand (Version 1.0)</source>
+               <publisher-name>New Zealand Department of Conservation</publisher-name>
+               <publisher-loc>Wellington</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Choquenot &amp; Ruscoe (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Choquenot</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Mouse population eruptions in New Zealand forests: the role of population density and seedfall</article-title>
+               <source>Journal of Animal Ecology</source>
+               <volume>69</volume>
+               <fpage>1058</fpage>
+               <lpage>1070</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-2656.2000.00462.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Crooks &amp; Soulé (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Crooks</surname>
+                     <given-names>KR</given-names>
+                  </name>
+                  <name>
+                     <surname>Soulé</surname>
+                     <given-names>ME</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Mesopredator release and avifaunal extinctions in a fragmented system</article-title>
+               <source>Nature</source>
+               <volume>400</volume>
+               <fpage>563</fpage>
+               <lpage>566</lpage>
+               <pub-id pub-id-type="doi">10.1038/23028</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Deter et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Deter</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Chaval</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Galan</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Gauffre</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Morand</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Henttonen</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Laakkonen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Voutilainen</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Charbonnel</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Cosson</surname>
+                     <given-names>J-F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Kinship, dispersal and hantavirus transmission in bank and common voles</article-title>
+               <source>Archives of Virology</source>
+               <volume>153</volume>
+               <issue>3</issue>
+               <fpage>435</fpage>
+               <lpage>444</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00705-007-0005-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Eason et al. (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Eason</surname>
+                     <given-names>CT</given-names>
+                  </name>
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>EC</given-names>
+                  </name>
+                  <name>
+                     <surname>Wright</surname>
+                     <given-names>GRG</given-names>
+                  </name>
+                  <name>
+                     <surname>Spurr</surname>
+                     <given-names>EB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Assessment of risks of brodifacoum to non-target birds and mammals in New Zealand</article-title>
+               <source>Ecotoxicology</source>
+               <volume>11</volume>
+               <fpage>35</fpage>
+               <lpage>48</lpage>
+               <pub-id pub-id-type="doi">10.1023/A:1013793029831</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Elliott &amp; Kemp (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Elliott</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Kemp</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Large-scale pest control in New Zealand beech forests</article-title>
+               <source>Ecological Management &amp; Restoration</source>
+               <volume>17</volume>
+               <issue>3</issue>
+               <fpage>200</fpage>
+               <lpage>209</lpage>
+               <pub-id pub-id-type="doi">10.1111/emr.12227</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Fisher &amp; Airey (2009)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fisher</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Airey</surname>
+                     <given-names>AT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <series>DOC research and development series 306</series>
+               <source>Factors affecting 1080 pellet bait acceptance by house mice <italic>(Mus musculus)</italic></source>
+               <publisher-name>New Zealand Department of Conservation</publisher-name>
+               <publisher-loc>Wellington</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Fitzgerald et al. (1996)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fitzgerald</surname>
+                     <given-names>BM</given-names>
+                  </name>
+                  <name>
+                     <surname>Daniel</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Fitzgerald</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Karl</surname>
+                     <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Meads</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Notman</surname>
+                     <given-names>PR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>Factors affecting the numbers of house mice (<italic>Mus musculus</italic>) in hard beech (<italic>Nothofagus truncata</italic>) forest</article-title>
+               <source>Journal of the Royal Society of New Zealand</source>
+               <volume>26</volume>
+               <issue>2</issue>
+               <fpage>237</fpage>
+               <lpage>249</lpage>
+               <pub-id pub-id-type="doi">10.1080/03014223.1996.9517512</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Holland &amp; James (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Holland</surname>
+                     <given-names>EP</given-names>
+                  </name>
+                  <name>
+                     <surname>James</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Assessing the efficacy of population-level models of mast seeding</article-title>
+               <source>Theoretical Ecology</source>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>121</fpage>
+               <lpage>132</lpage>
+               <pub-id pub-id-type="doi">10.1007/s12080-014-0238-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Holland et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Holland</surname>
+                     <given-names>EP</given-names>
+                  </name>
+                  <name>
+                     <surname>James</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pech</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrom</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Climate-based models for pulsed resources improve predictability of consumer population dynamics: outbreaks of house mice in forest ecosystems</article-title>
+               <source>PLOS ONE</source>
+               <volume>10</volume>
+               <issue>3</issue>
+               <elocation-id>e0119139</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0119139</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Innes et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Innes</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Kelly</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>McC Overton</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Gillies</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Predation and other factors currently limiting New Zealand forest birds</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>34</volume>
+               <issue>1</issue>
+               <fpage>86</fpage>
+               <lpage>114</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Innes et al. (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Innes</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Warburton</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Speed</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Bradfield</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Large-scale poisoning of ship rats (<italic>Rattus rattus</italic>) in indigenous forests of the North Island, New Zealand</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>19</volume>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>17</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Jaksic &amp; Lima (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaksic</surname>
+                     <given-names>FM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lima</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Myths and facts on ratadas: bamboo blooms, rainfall peaks and rodent outbreaks in South America</article-title>
+               <source>Austral Ecology</source>
+               <volume>28</volume>
+               <fpage>237</fpage>
+               <lpage>251</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1442-9993.2003.01271.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Janzen (1971)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Janzen</surname>
+                     <given-names>DH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1971">1971</year>
+               <article-title>Seed predation by animals</article-title>
+               <source>Annual Review of Ecology and Systematics</source>
+               <volume>2</volume>
+               <fpage>465</fpage>
+               <lpage>492</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.es.02.110171.002341</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Jedrzejewska &amp; Jedrzejewski (1998)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jedrzejewska</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Jedrzejewski</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998</year>
+               <article-title>Predation in vertebrate communities. The Bialowieza Primeval forest as a case study</article-title>
+               <source>Ecological Studies</source>
+               <volume>135</volume>
+               <fpage>230</fpage>
+               <lpage>231</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-3-662-35364-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Jones et al. (1998)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                  <name>
+                     <surname>Ostfeld</surname>
+                     <given-names>RS</given-names>
+                  </name>
+                  <name>
+                     <surname>Richard</surname>
+                     <given-names>MP</given-names>
+                  </name>
+                  <name>
+                     <surname>Schauber</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolff</surname>
+                     <given-names>JO</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998</year>
+               <article-title>Chain reactions linking acorns to gypsy moth outbreaks and Lyme disease risk</article-title>
+               <source>Science</source>
+               <volume>279</volume>
+               <issue>5353</issue>
+               <fpage>1023</fpage>
+               <lpage>1026</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.279.5353.1023</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Jones &amp; Toft (2006)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Toft</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <series>DOC research and development series 245</series>
+               <source>Impacts of mice and hedgehogs on native forest invertebrates: a pilot study</source>
+               <publisher-name>New Zealand Department of Conservation</publisher-name>
+               <publisher-loc>Wellington</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Kelly et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kelly</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Geldenhuis</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>James</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Penelope Holland</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Plank</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Brockie</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Cowan</surname>
+                     <given-names>PE</given-names>
+                  </name>
+                  <name>
+                     <surname>Harper</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>WG</given-names>
+                  </name>
+                  <name>
+                     <surname>Maitland</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Mark</surname>
+                     <given-names>AF</given-names>
+                  </name>
+                  <name>
+                     <surname>Mills</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>PR</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrom</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Of mast and mean: differential-temperature cue makes mast seeding insensitive to climate change</article-title>
+               <source>Ecology Letters</source>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>90</fpage>
+               <lpage>98</lpage>
+               <pub-id pub-id-type="doi">10.1111/ele.12020</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Kelly &amp; Sork (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kelly</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Sork</surname>
+                     <given-names>VL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Mast seeding in perennial plants: why, how, where?</article-title>
+               <source>Annual Review of Ecology and Systematics</source>
+               <volume>33</volume>
+               <issue>1</issue>
+               <fpage>427</fpage>
+               <lpage>447</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.33.020602.095433</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>King (1983)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>King</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1983">1983</year>
+               <article-title>The relationships between beech (<italic>Nothofagus</italic> sp.) seedfall and populations of mice (<italic>Mus musculus</italic>), and the demographic and dietary responses of stoats (<italic>Mustela erminea</italic>), in three New Zealand forests</article-title>
+               <source>Journal of Animal Ecology</source>
+               <volume>52</volume>
+               <issue>1</issue>
+               <fpage>141</fpage>
+               <lpage>166</lpage>
+               <pub-id pub-id-type="doi">10.2307/4593</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Mackay, Russell &amp; Murphy (2007)</label><element-citation publication-type="confproc">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mackay</surname>
+                     <given-names>JWB</given-names>
+                  </name>
+                  <name>
+                     <surname>Russell</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>EC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Eradicating house mice from islands: successes, failures and the way forward</article-title>
+               <conf-name>Paper presented at the Managing vertebrate invasive species: proceedings of an international symposium</conf-name>
+               <conf-loc>Fort Collins</conf-loc>
+               <conf-sponsor>USDA/APHIS/WS, National Wildlife Research Centre</conf-sponsor>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Magarey &amp; Isard (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Magarey</surname>
+                     <given-names>RD</given-names>
+                  </name>
+                  <name>
+                     <surname>Isard</surname>
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>A troubleshooting guide for mechanistic plant pest forecast models</article-title>
+               <source>Journal of Integrated Pest Management</source>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <pub-id pub-id-type="doi">10.1093/jipm/pmw015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Miller &amp; Miller (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>TK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Population dynamics and diet of rodents on Rangitoto Island, New Zealand, including the effect of a 1080 poison operation</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>19</volume>
+               <fpage>19</fpage>
+               <lpage>27</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Murphy et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Gillies</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Maddigana</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>McMurtrie</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Edge</surname>
+                     <given-names>K-A</given-names>
+                  </name>
+                  <name>
+                     <surname>Rohan</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Clapperton</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Flexibility of diet of stoats on Fiordland islands, New Zealand</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>40</volume>
+               <issue>1</issue>
+               <fpage>114</fpage>
+               <lpage>120</lpage>
+               <pub-id pub-id-type="doi">10.20417/nzjecol.40.13</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Murphy et al. (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>EC</given-names>
+                  </name>
+                  <name>
+                     <surname>Robbins</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>JB</given-names>
+                  </name>
+                  <name>
+                     <surname>Dowding</surname>
+                     <given-names>JE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Secondary poisoning of stoats after an aerial 1080 poison operation in Pureora Forest, New Zealand</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>23</volume>
+               <issue>2</issue>
+               <fpage>175</fpage>
+               <lpage>182</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Mutze &amp; Sinclair (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mutze</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Sinclair</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Efficacy of zinc phosphide, strychnine and chlorpyrifos as rodenticides for the control of house mice in South Australian cereal crops</article-title>
+               <source>Wildlife Research</source>
+               <volume>31</volume>
+               <fpage>249</fpage>
+               <lpage>257</lpage>
+               <pub-id pub-id-type="doi">10.1071/WR02027</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Newsome (1969)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Newsome</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1969">1969</year>
+               <article-title>A population study of house-mice temporarily inhabiting a South Australian wheatfield</article-title>
+               <source>Journal of Animal Ecology</source>
+               <volume>38</volume>
+               <fpage>341</fpage>
+               <lpage>359</lpage>
+               <pub-id pub-id-type="doi">10.2307/2775</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Norbury et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Norbury</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrom</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Pech</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Clarke</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Forrester</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Invasive mammals and habitat modification interact to generate unforeseen outcomes for indigenous fauna</article-title>
+               <source>Ecological Applications</source>
+               <volume>23</volume>
+               <issue>7</issue>
+               <fpage>1707</fpage>
+               <lpage>1721</lpage>
+               <pub-id pub-id-type="doi">10.1890/12-1958.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Norbury et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Norbury</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Van den Munckhof</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Neitzel</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hutcheon</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Reardon</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ludwig</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Impacts of invasive house mice on post-release survival of translocated lizards</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>38</volume>
+               <issue>2</issue>
+               <fpage>322</fpage>
+               <lpage>327</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>O’Connor, Morriss &amp; Murphy (2005)</label><element-citation publication-type="confproc">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>O’Connor</surname>
+                     <given-names>CE</given-names>
+                  </name>
+                  <name>
+                     <surname>Morriss</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>EC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Toxic bait avoidance by mice</article-title>
+               <conf-name>Paper presented at the proceedings of the 13th Australasian vertebrate pest conference</conf-name>
+               <conf-sponsor>Wellington</conf-sponsor>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>O’Donnell &amp; Phillipson (1996)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>O’Donnell</surname>
+                     <given-names>CFJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Phillipson</surname>
+                     <given-names>SM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>Predicting the incidence of mohua predation from the seedfall, mouse, and predator fluctuations in beech forests</article-title>
+               <source>New Zealand Journal of Zoology</source>
+               <volume>23</volume>
+               <fpage>287</fpage>
+               <lpage>293</lpage>
+               <pub-id pub-id-type="doi">10.1080/03014223.1996.9518087</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Ostfeld &amp; Keesing (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ostfeld</surname>
+                     <given-names>RS</given-names>
+                  </name>
+                  <name>
+                     <surname>Keesing</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Pulsed resources and community dynamics of consumers in terrestrial ecosystems</article-title>
+               <source>Trends in Ecology &amp; Evolution</source>
+               <volume>15</volume>
+               <issue>6</issue>
+               <fpage>232</fpage>
+               <lpage>237</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0169-5347(00)01862-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Pearse, Koenig &amp; Knops (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pearse</surname>
+                     <given-names>IS</given-names>
+                  </name>
+                  <name>
+                     <surname>Koenig</surname>
+                     <given-names>WD</given-names>
+                  </name>
+                  <name>
+                     <surname>Knops</surname>
+                     <given-names>JMH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Cues versus proximate drivers: testing the mechanism behind masting behaviour</article-title>
+               <source>Oikos</source>
+               <volume>123</volume>
+               <fpage>179</fpage>
+               <lpage>184</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1600-0706.2013.00608.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Pucek et al. (1993)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pucek</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Jedrzejewski</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Jedzrejewski</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Pucek</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1993">1993</year>
+               <article-title>Rodent population dynamics in a primeval deciduous forest (Biolowieza National Park) in relation to weather, seed crop and predation</article-title>
+               <source>Acta Theriologica</source>
+               <volume>38</volume>
+               <issue>2</issue>
+               <fpage>199</fpage>
+               <lpage>232</lpage>
+               <pub-id pub-id-type="doi">10.4098/AT.arch.93-18</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Ritchie &amp; Johnson (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ritchie</surname>
+                     <given-names>EG</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>CN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Predator interactions, mesopredator release and biodiversity conservation</article-title>
+               <source>Ecology Letters</source>
+               <volume>12</volume>
+               <fpage>982</fpage>
+               <lpage>998</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01347.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Ruscoe (1996)</label><element-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>Spatial variability in population levels of Rattus sordidus in north Queensland cane growing districts: ecological and gene flow hypotheses</article-title>
+               <source>PhD Thesis</source>
+               <institution>Queensland University of Technology, Brisbane, Australia</institution>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Ruscoe (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Advances in New Zealand mammalogy 1990–2000: house mouse</article-title>
+               <source>Journal of the Royal Society of New Zealand</source>
+               <volume>31</volume>
+               <issue>1</issue>
+               <fpage>127</fpage>
+               <lpage>134</lpage>
+               <pub-id pub-id-type="doi">10.1080/03014223.2001.9517643</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Ruscoe et al. (2003)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Choquenot</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Heyward</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Yockney</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Drew</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Seed production, predators and house mouse population eruptions in New Zealand beech forests</article-title>
+               <source>ACIAR Monograph No. 96. Rats, mice and people: rodent biology and management</source>
+               <publisher-name>ACIAR</publisher-name>
+               <publisher-loc>Canberra</publisher-loc>
+               <fpage>334</fpage>
+               <lpage>337</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Ruscoe, Goldsmith &amp; Choquenot (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Goldsmith</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Choquenot</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>A comparison of population estimates and abundance indices for house mice inhabiting beech forests in New Zealand</article-title>
+               <source>Wildlife Research</source>
+               <volume>28</volume>
+               <fpage>173</fpage>
+               <lpage>178</lpage>
+               <pub-id pub-id-type="doi">10.1071/WR00035</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Ruscoe &amp; Murphy (2005)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>EC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>House mouse</article-title>
+               <source>The handbook of New Zealand mammals</source>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>King</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Oxford University Press</publisher-name>
+               <publisher-loc>Melbourne</publisher-loc>
+               <fpage>203</fpage>
+               <lpage>221</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Ruscoe &amp; Pech (2010)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pech</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Rodent outbreaks in New Zealand</article-title>
+               <source>Rodent outbreaks: ecology and impacts</source>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Singleton</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Belmain</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Hardy</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>International Rice Research Institute</publisher-name>
+               <publisher-loc>Manila</publisher-loc>
+               <fpage>239</fpage>
+               <lpage>251</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Ruscoe et al. (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruscoe</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>McElrea</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>McElrea</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Richardson</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>A house mouse (<italic>Mus musculus</italic>) population eruption in response to rimu (<italic>Dacrydium cupressinum</italic>) seedfall in southern New Zealand</article-title>
+               <source>New Zealand Journal of Ecology</source>
+               <volume>28</volume>
+               <issue>2</issue>
+               <fpage>259</fpage>
+               <lpage>265</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Russell et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Russell</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Innes</surname>
+                     <given-names>JG</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>PH</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrom</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Predator-free New Zealand: conservation country</article-title>
+               <source>Bioscience</source>
+               <volume>65</volume>
+               <issue>5</issue>
+               <fpage>520</fpage>
+               <lpage>525</lpage>
+               <pub-id pub-id-type="doi">10.1093/biosci/biv012</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Simberloff (2002)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Simberloff</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Today Tiritiri Matangi, tomorrow the world!: are we aiming too low in invasives control? Turning the tide: the eradication of invasive species</article-title>
+               <comment>IUCN, Gland, Switzerland and Cambridge, UK. IUCN SSC Invasive Species Specialist Group, pp. 4–12</comment>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Singleton et al. (2010)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singleton</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Belmain</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Hardy</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <source>Rodent outbreaks: ecology and impacts</source>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Singleton</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Belmain</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Hardy</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>International Rice Research Institute</publisher-name>
+               <publisher-loc>Los Baños</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Singleton et al. (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singleton</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Krebs</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Davis</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Chambers</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Reproductive changes in fluctuating house mouse populations in southeastern Australia</article-title>
+               <source>Proceedings of the Royal Society of London. Series B: Biological Sciences</source>
+               <volume>268</volume>
+               <issue>1477</issue>
+               <fpage>1741</fpage>
+               <lpage>1748</lpage>
+               <pub-id pub-id-type="doi">10.1098/rspb.2001.1638</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Singleton, Tann &amp; Krebs (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singleton</surname>
+                     <given-names>GR</given-names>
+                  </name>
+                  <name>
+                     <surname>Tann</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Krebs</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Landscape ecology of house mouse outbreaks in south-eastern Australia</article-title>
+               <source>Journal of Applied Ecology</source>
+               <volume>44</volume>
+               <fpage>644</fpage>
+               <lpage>652</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2664.2007.01296.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Smith, Dickman &amp; Banks (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Dickman</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Banks</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Nest predation by commensal rodents in urban bushland remnants</article-title>
+               <source>PLOS ONE</source>
+               <volume>11</volume>
+               <issue>6</issue>
+               <elocation-id>e0156180</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0156180</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Smith, Gomulkiewicz &amp; Mack (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Gomulkiewicz</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Mack</surname>
+                     <given-names>RN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Potential role of masting by introduced bamboos in deer mice (<italic>Peromyscus manuculatus</italic>) population irruptions holds public health consequences</article-title>
+               <source>PLOS ONE</source>
+               <volume>10</volume>
+               <issue>6</issue>
+               <elocation-id>e0124419</elocation-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Studholme (2000)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Studholme</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <source>Ship rat (<italic>Rattus rattus</italic>) irruptions in South Island beech (<italic>Nothofagus</italic>) forest</source>
+               <series>Conservation advisory science notes: 318</series>
+               <publisher-name>New Zealand Department of Conservation</publisher-name>
+               <publisher-loc>Wellington</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Turchin &amp; Ostfeld (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Turchin</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Ostfeld</surname>
+                     <given-names>RS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Effects of density and season on the population rate of change in the meadow vole</article-title>
+               <source>Oikos</source>
+               <volume>78</volume>
+               <issue>2</issue>
+               <fpage>355</fpage>
+               <lpage>361</lpage>
+               <pub-id pub-id-type="doi">10.2307/3546303</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Wardle (1984)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wardle</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1984">1984</year>
+               <source>The New Zealand beeches: ecology, utilitization and management</source>
+               <publisher-name>New Zealand Forest Service</publisher-name>
+               <publisher-loc>Wellington</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>Watts et al. (2017)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Watts</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Innes</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Fitzgerald</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Bartlam</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Thornburrow</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Smale</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Impacts of mice alone on biodiversity: final report of a Waikato field trial</article-title>
+               <source>Landcare Research contract report LC2747</source>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>Wilson et al. (1998)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>PR</given-names>
+                  </name>
+                  <name>
+                     <surname>Karl</surname>
+                     <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Toft</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Beggs</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Taylor</surname>
+                     <given-names>RH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998</year>
+               <article-title>The role of introduced predators and competitors in the decline of kaka (<italic>Nestor meridionalis</italic>) populations in New Zealand</article-title>
+               <source>Biological Conservation</source>
+               <volume>83</volume>
+               <issue>2</issue>
+               <fpage>175</fpage>
+               <lpage>185</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0006-3207(97)00055-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>Wilson et al. (2006)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>McElrea</surname>
+                     <given-names>GJ</given-names>
+                  </name>
+                  <name>
+                     <surname>McElrea</surname>
+                     <given-names>LM</given-names>
+                  </name>
+                  <name>
+                     <surname>Heyward</surname>
+                     <given-names>RO</given-names>
+                  </name>
+                  <name>
+                     <surname>Peach</surname>
+                     <given-names>RME</given-names>
+                  </name>
+                  <name>
+                     <surname>Thompson</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <series>DOC research and development series 248</series>
+               <source>Potential conservation impacts of high-altitude small mammals: a field study and literature review</source>
+               <publisher-name>New Zealand Department of Conservation</publisher-name>
+               <publisher-loc>Wellington</publisher-loc>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

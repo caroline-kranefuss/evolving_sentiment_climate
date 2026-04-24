@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">6039</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.6039</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Biodiversity</subject>
+               <subject>Ecology</subject>
+               <subject>Evolutionary Studies</subject>
+               <subject>Genetics</subject>
+               <subject>Freshwater Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Detection of bacterial endosymbionts in freshwater crustaceans: the applicability of non-degenerate primers to amplify the bacterial 16S rRNA gene</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Mioduchowska</surname>
+                  <given-names>Monika</given-names>
+               </name>
+               <email>monika.mioduchowska@biol.ug.edu.pl</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Czyż</surname>
+                  <given-names>Michał Jan</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Gołdyn</surname>
+                  <given-names>Bartłomiej</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Kilikowska</surname>
+                  <given-names>Adrianna</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>Namiotko</surname>
+                  <given-names>Tadeusz</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-6" contrib-type="author">
+               <name>
+                  <surname>Pinceel</surname>
+                  <given-names>Tom</given-names>
+               </name><xref ref-type="aff" rid="aff-4">4</xref><xref ref-type="aff" rid="aff-5">5</xref></contrib>
+            <contrib id="author-7" contrib-type="author">
+               <name>
+                  <surname>Łaciak</surname>
+                  <given-names>Małgorzata</given-names>
+               </name><xref ref-type="aff" rid="aff-6">6</xref></contrib>
+            <contrib id="author-8" contrib-type="author">
+               <name>
+                  <surname>Sell</surname>
+                  <given-names>Jerzy</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Department of Genetics and Biosystematics, Faculty of Biology, University of Gdansk</institution>, <city>Gdansk</city>, <country>Poland</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Research Centre of Quarantine, Invasive and Genetically Modified Organisms, Institute of Plant Protection—National Research Institute</institution>, <city>Poznan</city>, <country>Poland</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Department of General Zoology, Institute of Environmental Biology, Faculty of Biology, Adam Mickiewicz University</institution>, <city>Poznan</city>, <country>Poland</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Animal Ecology, Global Change and Sustainable Development, KU Leuven</institution>, <city>Leuven</city>, <country>Belgium</country></aff>
+            <aff id="aff-5"><label>5</label><institution>Centre for Environmental Management, University of the Free State</institution>, <city>Bloemfontein</city>, <country>South Africa</country></aff>
+            <aff id="aff-6"><label>6</label><institution>Polish Academy of Sciences, Institute of Nature Conservation</institution>, <city>Krakow</city>, <country>Poland</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>McDonald</surname>
+                  <given-names>Ian</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-14">
+            <day>14</day>
+            <month>12</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e6039</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-07-19">
+               <day>19</day>
+               <month>7</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-10-30">
+               <day>30</day>
+               <month>10</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Mioduchowska et al.</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Mioduchowska et al.</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/6039"/>
+         <abstract>
+            <p>Bacterial endosymbionts of aquatic invertebrates remain poorly studied. This is at least partly due to a lack of suitable techniques and primers for their identification. We designed a pair of non-degenerate primers which enabled us to amplify a fragment of ca. 500 bp of the 16S rRNA gene from various known bacterial endosymbiont species. By using this approach, we identified four bacterial endosymbionts, two endoparasites and one uncultured bacterium in seven, taxonomically diverse, freshwater crustacean hosts from temporary waters across a wide geographical area. The overall efficiency of our new WOLBSL and WOLBSR primers for amplification of the bacterial 16S rRNA gene was 100%. However, if different bacterial species from one sample were amplified simultaneously, sequences were illegible, despite a good quality of PCR products. Therefore, we suggest using our primers at the first stage of bacterial endosymbiont identification. Subsequently, genus specific primers are recommended. Overall, in the era of next-generation sequencing our method can be used as a first simple and low-cost approach to identify potential microbial symbionts associated with freshwater crustaceans using simple Sanger sequencing. The potential to detected bacterial symbionts in various invertebrate hosts in such a way will facilitate studies on host-symbiont interactions and coevolution.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Microbiome</kwd>
+            <kwd>Fairy shrimp</kwd>
+            <kwd>Anostraca</kwd>
+            <kwd>Cladocera</kwd>
+            <kwd>Ostracoda</kwd>
+            <kwd>Temporary ponds</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>University of Gdańsk</funding-source>
+               <award-id>538-L260-B149-18</award-id>
+            </award-group>
+            <funding-statement>The research was supported by the grant from the University of Gdańsk no. 538-L260-B149-18. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Many invertebrate species have endosymbiotic bacteria that exert various effects on the biology of their host. The benefits derived from both obligatory and facultative dependence include: mutual effects on defense, nutrition, development and reproduction (e.g., <xref ref-type="bibr" rid="ref-51">Pontes &amp; Dale, 2006</xref>; <xref ref-type="bibr" rid="ref-47">Pais et al., 2008</xref>). The best studied examples of such interactions include cases of <italic>Wolbachia</italic> (<xref ref-type="bibr" rid="ref-31">Hurst et al., 2000</xref>) and <italic>Cardinium</italic> (<xref ref-type="bibr" rid="ref-26">Gotoh, Noda &amp; Ito, 2007</xref>). These bacteria can interfere with host reproduction by inducing cytoplasmic incompatibility and shifts in sexual selection (<xref ref-type="bibr" rid="ref-76">Zhang, Zhao &amp; Hong, 2012</xref>). Although such interactions were traditionally regarded as harmful to the host, an increasing body of evidence also supports host fitness benefits associated with the presence of symbionts (<xref ref-type="bibr" rid="ref-78">Zug &amp; Hammerstein, 2018</xref>).</p>
+         <p>Most information on obligatory host-bacteria associations comes from terrestrial invertebrates and insects in particular (<xref ref-type="bibr" rid="ref-9">Chaston &amp; Goodrich-Blair, 2010</xref>). However, associations with symbiotic bacteria have also been observed in aquatic invertebrates (both marine and freshwater), affecting both ecology and evolution of the hosts (<xref ref-type="bibr" rid="ref-46">Ott, Bright &amp; Bulgheresi, 2004</xref>; <xref ref-type="bibr" rid="ref-17">Dubilier, Bergin &amp; Lott, 2008</xref>; <xref ref-type="bibr" rid="ref-14">Dattagupta et al., 2009</xref>). Some endosymbionts, such as <italic>Rickettsia</italic> species of the <italic>torix</italic> group, are widespread in freshwater metazoans including larvae of biting midges, but are much more rare in terrestrial species (<xref ref-type="bibr" rid="ref-50">Pilgrim et al., 2017</xref>). Furthermore, heritable microbes (inherited through the egg cytoplasm during the reproduction of their hosts) have also been recently reported in freshwater snails, hydrozoans, leeches and arthropods (e.g., <xref ref-type="bibr" rid="ref-49">Perkins, Budinoff &amp; Siddall, 2005</xref>).</p>
+         <p>The study of obligatory bacterial endosymbionts is complicated by the fact that they cannot be cultured in the laboratory and that only molecular techniques are useful in their detection. Also, only DNA of bacteria that make up at least 1% of the host bacterial community can typically be amplified with broad-range universal primers (<xref ref-type="bibr" rid="ref-41">Muyzer et al., 1996</xref>; <xref ref-type="bibr" rid="ref-75">Yamamoto, 2002</xref>; <xref ref-type="bibr" rid="ref-68">Wang et al., 2016</xref>). More sensitive genus- or species-specific primers are required to overcome these problems (<xref ref-type="bibr" rid="ref-27">Gottlieb et al., 2006</xref>).</p>
+         <p>Temporary ponds are typically shallow aquatic ecosystems that dry out at unpredictable moments due to changing weather conditions. Despite drying, they are often home to diverse aquatic communities of species that have evolved ways to survive the dry periods (<xref ref-type="bibr" rid="ref-73">Williams, 2006</xref>). Host-endosymbiont relationships in freshwater invertebrates from such systems, as well as their geographical and ecological distribution have hardly been studied (<xref ref-type="bibr" rid="ref-65">Toft &amp; Andersson, 2010</xref>). These fragile habitats are undergoing a dramatic decline worldwide since they are prone to land alterations and destructions by human activity and climatic changes (<xref ref-type="bibr" rid="ref-15">De Meester et al., 2005</xref>).</p>
+         <p>Invertebrates from temporary ponds are generally characterized by rapid growth and maturation, short-life spans, small sizes, and high reproductive output. All large branchiopod crustaceans (clam, fairy and tadpole shrimps) and many cladocerans, copepods and ostracods are temporary pond specialists. They all have the ability to produce resting (dormant or diapausing) eggs (cysts) that can withstand extended droughts in a state of dormancy (<xref ref-type="bibr" rid="ref-61">Smith, 2001</xref>; <xref ref-type="bibr" rid="ref-73">Williams, 2006</xref>).</p>
+         <p>So far there are no data showing that bacterial endosymbionts of freshwater or marine animals manipulate their host reproduction mode. However, it seems probable that inhabiting temporary ponds could be facilitated in many species by the asexual reproduction (e.g., ameiotic parthenogenesis) or a modification of the sexual reproduction mode (e.g., androdioecy as well as masculinization, feminization) associated with bacterial endosymbionts such as <italic>Wolbachia</italic> (<xref ref-type="bibr" rid="ref-33">Kageyama, Narita &amp; Watanabe, 2012</xref>). With this background, we attempted to identify <italic>Wolbachia</italic> (the most prevalent bacterial endosymbiont of invertebrates) and other related bacteria in taxonomically diverse crustacean species from astatic freshwater ponds using newly designed non-degenerate primers to amplify the bacterial 16S rRNA gene fragment. However, due to the fact that the term “symbiont” in the comprehensive meaning concerns both endosymbiont as well as pathogenic bacteria (since the host-symbiont interactions refer to mutualism, parasitism and commensalism) we opted for a more specific nomenclature to describe identified bacterial species and to define these as “endosymbionts” (<xref ref-type="bibr" rid="ref-48">Perez-Brocal, Latorre &amp; Moya, 2011</xref>).</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials and Methods</title>
+         <p>Preliminary detection and identification of bacterial endosymbionts of the genus <italic>Wolbachia</italic> in the anostracan <italic>Branchipus schaefferi</italic> was performed using 16S rRNA sequence primers (WF 5′–CGGGGGAAAATTTATTGCT-3′ and WR 5′-AGCTGTAATACAGAAAGGAAA-3′) and PCR protocols by <xref ref-type="bibr" rid="ref-60">Singh et al. (2013)</xref>. Since the amplification success was limited, we designed new, non-degenerate primers <italic>in silico</italic>. Using the existing WF and WR primers, we obtained a 544 bp-long 16S rRNA sequence of <italic>Wolbachia</italic> that was deposited in GenBank under accession number <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH454491">MH454491</ext-link>. This sequence was further used to design internal primers to amplify a 458 bp fragment with the Primer3 v. 0.4.0 (<xref ref-type="bibr" rid="ref-66">Untergasser et al., 2012</xref>) software package. The sequence of the newly developed forward WOLBSL primer was 5′-GCTAGTTGGTGGAGTAATAGCC-3′, and that of the reverse WOLBSR was 5′-GACTACCAGGGTATCTAATCCTG-3′.</p>
+         <p>The designed WOLBSL and WOLBSR primers were subsequently used for detection of <italic>Wolbachia</italic> in other potential host species. We tested them on available crustacean material collected from nine distant astatic ponds, i.e., five from various regions across Poland, one from Italy and three from South Africa. Crustaceans were identified to the species level based on morphological criteria. Data on the sampling sites and the species selected to test the general applicability of the designed primers are listed in <xref ref-type="table" rid="table-1">Table 1</xref> and <xref ref-type="fig" rid="fig-1">Fig. 1</xref>.</p>
+         <table-wrap id="table-1">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/table-1</object-id><label>Table 1</label><caption>
+               <title>Identified bacterial sequences in freshwater crustacean hosts and locality of sampling sites.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6039/table-1.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Freshwater crustacean hosts</bold></th>
+                        <th><bold>Locality of astatic ponds:</bold><break/><bold>country; station code; coordinates/</bold><break/><bold>number of sampled host individuals</bold></th>
+                        <th><bold>Identified bacterial sequences: haplotype code (GenBank accession number of sequences, sequence length)</bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td><bold><italic>Branchipus schaefferi</italic></bold></td>
+                        <td>Poland; Station 1; 54°26′N, 17°03′E/5</td>
+                        <td>•<bold><italic>Methylophilus</italic></bold>: <break/>MET1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447385">MH447385</ext-link>, 483 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447386">MH447386</ext-link>,<break/>514 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447387">MH447387</ext-link>, 524 bp),<break/>MET2 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447389">MH447389</ext-link>, 497 bp)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>Poland; Station 2; 53°32′N, 15°48′E/14</td>
+                        <td>•<bold><italic>Candidatus</italic></bold><bold>Gortzia:</bold><break/>CAG1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450232">MH450232</ext-link>, 452 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450233">MH450233</ext-link>, <break/>452 bp), CAG2 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450235">MH450235</ext-link>, 452 bp), <break/>CAG3 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450236">MH450236</ext-link>, 452 bp), <break/>CAG4 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450234">MH450234</ext-link>, 452 bp) <break/>•<bold>Uncultured bacterium:</bold><break/>UCB1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447689">MH447689</ext-link>, 394 bp), UCB2<break/>(<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447690">MH447690</ext-link>, 394 bp), UCB3 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447691">MH447691</ext-link>, <break/>392 bp), UCB4 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447692">MH447692</ext-link>, 392 bp), UCB5<break/>(<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447693">MH447693</ext-link>, 432 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447694">MH447694</ext-link>, 433 bp)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>Poland; Station 3; 53°08′N, 16°48′E/5</td>
+                        <td>•<bold><italic>Wolbachia</italic></bold>:<break/>WOL1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447361">MH447361</ext-link>, 458 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447362">MH447362</ext-link>, <break/>458 bp)<break/>•<bold><italic>Methylophilus</italic></bold>:<break/>MET1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447388">MH447388</ext-link>, 503 bp)<xref ref-type="fn" rid="table-1fn1"><sup>a</sup></xref></td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>Poland; Station 4; 52°29′N, 16°51′E/5</td>
+                        <td>•<bold><italic>Wolbachia</italic></bold>:<break/>WOL1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447363">MH447363</ext-link>, 458 bp), WOL2<break/>(<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447364">MH447364</ext-link>, 458 bp ), WOL3 <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447365">MH447365</ext-link>, <break/>458 bp)<break/>•<bold><italic>Spirobacillus</italic></bold>:<break/>SPR1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450240">MH450240</ext-link>, 471 bp) <break/>•<bold><italic>Undibacterium</italic></bold>:<break/>UND1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450134">MH450134</ext-link>, 297 bp)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>Poland; Station 5; 49°53′N, 20°11′E/2</td>
+                        <td>•<bold><italic>Methylophilus</italic></bold>: <break/>MET3 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447390">MH447390</ext-link>, 509 bp)</td>
+                     </tr>
+                     <tr>
+                        <td><bold><italic>Branchipodopsis wolfi</italic></bold></td>
+                        <td>South Africa; Station 2; 28°51′S, 27°13′E/5</td>
+                        <td>•<bold>Uncultured bacterium:</bold><break/>UCB5 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447695">MH447695</ext-link>, 487 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447696">MH447696</ext-link>, <break/>487 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447697">MH447697</ext-link>, 495 bp)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>South Africa; Station 3; 28°51′S, 27°13′E/2</td>
+                        <td>•<bold>Uncultured bacterium:</bold><break/>UCB6 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447698">MH447698</ext-link>, 467 bp)</td>
+                     </tr>
+                     <tr>
+                        <td><bold><italic>Streptocephalus cafer</italic></bold></td>
+                        <td>South Africa ; Station 1; 28°47′S, 21°00′E/1</td>
+                        <td>•<bold><italic>Wolbachia</italic></bold>: <break/>WOL4 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447357">MH447357</ext-link>; 458 bp)</td>
+                     </tr>
+                     <tr>
+                        <td><bold><italic>Heterocypris incongruens</italic></bold></td>
+                        <td>Italy; Station 1; 41°16′N, 14°10′E/2</td>
+                        <td>•<bold><italic>Cardinium</italic></bold>: <break/>CAC1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH376282">MH376282</ext-link>, 531 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH376281">MH376281</ext-link>, <break/>500 bp)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>Poland; Station 5; 49°53′N, 20°11′E/2</td>
+                        <td>•<bold><italic>Cardinium</italic></bold>: <break/>CAC1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH376280">MH376280</ext-link>, 500 bp)</td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td>Poland; Station 3; 53°08′N, 16°48′E/2</td>
+                        <td>•<bold><italic>Methylophilus</italic></bold>: <break/>MET1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447391">MH447391</ext-link>, 523 bp )</td>
+                     </tr>
+                     <tr>
+                        <td><bold><italic>Moina macrocopa</italic></bold></td>
+                        <td>Poland; Station 3; 53°08′N, 16°48′E/1</td>
+                        <td>•<bold><italic>Methylophilus</italic></bold>: <break/>MET1 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447392">MH447392</ext-link>, 518 bp )</td>
+                     </tr>
+                     <tr>
+                        <td><bold><italic>Moina brachiata</italic></bold></td>
+                        <td>South Africa; Station 1; 28°47′S, 21°00′E/3</td>
+                        <td>•<bold>Uncultured bacterium:</bold><break/>UCB8 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447700">MH447700</ext-link>, 491 bp; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447701">MH447701</ext-link>, <break/>491 bp, UCB9 <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447702">MH447702</ext-link>, 491 bp)</td>
+                     </tr>
+                     <tr>
+                        <td><bold><italic>Triops cancriformis</italic></bold></td>
+                        <td>Poland; Station 4; 52°29′N, 16°51′E/1</td>
+                        <td>•<bold>Uncultured bacterium:</bold><break/>UCB7 (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447699">MH447699</ext-link>, 372 bp)</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-1fn"><p><bold>Notes.</bold></p></fn><fn id="table-1fn1"><label>a</label><p>Isolate from cyst.</p></fn></table-wrap-foot>
+         </table-wrap>
+         <p>The total DNA from seven crustacean species (approximately 3 mm<sup>3</sup> of thorax tissues of <italic>Branchipus schaefferi</italic>, <italic>Branchipodopsis wolfi</italic>, <italic>Streptocephalus cafer</italic>, <italic>Triops cancriformis</italic>; cysts of <italic>Branchipus schaefferi</italic>; whole specimens of <italic>Heterocypris incongruens</italic>, <italic>Moina brachiata</italic> and <italic>Moina macrocopa</italic>) was isolated according to the Biotrace Genomic Extraction GPB Mini Kit (GenoPlast) protocol. Extreme care was taken to avoid bacterial contamination in our experiment—crustacean individuals were surface-cleaned by washing with sterile water and all steps were carried out in a sterilized laminar flow hood. PCR reactions were performed in 20 µL volume containing 0.8x JumpStart Taq ReadyMix (1 U of JumpStart Taq DNA polymerase, 4 mM Tris-HCl, 20 mM KCl, 0.6 mM MgCl<sub>2</sub>, 0.08 mM of dNTP; SigmaAldrich, Germany), 0.4 µM of both newly designed primers and about 100 ng of DNA. The 16S rRNA gene fragment was amplified under the following conditions: initial denaturation at 94 °C for 5 min followed by 44 cycles of 94 °C for 30 s, 51.2 °C for 40 s and 72 °C for 2 min and ending with 72 °C for 5 min. Amplified products were separated by 1% agarose gel electrophoresis in a 1×SB buffer and visualized with ethidium bromide under UV light. All PCR products were purified by alkaline phosphatase and exonuclease I (Thermo Scienific, USA) treatment (incubation at 37 °C for 60 min and heating at 65 °C for 15 min) and sequenced following the BigDye™ terminator cycle sequencing method.</p>
+         <p>The comparison with GenBank records and the homology search was carried out with Blast application using blastn searches (<xref ref-type="bibr" rid="ref-1">Altshul et al., 1990</xref>). We accepted only the results which indicated high identity ≥ 95% with a query cover near 100% and an <italic>E</italic> value near 0.0.</p>
+         <p>Sequences were quality checked and trimmed to the same length in BioEdit (<xref ref-type="bibr" rid="ref-29">Hall, 1999</xref>) and a consensus sequence was created for each individual. The sequences were aligned using Clustal ×1.81 (<xref ref-type="bibr" rid="ref-64">Thompson et al., 1997</xref>) under default settings. Although the 16S rRNA alignment contained several indels, all sequences were readily readable and could be unambiguously aligned. Haplotypes were retrieved using DnaSP v.5.10.01 software (<xref ref-type="bibr" rid="ref-38">Librado &amp; Rozas, 2009</xref>). All obtained sequences were deposited in GenBank under accession numbers given in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Maximum likelihood tree showing the relationships among bacterial sequences obtained in our study from freshwater crustacean hosts and closely matching query sequences downloaded from GenBank.</title>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6039/fig-1.png"/>
+         </fig>
+         <p>To infer the phylogenetic relationships among the bacterial sequences obtained in our study, we calculated maximum-likelihood trees in MEGA7 (<xref ref-type="bibr" rid="ref-37">Kumar, Stecher &amp; Tamura, 2016</xref>). Closely matching reference sequences from GenBank were included to verify the identity of the new sequences (Accession numbers are given in <xref ref-type="table" rid="table-1">Table 1</xref>). The most appropriate evolutionary model was determined with jModelTest 2 (<xref ref-type="bibr" rid="ref-13">Darriba et al., 2012</xref>). Based on the Akaike Information Criterion (AIC) and Bayesian Inference Criterion (BIC), the HKY +I +G model of evolution was chosen. For the assessment of the node support 1,000 bootstrap iterations were run.</p>
+         <p>In order to verify prevalence of the bacterial species identified in our study, bacterial sequence records were downloaded from the NCBI Nucleotide database using R 3.4.4 (<xref ref-type="bibr" rid="ref-52">R Core Team, 2018</xref>) and the package rentrez 1.2.1 (<xref ref-type="bibr" rid="ref-74">Winter, 2017</xref>). The query was constructed as “&lt;genus&gt;[ORGN]” where for the genus we applied: <italic>Cardinium</italic>, Gortzia, <italic>Methylophilus</italic>, <italic>Spirobacillus</italic>, <italic>Undibacterium</italic> and <italic>Wolbachia</italic>. For uncultured bacteria we used two queries: “uncultured bacterium[ORGN]” to check the overall number of sequences in the NCBI database, and “uncultured bacterium[ORGN] AND endosymbiont[WORD]” to limit the number of sequence records to those which were reported as endosymbionts.</p>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>In our experiment, we used a total of 50 isolates from seven freshwater invertebrate species inhabiting temporary waters in Europe and South Africa. The overall efficiency of designed primers to amplify bacterial 16S rRNA gene was 100%. We obtained 38 bacterial good quality 16S rRNA sequences of a length of ca. 500 bp (<xref ref-type="table" rid="table-1">Table 1</xref>). Poor sequencing results, despite good PCR products for seven isolates of <italic>B. schaefferi</italic>, three isolates of <italic>B. wolfi</italic> and two isolates of <italic>H. incongruens</italic>, were most likely due to genome mixing among several bacterial species. This was anticipated since our primers can identify various bacterial species.</p>
+         <p>The obtained bacterial 16S rRNA gene sequences (ca. 500 bp) closely matched bacterial endosymbiont sequences deposited in GenBank. We constructed a phylogenetic tree with both: all the existing closely matching query sequences in GenBank and the newly generated sequences to confirm the presence of the bacterial endosymbionts within the studied freshwater crustacean host species. Phylogenetic analysis supported two main clades, one with all sequences of <italic>Methylophilus</italic> and uncultured bacteria and the second one with <italic>Cardinium</italic>, <italic>Candidatus</italic> Gortzia and <italic>Wolbachia</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Within these two clades several monophyletic groupings united respective bacterial species (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). In total, we revealed the following bacterial endosymbionts in the studied freshwater crustacean hosts: <italic>Wolbachia</italic>, <italic>Methylophilus</italic> and <italic>Candidatus</italic> Gortzia in <italic>B. schaefferi</italic>; <italic>Wolbachia</italic> in <italic>Streptocephalus cafer</italic>; <italic>Cardinium</italic> and <italic>Methylophilus</italic> in <italic>H. incongruens</italic> and <italic>Methylophilus</italic> in <italic>Moina macrocopa</italic>. Moreover, an uncultured bacterium was found in <italic>B. schaefferi</italic>, <italic>B. wolfi</italic>, <italic>M. brachiata</italic> and <italic>Triops cancriformis</italic>. Furthermore, <italic>Undibacterium</italic> belonging to symbiotic microbial communities and endoparasite <italic>Spirobacillus</italic> were identified in <italic>B. schaefferi</italic> (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Most aquatic species from temporary waters have a highly specialized life history that allows them to deal with periodic drying (<xref ref-type="bibr" rid="ref-5">Brendonck, Pinceel &amp; Ortells, 2017</xref>). Many of the species produce drought resistant stages that enter a state of dormancy, which can survive for extended periods of time in the absence of water (<xref ref-type="bibr" rid="ref-4">Brendonck &amp; Meester, 2003</xref>). On the individual level, organisms are often time-stressed to complete their life cycle and produce dormant stages before their habitat dries. Under such environmental conditions, shifts in reproductive strategies towards unisexual life cycles seem to be evolutionary beneficial and have been reported by other researchers (<xref ref-type="bibr" rid="ref-56">Sassaman, 1995</xref>; <xref ref-type="bibr" rid="ref-69">Weeks et al., 2014a</xref>; <xref ref-type="bibr" rid="ref-70">Weeks et al., 2014b</xref>; <xref ref-type="bibr" rid="ref-23">Ford &amp; Weeks, 2018</xref>). In terrestrial insects, endosymbiotic bacteria such as <italic>Wolbachia</italic> have been shown to drive such shifts (reviewed in <xref ref-type="bibr" rid="ref-72">Werren, Baldo &amp; Clark, 2008</xref>). However, so far there is a lack of studies on endosymbionts in invertebrates inhabiting temporary waters. Nevertheless, with current high-throughput metagenome analyses, it is possible to study the microbiome and its diversity with a simple probe. This technique is also very useful to identify bacterial symbionts. However, it was shown that analysis of sample composition for individual taxonomic categories of microorganisms, based on homology with databases, very often allows performing identification only to the order level (e.g., <xref ref-type="bibr" rid="ref-67">Vecchi et al., 2018</xref>). If this is the case, bacterial species-specific primers are needed. Primers designed in our study have the advantage that they are very specific to the 16S rRNA of the investigated bacteria and they can be used as a first simple approach to identify potential microbial symbionts associated with freshwater crustaceans. Finally, our simple Sanger sequencing method is cheaper and faster than high-throughput metagenome analyses.</p>
+         <p>We discovered intracellular <italic>α</italic>-proteobacteria <italic>Wolbachia</italic> in <italic>B. schaefferi</italic> from two Polish astatic ponds and in <italic>S. cafer</italic> from South Africa (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>, <xref ref-type="table" rid="table-1">Table 1</xref>). <italic>Wolbachia</italic> is a common endosymbiotic bacterium that lives inside host cells (mainly in the ovaries and testes). There are 34,624 sequences of <italic>Wolbachia</italic> in GenBank and that large number illustrates its widespread distribution in various host animals. According to a meta-analysis of <xref ref-type="bibr" rid="ref-30">Hilgenboecker et al. (2008)</xref> as much as 66% of all arthropod species are infected with this endosymbiont. <italic>Wolbachia</italic> plays an important role in evolutionary processes and in shaping the sex structure of the host population (<xref ref-type="bibr" rid="ref-62">Stouthamer, Breeuwer &amp; Hurst, 1999</xref>; <xref ref-type="bibr" rid="ref-2">Bandi, Trees &amp; Brattig, 2001</xref>; <xref ref-type="bibr" rid="ref-45">Normark, 2003</xref>). It has been observed that this bacterium is inherited directly from mother to offspring and evolved various mechanisms for manipulating host reproduction (<xref ref-type="bibr" rid="ref-24">Funkhouser &amp; Bordenstein, 2013</xref>). These include male-killing, feminization, cytoplasmic incompatibility (CI) and induction of parthenogenesis (e.g., <xref ref-type="bibr" rid="ref-71">Werren, 1997</xref>; <xref ref-type="bibr" rid="ref-77">Zimmer, 2001</xref>; <xref ref-type="bibr" rid="ref-8">Charlat, Hurst &amp; Merçot, 2003</xref>). Moreover, its presence may be necessary for embryogenesis and development in some species or may have a beneficial effect on the functioning and life span of the host organism (<xref ref-type="bibr" rid="ref-6">Brownlie et al., 2009</xref>; <xref ref-type="bibr" rid="ref-44">Nikoh et al., 2014</xref>).</p>
+         <p>For now we can only hypothesize about the nature of the host-microbe relationship in <italic>Wolbachia</italic> and the studied anostracan Crustacea. Interestingly, we did not discover <italic>Wolbachia</italic> in parthenogenetic females of an ostracod <italic>Heterocypris incongruens</italic>. Our results seem to be in line with those of <xref ref-type="bibr" rid="ref-7">Bruvo et al. (2011)</xref> who found no evidence for <italic>Wolbachia</italic> infections in freshwater ostracods. These authors suggest that parasitic infections do not play a role in inducing parthenogenesis in Ostracoda. However, by using our method, we discovered for the first time that <italic>H. incongruens</italic> can serve as a host of bacterial endosymbionts. Therefore, the question arises whether <italic>Cardinium</italic> bacteria could manipulate reproduction of non-marine ostracods. To the best of our knowledge effects of <italic>Cardinium</italic> on host fitness are largely unknown and most reported effects relate to reproductive disorders. So far, screening studies have shown that 6–7% of all arthropod species are infected with <italic>Cardinium</italic> and recent studies have depicted an even higher prevalence of this endosymbiont in chelicerates than in insects (<xref ref-type="bibr" rid="ref-19">Duron et al., 2008</xref>). In addition, <xref ref-type="bibr" rid="ref-22">Edlund et al. (2012)</xref> observed that copepods also served as hosts for endosymbiotic <italic>Cardinium</italic>. Recently, a new group of the <italic>Cardinium</italic> genus infecting biting midges (Diptera: Ceratopogonidae) has been proposed (<xref ref-type="bibr" rid="ref-42">Nakamura et al., 2009</xref>). Endosymbionts of the <italic>Cardinium</italic>-like genus have been also described from the testes and other tissues of the proturan <italic>Acerella muscorum</italic> (<xref ref-type="bibr" rid="ref-12">Dallai et al., 2011</xref>). Until now, 866 sequences of <italic>Cardinium</italic> have been deposited in GenBank.</p>
+         <p>Four haplotypes of “<italic>Candidatus</italic> Gortzia” were observed in <italic>B. schaefferi</italic> from Poland (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Until now, only six sequences of this taxon have been deposited in GenBank which implies that this bacterial endosymbiont is either very rare or difficult to identify. “<italic>Candidatus</italic> Gortzia infectiva”, a member of the order Rickettsiales, belonging to the Holospora-like bacteria (HLB) clade, was first described by <xref ref-type="bibr" rid="ref-3">Boscaro et al. (2013)</xref> as a macronuclear endosymbiont of a free-living ciliate protist <italic>Paramecium jenningsi</italic>. It is capable of horizontal and vertical transmission in the host species and temporary infections of the macronuclei. More recently, “<italic>Candidatus</italic> Gortzia shahrazadis” was also reported as an endosymbiont of <italic>Paramecium multimicronucleatum</italic> by <xref ref-type="bibr" rid="ref-57">Serra et al. (2016)</xref>. Since then, no additional reports on these bacteria have been published. According to <xref ref-type="bibr" rid="ref-57">Serra et al. (2016)</xref> it is possible that if exposed to temperature stress, the host reaps the benefit of HLB, since these bacteria are able to enhance heat-shock gene expression of the host. Whether or not this endosymbiont has a functional role in <italic>B. schaefferi</italic> should be the subject of further research.</p>
+         <p>The methanol-oxidizing bacteria of the genus <italic>Methylophilus</italic> were identified in our study in three phylogenetically distinct species, anostracan <italic>B. schaefferi</italic>, cladoceran <italic>M. macrocopa</italic> as well as an ostracod <italic>H. incongruens</italic> (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). So far, 745 sequences of <italic>Methylophilus</italic> have been deposited in GenBank but members of this genus were rarely found as endosymbionts of other organisms. Mostly, the presence of <italic>Methylophilus</italic> was reported in urban drinking water distribution systems (<xref ref-type="bibr" rid="ref-39">Liu et al., 2012</xref>). A number of studies have revealed <italic>Methylophilus</italic> strains from the phyllosphere (or above-ground plant structures) of dog rose (<italic>Rosa cinnamomea</italic>), coltsfoot (<italic>Tussilago farfara</italic>) (<xref ref-type="bibr" rid="ref-25">Gogleva et al., 2010</xref>) and thale cress (<italic>Arabidopsis thaliana</italic>) (<xref ref-type="bibr" rid="ref-53">Reisberg et al., 2012</xref>). However, non-singleton phylotypes similar to Methylophilus have been also detected in larvae of four species of Simulium black flies (<xref ref-type="bibr" rid="ref-63">Tang et al., 2012</xref>). Only one report mentions Methylophilus from the cytoplasm and suggests an endosymbiotic relationship of these bacteria with amoeba of the genus Acanthamoeba (<xref ref-type="bibr" rid="ref-11">Choi et al., 2009</xref>). One of our discovered haplotypes (MET 1) was commonly observed in all host species: in B. schaefferi, H. incongruens and M. macrocopa inhibiting the same astatic pond (Poland—Station 3). These results suggest that horizontal transmission of Methylophilus could be possible. However, since this bacterium was also present in cysts of B. schaefferi, also vertical, maternal transmission to next generations through the host cell cytoplasm is likely to occur. Nonetheless, at the current state of knowledge a detailed experimental study is needed to determine the transmission mode of Methylophilus in case of these crustacean taxa.</p>
+         <p>‘Uncultured bacterium’ records comprised two subclades in our analysis (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). In one of these subclades, the sequences of uncultured bacterium were observed in <italic>T. cancriformis</italic> and <italic>M. brachiata</italic>. In the second subclade sequences of uncultured bacterium from <italic>B. schaefferi</italic> and <italic>B. wolfi</italic> were clustered together. It is highly interesting that the most common UCB5 haplotype was observed in both of these anostracan species, one from the site in Poland and one in South Africa (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). More in-depth study is needed to assess the nature of the interaction between these bacteria and the studied crustacean species. Nevertheless, our results suggest that the bacteria could be endosymbiotic since the phylogenetic relationships among the bacteria are correlated to those among the host taxa. Moreover, in the NCBI database, 258 out of 5,358,795 deposed, Uncultured bacterium” sequences are described as “endosymbiont”.</p>
+         <p>One sequence was identified as <italic>Spirobacillus</italic> in <italic>B. schaefferi</italic> from Poland (GenBank accession number: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450240">MH450240</ext-link>, not shown in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Until now, only 10 sequences of <italic>Spirobacillus</italic> have been deposited in GenBank. <italic>Spirobacillus cienkowskii</italic> is a cladoceran endoparasite (<xref ref-type="bibr" rid="ref-20">Ebert, 2005</xref>). The bacterium infects the hemolymph of its host and changes its color to bright-pink-red through the production of carotenoids (<xref ref-type="bibr" rid="ref-28">Green, 1959</xref>). Although analyzed specimens had a ‘normal’ color, pinkish individuals of <italic>B. schaefferi</italic> were observed in localities where the samples were collected for the present study (Gołdyn &amp; Czyż, pers. comm., 2015). The wide geographical distribution, the ability to infect many different crustacean species and the high virulence indicate that <italic>S. cienkowskii</italic> can play an important role in the ecology and evolution of its hosts (<xref ref-type="bibr" rid="ref-54">Rodrigues et al., 2008</xref>). Infected individuals have a significantly reduced fertility and life span (<xref ref-type="bibr" rid="ref-18">Duffy et al., 2005</xref>). In addition, <italic>S. cienkowskii</italic> may increase the risk of predation due to induction of a more conspicuous color (<xref ref-type="bibr" rid="ref-54">Rodrigues et al., 2008</xref>).</p>
+         <p>Finally, we identified <italic>Undibacterium</italic> in <italic>B. schaefferi</italic> from Poland (GenBank accession number: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=mH450134">mH450134</ext-link>, not shown in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). <italic>Undibacterium</italic> is a genus of typically aquatic bacteria, isolated from various sources of freshwater, e.g., drinking water, purified water, waterfalls, freshwater streams, freshwater shrimp culture ponds and also from permafrost soil (<xref ref-type="bibr" rid="ref-35">Kämpfer et al., 2007</xref>; <xref ref-type="bibr" rid="ref-21">Eder et al., 2011</xref>; <xref ref-type="bibr" rid="ref-40">Liu et al., 2013</xref>; <xref ref-type="bibr" rid="ref-36">Kim et al., 2014</xref>; <xref ref-type="bibr" rid="ref-58">Sheu et al., 2014a</xref>; <xref ref-type="bibr" rid="ref-59">Sheu et al., 2014b</xref>; <xref ref-type="bibr" rid="ref-16">Du et al., 2015</xref>; <xref ref-type="bibr" rid="ref-43">Nguyen, Lee &amp; Kim, 2015</xref>; <xref ref-type="bibr" rid="ref-10">Chen et al., 2017</xref>). In addition, it was isolated from shrimp intestines (<xref ref-type="bibr" rid="ref-55">Rungrassamee et al., 2014</xref>) and from zebrafish <italic>Danio rerio</italic> (<xref ref-type="bibr" rid="ref-34">Kämpfer et al., 2016</xref>). The genus <italic>Undibacterium</italic> has been described in host-associated symbiotic microbial communities (<xref ref-type="bibr" rid="ref-32">Jani &amp; Briggs, 2014</xref>) and 132 sequences of <italic>Undibacterium</italic> have been deposited in GenBank.</p>
+      </sec>
+      <sec>
+         <title>Conclusion</title>
+         <p>Until now, sequencing of unknown bacterial endosymbionts was very challenging and species-specific primers were necessary to amplify 16S rRNA sequences of each specific bacterial endosymbiont. Nevertheless, primer specificity not always allows for detection of bacterial endosymbionts from a sample containing a large variety of microorganisms. Under such conditions interfering PCR products confound the results. Our newly designed non-degenerate primers allow amplification of the 16S rRNA region of different bacterial species with an efficiency of 100%. By applying the method, we were able to deliver the first evidence of the presence of various bacterial endosymbionts in several freshwater crustacean host species. Therefore, we propose to use the newly designed WOLBSL and WOLBSR primers at the first stage of endosymbiont bacterial identification. Subsequently, commonly used primers for amplifying specific 16S rRNA regions of given bacteria can be used.</p>
+         <p>The newly designed primers amplify only prokaryotic 16S rRNA, since we obtained only sequences of bacteria and none that could be ascribed to any of the host species. Main advantages of our primer approach include a high specificity to bacterial DNA and reduced expenses due to a high sequencing yield. Furthermore, the primers are generic with regard to the host on which they are applicable. Overall, we believe that our fast and simple identification method of bacterial endosymbionts will facilitate studies on interactions and co-speciation between bacteria and invertebrates inhabiting temporary ponds.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/6039/Candidatus_Gortzia__endosymbiont_of_Branchipus_schaefferi.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>The 16S rRNA sequences of Candidatus Gortzia endosymbiont of <italic>Branchipus schaefferi</italic></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/6039/Cardinium___endosymbiont_of_Heterocypris_incongruens.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>The 16S rRNA sequences of Cardinium endosymbiont of <italic>Heterocypris incongruens</italic></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/6039/Methylophilus_from_crustacea_species.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>The 16S rRNA sequences of Methylophilus amplified from crustacea species</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/6039/Spirobacillus.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-4</object-id><label>Supplemental Information 4</label><caption>
+               <title>The 16S rRNA sequence of Spirobacillus amplified from <italic>Branchipus schaefferi</italic></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/6039/Uncultured_bacterium_of_Crustacea.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-5</object-id><label>Supplemental Information 5</label><caption>
+               <title>The 16S rRNA sequences of Uncultured bacterium of Crustacea</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/6039/Undibacterium.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-6</object-id><label>Supplemental Information 6</label><caption>
+               <title>The 16S rRNA sequence of Undibacterium amplified from <italic>Branchipus schaefferi</italic></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-7" xlink:href="https://peerj.com/articles/6039/Wolbachia__endosymbiont_of_Streptocephalus_cafer.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-7</object-id><label>Supplemental Information 7</label><caption>
+               <title>The 16S rRNA sequence of Wolbachia endosymbiont of <italic>Streptocephalus cafer</italic></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-8" xlink:href="https://peerj.com/articles/6039/Wolbachia_endosymbiont_of_Branchipus_schaefferi_I.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-8</object-id><label>Supplemental Information 8</label><caption>
+               <title>The 16S rRNA sequence of Wolbachia endosymbiont of <italic>Branchipus schaefferi</italic></title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-9" xlink:href="https://peerj.com/articles/6039/Wolbachia_endosymbiont_of_Branchipus_schaefferi_II.fas">
+            <object-id pub-id-type="doi">10.7717/peerj.6039/supp-9</object-id><label>Supplemental Information 9</label><caption>
+               <title>The 16S rRNA sequences of Wolbachia endosymbiont of <italic>Branchipus schaefferi</italic></title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We are grateful to Dr. Anna Wysocka (University of Gdansk, Poland) for providing the <italic>Heterocypris incongruens</italic> sample from Italy.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Monika Mioduchowska</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Michał Jan Czyż</xref> and <xref ref-type="contrib" rid="author-3">Bartłomiej Gołdyn</xref> analyzed the data, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Adrianna Kilikowska</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Tadeusz Namiotko</xref>, <xref ref-type="contrib" rid="author-6">Tom Pinceel</xref> and <xref ref-type="contrib" rid="author-7">Małgorzata Łaciak</xref> contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-8" fn-type="con"><p><xref ref-type="contrib" rid="author-8">Jerzy Sell</xref> authored or reviewed drafts of the paper, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>DNA Deposition</title><fn id="addinfo-1"><p>The following information was supplied regarding the deposition of DNA sequences:</p>
+            <p>The bacterial 16S rRNA sequences described here are accessible via GenBank accession numbers: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH376280">MH376280</ext-link> to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH376282">MH376282</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447357">MH447357</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447361">MH447361</ext-link> to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447365">MH447365</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447385">MH447385</ext-link> to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447392">MH447392</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447689">MH447689</ext-link>, to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH447702">MH447702</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450134">MH450134</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450232">MH450232</ext-link>, to <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450236">MH450236</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH450240">MH450240</ext-link>, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH454491">MH454491</ext-link>.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-2"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw measurements are provided in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Altshul et al. (1990)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Altshul</surname>
+                     <given-names>SF</given-names>
+                  </name>
+                  <name>
+                     <surname>Gish</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Myers</surname>
+                     <given-names>EW</given-names>
+                  </name>
+                  <name>
+                     <surname>Lipman</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1990">1990</year>
+               <article-title>Basic local alignment search tool</article-title>
+               <source>Journal of Molecular Biology</source>
+               <volume>215</volume>
+               <fpage>403</fpage>
+               <lpage>410</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0022-2836(05)80360-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Bandi, Trees &amp; Brattig (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bandi</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Trees</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Brattig</surname>
+                     <given-names>NW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title><italic>Wolbachia</italic> in filarial nematodes: evolutionary aspects and implications for the pathogenesis and treatment of filarial diseases</article-title>
+               <source>Veterinary Parasitology</source>
+               <volume>98</volume>
+               <issue>1–3</issue>
+               <fpage>215</fpage>
+               <lpage>238</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0304-4017(01)00432-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Boscaro et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Boscaro</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Fokin</surname>
+                     <given-names>SI</given-names>
+                  </name>
+                  <name>
+                     <surname>Schrallhammer</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Schweikert</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Petroni</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Revised systematics of <italic>Holospora</italic>-like bacteria and characterization of “<italic>Candidatus</italic> Gortzia infectiva”, a novel macronuclear symbiont of <italic>Paramecium jenningsi</italic></article-title>
+               <source>Microbial Ecology</source>
+               <volume>65</volume>
+               <fpage>255</fpage>
+               <lpage>267</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00248-012-0110-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Brendonck &amp; Meester (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brendonck</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>De Meester</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Egg banks in freshwater zooplankton: evolutionary and ecological archives in the sediment</article-title>
+               <source>Hydrobiologia</source>
+               <volume>491</volume>
+               <issue>1–3</issue>
+               <fpage>65</fpage>
+               <lpage>84</lpage>
+               <pub-id pub-id-type="doi">10.1023/A:1024454905119</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Brendonck, Pinceel &amp; Ortells (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brendonck</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Pinceel</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortells</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Dormancy and dispersal as mediators of zooplankton population and community dynamics along a hydrological disturbance gradient in inland temporary pools</article-title>
+               <source>Hydrobiologia</source>
+               <volume>796</volume>
+               <issue>1</issue>
+               <fpage>201</fpage>
+               <lpage>222</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10750-016-3006-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Brownlie et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brownlie</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Cass</surname>
+                     <given-names>BN</given-names>
+                  </name>
+                  <name>
+                     <surname>Riegler</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Witsenburg</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Iturbe-Ormaetxe</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>McGraw</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Neil</surname>
+                     <given-names>SL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Evidence for metabolic provisioning by a common invertebrate endosymbiont, <italic>Wolbachia pipientis</italic>, during periods of nutritional stress</article-title>
+               <source>PLOS Pathogens</source>
+               <volume>5</volume>
+               <issue>4</issue>
+               <elocation-id>e1000368</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.ppat.1000368</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Bruvo et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bruvo</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Adolfsson</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Symonova</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Lamatsch</surname>
+                     <given-names>DK</given-names>
+                  </name>
+                  <name>
+                     <surname>Schön</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Jokela</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Butlin</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Müller</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Few parasites, and no evidence for <italic>Wolbachia</italic> infections in a freshwater ostracod inhabiting temporary ponds</article-title>
+               <source>Biological Journal of the Linnaean Society of London</source>
+               <volume>102</volume>
+               <fpage>208</fpage>
+               <lpage>216</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1095-8312.2010.01556.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Charlat, Hurst &amp; Merçot (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Charlat</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurst</surname>
+                     <given-names>GDD</given-names>
+                  </name>
+                  <name>
+                     <surname>Merçot</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Evolutionary consequences of <italic>Wolbachia</italic> infections</article-title>
+               <source>Trends in Genetics</source>
+               <volume>19</volume>
+               <issue>4</issue>
+               <fpage>217</fpage>
+               <lpage>223</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0168-9525(03)00024-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Chaston &amp; Goodrich-Blair (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chaston</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Goodrich-Blair</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Common trends in mutualism revealed by model associations between invertebrates and bacteria</article-title>
+               <source>FEMS Microbiology Reviews</source>
+               <volume>34</volume>
+               <issue>1</issue>
+               <fpage>41</fpage>
+               <lpage>58</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1574-6976.2009.00193.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Chen et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>W-M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hsieh</surname>
+                     <given-names>T-Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>C-C</given-names>
+                  </name>
+                  <name>
+                     <surname>Sheu</surname>
+                     <given-names>S-Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title><italic>Undibacterium amnicola</italic> sp. nov., isolated from a freshwater stream</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>67</volume>
+               <fpage>5094</fpage>
+               <lpage>5101</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijsem.0.002422</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Choi et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Choi</surname>
+                     <given-names>SH</given-names>
+                  </name>
+                  <name>
+                     <surname>Cho</surname>
+                     <given-names>MK</given-names>
+                  </name>
+                  <name>
+                     <surname>Ahn</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>D-H</given-names>
+                  </name>
+                  <name>
+                     <surname>Xuan</surname>
+                     <given-names>Y-H</given-names>
+                  </name>
+                  <name>
+                     <surname>Hong</surname>
+                     <given-names>YC</given-names>
+                  </name>
+                  <name>
+                     <surname>Kong</surname>
+                     <given-names>HH</given-names>
+                  </name>
+                  <name>
+                     <surname>Chung</surname>
+                     <given-names>D-I</given-names>
+                  </name>
+                  <name>
+                     <surname>Yu</surname>
+                     <given-names>HS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Endosymbionts of <italic>Acanthamoeba</italic> isolated from domestic tap water in Korea</article-title>
+               <source>Korean Journal of Parasitology</source>
+               <volume>47</volume>
+               <fpage>337</fpage>
+               <lpage>344</lpage>
+               <pub-id pub-id-type="doi">10.3347/kjp.2009.47.4.337</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Dallai et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dallai</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Mercati</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Giusti</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Gottardo</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Carapelli</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>A <italic>Cardinium</italic>-like symbiont in the proturan <italic>Acerella muscorum</italic> (Hexapoda)</article-title>
+               <source>Tissue and Cell</source>
+               <volume>43</volume>
+               <fpage>151</fpage>
+               <lpage>156</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tice.2011.01.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Darriba et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Darriba</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Taboada</surname>
+                     <given-names>GL</given-names>
+                  </name>
+                  <name>
+                     <surname>Doallo</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Posada</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>jModelTest 2: more models, new heuristics and paralel computing</article-title>
+               <source>Nature Methods</source>
+               <volume>9</volume>
+               <fpage>772</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Dattagupta et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dattagupta</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Schaperdoth</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Montanari</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Mariani</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Kita</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Valley</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Macalady</surname>
+                     <given-names>JL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>A novel symbiosis between chemoautotrophic bacteria and a freshwater cave amphipod</article-title>
+               <source>The ISME Journal</source>
+               <volume>3</volume>
+               <fpage>935</fpage>
+               <lpage>943</lpage>
+               <pub-id pub-id-type="doi">10.1038/ismej.2009.34</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>De Meester et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>De Meester</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Declerck</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Stoks</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Louette</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Van De Meutter</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>De Bie</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Michels</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Brendonck</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Ponds and pools as model systems in conservation biology, ecology and evolutionary biology</article-title>
+               <source>Aquatic Conservation: Marine and Freshwater Ecosystems</source>
+               <volume>15</volume>
+               <issue>6</issue>
+               <fpage>715</fpage>
+               <lpage>725</lpage>
+               <pub-id pub-id-type="doi">10.1002/aqc.748</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Du et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Du</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Akter</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Won</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Yin</surname>
+                     <given-names>CS</given-names>
+                  </name>
+                  <name>
+                     <surname>Kook</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Yi</surname>
+                     <given-names>T-H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title><italic>Undibacterium aquatile</italic> sp. nov. isolated from a waterfall</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>65</volume>
+               <fpage>4128</fpage>
+               <lpage>4133</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijsem.0.000545</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Dubilier, Bergin &amp; Lott (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dubilier</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Bergin</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Lott</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Symbiotic diversity in marine animals: the art of harnessing chemosynthesis</article-title>
+               <source>Nature Reviews Microbiology</source>
+               <volume>6</volume>
+               <fpage>725</fpage>
+               <lpage>740</lpage>
+               <pub-id pub-id-type="doi">10.1038/nrmicro1992</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Duffy et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Duffy</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Hall</surname>
+                     <given-names>SR</given-names>
+                  </name>
+                  <name>
+                     <surname>Tessier</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Huebner</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Selective predators and their parasitized prey: are epidemics in zooplankton under top-down control?</article-title>
+               <source>Limnology and Oceanography</source>
+               <volume>50</volume>
+               <fpage>412</fpage>
+               <lpage>420</lpage>
+               <pub-id pub-id-type="doi">10.4319/lo.2005.50.2.0412</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Duron et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Duron</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Bouchon</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Boutin</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Bellamy</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhou</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Engelstädter</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurst</surname>
+                     <given-names>GD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>The diversity of reproductive parasites among arthropods: <italic>Wolbachia</italic> do not walk alone</article-title>
+               <source>BMC Biology</source>
+               <volume>6</volume>
+               <fpage>27</fpage>
+               <pub-id pub-id-type="doi">10.1186/1741-7007-6-27</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Ebert (2005)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ebert</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <source>Ecology, epidemiology and evolution of parasitism in <italic>Daphnia</italic></source>
+               <publisher-loc>Bethesda</publisher-loc>
+               <publisher-name>National Library of Medicine (US), National Center for Biotechnology Information</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Eder et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Eder</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Wanner</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Ludwig</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Busse</surname>
+                     <given-names>H-J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ziemke-Kägeler</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Lang</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Description of <italic>Undibacterium oligocarboniphilum</italic> sp. nov. isolated from purified water, and <italic>Undibacterium pigrum</italic> strain CCUG 49012 as the type strain of <italic>Undibacterium parvum</italic> sp. nov. and emended descriptions of the genus <italic>Undibacterium</italic> and the species <italic>Undibacterium pigrum</italic></article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>61</volume>
+               <fpage>384</fpage>
+               <lpage>391</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.018648-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Edlund et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Edlund</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ek</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Breitholtz</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Gorokhova</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Antibiotic-induced change of bacterial communities associated with the copepod <italic>Nitocra spinipes</italic></article-title>
+               <source>PLOS ONE</source>
+               <volume>7</volume>
+               <elocation-id>e33107</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0033107</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Ford &amp; Weeks (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ford</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Weeks</surname>
+                     <given-names>SC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Intersexual conflict in androdioecious clam shrimp: do androdioecious hermaphrodites evolve to avoid mating with males?</article-title>
+               <source>Ethology</source>
+               <volume>124</volume>
+               <issue>5</issue>
+               <fpage>357</fpage>
+               <lpage>364</lpage>
+               <pub-id pub-id-type="doi">10.1111/eth.12738</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Funkhouser &amp; Bordenstein (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Funkhouser</surname>
+                     <given-names>LJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Bordenstein</surname>
+                     <given-names>SR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Mom knows best: the universality of maternal microbial transmission</article-title>
+               <source>PLOS Biology</source>
+               <volume>11</volume>
+               <issue>8</issue>
+               <elocation-id>e100163</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pbio.1001631</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Gogleva et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gogleva</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kaparullina</surname>
+                     <given-names>EN</given-names>
+                  </name>
+                  <name>
+                     <surname>Doronina</surname>
+                     <given-names>NV</given-names>
+                  </name>
+                  <name>
+                     <surname>Trotsenko</surname>
+                     <given-names>YA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title><italic>Methylophilus flavus</italic> sp. nov. and <italic>Methylophilus luteus</italic> sp. nov. aerobic methylotrophic bacteria associated with plants</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>60</volume>
+               <fpage>2623</fpage>
+               <lpage>2628</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.019455-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Gotoh, Noda &amp; Ito (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gotoh</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Noda</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Ito</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title><italic>Cardinium</italic> symbionts cause cytoplasmic incompatibility in spider mites</article-title>
+               <source>Heredity</source>
+               <volume>98</volume>
+               <fpage>13</fpage>
+               <lpage>20</lpage>
+               <pub-id pub-id-type="doi">10.1038/sj.hdy.6800881</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Gottlieb et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gottlieb</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Ghanim</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Chiel</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerling</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Portnoy</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Steinberg</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Tzuri</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Horowitz</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Belausov</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Mozes-Daube</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Kontsedalov</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Gershon</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Gal</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Katzir</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Zchori-Fein</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Identifcation and localization of a <italic>Rickettsia</italic> sp. in <italic>Bemisia tabaci</italic> (Homoptera: Aleyrodidae)</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>72</volume>
+               <fpage>3646</fpage>
+               <lpage>3652</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.72.5.3646-3652.2006</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Green (1959)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1959">1959</year>
+               <article-title>Carotenoid pigment in <italic>Spirobacillus cienkowskii</italic> Metchnikoff, a pathogen of Cladocera</article-title>
+               <source>Nature</source>
+               <volume>183</volume>
+               <fpage>56</fpage>
+               <lpage>57</lpage>
+               <pub-id pub-id-type="doi">10.1038/183056a0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Hall (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hall</surname>
+                     <given-names>TA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>BioEdit: a user friendly biological sequence alignment editor and analysis program for Windows 95/98/NT</article-title>
+               <source>Nucleic Acids Symposium Series</source>
+               <volume>41</volume>
+               <fpage>95</fpage>
+               <lpage>98</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Hilgenboecker et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hilgenboecker</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Hammerstein</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Schlattmann</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Telschow</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Werren</surname>
+                     <given-names>JH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>How many species are infected with <italic>Wolbachia</italic>? A statistical analysis of current data</article-title>
+               <source>FEMS Microbiology Letters</source>
+               <volume>281</volume>
+               <fpage>215</fpage>
+               <lpage>220</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1574-6968.2008.01110.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Hurst et al. (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hurst</surname>
+                     <given-names>GD</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Schulenburg</surname>
+                     <given-names>JH</given-names>
+                  </name>
+                  <name>
+                     <surname>Fuyama</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Male-killing <italic>Wolbachia</italic> in <italic>Drosophila</italic>: a temperature-sensitive trait with a threshold bacterial density</article-title>
+               <source>Genetics</source>
+               <volume>156</volume>
+               <fpage>699</fpage>
+               <lpage>709</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Jani &amp; Briggs (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jani</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Briggs</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>The pathogen <italic>Batrachochytrium dendrobatidis</italic> disturbs the frog skin microbiome during a natural epidemic and experimental infection</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>111</volume>
+               <fpage>E5049</fpage>
+               <lpage>E5058</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1412752111</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Kageyama, Narita &amp; Watanabe (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kageyama</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Narita</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Watanabe</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Insect sex determination manipulated by their endosymbionts: incidences, mechanisms and implications</article-title>
+               <source>Insects</source>
+               <volume>3</volume>
+               <fpage>161</fpage>
+               <lpage>199</lpage>
+               <pub-id pub-id-type="doi">10.3390/insects3010161</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Kämpfer et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kämpfer</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Irgang</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Busse</surname>
+                     <given-names>HJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Poblete-Morales</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kleinhagauer</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Glaeser</surname>
+                     <given-names>SP</given-names>
+                  </name>
+                  <name>
+                     <surname>Avendaño Herrera</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title><italic>Undibacterium danionis</italic> sp. nov. isolated from a zebrafish (<italic>Danio rerio</italic>)</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>66</volume>
+               <issue>9</issue>
+               <fpage>3625</fpage>
+               <lpage>3631</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijsem.0.001244</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Kämpfer et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kämpfer</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Rosselló-Mora</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Hermansson</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Persson</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Huber</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Falsen</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Busse</surname>
+                     <given-names>H-J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title><italic>Undibacterium pigrum</italic> gen. nov. sp. nov. isolated from drinking water</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>57</volume>
+               <fpage>1510</fpage>
+               <lpage>1515</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.64785-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Kim et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>S-J</given-names>
+                  </name>
+                  <name>
+                     <surname>Moon</surname>
+                     <given-names>J-Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Weon</surname>
+                     <given-names>H-Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Hong</surname>
+                     <given-names>S-B</given-names>
+                  </name>
+                  <name>
+                     <surname>Seok</surname>
+                     <given-names>S-J</given-names>
+                  </name>
+                  <name>
+                     <surname>Kwon</surname>
+                     <given-names>S-W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title><italic>Undibacterium jejuense</italic> sp. nov. and <italic>Undibacterium seohonense</italic> sp. nov. isolated from soil and freshwater, respectively</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>64</volume>
+               <fpage>236</fpage>
+               <lpage>241</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.056846-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Kumar, Stecher &amp; Tamura (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Stecher</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Tamura</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>MEGA7: molecular Evolutionary Genetics Analysis version 7.0 for bigger datasets</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>33</volume>
+               <issue>7</issue>
+               <fpage>1870</fpage>
+               <lpage>1874</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msw054</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Librado &amp; Rozas (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Librado</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Rozas</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>DnaSP v5: a software for comprehensive analysis of DNA polymorphism data</article-title>
+               <source>Bioinformatics</source>
+               <volume>25</volume>
+               <fpage>1451</fpage>
+               <lpage>1452</lpage>
+               <pub-id pub-id-type="doi">10.1093/bioinformatics/btp187</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Liu et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Yu</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Shi</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Diversity of bacteria and mycobacteria in biofilms of two urban drinking water distribution systems</article-title>
+               <source>Canadian Journal of Microbiology</source>
+               <volume>58</volume>
+               <issue>3</issue>
+               <fpage>261</fpage>
+               <lpage>270</lpage>
+               <pub-id pub-id-type="doi">10.1139/w11-129</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Liu et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>Y-Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>B-J</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhou</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>S-J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title><italic>Undibacterium terreum</italic> sp. nov. isolated from permafrost soil</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>63</volume>
+               <fpage>2296</fpage>
+               <lpage>2300</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.043927-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Muyzer et al. (1996)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Muyzer</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Hottentrager</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Teske</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Wawer</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>Denaturing gradient gel electrophoresis of PCR amplifed 16s rDNA: a new molecular approach to analyze the genetic diversity of mixed microbial communities</article-title>
+               <source>Molecular microbial ecology manual 3.4.4</source>
+               <publisher-name>Kluwer Academic Publishers</publisher-name>
+               <publisher-loc>the Netherlands</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Akkermans</surname>
+                     <given-names>ADL</given-names>
+                  </name>
+                  <name>
+                     <surname>Van Elsas</surname>
+                     <given-names>JD</given-names>
+                  </name>
+                  <name>
+                     <surname>de Bruijn</surname>
+                     <given-names>FJ</given-names>
+                  </name>
+               </person-group>
+               <fpage>1</fpage>
+               <lpage>23</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Nakamura et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nakamura</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Kawai</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Yukuhiro</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Ito</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Gotoh</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Kisimoto</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Yanase</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Matsumoto</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Kageyama</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Noda</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Prevalence of <italic>Cardinium</italic> bacteria in planthoppers and spider mites and taxonomic revision of <italic>Candidatus Cardinium</italic> hertigii based on detection of a new <italic>Cardinium</italic> group from biting midges</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>75</volume>
+               <fpage>6757</fpage>
+               <lpage>6763</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.01583-09</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Nguyen, Lee &amp; Kim (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Further finding of antimicribial and antifungal activities against human pathegens by using the isolates to inhibit the growth of <italic>Paenibacillus lavae</italic>, an Agent of AFB</article-title>
+               <source>Journal of Apiculture</source>
+               <volume>30</volume>
+               <issue>1</issue>
+               <fpage>37</fpage>
+               <lpage>44</lpage>
+               <pub-id pub-id-type="doi">10.17519/apiculture.2015.04.30.1.37</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Nikoh et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nikoh</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Hosokawa</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Moriyama</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Oshima</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Hattori</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Fukatsu</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Evolutionary origin of insect- Wolbachia nutritional mutualism</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>111</volume>
+               <issue>28</issue>
+               <fpage>10257</fpage>
+               <lpage>10262</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1409284111</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Normark (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Normark</surname>
+                     <given-names>BB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>The evolution of alternative genetic systems in insects</article-title>
+               <source>Annual Review of Entomology</source>
+               <volume>48</volume>
+               <fpage>397</fpage>
+               <lpage>423</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.ento.48.091801.112703</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Ott, Bright &amp; Bulgheresi (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ott</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Bright</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bulgheresi</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Marine microbial thiotrophic ectosymbioses</article-title>
+               <source>Oceanography and Marine Biology: An Annual Review</source>
+               <volume>42</volume>
+               <fpage>95</fpage>
+               <lpage>118</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Pais et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pais</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Lohs</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Aksoy</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>The obligate mutualist <italic>Wigglesworthia glossinidia</italic> influences reproduction, digestion, and immunity processes of its host, the tsetse fly</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>74</volume>
+               <fpage>5965</fpage>
+               <lpage>5974</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.00741-08</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Perez-Brocal, Latorre &amp; Moya (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Perez-Brocal</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Latorre</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Moya</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Symbionts and pathogens: what is the difference?</article-title>
+               <source>Current Topics In Microbiology And Immunology</source>
+               <volume>358</volume>
+               <fpage>215</fpage>
+               <lpage>243</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Perkins, Budinoff &amp; Siddall (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Perkins</surname>
+                     <given-names>SL</given-names>
+                  </name>
+                  <name>
+                     <surname>Budinoff</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                  <name>
+                     <surname>Siddall</surname>
+                     <given-names>ME</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>New Gammaproteobacteria associated with blood-feeding leeches and a broad phylogenetic analysis of leech endosymbionts</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>71</volume>
+               <issue>9</issue>
+               <fpage>5219</fpage>
+               <lpage>5224</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.71.9.5219-5224.2005</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Pilgrim et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pilgrim</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ander</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Garros</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Baylis</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurst</surname>
+                     <given-names>GDD</given-names>
+                  </name>
+                  <name>
+                     <surname>Siozios</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title><italic>Torix</italic> group <italic>Rickettsia</italic> are widespread in <italic>Culicoides</italic> biting midges (Diptera: Ceratopogonidae), reach high frequency and carry unique genomic features</article-title>
+               <source>Environmental Microbiology</source>
+               <volume>19</volume>
+               <issue>10</issue>
+               <fpage>4238</fpage>
+               <lpage>4255</lpage>
+               <pub-id pub-id-type="doi">10.1111/1462-2920.13887</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Pontes &amp; Dale (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pontes</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name>
+                     <surname>Dale</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Culture and manipulation of insect facultative symbionts</article-title>
+               <source>Trends in Microbiology</source>
+               <volume>14</volume>
+               <fpage>406</fpage>
+               <lpage>412</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tim.2006.07.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>R Core Team (2018)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>R Core Team</collab>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <data-title>R: a language and environment for statistical computing</data-title>
+               <publisher-name>R Foundation for Statistical Computing</publisher-name>
+               <publisher-loc>Vienna</publisher-loc>
+               <uri>https://www.R-project.org/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Reisberg et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Reisberg</surname>
+                     <given-names>EE</given-names>
+                  </name>
+                  <name>
+                     <surname>Hildebrandt</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name>
+                     <surname>Riederer</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hentschel</surname>
+                     <given-names>U</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Phyllosphere bacterial communities of trichome-bearing and trichomeless <italic>Arabidopsis thaliana</italic> leaves</article-title>
+               <source>Antonie van Leeuwenhoek</source>
+               <volume>101</volume>
+               <fpage>551</fpage>
+               <lpage>560</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10482-011-9669-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Rodrigues et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodrigues</surname>
+                     <given-names>JLM</given-names>
+                  </name>
+                  <name>
+                     <surname>Duffy</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Tessier</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Ebert</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Mouton</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Schmidt</surname>
+                     <given-names>TM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Phylogenetic characterization and prevalence of <italic>Spirobacillus cienkowskii</italic>, a red-pigmented, spiral-shaped bacterial pathogen of freshwater <italic>Daphnia</italic> species</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>74</volume>
+               <issue>5</issue>
+               <fpage>1575</fpage>
+               <lpage>1582</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.02438-07</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Rungrassamee et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rungrassamee</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Klanchui</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Maibunkaew</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Chaiyapechara</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jiravanichpaisal</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Karoonuthaisiri</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Characterization of intestinal bacteria in wild and domesticated adult black tiger shrimp (<italic>Penaeus monodon</italic>)</article-title>
+               <source>PLOS ONE</source>
+               <volume>9</volume>
+               <issue>3</issue>
+               <elocation-id>e91853</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0091853</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Sassaman (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sassaman</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Sex determination and evolution of unisexuality in the Conchostraca</article-title>
+               <source>Hydrobiologia</source>
+               <volume>298</volume>
+               <issue>1–3</issue>
+               <fpage>45</fpage>
+               <lpage>65</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF00033799</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>Serra et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Serra</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Fokin</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Castelli</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Basuri</surname>
+                     <given-names>CK</given-names>
+                  </name>
+                  <name>
+                     <surname>Nitla</surname>
+                     <given-names>VM</given-names>
+                  </name>
+                  <name>
+                     <surname>Verni</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Sandeep</surname>
+                     <given-names>BV</given-names>
+                  </name>
+                  <name>
+                     <surname>Kalavati</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Petroni</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title><italic>“Candidatus Gortzia</italic> shahrazadis”, a novel endosymbiont of <italic>Paramecium multimicronucleatum</italic> and revision of biogeographical distribution of <italic>Holospora</italic>-like bacteria</article-title>
+               <source>Frontiers in Microbiology</source>
+               <volume>7</volume>
+               <fpage>1704</fpage>
+               <pub-id pub-id-type="doi">10.3389/fmicb.2016.01704</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>Sheu et al. (2014a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sheu</surname>
+                     <given-names>S-Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>Y-S</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>J-C</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>W-M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014a</year>
+               <article-title><italic>Undibacterium macrobrachii</italic> sp. nov. isolated from a freshwater shrimp culture pond</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>64</volume>
+               <fpage>1036</fpage>
+               <lpage>1042</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.057661-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>Sheu et al. (2014b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sheu</surname>
+                     <given-names>S-Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>Y-S</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>J-C</given-names>
+                  </name>
+                  <name>
+                     <surname>Kwon</surname>
+                     <given-names>S-W</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>W-M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014b</year>
+               <article-title><italic>Undibacterium squillarum</italic> sp. nov. isolated from a freshwater shrimp culture pond</article-title>
+               <source>International Journal of Systematic and Evolutionary Microbiology</source>
+               <volume>64</volume>
+               <fpage>3459</fpage>
+               <lpage>3466</lpage>
+               <pub-id pub-id-type="doi">10.1099/ijs.0.065185-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-60"><label>Singh et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>ST</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramamurthy</surname>
+                     <given-names>VV</given-names>
+                  </name>
+                  <name>
+                     <surname>Rajagopal</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Detection and localization of <italic>Rickettsia</italic> sp. in mealybug</article-title>
+               <source>Environmental Entomology</source>
+               <volume>42</volume>
+               <fpage>711</fpage>
+               <lpage>716</lpage>
+               <pub-id pub-id-type="doi">10.1603/EN13032</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-61"><label>Smith (2001)</label><element-citation publication-type="book">
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>DG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <source>Pennak’s freshwater invertebrates of the United States: porifera to Crustacea</source>
+               <publisher-name>John Wiley and Sons Inc</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <edition designator="4">4th edition</edition>
+            </element-citation>
+         </ref>
+         <ref id="ref-62"><label>Stouthamer, Breeuwer &amp; Hurst (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Stouthamer</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Breeuwer</surname>
+                     <given-names>JAJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurst</surname>
+                     <given-names>GDD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title><italic>Wolbachia pipientis</italic>: microbial manipulator of arthropod reproduction</article-title>
+               <source>Annual Review of Microbiology</source>
+               <volume>53</volume>
+               <fpage>71</fpage>
+               <lpage>102</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.micro.53.1.71</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-63"><label>Tang et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Adler</surname>
+                     <given-names>PH</given-names>
+                  </name>
+                  <name>
+                     <surname>Vogel</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Ping</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Gender-specific bacterial composition of black flies (Diptera: Simuliidae)</article-title>
+               <source>FEMS Microbiology Ecology</source>
+               <volume>80</volume>
+               <issue>3</issue>
+               <fpage>659</fpage>
+               <lpage>670</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1574-6941.2012.01335.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-64"><label>Thompson et al. (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thompson</surname>
+                     <given-names>JD</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibson</surname>
+                     <given-names>TJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Plewniak</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Jeanmougin</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Higgins</surname>
+                     <given-names>DG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools</article-title>
+               <source>Nucleic Acids Research</source>
+               <volume>25</volume>
+               <fpage>4876</fpage>
+               <lpage>4882</lpage>
+               <pub-id pub-id-type="doi">10.1093/nar/25.24.4876</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-65"><label>Toft &amp; Andersson (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Toft</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Andersson</surname>
+                     <given-names>SGE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Evolutionary microbial genomics: insights into bacterial host adaptation</article-title>
+               <source>Nature Reviews Genetics</source>
+               <volume>11</volume>
+               <fpage>465</fpage>
+               <lpage>475</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-66"><label>Untergasser et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Untergasser</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Cutcutache</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Koressaar</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Ye</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Faircloth</surname>
+                     <given-names>BC</given-names>
+                  </name>
+                  <name>
+                     <surname>Remm</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Rozen</surname>
+                     <given-names>SG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Primer3—new capabilities and interfaces</article-title>
+               <source>Nucleic Acids Research</source>
+               <volume>40</volume>
+               <issue>15</issue>
+               <fpage>e115</fpage>
+               <pub-id pub-id-type="doi">10.1093/nar/gks596</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-67"><label>Vecchi et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vecchi</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Newton</surname>
+                     <given-names>ILG</given-names>
+                  </name>
+                  <name>
+                     <surname>Cesari</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Rebecchi</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Guidetti</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>The microbial community of tardigrades: environmental influence and species specificity of microbiome structure and composition</article-title>
+               <source>Microbial Ecology</source>
+               <pub-id pub-id-type="doi">10.1007/s00248-017-1134-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-68"><label>Wang et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Ren</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ke</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Huang</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>Z</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Ultrasensitive detection of bacteria by targeting abundant transcripts</article-title>
+               <source>Scientific Reports</source>
+               <volume>6</volume>
+               <fpage>20393</fpage>
+               <pub-id pub-id-type="doi">10.1038/srep20393</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-69"><label>Weeks et al. (2014a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weeks</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Benvenuto</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Reed</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Duff</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Duan</surname>
+                     <given-names>Z-H</given-names>
+                  </name>
+                  <name>
+                     <surname>David</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014a</year>
+               <article-title>A field test of a model for the stability of androdioecy in the freshwater shrimp, <italic>Eulimnadia texana</italic></article-title>
+               <source>Journal of Evolutionary Biology</source>
+               <volume>27</volume>
+               <issue>10</issue>
+               <fpage>2080</fpage>
+               <lpage>2095</lpage>
+               <pub-id pub-id-type="doi">10.1111/jeb.12459</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-70"><label>Weeks et al. (2014b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weeks</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Brantner</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Astrop</surname>
+                     <given-names>TI</given-names>
+                  </name>
+                  <name>
+                     <surname>Ott</surname>
+                     <given-names>DW</given-names>
+                  </name>
+                  <name>
+                     <surname>Rabet</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014b</year>
+               <article-title>The evolution of hermaphroditism from dioecy in crustaceans: selfing hermaphroditism described in a fourth spinicaudatan genus</article-title>
+               <source>Evolutionary Biology</source>
+               <volume>41</volume>
+               <issue>2</issue>
+               <fpage>251</fpage>
+               <lpage>261</lpage>
+               <pub-id pub-id-type="doi">10.1007/s11692-013-9265-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-71"><label>Werren (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Werren</surname>
+                     <given-names>JH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Biology of <italic>Wolbachia</italic></article-title>
+               <source>Annual Review of Entomology</source>
+               <volume>42</volume>
+               <fpage>587</fpage>
+               <lpage>609</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev.ento.42.1.587</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-72"><label>Werren, Baldo &amp; Clark (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Werren</surname>
+                     <given-names>JH</given-names>
+                  </name>
+                  <name>
+                     <surname>Baldo</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Clark</surname>
+                     <given-names>ME</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title><italic>Wolbachia</italic>: master manipulators of invertebrate biology</article-title>
+               <source>Nature Reviews Microbiology</source>
+               <volume>6</volume>
+               <fpage>741</fpage>
+               <lpage>751</lpage>
+               <pub-id pub-id-type="doi">10.1038/nrmicro1969</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-73"><label>Williams (2006)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>DD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <source>The biology of temporary waters</source>
+               <publisher-name>Oxford University Press Inc</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-74"><label>Winter (2017)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Winter</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <source>rentrez: entrez in R</source>
+               <version designator="1.1.0">R package version 1.1.0</version>
+               <uri>https://CRAN.R-project.org/package=rentrez</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-75"><label>Yamamoto (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yamamoto</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>PCR in diagnosis of infection: detection of bacteria in cerebrospinal fluids</article-title>
+               <source>Clinical and Diagnostic Laboratory Immunology</source>
+               <volume>9</volume>
+               <fpage>508</fpage>
+               <lpage>514</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-76"><label>Zhang, Zhao &amp; Hong (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>X-F</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhao</surname>
+                     <given-names>D-X</given-names>
+                  </name>
+                  <name>
+                     <surname>Hong</surname>
+                     <given-names>X-Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title><italic>Cardinium</italic>—the leading factor of cytoplasmic incompatibility in the planthopper <italic>Sogatella furcifera</italic> doubly infected with <italic>Wolbachia</italic> and <italic>Cardinium</italic></article-title>
+               <source>Environmental Entomology</source>
+               <volume>41</volume>
+               <issue>4</issue>
+               <fpage>833</fpage>
+               <lpage>840</lpage>
+               <pub-id pub-id-type="doi">10.1603/EN12078</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-77"><label>Zimmer (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zimmer</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Wolbachia: a tale of sex and survival</article-title>
+               <source>Science</source>
+               <volume>292</volume>
+               <fpage>1093</fpage>
+               <lpage>1095</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.292.5519.1093</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-78"><label>Zug &amp; Hammerstein (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zug</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Hammerstein</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Evolution of reproductive parasites with direct fitness benefits</article-title>
+               <source>Heredity</source>
+               <volume>120</volume>
+               <issue>3</issue>
+               <fpage>266</fpage>
+               <lpage>281</lpage>
+               <pub-id pub-id-type="doi">10.1038/s41437-017-0022-5</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

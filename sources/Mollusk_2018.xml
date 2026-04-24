@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">5709</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.5709</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Biodiversity</subject>
+               <subject>Biogeography</subject>
+               <subject>Marine Biology</subject>
+               <subject>Molecular Biology</subject>
+               <subject>Biological Oceanography</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Genetic population structure of the pelagic mollusk <italic>Limacina helicina</italic> in the Kara Sea</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Abyzova</surname>
+                  <given-names>Galina Anatolievna</given-names>
+               </name>
+               <email> abyzova.ga@ocean.ru</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Nikitin</surname>
+                  <given-names>Mikhail Aleksandrovich</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Popova</surname>
+                  <given-names>Olga Vladimirovna</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Pasternak</surname>
+                  <given-names>Anna Fedorovna</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Shirshov Institute of Oceanology, Russian Academy of Sciences</institution>, <city>Moscow</city>, <country>Russia</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Belozersky Institute for Physico-Chemical Biology, Lomonosov Moscow State University</institution>, <city>Moscow</city>, <country>Russia</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Palsboll</surname>
+                  <given-names>Per</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-06">
+            <day>6</day>
+            <month>11</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e5709</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-02-16">
+               <day>16</day>
+               <month>2</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-09-06">
+               <day>6</day>
+               <month>9</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Abyzova et al.</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Abyzova et al.</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/5709"/>
+         <abstract>
+            <sec>
+               <title>Background</title>
+               <p>Pelagic pteropods <italic>Limacina helicina</italic> are widespread and can play an important role in the food webs and in biosedimentation in Arctic and Subarctic ecosystems. Previous publications have shown differences in the genetic structure of populations of <italic>L. helicina</italic> from populations found in the Pacific Ocean and Svalbard area. Currently, there are no data on the genetic structure of <italic>L. helicina</italic> populations in the seas of the Siberian Arctic. We assessed the genetic structure of <italic>L. helicina</italic> from the Kara Sea populations and compared them with samples from around Svalbard and the North Pacific.</p>
+            </sec>
+            <sec>
+               <title>Methods</title>
+               <p>We examined genetic differences in <italic>L. helicina</italic> from three different locations in the Kara Sea via analysis of a fragment of the mitochondrial gene COI. We also compared a subset of samples with <italic>L. helicina</italic> from previous studies to find connections between populations from the Atlantic and Pacific Oceans.</p>
+            </sec>
+            <sec>
+               <title>Results</title>
+               <p>65 individual <italic>L. helinica</italic> from the Kara Sea were sequenced to produce 19 different haplotypes. This is comparable with numbers of haplotypes found in Svalbard and Pacific samples (24 and 25, respectively). Haplotypes from different locations sampled around the Arctic and Subarctic were combined into two different groups: H1 and H2. The H2 includes sequences from the Kara Sea and Svalbard, was present only in the Atlantic sector of the Arctic. The other genetic group, H1, is widespread and found throughout all <italic>L. helicina</italic> populations. ϕ ST analyses also indicated significant genetic difference between the Atlantic and Pacific regions, but no differences between Svalbard and the Kara Sea.</p>
+            </sec>
+            <sec>
+               <title>Discussion</title>
+               <p>The obtained results support our hypothesis about genetic similarity of <italic>L. helicina</italic> populations from the Kara Sea and Svalbard: the majority of haplotypes belongs to the haplotype group H2, with the H1 group representing a minority of the haplotypes present. In contrast, in the Canadian Arctic and the Pacific Ocean only haplogroup H1 is found. The negative values of Fu’s Fs indicate directed selection or expansion of the population. The reason for this pattern could be an isolation of the <italic>Limacina helicina</italic> population during the Pleistocene glaciation and a subsequent rapid expansion of this species after the last glacial maximum.</p>
+            </sec>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Arctic</kwd>
+            <kwd>Pteropods</kwd>
+            <kwd>Kara Sea</kwd>
+            <kwd><italic>Limacina helicina</italic></kwd>
+            <kwd>Glaciations</kwd>
+            <kwd>Genetic diversity</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>FASO Russia</funding-source>
+               <award-id>0149-2018-0009</award-id>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source> RFBR</funding-source>
+               <award-id>#16-04-00064</award-id>
+            </award-group>
+            <award-group id="fund-3">
+               <funding-source>RSF</funding-source>
+               <award-id> #14-50-00029</award-id>
+            </award-group>
+            <funding-statement>This research was performed in the framework of the state assignment of FASO Russia (theme No. 0149-2018-0009) and was supported by RFBR grant #16-04-00064 (sample collections and preparation of manuscript) and RSF grant #14-50-00029 (molecular analysis). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Pelagic pteropods <italic>Limacina helicina</italic> (Phipps, 1774) are widespread in marine Arctic and Subarctic ecosystems, where their local abundance and biomass are comparable to or greater than that of copepods (<xref ref-type="bibr" rid="ref-2">Bernard &amp; Froneman, 2005</xref>; <xref ref-type="bibr" rid="ref-13">Hunt et al., 2008</xref>). Pteropods are able to form locally dense aggregations in the water column (<xref ref-type="bibr" rid="ref-24">Percy &amp; Fife, 1985</xref>). <italic>Limacina helicina</italic> is the main food of many zooplankton organisms and predators of higher trophic levels, such as fish, whales, and birds (<xref ref-type="bibr" rid="ref-13">Hunt et al., 2008</xref>), and play a key role in the food web and in biosedimentation (<xref ref-type="bibr" rid="ref-11">Gilmer &amp; Harbison, 1986</xref>; <xref ref-type="bibr" rid="ref-23">Noji et al., 1997</xref>; <xref ref-type="bibr" rid="ref-3">Bernard &amp; Froneman, 2009</xref>; <xref ref-type="bibr" rid="ref-20">Manno et al., 2009</xref>).</p>
+         <p>The body of <italic>Limacina helicina</italic> is covered by a fragile calcium carbonate shell that protects them from predation. The aragonite composition of the shell makes these animals extremely sensitive to ocean acidification, which is expected to increase due to anthropogenic CO<sub>2</sub> emissions into the atmosphere (<xref ref-type="bibr" rid="ref-32">Teniswood et al., 2016</xref>). Consequently, this species represents a good model organism for ecological, physiological and biogeographical studies on how climate change is affecting the Arctic Ocean (<xref ref-type="bibr" rid="ref-6">Comeau et al., 2009</xref>; <xref ref-type="bibr" rid="ref-19">Lischka et al., 2011</xref>).</p>
+         <p>Despite the important role of pteropods in Arctic ecosystems, little is known about the genetic structure of <italic>L. helicina</italic> populations. A high diversity of haplotypes was found in local populations from the fjords of Svalbard (<xref ref-type="bibr" rid="ref-29">Sromek, Lasota &amp; Wolowicz, 2015</xref>), including haplotypes typical of these pteropods in the Pacific Ocean (<xref ref-type="bibr" rid="ref-28">Shimizu et al., 2017</xref>). However, studies on the genetic structure of <italic>L. helicina</italic> have not been carried out in the Siberian Arctic seas.</p>
+         <p>In the Kara Sea, pteropods are a common component of the pelagic community and their spatial distribution is patchy (<xref ref-type="bibr" rid="ref-1">Arashkevich et al., 2010</xref>; <xref ref-type="bibr" rid="ref-9">Flint et al., 2015</xref>) similar to the other areas (<xref ref-type="bibr" rid="ref-24">Percy &amp; Fife, 1985</xref>). Within patches, their abundance reached one million ind. m<sup>−2</sup>, and they are the dominant consumers of suspended matter and phytoplankton (<xref ref-type="bibr" rid="ref-7">Drits et al., 2015</xref>).</p>
+         <p>The Kara Sea is a typical shelf Siberian Arctic Sea the warm, salty water from the Barents Sea enters from the south into the Kara Sea, and the cold Arctic water penetrates from the north (<xref ref-type="bibr" rid="ref-34">Zatsepin et al., 2015</xref>). We expect that the genetic structure of the populations of <italic>L. helicina</italic> in the Kara Sea is similar to that in the Svalbard region, which is also influenced by the Barents Sea and Arctic basin waters (<xref ref-type="bibr" rid="ref-30">Stiansen &amp; Filin, 2007</xref>). In the Kara Sea, however, the effect of waters of different origin, combined with the impact of a strong river run-off, creates a mosaic of biotopes, where the genetic structure of populations can be different. We tested these hypotheses by examining intraspecific diversity of <italic>L. helicina</italic> in the Kara Sea using a fragment of the mitochondrial gene COI.</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials &amp; Methods</title>
+         <p><italic>L. helicina</italic> were selected from zooplankton samples collected during the cruise #63 of the RV Akademik Mstislav Keldysh in the Kara Sea that took place September-October 2015. Samples were collected at three different locations: station 5265 in the south of the Kara Sea and two stations in the Voronin and St. Anna troughs, 5239 and 5212, respectively (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>, <xref ref-type="table" rid="table-1">Table 1</xref>). In the top 20 m of the water column at the station AMK 5265 temperature was 6 °C and salinity was 31.4. At station AMK 5239 temperature was 1.2 °C and salinity was 30 (this station is affected by freshwater runoff and melting ice), while at station AMK 5212 in the St. Anna trough was 4.3 °C and salinity was 34.3.</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5709/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Location of the stations in the Kara Sea where <italic>L. helicina</italic> were collected. <xref ref-type="bibr" rid="ref-27">Schlitzer (2018)</xref>.</title>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5709/fig-1.png"/>
+         </fig>
+         <p>Pteropods were preserved in 96% ethanol immediately after collection. DNA was isolated from a piece of the pteropodia of large individuals (1–7 mm) or from the whole animal in case of small individuals (0.1–0.7 mm) using the ExtraGene™ DNA Prep 100 kit (Isogen, Moscow, Russia) per the manufacturer’s protocol.</p>
+         <p>Fragments of mitochondrial cytochrome oxidase subunit gene (COI) were amplified using Encyclo Plus PCR kit (Eurogen, Moscow, Russia) using two standard primers: LCO-1490 (5′-GTCAACAAATCATAAAGATATTGG-3′) and HCO-2198 (5′-TAAACTTCAGGGTGACCAAAAAATCA-3′) (<xref ref-type="bibr" rid="ref-10">Folmer et al., 1994</xref>). PCR was conducted using the following common PCR cycle settings: 5 min at 95 °C, 40 cycles of 95 °C for 30 s, followed by annealing at 48 °C for 45 s, 72  °C for 1 min, and then a final elongation at 72  °C for 5 min. PCR products were analyzed with a 1% agarose gel electrophoresis, purified and sequenced using an Applied Biosystems<sup>®</sup> 3500 Genetic Analyzer. Subsequently sequences were aligned and analyzed using MEGA 6.0 (<xref ref-type="bibr" rid="ref-31">Tamura et al., 2013</xref>). The 503 bp fragments of COI gene were used for comparison with all other <italic>L. helicina</italic> samples from the Arctic and Pacific available from the GenBank database (<xref ref-type="table" rid="table-1">Table 1</xref>). Low quality contigs (contigs containing more than 3 Ns) were excluded from analysis. The software Popart 1.7 (<xref ref-type="bibr" rid="ref-18">Leigh &amp; Bryant, 2015</xref>) was then used for comparative analysis and identification of differences between populations as well as for construction of a TCS haplotype network (<xref ref-type="bibr" rid="ref-5">Clement et al., 2002</xref>). Furthermore, the program DnaSP (<xref ref-type="bibr" rid="ref-26">Rozas et al., 2017</xref>) was used for an estimation of genetic diversity in populations. Finally, the Arlequin 3.5 (<xref ref-type="bibr" rid="ref-8">Excoffier &amp; Lischer, 2010</xref>) software was used for pairwise ϕST calculations between regions analysis and verification of neutrality. Significance of ϕST was tested with 1,000 permutations.</p>
+         <table-wrap id="table-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5709/table-1</object-id><label>Table 1</label><caption>
+               <title>Geographical location of <italic>Limacina helicina</italic> samples and compositions of haplotypes.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5709/table-1.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Location</th>
+                        <th colspan="2">Coordinates/ References</th>
+                        <th><italic>N</italic></th>
+                        <th>Haplogroup</th>
+                        <th>N from haplogroup</th>
+                        <th>GenBank accession number</th>
+                     </tr>
+                     <tr>
+                        <th/>
+                        <th>N°</th>
+                        <th>E°</th>
+                        <th/>
+                        <th/>
+                        <th/>
+                        <th/>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="2">Kara Sea, South St. 5265</td>
+                        <td rowspan="2">70°53</td>
+                        <td rowspan="2">58°18</td>
+                        <td rowspan="2">22</td>
+                        <td>H1</td>
+                        <td>3</td>
+                        <td rowspan="2">
+                           <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379290">MH379290</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379311">MH379311</ext-link>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>H2</td>
+                        <td>19</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Kara Sea, Voronina Trough, St. 5239</td>
+                        <td rowspan="2">78°36</td>
+                        <td rowspan="2">88°04</td>
+                        <td rowspan="2">12</td>
+                        <td>H1</td>
+                        <td>2</td>
+                        <td rowspan="2">
+                           <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379312">MH379312</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379330">MH379330</ext-link>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>H2</td>
+                        <td>10</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Kara Sea, St. Anna Trough, sT. 5212</td>
+                        <td rowspan="2">76°43</td>
+                        <td rowspan="2">70°59</td>
+                        <td rowspan="2">23</td>
+                        <td>H1</td>
+                        <td>7</td>
+                        <td rowspan="2">
+                           <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379266">MH379266</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379289">MH379289</ext-link>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td>H2</td>
+                        <td>16</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Svalbard</td>
+                        <td colspan="2"><xref ref-type="bibr" rid="ref-29">Sromek, Lasota &amp; Wolowicz (2015)</xref></td>
+                        <td rowspan="2">68</td>
+                        <td>H1</td>
+                        <td>11</td>
+                        <td rowspan="2">
+                           <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AB859527">AB859527</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AB859593">AB859593</ext-link>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>H2</td>
+                        <td>57</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Pacific Ocean</td>
+                        <td colspan="2"><xref ref-type="bibr" rid="ref-15">Jennings et al. (2010)</xref>,<break/><xref ref-type="bibr" rid="ref-4">Chichvarkhin (2016)</xref>,<break/><xref ref-type="bibr" rid="ref-28">Shimizu et al. (2017)</xref></td>
+                        <td rowspan="2">105</td>
+                        <td>H1</td>
+                        <td>105</td>
+                        <td rowspan="2">
+                           <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/FJ876923">FJ876923</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KX871888">KX871888</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KX871889">KX871889</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/LC185015">LC185015</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/LC185073">LC185073</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/LC229727">LC229727</ext-link>– <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/LC229769">LC229769</ext-link>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>H2</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="2">Canadian Arctic</td>
+                        <td colspan="2"><xref ref-type="bibr" rid="ref-14">Hunt et al. (2010)</xref>,<break/><xref ref-type="bibr" rid="ref-17">Layton, Martel &amp; Hebert (2014)</xref>,<break/><xref ref-type="bibr" rid="ref-15">Jennings et al. (2010)</xref></td>
+                        <td rowspan="2">6</td>
+                        <td>H1</td>
+                        <td>6</td>
+                        <td rowspan="2">
+                           <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ861826">GQ861826</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GQ861828">GQ861828</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HM862494">HM862494</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HM862496">HM862496</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/FJ876924">FJ876924</ext-link>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td/>
+                        <td/>
+                        <td>H2</td>
+                        <td>0</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-1fn"><p><bold>Notes.</bold></p></fn><fn id="table-1fn1" fn-type="other"><p> 
+                  <def-list id="dl1">
+                     <def-item>
+                        <term><italic>N</italic></term>
+                        <def>
+                           <p>number of analyzed individuals</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> H1 and H2</term>
+                        <def>
+                           <p>haplogroups</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn></table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>We analyzed 73 specimens of <italic>L. helicina</italic> from the Kara Sea. COI sequences were obtained from 65 of these samples, and eight sequences were discarded due to poor quality contigs, leaving 57 individual sequences for further analysis. The highest ϕST value found between the southern and northern parts was 0.023 (n. s.) (<xref ref-type="table" rid="table-2">Table 2</xref>). Due to the lack of significant differences in genetic structure between the three different Kara Sea collection locations, the data from these stations were combined for comparison with Svalbard and Pacific populations. In total, 179 <italic>L. helicina</italic> sequences from the Arctic and Pacific were downloaded from GenBank (<xref ref-type="table" rid="table-1">Table 1</xref>). These sequences were regarded as three large geographical subgroups: the Kara Sea, Svalbard (data from <xref ref-type="bibr" rid="ref-29">Sromek, Lasota &amp; Wolowicz, 2015</xref>), and the Pacific (<xref ref-type="bibr" rid="ref-15">Jennings et al., 2010</xref>; <xref ref-type="bibr" rid="ref-4">Chichvarkhin, 2016</xref>; <xref ref-type="bibr" rid="ref-28">Shimizu et al., 2017</xref>). We also added the data from the Canadian Arctic (<xref ref-type="bibr" rid="ref-14">Hunt et al., 2010</xref>; <xref ref-type="bibr" rid="ref-15">Jennings et al., 2010</xref>; <xref ref-type="bibr" rid="ref-17">Layton, Martel &amp; Hebert, 2014</xref>) for the haplotype network construction. A total of 65 haplotypes were found from all sequences, which were combined in two large haplogroups, which differ from each other by 2 nucleotide substitutions (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). Each haplogroup represents a typical star-like haplonet with numerous branches. These patterns are in agreement with analysis of <xref ref-type="bibr" rid="ref-28">Shimizu et al. (2017)</xref> and so we adopted their names of haplogroups as H1 and H2. Haplogroup H2 includes the majority of sequences from the Kara Sea and Svalbard, while the H1 is widespread at all research locations and found throughout all <italic>L. helicina</italic> populations (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+         <table-wrap id="table-2">
+            <object-id pub-id-type="doi">10.7717/peerj.5709/table-2</object-id><label>Table 2</label><caption>
+               <title>Pairwise Phi-st values and associated <italic>p</italic>-values among <italic>L. helicina</italic> populations from the three sampling sites in Kara Sea and three different geographical areas.</title>
+               <p>Significant differences (<italic>p</italic> &lt; 0.001) are in bold.</p>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5709/table-2.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Compared areas</th>
+                        <th>Φst</th>
+                        <th><italic>p</italic>-value</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td colspan="3">Within Kara Sea</td>
+                     </tr>
+                     <tr>
+                        <td>St Anna–Voronin</td>
+                        <td>0.01574</td>
+                        <td>0.21622</td>
+                     </tr>
+                     <tr>
+                        <td>St Anna–South</td>
+                        <td>0.02292</td>
+                        <td>0.15315</td>
+                     </tr>
+                     <tr>
+                        <td>Voronin–South</td>
+                        <td>−0.00263</td>
+                        <td>0.42342</td>
+                     </tr>
+                     <tr>
+                        <td colspan="3">Between different seas</td>
+                     </tr>
+                     <tr>
+                        <td>Kara Sea–Svalbard</td>
+                        <td>−0.00109</td>
+                        <td>0.47748</td>
+                     </tr>
+                     <tr>
+                        <td>Kara Sea–Pacific</td>
+                        <td><bold>0.63422</bold></td>
+                        <td><bold>0.00000</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Svalbard–Pacific</td>
+                        <td><bold>0.60013</bold></td>
+                        <td><bold>0.00000</bold></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+         </table-wrap>
+         <fig id="fig-2">
+            <object-id pub-id-type="doi">10.7717/peerj.5709/fig-2</object-id><label>Figure 2</label><caption>
+               <title>TCS network of <italic>Limacina helicina</italic> haplotypes.</title>
+               <p>(A) haplotypes from Kara Sea (this study). St. Anna trough is marked in light green, Voronin through—in black, and southern part of Kara Sea—in dark green. (B)<bold/> haplotypes across Northern hemisphere based on the current research and the GenBank data. Svalbard population is marked in dark blue, the Kara Sea in green, Pacific in orange, and the Canadian Arctic in blue. H1—haplogroup 1, H2—haplogroup 2. Notes: each haplotype is colored according to the location where it was collected. Haplotype circle sizes indicate frequency (according to the <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5709/fig-2.png"/>
+         </fig>
+         <p>The samples from Kara Sea were represented by 19 haplotypes with two being widespread (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). The remaining haplotypes are structured by their variations, differing by 1–3 nucleotide substitutions. The majority of the Kara Sea individuals are represented by the H2 haplogroup (79%). The greatest variability of haplotypes was found at the St. Anna Trough in the north of the sea. The H2 haplogroup was also the predominant haplogroup found in samples from Svalbard fjords (84%), while only H1 haplogroups were found in the Pacific region (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). The highest haplotype diversity (<xref ref-type="table" rid="table-3">Table 3</xref>) was reported around Svalbard (<italic>H</italic> = 0.771). The diversity of haplotypes in the Kara Sea is similar (<italic>H</italic> = 0.672), despite a smaller number of analyzed individuals. The diversity of haplotypes in Pacific is significantly lower (<italic>H</italic> = 0.449) as well as nucleotide diversity (<xref ref-type="table" rid="table-3">Table 3</xref>). The Tajima’s D and Fu’s Fs neutral evolution model tests showed significant negative values (<xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+         <p>The haplotype network (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>) shows similarity between the Kara Sea and Svalbard populations. The ratio between the H2 and the H1 haplogroups in this region is also similar—the majority of individuals belongs to the H2 haplogroup. All individuals from Canadian Arctic and Pacific share the H1 haplogroup.</p>
+         <p>Pairwise comparison of ϕST showed no significant differences between the Kara Sea and the Svalbard populations (ϕST =  − 0.00109, n. s.); however, the samples from the Kara Sea and Svalbard differed significantly from the Pacific (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>The obtained results support our hypothesis that <italic>L. helicina</italic> populations from the Kara Sea would be genetically similar to those near Svalbard.</p>
+         <p>The haplotype network is very similar for populations from the Kara Sea and those from the North of the Atlantic near Svalbard (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>), and the ratio of haplotype group H2 to haplotype group H1 is also similar. The majority of haplotypes belongs to haplotype group H2, a minor part to the group H1. In contrast, in the Canadian Arctic and the Pacific only haplogroup H1 is found. The H1 group of haplotypes is widespread and occurs at all stations and populations (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-3">Fig. 3</xref>), and populations from the Pacific Ocean and the Canadian Arctic were almost identical and were represented by the same sequence. This is explained by the main currents through the Bering Strait and indicates the possible direction of distribution of plankton communities from the Pacific Ocean (<xref ref-type="bibr" rid="ref-21">Nelson et al., 2009</xref>; <xref ref-type="bibr" rid="ref-25">Questel et al., 2016</xref>). Typical star-like haplonet and the conducted Tajima’s D and Fu’s Fs tests can point to the rapid population expansion. The negative values of Fu’s Fs indicate the presence of a large number of low frequency haplotypes, usually described for loci under directed selection or expansion of the population after a severe decline (however, see (<xref ref-type="bibr" rid="ref-22">Niwa, Nashida &amp; Yanagimoto, 2016</xref>), for an alternative explanation of negative D and F in abundant marine organisms). The reason for this pattern could be the rapid expansion of this species after the last glacial maximum. Similar dispersal was observed for other Arctic species that have survived in the refugia, then quickly spread to their current habitats after the deglaciation (<xref ref-type="bibr" rid="ref-12">Hewitt, 2000</xref>; <xref ref-type="bibr" rid="ref-33">Weydmann et al., 2017</xref>).</p>
+         <fig id="fig-3">
+            <object-id pub-id-type="doi">10.7717/peerj.5709/fig-3</object-id><label>Figure 3</label><caption>
+               <title>Haplotype distribution among the Arctic populations of <italic>Limacina helicina</italic>.</title>
+               <p>Orange—haplogroup H1, Blue—haplogroup H2. <xref ref-type="bibr" rid="ref-27">Schlitzer (2018)</xref>.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5709/fig-3.png"/>
+         </fig>
+         <table-wrap id="table-3">
+            <object-id pub-id-type="doi">10.7717/peerj.5709/table-3</object-id><label>Table 3</label><caption>
+               <title>Estimates of genetic diversity in populations of <italic>L. helicina</italic> from regions of Arctic and Pacific Ocean.</title>
+               <p>Nucleotide and haplotype diversity, neutrality test.</p>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5709/table-3.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th><bold>N</bold></th>
+                        <th><bold>Ns</bold></th>
+                        <th><bold>k</bold></th>
+                        <th><bold>S</bold></th>
+                        <th><bold>H</bold></th>
+                        <th><italic>π</italic></th>
+                        <th>Π</th>
+                        <th><bold>D</bold></th>
+                        <th>Fs</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Kara Sea</td>
+                        <td>57</td>
+                        <td>500</td>
+                        <td>19</td>
+                        <td>26</td>
+                        <td>0,672</td>
+                        <td>0,00301754</td>
+                        <td>1,509</td>
+                        <td>−2,35896 (<italic>p</italic> &lt; 0.001)</td>
+                        <td>−17,725 (<italic>p</italic> &lt; 0.0001)</td>
+                     </tr>
+                     <tr>
+                        <td>Svalbard</td>
+                        <td>68</td>
+                        <td>503</td>
+                        <td>24</td>
+                        <td>25</td>
+                        <td>0,771</td>
+                        <td>0,00338705</td>
+                        <td>1,704</td>
+                        <td>−2,10848 (<italic>p</italic> &lt; 0.01)</td>
+                        <td>−24,253 (<italic>p</italic> &lt; 0.0001)</td>
+                     </tr>
+                     <tr>
+                        <td>Pacific</td>
+                        <td>105</td>
+                        <td>503</td>
+                        <td>26</td>
+                        <td>26</td>
+                        <td>0,449</td>
+                        <td>0,00124309</td>
+                        <td>0,625</td>
+                        <td>−2,60329 (<italic>p</italic> &lt; 0.001)</td>
+                        <td>−42,81 (<italic>p</italic> &lt; 0.0001)</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-3fn"><p><bold>Notes.</bold></p></fn><fn id="table-3fn1" fn-type="other"><p> 
+                  <def-list id="dl2">
+                     <def-head>Abb.</def-head>
+                     <def-item>
+                        <term> N</term>
+                        <def>
+                           <p>number of individuals</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Ns</term>
+                        <def>
+                           <p>number of sites</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> k</term>
+                        <def>
+                           <p>number of haplotypes</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> S</term>
+                        <def>
+                           <p>polymorphic sites</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> H</term>
+                        <def>
+                           <p>haplotype diversity</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term><italic>π</italic></term>
+                        <def>
+                           <p>nucleotide diversity</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term>Π</term>
+                        <def>
+                           <p>average number of nucleotide differences</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> D</term>
+                        <def>
+                           <p>Tajima’s D</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Fs</term>
+                        <def>
+                           <p>Fu’s Fs neutrality test</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn></table-wrap-foot>
+         </table-wrap>
+         <p>According to the previous studies (<xref ref-type="bibr" rid="ref-29">Sromek, Lasota &amp; Wolowicz, 2015</xref>; <xref ref-type="bibr" rid="ref-28">Shimizu et al., 2017</xref>), <italic>L. helicina</italic> were formerly widely distributed in the Arctic and the Pacific, but the populations were isolated in the Northern Atlantic during the glaciation. Haplotype group H1 may have persisted in a Pacific refuge, and H2—in an Atlantic refuge. Subsequently, during the retreat of the glacier about 131 ky BP, there was an increase in genetic diversity and distribution around Svalbard (<xref ref-type="bibr" rid="ref-29">Sromek, Lasota &amp; Wolowicz, 2015</xref>). A similar spread of Pacific fauna was shown for other groups of organisms in the Atlantic region (<xref ref-type="bibr" rid="ref-16">Laakkonen et al., 2013</xref>). The recent distribution of <italic>L. helicina</italic> haplotypes could be explained in a similar way. When the ice sheets disappeared between the Pacific and Atlantic, the Pacific population could have resettled in the Arctic. This hypothesis is supported by the existence of a separated haplotype group H1 along with haplotype group H2 (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The currents flowing between the Pacific and the Arctic through the Bering Strait have a predominantly northward direction (see references in <xref ref-type="bibr" rid="ref-25">Questel et al., 2016</xref>). This lends support to a hypothesis that Limacina helicina may only effectively migrate from the Pacific into the Arctic and not the other way around, which is consistent with our observation that the H1 haplogroup has reached the Arctic, while the H2 haplogroup appears to be absent from the Pacific (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>)</p>
+         <p>The absence of significant differences between the Kara Sea and Svalbard and the similarity of proportions of different haplotypes in these regions is consistent with an ongoing or recent exchange between these two populations, which coincides with the oceanography in this area (<xref ref-type="bibr" rid="ref-30">Stiansen &amp; Filin, 2007</xref>).</p>
+         <p>Frequency of occurrence of different haplotypes varies between locations of the Kara Sea (near the Kara Strait, the St. Anna and Voronin Troughs), but these differences are not significant. In the south (station AMK 5265 near the Kara Strait), the percentage H1 haplotype (14%) is lower than in the north at St. Anna or Voronin Troughs (st. AMK 5239, 5212) (26%). This is in accordance with the penetration of water of different origins into the sea: in the south–west at station AMK 5265, the warm and salty water of the Barents Sea origin penetrates through the Kara Strait, while the northern part of the Kara Sea is strongly influenced by the Arctic saline and cold water (<xref ref-type="bibr" rid="ref-34">Zatsepin et al., 2015</xref>). Since these populations were not significantly different genetically, the different environments are not isolating either population.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>This study represents the first research on the genetic structure of <italic>L. helicina</italic> in the Kara Sea and makes an important contribution to zooplankton phylogeography by providing data on this large Arctic sea, which is not easily accessible. The comparison of our own data from the Kara Sea with the published data obtained in the Svalbard area, northwest Pacific, and Canadian Arctic, allowed us to conclude that the distribution of haplotypes in the Kara Sea is similar to that in Svalbard. Although no significant differences between habitats within the Kara Sea were found, the proportion of haplotypes H2 was higher near the Kara Strait than in the northern troughs. The analysis of the available data provides insight into the population structure of this pteropod species, indicating possible direction of post-glacial distribution of <italic>L. helicina</italic> in the Arctic. However, many questions regarding the genetics of this mollusk in the Arctic still remain unresolved, and in future studies we hope to better understand how far the western population of <italic>L. helicina</italic> penetrates and how the haplotypes are distributed over other Arctic seas.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>For the help in the collection of <italic>Limacina helicina</italic> and discussion of this project we would like to thank AV Drits, as well as VV Aleshin and C Gross for extremely helpful comments on this manuscript. We are particularly grateful for the laboratory assistance from the 2017 Invertebrate Zoology bachelor students (Lomonosov Moscow State University). In addition, we gratefully acknowledge the native English speaker Elizabeth Schmidt for constructive comments of the manuscript. We thank Pieternella Luttikhuizen, Katharina Jörger and an anonymous reviewer for important and valuable comments that significantly improved the paper.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Galina Anatolievna Abyzova</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Mikhail Aleksandrovich Nikitin</xref> performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Olga Vladimirovna Popova</xref> performed the experiments, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Anna Fedorovna Pasternak</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>GenBank: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379266">MH379266</ext-link>–<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH379330">MH379330</ext-link>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Arashkevich et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arashkevich</surname>
+                     <given-names>EG</given-names>
+                  </name>
+                  <name>
+                     <surname>Flint</surname>
+                     <given-names>MV</given-names>
+                  </name>
+                  <name>
+                     <surname>Nikishina</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Pasternak</surname>
+                     <given-names>AF</given-names>
+                  </name>
+                  <name>
+                     <surname>Timonin</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                  <name>
+                     <surname>Vasilieva</surname>
+                     <given-names>JV</given-names>
+                  </name>
+                  <name>
+                     <surname>Mosharov</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Soloviev</surname>
+                     <given-names>KA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>The role of zooplankton in the transformation of the organic matter in the Ob estuary, on the shelf, and in the deep regions of the Kara Sea</article-title>
+               <source>Oceanology</source>
+               <volume>50</volume>
+               <issue>5</issue>
+               <fpage>780</fpage>
+               <lpage>792</lpage>
+               <pub-id pub-id-type="doi">10.1134/S0001437010050140</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Bernard &amp; Froneman (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bernard</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Froneman</surname>
+                     <given-names>PW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Trophodynamics of selected mesozooplankton in the west-Indian sector of the Polar Frontal Zone, Southern Ocean</article-title>
+               <source>Polar Biology</source>
+               <volume>28</volume>
+               <issue>8</issue>
+               <fpage>594</fpage>
+               <lpage>606</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00300-005-0728-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Bernard &amp; Froneman (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bernard</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Froneman</surname>
+                     <given-names>PW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>The sub-Antarctic euthecosome pteropod, <italic>Limacina retroversa</italic>: distribution patterns and trophic role</article-title>
+               <source>Deep Sea Research Part I: Oceanographic Research Papers</source>
+               <volume>56</volume>
+               <issue>4</issue>
+               <fpage>582</fpage>
+               <lpage>598</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.dsr.2008.11.007</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Chichvarkhin (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chichvarkhin</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Shallow water sea slugs (Gastropoda: Heterobranchia) from the northwestern coast of the Sea of Japan, north of Peter the Great Bay, Russia</article-title>
+               <source>PeerJ</source>
+               <volume>4</volume>
+               <elocation-id>e2774–e2774</elocation-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Clement et al. (2002)</label><element-citation publication-type="confproc">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Clement</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Snell</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Walker</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Posada</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Crandall</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>TCS: estimating gene genealogies</article-title>
+               <conf-name>Parallel and distributed processing symposium, international proceedings, vol. 2</conf-name>
+               <fpage>184</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Comeau et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Comeau</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Gorsky</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Jeffree</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Teyssié</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Gattuso</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Impact of ocean acidification on a key arctic- pelagic mollusc (<italic>Limacina helicina</italic>)</article-title>
+               <source>Biogeosciences</source>
+               <volume>6</volume>
+               <fpage>1877</fpage>
+               <lpage>1882</lpage>
+               <pub-id pub-id-type="doi">10.5194/bg-6-1877-2009</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Drits et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Drits</surname>
+                     <given-names>AV</given-names>
+                  </name>
+                  <name>
+                     <surname>Arashkevich</surname>
+                     <given-names>EG</given-names>
+                  </name>
+                  <name>
+                     <surname>Nikishina</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name>
+                     <surname>Sergeeva</surname>
+                     <given-names>VM</given-names>
+                  </name>
+                  <name>
+                     <surname>Solovyev</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Flint</surname>
+                     <given-names>MV</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Mesozooplankton grazing impact on phytoplankton in the northern regions of the Kara Sea in autumn</article-title>
+               <source>Oceanology</source>
+               <volume>55</volume>
+               <issue>4</issue>
+               <fpage>595</fpage>
+               <lpage>605</lpage>
+               <pub-id pub-id-type="doi">10.1134/S0001437015040050</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Excoffier &amp; Lischer (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Excoffier</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Lischer</surname>
+                     <given-names>HEL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows</article-title>
+               <source>Molecular Ecology Resources</source>
+               <volume>10</volume>
+               <fpage>564</fpage>
+               <lpage>567</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02847.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Flint et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Flint</surname>
+                     <given-names>MV</given-names>
+                  </name>
+                  <name>
+                     <surname>Poyarkov</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                  <name>
+                     <surname>Timonin</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                  <name>
+                     <surname>Soloviev</surname>
+                     <given-names>KA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>The structure of the mesoplankton community in the area of the continental slope of the St. Anna trough (Kara Sea)</article-title>
+               <source>Oceanology</source>
+               <volume>55</volume>
+               <issue>4</issue>
+               <fpage>583</fpage>
+               <lpage>594</lpage>
+               <pub-id pub-id-type="doi">10.1134/S0001437015040062</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Folmer et al. (1994)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Folmer</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Black</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hoeh</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Lutz</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Vrijenhoek</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1994">1994</year>
+               <article-title>DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates</article-title>
+               <source>Molecular Marine Biology and Biotechnology</source>
+               <volume>3</volume>
+               <issue>5</issue>
+               <fpage>294</fpage>
+               <lpage>299</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Gilmer &amp; Harbison (1986)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gilmer</surname>
+                     <given-names>RW</given-names>
+                  </name>
+                  <name>
+                     <surname>Harbison</surname>
+                     <given-names>GR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1986">1986</year>
+               <article-title>Morphology and field behavior of pteropod molluscs: feeding methods in the families Cavoliniidae, Limacinidae and Peraclididae (Gastropoda: Thecosomata)</article-title>
+               <source>Marine Biology</source>
+               <volume>91</volume>
+               <issue>1</issue>
+               <fpage>47</fpage>
+               <lpage>57</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF00397570</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Hewitt (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hewitt</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>The genetic legacy of the Quaternary ice ages</article-title>
+               <source>Nature</source>
+               <volume>405</volume>
+               <issue>6789</issue>
+               <fpage>907</fpage>
+               <lpage>913</lpage>
+               <pub-id pub-id-type="doi">10.1038/35016000</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Hunt et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hunt</surname>
+                     <given-names>BPV</given-names>
+                  </name>
+                  <name>
+                     <surname>Pakhomov</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>Hosie</surname>
+                     <given-names>GW</given-names>
+                  </name>
+                  <name>
+                     <surname>Siegel</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Ward</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Bernard</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Pteropods in Southern Ocean ecosystems</article-title>
+               <source>Progress in Oceanography</source>
+               <volume>78</volume>
+               <fpage>193</fpage>
+               <lpage>221</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.pocean.2008.06.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Hunt et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hunt</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Strugnell</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Bednarsek</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Linse</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Nelson</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Pakhomov</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Würzberg</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Poles apart: the bipolar pteropod species <italic>Limacina helicina</italic> is genetically distinct between the Arctic and Antarctic oceans</article-title>
+               <source>PLOS ONE</source>
+               <volume>5</volume>
+               <issue>3</issue>
+               <elocation-id>e9835</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0009835</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Jennings et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jennings</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bucklin</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ossenbrügger</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Hopcroft</surname>
+                     <given-names>RR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Species diversity of planktonic gastropods (Pteropoda and Heteropoda) from six ocean regions based on DNA barcode analysis</article-title>
+               <source>Deep Sea Research Part II: Topical Studies in Oceanography</source>
+               <volume>57</volume>
+               <issue>24</issue>
+               <fpage>2199</fpage>
+               <lpage>2210</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.dsr2.2010.09.022</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Laakkonen et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Laakkonen</surname>
+                     <given-names>HM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lajus</surname>
+                     <given-names>DL</given-names>
+                  </name>
+                  <name>
+                     <surname>Strelkov</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Väinölä</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Phylogeography of amphi-boreal fish: tracing the history of the Pacific herring <italic>Clupea pallasii</italic> in North-East European seas</article-title>
+               <source>BMC Evolutionary Biology</source>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>67</fpage>
+               <pub-id pub-id-type="doi">10.1186/1471-2148-13-67</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Layton, Martel &amp; Hebert (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Layton</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Martel</surname>
+                     <given-names>AL</given-names>
+                  </name>
+                  <name>
+                     <surname>Hebert</surname>
+                     <given-names>PD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Patterns of DNA barcode variation in Canadian marine molluscs</article-title>
+               <source>PLOS ONE</source>
+               <volume>9</volume>
+               <issue>4</issue>
+               <elocation-id>e95003</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0095003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Leigh &amp; Bryant (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Leigh</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Bryant</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>popart: full-feature software for haplotype network construction</article-title>
+               <source>Methods in Ecology and Evolution</source>
+               <volume>6</volume>
+               <issue>9</issue>
+               <fpage>1110</fpage>
+               <lpage>1116</lpage>
+               <pub-id pub-id-type="doi">10.1111/2041-210X.12410</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Lischka et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lischka</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Büdenbender</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Boxhammer</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Riebesell</surname>
+                     <given-names>U</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Impact of ocean acidification and elevated temperatures on early juveniles of the polar shelled pteropod <italic>Limacina helicina</italic>: mortality, shell degradation, and shell growth</article-title>
+               <source>Biogeosciences</source>
+               <volume>8</volume>
+               <issue>4</issue>
+               <fpage>919</fpage>
+               <lpage>932</lpage>
+               <pub-id pub-id-type="doi">10.5194/bg-8-919-2011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Manno et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Manno</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Tirelli</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Accornero</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Fonda Umani</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Importance of the contribution of <italic>Limacina helicina</italic> faecal pellets to the carbon pump in Terra Nova Bay (Antarctica)</article-title>
+               <source>Journal of Plankton Research</source>
+               <volume>32</volume>
+               <issue>2</issue>
+               <fpage>145</fpage>
+               <lpage>152</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Nelson et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nelson</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Carmack</surname>
+                     <given-names>EC</given-names>
+                  </name>
+                  <name>
+                     <surname>McLaughlin</surname>
+                     <given-names>FA</given-names>
+                  </name>
+                  <name>
+                     <surname>Cooper</surname>
+                     <given-names>GA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Penetration of Pacific zooplankton into the western Arctic Ocean tracked with molecular population genetics</article-title>
+               <source>Marine Ecology Progress Series</source>
+               <volume>381</volume>
+               <fpage>129</fpage>
+               <lpage>138</lpage>
+               <pub-id pub-id-type="doi">10.3354/meps07940</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Niwa, Nashida &amp; Yanagimoto (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Niwa</surname>
+                     <given-names>HS</given-names>
+                  </name>
+                  <name>
+                     <surname>Nashida</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Yanagimoto</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Reproductive skew in Japanese sardine inferred from DNA sequences</article-title>
+               <source>ICES Journal of Marine Science</source>
+               <volume>73</volume>
+               <issue>9</issue>
+               <fpage>2181</fpage>
+               <lpage>2189</lpage>
+               <pub-id pub-id-type="doi">10.1093/icesjms/fsw070</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Noji et al. (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Noji</surname>
+                     <given-names>TT</given-names>
+                  </name>
+                  <name>
+                     <surname>Bathmann</surname>
+                     <given-names>UV</given-names>
+                  </name>
+                  <name>
+                     <surname>Bodungen</surname>
+                     <given-names>BV</given-names>
+                  </name>
+                  <name>
+                     <surname>Voss</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Antia</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Krumbholz</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Klein</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Peeken</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Noji</surname>
+                     <given-names>CIM</given-names>
+                  </name>
+                  <name>
+                     <surname>Rey</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Clearance of picoplankton-sized partides and formation of rapidly sinking aggregates by the pteropod, <italic>Limacina retroversa</italic></article-title>
+               <source>Journal of Plankton Research</source>
+               <volume>19</volume>
+               <issue>7</issue>
+               <fpage>863</fpage>
+               <lpage>875</lpage>
+               <pub-id pub-id-type="doi">10.1093/plankt/19.7.863</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Percy &amp; Fife (1985)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Percy</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Fife</surname>
+                     <given-names>FJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1985">1985</year>
+               <article-title>Energy distribution in an Arctic coastal macrozooplankton community</article-title>
+               <source>Arctic</source>
+               <volume>38</volume>
+               <fpage>39</fpage>
+               <lpage>42</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Questel et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Questel</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Blanco-Bercial</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Hopcroft</surname>
+                     <given-names>RR</given-names>
+                  </name>
+                  <name>
+                     <surname>Bucklin</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Phylogeography and connectivity of the Pseudocalanus (Copepoda: Calanoida) species complex in the eastern North Pacific and the Pacific Arctic Region</article-title>
+               <source>Journal of Plankton Research</source>
+               <volume>38</volume>
+               <issue>3</issue>
+               <fpage>610</fpage>
+               <lpage>623</lpage>
+               <pub-id pub-id-type="doi">10.1093/plankt/fbw025</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Rozas et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rozas</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferrer-Mata</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sánchez-DelBarrio</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Guirao-Rico</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Librado</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramos-Onsins</surname>
+                     <given-names>SE</given-names>
+                  </name>
+                  <name>
+                     <surname>Sánchez-Gracia</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>DnaSP 6: DNA sequence polymorphism analysis of large datasets</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>34</volume>
+               <fpage>3299</fpage>
+               <lpage>3302</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msx248</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Schlitzer (2018)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Schlitzer</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Ocean data view</article-title>
+               <uri>https://odv.awi.de</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Shimizu et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shimizu</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Kimoto</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Noshita</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Wakita</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Fujiki</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Sasaki</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Phylogeography of the pelagic snail <italic>Limacina helicina</italic> (Gastropoda: Thecosomata) in the subarctic western North Pacific</article-title>
+               <source>Journal of Molluscan Studies</source>
+               <volume>84</volume>
+               <issue>1</issue>
+               <fpage>30</fpage>
+               <lpage>37</lpage>
+               <pub-id pub-id-type="doi">10.1093/mollus/eyx040</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Sromek, Lasota &amp; Wolowicz (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sromek</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Lasota</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolowicz</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Impact of glaciations on genetic diversity of pelagic mollusks: Antarctic <italic>Limacina antarctica</italic> and Arctic <italic>Limacina helicina</italic></article-title>
+               <source>Marine Ecology Progress Series</source>
+               <volume>525</volume>
+               <fpage>143</fpage>
+               <lpage>152</lpage>
+               <pub-id pub-id-type="doi">10.3354/meps11237</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Stiansen &amp; Filin (2007)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Stiansen</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Filin</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Joint PINRO/IMR report on the state of the Barents Sea ecosystem in 2006 with expected situation and considerations for management</article-title>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Tamura et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tamura</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Stecher</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Peterson</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Filipski</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>MEGA6: molecular evolutionary genetics analysis version 6.0</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>30</volume>
+               <issue>12</issue>
+               <fpage>2725</fpage>
+               <lpage>2729</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/mst197</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Teniswood et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Teniswood</surname>
+                     <given-names>CM</given-names>
+                  </name>
+                  <name>
+                     <surname>Roberts</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Howard</surname>
+                     <given-names>WR</given-names>
+                  </name>
+                  <name>
+                     <surname>Bray</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                  <name>
+                     <surname>Bradby</surname>
+                     <given-names>JE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Microstructural shell strength of the Subantarctic pteropod <italic>Limacina helicina antarctica</italic></article-title>
+               <source>Polar Biology</source>
+               <volume>39</volume>
+               <issue>9</issue>
+               <fpage>1643</fpage>
+               <lpage>1652</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00300-016-1888-z</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Weydmann et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weydmann</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Przyłucka</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Lubośny</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Walczyńska</surname>
+                     <given-names>KS</given-names>
+                  </name>
+                  <name>
+                     <surname>Serrão</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pearson</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name>
+                     <surname>Burzyński</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Postglacial expansion of the Arctic keystone copepod <italic>Calanus glacialis</italic></article-title>
+               <source>Marine Biodiversity</source>
+               <volume>48</volume>
+               <issue>2</issue>
+               <fpage>1027</fpage>
+               <lpage>1035</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Zatsepin et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zatsepin</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                  <name>
+                     <surname>Poyarkov</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                  <name>
+                     <surname>Kremenetskiy</surname>
+                     <given-names>VV</given-names>
+                  </name>
+                  <name>
+                     <surname>Nedospasov</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>Shchuka</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Baranov</surname>
+                     <given-names>VI</given-names>
+                  </name>
+                  <name>
+                     <surname>Kondrashov</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>Korzh</surname>
+                     <given-names>AO</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Hydrophysical features of deep water troughs in the western Kara Sea</article-title>
+               <source>Oceanology</source>
+               <volume>55</volume>
+               <issue>4</issue>
+               <fpage>472</fpage>
+               <lpage>484</lpage>
+               <pub-id pub-id-type="doi">10.1134/S0001437015040165</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

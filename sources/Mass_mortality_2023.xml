@@ -1,0 +1,3228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16561</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16561</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Conservation Biology</subject>
+<subject>Ecology</subject>
+<subject>Marine Biology</subject>
+<subject>Zoology</subject>
+<subject>Population Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Mass mortality event of the giant barrel sponge <italic>Xestospongia</italic> sp.: population dynamics and size distribution in Koh Phangan, Gulf of Thailand</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<name name-style="western">
+<surname>Mueller</surname>
+<given-names>Jasmin S.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Grammel</surname>
+<given-names>Paul-Jannis</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Bill</surname>
+<given-names>Nicolas</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-1796-6384</contrib-id>
+<name name-style="western">
+<surname>Rohde</surname>
+<given-names>Sven</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0003-4831-2751</contrib-id>
+<name name-style="western">
+<surname>Schupp</surname>
+<given-names>Peter J.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-3">3</xref>
+<email>peter.schupp@uni-oldenburg.de</email>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>Institute for Chemistry and Biology of the Marine Environment (ICBM), Carl von Ossietzky University Oldenburg</institution>, <addr-line>Wilhelmshaven</addr-line>, <country>Germany</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Center for Oceanic Research and Education (CORE sea)</institution>, <addr-line>Chaloklum, Koh Phangan, Surat Thani</addr-line>, <country>Thailand</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Helmholtz Institute for Functional Marine Biodiversity (HIFMB), Carl von Ossietzky University Oldenburg</institution>, <addr-line>Oldenburg</addr-line>, <country>Germany</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Banaszak</surname>
+<given-names>Anastazia</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-12"><day>12</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16561</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-02-20"><day>20</day><month>2</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-10"><day>10</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Mueller et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Mueller et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16561"/>
+<abstract>
+<p>Marine sponges are prominent organisms of the benthic coral reef fauna, providing important ecosystem services. While there have been increasing reports that sponges are becoming one of the dominant benthic organisms in some locations and ecoregions (<italic>e.g</italic>. Caribbean), they can be impacted by changing environmental conditions. This study presents the first documentation of a mass mortality event of the barrel sponge <italic>Xestospongia</italic> sp. in the lower Gulf of Thailand and its consequences on population dynamics and size distribution. Two anthropogenic impacted reefs (Haad Khom and Mae Haad) of the island Koh Phangan and two anthropogenic non-impacted reefs of the islands Koh Yippon and Hin Yippon within the Mu Ko Ang Thong Marine National Park were surveyed in the years 2015 and 2016. The results showed a strong shift in population densities at Koh Phangan. Fatal “bleaching” ending up in mass mortality was observed for these reefs in 2015. <italic>Xestospongia</italic> sp. abundance decreased from 2015 to 2016 by 80.6% at Haad Khom and by 98.4% at Mae Haad. Sponges of all sizes were affected, and mortality occurred regardless of the survey depth (4 and 6 m). However, <italic>Xestospongia</italic> population densities in the Marine Park were at a constant level during the surveys. The abundances in 2015 were 65% higher at the Marine Park than at Koh Phangan and 92% higher in 2016. The most likely causes of the mass mortality event was a local harmful algal bloom event, pathogens, undetected local higher water temperatures, or a combination of these factors, whereas sea surface temperature analyses showed no marine heatwave during the observed mass mortality event in 2015. Considering the ecological importance of sponges such as <italic>Xestospongia</italic> sp., long-term monitoring of reefs and their environmental parameters should be implemented to prevent such mass die-offs.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Mass mortality</kwd>
+<kwd><italic>Xestospongia</italic> sp.</kwd>
+<kwd>Sponge population decrease</kwd>
+<kwd>Harmful algal bloom</kwd>
+<kwd>Marine heatwave</kwd>
+<kwd>Indo-Pacific</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The authors received no funding for this work.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Various marine sponges play an important role as engineers of coral reefs (<xref ref-type="bibr" rid="ref-5">Bell, 2008</xref>; <xref ref-type="bibr" rid="ref-52">Rix et al., 2016</xref>), have a positive impact on the habitat complexity and the local biodiversity (<xref ref-type="bibr" rid="ref-32">Maldonado et al., 2016</xref>), provide home for invertebrate taxa (<xref ref-type="bibr" rid="ref-68">Wulff, 2006</xref>), and function as a food source (<xref ref-type="bibr" rid="ref-9">Coppock et al., 2022</xref>; <xref ref-type="bibr" rid="ref-15">Engel &amp; Pawlik, 2005</xref>). Due to their ability to filter large amounts of seawater (<xref ref-type="bibr" rid="ref-49">Reiswig, 1974</xref>), they have been recognized as an important component of benthic-pelagic coupling. In recent years there has been increasing evidence that sponges play an important role in biochemical cycles (<xref ref-type="bibr" rid="ref-45">Pawlik &amp; McMurray, 2020</xref>), in particular the uptake and transformation of dissolved organic matter (DOM) to particular organic matter (POM) <italic>via</italic> the so-called sponge-loop (<xref ref-type="bibr" rid="ref-12">de Goeij et al., 2013</xref>; <xref ref-type="bibr" rid="ref-52">Rix et al., 2016</xref>; <xref ref-type="bibr" rid="ref-56">Schläppy et al., 2010</xref>).</p>
+<p>The barrel sponge <italic>Xestospongia</italic> sp., a genus of the family Petrosiidae, is a key species in tropical, shallow coral reefs (<xref ref-type="bibr" rid="ref-39">McMurray, Finelli &amp; Pawlik, 2015</xref>). This sponge is an ecological important member of the reef community, due to its large size, its importance as a habitat engineer, and its function as a big seawater filterer (<xref ref-type="bibr" rid="ref-41">McMurray, Pawlik &amp; Finelli, 2014</xref>; <xref ref-type="bibr" rid="ref-40">McMurray, Henkel &amp; Pawlik, 2010</xref>). Until recently, the most abundant species of the genus <italic>Xestospongia</italic> were identified as <italic>X. muta</italic> in the Caribbean and <italic>X. testudinaria</italic> in the Indo-Pacific. However, recent genetic studies documented that these different <italic>Xestospongia</italic> species are part of a more diverse species complex (<xref ref-type="bibr" rid="ref-18">Evans et al., 2021</xref>; <xref ref-type="bibr" rid="ref-62">Swierts et al., 2017</xref>). Morphologically similar species occur sympatrically and might feature differences in their physiology. Some individuals of the Caribbean reefs may be older than 2,300 years and can grow several meters in height and diameter (<xref ref-type="bibr" rid="ref-19">Gammill, 1997</xref>; <xref ref-type="bibr" rid="ref-29">Humann &amp; Deloach, 1992</xref>; <xref ref-type="bibr" rid="ref-38">McMurray, Blum &amp; Pawlik, 2008</xref>). <xref ref-type="bibr" rid="ref-35">McGrath et al. (2018)</xref> found contrary to McMurray twice as high growth rates for <italic>Xestospongia</italic> spp. from Wakatobi National Marine Park, Indonesia, compared to the Caribbean counterparts.</p>
+<p>The main habitat-forming organisms, the scleractinian corals, are threatened worldwide by multiple stressors such as rising water temperatures, ocean acidification, and pollution (<xref ref-type="bibr" rid="ref-42">Mollica et al., 2018</xref>; <xref ref-type="bibr" rid="ref-44">Mueller et al., 2022</xref>; <xref ref-type="bibr" rid="ref-47">Prada et al., 2017</xref>). With the decline of hard coral cover in shallow waters, coral reefs can undergo phase shifts from coral-dominated states to reefs dominated by algae or other invertebrates, including sponges (<xref ref-type="bibr" rid="ref-7">Bell, Micaroni &amp; Strano, 2022</xref>; <xref ref-type="bibr" rid="ref-6">Bell et al., 2013</xref>; <xref ref-type="bibr" rid="ref-11">de Bakker et al., 2017</xref>; <xref ref-type="bibr" rid="ref-14">Dinsdale &amp; Rohwer, 2011</xref>; <xref ref-type="bibr" rid="ref-33">Maliao, Turingan &amp; Lin, 2008</xref>; <xref ref-type="bibr" rid="ref-50">Reverter et al., 2022</xref>). Reefs dominated by sponges have mainly been reported from the Caribbean but also from certain locations in the Indo-Pacific (<xref ref-type="bibr" rid="ref-6">Bell et al., 2013</xref>; <xref ref-type="bibr" rid="ref-33">Maliao, Turingan &amp; Lin, 2008</xref>; <xref ref-type="bibr" rid="ref-46">Powell et al., 2010</xref>; <xref ref-type="bibr" rid="ref-51">Reverter et al., 2021</xref>).</p>
+<p><italic>Xestospongia</italic> spp. have been reported to undergo cyclic bleaching like reef-building corals (<xref ref-type="bibr" rid="ref-37">McMurray et al., 2011</xref>). During this time, the sponges lose their reddish-brown coloration due to the loss of their photosynthetic symbionts and appear creamy-white (<xref ref-type="bibr" rid="ref-17">Erwin &amp; Thacker, 2007</xref>; <xref ref-type="bibr" rid="ref-64">Vicente, 1990</xref>). Unlike corals, the affected <italic>Xestospongia</italic> spp. can survive long-term bleaching without mortality. According to <xref ref-type="bibr" rid="ref-37">McMurray et al. (2011)</xref>, this fact leads to the assumption that the host benefits just a little or not from its photosynthetic symbionts.</p>
+<p>With increasing sponge research and benthic monitoring in the last decades, also more bleaching events, diseases, and mortality events were reported for sponges around the world (<xref ref-type="bibr" rid="ref-2">Angermeier et al., 2011</xref>; <xref ref-type="bibr" rid="ref-4">Belikov et al., 2018</xref>; <xref ref-type="bibr" rid="ref-31">Luter, Whalan &amp; Webster, 2010</xref>; <xref ref-type="bibr" rid="ref-37">McMurray et al., 2011</xref>; <xref ref-type="bibr" rid="ref-59">Stevely et al., 2011</xref>; <xref ref-type="bibr" rid="ref-66">Webster et al., 2008</xref>). Sponge mortality is often caused by fatal bleaching with massive tissue loss due to diseases (<xref ref-type="bibr" rid="ref-10">Cowart et al., 2006</xref>) or other environmental stressors such as changing environmental conditions and harmful algal blooms (HABs) (<xref ref-type="bibr" rid="ref-3">Bauman et al., 2010</xref>; <xref ref-type="bibr" rid="ref-8">Cebrian et al., 2011</xref>).</p>
+<p>Our knowledge of <italic>Xestospongia</italic> spp. demography and size distribution in tropical regions like the Indo-Pacific is still limited. Further research is needed to fill this gap, especially since sponges generally could play an increasing role for tropical reefs in the future. This study aimed to monitor the population dynamics and the size distribution of <italic>Xestospongia</italic> sp. in the lower Gulf of Thailand. When the bleaching and massive die-off occurred during the monitoring, the aims were complemented with the documentation of the sponge health status to identify the population consequences of this event.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>The surveys were conducted under a Memorandum of Understanding with the Department of Marine and Coastal Resources Thailand and the Phuket Marine Biological Center, and with a research permit with permit number B8425313.</p>
+<p>Surveys were performed at different time points in March and April of the years 2015 and 2016. To determine the size and age structure of the <italic>Xestospongia</italic> populations at the study sites, surveys were carried out in March 2015 before the mortality event took place, once the mass mortality was recognized during the ongoing mortality event in April 2015, and during the next field season in March and April 2016. All data were collected by snorkeling.</p>
+<sec>
+<title>Study sites</title>
+<p>Four coral reefs were chosen in the shallow waters of the lower Gulf of Thailand. Two of them were located on the island of Koh Phangan, and the other two were in the Mu Ko Ang Thong Marine National Park (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). By choosing these study sites, the observed reefs were divided into reefs with different human impact levels: anthropogenic impacted (Koh Phangan), hereafter abbreviated with AI, and anthropogenic non-impacted (Marine National Park), hereafter abbreviated with ANI.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16561/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Map of the study sites.</title>
+<p>The study sites within the Mu Ko Ang Thong Marine National Park (ANI) are shown in (A), and (B) shows the two study sites on the island of Koh Phangan (AI). Figure source credit: The visualization of this map was done by using the ERSI ArcGIS® World Light Gray Base (basemap) version 7.2. Sources: Esri, HERE, Garmin, © OpenStreetMap contributors, and the GIS user community.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16561/fig-1.png"/>
+</fig>
+<p>The investigated reefs of Koh Phangan were located in the northern and northwestern part of the island at the beaches Haad Khom (AI) (9°47′5″N, 100°00′53″E) and Mae Haad (AI) (9°47′30.9″N, 99°58′35.3″E) (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). Both were impacted by tourism. Several bungalows and bars are located at Mae Haad (AI), snorkelers got easily to the reef on foot, and fishing was recognized in front of the reef during our surveys. Haad Khom (AI) was less touristic, and snorkelers just got to the reef by boat. The reef of Mae Haad (AI) was during the surveys less degraded than the reef of Haad Khom (AI), which showed lower live coral cover and higher cover of dead coral overgrown by filamentous algae (JS Mueller, P-J Grammel and E Schoenig, 2015, 2016, personal communication). In contrast to this were the reefs around the small islands Koh Yippon (ANI) and Hin Yippon (ANI) (9°47′54″N, 99°42′50″E) (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>). The two islands are in the northern part of the Mu Ko Ang Thong Marine National Park and are approximately 35 km to the west of Koh Phangan. The observed coral reefs are located at the south-western part of Koh Yippon (ANI) and the northern part of Hin Yippon (ANI). These sites are exposed to little human influence due to the Marine National Park, founded in 1980 (<xref ref-type="bibr" rid="ref-67">White, 1991</xref>, p. 348). Tourism at the Marine National Park is limited, and diving activities are just permitted for a few parts of the park. The two islands are uninhabited and therefore less anthropogenically impacted than the sites on Koh Phangan.</p>
+</sec>
+<sec>
+<title>Field survey methods</title>
+<p>All reefs were surveyed in water depths of 4 and 6 m with the belt transect method or with timed-swim surveys. The belt transect method is commonly used for surveying impacts on benthic communities (<xref ref-type="bibr" rid="ref-26">Hill &amp; Wilkinson, 2004</xref>). A transect tape deployed along a defined length and within a defined belt at each side of the transect tape. Within this belt, the entire area will be surveyed. The timed-swim surveys are used to observe a large area in a defined time by <italic>e.g</italic>., snorkeling (<xref ref-type="bibr" rid="ref-26">Hill &amp; Wilkinson, 2004</xref>). With this method, the observer swims in zig-zag covering the entire area.</p>
+<p>In this study, surveyed reef areas covered between 2,500 to 6,000 m² for each location. The geographic positions of the survey areas were marked with GPS coordinates, but no permanent transects were installed. This means, that the same area was observed between the years and the study hereby provides an overview of the <italic>Xestospongia</italic> population dynamics at all four locations, but there are no statements about the temporal development of single sponge individuals during the survey years.</p>
+<p>For the belt transect method, the transects were set parallel to the coastline holding the same water depth of 4 and 6 m. Transect were 50 m in length and 5 m in width to each side resulting in an observed area of 500 m² per transect. In both observation depths, three to six transects were rolled out with a distance of approximately 5 m to each other. In more detail, during all three surveys in Haad Khom (AI) (March 2015, April 2015, 2016), six transects were conducted at each depth (4 and 6 m) covering in total 6,000 m². Due to time constraints on site, both locations in the Marine Park were observed respectively with three transects at each depth (4 and 6 m) during the surveys in March 2015 covering 3,000 m². A second survey at the Marine Park sites in April 2015 was not initiated, because there were no signs of bleaching. During the 2016 surveys in the Marine Park three transects were accomplished at 4 depth but only two transects at 6 m in each location (due to bad weather), covering 2,500 m².</p>
+<p>Timed-swim surveys were conducted at Mae Haad (AI) in March 2015 and in 2016 because <italic>Xestospongia</italic> individuals were only found in small, clustered areas during preliminary surveys. The belt transect method was not suitable for this situation, whereas the timed-swim surveys allowed monitoring of a larger area (<xref ref-type="bibr" rid="ref-26">Hill &amp; Wilkinson, 2004</xref>). The surveys were conducted by one observer snorkeling, in zig-zag and without gaps, from the shallow (4 m) to the deep (6 m). The observation time was 60 min, resulting in an observed area of approximately 6,000 m² per year. Due to time constraints during the surveys in April 2015, the belt transect method was used with three transects per depth (50 m × 5 m width to each side in 4 and 6 m) at Mae Haad (AI), covering an area of 3,000 m².</p>
+<p>All <italic>Xestospongia</italic> individuals within the transects or observed during the timed-swim surveys were counted and measured to the nearest cm (see below) to determine the abundances and sizes. During all surveys, the observer tried their best to document all <italic>Xestospongia</italic> individuals, including very small sizes. Genetic studies indicated that sympatric specimen of <italic>Xestospongia</italic> can belong to a complex of cryptic species that are morphologically not distinguishable. (<xref ref-type="bibr" rid="ref-62">Swierts et al., 2017</xref>). Therefore, we refer to all <italic>Xestospongia</italic> specimens as <italic>Xestospongia</italic> sp.</p>
+</sec>
+<sec>
+<title>Population densities and health status of <italic>Xestospongia</italic> sp.</title>
+<p><italic>Xestospongia</italic> abundance was determined by counting all observed individuals. The health status of every individual was documented and assigned to different states: “healthy” and “bleached”. “Healthy” means no signs of bleaching or other diseases, and “bleached” characterized individuals with first signs of bleaching up to fully bleached and disintegrated sponges. By bleaching we refer only to the whitish color of the affected specimens, which does not necessarily infer a loss of cyanobacterial symbionts, but rather a diseased state.</p>
+</sec>
+<sec>
+<title>Size distribution of <italic>Xestospongia</italic> sp.</title>
+<p>The calculation of the <italic>Xestospongia</italic> biomass was based on different size measurements and corresponding volume concentrations. In detail, the height (h), the osculum diameter (od), and the base diameter (bd) of the sponges were measured in the field. The volume was afterwards calculated following <xref ref-type="bibr" rid="ref-38">McMurray, Blum &amp; Pawlik (2008)</xref>. In this study, sponges were classified into six volume classes to simplify further presentations of the results. Size classes were determined based on noticeable changes in the volume distribution of all investigated sponges in March 2015. The following six volume classes were chosen for this purpose: (I) 0–300 cm³, (II) 301–1,300 cm³, (III) 1,301–10,000 cm³, (IV) 10,001–30,000 cm³, (V) 30,001–100,000 cm³, and (VI) 100,001–300,000 cm³. To extrapolate <italic>Xestospongia</italic> size-at-age, the measured size (volume) data were analyzed using the averaged model from <xref ref-type="bibr" rid="ref-35">McGrath et al. (2018)</xref>, who analyzed the growth of Indonesian <italic>Xestospongia</italic> sp.</p>
+</sec>
+<sec>
+<title>Statistics</title>
+<p>To compare sponge abundances and the ratio of healthy to bleached sponges between survey depths (4 and 6 m), data from all sites were analyzed separately using Welch’s t-test to account for the potential lack of homogeneity (<xref ref-type="bibr" rid="ref-48">Rasch, Kubinger &amp; Moder, 2011</xref>). Since depth had no effect on abundance and sponge health, data from both depths were pooled for further analyses. To analyze the effect of the bleaching event on sponge abundances, data from March 2015 and 2016 were compared using a one-way repeated measures ANOVA. Abundance data from Mae Haad (AI) could not be statistically analyzed due to using the timed-swim method with no replication, but with a large observation area in March 2015 and 2016. Statistical analyses were performed with the program SPSS (version 25).</p>
+</sec>
+<sec>
+<title>Sea surface temperature (SST) analyses</title>
+<p>To investigate the occurrence of marine heatwaves as possible causes of adverse effects on the health of <italic>Xestospongia</italic> sp. SST data were analyzed. The daily gridded Optimum Interpolation Sea Surface Temperature (OISST) from the “ncdcOisst21Agg_LonPM180” dataset was downloaded (<uri xlink:href="https://coastwatch.pfeg.noaa.gov/erddap/">https://coastwatch.pfeg.noaa.gov/erddap/</uri>) and prepared with R version 4.3.1 (<xref ref-type="bibr" rid="ref-63">R Core Team, 2023</xref>) following <uri xlink:href="https://robwschlegel.github.io/heatwaveR/articles/OISST_preparation.html">https://robwschlegel.github.io/heatwaveR/articles/OISST_preparation.html</uri> (at August 7, 2023). The OISST time series was set as climatology period from beginning of January 1987 until the end of December 2016. The most appropriate 0.25° grid cell (9.875°N 99.875°E) was selected, that includes Mae Haad (AI) and is nearby Haad Khom (AI), and analyzed using the “heatwaveR” package version 0.4.6 by <xref ref-type="bibr" rid="ref-55">Schlegel &amp; Smit (2018)</xref>. Analyses were conducted according to the instructions by <uri xlink:href="https://robwschlegel.github.io/heatwaveR/articles/event_categories.html">https://robwschlegel.github.io/heatwaveR/articles/event_categories.html</uri> and included the marine heatwave definition by <xref ref-type="bibr" rid="ref-27">Hobday et al. (2016)</xref> and the nomenclature and categorization by <xref ref-type="bibr" rid="ref-28">Hobday et al. (2018)</xref>. Marine heatwaves from the beginning of February 2015 to the end of May 2016 were the focus of analysis.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Population densities and health status of <italic>Xestospongia</italic> sp.</title>
+<p>The study was initiated in 2015 to assess the abundance and the size distribution of <italic>Xestospongia</italic> sp. in the lower Gulf of Thailand. During the surveys, a mass mortality event of benthic organisms and fish was recognized at the study sites Mae Haad (AI) and Haad Khom (AI), including <italic>Xestospongia</italic> species, the sea snail <italic>Tectus</italic> sp., and bleached scleractinian corals (<italic>e.g</italic>., <italic>Pocillopora</italic> and <italic>Acropora</italic>). At the beginning of the observations on 31 March, several healthy-looking <italic>Xestospongia</italic> individuals with a lighter coloration (bleaching) followed by affected parts being covered with white mucus-like mats were recognized (termed bleached specimens throughout the manuscript, <xref ref-type="fig" rid="fig-2">Fig. 2A</xref>). During the next days, mucus-like mats expanded on affected specimens and sponge tissue below the mats exhibited lighter coloration compared to non-affected sponge parts (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>). Affected sponge tissue disintegrated further over the next days, leading to the collapse of the sponges. Numbers of other affected reef fauna also seemed to increase in the days following the first observation.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16561/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Impacted <italic>Xestospongia</italic> sp.</title>
+<p>Examples of observed <italic>Xestospongia</italic> individuals with (A) mucus-like covering and (B) bleaching signs during the studies in April 2015 at Haad Khom (AI) and Mae Haad (AI).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16561/fig-2.png"/>
+</fig>
+<p>During all surveys, mean <italic>Xestospongia</italic> abundances showed no significant differences (all <italic>p</italic> &gt; 0.05, see <xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>) between the survey depths of 4 and 6 m, except during the surveys at Koh Yippon (ANI) in March 2015, where abundance was higher at 4 m (<italic>p</italic> = 0.009) (see <xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>). Abundance data from Mae Haad (AI) could not be analyzed for differences in depth, due to the adjusted survey method (timed-swim) in March 2015 and in 2016. However, bleaching in April 2015 occurred regardless of the depth in Mae Haad (AI) (<italic>p</italic> = 0.179) and Haad Khom (AI) (<italic>p</italic> = 0.150) (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>).</p>
+<p>Before the mass mortality event started, 0.02 healthy <italic>Xestospongia</italic> individuals per m² and no bleached ones were found at Mae Haad (AI) in March 2015 (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref>). During the second survey (April 2015), 75% of all observed <italic>Xestospongia</italic> sp. were bleached. One year later, only 0.0003 individuals per m², both healthy-looking, were found. The number of individuals decreased by 98.4% in one year (from March 2015 to 2016).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.16561/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>(A–D) <italic>Xestospongia</italic> sp. numbers and fitness status from all locations in the years 2015 and 2016.</title>
+<p>The x-axis shows the time of the surveys, separated in pre- (March 2015), peri- (April 2015), and post- mass mortality event (2016). For all locations, the sponge numbers per m² are shown. Different bar colors represent the fitness status: healthy (yellow) and bleached (grey). The standard error of the mean <italic>Xestospongia</italic> counts per transect is given with error bars. The asterisk (*) indicates a significant difference from March 2015 to 2016 with <italic>p</italic> &lt; 0.05 (repeated measures ANOVA).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16561/fig-3.png"/>
+</fig>
+<p>A similar situation was documented at Haad Khom (AI) (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>). During the first survey in March 2015, on average 0.02 healthy-looking <italic>Xestospongia</italic> individuals per m² and no bleached sponges were counted per transect. During the second survey four weeks later (April 2015), the number of healthy sponges decreased with 83.6% of all observed <italic>Xestospongia</italic> sp. being bleached. In 2016, on average only 0.004 individuals per m² were documented, all looking healthy. The abundance of <italic>Xestospongia</italic> sp. had significantly (<italic>p</italic> = 0.000007) dropped by 80.6% from March 2015 to 2016.</p>
+<p>The investigations on the study sites in the Marine Park (ANI) showed no decrease in sponge abundance at Hin Yippon (ANI) (<italic>p</italic>=0.3871), but a decrease from surveys in March 2015 to 2016 at Koh Yippon (ANI) (<italic>p</italic> = 0.0563) (<xref ref-type="fig" rid="fig-3">Fig. 3C</xref>). The second survey (April 2015) was not conducted at these locations, because there were no signs of bleaching. At Koh Yippon (ANI), the survey in March 2015 showed on average 0.09 <italic>Xestospongia</italic> sp. per m², while sponge counts in 2016 were about 1/3 lower compared to March 2015 (on average 0.05 sponges per m²). All sponges appeared healthy during both surveys. At Hin Yippon (ANI), on average 0.060 <italic>Xestospongia</italic> sp. individuals per m² were documented in March 2015, while 0.056 healthy individuals per m² were documented on average in 2016 (<xref ref-type="fig" rid="fig-3">Fig. 3D</xref>).</p>
+</sec>
+<sec>
+<title>Size distribution of <italic>Xestospongia</italic> sp.</title>
+<p>At Mae Haad (AI), the observed <italic>Xestospongia</italic> individuals were represented in all volume classes during the surveys in March 2015 (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>). The class 1,301–10,000 cm³ was thereby most common (40 individuals). The fewest sponge numbers were found in class 100,001–300,000 cm³ (four individuals). In the 2016 surveys, only two sponges in total were documented, both in class 1,301–10,000 cm³.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.16561/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Size distribution of <italic>Xestospongia</italic> sp. at Mae Haad (AI) and Haad Khom (AI) in the years 2015 and 2016.</title>
+<p>The x-axis shows the sponge volume classes, and the y-axis shows the total number of sponges at an area of 6,000 m² in Haad Khom (B) and Mae Haad (A). Size distribution is shown for the surveys in March 2015 (pre-mortality in dark grey) and 2016 (post-mortality in light grey).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16561/fig-4.png"/>
+</fig>
+<p>At Haad Khom (AI), <italic>Xestospongia</italic> individuals were observed in all volume classes in March 2015 (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). With 44 individuals, most sponges had a volume of 1,301–10,000 cm³, followed by 28 individuals in volume class 301–1,300 cm³. The highest volume class (100,001–300,000 cm³) was represented by a single sponge. In 2016, sponges were just observed in the four first volume classes, the last two classes were not found anymore. Most of the surviving sponges were in the classes 301–1,300 cm³ and 1,301–10,000 cm³ (six and 11 sponges in total). The volume classes 0–300 cm³ and 10,001–30,000 cm³ included two sponges each.</p>
+<p>The sponges at the Koh Yippon (ANI) reef were present in all volume classes, and volume distribution was similar in both survey years (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>). The volume class 1,301–10,000 cm³ had the highest number of individuals with 102 sponges in March 2015 and 48 sponges in 2016. Volume classes 301–1,300 cm³ and 10,001–30,000 cm³ contained 54 and 51 individuals, respectively in March 2015. The other classes had lower sponge numbers, while the class with volume 100,001–300,000 cm³ had the lowest individual count with 6 <italic>Xestospongia</italic> sp. in March 2015 and a single sponge in 2016.</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.16561/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Size distribution of <italic>Xestospongia</italic> sp. at Koh Yippon (ANI) and Hin Yippon (ANI) in the years 2015 and 2016.</title>
+<p>The x-axis shows the sponge volume classes, and the y-axis shows the total number of sponges in an area of 3,000 m² (2,500 m² in 2016) in Koh Yippon (A) and Hin Yippon (B). Size distribution is shown for the surveys in March 2015 (pre-mortality in dark grey) and 2016 (post-mortality in light grey).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16561/fig-5.png"/>
+</fig>
+<p>In Hin Yippon (ANI), every volume class was also represented in both survey years (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>). During the surveys in March 2015, the highest number was observed in volume class 1,301–10,000 cm³ with 67 individuals, followed by 42 individuals in volume class 301–1,300 cm³. With four individuals, class 100,001–300,000 cm³ was the one with the lowest <italic>Xestospongia</italic> number. In 2016, this class included two individuals and was therefore also the class with the lowest individual count. Volume class 1,301–10,000 cm³ was with 64 <italic>Xestospongia</italic> individuals the class with the highest count in 2016, followed by volume class 301–1,300 cm³ with 34 sponges.</p>
+<p>Further, the weighted average of different growth models was applied to extrapolate the age of the observed sponges (<xref ref-type="bibr" rid="ref-35">McGrath et al., 2018</xref>). Sponges of the highest volume class (100,001–300,000 cm³) represent ages of 17–26 years (<xref ref-type="supplementary-material" rid="supp-2">Fig. S1</xref>). The smallest volume class (0–300 cm³) covers the ages 0 up to 1 year. The oldest sponge was estimated to be 24 years old and was found during the surveys in March 2015 in Haad Khom (AI). This sponge had a volume of 236,544 cm³.</p>
+</sec>
+<sec>
+<title>Sea surface temperatures</title>
+<p>The regional SST for the area around Mae Haad (AI) and nearby Haad Khom (AI) indicated no marine heatwaves during the observed mass mortality of <italic>Xestospongia</italic> sp. between February and April 2015 (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). Moderate marine heatwaves were found irregularly after the investigations in 2015 and before fieldwork in 2016, as well as at the end and after the months of investigation in 2016. Furthermore, a strong marine heatwave occurred in January 2016.</p>
+<fig id="fig-6">
+<object-id pub-id-type="doi">10.7717/peerj.16561/fig-6</object-id>
+<label>Figure 6</label>
+<caption>
+<title>Regional SST and the occurrence of marine heatwaves.</title>
+<p>The SST at Mae Haad (AI) and nearby Haad Khom (AI) (black line) is plotted over the time from February 2015 to the end of May 2016. The plot includes the local climatology (grey line), the 90th percentile climatology (blue line) and its multiples (by blue dashed lines). Yellow areas indicate a moderate marine heatwave and purple a strong marine heatwave (occurred only end of January 2016) following definitions by <xref ref-type="bibr" rid="ref-28">Hobday et al. (2018)</xref>. Grey colored areas indicate the months of fieldwork.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16561/fig-6.png"/>
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>This study documents a locally restricted massive die-off of the sponge <italic>Xestospongia</italic> sp. While the northwestern reefs of Koh Phangan, Mae Haad (AI) and Haad Khom (AI) were subject to a population loss of 75–83%, the close by reefs in the Mu Ko Ang Thong Marine National were not affected by this phenomenon. The massive mortality occurred regardless of the survey depth (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>), leading to a rapid decline in sponge abundances by 98.4% at Mae Haad (AI) and 80.6% at Haad Khom (AI) from year 2015 to year 2016.</p>
+<p>Affected sponges showed a decrease in their usual brown pigmentation with these “bleached” parts becoming covered by whitish to grey mats within a day or two. Once the sponges were completely covered by these presumably microbial mats, the sponge tissue disintegrated further leading to the collapse of especially large <italic>Xestospongia</italic> individuals. Disintegration of the tissue continued until only bare skeletal fibers of dead sponges were left, making dead sponges difficult to detect during surveys. Based on our observations it cannot be determined if the microbial mats were the cause or rather a secondary infection of opportunistic microorganisms, following the initial bleaching of affected sponges. <xref ref-type="bibr" rid="ref-16">Ereskovsky et al. (2019)</xref> described a similar mass mortality in several arctic sponges following an abnormal heatwave in the area. Initial infected parts showed discoloration followed by tissue necrosis and further loss of natural coloration. In some species the tissue became also covered by mucus mats. Similar to our study they could not determine the cause of the mortality event, whether the observed heatwave directly led to the mass mortality or if it acted in synergy with waterborne agents.</p>
+<p>Although a heatwave could not be confirmed in our case from historical data, affected <italic>Xestospongia</italic> sp. sponges revealed similar disease progression leading to mortality as described by <xref ref-type="bibr" rid="ref-16">Ereskovsky et al. (2019)</xref>.</p>
+<p>Based on <xref ref-type="bibr" rid="ref-37">McMurray et al. (2011)</xref>, fatal bleaching of <italic>Xestospongia</italic> sp. in the Caribbean usually does not result from cyclic bleaching, but can be caused by <italic>e.g</italic>., diseases and other pathogens. According to our observations, the mortality event in April 2015 was not a specific sponge disease as numerous <italic>Xestospongia</italic> individuals, other sponge species and corals adjacent to affected sponges started to bleach. During the surveys, the mortality of further marine fauna was documented, including numerous individuals of the marine snail <italic>Tectus</italic> sp., fish, and crustaceans (P-J Grammel and E Schoenig, 2015, personal communication). Taken these observations into account, the mass mortality event could have had various reasons. Having numerous other species from different phyla affected, could most likely indicate three possible scenarios for this mortality event: local higher water temperatures, a local harmful algal bloom (HAB), or a combination of both factors.</p>
+<p>Mass mortality events affecting species from various phyla have been reported from the Mediterranean Sea as a result of marine heatwaves with increased sea water temperatures (<xref ref-type="bibr" rid="ref-21">Garrabou et al., 2022</xref>, <xref ref-type="bibr" rid="ref-20">2009</xref>; <xref ref-type="bibr" rid="ref-54">Rubio-Portillo et al., 2016</xref>). Studies from other locations have reported increased water temperatures due to El Nino Southern Oscillation in 2015/2016, which affected marine organisms and resulted likewise in bleaching and mortality (<xref ref-type="bibr" rid="ref-24">Head et al., 2019</xref>; <xref ref-type="bibr" rid="ref-54">Rubio-Portillo et al., 2016</xref>). <xref ref-type="bibr" rid="ref-60">Strano et al. (2022)</xref> could also demonstrate in laboratory experiments with the temperate model sponge <italic>Crella incrustans</italic>, that experimentally induced heatwaves led to disease and mortality in the exposed sponges. Sponge mortality events have also been reported by <xref ref-type="bibr" rid="ref-59">Stevely et al. (2011)</xref> from the Florida Keys. They observed widespread sponge mortality of various sponge species which occurred together with cyanobacterial blooms, the likely cause of the observed mortality. They also documented long-lasting ecological consequences for the recovery of sponge communities for more than one decade.</p>
+<p>There was no regional marine heatwave detected during the observed <italic>Xestospongia</italic> sp. mass mortality event between February and April 2015 based on the SST satellite dataset for the area around Mae Haad (AI) and nearby Haad Khom (AI). Therefore, it is highly unlikely that a marine heatwave directly caused the observed mass mortality in April 2015. However, heatwaves after the investigation in April 2015 could have reduced the chance for recovery or could have increased further mortality of <italic>Xestospongia</italic> sp. by April 2016.</p>
+<p>The mass mortality event was only a local phenomenon. Only sponges at the two monitored reefs of Koh Phangan were impacted, while no affected sponges were found at the same water depths at the monitored reefs of Koh Yippon (ANI) and Hin Yippon (ANI). Considering these circumstances, it becomes most likely that the mass mortality event may have been triggered by a local HAB.</p>
+<p>In general, HAB events are increasing rapidly in density, distribution, and intensity, and most coasts worldwide are nowadays threatened (<xref ref-type="bibr" rid="ref-3">Bauman et al., 2010</xref>; <xref ref-type="bibr" rid="ref-23">Gobler et al., 2017</xref>; <xref ref-type="bibr" rid="ref-69">Xiao et al., 2019</xref>). This is caused amongst others by climate change and increasing nutrient pollution (<xref ref-type="bibr" rid="ref-22">Gobler, 2020</xref>; <xref ref-type="bibr" rid="ref-25">Heisler et al., 2008</xref>). HABs are caused by toxic microalgae or cyanobacteria, which can lead during outbreaks to illness and death of fish, other marine invertebrates, seabirds, and even humans (<xref ref-type="bibr" rid="ref-58">Starr et al., 2017</xref>; <xref ref-type="bibr" rid="ref-70">Young et al., 2020</xref>). Sponges are important for benthic-pelagic coupling as they filter large amounts of water (up to 1,000 L*h<sup>−1</sup>*kg<sup>−1</sup> body mass, (<xref ref-type="bibr" rid="ref-65">Vogel, 1977</xref>)). This in turn could make them also very susceptible to HABs, by retaining the microalgae and thereby accumulating the produced toxins, leading ultimately to the death of the affected sponges (<xref ref-type="bibr" rid="ref-1">Anderson, 2007</xref>). In 2015, HAB events were reported for other regions around the world, including the U.S. West Coast, coastal areas in Northern Europe, and Canada (<xref ref-type="bibr" rid="ref-30">Karlson et al., 2021</xref>; <xref ref-type="bibr" rid="ref-34">McCabe et al., 2016</xref>; <xref ref-type="bibr" rid="ref-36">McKenzie et al., 2021</xref>). For example, the HAB at the U.S. West Coast was a coastwide event, negatively impacting fisheries and initiated by anomalously warm water conditions (<xref ref-type="bibr" rid="ref-34">McCabe et al., 2016</xref>; <xref ref-type="bibr" rid="ref-43">Moore et al., 2020</xref>).</p>
+<p>At our study site in Mae Haad (AI), <xref ref-type="bibr" rid="ref-61">Stuhldreier et al. (2015)</xref> reported high phosphate concentrations in a small river carrying untreated sewage water from nearby bungalows, which drained into the bay through small water channels on the beach. Both, the reported increased nutrient pollution by the river and effects of El Nino Southern Oscillation, could be possible triggers for a HAB outbreak resulting in the observed mass mortality of <italic>Xestospongia</italic> sponges at the study sites Mae Haad (AI) and Haad Khom (AI). But it is difficult to determine the reason for the sponge mortality event because environmental parameters such as nutrients, pH, salinity were not taken, due to a lack of analytical capabilities in 2015. Therefore, we can only speculate on the cause of this mortality event.</p>
+<p><xref ref-type="bibr" rid="ref-53">Rosenfeld (2021)</xref> compared different environmental parameters around five sites on Koh Phangan in 2019, including reefs in Mae Haad (AI) and Haad Khom (AI). Differences in environmental parameters (pH, NOx, and PO<sub arrange="stack">4</sub><sup arrange="stack">3−</sup>) were rather small between the bays ranging in pH from 7.95 to 8.12, in NOx from 2.44 to 2.91 μmol L<sup>−1</sup>, and for PO<sub arrange="stack">4</sub><sup arrange="stack">3−</sup> from 1.52 to 1.73 μmol L<sup>−1</sup>. However, analysis of the Mae Haad river, which discharges into Mae Haad bay (AI) showed very high nutrient levels with 7.24 μmol L<sup>−1</sup> for NOx and 6.06 μmol L<sup>−1</sup> for phosphate. Such high nutrient levels could certainly promote algae blooms at Mae Haad (AI), although we do not know if such high nutrient levels were also present in 2015 during the mass mortality event. Monitoring programs and management actions in Koh Phangan are needed in the future to detect possible (human) impacts and to reduce negative consequences on ecosystem health.</p>
+<p>The reefs of Koh Yippon (ANI) and Hin Yippon (ANI) showed just little changes in the abundance of <italic>Xestospongia</italic> sp. between the years 2015 and 2016. These small variances could be either caused by growth effects over the course of one year, or by monitoring artefacts, since the position and the number of the transect tapes differed between the two survey years. However, these anthropogenic non-impacted study sites represented in both survey years populations with a higher number of observed <italic>Xestospongia</italic> sp. than at the anthropogenically impacted locations. A decline in sponge health was not detected during the surveys at both Marine Park locations.</p>
+<p>Regarding the size distribution of <italic>Xestospongia</italic> sp., sponge sizes (according to volume classes) showed a similar Gaussian distribution at all study sites in both survey years. The highest number of <italic>Xestospongia</italic> sp. were found for all study sites at the middle class 1,301–10,000 cm³. The lower number of small individuals could possibly be caused by a higher risk of being eaten by predators. Larger individuals are probably more often affected by environmental factors over time due to their higher age (<xref ref-type="bibr" rid="ref-57">Smith &amp; Smith, 2009</xref>). The mass mortality event also showed its effects on the size distribution. Only two sponges of the previously dominant middle class were still alive at Mae Haad (AI) in 2016. At Haad Khom (AI), <italic>Xestospongia</italic> individuals within the small and middle classes survived after the massive bleaching. The results show that sponges of all sizes were affected by the mass mortality event. This observation suggests an exceptional event occurred in the northern region of Koh Phangan, as large sponges, known for their resilience and ability to withstand cyclic bleaching, disappeared in 2016.</p>
+<p>To estimate the age of sponge individuals, size-at-age models have been used in earlier studies. Reports from Caribbean <italic>Xestospongia muta</italic> revealed ages of 127 years, and estimated the largest sponges on these reefs to be more than 2,300 years old, reflecting <italic>Xestospongia</italic> spp. as a long-lived and slow-growing sponge species (<xref ref-type="bibr" rid="ref-38">McMurray, Blum &amp; Pawlik, 2008</xref>). Contrary and more recently, <xref ref-type="bibr" rid="ref-35">McGrath et al. (2018)</xref> found Indo-Pacific <italic>Xestospongia</italic> spp. from Sulawesi, Indonesia, to be faster growing than their Caribbean relatives. We used the parameter from the growth model from <xref ref-type="bibr" rid="ref-35">McGrath et al. (2018)</xref> to estimate the age of our sponges, since they are both Pacific populations and represent more likely the same species. The largest measured individuals of the investigated <italic>Xestospongia</italic> sp. (March 2015 at Haad Khom (AI)) were up to 24 years old (<xref ref-type="supplementary-material" rid="supp-2">Fig. S1</xref>). One year later, the oldest sponge at the same location was only 9 years old. Sponges of the middle volume classes, which were most abundant and survived the bleaching, were around 3–7 years old.</p>
+<p>Although three species of <italic>Xestospongia</italic>, namely <italic>X. muta, X. testudinaria</italic>, and <italic>X. bergquistia</italic>, are recognized globally, recent studies suggest that these species are part of complexes consisting of cryptic species (<xref ref-type="bibr" rid="ref-18">Evans et al., 2021</xref>; <xref ref-type="bibr" rid="ref-62">Swierts et al., 2017</xref>). <xref ref-type="bibr" rid="ref-62">Swierts et al. (2017)</xref> analyzed 10 <italic>Xestospongia</italic> samples from Koh Tao (only ~40 km away from our sampling sites) and identified three different haplotypes. However, the limitations of the genetic markers made it impossible to determine the number of species. The current species consensus of all these samples was <italic>X. testudinaria</italic>. Despite being cryptic species and challenging to differentiate, different <italic>Xestospongia</italic> species can exhibit varying growth performances. For instance, <xref ref-type="bibr" rid="ref-13">Deignan, Pawlik &amp; López-Legentil (2018)</xref> explored intraspecific variation within a single population of <italic>X. muta</italic> in Florida, and identified two distinct, co-occurring genetic clusters. Furthermore, they found that each genetic cluster of <italic>X. muta</italic> exhibited a preference towards different sponge sizes, highlighting the variation in growth performance among these cryptic species. We can hypothesize that in addition to differences in growth performance among different <italic>Xestospongia</italic> species, these variations may also be attributed to other ecological differences, such as their susceptibility to diseases or heat stress. Dealing with potentially cryptic species, it becomes essential to consider that factors like disease resistance or tolerance could contribute to the observed dissimilarities in growth patterns. Understanding how various ecological factors interact with genetic variations can provide valuable insights into the complexities of <italic>Xestospongia</italic> populations and their overall ecological dynamics. Further research is necessary to explore these aspects comprehensively and gain a more comprehensive understanding of the factors influencing the growth and ecological dynamics of <italic>Xestospongia</italic> species.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>This study documented an extraordinary massive mortality event of <italic>Xestospongia</italic> populations from two anthropogenic impacted reefs of Koh Phangan, Thailand. <italic>Xestospongia</italic> sp. mortality ranged from 98.4% at Mae Haad (AI) to 80.6% at Haad Khom (AI) (between monitoring events in 2015 and 2016). Anthropogenic non-impacted reefs at the Mu Ko Ang Thong Marine National Park were not affected. This underlines the importance to establish and enforce protected Marine Parks for maintaining healthy ecosystems. The localized mortality event was probably triggered by a local HAB, pathogens, undetected local higher water temperatures, or a combination of these factors. Whereas no marine heatwave was detected during the observed mass mortality event in 2015 from sea surface temperature data. <italic>Xestospongia</italic> sp. of all sizes were affected. The lack of <italic>Xestospongia</italic> sp. following the mass mortality event in the two surveyed bays, could lead to a decrease in biodiversity, a weaker filter efficiency and loss of 3D complexity and function (<italic>e.g</italic>., habitat and shelter) of the reefs. The enormous loss of <italic>Xestospongia</italic> sp. in Mae Haad (AI) and Haad Khom (AI) could also have serious long-term consequences for the sponge populations and for the coral reefs in these locations, as reproduction and recruitment patterns for this species are unknown. Therefore, it will be important to determine and reduce triggers of such mass mortality events, especially for essential habitat-forming organisms such as <italic>Xestospongia</italic> spp. Long-term monitoring programs are needed to document the condition of reef systems and its ecological parameters, and to detect and act on the causes of decline.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16561/SupplementalTableS1.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.16561/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Results of the Welch`s t-test comparing the <italic>Xestospongia</italic> abundance in both survey depths (4 m and 6 m).</title>
+<p>Shown are the mean, the variance and the P-Value calculated for all study sites and survey times. The abundances of bleached <italic>Xestospongia</italic> individuals are concluded in the results of April 2015. The asterisk (*) show significant differences with <italic>p</italic> &lt; 0.05.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/16561/SupplementalFigureS1.png">
+<object-id pub-id-type="doi">10.7717/peerj.16561/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Size-at-age of <italic>Xestospongia</italic> sp.</title>
+<p>The y-axis shows the sponge volume, and the x-axis shows the sponge age of <italic>Xestospongia</italic> sp. based on the averaged model from <xref ref-type="bibr" rid="ref-35">McGrath et al., 2018</xref>.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/16561/RawData_Xestospongia_Abundances.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.16561/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Raw data: Xestospongia abundances.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/16561/RawData_Xestospongia_Volume.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.16561/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Raw data: Xestospongia volumes.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/16561/RawData_Xestospongia_fitness_2015.2.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.16561/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Raw data: Xestospongia fitness in 2015.2.</title>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>In memory of our colleague Eike Schoenig, who passed away during the writing of this manuscript. As founder of CORE sea, he was a role model of dedication and commitment to the protection of coral reefs. As an adviser and teacher for students, he left a legacy for many to follow his lead. He was a pioneer in marine research of Koh Phangan and essential in conducting this research project and supporting the students working on it. We are very grateful to him for all his support on this study.</p>
+<p>The authors also acknowledge Janina Schoenig for her support in student mentoring. We would like to sincerely thank Florian Piehl (ICBM, Germany), the staff, and volunteers at CORE sea (Thailand) for their support during the fieldwork. We also would like to thank the editor and the anonymous reviewers for their comments, which helped to improve the manuscript.</p>
+<p>This study is the result of two bachelor theses from the Bachelor’s Program “Environmental Sciences” at the University of Oldenburg, submitted by JSM (2016) and PJG (2016).</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Jasmin S. Mueller</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Paul-Jannis Grammel</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Nicolas Bill</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Sven Rohde</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Peter J. Schupp</xref> performed initial experiments, conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to field study approvals (<italic>i.e</italic>., approving body and any reference numbers):</p>
+<p>Surveys were conducted under a Memorandum of Understanding with the Department of Marine and Coastal Resources Thailand and the Phuket Marine Biological Center.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-2">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data of Xestospongia abundances, the measured values to determine sponge volumes and the calculated volumes, and the fitness status in 2015.2 are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Anderson (2007)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Anderson</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>The ecology and oceanography of harmful algal blooms: multidisciplinary approaches to research and management</article-title>
+<year iso-8601-date="2007">2007</year>
+<comment>IOC Tech. Ser. 38</comment><uri>https://unesdoc.unesco.org/ark:/48223/pf0000163114</uri>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Angermeier et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Angermeier</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kamke</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Abdelmohsen</surname>
+<given-names>UR</given-names>
+</name>
+<name>
+<surname>Krohne</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Lindquist</surname>
+<given-names>NL</given-names>
+</name>
+<name>
+<surname>Hentschel</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<article-title>The pathology of sponge orange band disease affecting the Caribbean barrel sponge Xestospongia muta</article-title>
+<source>FEMS Microbiology Ecology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>75</volume>
+<issue>2</issue>
+<fpage>218</fpage>
+<lpage>230</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1574-6941.2010.01001.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Bauman et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bauman</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Burt</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Feary</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Marquis</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Usseglio</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Tropical harmful algal blooms: an emerging threat to coral reef communities?</article-title>
+<source>Marine Pollution Bulletin</source>
+<year iso-8601-date="2010">2010</year>
+<volume>60</volume>
+<issue>11</issue>
+<fpage>2117</fpage>
+<lpage>2122</lpage>
+<pub-id pub-id-type="doi">10.1016/j.marpolbul.2010.08.015</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Belikov et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Belikov</surname>
+<given-names>SI</given-names>
+</name>
+<name>
+<surname>Feranchuk</surname>
+<given-names>SI</given-names>
+</name>
+<name>
+<surname>Butina</surname>
+<given-names>TV</given-names>
+</name>
+<name>
+<surname>Chernogor</surname>
+<given-names>LI</given-names>
+</name>
+<name>
+<surname>Khanaev</surname>
+<given-names>IV</given-names>
+</name>
+<name>
+<surname>Maikova</surname>
+<given-names>OO</given-names>
+</name>
+</person-group>
+<article-title>Mass disease and mortality of baikal sponges</article-title>
+<source>Limnology and Freshwater Biology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>1</volume>
+<issue>1</issue>
+<fpage>36</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.31951/2658-3518-2018-A-1-36</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Bell (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>The functional roles of marine sponges</article-title>
+<source>Estuarine, Coastal and Shelf Science</source>
+<year iso-8601-date="2008">2008</year>
+<volume>79</volume>
+<issue>3</issue>
+<fpage>341</fpage>
+<lpage>353</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecss.2008.05.002</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Bell et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Davy</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Taylor</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Webster</surname>
+<given-names>NS</given-names>
+</name>
+</person-group>
+<article-title>Could some coral reefs become sponge reefs as our climate changes?</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>19</volume>
+<issue>9</issue>
+<fpage>2613</fpage>
+<lpage>2624</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.12212</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Bell, Micaroni &amp; Strano (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Micaroni</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Strano</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Regime shifts on tropical coral reef ecosystems: future trajectories to animal-dominated states in response to anthropogenic stressors</article-title>
+<source>Emerging Topics in Life Sciences</source>
+<year iso-8601-date="2022">2022</year>
+<volume>6</volume>
+<issue>1</issue>
+<fpage>95</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1042/ETLS20210231</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Cebrian et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cebrian</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Uriz</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Garrabou</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ballesteros</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Sponge mass mortalities in a warming mediterranean sea: are cyanobacteria-harboring species worse off?</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2011">2011</year>
+<volume>6</volume>
+<issue>6</issue>
+<elocation-id>e20211</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0020211</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Coppock et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Coppock</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Kingsford</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Battershill</surname>
+<given-names>CN</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>GP</given-names>
+</name>
+</person-group>
+<article-title>Significance of fish-sponge interactions in coral reef ecosystems</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2022">2022</year>
+<volume>41</volume>
+<issue>4</issue>
+<fpage>1285</fpage>
+<lpage>1308</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-022-02253-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Cowart et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cowart</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Henkel</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Sponge orange band (SOB): a pathogenic-like condition of the giant barrel sponge, Xestospongia muta</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2006">2006</year>
+<volume>25</volume>
+<issue>4</issue>
+<fpage>513</fpage>
+<pub-id pub-id-type="doi">10.1007/s00338-006-0149-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>de Bakker et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>de Bakker</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>van Duyl</surname>
+<given-names>FC</given-names>
+</name>
+<name>
+<surname>Bak</surname>
+<given-names>RPM</given-names>
+</name>
+<name>
+<surname>Nugues</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Nieuwland</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Meesters</surname>
+<given-names>EH</given-names>
+</name>
+</person-group>
+<article-title>40 Years of benthic community change on the Caribbean reefs of Curaçao and Bonaire: the rise of slimy cyanobacterial mats</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2017">2017</year>
+<volume>36</volume>
+<issue>2</issue>
+<fpage>355</fpage>
+<lpage>367</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-016-1534-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>de Goeij et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>de Goeij</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>van Oevelen</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Vermeij</surname>
+<given-names>MJA</given-names>
+</name>
+<name>
+<surname>Osinga</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Middelburg</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>de Goeij</surname>
+<given-names>AFPM</given-names>
+</name>
+<name>
+<surname>Admiraal</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Surviving in a Marine Desert: the sponge loop retains resources within coral reefs</article-title>
+<source>Science</source>
+<year iso-8601-date="2013">2013</year>
+<volume>342</volume>
+<issue>6154</issue>
+<fpage>108</fpage>
+<lpage>110</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1241981</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Deignan, Pawlik &amp; López-Legentil (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Deignan</surname>
+<given-names>LK</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>López-Legentil</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Evidence for shifting genetic structure among Caribbean giant barrel sponges in the florida keys</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>165</volume>
+<issue>6</issue>
+<fpage>291</fpage>
+<pub-id pub-id-type="doi">10.1007/s00227-018-3355-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Dinsdale &amp; Rohwer (2011)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Dinsdale</surname>
+<given-names>EA</given-names>
+</name>
+<name>
+<surname>Rohwer</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Dubinsky</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Stambler</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Fish or germs? microbial dynamics associated with changing trophic structures on coral reefs</article-title>
+<source>Coral Reefs: An Ecosystem in Transition</source>
+<year iso-8601-date="2011">2011</year>
+<publisher-loc>Dordrecht, Netherlands</publisher-loc>
+<publisher-name>Springer Dordrecht</publisher-name>
+<fpage>231</fpage>
+<lpage>240</lpage>
+<pub-id pub-id-type="doi">10.1007/978-94-007-0114-4_16</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Engel &amp; Pawlik (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Engel</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Interactions among Florida sponges. II. Mangrove habitats</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="2005">2005</year>
+<volume>303</volume>
+<fpage>145</fpage>
+<lpage>152</lpage>
+<pub-id pub-id-type="doi">10.3354/meps303145</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Ereskovsky et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ereskovsky</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Ozerov</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Pantyulin</surname>
+<given-names>AN</given-names>
+</name>
+<name>
+<surname>Tzetlin</surname>
+<given-names>AB</given-names>
+</name>
+</person-group>
+<article-title>Mass mortality event of White Sea sponges as the result of high temperature in summer 2018</article-title>
+<source>Polar Biology</source>
+<year iso-8601-date="2019">2019</year>
+<volume>42</volume>
+<issue>12</issue>
+<fpage>2313</fpage>
+<lpage>2318</lpage>
+<pub-id pub-id-type="doi">10.1007/s00300-019-02606-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Erwin &amp; Thacker (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Erwin</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Thacker</surname>
+<given-names>RW</given-names>
+</name>
+</person-group>
+<article-title>Incidence and identity of photosynthetic symbionts in Caribbean coral reef sponge assemblages</article-title>
+<source>Journal of the Marine Biological Association of the United Kingdom</source>
+<year iso-8601-date="2007">2007</year>
+<volume>87</volume>
+<issue>6</issue>
+<fpage>1683</fpage>
+<lpage>1692</lpage>
+<pub-id pub-id-type="doi">10.1017/S0025315407058213</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Evans et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Evans</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>López-Legentil</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Turnbull</surname>
+<given-names>IG</given-names>
+</name>
+<name>
+<surname>Erwin</surname>
+<given-names>PM</given-names>
+</name>
+</person-group>
+<article-title>Molecular detection and microbiome differentiation of two cryptic lineages of giant barrel sponges from Conch Reef, Florida Keys</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2021">2021</year>
+<volume>40</volume>
+<issue>3</issue>
+<fpage>853</fpage>
+<lpage>865</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-021-02089-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Gammill (1997)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Gammill</surname>
+<given-names>ER</given-names>
+</name>
+</person-group>
+<source>Identification of coral reef sponges</source>
+<year iso-8601-date="1997">1997</year>
+<publisher-loc>Tampa</publisher-loc>
+<publisher-name>Providence Marine Publishing</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Garrabou et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Garrabou</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Coma</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bensoussan</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Bally</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Chevaldonné</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Cigliano</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Diaz</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Harmelin</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Gambi</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Kersting</surname>
+<given-names>DK</given-names>
+</name>
+<name>
+<surname>Ledoux</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Lejeusne</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Linares</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Marschal</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Pérez</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Ribes</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Romano</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Serrano</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Teixido</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Torrents</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Zabala</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Zuberer</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Cerrano</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Mass mortality in Northwestern Mediterranean rocky benthic communities: effects of the 2003 heat wave</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>15</volume>
+<issue>5</issue>
+<fpage>1090</fpage>
+<lpage>1103</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2008.01823.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Garrabou et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Garrabou</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Gómez-Gras</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Medrano</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Cerrano</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ponti</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Schlegel</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bensoussan</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Turicchia</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Sini</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Gerovasileiou</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Teixido</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mirasole</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Tamburello</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Cebrian</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Rilov</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ledoux</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Souissi</surname>
+<given-names>JBen</given-names>
+</name>
+<name>
+<surname>Khamassi</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ghanem</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Benabdi</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Grimes</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ocaña</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Bazairi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Hereu</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Linares</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Kersting</surname>
+<given-names>DK</given-names>
+</name>
+<name>
+<surname>la Rovira</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ortega</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Casals</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Pagès-Escolà</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Margarit</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Capdevila</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Verdura</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ramos</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Izquierdo</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Barbera</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Rubio-Portillo</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Anton</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>López-Sendino</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Díaz</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Vázquez-Luis</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Duarte</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Marbà</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Aspillaga</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Espinosa</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Grech</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Guala</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Azzurro</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Farina</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cristina Gambi</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Chimienti</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Montefalcone</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Azzola</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Mantas</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>Fraschetti</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ceccherelli</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Kipson</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Bakran-Petricioli</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Petricioli</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Jimenez</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Katsanevakis</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kizilkaya</surname>
+<given-names>IT</given-names>
+</name>
+<name>
+<surname>Kizilkaya</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Sartoretto</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Elodie</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Ruitton</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Comeau</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gattuso</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Harmelin</surname>
+<given-names>JG</given-names>
+</name>
+</person-group>
+<article-title>Marine heatwaves drive recurrent mass mortalities in the Mediterranean Sea</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2022">2022</year>
+<volume>28</volume>
+<issue>19</issue>
+<fpage>5708</fpage>
+<lpage>5725</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.16301</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Gobler (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gobler</surname>
+<given-names>CJ</given-names>
+</name>
+</person-group>
+<article-title>Climate change and harmful algal blooms: insights and perspective</article-title>
+<source>Harmful Algae</source>
+<year iso-8601-date="2020">2020</year>
+<volume>91</volume>
+<issue>5</issue>
+<fpage>101731</fpage>
+<pub-id pub-id-type="doi">10.1016/j.hal.2019.101731</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Gobler et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gobler</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Doherty</surname>
+<given-names>OM</given-names>
+</name>
+<name>
+<surname>Hattenrath-Lehmann</surname>
+<given-names>TK</given-names>
+</name>
+<name>
+<surname>Griffith</surname>
+<given-names>AW</given-names>
+</name>
+<name>
+<surname>Kang</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Litaker</surname>
+<given-names>RW</given-names>
+</name>
+</person-group>
+<article-title>Ocean warming since 1982 has expanded the niche of toxic algal blooms in the North Atlantic and North Pacific oceans</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2017">2017</year>
+<volume>114</volume>
+<issue>19</issue>
+<fpage>4975</fpage>
+<lpage>4980</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1619575114</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Head et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Head</surname>
+<given-names>CEI</given-names>
+</name>
+<name>
+<surname>Bayley</surname>
+<given-names>DTI</given-names>
+</name>
+<name>
+<surname>Rowlands</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Roche</surname>
+<given-names>RC</given-names>
+</name>
+<name>
+<surname>Tickler</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Rogers</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Koldewey</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Turner</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Andradi-Brown</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Coral bleaching impacts from back-to-back 2015-2016 thermal anomalies in the remote central Indian Ocean</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2019">2019</year>
+<volume>38</volume>
+<issue>4</issue>
+<fpage>605</fpage>
+<lpage>618</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-019-01821-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Heisler et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Heisler</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Glibert</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Burkholder</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Cochlan</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Dennison</surname>
+<given-names>WC</given-names>
+</name>
+<name>
+<surname>Dortch</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Gobler</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Heil</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Humphries</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Lewitus</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Magnien</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>HG</given-names>
+</name>
+<name>
+<surname>Sellner</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Stockwell</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Stoecker</surname>
+<given-names>DK</given-names>
+</name>
+<name>
+<surname>Suddleson</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Eutrophication and harmful algal blooms: a scientific consensus</article-title>
+<source>Harmful Algae</source>
+<year iso-8601-date="2008">2008</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>3</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1016/j.hal.2008.08.006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Hill &amp; Wilkinson (2004)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Hill</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wilkinson</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<source>Methods for ecological monitoring of coral reefs</source>
+<year iso-8601-date="2004">2004</year>
+<publisher-loc>Townsville</publisher-loc>
+<publisher-name>Australian Institute of Marine Science</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Hobday et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hobday</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Alexander</surname>
+<given-names>LV</given-names>
+</name>
+<name>
+<surname>Perkins</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Smale</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Straub</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Oliver</surname>
+<given-names>ECJ</given-names>
+</name>
+<name>
+<surname>Benthuysen</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Burrows</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Donat</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Feng</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Holbrook</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Moore</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Scannell</surname>
+<given-names>HA</given-names>
+</name>
+<name>
+<surname>Sen Gupta</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wernberg</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>A hierarchical approach to defining marine heatwaves</article-title>
+<source>Progress in Oceanography</source>
+<year iso-8601-date="2016">2016</year>
+<volume>141</volume>
+<issue>652</issue>
+<fpage>227</fpage>
+<lpage>238</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pocean.2015.12.014</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Hobday et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hobday</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Oliver</surname>
+<given-names>ECJ</given-names>
+</name>
+<name>
+<surname>Gupta</surname>
+<given-names>AS</given-names>
+</name>
+<name>
+<surname>Benthuysen</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Burrows</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Donat</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Holbrook</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Moore</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Thomsen</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Wernberg</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Smale</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Categorizing and naming marine heatwaves</article-title>
+<source>Oceanography</source>
+<year iso-8601-date="2018">2018</year>
+<volume>31</volume>
+<issue>2</issue>
+<fpage>162</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.5670/oceanog.2018.205</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Humann &amp; Deloach (1992)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Humann</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Deloach</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Reef creature identification</source>
+<year iso-8601-date="1992">1992</year>
+<publisher-loc>Jacksonville, Florida</publisher-loc>
+<publisher-name>New World Publications</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Karlson et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Karlson</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Andersen</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Arneborg</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Cembella</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Eikrem</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>John</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>West</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Klemm</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Kobos</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lehtinen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lundholm</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Mazur-Marzec</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Naustvoll</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Poelman</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Provoost</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>De Rijcke</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Suikkanen</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Harmful algal blooms and their effects in coastal seas of Northern Europe</article-title>
+<source>Harmful Algae</source>
+<year iso-8601-date="2021">2021</year>
+<volume>102</volume>
+<issue>3</issue>
+<fpage>101989</fpage>
+<pub-id pub-id-type="doi">10.1016/j.hal.2021.101989</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Luter, Whalan &amp; Webster (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Luter</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Whalan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Webster</surname>
+<given-names>NS</given-names>
+</name>
+</person-group>
+<article-title>Prevalence of tissue necrosis and brown spot lesions in a common marine sponge</article-title>
+<source>Marine and Freshwater Research</source>
+<year iso-8601-date="2010">2010</year>
+<volume>61</volume>
+<issue>4</issue>
+<fpage>484</fpage>
+<lpage>489</lpage>
+<pub-id pub-id-type="doi">10.1071/MF09200</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Maldonado et al. (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Maldonado</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Aguilar</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bannister</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Conway</surname>
+<given-names>KW</given-names>
+</name>
+<name>
+<surname>Dayton</surname>
+<given-names>PK</given-names>
+</name>
+<name>
+<surname>Díaz</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Gutt</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Kelly</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kenchington</surname>
+<given-names>ELR</given-names>
+</name>
+<name>
+<surname>Leys</surname>
+<given-names>SP</given-names>
+</name>
+<name>
+<surname>Pomponi</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Rapp</surname>
+<given-names>HT</given-names>
+</name>
+<name>
+<surname>Rützler</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Tendal</surname>
+<given-names>OS</given-names>
+</name>
+<name>
+<surname>Vacelet</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Young</surname>
+<given-names>CM</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Rossi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Bramanti</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Gori</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>del Valle</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Sponge grounds as key marine habitats: a synthetic review of types, structure, functional roles, and conservation concerns</article-title>
+<source>Marine Animal Forests: The Ecology of Benthic Biodiversity Hotspots</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Berlin</publisher-loc>
+<publisher-name>Springer International Publishing</publisher-name>
+<fpage>1</fpage>
+<lpage>39</lpage>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Maliao, Turingan &amp; Lin (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Maliao</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Turingan</surname>
+<given-names>RG</given-names>
+</name>
+<name>
+<surname>Lin</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Phase-shift in coral reef communities in the Florida Keys National Marine Sanctuary (FKNMS)</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>154</volume>
+<issue>5</issue>
+<fpage>841</fpage>
+<lpage>853</lpage>
+<pub-id pub-id-type="doi">10.1007/s00227-008-0977-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>McCabe et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McCabe</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Hickey</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Kudela</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>Lefebvre</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Adams</surname>
+<given-names>NG</given-names>
+</name>
+<name>
+<surname>Bill</surname>
+<given-names>BD</given-names>
+</name>
+<name>
+<surname>Gulland</surname>
+<given-names>FMD</given-names>
+</name>
+<name>
+<surname>Thomson</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Cochlan</surname>
+<given-names>WP</given-names>
+</name>
+<name>
+<surname>Trainer</surname>
+<given-names>VL</given-names>
+</name>
+</person-group>
+<article-title>An unprecedented coastwide toxic algal bloom linked to anomalous ocean conditions</article-title>
+<source>Geophysical Research Letters</source>
+<year iso-8601-date="2016">2016</year>
+<volume>43</volume>
+<issue>19</issue>
+<fpage>10366</fpage>
+<lpage>10376</lpage>
+<pub-id pub-id-type="doi">10.1002/2016GL070023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>McGrath et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McGrath</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Woods</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jompa</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Haris</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>Growth and longevity in giant barrel sponges: redwoods of the reef or pines in the Indo-Pacific?</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2018">2018</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>15317</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-33294-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>McKenzie et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McKenzie</surname>
+<given-names>CH</given-names>
+</name>
+<name>
+<surname>Bates</surname>
+<given-names>SS</given-names>
+</name>
+<name>
+<surname>Martin</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Haigh</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Howland</surname>
+<given-names>KL</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>NI</given-names>
+</name>
+<name>
+<surname>Locke</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Peña</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Poulin</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Rochon</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rourke</surname>
+<given-names>WA</given-names>
+</name>
+<name>
+<surname>Scarratt</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Starr</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wells</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Three decades of Canadian marine harmful algal events: phytoplankton and phycotoxins of concern to human and ecosystem health</article-title>
+<source>Harmful Algae</source>
+<year iso-8601-date="2021">2021</year>
+<volume>102</volume>
+<fpage>101852</fpage>
+<pub-id pub-id-type="doi">10.1016/j.hal.2020.101852</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>McMurray et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Blum</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Leichter</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Bleaching of the giant barrel sponge <italic>Xestospongia muta</italic> in the Florida Keys</article-title>
+<source>Limnology and Oceanography</source>
+<year iso-8601-date="2011">2011</year>
+<volume>56</volume>
+<issue>6</issue>
+<fpage>2243</fpage>
+<lpage>2250</lpage>
+<pub-id pub-id-type="doi">10.4319/lo.2011.56.6.2243</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>McMurray, Blum &amp; Pawlik (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Blum</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Redwood of the reef: growth and age of the giant barrel sponge Xestospongia muta in the Florida Keys</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>155</volume>
+<issue>2</issue>
+<fpage>159</fpage>
+<lpage>171</lpage>
+<pub-id pub-id-type="doi">10.1007/s00227-008-1014-z</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>McMurray, Finelli &amp; Pawlik (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Finelli</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Population dynamics of giant barrel sponges on Florida coral reefs</article-title>
+<source>Journal of Experimental Marine Biology and Ecology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>473</volume>
+<fpage>73</fpage>
+<lpage>80</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jembe.2015.08.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>McMurray, Henkel &amp; Pawlik (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Henkel</surname>
+<given-names>TP</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Demographics of increasing populations of the giant barrel sponge Xestospongia muta in the Florida Keys</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>91</volume>
+<issue>2</issue>
+<fpage>560</fpage>
+<lpage>570</lpage>
+<pub-id pub-id-type="doi">10.1890/08-2060.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>McMurray, Pawlik &amp; Finelli (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Finelli</surname>
+<given-names>CM</given-names>
+</name>
+</person-group>
+<article-title>Trait-mediated ecosystem impacts: how morphology and size affect pumping rates of the Caribbean giant barrel sponge</article-title>
+<source>Aquatic Biology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>23</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.3354/ab00612</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Mollica et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mollica</surname>
+<given-names>NR</given-names>
+</name>
+<name>
+<surname>Guo</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Cohen</surname>
+<given-names>AL</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>KF</given-names>
+</name>
+<name>
+<surname>Foster</surname>
+<given-names>GL</given-names>
+</name>
+<name>
+<surname>Donald</surname>
+<given-names>HK</given-names>
+</name>
+<name>
+<surname>Solow</surname>
+<given-names>AR</given-names>
+</name>
+</person-group>
+<article-title>Ocean acidification affects coral growth by reducing skeletal density</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2018">2018</year>
+<volume>115</volume>
+<issue>8</issue>
+<fpage>1754</fpage>
+<lpage>1759</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1712806115</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Moore et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Moore</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Dreyer</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Ekstrom</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Moore</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Norman</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Klinger</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Allison</surname>
+<given-names>EH</given-names>
+</name>
+<name>
+<surname>Jardine</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>Harmful algal blooms and coastal communities: socioeconomic impacts and actions taken to cope with the 2015 U.S. West Coast domoic acid event</article-title>
+<source>Harmful Algae</source>
+<year iso-8601-date="2020">2020</year>
+<volume>96</volume>
+<issue>1</issue>
+<fpage>101799</fpage>
+<pub-id pub-id-type="doi">10.1016/j.hal.2020.101799</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Mueller et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mueller</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Bill</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Reinach</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Lasut</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Freund</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Schupp</surname>
+<given-names>PJ</given-names>
+</name>
+</person-group>
+<article-title>A comprehensive approach to assess marine macro litter pollution and its impacts on corals in the Bangka Strait, North Sulawesi</article-title>
+<source>Marine Pollution Bulletin</source>
+<year iso-8601-date="2022">2022</year>
+<volume>175</volume>
+<fpage>113369</fpage>
+<pub-id pub-id-type="doi">10.1016/j.marpolbul.2022.113369</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Pawlik &amp; McMurray (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pawlik</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>McMurray</surname>
+<given-names>SE</given-names>
+</name>
+</person-group>
+<article-title>The emerging ecological and biogeochemical importance of sponges on coral reefs</article-title>
+<source>Annual Review of Marine Science</source>
+<year iso-8601-date="2020">2020</year>
+<volume>12</volume>
+<issue>1</issue>
+<fpage>315</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-marine-010419-010807</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Powell et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Powell</surname>
+<given-names>AL</given-names>
+</name>
+<name>
+<surname>Hepburn</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>Patterns of sponge abundance across a gradient of habitat quality in the Wakatobi Marine National Park. Indonesia</article-title>
+<source>The Open Marine Biology Journal</source>
+<year iso-8601-date="2010">2010</year>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>31</fpage>
+<lpage>38</lpage>
+<pub-id pub-id-type="doi">10.2174/1874450801004010031</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Prada et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Prada</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Caroselli</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Mengoli</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Brizi</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Fantazzini</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Capaccioni</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Pasquini</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Fabricius</surname>
+<given-names>KE</given-names>
+</name>
+<name>
+<surname>Dubinsky</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Falini</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Goffredo</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Ocean warming and acidification synergistically increase coral mortality</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2017">2017</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.1038/srep40842</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Rasch, Kubinger &amp; Moder (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rasch</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Kubinger</surname>
+<given-names>KD</given-names>
+</name>
+<name>
+<surname>Moder</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>The two-sample t test: pre-testing its assumptions does not pay off</article-title>
+<source>Statistical Papers</source>
+<year iso-8601-date="2011">2011</year>
+<volume>52</volume>
+<issue>1</issue>
+<fpage>219</fpage>
+<lpage>231</lpage>
+<pub-id pub-id-type="doi">10.1007/s00362-009-0224-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>R Core Team (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>R Core Team</collab>
+</person-group>
+<source>R: a language and environment for statistical computing</source>
+<year iso-8601-date="2023">2023</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>R Foundation for Statistical Computing</publisher-name><uri>https://www.r-project.org</uri>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Reiswig (1974)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reiswig</surname>
+<given-names>HM</given-names>
+</name>
+</person-group>
+<article-title>Water transport, respiration and energetics of three tropical marine sponges</article-title>
+<source>Journal of Experimental Marine Biology and Ecology</source>
+<year iso-8601-date="1974">1974</year>
+<volume>14</volume>
+<issue>3</issue>
+<fpage>231</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-0981(74)90005-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Reverter et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reverter</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Helber</surname>
+<given-names>SB</given-names>
+</name>
+<name>
+<surname>Rohde</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>de Goeij</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Schupp</surname>
+<given-names>PJ</given-names>
+</name>
+</person-group>
+<article-title>Coral reef benthic community changes in the anthropocene: biogeographic heterogeneity, overlooked configurations, and methodology</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2022">2022</year>
+<volume>28</volume>
+<issue>6</issue>
+<fpage>1956</fpage>
+<lpage>1971</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.16034</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Reverter et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reverter</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Jackson</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Rohde</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Moeller</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bara</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Lasut</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Segre Reinach</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Schupp</surname>
+<given-names>PJ</given-names>
+</name>
+</person-group>
+<article-title>High taxonomic resolution surveys and trait-based analyses reveal multiple benthic regimes in North Sulawesi (Indonesia)</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2021">2021</year>
+<volume>11</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1038/s41598-021-95905-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Rix et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rix</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>de Goeij</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Mueller</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Struck</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Middelburg</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>van Duyl</surname>
+<given-names>FC</given-names>
+</name>
+<name>
+<surname>Al-Horani</surname>
+<given-names>FA</given-names>
+</name>
+<name>
+<surname>Wild</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Naumann</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>van Oevelen</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Coral mucus fuels the sponge loop in warm- and cold-water coral reef ecosystems</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2016">2016</year>
+<volume>6</volume>
+<issue>1</issue>
+<fpage>18715</fpage>
+<pub-id pub-id-type="doi">10.1038/srep18715</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Rosenfeld (2021)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Rosenfeld</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Master thesis: analysis of potential drivers for coral reef change around Koh Phangan, Gulf of Thailand</source>
+<year iso-8601-date="2021">2021</year>
+<publisher-loc>Germany</publisher-loc>
+<publisher-name>University of Oldenburg</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Rubio-Portillo et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rubio-Portillo</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Izquierdo-Muñoz</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Gago</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Rosselló-Mora</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Antón</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ramos-Esplá</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Effects of the 2015 heat wave on benthic invertebrates in the Tabarca Marine protected area (Southeast Spain)</article-title>
+<source>Marine Environmental Research</source>
+<year iso-8601-date="2016">2016</year>
+<volume>122</volume>
+<issue>1</issue>
+<fpage>135</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="doi">10.1016/j.marenvres.2016.10.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Schlegel &amp; Smit (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schlegel</surname>
+<given-names>RW</given-names>
+</name>
+<name>
+<surname>Smit</surname>
+<given-names>AJ</given-names>
+</name>
+</person-group>
+<article-title>heatwaveR: a central algorithm for the detection of heatwaves and cold-spells</article-title>
+<source>Journal of Open Source Software</source>
+<year iso-8601-date="2018">2018</year>
+<volume>3</volume>
+<issue>27</issue>
+<fpage>821</fpage>
+<pub-id pub-id-type="doi">10.21105/joss.00821</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Schläppy et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schläppy</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Schöttner</surname>
+<given-names>SI</given-names>
+</name>
+<name>
+<surname>Lavik</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Kuypers</surname>
+<given-names>MMM</given-names>
+</name>
+<name>
+<surname>de Beer</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Hoffmann</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Evidence of nitrification and denitrification in high and low microbial abundance sponges</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>157</volume>
+<issue>3</issue>
+<fpage>593</fpage>
+<lpage>602</lpage>
+<pub-id pub-id-type="doi">10.1007/s00227-009-1344-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Smith &amp; Smith (2009)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>RL</given-names>
+</name>
+</person-group>
+<source>Ökologie</source>
+<year iso-8601-date="2009">2009</year>
+<edition designator="6">sixth edition</edition>
+<publisher-loc>Hallbergmoos, Germany</publisher-loc>
+<publisher-name>Pearson Studium</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Starr et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Starr</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lair</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Michaud</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Scarratt</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Quilliam</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lefaivre</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Robert</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wotherspoon</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Michaud</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Ménard</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Sauvé</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Lessard</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Béland</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Measures</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Multispecies mass mortality of marine fauna linked to a toxic dinoflagellate bloom</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2017">2017</year>
+<volume>12</volume>
+<issue>5</issue>
+<elocation-id>e0176299</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0176299</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Stevely et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stevely</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Sweat</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Bert</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Sim-smith</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Kelly</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Sponge mortality at marathon and long key, florida: patterns of species response and population recovery</article-title>
+<source>Proceedings of the Gulf and Caribbean Fisheries Institute</source>
+<year iso-8601-date="2011">2011</year>
+<volume>63</volume>
+<fpage>385</fpage>
+<lpage>400</lpage>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Strano et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Strano</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Micaroni</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Davy</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Woods</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bell</surname>
+<given-names>JJ</given-names>
+</name>
+</person-group>
+<article-title>Near-future extreme temperatures affect physiology, morphology and recruitment of the temperate sponge Crella incrustans</article-title>
+<source>Science of The Total Environment</source>
+<year iso-8601-date="2022">2022</year>
+<volume>823</volume>
+<issue>16</issue>
+<fpage>153466</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2022.153466</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Stuhldreier et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stuhldreier</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Bastian</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Schönig</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Wild</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Effects of simulated eutrophication and overfishing on algae and invertebrate settlement in a coral reef of Koh Phangan, Gulf of Thailand</article-title>
+<source>Marine Pollution Bulletin</source>
+<year iso-8601-date="2015">2015</year>
+<volume>92</volume>
+<issue>1–2</issue>
+<fpage>35</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="doi">10.1016/j.marpolbul.2015.01.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Swierts et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Swierts</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Peijnenburg</surname>
+<given-names>KTCA</given-names>
+</name>
+<name>
+<surname>de Leeuw</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Breeuwer</surname>
+<given-names>JAJ</given-names>
+</name>
+<name>
+<surname>Cleary</surname>
+<given-names>DFR</given-names>
+</name>
+<name>
+<surname>de Voogd</surname>
+<given-names>NJ</given-names>
+</name>
+</person-group>
+<article-title>Globally intertwined evolutionary history of giant barrel sponges</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="2017">2017</year>
+<volume>36</volume>
+<issue>3</issue>
+<fpage>933</fpage>
+<lpage>945</lpage>
+<pub-id pub-id-type="doi">10.1007/s00338-017-1585-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Vicente (1990)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vicente</surname>
+<given-names>VP</given-names>
+</name>
+</person-group>
+<article-title>Response of sponges with autotrophic endosymbionts during the coral-bleaching episode in Puerto Rico</article-title>
+<source>Coral Reefs</source>
+<year iso-8601-date="1990">1990</year>
+<volume>8</volume>
+<issue>4</issue>
+<fpage>199</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00265011</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Vogel (1977)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vogel</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Current-induced flow through living sponges in nature</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="1977">1977</year>
+<volume>74</volume>
+<issue>5</issue>
+<fpage>2069</fpage>
+<lpage>2071</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.74.5.2069</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Webster et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Webster</surname>
+<given-names>NS</given-names>
+</name>
+<name>
+<surname>Xavier</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Freckelton</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Motti</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Cobb</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Shifts in microbial and chemical patterns within the marine sponge Aplysina aerophoba during a disease outbreak</article-title>
+<source>Environmental Microbiology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>10</volume>
+<issue>12</issue>
+<fpage>3366</fpage>
+<lpage>3376</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1462-2920.2008.01734.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>White (1991)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>White</surname>
+<given-names>AT</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Chou</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Chua</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Khoo</surname>
+<given-names>HW</given-names>
+</name>
+<name>
+<surname>Lim</surname>
+<given-names>PE</given-names>
+</name>
+<name>
+<surname>Paw</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Silvestre</surname>
+<given-names>GT</given-names>
+</name>
+<name>
+<surname>Valencia</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>AT</given-names>
+</name>
+<name>
+<surname>Wong</surname>
+<given-names>PK</given-names>
+</name>
+</person-group>
+<article-title>Coral reef management in the ASEAN/US Coastal Resources Management Project</article-title>
+<year iso-8601-date="1991">1991</year><conf-name>Towards an Integrated Management of Tropical Coastal Resources: Proceedings of the ASEAN/US Technical Workshop on Integrated Tropical Coastal Zone Management 28–31 October 1988</conf-name>
+<publisher-loc>Singapore</publisher-loc>
+<publisher-name>Temasek Hall, National University of Singapore</publisher-name>
+<fpage>343</fpage>
+<lpage>353</lpage>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Wulff (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wulff</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<article-title>Ecological interactions of marine sponges</article-title>
+<source>Canadian Journal of Zoology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>84</volume>
+<issue>2</issue>
+<fpage>146</fpage>
+<lpage>166</lpage>
+<pub-id pub-id-type="doi">10.1139/z06-019</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Xiao et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Xiao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Agustí</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Pan</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Duarte</surname>
+<given-names>CM</given-names>
+</name>
+</person-group>
+<article-title>Warming amplifies the frequency of harmful algal blooms with eutrophication in Chinese coastal waters</article-title>
+<source>Environmental Science &amp; Technology</source>
+<year iso-8601-date="2019">2019</year>
+<volume>53</volume>
+<issue>22</issue>
+<fpage>13031</fpage>
+<lpage>13041</lpage>
+<pub-id pub-id-type="doi">10.1021/acs.est.9b03726</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>Young et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Young</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Sharpe</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Barciela</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Nichols</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Davidson</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Berdalet</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Fleming</surname>
+<given-names>LE</given-names>
+</name>
+</person-group>
+<article-title>Marine harmful algal blooms and human health: a systematic scoping review</article-title>
+<source>Harmful Algae</source>
+<year iso-8601-date="2020">2020</year>
+<volume>98</volume>
+<issue>1</issue>
+<fpage>101901</fpage>
+<pub-id pub-id-type="doi">10.1016/j.hal.2020.101901</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,2426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16522</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16522</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Biochemistry</subject>
+               <subject>Microbiology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title><italic>Litsea glaucescens</italic> Kuth possesses bactericidal activity against <italic>Listeria monocytogenes</italic></article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" equal-contrib="yes">
+               <name>
+                  <surname>Gress-Antonio</surname>
+                  <given-names>Carlos David</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Rivero-Perez</surname>
+                  <given-names>Nallely</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Marquina-Bahena</surname>
+                  <given-names>Silvia</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Alvarez</surname>
+                  <given-names>Laura</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>Zaragoza-Bastida</surname>
+                  <given-names>Adrian</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-6" contrib-type="author">
+               <name>
+                  <surname>Martínez-Juárez</surname>
+                  <given-names>Víctor Manuel</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-7" contrib-type="author">
+               <name>
+                  <surname>Sosa-Gutierrez</surname>
+                  <given-names>Carolina G.</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-8" contrib-type="author">
+               <name>
+                  <surname>Ocampo-López</surname>
+                  <given-names>Juan</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-9" contrib-type="author">
+               <name>
+                  <surname>Zepeda-Bastida</surname>
+                  <given-names>Armando</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-10" contrib-type="author" equal-contrib="yes" corresp="yes">
+               <name>
+                  <surname>Ojeda-Ramírez</surname>
+                  <given-names>Deyanira</given-names>
+               </name>
+               <email>dojeda@uaeh.edu.mx</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Área Académica de Medicina Veterinaria y Zootecnia, Universidad Autónoma del Estado de Hidalgo</institution>, <city> Tulancingo de Bravo</city>, <state>Hidalgo</state>, <country>Mexico</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Centro de Investigaciones Químicas, Universidad Autónoma del Estado de Morelos</institution>, <city>Cuernavaca</city>, <state>Morelos</state>, <country>Mexico</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Puia</surname>
+                  <given-names>Zothan</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-01">
+            <day>1</day>
+            <month>12</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16522</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2023-06-29">
+               <day>29</day>
+               <month>6</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-11-03">
+               <day>3</day>
+               <month>11</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Gress-Antonio et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Gress-Antonio et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16522"/>
+         <abstract>
+            <sec>
+               <title>Background</title>
+               <p><italic>Litsea glaucencens</italic> Kuth is an aromatic plant used for food seasoning food and in Mexican traditional medicine. Among, <italic>L. glaucencens</italic> leaves properties, it has proven antibacterial activity which can be used against opportunistic pathogens like <italic>Listeria monocytogenes</italic>, a foodborne bacteria that is the causal agent of listeriosis, a disease that can be fatal in susceptible individuals. The aim of this work was to investigate the antibacterial activity of <italic>L. glaucescens</italic> Kuth leaf extracts against <italic>L. monocytogenes</italic> and to identify its bioactive components.</p>
+            </sec>
+            <sec>
+               <title>Material and Methods</title>
+               <p><italic>L. glaucences</italic> leaves were macerated with four solvents of different polarity (<italic>n</italic>-hexane, dichloromethane, ethyl acetate, and methanol). To determine the capacity to inhibit bacterial proliferation <italic>in vitro</italic>, agar diffusion and microdilution methods were used. Next, we determined the minimal bactericidal concentration (MBC). Finally, we determined the ratio of MBC/MIC. Metabolites present in the active methanolic extract from <italic>L. glaucescens</italic> Kuth (LgMeOH) were purified by normal-phase open column chromatography. The structure of the antibacterial metabolite was determined using nuclear magnetic resonance (<sup>1</sup>H, <sup>13</sup>C, COSY, HSQC) and by comparison with known compounds.</p>
+            </sec>
+            <sec>
+               <title>Results</title>
+               <p>The LgMeOH extract was used to purify the compound responsible for the observed antimicrobial activity. This compound was identified as 5,7-dihydroxyflavanone (pinocembrin) by analysis of its spectroscopic data and comparison with those described. The MIC and MBC values obtained for pinocembrin were 0.68 mg/mL, and the ratio MBC/MIC for both LgMeOH and pinocembrin was one, which indicates bactericidal activity.</p>
+            </sec>
+            <sec>
+               <title>Conclusion</title>
+               <p><italic>L. glaucences</italic> Kuth leaves and its metabolite pinocembrin can be used to treat listeriosis due the bactericidal activity against <italic>L. monocytogenes</italic>.</p>
+            </sec>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd><italic>Litsea glaucescens</italic></kwd>
+            <kwd><italic>Listeria monocytogenes</italic></kwd>
+            <kwd>Pinocembrin</kwd>
+            <kwd>Bactericidal activity</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>CONAHCYT</funding-source>
+               <award-id>416289</award-id>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source>The Laboratorio Nacional de Estructura de Macromoléculas (CONAHCYT 294406) supported the spectroscopic analysis</funding-source>
+            </award-group>
+            <funding-statement>Carlos David Gress-Antonio was awarded fellowship No. 416289 by CONAHCYT. The Laboratorio Nacional de Estructura de Macromoléculas (CONAHCYT 294406) supported the spectroscopic analysis. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Foodborne diseases are caused by consuming food or beverages contaminated with viruses, bacteria, parasites, toxins, metals, and prions. Nowadays, foodborne diseases are an important public health problem around the world since; each outbreak has a series of direct and indirect costs, affecting public health, the economy and international food trade (<xref ref-type="bibr" rid="ref-16">Hoffmann &amp; Scallan Walter, 2020</xref>). According to World Health Organization (<xref ref-type="bibr" rid="ref-42">WHO, 2023</xref>), in 2019, at least 1 in 10 people became sick and 33 million individuals with healthy lifestyles have died annually due to foodborne diseases which are particularly dangerous for children under &lt;5 years old (1/3 young children’s deaths) or individuals with a weakened immune system. WHO also identifies, <italic>Listeria monocytogenes</italic> and <italic>Sallmonella</italic> as two of the main etiological agents of foodborne diseases.</p>
+         <p><italic>Listeria monocytogenes</italic> is a foodborne opportunistic bacterial pathogen and is the causal agent of listeriosis, a disease that can be fatal to susceptible individuals (<xref ref-type="bibr" rid="ref-18">Jung, Yum &amp; Jeong, 2017</xref>; <xref ref-type="bibr" rid="ref-6">Disson, Moura &amp; Lecuit, 2021</xref>). Listeriosis is characterized by a wide spectrum of infections, which are categorized into two forms: severe invasive listeriosis and non-invasive febrile gastroenteritis. The first, is one of the most serious foodborne diseases, occurs in immunocompromised individuals and manifests itself as sepsis, meningitis, endocarditis, encephalitis, meningoencephalitis, septicemia and brain infection. While non-invasive gastroenteritis causes septicemia, atypical meningitis and febrile gastroenteritis accompanied by headache and backache (<xref ref-type="bibr" rid="ref-26">Matle, Mbatha &amp; Madoroba, 2020</xref>).</p>
+         <p>Most cases of listeriosis are caused by consumed food products contaminated with <italic>L. monocytogenes</italic> (<xref ref-type="bibr" rid="ref-8">Duze, Marimani &amp; Patel, 2021</xref>), which can survive and proliferate over a broad range of environmental conditions (low pH, high salt concentration, refrigeration temperature), as well as sublethal concentrations of biocides. This bacterium can be found in water, soil, food products, vegetables, meat, fish, seafood, ready-to-eat food, processed food, milk and dairy products. In addition, there are reports of <italic>L. monocytogens</italic> strains tolerant to biocides used in food processing and antibiotics, increasing the cases of listeriosis worldwide (<xref ref-type="bibr" rid="ref-8">Duze, Marimani &amp; Patel, 2021</xref>), which pose a threat to food safety and public health (<xref ref-type="bibr" rid="ref-2">Baquero et al., 2020</xref>). For this reason, the search for new antilisterial drugs is necessary.</p>
+         <p><italic>Litsea glaucescens</italic> Kuth is an aromatic tree endemic to México and Central America. Its common name is Mexican Bay-leaf and is known as “laurel” in Spanish. The leaves of <italic>L. glaucescens</italic> are commonly used in this area for food seasoning, replacing the leaves of the European species <italic>Laurus nobilis</italic> (Lauraceae), but they are also used in traditional medicine to treat diarrhea, vomit, bone pain, postpartum baths, colic in children, and illnesses related to the central nervous system (<xref ref-type="bibr" rid="ref-12">Guzmán-Gutiérrez et al., 2012</xref>). Due to its extensive use, <italic>L. glaucescens</italic> is one of the main non-timber forest products in México (<xref ref-type="bibr" rid="ref-12">Guzmán-Gutiérrez et al., 2012</xref>; <xref ref-type="bibr" rid="ref-5">Dávila-Figueroa et al., 2016</xref>). Several researchers have evaluated the antihypertensive, antidepressant, antioxidant, and antibacterial activities of this plant (<xref ref-type="bibr" rid="ref-27">Meckes et al., 1995</xref>; <xref ref-type="bibr" rid="ref-12">Guzmán-Gutiérrez et al., 2012</xref>; <xref ref-type="bibr" rid="ref-4">Cruz et al., 2014</xref>; <xref ref-type="bibr" rid="ref-13">Guzmán Gutiérrez, Reyes Chilpa &amp; Bonilla Jaime, 2014</xref>; <xref ref-type="bibr" rid="ref-11">Gamboa-Gómez et al., 2016</xref>; <xref ref-type="bibr" rid="ref-28">Medina-Torres et al., 2016</xref>; <xref ref-type="bibr" rid="ref-23">López-Romero et al., 2018</xref>; <xref ref-type="bibr" rid="ref-37">Shi, Zhang &amp; Guo, 2018</xref>; <xref ref-type="bibr" rid="ref-24">López-Romero et al., 2022</xref>). Regarding its antibacterial activities, studies have demonstrated the activity of this plant against some Gram-positive and Gram-negative bacteria, but its activity against <italic>L. monocytogenes</italic> has not been evaluated until now. The aim of this work was to produce different <italic>L</italic>. <italic>glaucescens</italic> extracts to test their effect against <italic>L</italic>. <italic>monocytogenes</italic> and to identify the compound responsible for the antibacterial activity.</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials &amp; Methods</title>
+         <sec>
+            <title>Plant material</title>
+            <p><italic>Litsea glaucescens</italic> leaves were collected in June 2019 from Cuautepec de Hinojosa, Hidalgo, México and were identified by Edith López Villafranco, head of the Herbarium at the Faculty of Higher Education Iztacala from Universidad Nacional Autónoma de México. A voucher sample was deposited in the herbarium with the code number 2533IZTA, then the leaves were dried under dark conditions at room temperature for three weeks. Afterwards, the plant material was ground using an electric blender.</p>
+         </sec>
+         <sec>
+            <title>Preparation of extracts</title>
+            <p>The dried, ground material (2.4 kg) was extracted consecutively by maceration with <italic>n</italic>-hexane (LgHex), dichlorometane (LgCH<sub>2</sub>Cl<sub>2</sub>), ethyl acetate (LgEtOAc), and methanol (LgMeOH) for 24 h, three times. All extractions were performed using 1:3 plant material/solvent ratio. The solvent was eliminated under reduced pressure distillation with a rotary evaporator (Büchi, Flawil, Switzerland).</p>
+         </sec>
+         <sec>
+            <title>Methanolic extract fractionation</title>
+            <p>The LgMeOH extract (18 g) was subjected to open column chromatography (60 x 680 mm) packed with silica gel 60 (mesh 70-230, 540 g) (Merck, Boston, MA, USA), and eluted with <italic>n</italic>-hexane/EtOAc/CH<sub>2</sub>Cl<sub>2</sub>/MeOH gradient system (100:0:0:0, 95:05:0:0, 90:10:0:0, 80:20:0:0, 60:40:0:0, 0:0:100:0, 0:0:70:30, 0:0:60:40, 0:0:50:50, 0:0:0:100). The volume of all samples was 500 mL. One hundred forty-two fractions were obtained, which were grouped into ten final fractions (C1F1 to C1F10) according to their chemical composition.</p>
+         </sec>
+         <sec>
+            <title>Flavanone detection and identification</title>
+            <p>Fraction C1F4 (1 g) was fractionated using open column chromatography (30 × 200 mm) previously packed with 30 g of silica gel 60 (mesh 70-230) (Merck) and eluted with a n-hexane/acetone (80:20, 79:21, 79:21, 78:22, 77:23, 74:26, 70:30) system. The volume of all samples was 10 mL. Fifty-five fractions were obtained, which were grouped into six final fractions (C2F1-C2F6) according to their chemical composition. Spectroscopic data for <sup>1</sup>H, <sup>13</sup>C, COSY, and HSQC NMR of C2F4 was performed in a Bruker Avance III HD 500 MHz NMR Spectrometer (Bruker, MA, USA). A mixture of CDCl<sub>3</sub>:CD<sub>3</sub>OD (1:1 <italic>v:v</italic>), as well as DMSO-d<sub>6</sub> (Sigma-Aldrich, St. Louis, MO, USA) were used as a solvent.</p>
+         </sec>
+         <sec>
+            <title>Antibacterial assay</title>
+            <sec>
+               <title>Bacterial strain</title>
+               <p><italic>Listeria monocytogenes</italic> (ATCC19113) was donated by Javier Castro Rosas (ICBI, UAEH) and was used to test the antibacterial activity of the extracts, fractions, sub-fractions, and the purified compound.</p>
+               <p>The bacterial strain was cultivated in Muller-Hinton (MH) agar (Oxoid Ltd., Basingstoke, UK) at 37 °C. For the test, a bacterial inoculum was prepared under the National Committee for Clinical Laboratory Standards guidelines. Direct colony suspensions of overnight subcultures were diluted in MH broth (Difco, San Jose, CA, USA) and were adjusted to a 0.5 McFarland turbidity standard (approximately 10<sup>8</sup> colony-forming units [CFU]/mL).</p>
+            </sec>
+            <sec>
+               <title>Agar diffusion method</title>
+               <p>Antimicrobial activities of the extracts and fractions were evaluated by agar diffusion assays according to <xref ref-type="bibr" rid="ref-29">Mhalla et al. (2017)</xref> and <xref ref-type="bibr" rid="ref-15">Hoekou et al. (2017)</xref> with slight modifications. The plant extracts were prepared at 100, 50, 25 and 12.5 mg/mL, while the fractions were diluted to 10 mg/mL, and Kanamycin and Tetracycline (PanReactAppliChem, Darmstadt, Germany) at 0.032 mg/mL were used as positive control; finally, all dissolved samples were filtered in a sterile filter unit Millex<sup>®</sup>GV of 0.22 µm (Merck Millipore Ltd, Ireland). LgHex, LgAcOEt, and the fractions C1F3 to C1F9 were dissolved in acetone, LgCH<sub>2</sub>Cl<sub>2</sub> and LgMeOH were dissolved in acetone:ethanol (1:1; <italic>v/v</italic>), C1F1 was dissolved in <italic>n</italic>-hexane, C1F2 was dissolved in <italic>n</italic>-hexane:acetone (1:1; <italic>v/v</italic>), and Kanamycin and Tetracycline were dissolved in sterile water. The sterile filter paper disks (six mm diameter) (Whatman, Maidstone, Kent, UK) were impregnated with the sample for the evaluation, then the solvent was allowed to evaporate from the extract-laden discs, and three extract/fraction/controls-treated discs were placed on a plate that was inoculated with fresh cell suspension (10<sup>8</sup> CFU). The negative control comprised the solvent used to dissolve the extracts and fractions. The plates were then incubated at 37 °C for 24 h. The diameters of the inhibition zones produced by the plant extracts, fractions, and controls (including the disk) were measured and recorded. All experiments were carried out in triplicate.</p>
+            </sec>
+            <sec>
+               <title>Minimal inhibitory concentration (MIC)</title>
+               <p>The active test compounds with inhibition zones and 5,7-dihidroxyflavanone were further investigated to determine their minimal inhibitory concentration (MIC) using a microdilution method (<xref ref-type="bibr" rid="ref-30">Morales-Ubaldo et al., 2022</xref>). Briefly, in 96-well plates, the stock solutions of the extracts were serially diluted twofold in methanol:water (1:9 <italic>v</italic>/<italic>v</italic>) to final concentrations between 200 to 0.195 mg/mL for extracts, 12.5 to 0.006 mg/mL for C1F1 to C1F10 fractions and 6.14 to 0.006 mg/mL for C2F1 to C2F6. Then, 100 µL of the inoculum (10<sup>8</sup> CFU/mL) were added to the wells. A sterility check (medium and solvent), negative control (medium, solvent, and inoculum), and positive control (medium, solvent, inoculum, and Kanamycin and Tetracycline) were included for each experiment. The plates were then incubated at 37 °C for 24 h at 70 rpm. After incubation, 20 µL of the INT salt (<italic>p</italic>-iodonitrotetrazolium chloride, 2 mg/mL) (Sigma-Aldrich) were added to each well and the plates were incubated at 37 °C for 30 min at 70 rpm. Bacterial viability was observed by the formation of pink color after the addition of INT. The MIC of each compound was established as the lowest concentration that completely inhibited the visible bacterial growth.</p>
+            </sec>
+            <sec>
+               <title>Minimum bactericidal concentration (MBC)</title>
+               <p>The minimum bactericidal concentration (MBC) was performed according to <xref ref-type="bibr" rid="ref-30">Morales-Ubaldo et al. (2022)</xref> with slight modifications. Briefly, 10 µL of each sample from the plates where there was no INT color change were added to the agar plates inoculated with a fresh cell suspension (10<sup>8</sup> CFU). Kanamycin and tetracycline at 32 µg per well were used as positive controls. The negative control comprised the vehicle where the sample was dissolved. These preparations were incubated at 37 °C for 48 h at 70 rpm. The MBC corresponds to the lowest concentration in which no growth was detected. All experiments were performed in triplicate. Moreover, the ratio of MBC/MIC of each sample was calculated to assess the antibacterial power.</p>
+            </sec>
+         </sec>
+         <sec>
+            <title>Statistical analysis</title>
+            <p>The results obtained from the agar diffusion method were analyzed with an ANOVA, followed by a post-hoc Tukey test. Values of <italic>p</italic> &lt; 0.01 were considered significantly different.</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>The LgHex, LgAcOEt, LgCH<sub>2</sub>Cl<sub>2</sub>, and LgMeOH extracts were 24.0, 16.8, 52.8, and 76.8 g/kg of dry matter, respectively. The chromatographic fractionation of the LgMeOH extract allowed us to obtain nine fractions’ groups (C1F1 to C1F9). Further, C1F4 chromatographic purification afforded six final fractions (C2F1 to C2F6).</p>
+         <p>The TLC analysis of C2F4 indicated the presence of a pure compound, which was a white amorphous solid with mp = 111 °C. This compound was identified as pinocembrin (<bold>1</bold>) by NMR spectral data analysis. The proton nuclear magnetic resonance (<sup>1</sup>H NMR) spectrum of <bold>1</bold> on CDCl<sub>3</sub>-CD<sub>3</sub>OD (<xref ref-type="table" rid="table-1">Table 1</xref>) showed signals for two aromatic units, one ABX aliphatic system, and two hydroxy groups. The multiple signal that integrates for five protons is ascribable to a monosubstituted benzene ring, while the AB system signals at <italic>δ</italic><sub>H</sub> 5.93 (1H, d, <italic>J</italic> = 2.1 Hz) and 5.94 (1H, d, <italic>J</italic> = 2.1 Hz) were characteristic of a 1,2,3,5 tetrasubstituted benzene moiety.</p>
+         <table-wrap id="table-1" orientation="landscape">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/table-1</object-id><label>Table 1</label><caption>
+               <title><sup>1</sup>H and <sup>13</sup>C NMR data of Pinocembrin (<bold>1</bold>) in different solvents.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16522/table-1.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th align="center" colspan="2"><bold>1</bold> (This work)<break/>CDCl<sub>3</sub>-CD<sub>3</sub>OD</th>
+                        <th><bold>1</bold> (This work)<break/>DMSO-d<sub>6</sub></th>
+                        <th align="center" colspan="2"><bold>1</bold> from <xref ref-type="bibr" rid="ref-39">Tanjung, Tjahjandarie &amp; Sentosa (2013)</xref>. (Acetone- d<sub>6</sub>)</th>
+                        <th align="center" colspan="2"><bold>1</bold> from <xref ref-type="bibr" rid="ref-31">Napal, Carpinella &amp; Palacios (2009)</xref>. (DMSO-d<sub>6</sub>)</th>
+                        <th align="center" colspan="2"><bold>1</bold> from <xref ref-type="bibr" rid="ref-32">Nyokat, et al. (2017)</xref>. (CDCl<sub>3</sub>)</th>
+                     </tr>
+                     <tr>
+                        <th/>
+                        <th><italic>δ</italic><sub>H</sub></th>
+                        <th><italic>δ</italic><sub>C</sub></th>
+                        <th colspan="2"><italic>δ</italic><sub>H</sub></th>
+                        <th><italic>δ</italic><sub>H</sub></th>
+                        <th><italic>δ</italic><sub>C</sub></th>
+                        <th><italic>δ</italic><sub>H</sub></th>
+                        <th><italic>δ</italic><sub>C</sub></th>
+                        <th colspan="2"><italic>δ</italic><sub>H</sub></th>
+                        <th colspan="2"><italic>δ</italic><sub>C</sub></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>2</td>
+                        <td>5.36 (1H, dd, <italic>J</italic> = 13.0, 2.8 Hz)</td>
+                        <td align="char" char=".">79.26</td>
+                        <td colspan="2">5.39 (1H, dd, <italic>J</italic> = 12.5, 3.1 Hz)</td>
+                        <td>5.49 (1H, dd, <italic>J</italic> = 4.0, 12.0 Hz)</td>
+                        <td align="char" char=".">–</td>
+                        <td>5.44 (1H, dd, <italic>J</italic> = 3.2, 12.8 Hz</td>
+                        <td align="char" char=".">80.17</td>
+                        <td colspan="2">5.43 (2H, t<italic>, J</italic> = 6.7 Hz)</td>
+                        <td align="char" char="." colspan="2">79.18</td>
+                     </tr>
+                     <tr>
+                        <td>3ax</td>
+                        <td>3.01 (1H, dd, <italic>J</italic> = 17.1, 13.0 Hz)</td>
+                        <td>43.39</td>
+                        <td colspan="2">3.05 (1H, dd, <italic>J</italic> = 17.1, 12.6 Hz)</td>
+                        <td>3.06 (1H, dd<italic>, J</italic> = 12.0, 14.0 Hz)</td>
+                        <td>–</td>
+                        <td>3.06 (1H, dd, <italic>J</italic> = 12.8, 17.2 Hz)</td>
+                        <td>40.45</td>
+                        <td colspan="2">3.10</td>
+                        <td colspan="2">43.37</td>
+                     </tr>
+                     <tr>
+                        <td>3eq</td>
+                        <td>2.73 (1H, dd, <italic>J</italic> = 17.2, 3.0 Hz).</td>
+                        <td>–</td>
+                        <td colspan="2">2.59 (1H, dd, <italic>J</italic> = 17.1, 3.1)</td>
+                        <td>2.78 (1H, dd, <italic>J</italic> = 4.0, 14.0 Hz)</td>
+                        <td>–</td>
+                        <td>2.77 (1H, dd, <italic>J</italic> = 17.2, 3.2 Hz)</td>
+                        <td>–</td>
+                        <td colspan="2">2.86</td>
+                        <td colspan="2">–</td>
+                     </tr>
+                     <tr>
+                        <td>4</td>
+                        <td>–</td>
+                        <td>195.89</td>
+                        <td/>
+                        <td>–</td>
+                        <td>197.3</td>
+                        <td>–</td>
+                        <td>196.75</td>
+                        <td colspan="2">–</td>
+                        <td colspan="2">195.65</td>
+                     </tr>
+                     <tr>
+                        <td>5</td>
+                        <td>–</td>
+                        <td>166.32</td>
+                        <td/>
+                        <td>–</td>
+                        <td>165.4</td>
+                        <td>–</td>
+                        <td>164.41</td>
+                        <td colspan="2">–</td>
+                        <td colspan="2">164.34</td>
+                     </tr>
+                     <tr>
+                        <td>6</td>
+                        <td>5.93 (1H, d, <italic>J</italic> = 2.1 Hz)</td>
+                        <td>96.68</td>
+                        <td colspan="2">5.68 (1H, d, <italic>J</italic> = 1.5 Hz)</td>
+                        <td>5.86 (1H, d, <italic>J</italic> = 2.0 Hz)</td>
+                        <td>–</td>
+                        <td>5.52 (1H, d, <italic>J</italic> = 2.2 Hz)</td>
+                        <td>96.84</td>
+                        <td colspan="2">6.03</td>
+                        <td colspan="2">96.81</td>
+                     </tr>
+                     <tr>
+                        <td>7</td>
+                        <td>–</td>
+                        <td>167.13</td>
+                        <td/>
+                        <td>9.75 (1H, br, s, 7-OH)</td>
+                        <td>168.5</td>
+                        <td>–</td>
+                        <td>167.62</td>
+                        <td colspan="2">–</td>
+                        <td colspan="2">–</td>
+                     </tr>
+                     <tr>
+                        <td>8</td>
+                        <td>5.94 (1H, d, <italic>J</italic> = 2.1 Hz)</td>
+                        <td>95.80</td>
+                        <td colspan="2">5.71 (1H, d, <italic>J</italic> = 1.5 Hz)</td>
+                        <td>5.92 (1H, d, <italic>J</italic> = 2.0 Hz)</td>
+                        <td>164.7</td>
+                        <td>6.01 (1H, d, <italic>J</italic> = 2.2 Hz)</td>
+                        <td>95.94</td>
+                        <td colspan="2">6.03</td>
+                        <td colspan="2">95.56</td>
+                     </tr>
+                     <tr>
+                        <td>9</td>
+                        <td>–</td>
+                        <td>164.06</td>
+                        <td/>
+                        <td>–</td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td>163.59</td>
+                        <td colspan="2">–</td>
+                        <td colspan="2">163.11</td>
+                     </tr>
+                     <tr>
+                        <td>10</td>
+                        <td>–</td>
+                        <td>102.57</td>
+                        <td/>
+                        <td>–</td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td>102.69</td>
+                        <td colspan="2">–</td>
+                        <td colspan="2">102.97</td>
+                     </tr>
+                     <tr>
+                        <td>1′</td>
+                        <td>–</td>
+                        <td>138.62</td>
+                        <td/>
+                        <td>–</td>
+                        <td>140.4</td>
+                        <td>–</td>
+                        <td>139.59</td>
+                        <td colspan="2">–</td>
+                        <td colspan="2">138.42</td>
+                     </tr>
+                     <tr>
+                        <td>2′</td>
+                        <td>7.32–7.410 (5 H, m)</td>
+                        <td>126.30</td>
+                        <td colspan="2">7.21–7.34 (5H, m)</td>
+                        <td>7.44 (2H, m)</td>
+                        <td>127.3</td>
+                        <td>7.41 (5H, m)</td>
+                        <td>127.47</td>
+                        <td colspan="2">7.41–7.49, m</td>
+                        <td colspan="2">126.16</td>
+                     </tr>
+                     <tr>
+                        <td>3′</td>
+                        <td>7.32–7.410 (5 H, m)</td>
+                        <td>128.96</td>
+                        <td colspan="2">7.21–7.34 (5H, m)</td>
+                        <td>7.57 (3H, m)</td>
+                        <td>129.7</td>
+                        <td>7.41 (5H, m)</td>
+                        <td>129.46</td>
+                        <td colspan="2">7.41–7.49, m</td>
+                        <td colspan="2">128.87</td>
+                     </tr>
+                     <tr>
+                        <td>4′</td>
+                        <td>7.32–7.410 (5 H, m)</td>
+                        <td>128.96</td>
+                        <td colspan="2">7.21–7.34 (5H, m)</td>
+                        <td>7.57 (3H, m)</td>
+                        <td>129.6</td>
+                        <td>7.41 (5H, m)</td>
+                        <td>129.39</td>
+                        <td colspan="2">7.41–7.49, m</td>
+                        <td colspan="2">128.87</td>
+                     </tr>
+                     <tr>
+                        <td>5′</td>
+                        <td>7.32–7.410 (5 H, m)</td>
+                        <td>128.96</td>
+                        <td colspan="2">7.21–7.34 (5H, m)</td>
+                        <td>7.57 (3H, m)</td>
+                        <td>129.7</td>
+                        <td>7.41 (5H, m)</td>
+                        <td>129.46</td>
+                        <td colspan="2">7.41–7.49, m</td>
+                        <td colspan="2">128.87</td>
+                     </tr>
+                     <tr>
+                        <td>6′</td>
+                        <td>7.32–7.410 (5 H, m)</td>
+                        <td>126.30</td>
+                        <td colspan="2">7.21–7.34 (5H, m)</td>
+                        <td>7.44 (2H, m)</td>
+                        <td>127.3</td>
+                        <td>7.41 (5H, m)</td>
+                        <td>127.47</td>
+                        <td colspan="2">7.41–7.49, m</td>
+                        <td colspan="2">126.16</td>
+                     </tr>
+                     <tr>
+                        <td>C-5-OH</td>
+                        <td>11.99 (1H, brs)</td>
+                        <td>–</td>
+                        <td colspan="2">11.95 (1H, s, D<sub>2</sub>O exchange)</td>
+                        <td>12.20 (1H, brs, OH-C-5)</td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td colspan="2">12.07</td>
+                        <td colspan="2">–</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+         </table-wrap>
+         <p>The aliphatic signals at <italic>δ</italic><sub>H</sub> 2.73 (1H, dd, <italic>J</italic> = 17.2, 3.0 Hz), 3.01 (1H, dd, <italic>J</italic> = 17.1, 13.0 Hz), and 5.36 (1H, dd, <italic>J</italic> = 13.0, 2.8 Hz) were assigned to the ABX system formed by the protons H-3eq, H-3ax, and H-2, respectively of the cyclohexane ring of the flavanone, which were confirmed by COSY spectrum (<xref ref-type="supplementary-material" rid="supp-2">Fig. S5</xref>). <sup>1</sup>H NMR showed a signal for one hydroxy group [<italic>δ</italic><sub>H</sub> 11.99 (1H, brs, OH-C-5). The <sup>1</sup>H NMR spectrum on DMSO-d<sub>6</sub> showed signals consistent with those described by <xref ref-type="bibr" rid="ref-31">Napal, Carpinella &amp; Palacios (2009)</xref> (<xref ref-type="table" rid="table-1">Table 1</xref>). In addition, the presence of the hydroxyl at C-5 was confirmed by exchange with D<sub>2</sub>O of the signal at <italic>δ</italic><sub>H</sub> 11.95 (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="supplementary-material" rid="supp-2">Fig. S2</xref>).</p>
+         <p><sup>13</sup><italic>C</italic> NMR and DEPT spectra of <bold>1</bold> showed twelve separated signals, including one oxymethine (<italic>δ</italic><sub>C</sub> 79.26), one aliphatic methylene (<italic>δ</italic><sub>C</sub> 43.39), one ketone carbonyl (<italic>δ</italic><sub>C</sub> 195.89), four aromatic methines (<italic>δ</italic><sub>C</sub> 95.8, 96.68, 126.3, and 128.9), three oxyaryl carbons (<italic>δ</italic><sub>C</sub>, 164.06, 166.32, 167.13) and two aryl quaternary carbons (<italic>δ</italic><sub>C</sub> 102.57, 138.62). The HSQC spectrum (<xref ref-type="supplementary-material" rid="supp-2">Fig. S6</xref>) showed correlations between the signals at <italic>δ</italic><sub>C</sub> 128.9 and 126.30 with a multiple signal at <italic>δ</italic><sub>H</sub> 7.32–7.41, indicating that these belong to the monosubtituted benzene ring. Integration of the NMR data obtained, indicated that this compound is a 5,7-dihydroxyflavanone. Comparison of the NMR data with those reported for pinocembrin (<bold>1</bold>) on different solvents (<xref ref-type="bibr" rid="ref-31">Napal, Carpinella &amp; Palacios, 2009</xref>; <xref ref-type="bibr" rid="ref-39">Tanjung, Tjahjandarie &amp; Sentosa, 2013</xref>; <xref ref-type="bibr" rid="ref-32">Nyokat et al., 2017</xref>), helped to its identification (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Key <sup>1</sup>H- <sup>1</sup>H-COSY and HSQC correlations of 5,7-dihydroxyflavanone (1).</title>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16522/fig-1.png"/>
+         </fig>
+         <p>The antibacterial test showed that the LgHex, LgCH<sub>2</sub>Cl<sub>2</sub>, and LgEtOAc extracts of <italic>L glaucescens</italic> were inactive within the tested concentration range, and only the methanolic extract of <italic>L. glaucescens</italic> (LgMeOH) exhibited antibacterial activity against <italic>L. monocytogenes</italic> (inhibition zone = 11.5 ± 0.45 mm, MIC = 4.5 mg/mL, MBC = 4.5 mg/mL) (<xref ref-type="table" rid="table-2">Table 2</xref>). All fractions obtained from LgMeOH (CF1 to C1F9) were submitted to a pharmacological antibacterial test. As shown in <xref ref-type="table" rid="table-3">Table 3</xref>, the C1F4 fraction was the only one with antibacterial activity (MIC = 0.78 mg/mL, MBC = 0.78 mg/mL). Further, C1F4 chromatographic purification afforded six final fractions (C2F1 to C2F6), and only C2F4 showed activity against the bacteria (MIC = 0.68 mg/mL, MBC = 0.68 mg/mL) (<xref ref-type="table" rid="table-4">Table 4</xref>). In addition, the ratio MBC/MIC obtained for all samples was 1.</p>
+         <table-wrap id="table-2">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/table-2</object-id><label>Table 2</label><caption>
+               <title>Antibacterial activity of <italic>Litsea glaucescens</italic> leaf extracts against <italic>L. monocytogenes</italic>.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16522/table-2.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th>Extract</th>
+                        <th>Concentration (mg/mL)</th>
+                        <th>IZ (mm)<break/>(Mean ± SD)</th>
+                        <th>MIC (mg/mL)</th>
+                        <th>MBC<break/>( mg/mL)</th>
+                        <th>R MBC/MIC</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td rowspan="4">LgHex</td>
+                        <td>100</td>
+                        <td>0</td>
+                        <td rowspan="4">ND</td>
+                        <td rowspan="4">ND</td>
+                        <td rowspan="4">ND</td>
+                     </tr>
+                     <tr>
+                        <td>50</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>25</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>12.5</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="4">LgCH<sub>2</sub>Cl<sub>2</sub></td>
+                        <td>100</td>
+                        <td>0</td>
+                        <td rowspan="4">ND</td>
+                        <td rowspan="4">ND</td>
+                        <td rowspan="4">ND</td>
+                     </tr>
+                     <tr>
+                        <td>50</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>25</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>12.5</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="4">LgAcOEt</td>
+                        <td>100</td>
+                        <td>0</td>
+                        <td rowspan="4">ND</td>
+                        <td rowspan="4">ND</td>
+                        <td rowspan="4">ND</td>
+                     </tr>
+                     <tr>
+                        <td>50</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>25</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>12.5</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td rowspan="4">LgMeOH</td>
+                        <td>100</td>
+                        <td>11.5 ± 0.45<sup>a</sup></td>
+                        <td rowspan="4">4.5</td>
+                        <td rowspan="4">4.5</td>
+                        <td rowspan="4">1</td>
+                     </tr>
+                     <tr>
+                        <td>50</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>25</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>12.5</td>
+                        <td>0</td>
+                     </tr>
+                     <tr>
+                        <td>Kanamicyn</td>
+                        <td>0.032</td>
+                        <td>24.5 ± 0.05<sup>b</sup></td>
+                        <td>0.001</td>
+                        <td>0.001</td>
+                        <td>1</td>
+                     </tr>
+                     <tr>
+                        <td>Tetraciclyne</td>
+                        <td>0.032</td>
+                        <td>33.8 ± 0.1<sup>c</sup></td>
+                        <td>0.004</td>
+                        <td>0.004</td>
+                        <td>1</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-2fn"><p><bold>Notes.</bold></p></fn><fn id="table-2fn1" fn-type="other"><p> 
+                  <def-list id="dl1">
+                     <def-item>
+                        <term> LgHex</term>
+                        <def>
+                           <p>hexane leaf extract of <italic>L. glaucescens</italic></p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term>LgCH<sub>2</sub>Cl<sub>2</sub></term>
+                        <def>
+                           <p>dicholorometane leaf extract of <italic>L. glaucescens</italic></p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> LgAcOEt</term>
+                        <def>
+                           <p>ethyl-acetate leaf extract of <italic>L. glaucescens</italic></p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> LgMeoH</term>
+                        <def>
+                           <p>methanol leaf extract of <italic>L. glaucescens</italic></p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> IZ</term>
+                        <def>
+                           <p>inhibition zone</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> MIC</term>
+                        <def>
+                           <p>minimal inhibitory concentration</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> MBC</term>
+                        <def>
+                           <p>minimum bactericidal concentration</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> ND</term>
+                        <def>
+                           <p>not determinate</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> SD</term>
+                        <def>
+                           <p>standard deviation</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn><fn id="table-2fn2" fn-type="other"><p>Different superscript indicate mean values that are significantly different (<italic>P</italic> &lt; 0.01).</p></fn></table-wrap-foot>
+         </table-wrap>
+         <table-wrap id="table-3">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/table-3</object-id><label>Table 3</label><caption>
+               <title>Antibacterial activity of fractions obtained from <italic>Litsea glaucescens</italic> methanol extract (LgMeOH) against <italic>L. monocytogenes</italic>.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16522/table-3.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Fraction</bold></th>
+                        <th><bold>Concentration (mg/mL)</bold></th>
+                        <th><bold>IZ (mm)</bold><break/><bold>(Mean ± SD)</bold></th>
+                        <th><bold>MIC (mg/mL)</bold></th>
+                        <th><bold>MBC</bold><break/><bold>( mg/mL)</bold></th>
+                        <th><bold>R MBC/MIC</bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>C1F1</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F2</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F3</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F4</td>
+                        <td>10</td>
+                        <td>12.5 ± 0.04 <sup>a</sup></td>
+                        <td>0.78</td>
+                        <td>0.78</td>
+                        <td>1</td>
+                     </tr>
+                     <tr>
+                        <td>C1F5</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F6</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F7</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F8</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F9</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>C1F10</td>
+                        <td>10</td>
+                        <td>0</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                     </tr>
+                     <tr>
+                        <td>Kanamicyn</td>
+                        <td>0.032</td>
+                        <td>24.5 ± 0.05 <sup>b</sup></td>
+                        <td>0.001</td>
+                        <td>0.001</td>
+                        <td>1</td>
+                     </tr>
+                     <tr>
+                        <td>Tetraciclyne</td>
+                        <td>0.032</td>
+                        <td>33.8 ± 0.1 <sup>c</sup></td>
+                        <td>0.004</td>
+                        <td>0.004</td>
+                        <td>1</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-3fn"><p><bold>Notes.</bold></p></fn><fn id="table-3fn1" fn-type="other"><p>C1F1 to C1F10 fractions obtained from chromatographic purification of methanol leaf extract of <italic>L. glaucescens</italic> (LgMeOH).</p></fn><fn id="table-3fn2" fn-type="other"><p> 
+                  <def-list id="dl2">
+                     <def-item>
+                        <term> IZ</term>
+                        <def>
+                           <p>inhibition zone</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> MIC</term>
+                        <def>
+                           <p>minimal inhibitory concentration</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> MBC</term>
+                        <def>
+                           <p>minimum bactericidal concentration</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> ND</term>
+                        <def>
+                           <p>not determinate</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> SD</term>
+                        <def>
+                           <p>standard deviation</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn><fn id="table-3fn3" fn-type="other"><p>Different superscripts indicate mean values that are significantly different (<italic>P</italic> &lt; 0.01).</p></fn></table-wrap-foot>
+         </table-wrap>
+         <table-wrap id="table-4">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/table-4</object-id><label>Table 4</label><caption>
+               <title>Antibacterial activity of sub-fractions obtained from C1F4 fraction of <italic>Litsea glaucescens</italic> against <italic>L. monocytogenes</italic>.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16522/table-4.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th>C2F1</th>
+                        <th>C2F2</th>
+                        <th>C2F3</th>
+                        <th>C2F4</th>
+                        <th>C2F5</th>
+                        <th>C2F6</th>
+                        <th>Kanamicyn</th>
+                        <th>Tetraciclyne</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>MIC (mg/mL)</td>
+                        <td>&gt;6.14</td>
+                        <td>&gt;6.14</td>
+                        <td>&gt;6.14</td>
+                        <td>0.68</td>
+                        <td>&gt;6.14</td>
+                        <td>&gt;6.14</td>
+                        <td>0.001</td>
+                        <td>0.004</td>
+                     </tr>
+                     <tr>
+                        <td>MBC <break/>(mg/mL)</td>
+                        <td>&gt;6.14</td>
+                        <td>&gt;6.14</td>
+                        <td>&gt;6.14</td>
+                        <td>0.68</td>
+                        <td>&gt;6.14</td>
+                        <td>&gt;6.14</td>
+                        <td>0.001</td>
+                        <td>0.004</td>
+                     </tr>
+                     <tr>
+                        <td>R MBC/MIC</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>1</td>
+                        <td>ND</td>
+                        <td>ND</td>
+                        <td>1</td>
+                        <td>1</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-4fn"><p><bold>Notes.</bold></p></fn><fn id="table-4fn1" fn-type="other"><p>C2F1 to C2F6 fractions obtained from chromatographic purification of C1F4 fraction from methanol leaf extract of <italic>L. glaucescens</italic> (LgMeOH).</p></fn><fn id="table-4fn2" fn-type="other"><p> 
+                  <def-list id="dl3">
+                     <def-item>
+                        <term> MIC</term>
+                        <def>
+                           <p>minimal inhibitory concentration</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> MBC</term>
+                        <def>
+                           <p>minimum bactericidal concentration</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> ND</term>
+                        <def>
+                           <p>not determinate</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn></table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Despite the advances of the international community in food safety, foodborne diseases are still a serious public health problem. Furthermore, this problem is influenced by various factors, such as changes in eating habits, climate change, and resistance to antibiotics (<xref ref-type="bibr" rid="ref-18">Jung, Yum &amp; Jeong, 2017</xref>). <italic>Listeria monocytogenes</italic> is recognized as one of the most important foodborne pathogens and is the causal agent of listeriosis, a disease that is caused by eating contaminated food that can be serious and is often fatal in susceptible individuals (<xref ref-type="bibr" rid="ref-37">Shi, Zhang &amp; Guo, 2018</xref>). In humans, listeriosis treatments are hampered by the intracellular location of <italic>Listeria</italic> and the poor intracellular penetration of some antibiotics (<xref ref-type="bibr" rid="ref-25">Marini et al., 2018</xref>). Therefore, research into new antibacterial agents is required. Plant extracts, as well as the pure compounds obtained from them, are an important source of new antibacterial agents that are safe for the environment, humans, and animals (<xref ref-type="bibr" rid="ref-20">Kim et al., 2017</xref>).</p>
+         <p>The <italic>in vitro</italic> antibacterial activity of <italic>L. glaucescens</italic> extracts against <italic>L. monocytogenes</italic> was qualitatively evaluated by the presence or absence of inhibition zones toward the tested bacteria after MIC and MBC were determined. Only the most polar extract, LgMeOH, showed activity against <italic>L. monocytogenes</italic> (<xref ref-type="table" rid="table-2">Table 2</xref>). This result agrees with other works where alcoholic extracts from this plant have shown antibacterial activity. Indeed, a methanolic extract of <italic>L. glaucescens</italic> leaves possess activity <italic>in vitro</italic> against <italic>Escherichia coli</italic> and <italic>Staphylococus aureus</italic> (CMI ≥ 1 and 0.8 mg/mL, respectively) (<xref ref-type="bibr" rid="ref-27">Meckes et al., 1995</xref>; <xref ref-type="bibr" rid="ref-23">López-Romero et al., 2018</xref>). Furthermore, <xref ref-type="bibr" rid="ref-4">Cruz et al. (2014)</xref> determined the MIC values of an ethanolic extract of <italic>L. glaucenses</italic> against <italic>Bacillus subtilis</italic> ATCC6051 (0.16 mg/mL), <italic>Mycobacterium smegmatis</italic> ATCC607 (0.62 mg/mL), and <italic>E. coli</italic> (0.62 mg/mL). These results suggested the presence of secondary metabolites in the alcoholic extracts of <italic>L. glaucescens</italic> leaves capable of damaging different bacterial strains. Thus, in this work, a LgMeOH bioguided chemical fractionation was performed to identify the active compounds that inhibit the growth of the most important foodborne pathogen <italic>Listeria monocytogenes</italic>.</p>
+         <p>LgMeOH purification produced ten final fractions, but only C1F4 showed activity against <italic>L. monocytogenes</italic> (inhibition zone = 12.5 ± 0.04 mm; CMI = 0.76 mg/mL). The TLC analysis of C1F4 showed a mixture of compounds, and for this reason, a subsequent purification was performed to obtain six new fractions (C2F1 to C2F6). All fractions were tested for their antibacterial capacity and only C2F4 showed antilisterial activity (<xref ref-type="table" rid="table-4">Table 4</xref>). C2F4 was identified as 5,7-dihydroxyflavanone, known as pinocembrin, through a comparison of its NMR data (<sup>1</sup>H, <sup>13</sup>C, COSY, HSQC) with data reported in the literature for this compound (<xref ref-type="table" rid="table-1">Table 1</xref>). This flavonoid was previously isolated from the ethanolic extract of <italic>Litsea glaucescens</italic> bark by <xref ref-type="bibr" rid="ref-22">López et al. (1995)</xref>, and it has been isolated from different sources such as <italic>Flourensia colepis</italic> (<xref ref-type="bibr" rid="ref-31">Napal, Carpinella &amp; Palacios, 2009</xref>), <italic>Kaempferia pandurate</italic> (<xref ref-type="bibr" rid="ref-39">Tanjung, Tjahjandarie &amp; Sentosa, 2013</xref>), <italic>Artocarpus odoratissimus</italic> (<xref ref-type="bibr" rid="ref-32">Nyokat et al., 2017</xref>) and <italic>Boesenbergia rotunda</italic> (<xref ref-type="bibr" rid="ref-35">Potipiranun et al., 2018</xref>).</p>
+         <p>Pinocembrin is one of the main flavonoids used in the pharmaceutical industry because of its antibacterial, antiparasitic, anti-inflammatory, antioxidant, antiapoptotic, anticancer, antifibrotic, hepatoprotective and neuroprotective biological activities. In addition, it can be used as a base skeleton for the synthesis of other flavonoids (<xref ref-type="bibr" rid="ref-36">Shen et al. 2019</xref>; <xref ref-type="bibr" rid="ref-9">Elbatreek et al., 2023</xref>). Regarding its antibacterial activity, there are no reports of the effect of this molecule against <italic>L. monocytogenes</italic>. However, pinocembrin has been effective against other Gram-positive bacteria (<italic>S. aureus</italic>, methicillin and gentamicin-resistant <italic>S. aureus</italic>, <italic>S aureus</italic> subsp. <italic>aureus</italic> Rosenbach, <italic>S. aureus penicillase (+), S. epidermidis</italic>, <italic>B. cereus</italic>, <italic>B. subtilis</italic>, and <italic>S. lentus</italic> and <italic>Streptococcus mutans</italic>), whose MIC values range from 0.001 to 0.5 mg/mL (<xref ref-type="bibr" rid="ref-1">Alcaráz et al., 2000</xref>; <xref ref-type="bibr" rid="ref-7">Drewes &amp; van Vuuren, 2008</xref>; <xref ref-type="bibr" rid="ref-19">Katerere et al., 2012</xref>; <xref ref-type="bibr" rid="ref-33">Omosa et al., 2014</xref>; <xref ref-type="bibr" rid="ref-17">Joray et al., 2015</xref>; <xref ref-type="bibr" rid="ref-41">Veloz, Alvear &amp; Salazar, 2019</xref>; <xref ref-type="bibr" rid="ref-14">Hernández Tasco et al., 2020</xref>). Besides, this compound caused the total disappearance of <italic>S. aureus</italic> populations at 1 mg/mL (<xref ref-type="bibr" rid="ref-34">Parra et al., 2016</xref>).</p>
+         <p>Despite <italic>L. monocytogenes</italic> being a Gram-positive bacteria, 5,7-dihydroxyflavanone possesses lower antibacterial activity against it (MIC = 0.68 mg/mL) compared to the effect described for other bacteria of the same type. Nevertheless, it is the first report of the activity of pinocembrin against <italic>L. monocytogenes</italic>.</p>
+         <p>Finally, to identify the type of effect exerted by <italic>L. glaucescens</italic> and pinocembrin, the MBC/MIC ratio was determined. An MBC/MIC ratio with values between 1 and 2 indicates bactericidal power, while ratios &gt;2 indicate bacteriostatic activity (<xref ref-type="bibr" rid="ref-3">Btissam et al., 2018</xref>). Thus, according to the values obtained in this work for methanolic extracts and pinocembrin (ratio = 1) (<xref ref-type="table" rid="table-2">Tables 2</xref> and <xref ref-type="table" rid="table-3">3</xref>), <italic>L. glaucescens</italic> possess bactericidal power against <italic>L. monocytogenes</italic> and 5,7-dihydroxyflavanone is the compound responsible for it.</p>
+         <p>The antibacterial mechanism of different phenolic compounds has been thoroughly investigated. There are several forms in which flavonoids affect bacteria. They can inhibit the synthesis of nucleic acid and porins on the cell membrane, affecting energy metabolism, disturb cytoplasmic membrane function, reduce cell attachment and biofilm formation, change the membrane permeability, and attenuate of the pathogenicity (<xref ref-type="bibr" rid="ref-10">Farhadi et al., 2018</xref>). Furthermore, antibacterial agents can easily destroy the bacterial cell wall of Gram-positive bacteria, causing a leakage of the cytoplasm and its coagulation (<xref ref-type="bibr" rid="ref-40">Tian et al., 2018</xref>).</p>
+         <p><xref ref-type="bibr" rid="ref-38">Soromou et al. (2013)</xref> reported that pinocembrin reduces <italic>α</italic>-hemolysin production, attenuated <italic>α</italic>-hemolysin mediated cell injury at low concentrations and protects mice from <italic>S. aureus</italic>-induced pneumonia; moreover, this flavanone increased cell permeability in <italic>Campylobacter jejuni</italic>, altering the metabolism (mainly protein production, redox cycle, and iron metabolism) (<xref ref-type="bibr" rid="ref-21">Klančnik et al., 2019</xref>; <xref ref-type="bibr" rid="ref-9">Elbatreek et al., 2023</xref>), and affected protein and DNA metabolism in <italic>Aeromonas hydrophila</italic> (<xref ref-type="bibr" rid="ref-43">Wu et al., 2022</xref>).</p>
+         <p>It is possible that the antibacterial effect of pinocembrin against <italic>L. monocytogenes</italic> is due to some of the mechanisms mentioned previously; however, subsequent studies are required to know which of them are responsible.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>Although there are studies on the antibacterial activity of the alcoholic extracts of <italic>L. glaucences</italic>, the compounds responsible have not been identified. Some authors attributed this biological effect to the presence of flavonoids in the plant; however, this has not been clarified until now.</p>
+         <p>Our study could be considered the first to document the antilisterial activity of <italic>Litsea glaucences</italic> leaves and the isolation of the antibacterial agent in detail. In this work we evaluated the activity of four <italic>L. glaucences</italic> extracts against <italic>L. monocytogenes</italic>, the bioguided chromatographic separation of the methanolic extract allowed us to identify the 5,7-dihydroxyflavanone (pinocembrin) as the compound responsible for the antibacterial activity. In addition, the bactericidal effect against <italic>L. monocytogenes</italic> was demonstrated.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title>Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16522/RawData.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Inhibition zones</title>
+               <p>All fractions obtained from chromatographic separations. Each data is the diameter (mm) obtained for each treatment.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/16522/SuppFigs.docx">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Supplemental Figures</title>
+               <p>The figures show all one and two dimension spectra obtained for Pinocembrin.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16522/Chromatographic_separation_system.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16522/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>Chromatographic separation system</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Carlos David Gress-Antonio</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Nallely Rivero-Perez</xref> conceived and designed the experiments, prepared figures and/or tables, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Silvia Marquina-Bahena</xref> performed the experiments, prepared figures and/or tables, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Laura Alvarez</xref> conceived and designed the experiments, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Adrian Zaragoza-Bastida</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-6" fn-type="con"><p><xref ref-type="contrib" rid="author-6">Víctor Manuel Martínez-Juárez</xref> conceived and designed the experiments, performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-7" fn-type="con"><p><xref ref-type="contrib" rid="author-7">Carolina G. Sosa-Gutierrez</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-8" fn-type="con"><p><xref ref-type="contrib" rid="author-8">Juan Ocampo-López</xref> analyzed the data, prepared figures and/or tables, and approved the final draft.</p></fn><fn id="contribution-9" fn-type="con"><p><xref ref-type="contrib" rid="author-9">Armando Zepeda-Bastida</xref> analyzed the data, prepared figures and/or tables, and approved the final draft.</p></fn><fn id="contribution-10" fn-type="con"><p><xref ref-type="contrib" rid="author-10">Deyanira Ojeda-Ramírez</xref> conceived and designed the experiments, performed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw measurements are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplementary File</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Alcaráz et al. (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Alcaráz</surname>
+                     <given-names>LE</given-names>
+                  </name>
+                  <name>
+                     <surname>Blanco</surname>
+                     <given-names>SE</given-names>
+                  </name>
+                  <name>
+                     <surname>Puig</surname>
+                     <given-names>ON</given-names>
+                  </name>
+                  <name>
+                     <surname>Tomás</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferretti</surname>
+                     <given-names>FH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Antibacterial activity of flavonoids against methicillin-resistant <italic>Staphylococcus aureus</italic> strains</article-title>
+               <source>Journal of Theoretical Biology</source>
+               <volume>205</volume>
+               <fpage>231</fpage>
+               <lpage>240</lpage>
+               <pub-id pub-id-type="doi">10.1006/jtbi.2000.2062</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Baquero et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Baquero</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Lanza</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Duval</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Coque</surname>
+                     <given-names>TM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Ecogenetics of antibiotic resistance in <italic>Listeria monocytogenes</italic></article-title>
+               <source>Molecular Microbiology</source>
+               <volume>113</volume>
+               <fpage>570</fpage>
+               <lpage>579</lpage>
+               <pub-id pub-id-type="doi">10.1111/mmi.14454</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Btissam et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Btissam</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Fatima</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                  <name>
+                     <surname>Kamal</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Hassane</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Mohamed</surname>
+                     <given-names>NH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Composition and antibacterial activity of hydro-alcohol and aqueous extracts obtained from the Lamiaceae family</article-title>
+               <source>Pharmacognosy Journal</source>
+               <volume>10</volume>
+               <fpage>81</fpage>
+               <lpage>91</lpage>
+               <pub-id pub-id-type="doi">10.5530/pj.2018.1.16</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Cruz et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cruz</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Marroquín</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaitán</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Cáceres</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Antimicrobial activity of essential oils and ethanolic extracts of three species of Laurel (<italic>Litsea</italic> spp.) from Guatemala</article-title>
+               <source>Acta Horticulturae</source>
+               <volume>1030</volume>
+               <fpage>23</fpage>
+               <lpage>29</lpage>
+               <pub-id pub-id-type="doi">10.17660/ActaHortic.2014.1030.2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Dávila-Figueroa et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dávila-Figueroa</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                  <name>
+                     <surname>Morales-Domínguez</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Rosa-Carrillo</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez-Molphe-Balch</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Regeneración <italic>in vitro</italic> del laurel silvestre (<italic>Litsea glaucescens</italic> Kunth). A través de embriogénesis somática</article-title>
+               <source>Revista Fitotecnia Mexicana</source>
+               <volume>39</volume>
+               <fpage>123</fpage>
+               <lpage>131</lpage>
+               <pub-id pub-id-type="doi">10.35196/rfm.2016.2.123-131</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Disson, Moura &amp; Lecuit (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Disson</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Moura</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Lecuit</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Making sense of the biodiversity and virulence of <italic>Listeria monocytogenes</italic></article-title>
+               <source>Trends in Microbiology</source>
+               <volume>29</volume>
+               <fpage>811</fpage>
+               <lpage>822</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tim.2021.01.008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Drewes &amp; van Vuuren (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Drewes</surname>
+                     <given-names>SE</given-names>
+                  </name>
+                  <name>
+                     <surname>van Vuuren</surname>
+                     <given-names>SF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Antimicrobial acylphloroglucinols and dibenzyloxy flavonoids from flowers of <italic>Helichrysum gymnocomum</italic></article-title>
+               <source>Phytochemistry</source>
+               <volume>69</volume>
+               <fpage>1745</fpage>
+               <lpage>1749</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.phytochem.2008.02.022</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Duze, Marimani &amp; Patel (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Duze</surname>
+                     <given-names>ST</given-names>
+                  </name>
+                  <name>
+                     <surname>Marimani</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Patel</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Tolerance of <italic>Listeria monocytogenes</italic> to biocides used in food processing environments</article-title>
+               <source>Food Microbiology</source>
+               <volume>97</volume>
+               <elocation-id>103758</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.fm.2021.103758</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Elbatreek et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Elbatreek</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name>
+                     <surname>Mahdi</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Ouchari</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Mahmoud</surname>
+                     <given-names>MF</given-names>
+                  </name>
+                  <name>
+                     <surname>Sobeh</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Current advances on the therapeutic potential of pinocembrin: an updated review</article-title>
+               <source>Biomedicine &amp; Pharmacotherapy</source>
+               <volume>157</volume>
+               <elocation-id>114032</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.biopha.2022.114032</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Farhadi et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Farhadi</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Khameneh</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Iranshahi</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Iranshahy</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Antibacterial activity of flavonoids and their structure–activity relationship: an update review</article-title>
+               <source>Phytotherapy Research</source>
+               <volume>33</volume>
+               <fpage>13</fpage>
+               <lpage>40</lpage>
+               <pub-id pub-id-type="doi">10.1002/ptr.6208</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Gamboa-Gómez et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gamboa-Gómez</surname>
+                     <given-names>CI</given-names>
+                  </name>
+                  <name>
+                     <surname>González-Laredo</surname>
+                     <given-names>RF</given-names>
+                  </name>
+                  <name>
+                     <surname>Gallegos-Infante</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez</surname>
+                     <given-names>MML</given-names>
+                  </name>
+                  <name>
+                     <surname>Moreno-Jiménez</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name>
+                     <surname>Flores-Rueda</surname>
+                     <given-names>AG</given-names>
+                  </name>
+                  <name>
+                     <surname>Rocha-Guzmán</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Antioxidant and angiotensin-converting enzyme inhibitory activity of <italic>Eucalyptus camaldulensis</italic> and <italic>Litsea glaucescens</italic> infusions fermented with kombucha consortium</article-title>
+               <source>Food Technology and Biotechnology</source>
+               <volume>54</volume>
+               <fpage>367</fpage>
+               <lpage>374</lpage>
+               <pub-id pub-id-type="doi">10.17113/ftb.54.03.16.4622</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Guzmán-Gutiérrez et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Guzmán-Gutiérrez</surname>
+                     <given-names>SL</given-names>
+                  </name>
+                  <name>
+                     <surname>Gómez-Casino</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>García-Zebadúa</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Jiménez-Pérez</surname>
+                     <given-names>NC</given-names>
+                  </name>
+                  <name>
+                     <surname>Reyes-Chilpa</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Antidepressant activity of <italic>Litsea glaucescens</italic> essential oil: identification of b-pinene and linalool as active principles</article-title>
+               <source>Journal of Ethnopharmacology</source>
+               <volume>143</volume>
+               <fpage>673</fpage>
+               <lpage>679</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jep.2012.07.026</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Guzmán Gutiérrez, Reyes Chilpa &amp; Bonilla Jaime (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Guzmán Gutiérrez</surname>
+                     <given-names>SL</given-names>
+                  </name>
+                  <name>
+                     <surname>Reyes Chilpa</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Bonilla Jaime</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Medicinal plants for the treatment of nervios, anxiety, and depression in Mexican traditional medicine</article-title>
+               <source>Revista Brasileira de Farmacognosia</source>
+               <volume>24</volume>
+               <fpage>591</fpage>
+               <lpage>608</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.bjp.2014.10.007</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Hernández Tasco et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hernández Tasco</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramírez Rueda</surname>
+                     <given-names>RY</given-names>
+                  </name>
+                  <name>
+                     <surname>Alvarez</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Sartori</surname>
+                     <given-names>FT</given-names>
+                  </name>
+                  <name>
+                     <surname>Sacilotto</surname>
+                     <given-names>ACBC</given-names>
+                  </name>
+                  <name>
+                     <surname>Ito</surname>
+                     <given-names>IY</given-names>
+                  </name>
+                  <name>
+                     <surname>Vichnewski</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Salvador</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Antibacterial and antifungal properties of crude extracts and isolated compounds from <italic>Lychnophora markgravii</italic></article-title>
+               <source>Natural Product Research</source>
+               <volume>34</volume>
+               <fpage>863</fpage>
+               <lpage>867</lpage>
+               <pub-id pub-id-type="doi">10.1080/14786419.2018.1503263</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Hoekou et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hoekou</surname>
+                     <given-names>YP</given-names>
+                  </name>
+                  <name>
+                     <surname>Tchacondo</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Karou</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Yerbanga</surname>
+                     <given-names>RS</given-names>
+                  </name>
+                  <name>
+                     <surname>Achoribo</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Da</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Atakpama</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Batawila</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Therapeutic potentials of ethanolic extract of leaves of <italic>Holarrhena floribunda</italic> (g. Don) Dur. and Schinz (Apocynaceae)</article-title>
+               <source>African Journal of Traditional, Complementary, and Alternative Medicines: AJTCAM</source>
+               <volume>14</volume>
+               <fpage>227</fpage>
+               <lpage>233</lpage>
+               <pub-id pub-id-type="doi">10.21010/ajtcam.v14i2.24</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Hoffmann &amp; Scallan Walter (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hoffmann</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Scallan Walter</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Acute complications and sequelae from foodborne infections: informing priorities for cost of foodborne illness estimates</article-title>
+               <source>Foodborne Pathogens and Disease</source>
+               <volume>17</volume>
+               <fpage>172</fpage>
+               <lpage>177</lpage>
+               <pub-id pub-id-type="doi">10.1089/fpd.2019.2664</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Joray et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Joray</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                  <name>
+                     <surname>Trucco</surname>
+                     <given-names>LD</given-names>
+                  </name>
+                  <name>
+                     <surname>González</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Napal</surname>
+                     <given-names>GN</given-names>
+                  </name>
+                  <name>
+                     <surname>Palacios</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bocco</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Carpinella</surname>
+                     <given-names>MC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Antibacterial and cytotoxic activity of compounds isolated from <italic>Flourensia oolepis</italic></article-title>
+               <source>Evidence-Based Complementary and Alternative Medicine</source>
+               <volume>2015</volume>
+               <elocation-id>912484</elocation-id>
+               <pub-id pub-id-type="doi">10.1155/2015/912484</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Jung, Yum &amp; Jeong (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jung</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Yum</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Jeong</surname>
+                     <given-names>HG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Characterization and evaluation of antimicrobial activity of actinonin against foodborne pathogens</article-title>
+               <source>Food Science and Biotechnology</source>
+               <volume>26</volume>
+               <fpage>1649</fpage>
+               <lpage>1657</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10068-017-0190-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Katerere et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Katerere</surname>
+                     <given-names>DR</given-names>
+                  </name>
+                  <name>
+                     <surname>Gray</surname>
+                     <given-names>AI</given-names>
+                  </name>
+                  <name>
+                     <surname>Nash</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Waigh</surname>
+                     <given-names>RD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Phytochemical and antimicrobial investigations of stilbenoids and flavonoids isolated from three species of Combretaceae</article-title>
+               <source>Fitoterapia</source>
+               <volume>83</volume>
+               <fpage>932</fpage>
+               <lpage>940</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.fitote.2012.04.011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Kim et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Ha</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Choi</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Oh</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Hong</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Yoon</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Choi</surname>
+                     <given-names>K-H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Evaluation on antimicrobial activity of Psoraleae semen extract controlling the growth of Gram-Positive bacteria</article-title>
+               <source>Korean Journal for Food Science of Animal Resources</source>
+               <volume>37</volume>
+               <fpage>502</fpage>
+               <lpage>510</lpage>
+               <pub-id pub-id-type="doi">10.5851/kosfa.2017.37.4.502</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Klančnik et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Klančnik</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Šimunović</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Kovac</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Sahin</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Vučković</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Abram</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Možina</surname>
+                     <given-names>SS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>The anti-Campylobacter activity and mechanisms of pinocembrin action</article-title>
+               <source>Microorganisms</source>
+               <volume>7</volume>
+               <fpage>675</fpage>
+               <pub-id pub-id-type="doi">10.3390/microorganisms7120675</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>López et al. (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>López</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Barillas</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Gomez-Laurito</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>FT</given-names>
+                  </name>
+                  <name>
+                     <surname>Al-Rehaily</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharaf</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name>
+                     <surname>Schiff</surname>
+                     <given-names>PL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Flavonoids from <italic>Litsea glaucescens</italic></article-title>
+               <source>Planta Medica</source>
+               <volume>61</volume>
+               <fpage>198</fpage>
+               <pub-id pub-id-type="doi">10.1055/s-2006-958054</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>López-Romero et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>López-Romero</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>González-Ríos</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Peña Ramos</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Velazquez</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Navarro</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Robles-Zepeda</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez-Benavides</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Higuera-Ciapara</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Virués</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Olivares</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Domínguez</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Seasonal effect on the biological activities of <italic>Litsea glaucescens</italic> Kunth extracts</article-title>
+               <source>Evidence-Based Complementary and Alternative Medicine</source>
+               <volume>2018</volume>
+               <elocation-id>2738489</elocation-id>
+               <pub-id pub-id-type="doi">10.1155/2018/2738489</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>López-Romero et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>López-Romero</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernandez</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayala-Zavala</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Velázquez</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Robles-Zepeda</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Alday</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez-Benavidez</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Higuera-Ciapara</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Olivares</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Domínguez</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>González-Ríos</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Identification of the main phenolic compounds responsible for the antioxidant activity of <italic>Litsea glaucescens</italic> Kunth</article-title>
+               <source>South African Journal of Botany</source>
+               <volume>147</volume>
+               <fpage>208</fpage>
+               <lpage>214</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.sajb.2022.01.012</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Marini et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Marini</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Magi</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferretti</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Bacchetti</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Giuliani</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Pugnaloni</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Rippo</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name>
+                     <surname>Facinelli</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Attenuation of <italic>Listeria monocytogenes</italic> virulence by <italic>Cannabis sativa</italic> L. essential oil</article-title>
+               <source>Frontiers in Cellular and Infection Microbiology</source>
+               <volume>8</volume>
+               <fpage>293</fpage>
+               <pub-id pub-id-type="doi">10.3389/fcimb.2018.00293</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Matle, Mbatha &amp; Madoroba (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Matle</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Mbatha</surname>
+                     <given-names>KR</given-names>
+                  </name>
+                  <name>
+                     <surname>Madoroba</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>A review of <italic>Listeria monocytogenes</italic> from meat and meat products: epidemiology, virulence factors, antimicrobial resistance and diagnosis</article-title>
+               <source>Onderstepoort Journal of Veterinary Research</source>
+               <volume>87</volume>
+               <elocation-id>e1-e20</elocation-id>
+               <pub-id pub-id-type="doi">10.4102/ojvr.v87i1.1869</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Meckes et al. (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Meckes</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Villareal</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Tortoriello</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Berlin</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Berlin</surname>
+                     <given-names>EA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>A microbiological evaluation of medicinal plant used by the Maya people of southern Mexico</article-title>
+               <source>Phytotherapy Research</source>
+               <volume>9</volume>
+               <fpage>244</fpage>
+               <lpage>250</lpage>
+               <pub-id pub-id-type="doi">10.1002/ptr.2650090403</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Medina-Torres et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Medina-Torres</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Santiago-Adame</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Calderas</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Gallegos-Infante</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>González-Laredo</surname>
+                     <given-names>RF</given-names>
+                  </name>
+                  <name>
+                     <surname>Rocha-Guzmán</surname>
+                     <given-names>NE</given-names>
+                  </name>
+                  <name>
+                     <surname>Núñez Ramírez</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bernad-Bernad</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Manero</surname>
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Microencapsulation by spray drying of laurel infusions (<italic>Litsea glaucescens</italic>) with maltodextrin</article-title>
+               <source>Industrial Crops and Products</source>
+               <volume>90</volume>
+               <fpage>1</fpage>
+               <lpage>8</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.indcrop.2016.06.009</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Mhalla et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mhalla</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Bouaziz</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ennouri</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Chawech</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Smaoui</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jarraya</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Tounsi</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Trigui</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Antimicrobial activity and bioguided fractionation of <italic>Rumex tingitanus</italic> extracts for meat preservation</article-title>
+               <source>Meat Science</source>
+               <volume>125</volume>
+               <fpage>22</fpage>
+               <lpage>29</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.meatsci.2016.11.011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Morales-Ubaldo et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Morales-Ubaldo</surname>
+                     <given-names>AL</given-names>
+                  </name>
+                  <name>
+                     <surname>Gonzalez-Cortazar</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Zaragoza-Bastida</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Meza-Nieto</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Valladares-Carranza</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Alsayegh</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>El-Saber Batiha</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Rivero-Perez</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>nor 3’-Demethoxyisoguaiacin from <italic>Larrea tridentata</italic> is a potential alternative against multidrug-resistant bacteria associated with bovine mastitis</article-title>
+               <source>Molecules</source>
+               <volume>27</volume>
+               <fpage>3620</fpage>
+               <pub-id pub-id-type="doi">10.3390/molecules27113620</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Napal, Carpinella &amp; Palacios (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Napal</surname>
+                     <given-names>GND</given-names>
+                  </name>
+                  <name>
+                     <surname>Carpinella</surname>
+                     <given-names>MC</given-names>
+                  </name>
+                  <name>
+                     <surname>Palacios</surname>
+                     <given-names>SM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Antifeedant activity of ethanolic extract from <italic>Flourensia colepis</italic> and isolation of pinocembrin as its active principle compound</article-title>
+               <source>Bioresource Technology</source>
+               <volume>100</volume>
+               <fpage>3669</fpage>
+               <lpage>3673</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.biortech.2009.02.050</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Nyokat et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nyokat</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>KhongHeng</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Hamzah</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                  <name>
+                     <surname>Fong</surname>
+                     <given-names>LS</given-names>
+                  </name>
+                  <name>
+                     <surname>Saaidin</surname>
+                     <given-names>AS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Isolation and synthesis of pinocembrin and pinostrobin from <italic>Artocarpus odoratissimus</italic></article-title>
+               <source>The Malaysian Journal of Analytical Sciences</source>
+               <volume>21</volume>
+               <fpage>1156</fpage>
+               <lpage>1161</lpage>
+               <pub-id pub-id-type="doi">10.17576/mjas-2017-2105-19</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Omosa et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Omosa</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Amugune</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Ndunda</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Milugo</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Heydenreich</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Yenesew</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Midiwo</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Antimicrobial flavonoids and diterpenoids from <italic>Dodonaea angustifolia</italic></article-title>
+               <source>South African Journal of Botany</source>
+               <volume>91</volume>
+               <fpage>58</fpage>
+               <lpage>62</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.sajb.2013.11.012</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Parra et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Parra</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Valenzuela</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Soto</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Modak</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Antibacterial activity of cuticular components from Heliotropium species, against <italic>Staphylococcus aureus</italic> and <italic>Salmonella tiphymurium</italic></article-title>
+               <source>Boletín Latinoamericano. y del Caribe de Plantas Medicinales y Aromaticas</source>
+               <volume>15</volume>
+               <fpage>422</fpage>
+               <lpage>428</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Potipiranun et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Potipiranun</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Adisakwattana</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Worawalai</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramadhan</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Phuwapraisirisan</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Identification of pinocembrin as an anti-glycation agent and <italic>α</italic>-glucosidase inhibitor from Fingerroot (<italic>Boesenbergia rotunda</italic>): the tentative structure—activity relationship towards MG-trapping activity</article-title>
+               <source>Molecules</source>
+               <volume>23</volume>
+               <fpage>3365</fpage>
+               <pub-id pub-id-type="doi">10.3390/molecules23123365</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Shen et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shen</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Luo</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>Z</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Advances in biosynthesis, pharmacology, and pharmacokinetics of pinocembrin, a promising natural small-molecule drug</article-title>
+               <source>Molecules</source>
+               <volume>24</volume>
+               <fpage>2323</fpage>
+               <pub-id pub-id-type="doi">10.3390/molecules24122323</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Shi, Zhang &amp; Guo (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shi</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Guo</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>The antimicrobial activities and action-mechanism of tea tree oil against food-borne bacteria in fresh cucumber juice</article-title>
+               <source>Microbial Pathogenesis</source>
+               <volume>125</volume>
+               <fpage>262</fpage>
+               <lpage>271</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.micpath.2018.09.036</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Soromou et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Soromou</surname>
+                     <given-names>LW</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Cui</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Wei</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Huo</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Baldé</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Guan</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Deng</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Subinhibitory concentrations of pinocembrin exert anti-<italic>Staphylococcus aureus</italic> activity by reducing <italic>α</italic>-toxin expression</article-title>
+               <source>Journal of Applied Microbiology</source>
+               <volume>115</volume>
+               <fpage>41</fpage>
+               <lpage>49</lpage>
+               <pub-id pub-id-type="doi">10.1111/jam.12221</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Tanjung, Tjahjandarie &amp; Sentosa (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tanjung</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Tjahjandarie</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                  <name>
+                     <surname>Sentosa</surname>
+                     <given-names>MH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Antioxidant and cytotoxic agent from the rhizomes of <italic>Kaempferia pandurata</italic></article-title>
+               <source>Asian Pacific Journal of Tropical Disease</source>
+               <volume>3</volume>
+               <fpage>401</fpage>
+               <lpage>404</lpage>
+               <pub-id pub-id-type="doi">10.1016/S2222-1808(13)60091-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Tian et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tian</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Liimatainen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Puganen</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Alakomi</surname>
+                     <given-names>HL</given-names>
+                  </name>
+                  <name>
+                     <surname>Sinkkonen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Sephadex LH-20 fractionation and bioactivities of phenolic compounds from extracts of Finnish berry plants</article-title>
+               <source>Food Research International</source>
+               <volume>113</volume>
+               <fpage>115</fpage>
+               <lpage>130</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.foodres.2018.06.041</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Veloz, Alvear &amp; Salazar (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Veloz</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Alvear</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Salazar</surname>
+                     <given-names>LA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Antimicrobial and antibiofilm activity against <italic>Streptococcus mutans</italic> of individual and mixtures of the main polyphenolic compounds found in Chilean propolis</article-title>
+               <source>BioMed Research International</source>
+               <volume>2019</volume>
+               <elocation-id>7602343</elocation-id>
+               <pub-id pub-id-type="doi">10.1155/2019/7602343</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>WHO (2023)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>World Health Organization (WHO)</collab>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Global Burden of Foodborne Disease Report. 2019</article-title>
+               <uri>https://www.who.int/multi-media/details/estimates-of-the-global-burden-of-foodborne-diseases</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="00-05-2023">May 2023</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Wu et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Wei</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Miao</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Liang</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Huang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Yin</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Geng</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Ouyang</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>A study of the antibacterial mechanism of pinocembrin against multidrug-resistant <italic>Aeromonas hydrophila</italic></article-title>
+               <source>International Microbiology</source>
+               <volume>25</volume>
+               <fpage>605</fpage>
+               <lpage>613</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10123-022-00245-w</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

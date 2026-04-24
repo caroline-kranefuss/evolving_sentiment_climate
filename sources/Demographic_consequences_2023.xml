@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16675</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16675</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Ecology</subject>
+               <subject>Marine Biology</subject>
+               <subject>Zoology</subject>
+               <subject>Population Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Uneven demographic consequences of the 2022 disease outbreak for the sea urchin <italic>Diadema antillarum</italic> in Puerto Rico</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Rodríguez-Barreras</surname>
+                  <given-names>Ruber</given-names>
+               </name>
+               <email>ruber.rodriguez@upr.edu</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Ruiz-Diaz</surname>
+                  <given-names>Claudia Patricia</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Quiñones-Otero</surname>
+                  <given-names>Marcos A.</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-4" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Toledo-Hernández</surname>
+                  <given-names>Carlos</given-names>
+               </name>
+               <email>carlostoledo@sampr.org</email><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Department of Biology, University of Puerto Rico, Mayagüez campus</institution>, <city>Mayagüez</city>, <state>Puerto Rico</state>, <country>USA</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Sociedad Ambiente Marino</institution>, <city>San Juan</city>, <state>Puerto Rico</state>, <country>USA</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Río Piedras campus, Planning Department, University of Puerto Rico</institution>, <city>San Juan</city>, <state>Puerto Rico</state>, <country>USA</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Banaszak</surname>
+                  <given-names>Anastazia</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-20">
+            <day>20</day>
+            <month>12</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16675</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2023-06-22">
+               <day>22</day>
+               <month>6</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-11-22">
+               <day>22</day>
+               <month>11</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Rodríguez-Barreras et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Rodríguez-Barreras et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16675"/>
+         <abstract>
+            <p>Pervasive epizootic events have had a significant impact on marine invertebrates throughout the Caribbean, leading to severe population declines and consequential ecological implications. One such event was the regional collapse of herbivory, partly caused by the <italic>Diadema antillarum</italic> mortality event in 1983–84, resulting in a trophic cascade and altering the structure of reef communities. Consequently, there was a notable decrease in coral recruitment and an increase in the coverage of macroalgae. Nearly four decades later, in early 2022, the Caribbean basin experienced another widespread mass mortality event, further reducing the populations of <italic>D. antillarum</italic>. To assess the effects of this recent mortality event on the current demographics of <italic>D. antillarum</italic>, we surveyed eight populations along the eastern, northeastern, northern, and northwestern coast of Puerto Rico from May to July 2022, estimating their population density, size distribution, and disease prevalence. Additionally, the study compared these population parameters with data from four sites previously surveyed in 2012 and 2017 to understand the impact of the recent mortality event. The survey conducted in 2022 showed varying population densities at the surveyed reefs. Some populations exhibited mean densities of nearly one individual per square meter, while others had extremely low or no living individuals per square meter. The four populations with the highest density showed no evidence of disease, whereas the four populations with the lowest <italic>D. antillarum</italic> densities exhibited moderate to high disease prevalence. However, when considering all sites, the estimated disease prevalence remained below 5%. Nevertheless, the comparison with data from 2012 and 2017 indicated that the recent mortality event had a negative impact on <italic>D. antillarum</italic> demographics at multiple sites, as the densities in 2022 were reduced by 60.19% compared to those from the previous years. However, it is still too early to determine the severity of this new mortality event compared to the 1983–84 mortality event. Therefore, it is imperative to continue monitoring these populations.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd><italic>Diadema antillarum</italic></kwd>
+            <kwd>Mass mortality</kwd>
+            <kwd>Sea urchin</kwd>
+            <kwd>Demography</kwd>
+            <kwd>Puerto Rico</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>The NSF-OCE Biological Oceanography supported the APC for this article</funding-source>
+               <award-id>#2243580</award-id>
+            </award-group>
+            <funding-statement>The NSF-OCE Biological Oceanography award #2243580 supported the APC for this article. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Over recent years, the incidence of infectious diseases affecting marine organisms has increased and resulted in structural and functional impacts on ecosystems (<xref ref-type="bibr" rid="ref-38">Yadav &amp; Upadhyay, 2023</xref>). Even though infectious diseases are common in the marine realm, mass mortalities caused by infectious diseases are rare, yet their effects can be dramatic and long-lasting. Mass mortalities could be particularly damaging in regions characterized by a low redundancy of functional groups, such as the Caribbean reefs (<xref ref-type="bibr" rid="ref-3">Carpenter, 1990</xref>; <xref ref-type="bibr" rid="ref-22">Mumby et al., 2006</xref>). Such events could lead to a functional extinction of a key species (<italic>i.e.,</italic> the level at which the species no longer fulfills its ecological role) (<xref ref-type="bibr" rid="ref-36">Valiente-Banuet et al., 2015</xref>), compromising the community assemblage of the entire region and consequently restructuring the services these ecosystems provide to humankind and their ecological roles in the oceans (<xref ref-type="bibr" rid="ref-14">Lessios, 1988</xref>; <xref ref-type="bibr" rid="ref-3">Carpenter, 1990</xref>).</p>
+         <p>The prevalence of disease outbreaks is increasingly impacting the marine environment (<xref ref-type="bibr" rid="ref-7">Harvell et al., 1999</xref>). Reports of large-scale episodic events leading to mass mortalities in marine organisms have increased since the latter half of the previous century (<xref ref-type="bibr" rid="ref-8">Hayes et al., 2001</xref>). Consequently, documented instances of population crash due to disease outbreak episodes have been reported in many marine taxa. However, population crashes are not uncommon among echinoderms (<xref ref-type="bibr" rid="ref-10">Hewson et al., 2019</xref>; <xref ref-type="bibr" rid="ref-13">Lawrence, 2020</xref>). This phylum is commonly referred to as a “boom-bust” group due to the frequent outbreak episodes and massive die-offs observed worldwide (<xref ref-type="bibr" rid="ref-35">Uthicke, Schaffelke &amp; Byrne, 2009</xref>). Echinoderms play an important ecological role in the Caribbean region, not only as key herbivores, and structuring agents of the benthic community (<xref ref-type="bibr" rid="ref-31">Sammarco, 1982</xref>), but also due to their history of population crashes (<xref ref-type="bibr" rid="ref-11">Hughes et al., 1985</xref>; <xref ref-type="bibr" rid="ref-33">Steneck, 2013</xref>).</p>
+         <p>Several mass-mortality events affecting coral reefs in the Caribbean have been recorded, but the 1980 <italic>Diadema antillarum</italic> mass mortality event has been the most serious and well-studied of all (<xref ref-type="bibr" rid="ref-15">Lessios, 2016</xref>). Before the die-off, <italic>D</italic>. <italic>antillarum</italic> was among the main herbivores native to Caribbean coral reefs (<xref ref-type="bibr" rid="ref-33">Steneck, 2013</xref>; <xref ref-type="bibr" rid="ref-19">Mercado-Molina et al., 2015</xref>; <xref ref-type="bibr" rid="ref-29">Rodríguez-Barreras et al., 2014</xref>). However, a mysterious waterborne pathogen(s) demised over 98% of the <italic>D. antillarum</italic> population throughout the Caribbean basin (<xref ref-type="bibr" rid="ref-16">Lessios et al., 1984</xref>; <xref ref-type="bibr" rid="ref-11">Hughes et al., 1985</xref>). Immediately after, and in subsequent decades, reef-building corals declined, while the coral reefs experienced a significant increase in macroalgae, contributing to a severe decline in coral cover (<xref ref-type="bibr" rid="ref-15">Lessios, 2016</xref>). Nearly 40 years after the mass-mortality event, <italic>D. antillarum</italic> has shown variable levels of recovery across the region; however, <italic>D. antillarum</italic> densities have not reached pre-mortality levels in most localities (<xref ref-type="bibr" rid="ref-19">Mercado-Molina et al., 2015</xref>; <xref ref-type="bibr" rid="ref-28">Rodríguez-Barreras et al., 2015a</xref>; <xref ref-type="bibr" rid="ref-34">Tuohy, Wade &amp; Weil, 2020</xref>; <xref ref-type="bibr" rid="ref-24">Pusack et al., 2022</xref>).</p>
+         <p>In early 2022, a new mortality event of <italic>D. antillarum</italic> was reported on several islands across the Caribbean (Response Network, <xref ref-type="bibr" rid="ref-1">AGRRA, 2022</xref>). The mortality was first reported in the US Virgin Islands, and subsequently, mortalities were reported in several reefs throughout the Caribbean. Many individuals have been found dead or showing signs of disease, <italic>i.e.,</italic> sea urchins outside their shelters in midday hours, unable to attach to the substrate, showing slow movement of spines as a response to contact, and loss of spines (<xref ref-type="bibr" rid="ref-12">Hylkema et al., 2023</xref>). It is known that the species has a diurnal sheltering and nocturnal foraging behavior (<xref ref-type="bibr" rid="ref-32">Sharp et al., 2023</xref>). The resurgence of the <italic>D. antillarum</italic> die-off at a time when populations across the Caribbean have not fully recovered is of great concern for the scientific community, given the poor ecological state of Caribbean coral reefs (<xref ref-type="bibr" rid="ref-17">Levitan, Best &amp; Edmunds, 2023</xref>). Monitoring demographic changes in keystone species populations is essential for gaining insights into the biological relationships within an ecosystem. Therefore, in this study, we surveyed <italic>D. antillarum</italic> populations along the eastern, northern, and northwestern coasts of Puerto Rico. At each site, we estimated the population density, size distribution, and disease prevalence. We subsequently compared these parameters to available demographic data collected in 2012 and 2017 for four of these sites. These surveys were driven by three central questions: (1) Is the disease found in all the surveyed reefs? (2) Is the disease prevalence similar in all the surveyed reefs, and therefore are these reefs affected by the disease in a similar way, and (3) Are different sizes of <italic>D.</italic> <italic>antillarum</italic> individuals equally affected by the disease?</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials and Methods</title>
+         <sec>
+            <title>Surveyed sites</title>
+            <p>Surveys were carried out in eight shallow water reefs (&lt;3.0 m depth) along the eastern, northeastern, northern, and northwestern coasts of Puerto Rico (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). These sites were selected based on (1) the availability of demographic data from 2012 and 2017, and (2) divers who posted images of diseased and dead <italic>D. antillarum</italic> individuals on social media. The surveys started in May 2022, in Playa Punta Bandera located in Luquillo, on the northeastern coast (PBA), and Cerro Gordo in Vega Baja (CGO), on the northern coast of Puerto Rico. Surveys continued in June, 2022 when we visited Punta Tamarindo (PTA) and Punta Melones (PME), both on Culebra Island, on the eastern coast of Puerto Rico; Playa Sardinera in Dorado, on the northern coast (PSA), and Shacks Beach (SBE) and Playa Peña Blanca (PBL) in Aguadilla, both on the northwestern coast of Puerto Rico. Surveys ended in July 2022, when we visited Playa El Escambrón in San Juan on the northern coast (ESC) (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Surveyed sites along the eastern and northern coasts of Puerto Rico and Culebra Islands.</title>
+                  <p>Punta Tamarindo (PTA) and Punta Melones (PME) in Culebra Island, Punta Bandera (PBA), El Escambrón (ESC), Cerro Gordo (CGO), Playa Sardinera (PSA), Shacks Beach (SBE), and Playa Peña Blanca (PBL). Image credit: Open Street Map. Esri World Imaginary.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/fig-1.png"/>
+            </fig>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/table-1</object-id><label>Table 1</label><caption>
+                  <title>Surveyed sites along the eastern and northern coasts of Puerto Rico and Culebra Islands.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Site</bold></th>
+                           <th><bold>Acronym</bold></th>
+                           <th><bold>County</bold></th>
+                           <th><bold>Lat.</bold></th>
+                           <th><bold>Long.</bold></th>
+                           <th><bold>Coral cover (%)</bold></th>
+                           <th><bold>Depth (m)</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Punta Tamarindo</td>
+                           <td>PTA</td>
+                           <td>Culebra</td>
+                           <td>18.3151</td>
+                           <td>−65.3179</td>
+                           <td>15–20</td>
+                           <td>1–2</td>
+                        </tr>
+                        <tr>
+                           <td>Punta Melones</td>
+                           <td>PME</td>
+                           <td>Culebra</td>
+                           <td>18.3041</td>
+                           <td>−65.3112</td>
+                           <td>15–20</td>
+                           <td>1–3</td>
+                        </tr>
+                        <tr>
+                           <td>El Escambrón</td>
+                           <td>ESC</td>
+                           <td>San Juan</td>
+                           <td>18.4660</td>
+                           <td>−66.0858</td>
+                           <td>&lt;5</td>
+                           <td>0.5–3</td>
+                        </tr>
+                        <tr>
+                           <td>Punta Bandera</td>
+                           <td>PBA</td>
+                           <td>Luquillo</td>
+                           <td>18.3882</td>
+                           <td>−65.7185</td>
+                           <td>15–20</td>
+                           <td>0.5–1</td>
+                        </tr>
+                        <tr>
+                           <td>Cerro Gordo</td>
+                           <td>CGO</td>
+                           <td>Vega Alta</td>
+                           <td>18.4850</td>
+                           <td>−66.3389</td>
+                           <td>&lt;10</td>
+                           <td>1–3</td>
+                        </tr>
+                        <tr>
+                           <td>Shacks Beach</td>
+                           <td>SBE</td>
+                           <td>Isabela</td>
+                           <td>18.5164</td>
+                           <td>−67.1001</td>
+                           <td>&lt;5</td>
+                           <td>1–3</td>
+                        </tr>
+                        <tr>
+                           <td>Peña Blanca</td>
+                           <td>PBL</td>
+                           <td>Aguadilla</td>
+                           <td>18.4724</td>
+                           <td>−67.1691</td>
+                           <td>&lt;10</td>
+                           <td>1–3</td>
+                        </tr>
+                        <tr>
+                           <td>Playa Sardinera</td>
+                           <td>PSA</td>
+                           <td>Dorado</td>
+                           <td>18.4768</td>
+                           <td>−66.2984</td>
+                           <td>&lt;5</td>
+                           <td>0.5–1</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+            <p>PBA is a shallow bordering reef (&lt;2 m in depth), with coral cover ranging from 20–60% and dominated by standing dead and live <italic>Acropora palmata</italic> and <italic>Pseudodiploria strigosa</italic> at the reef crest. At the back reef, the substrate is dominated by <italic>P. clivosa,</italic> and <italic>Porites furcata</italic> mixed with patches of <italic>Thalassia testudinum</italic> and <italic>Syringodium filiforme</italic>. Water clarity is nearly 10 m year-round. CGO is a patchy reef interconnected with patches of seagrass beds dominated by <italic>T. testudinum</italic> and, to a lesser extent, by <italic>S. filiforme</italic>. This reef is influenced by a natural freshwater channel that drains nearly 100 m west of this reef. Coral cover at this reef is &lt;10%, and is mainly dominated by <italic>P. astreoides</italic>, <italic>P. strigosa</italic>, and <italic>P. clivosa</italic>. Water clarity is highly variable, ranging from &lt;2 m during the rainy season to &gt;10 m in the dry season. PTA and PME are basaltic rock outcrops with coral coverage ranging from 15–20% dominated by massive coral heads such as <italic>Porites astreoides</italic>, <italic>Pseudodiploria strigosa</italic>, <italic>P. clivosa</italic>, <italic>Favia fragum,</italic> and standing dead <italic>Acropora palmata</italic>. Water clarity exceeds 10 m year-round. Data collected from these reefs were compared with historical data available in <xref ref-type="bibr" rid="ref-27">Rodríguez-Barreras et al. (2018)</xref>.</p>
+            <p>PSA is a shallow (&lt;1 m water depth) emergent aeolianite platform of 4.4 km<sup>2</sup>, bordered by seagrass beds dominated by <italic>S. filiforme</italic> and to a lesser extent <italic>T. testudinum</italic> and sand. Coral cover is nearly 8% and is dominated by <italic>Madracis mirabilis</italic>, <italic>P. furcata</italic>, and <italic>Siderastrea radians</italic>. Water clarity is highly variable, ranging from &lt;1 m during the rainy season to &gt;15 m in the dry season. SBE is dominated by dead coral heads of <italic>Orbicella</italic> and <italic>Acropora</italic>, mixed with <italic>P. strigosa</italic>, <italic>P. clivosa</italic>, and <italic>A. palmata</italic> at the reef crest and by <italic>P. astreoides</italic> and <italic>A. palmata</italic> and octocorals the back reef. In this zone, coral coverage is &lt;5%. Water quality ranged between 3-10m most of the year. PBL is a karstic in origin flat substrate, with a coral cover &lt;10%, dominated by <italic>Pseudodiploria strigosa</italic>, <italic>P. clivosa</italic>, <italic>P. laberinthiformis</italic>, <italic>Porites astreoides</italic> and octocorals. Water clarity is &gt;8–10 m year-round. ESC is a submerged seawall of basaltic rocks and steel girders oriented perpendicular to the shore. Coral coverage at this reef is less than 5% and is dominated by <italic>P. astreoides</italic> and octocorals such as <italic>Gorgonia ventalina</italic>. The natural substratum next to the rocks is a mixed assemblage of macroalgae and sand with small size patches of <italic>T. testudinum</italic> and <italic>S. filiforme</italic>. Water clarity ranged between 1–5 m year-round.</p>
+         </sec>
+         <sec>
+            <title>Population parameters</title>
+            <p>To determine sea urchin density, test diameter, and to be able to compare recently collected data with the historical data, we followed <xref ref-type="bibr" rid="ref-19">Mercado-Molina et al. (2015)</xref> and <xref ref-type="bibr" rid="ref-27">Rodríguez-Barreras et al. (2018)</xref>. Briefly, at each reef and at hours ranging from 10:00–13:00, we set eight belt transects of 20 m<sup>2</sup> (10 m × 2 m) parallel to the coast. Transects were at least 5 m apart from each other at depths ranging from 1–3 m, as at these depths sea urchin abundance tends to be higher (<xref ref-type="bibr" rid="ref-30">Ruiz-Ramos, Hernández-Delgado &amp; Schizas, 2011</xref>; <xref ref-type="bibr" rid="ref-29">Rodríguez-Barreras et al., 2014</xref>; <xref ref-type="bibr" rid="ref-19">Mercado-Molina et al., 2015</xref>). We counted all individuals within each transect, including the healthy, the diseased, and the dead individuals. Sea urchin individuals were diagnosed as diseased if they were observed outside their cavities in daylight hours, unable to attach to the substrate, showing slow movement of spines as a response to contact and/or autotomy, <italic>i.e.,</italic> loss of spines. We also carefully inspected crevices between corals and small holes within each transect to avoid missing cryptic individuals. These data were used to estimate the urchin density (<italic>i.e.,</italic> the number of urchins per transect per site). We also measured the test diameter of individuals collected from the transects to estimate the size distribution at each reef. The total measured individuals per reef was 50. When needed, sea urchins out of the transects were measured until reaching 50 individuals per reef. Likewise, we also measured the tests from dead and sick sea urchins when possible. These data were used to classify sea urchins into three size classes: small or juvenile (test diameter ≤ 4.0 cm), medium or young adult (test diameter between 4.01 and 6.0 cm), and large or adult (test diameter &gt;6.01 cm) individuals. This data was used to construct a size-frequency distribution (<xref ref-type="bibr" rid="ref-21">Miller et al., 2003</xref>; <xref ref-type="bibr" rid="ref-18">Lugo-Ascorbe, 2004</xref>; <xref ref-type="bibr" rid="ref-29">Rodríguez-Barreras et al., 2014</xref>). Sampling was approved by the Department of Natural and Environmental Resources of Puerto Rico, permit number DRNA- 2022-IC-046.</p>
+         </sec>
+         <sec>
+            <title>Data analysis</title>
+            <p>We ran a general linear model with a Poisson distribution using the number of observations per transect as the response variable and the surveyed reefs as the explanatory variable to determine statistical differences between the 2022 sea urchin densities and between sites. To determine statistical significances between the historical density (<italic>i.e.,</italic> 2012 and 2017) and density data from 2022, we ran a general linear model with a Poisson distribution using the number of observed <italic>D. antillarum</italic> individuals per transect as the response variable and reefs (CGO, PTA, PME, and PBA) and years (<italic>i.e.,</italic> 2012, 2017 and 2022) as the explanatory variables. To compare size distribution based on the horizontal test diameter of <italic>D. antillarum</italic> among reefs during 2022, we used a two-way ANOVA, with the test size (in cm) as the response variable and size categories (small, medium, and large), and surveyed reefs as the explanatory variables. To determine potential differences in size structure from data collected in 2012, 2017, and 2022, we ran a three-way ANOVA using the test diameter (in cm) as the response variable and size categories (small, medium, and large), surveyed reefs (CGO, PTA, PME, and PBA) and years (2012, 2017 and 2022) as the explanatory variables, and a Tukey <italic>post-hoc</italic> pairwise comparison. All statistical analyses were conducted using R Statistical Software (v 4.3.1; <xref ref-type="bibr" rid="ref-25">R Core Team, 2023</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Spatio-temporal abundance</title>
+            <p>Out of the eight sites visited from May to July 2022, seven had living <italic>D. antillarum</italic> (<italic>i.e.,</italic> PBA, CGO, PSA, SBE, PME, PBL, and ESC). We only observed dead individuals at PTA. Overall, a total of 665 living <italic>D. antillarum</italic> individuals were counted, resulting in a local mean density of 0.52 ±0.33 ind m<sup>−2</sup> (mean ± SD). The highest densities were observed in CGO (1.09 ± 0.26 ind m<sup>−2</sup>) and PBA (1.05 ± 0.89 ind m<sup>−2</sup>), followed by PSA and PBL with 0.79 ± 0.43 ind m<sup>−2</sup> and 0.78 ± 0.42 ind m<sup>−2</sup>, respectively. The lowest densities were found at PSA, ESC, and PME with 0.36 ± 0.27, 0.11 ± 0.17, and 0.01 ± 0.02 ind m<sup>−2</sup>, respectively (<xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>). The statistical analysis revealed significant differences in mean densities among all sites except between PBA and CGO (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>).</p>
+            <fig id="fig-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/fig-2</object-id><label>Figure 2</label><caption>
+                  <title>Boxplot showing the 2022 <italic>Diadema antillarum</italic> abundance across Cerro Gordo (CGO), El Escambrón (ESC), Punta Bandera (PBA), Playa Peña Blanca (PBL), Punta Melones (PME), Playa Sardinera (PSA), Punta Tamarindo (PTA), Shacks Beach (SBE).</title>
+                  <p>The red circle represents the mean, the median is represented by the bold line, the extremes of the boxplot are the 1st and 3rd quartiles, and the whiskers are the maximum and minimum. The black dots represent the outliers.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/fig-2.png"/>
+            </fig>
+            <fig id="fig-3">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/fig-3</object-id><label>Figure 3</label><caption>
+                  <title>Boxplot showing the <italic>Diadema antillarum</italic> density across years 2012, 2017 &amp; 2022 at (A) Cerro Gordo (CGO), (B) Punta Bandera (PBA), (C) Punta Tamarindo (PTA), and (D) Punta Melones (PME).</title>
+                  <p>In the boxplot, the yellow circle represents the mean, the median is presented by the bold line, the extreme of the boxplot are the 1st and 3rd quartiles, and the whiskers are the maximum and minimum.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/fig-3.png"/>
+            </fig>
+            <p><italic>D. antillarum</italic> densities were highly variable from 2012, 2017, and 2022. Nonetheless, a consistent pattern of increasing from 2012 to 2017 and decreasing between 2017 to 2022 was observed at most of the surveyed reefs (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). For instance, at CGO, density increased by 4.03% from 2012 to 2017, but from 2017 to 2022, it decreased by 29.84%. At PBA, density increased by 21.78% from 2012 to 2017 but decreased by 20.23% from 2017 to 2022 (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Likewise, at PTA, density increased by 6.30% from 2012 to 2017, yet no living individuals were observed in 2022. In contrast, density at PME steadily declined across the survey. For instance, from 2012 to 2017, density declined by 29%, and from 2017 to 2022 declined by 99%. Statistical differences were found among sites between 2012 and 2017 with 2022, and the interaction between sites and years (<xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>).</p>
+         </sec>
+         <sec>
+            <title>Test diameter distribution</title>
+            <p>Overall, the mean diameter of <italic>D. antillarum</italic> tests across reefs in 2022 were relatively similar. The highest test diameter was observed in PBA with 7.19 ± 0.89 cm, followed by SBE with 7.03 ± 1.33 cm, PSA with 6.81 ± 1.09 cm, ESC with 6.86 ± 1.23 cm, CGO with 6.46 ± 0.91 cm, and PBL with 5.84 ± 1.11 cm (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). Only three individuals were measured at PME; the mean test diameter was 5.11 ± 1.07 cm. Similar test diameters were also recorded in 2012 and 2017. For instance, in 2012, PTA exhibited the highest mean test diameter at 6.82 ± 0.74 cm, followed by PME and PBA with 6.78 ± 0.77 cm and 6.75 ± 0.88 cm respectively, and lastly, CGO with 6.31 ± 1.31 cm. In 2017, CGO showed the highest test diameter with 6.79 ± 1.05 cm, followed by PBA and PME with 6.60 ± 1.13 cm and 6.57 ±1.10 cm, respectively, and lastly, PTA with 5.92 cm ±0.96 cm (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). Statistical differences were detected between reefs (<italic>F</italic> = 5.334 <italic>df</italic> = 3, <italic>p</italic>-value = 0.001), years (<italic>F</italic> = 6.095, <italic>df</italic> = 2, <italic>p</italic>-value = 0.002), and the interaction between sites and years (<italic>F</italic> = 6.75, <italic>df</italic> = 5, <italic>p</italic>-value = 4.23 e-06). The post-hoc analysis revealed differences between PTA and the rest of the reefs across all years. The analysis also revealed differences between PBA-2022 and PME-2017, PBA-2017 and PTA-2017, PBA-2022, and CGO-2022.</p>
+            <fig id="fig-4">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/fig-4</object-id><label>Figure 4</label><caption>
+                  <title>Boxplot showing the test diameter of <italic>Diadema antillarum</italic> in 2022 across the study sites (A) and by size categories (B).</title>
+                  <p>Sites are Cerro Gordo (CGO), Escambrón (ESC), Punta Bandera (PBA), Playa Peña Blanca (PBL), Punta Melones (PME), Playa Sardinera (PSA), and Shacks Beach (SBE). Size class category: small (≤ 4.0 cm), medium (4.01 to 6.01 cm), and large (&gt;6.01 cm). In the boxplot, the red circle represents the mean, the median is presented by the bold line, the extreme of the boxplot are the 1st and 3rd quartiles, and the whiskers are the maximum and minimum.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/fig-4.png"/>
+            </fig>
+            <fig id="fig-5">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/fig-5</object-id><label>Figure 5</label><caption>
+                  <title>Size categories distribution across years 2012, 2017 and 2022 at four sites, where (A) is Cerro Gordo (CGO), (B) is Punta Bandera (PBA), (C) Punta Melones (PME), and (D) is Punta Tamarindo (PTA).</title>
+                  <p>Size class category: small (≤ 4.0 cm), medium (4.01 to 6.0 cm), and large (&gt;6.01 cm).</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/fig-5.png"/>
+            </fig>
+            <p>The 2022 test size distribution was dominated by individuals from the large size class (individuals with tests &gt;6.01 cm) in most reefs (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). For instance, at PBA, 98% of the encountered individuals belong to the adult size class and only 2% to the small size class. At SBE, the large size class comprised 80% of the population, while the medium and small size classes represented 18% and 2%, respectively. Meanwhile, at CGO, PSA, and ESC, the large size class comprised between 70 to 76% of the population. Medium size class at ESC comprised 30%, while at PSA and CGO, the medium size class comprised 22 and 28%. The small size class individuals at CGO and PSA comprised around 2%. A similar demographic pattern was observed in the populations surveyed in 2012 (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). For instance, the individuals from larger size class comprised between 80–88% of <italic>D. antillarum</italic> populations at PBA, CGO, PME, and PTA, whereas the medium size class (4.0 &lt;<italic>x</italic> ≤ 6.01 cm) comprised between 12 to 20%. No small individuals (≤ 4.0 cm) were observed in 2012 at the surveyed sites, except in CGO (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). However, by 2017 we observed a decrease in the larger individuals, <italic>i.e.,</italic> 86 to 50%, coupled with an increase in the medium size class, 10 to 50%, and the smaller size class, <italic>e.g.</italic>, 2 to 8%. The statistical analysis showed differences by reefs, with CGO showing statistical differences with PME and PTA. In addition, the analysis revealed significant differences by year, with 2012 being statistically different from 2022, and by size class categories, with the frequency of large individuals being different from medium and small individuals (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/table-2</object-id><label>Table 2</label><caption>
+                  <title>A post-hoc pairwise Tukey test comparison of horizontal test diameter among sites of Puerto Rico Island. Sites with no living Diadema (Punta Tamarindo (PTA) and Punta Melones (PME)) were excluded from the analysis. Sites are Punta Bandera (PBA), El Escambrón (ESC), Cerro Gordo (CGO), Playa Sardinera (PSA), Shacks Beach (SBE), and Playa Peña Blanca (PBL).</title>
+                  <p>Bolding indicates a significant difference.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Sites</bold></th>
+                           <th>CGO</th>
+                           <th>PBA</th>
+                           <th>DBE</th>
+                           <th>PBL</th>
+                           <th>SBE</th>
+                           <th>ESC</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>CGO</td>
+                           <td/>
+                           <td><bold>0.000</bold></td>
+                           <td>0.054</td>
+                           <td><bold>0.050</bold></td>
+                           <td><bold>0.001</bold></td>
+                           <td>0.110</td>
+                        </tr>
+                        <tr>
+                           <td>PBA</td>
+                           <td/>
+                           <td/>
+                           <td>0.083</td>
+                           <td><bold>0.000</bold></td>
+                           <td>0.714</td>
+                           <td>0.243</td>
+                        </tr>
+                        <tr>
+                           <td>PSA</td>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td><bold>0.000</bold></td>
+                           <td>0.171</td>
+                           <td>0.885</td>
+                        </tr>
+                        <tr>
+                           <td>PBL</td>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td><bold>0.000</bold></td>
+                           <td><bold>0.002</bold></td>
+                        </tr>
+                        <tr>
+                           <td>SBE</td>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td>0.373</td>
+                        </tr>
+                        <tr>
+                           <td>ESC</td>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                           <td/>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Disease prevalence</title>
+            <p>Of the total of 665 sea urchins counted from May to July of 2022, only 4.3% were diseased. Diseased sea urchins were exclusively observed in DBE, PME, PTA, and ESC, but disease prevalence varied among sites. For instance, disease prevalence at DBE and ESC was 11.02% and 41.17%, respectively. Meanwhile, the observed individuals at the Culebra sites were either diseased, as in the case of PME where two out of the three observed individuals were diseased, or, as in the case of PTA, there were no live individuals. In addition, among the diseased sea urchins, 92.6% of them belonged to the large size class, while the remaining 7% were accounted for medium size class. No small diseased individuals were observed during the surveys at any of the sites (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>).</p>
+            <fig id="fig-6">
+               <object-id pub-id-type="doi">10.7717/peerj.16675/fig-6</object-id><label>Figure 6</label><caption>
+                  <title>Overall disease sea urchin size class distribution in Puerto Rico for the eight surveyed sites in 2022.</title>
+                  <p>Notice that no small diseased individuals were observed. In the boxplot, the red circle represents the mean, the median is presented by the bold line, the extreme of the boxplot are the 1st and 3rd quartiles, and the whiskers are the maximum and minimum.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16675/fig-6.png"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <sec>
+            <title><italic>D. antillarum</italic> density</title>
+            <p>This study, conducted during the midst of the disease outbreak caused by <italic>Scutico ciliatosis</italic> (<xref ref-type="bibr" rid="ref-9">Hewson et al., 2023</xref>), focuses on assessing the current density and size distribution of <italic>D. antillarum</italic> in eight reefs located along the eastern, northeastern, northern, and northwestern coasts of Puerto Rico. Furthermore, to determine the impact of this die-off, the study compares the demographic parameters observed in 2022 with historical data. Our results indicate that the disease impact on <italic>D. antillarum</italic> populations was heterogeneous across all surveyed sites, with variations observed among different locations. However, all the observed diseased sea urchins exhibited external signs of illness similar to those described in the literature by <xref ref-type="bibr" rid="ref-12">Hylkema et al. (2023)</xref>. Furthermore, the concurrent timing of our observations with those reported in other Caribbean jurisdictions strongly suggests that we were indeed dealing with the same disease.</p>
+            <p>Our data reveals significant variability in the estimated densities of <italic>D. antillarum</italic> across the surveyed reefs, with notable differences observed among sites. Of particular concern is the considerable decrease in density in 2022 compared to historical data for the Culebra sites. This reduction is significant considering that these sites had the highest densities on the eastern coast of Puerto Rico in the early 2000s (<xref ref-type="bibr" rid="ref-30">Ruiz-Ramos, Hernández-Delgado &amp; Schizas, 2011</xref>). For instance, these authors reported mean densities of 1.59 ± 0.50 ind m<sup>−2</sup> at PTA, whereas no living individuals were detected in 2022. We also documented similar density at PME, where density dropped from 1.04 ± 0.90 ind m<sup>−2</sup> in 2017 to no healthy sea urchins detected in 2022. Other sites have experienced similar <italic>D. antillarum</italic> reductions. For instance, <xref ref-type="bibr" rid="ref-29">Rodríguez-Barreras et al. (2014)</xref> reported densities of 1.10 ind m<sup>−2</sup> at ESC, yet our 2022 survey revealed a density drop to 0.1 ind m<sup>−2</sup>, with nearly half of the individuals being affected by the disease. Given the current disease prevalence observed at ESC, it is anticipated that the outbreak will have a more significant impact if the diseased individuals do not recover, and the disease continues to spread. The other sites exhibited less severe outbreak impact. For instance, PSA and PBL exhibited similar densities, but PSA displayed a disease prevalence of over 10%, while no diseased individuals were detected in PBL. Therefore, the density at PSA would likely have been higher than that of PBL if it had not been affected by the outbreak event.</p>
+            <p>Densities at PBA and CGO have also experienced decreases even though evidence of disease was not found. For instance, a study conducted in 2017 by (<xref ref-type="bibr" rid="ref-27">Rodríguez-Barreras et al., 2018</xref>) estimated the density at PBA at 1.26 ind m<sup>−2</sup>, while the estimated current density decreased to 1.05 ind m<sup>−2</sup>. A similar declining trend was observed in CGO, where densities decreased from 1.55 ind m<sup>−2</sup> in 2017 to 1.09 ind m<sup>−2</sup> in 2022. respectively. In subsequent visits to these sites in February, May, and August 2023, we found no evidence of the disease, further suggesting that the disease may not be the primary cause of these declines (unpublished data). Instead, habitat degradation may have influenced the observed declines as multiple coral heads, including the dominant species in this area <italic>e.g.</italic>, <italic>Pseudodiploria</italic> spp., were either recently dead or exhibited signs of Stony Coral Tissue Loss Disease (<xref ref-type="bibr" rid="ref-5">Dahlgren et al., 2021</xref>). Alternatively, the absence of diseased or dead sea urchins among the studied reefs may result in some populations being more resistant to the disease than others. It is also noteworthy to mention that from 2017 to 2022, three hurricanes onslaught Puerto Rico. These hurricanes caused significant damage to the reefs and seagrass beds, which, when combined with natural low recruitment, may have resulted in the observed low density in 2022 when compared to the 2017 densities (<xref ref-type="bibr" rid="ref-20">Miller et al., 2009</xref>; <xref ref-type="bibr" rid="ref-28">Rodríguez-Barreras et al., 2015a</xref>; <xref ref-type="bibr" rid="ref-26">Rodríguez-Barreras et al., 2015b</xref>; <xref ref-type="bibr" rid="ref-23">Pilnick et al., 2021</xref>).</p>
+         </sec>
+         <sec>
+            <title>Size distribution</title>
+            <p>The current size distribution of <italic>D. antillarum</italic> in the surveyed reefs was dominated by the large-size class individuals, with fewer medium-sized class individuals and even fewer small-size class individuals. The absence of juveniles may have multiple explanations. For instance, lower frequencies of small-size individuals may suggest a generally low recruitment given the relatively low abundance of mature and, therefore, larger <italic>D. antillarum</italic> individuals when compared to 80s pre-mortality events. In fact, most authors argued this as the main reason for the slow recovery after the massive mortality (<xref ref-type="bibr" rid="ref-14">Lessios, 1988</xref>; <xref ref-type="bibr" rid="ref-21">Miller et al., 2003</xref>; <xref ref-type="bibr" rid="ref-27">Rodríguez-Barreras et al., 2018</xref>). It could also suggest a high mortality among the recently settled and juvenile sea urchins due to predation, as several studies have argued that <italic>D. antillarum</italic> predation by reef-fishes may have a profound effect on the sea urchin size structure (<xref ref-type="bibr" rid="ref-6">Harborne et al., 2009</xref>; <xref ref-type="bibr" rid="ref-28">Rodríguez-Barreras et al., 2015a</xref>). Nonetheless, it is difficult to conclude that the reason for the low observations of juveniles and sub-adults was related to being more susceptible to the disease than mature individuals. Therefore, longitudinal studies, which include a collection of <italic>D. antillarum</italic> in the larval pool and recruit monitoring across several reefs, are required to better comprehend the demographic dynamics of <italic>D. antillarum</italic> under the current outbreak scenario.</p>
+         </sec>
+         <sec>
+            <title>Outbreak impact</title>
+            <p>Overall, the prevalence of the new outbreak was still relatively low in the surveyed reefs, as only 4.3% of the 665 counted sea urchins were diseased (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). It also shows an erratic geographic distribution, with some reefs showing high prevalence and others with moderately to low prevalence and hence presumably low impact. A recent study conducted in the Dominican Republic also reported variable impact across different reefs, although the outbreak in the Dominican Republic seems to have had a higher impact than in Puerto Rico (<xref ref-type="bibr" rid="ref-37">Villalpando et al., 2022</xref>). Nonetheless, the outbreak in Puerto Rico just started, as judged by the lack of conclusive evidence of disease in some of the surveyed reefs. Therefore, it is still premature to capture the real magnitude of the impact, and if the ongoing outbreak is as destructive as the 80s mortality event when populations were decimated throughout the western Atlantic, including the Bermudas, in a relatively short period of time (<xref ref-type="bibr" rid="ref-22">Mumby et al., 2006</xref>; <xref ref-type="bibr" rid="ref-2">Bove, Mudge &amp; Bruno, 2022</xref>). Instead, the spatial-heterogeneous nature of this new outbreak and the variable mortality of individuals resemble the mortality event occurring in the sibling urchin species <italic>D. africanum</italic>, from October 2009 to April 2010 in the subtropical eastern Atlantic (<xref ref-type="bibr" rid="ref-4">Clemente et al., 2014</xref>). Nonetheless, long-term monitoring programs at these reefs may help disclose size class patterns of disease susceptibility.</p>
+         </sec>
+      </sec>
+      <sec>
+         <title>Conclusion</title>
+         <p>Populations of <italic>D. antillarum</italic> at surveyed reefs have not fully recovered since the mass mortality event in the 1980s (<xref ref-type="bibr" rid="ref-19">Mercado-Molina et al., 2015</xref>; <xref ref-type="bibr" rid="ref-27">Rodríguez-Barreras et al., 2018</xref>) and are now facing a second outbreak that is causing further damage. This study sheds light on the current state of <italic>D. antillarum</italic> populations in Puerto Rico’s reefs amid the <italic>Scutico ciliatosis</italic> outbreak, revealing different degrees of impact across different locations, with some reefs experiencing a drastic decline in sea urchin density, particularly concerning for sites like Culebra, which once boasted relative high densities. Nonetheless, the limited available data makes it difficult to determine which factors (abiotic and biotic) may favor the infection either by compromising the individual’s immune system or by favoring the proliferation of the biotic agent(s) or both. This 2022 outbreak’s complexity mirrors past events, emphasizing the importance of establishing long-term monitoring programs where key abiotic and biotic components known to cause stress to other coral reefs-associated organisms are regularly surveyed. This is especially critical in the face of climate change and changing marine conditions, which may weaken the immunity of marine organisms and increase the frequency and severity of disease outbreaks.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/16675/TableS1.docx">
+            <object-id pub-id-type="doi">10.7717/peerj.16675/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Comparison of sea urchin abundance between sites</title>
+               <p>Cerro Gordo (GGO) and El Escambrón (ESC), Punta Bandera (PBA), Playa Peña Blanca (PBL), Punta Melones (PME), Playa Sardinera (PSA), Punta Tamarindo (PTA), and Shacks Beach (SBE) over 2022 using a General Linear Model with Poison distribution, AIC= 655.75. The asterisks (*) indicate the level of significance.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document" xlink:href="https://peerj.com/articles/16675/TableS2.docx">
+            <object-id pub-id-type="doi">10.7717/peerj.16675/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Comparison of sea urchin abundance between Cerro Gordo (GGO) and Punta Bandera (PBA), Punta Melones (PME), and Punta Tamarindo (PTA) over the years 2012, 2017, and 2022 using a General Linear Model with Poison distribution, AIC=655.75</title>
+               <p>The asterisks indicate the level of significance. Note: no sea urchin was observed in 2022.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16675/RawData.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16675/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>Raw data (abundance and test size diameter)</title>
+               <p>The number of sea urchins found at each transect and the test diameter of 50 individuals (when possible) for 8 sites in Puerto Rico.</p>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We would like to express our gratitude to the Sociedad Ambiente Marino for providing logistic support. We also want to thank Dr. Alberto Sabat and Dr. Benjamin Van Ee for their valuable comments and corrections which helped us improve the manuscript’s quality.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Ruber Rodríguez-Barreras</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Claudia Patricia Ruiz-Diaz</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Marcos A. Quiñones-Otero</xref> performed the experiments, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Carlos Toledo-Hernández</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw data is available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplementary File</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>AGRRA (2022)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>AGRRA</collab>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Diadema response network map of diadema and other sea urchins in the Caribbean. ArcGIS Online</article-title>
+               <uri>https://www.agrra.org/sea-urchin-die-off/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Bove, Mudge &amp; Bruno (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bove</surname>
+                     <given-names>CB</given-names>
+                  </name>
+                  <name>
+                     <surname>Mudge</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Bruno</surname>
+                     <given-names>JF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>A century of warming on Caribbean reefs</article-title>
+               <source>PLOS Climate</source>
+               <volume>1</volume>
+               <issue>3</issue>
+               <elocation-id>e0000002</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pclm.0000002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Carpenter (1990)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Carpenter</surname>
+                     <given-names>RC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1990">1990</year>
+               <article-title>Mass mortality of <italic>Diadema antillarum</italic></article-title>
+               <source>Marine Biology</source>
+               <volume>104</volume>
+               <issue>1</issue>
+               <fpage>67</fpage>
+               <lpage>77</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF01313159</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Clemente et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Clemente</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Lorenzo-Morales</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Mendoza</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>López</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Sangil</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Alves</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Kaufmann</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>JC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Sea urchin <italic>Diadema africanum</italic> mass mortality in the subtropical eastern Atlantic: role of waterborne bacteria in a warming ocean</article-title>
+               <source>Marine Ecology Progress Series</source>
+               <volume>506</volume>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <pub-id pub-id-type="doi">10.3354/meps10829</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Dahlgren et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dahlgren</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Pizarro</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Sherman</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Greene</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Oliver</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Spatial and temporal patterns of stony coral tissue loss disease outbreaks in the Bahamas</article-title>
+               <source>Frontiers in Marine Science</source>
+               <volume>8</volume>
+               <elocation-id>682114</elocation-id>
+               <pub-id pub-id-type="doi">10.3389/fmars.2021.682114</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Harborne et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harborne</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Renaud</surname>
+                     <given-names>PG</given-names>
+                  </name>
+                  <name>
+                     <surname>Tyler</surname>
+                     <given-names>EHM</given-names>
+                  </name>
+                  <name>
+                     <surname>Mumby</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Reduced density of the herbivorous urchin Diadema antillarum inside a Caribbean marine reserve linked to increased predation pressure by fishes</article-title>
+               <source>Coral Reefs</source>
+               <volume>28</volume>
+               <fpage>783</fpage>
+               <lpage>791</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Harvell et al. (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harvell</surname>
+                     <given-names>CD</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Burkholder</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Colwell</surname>
+                     <given-names>RR</given-names>
+                  </name>
+                  <name>
+                     <surname>Epstein</surname>
+                     <given-names>PR</given-names>
+                  </name>
+                  <name>
+                     <surname>Grimes</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Hoffman</surname>
+                     <given-names>EE</given-names>
+                  </name>
+                  <name>
+                     <surname>Lipp</surname>
+                     <given-names>EK</given-names>
+                  </name>
+                  <name>
+                     <surname>Osterhaus</surname>
+                     <given-names>DME</given-names>
+                  </name>
+                  <name>
+                     <surname>Overstreet</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Porter</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>GW</given-names>
+                  </name>
+                  <name>
+                     <surname>Vasta</surname>
+                     <given-names>GR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Emerging marine diseases–climate links and anthropogenic factors</article-title>
+               <source>Science</source>
+               <volume>285</volume>
+               <issue>5433</issue>
+               <fpage>1505</fpage>
+               <lpage>1510</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Hayes et al. (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hayes</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Bonaventura</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Mitchell</surname>
+                     <given-names>TP</given-names>
+                  </name>
+                  <name>
+                     <surname>Prospero</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Shinn</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>Van Dolah</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Barber</surname>
+                     <given-names>RT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>How are climate and marine biological outbreaks functionally linked?</article-title>
+               <source>The Ecology and Etiology of Newly Emerging Marine Diseases</source>
+               <volume>460</volume>
+               <fpage>213</fpage>
+               <lpage>220</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Hewson et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hewson</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Ritchie</surname>
+                     <given-names>IT</given-names>
+                  </name>
+                  <name>
+                     <surname>Evans</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Altera</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Behringer</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Bowman</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Brandt</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Budd</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Camacho</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Cornwell</surname>
+                     <given-names>TO</given-names>
+                  </name>
+                  <name>
+                     <surname>Countway</surname>
+                     <given-names>PD</given-names>
+                  </name>
+                  <name>
+                     <surname>Croquer</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Delgado</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name>
+                     <surname>Derito</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Duermit-Moreau</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Francis-Floyd</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Henderson</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Hylkema</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kellogg</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kiryu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Kitson-Walters</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kramer</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Lang</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Lessios</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Liddy</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Marancick</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Nimrod</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>JT</given-names>
+                  </name>
+                  <name>
+                     <surname>Pistor</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Romero</surname>
+                     <given-names>IC</given-names>
+                  </name>
+                  <name>
+                     <surname>Sellares-Blasco</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Servier</surname>
+                     <given-names>MLB</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharp</surname>
+                     <given-names>WC</given-names>
+                  </name>
+                  <name>
+                     <surname>Souza</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Valdez-Trinidad</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Van der Lann</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Villanova-Cuevas</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Villalpando</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Von Hoene</surname>
+                     <given-names>SH</given-names>
+                  </name>
+                  <name>
+                     <surname>Warham</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Wijers</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Work</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>Zambrano</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Zimmermann</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Breitbart</surname>
+                     <given-names>MYA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>A scuticociliate causes mass mortality of <italic>Diadema antillarum</italic> in the Caribbean Sea</article-title>
+               <source>Science Advances</source>
+               <volume>9</volume>
+               <issue>16</issue>
+               <elocation-id>eadg3200</elocation-id>
+               <pub-id pub-id-type="doi">10.1126/sciadv.adg3200</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Hewson et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hewson</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Sullivan</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Jackson</surname>
+                     <given-names>EW</given-names>
+                  </name>
+                  <name>
+                     <surname>Xu</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Long</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Lin</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Quijano-Carde</surname>
+                     <given-names>EV</given-names>
+                  </name>
+                  <name>
+                     <surname>Seymour</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Siboni</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>MRL</given-names>
+                  </name>
+                  <name>
+                     <surname>Sewell</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Perspective: something old, something new? Review of wasting and other mortality in Asteroidea (Echinodermata)</article-title>
+               <source>Frontiers in Marine Science</source>
+               <volume>406</volume>
+               <fpage>1</fpage>
+               <lpage>8</lpage>
+               <pub-id pub-id-type="doi">10.3389/fmars.2019.00406</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Hughes et al. (1985)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hughes</surname>
+                     <given-names>TP</given-names>
+                  </name>
+                  <name>
+                     <surname>Keller</surname>
+                     <given-names>BD</given-names>
+                  </name>
+                  <name>
+                     <surname>Jackson</surname>
+                     <given-names>JBC</given-names>
+                  </name>
+                  <name>
+                     <surname>Boyle</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1985">1985</year>
+               <article-title>Mass mortality of the echinoid <italic>Diadema antillarum</italic> Philippi in Jamaica</article-title>
+               <source>Bulletin of Marine Science</source>
+               <volume>36</volume>
+               <issue>2</issue>
+               <fpage>377</fpage>
+               <lpage>384</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Hylkema et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hylkema</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kitson-Walters</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Kramer</surname>
+                     <given-names>PR</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>JT</given-names>
+                  </name>
+                  <name>
+                     <surname>Roth</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Sevier</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Vega-Rodriguez</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Warham</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lang</surname>
+                     <given-names>JC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>The 2022 <italic>Diadema antillarum</italic> die-off event: comparisons with the 1983–1984 mass mortality</article-title>
+               <source>Frontiers in Marine Science</source>
+               <volume>9</volume>
+               <fpage>2654</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Lawrence (2020)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lawrence</surname>
+                     <given-names>JM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Mass mortality of echinoderms from abiotic factors</article-title>
+               <source>Echinoderm studies 5 1996</source>
+               <publisher-name>CRC Press</publisher-name>
+               <publisher-loc>Boca-Ratón, Florida</publisher-loc>
+               <fpage>103</fpage>
+               <lpage>137</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Lessios (1988)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lessios</surname>
+                     <given-names>HA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1988">1988</year>
+               <article-title>Mass mortality of <italic>Diadema antillarum</italic> in the Caribbean: what have we learned?</article-title>
+               <source>Annual Review of Ecology and Systematics</source>
+               <volume>19</volume>
+               <fpage>371</fpage>
+               <lpage>393</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Lessios (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lessios</surname>
+                     <given-names>HA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>The great <italic>Diadema antillarum</italic> die-off: 30 years later</article-title>
+               <source>Annual Review of Marine Science</source>
+               <volume>8</volume>
+               <fpage>267</fpage>
+               <lpage>283</lpage>
+               <pub-id pub-id-type="doi">10.1146/annurev-marine-122414-033857</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Lessios et al (1984)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lessios</surname>
+                     <given-names>HA</given-names>
+                  </name>
+                  <name>
+                     <surname>Cubit</surname>
+                     <given-names>JD</given-names>
+                  </name>
+                  <name>
+                     <surname>Robertson</surname>
+                     <given-names>DR</given-names>
+                  </name>
+                  <name>
+                     <surname>Shulman</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Parker</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name>
+                     <surname>Garrity</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Levings</surname>
+                     <given-names>SC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1984">1984</year>
+               <source>Coral Reefs</source>
+               <volume>3</volume>
+               <issue>4</issue>
+               <fpage>173-182</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Levitan, Best &amp; Edmunds (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Levitan</surname>
+                     <given-names>DR</given-names>
+                  </name>
+                  <name>
+                     <surname>Best</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Edmunds</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Sea urchin mass mortalities 40 y apart further threaten Caribbean coral reefs</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>120</volume>
+               <issue>10</issue>
+               <elocation-id>e2218901120</elocation-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Lugo-Ascorbe (2004)</label><element-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lugo-Ascorbe</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Population status of the black sea urchin <italic>Diadema antillarum</italic> (Philippi) in La Parguera, Puerto Rico, 20 years after the mass mortality event</article-title>
+               <source>Doctoral dissertation</source>
+               <institution>University of Puerto Rico, Mayagüez campus</institution>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Mercado-Molina et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mercado-Molina</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Montañez Acuña</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodríguez-Barreras</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Colón-Miranda</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Díaz-Ortega</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez-González</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Schleier-Hernández</surname>
+                     <given-names>Sandra</given-names>
+                  </name>
+                  <name>
+                     <surname>Sabat</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Revisiting the population status of the sea urchin <italic>Diadema antillarum</italic> in northern Puerto Rico</article-title>
+               <source>Journal of the Marine Biological Association of the United Kingdom</source>
+               <volume>95</volume>
+               <issue>5</issue>
+               <fpage>1017</fpage>
+               <lpage>1024</lpage>
+               <pub-id pub-id-type="doi">10.1017/S002531541400188X</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Miller et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>MW</given-names>
+                  </name>
+                  <name>
+                     <surname>Kramer</surname>
+                     <given-names>KL</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnston</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Szmant</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Assessment of current rates of <italic>Diadema antillarum</italic> larval settlement</article-title>
+               <source>Coral Reefs</source>
+               <volume>28</volume>
+               <fpage>511</fpage>
+               <lpage>515</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00338-008-0458-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Miller et al. (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Adams</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Ogden</surname>
+                     <given-names>NB</given-names>
+                  </name>
+                  <name>
+                     <surname>Ogden</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Ebersole</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title><italic>Diadema antillarum</italic> 17 years after mass mortality: is recovery beginning on St. Croix?</article-title>
+               <source>Coral Reefs</source>
+               <volume>22</volume>
+               <issue>2</issue>
+               <fpage>181</fpage>
+               <lpage>187</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00338-003-0301-x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Mumby et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mumby</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Hedley</surname>
+                     <given-names>JD</given-names>
+                  </name>
+                  <name>
+                     <surname>Zychaluk</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Harborne</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Blackwell</surname>
+                     <given-names>PG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Revisiting the catastrophic die-off of the urchin <italic>Diadema antillarum</italic> on Caribbean coral reefs: fresh insights on resilience from a simulation model</article-title>
+               <source>Ecological Modelling</source>
+               <volume>196</volume>
+               <issue>1–2</issue>
+               <fpage>131</fpage>
+               <lpage>148</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2005.11.035</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Pilnick et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pilnick</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Neil</surname>
+                     <given-names>KL</given-names>
+                  </name>
+                  <name>
+                     <surname>Moe</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>JT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>A novel system for intensive <italic>Diadema antillarum</italic> propagation as a step towards population enhancement</article-title>
+               <source>Scientific Reports</source>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>11244</fpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-021-90564-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Pusack et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pusack</surname>
+                     <given-names>TJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Stallings</surname>
+                     <given-names>CD</given-names>
+                  </name>
+                  <name>
+                     <surname>Albins</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Benkwitt</surname>
+                     <given-names>CE</given-names>
+                  </name>
+                  <name>
+                     <surname>Ingeman</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Kindinger</surname>
+                     <given-names>TL</given-names>
+                  </name>
+                  <name>
+                     <surname>Hixon</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Protracted recovery of long-spined urchin (<italic>Diadema antillarum</italic>) in the Bahamas</article-title>
+               <source>Coral Reefs</source>
+               <volume>42</volume>
+               <fpage>93</fpage>
+               <lpage>98</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>R Core Team (2023)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>R Core Team</collab>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <data-title>R: a language and environment for statistical computing</data-title>
+               <publisher-name>R Foundation for Statistical Computing</publisher-name>
+               <publisher-loc>Vienna</publisher-loc>
+               <uri>https://www.R-project.org/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Rodríguez-Barreras et al. (2015b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez-Barreras</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Durán</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Lopéz-Morell</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Sabat</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015b</year>
+               <article-title>Effect of fish removal on the abundance and size structure of the sea urchin <italic>Diadema antillarum</italic>: a field experiment</article-title>
+               <source>Marine Biology Research</source>
+               <volume>11</volume>
+               <issue>10</issue>
+               <fpage>1100</fpage>
+               <lpage>1107</lpage>
+               <pub-id pub-id-type="doi">10.1080/17451000.2015.1064140</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Rodríguez-Barreras et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez-Barreras</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Montanez-Acuna</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Otano-Cruz</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ling</surname>
+                     <given-names>SD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Apparent stability of a low-density <italic>Diadema antillarum</italic> regime for Puerto Rican coral reefs</article-title>
+               <source>ICES Journal of Marine Science</source>
+               <volume>75</volume>
+               <issue>6</issue>
+               <fpage>2193</fpage>
+               <lpage>2201</lpage>
+               <pub-id pub-id-type="doi">10.1093/icesjms/fsy093</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Rodríguez-Barreras et al. (2015a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez-Barreras</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez</surname>
+                     <given-names>ME</given-names>
+                  </name>
+                  <name>
+                     <surname>Mercado-Molina</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Sabat</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015a</year>
+               <article-title>Arrested recovery of <italic>Diadema antillarum</italic> population: survival or recruitment limitation?</article-title>
+               <source>Estuarine, Coastal and Shelf Science</source>
+               <volume>163</volume>
+               <fpage>167</fpage>
+               <lpage>174</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ecss.2015.06.021</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Rodríguez-Barreras et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez-Barreras</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez</surname>
+                     <given-names>ME</given-names>
+                  </name>
+                  <name>
+                     <surname>Mercado-Molina</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Sabat</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Higher population densities of the sea urchin <italic>Diadema antillarum</italic> linked to wave sheltered areas in north Puerto Rico Archipelago</article-title>
+               <source>Journal of the Marine Biological Association of the United Kingdom</source>
+               <volume>94</volume>
+               <issue>8</issue>
+               <fpage>1661</fpage>
+               <lpage>1669</lpage>
+               <pub-id pub-id-type="doi">10.1017/S0025315414000666</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Ruiz-Ramos, Hernández-Delgado &amp; Schizas (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruiz-Ramos</surname>
+                     <given-names>DV</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández-Delgado</surname>
+                     <given-names>EA</given-names>
+                  </name>
+                  <name>
+                     <surname>Schizas</surname>
+                     <given-names>NV</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Population status of the long-spined urchin <italic>Diadema antillarum</italic> in Puerto Rico 20 years after a mass mortality event</article-title>
+               <source>Bulletin of Marine Science</source>
+               <volume>87</volume>
+               <issue>1</issue>
+               <fpage>113</fpage>
+               <lpage>127</lpage>
+               <pub-id pub-id-type="doi">10.5343/bms.2010.1038</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Sammarco (1982)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sammarco</surname>
+                     <given-names>PW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1982">1982</year>
+               <article-title>Polyp bail-out: an escape response to environmental stress and a new means of reproduction in corals</article-title>
+               <source>Marine Ecology Progress Series. Oldendorf</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>57</fpage>
+               <lpage>65</lpage>
+               <pub-id pub-id-type="doi">10.3354/meps010057</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Sharp et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sharp</surname>
+                     <given-names>WC</given-names>
+                  </name>
+                  <name>
+                     <surname>Delgado</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pilnick</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>JT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Diurnal sheltering behavior of hatchery-propagated long-spined urchins (<italic>Diadema antillarum</italic>): a re-examination following husbandry refinements</article-title>
+               <source>Bulletin of Marine Science</source>
+               <volume>99</volume>
+               <issue>2</issue>
+               <fpage>97</fpage>
+               <lpage>108</lpage>
+               <pub-id pub-id-type="doi">10.5343/bms.2022.0054</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Steneck (2013)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Steneck</surname>
+                     <given-names>RS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Sea urchins as drivers of shallow benthic marine community structure</article-title>
+               <volume>Vol. 38</volume>
+               <source>Developments in Aquaculture and Fisheries Science</source>
+               <publisher-name>Elsevier</publisher-name>
+               <publisher-loc>Tampa, Florida</publisher-loc>
+               <fpage>195</fpage>
+               <lpage>212</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Tuohy, Wade &amp; Weil (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tuohy</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Wade</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Weil</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Lack of recovery of the long-spined sea urchin <italic>Diadema antillarum</italic> Philippi in Puerto Rico 30 years after the Caribbean-wide mass mortality</article-title>
+               <source>PeerJ</source>
+               <volume>8</volume>
+               <elocation-id>e8428</elocation-id>
+               <pub-id pub-id-type="doi">10.7717/peerj.8428</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Uthicke, Schaffelke &amp; Byrne (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Uthicke</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Schaffelke</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrne</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>A boom–bust phylum? Ecological and evolutionary consequences of density variations in echinoderms</article-title>
+               <source>Ecological Monographs</source>
+               <volume>79</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>24</lpage>
+               <pub-id pub-id-type="doi">10.1890/07-2136.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Valiente-Banuet et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Valiente-Banuet</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Aizen</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Alcántara</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name>
+                     <surname>Arroyo</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Cocucci</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Galetti</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>García</surname>
+                     <given-names>María B.</given-names>
+                  </name>
+                  <name>
+                     <surname>García</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name>
+                     <surname>Gómez</surname>
+                     <given-names>José M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Jordano</surname>
+                     <given-names>Pedro</given-names>
+                  </name>
+                  <name>
+                     <surname>Medel</surname>
+                     <given-names>Rodrigo</given-names>
+                  </name>
+                  <name>
+                     <surname>Navarro</surname>
+                     <given-names>Luis</given-names>
+                  </name>
+                  <name>
+                     <surname>Obeso</surname>
+                     <given-names>José R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Oviedo</surname>
+                     <given-names>Ramona</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramírez</surname>
+                     <given-names>Nelson</given-names>
+                  </name>
+                  <name>
+                     <surname>Rey</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Traveset</surname>
+                     <given-names>Anna</given-names>
+                  </name>
+                  <name>
+                     <surname>Verdú</surname>
+                     <given-names>Miguel</given-names>
+                  </name>
+                  <name>
+                     <surname>Zamora</surname>
+                     <given-names>Regino</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>Marc</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Beyond species loss: the extinction of ecological interactions in a changing world</article-title>
+               <source>Functional Ecology</source>
+               <volume>29</volume>
+               <issue>3</issue>
+               <fpage>299</fpage>
+               <lpage>307</lpage>
+               <pub-id pub-id-type="doi">10.1111/1365-2435.12356</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Villalpando et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Villalpando</surname>
+                     <given-names>MF</given-names>
+                  </name>
+                  <name>
+                     <surname>Guendulain-García</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Valdez-Trinidad</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Croquer</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sellares-Blasco</surname>
+                     <given-names>RI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Coral reefs of southeastern Dominican Republic hit by two simultaneous epizootic events</article-title>
+               <source> Bulletin of Marine Science</source>
+               <volume>98</volume>
+               <issue>4</issue>
+               <fpage>507</fpage>
+               <lpage>508</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Yadav &amp; Upadhyay (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yadav</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Upadhyay</surname>
+                     <given-names>RK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Global effect of climate change on seasonal cycles, vector population and rising challenges of communicable diseases: a review</article-title>
+               <source>Journal of Atmospheric Science Research</source>
+               <volume>6</volume>
+               <issue>01</issue>
+               <fpage>21</fpage>
+               <lpage>59</lpage>
+               <pub-id pub-id-type="doi">10.30564/jasr.v6i1.5165</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

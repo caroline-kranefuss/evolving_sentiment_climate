@@ -1,0 +1,3333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16578</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16578</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Computational Science</subject>
+<subject>Data Science</subject>
+<subject>Forestry</subject>
+<subject>Spatial and Geographic Information Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Data science competition for cross-site individual tree species identification from airborne remote sensing data</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0003-3805-4242</contrib-id>
+<name name-style="western">
+<surname>Graves</surname>
+<given-names>Sarah J.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>sjgraves142@gmail.com</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Marconi</surname>
+<given-names>Sergio</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0003-4505-657X</contrib-id>
+<name name-style="western">
+<surname>Stewart</surname>
+<given-names>Dylan</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Harmon</surname>
+<given-names>Ira</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name name-style="western">
+<surname>Weinstein</surname>
+<given-names>Ben</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Kanazawa</surname>
+<given-names>Yuzi</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-2085-1449</contrib-id>
+<name name-style="western">
+<surname>Scholl</surname>
+<given-names>Victoria M.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-6">6</xref>
+<xref ref-type="aff" rid="aff-7">7</xref>
+</contrib>
+<contrib id="author-8" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7745-9990</contrib-id>
+<name name-style="western">
+<surname>Joseph</surname>
+<given-names>Maxwell B.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-6">6</xref>
+</contrib>
+<contrib id="author-9" contrib-type="author">
+<name name-style="western">
+<surname>McGlinchy</surname>
+<given-names>Joseph</given-names>
+</name>
+<xref ref-type="aff" rid="aff-6">6</xref>
+</contrib>
+<contrib id="author-10" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-2239-3007</contrib-id>
+<name name-style="western">
+<surname>Browne</surname>
+<given-names>Luke</given-names>
+</name>
+<xref ref-type="aff" rid="aff-8">8</xref>
+</contrib>
+<contrib id="author-11" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-9926-1929</contrib-id>
+<name name-style="western">
+<surname>Sullivan</surname>
+<given-names>Megan K.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-8">8</xref>
+</contrib>
+<contrib id="author-12" contrib-type="author">
+<name name-style="western">
+<surname>Estrada-Villegas</surname>
+<given-names>Sergio</given-names>
+</name>
+<xref ref-type="aff" rid="aff-8">8</xref>
+</contrib>
+<contrib id="author-13" contrib-type="author">
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>Daisy Zhe</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-14" contrib-type="author">
+<name name-style="western">
+<surname>Singh</surname>
+<given-names>Aditya</given-names>
+</name>
+<xref ref-type="aff" rid="aff-9">9</xref>
+</contrib>
+<contrib id="author-15" contrib-type="author">
+<name name-style="western">
+<surname>Bohlman</surname>
+<given-names>Stephanie</given-names>
+</name>
+<xref ref-type="aff" rid="aff-10">10</xref>
+</contrib>
+<contrib id="author-16" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-4847-7604</contrib-id>
+<name name-style="western">
+<surname>Zare</surname>
+<given-names>Alina</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+<xref ref-type="aff" rid="aff-11">11</xref>
+<xref ref-type="aff" rid="aff-12">12</xref>
+</contrib>
+<contrib id="author-17" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-6728-7745</contrib-id>
+<name name-style="western">
+<surname>White</surname>
+<given-names>Ethan P.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<xref ref-type="aff" rid="aff-11">11</xref>
+<xref ref-type="aff" rid="aff-12">12</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>Nelson Institute for Environmental Studies, University of Wisconsin-Madison</institution>, <addr-line>Madison, Wisconsin</addr-line>, <country>United States</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Department of Wildlife Ecology and Conservation, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Department of Electrical and Computer Engineering, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+<aff id="aff-4">
+<label>4</label><institution>Department of Computer and Information Sciences and Engineering, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+<aff id="aff-5">
+<label>5</label><institution>Artificial Intelligence Laboratory, Fujitsu Laboratories Ltd.</institution>, <addr-line>Kawasaki, Kanagawa</addr-line>, <country>Japan</country></aff>
+<aff id="aff-6">
+<label>6</label><institution>Earth Lab, Cooperative Institute for Research in Environmental Sciences (CIRES), University of Colorado at Boulder</institution>, <addr-line>Boulder, Colorado</addr-line>, <country>United States</country></aff>
+<aff id="aff-7">
+<label>7</label><institution>Department of Geography, University of Colorado at Boulder</institution>, <addr-line>Boulder, Colorado</addr-line>, <country>United States</country></aff>
+<aff id="aff-8">
+<label>8</label><institution>Yale School of the Environment, Yale University</institution>, <addr-line>New Haven, Connecticut</addr-line>, <country>United States</country></aff>
+<aff id="aff-9">
+<label>9</label><institution>Department of Agricultural &amp; Biological Engineering, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+<aff id="aff-10">
+<label>10</label><institution>School of Forest, Fisheries, and Geomatics Sciences, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+<aff id="aff-11">
+<label>11</label><institution>Informatics Institute, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+<aff id="aff-12">
+<label>12</label><institution>Biodiversity Institute, University of Florida</institution>, <addr-line>Gainesville, Florida</addr-line>, <country>United States</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Oehlmann</surname>
+<given-names>Jörg</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-21"><day>21</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16578</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-04-25"><day>25</day><month>4</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-13"><day>13</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Graves et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Graves et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16578"/>
+<abstract>
+<p>Data on individual tree crowns from remote sensing have the potential to advance forest ecology by providing information about forest composition and structure with a continuous spatial coverage over large spatial extents. Classifying individual trees to their taxonomic species over large regions from remote sensing data is challenging. Methods to classify individual species are often accurate for common species, but perform poorly for less common species and when applied to new sites. We ran a data science competition to help identify effective methods for the task of classification of individual crowns to species identity. The competition included data from three sites to assess each methods’ ability to generalize patterns across two sites simultaneously and apply methods to an untrained site. Three different metrics were used to assess and compare model performance. Six teams participated, representing four countries and nine individuals. The highest performing method from a previous competition in 2017 was applied and used as a baseline to understand advancements and changes in successful methods. The best species classification method was based on a two-stage fully connected neural network that significantly outperformed the baseline random forest and gradient boosting ensemble methods. All methods generalized well by showing relatively strong performance on the trained sites (accuracy = 0.46–0.55, macro F1 = 0.09–0.32, cross entropy loss = 2.4–9.2), but generally failed to transfer effectively to the untrained site (accuracy = 0.07–0.32, macro F1 = 0.02–0.18, cross entropy loss = 2.8–16.3). Classification performance was influenced by the number of samples with species labels available for training, with most methods predicting common species at the training sites well (maximum F1 score of 0.86) relative to the uncommon species where none were predicted. Classification errors were most common between species in the same genus and different species that occur in the same habitat. Most methods performed better than the baseline in detecting if a species was not in the training data by predicting an untrained mixed-species class, especially in the untrained site. This work has highlighted that data science competitions can encourage advancement of methods, particularly by bringing in new people from outside the focal discipline, and by providing an open dataset and evaluation criteria from which participants can learn.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Airborne remote sensing</kwd>
+<kwd>Species classification</kwd>
+<kwd>National ecological observatory network</kwd>
+<kwd>Data science competition</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>National Science Foundation</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Gordon and Betty Moore Foundation’s Data-Driven Discovery Initiative</funding-source>
+<award-id>GBMF4563 &amp; 1926542</award-id>
+</award-group>
+<award-group id="fund-3">
+<funding-source>NSF Dimension of Biodiversity Program Grant</funding-source>
+<award-id>DEB-1442280</award-id>
+</award-group>
+<award-group id="fund-4">
+<funding-source>USDA/NIFA McIntire-Stennis Program</funding-source>
+<award-id>FLA-FOR-005470</award-id>
+</award-group>
+<award-group id="fund-5">
+<funding-source>University of Florida Biodiversity Institute (UFBI)</funding-source>
+</award-group>
+<award-group id="fund-6">
+<funding-source>Informatics Institute (UFII) Graduate Fellowship</funding-source>
+</award-group>
+<funding-statement>The National Ecological Observatory Network is a program sponsored by the National Science Foundation and operated under cooperative agreement by Battelle. This material is based in part upon work supported by the National Science Foundation through the NEON Program. This work was supported by the Gordon and Betty Moore Foundation’s Data-Driven Discovery Initiative through grant GBMF4563 to Ethan P White; by the National Science Foundation through grant 1926542 to Ethan P White, Stephanie Bohlman, Alina Zare, and Daisy Z Wang; by the NSF Dimension of Biodiversity program grant (DEB-1442280) and USDA/NIFA McIntire-Stennis program (FLA-FOR-005470) to Stephanie Bohlman; by the University of Florida Biodiversity Institute (UFBI) and Informatics Institute (UFII) Graduate Fellowship to Sergio Marconi. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>High resolution remote sensing imagery provides critical information about the presence and types of organisms within and among ecosystems at scales beyond those observable using field techniques. Inventory data from remote sensing, such as the location, size, and species identity of individual trees is useful for ecological studies and the management of forests (<xref ref-type="bibr" rid="ref-59">White et al., 2016</xref>), including studies of population dynamics (<xref ref-type="bibr" rid="ref-11">Clark et al., 2004</xref>; <xref ref-type="bibr" rid="ref-31">Kellner &amp; Hubbell, 2018</xref>), vegetation phenology (<xref ref-type="bibr" rid="ref-60">Wu et al., 2016</xref>; <xref ref-type="bibr" rid="ref-46">Park et al., 2019</xref>), biomass and carbon (<xref ref-type="bibr" rid="ref-17">Duncanson et al., 2015</xref>; <xref ref-type="bibr" rid="ref-27">Jucker et al., 2016</xref>), foliar properties (<xref ref-type="bibr" rid="ref-62">Zheng et al., 2021</xref>; <xref ref-type="bibr" rid="ref-39">Marconi et al., 2021</xref>), and species composition and biodiversity (<xref ref-type="bibr" rid="ref-3">Baldeck et al., 2014</xref>; <xref ref-type="bibr" rid="ref-50">Rocchini et al., 2016</xref>; <xref ref-type="bibr" rid="ref-2">Baena et al., 2017</xref>). While it is often useful to gather information from remote sensing at the stand or forest level, critical processes for ecology, ecosystem services and wood production, such as growth and mortality, occur at the individual scale.</p>
+<p>Species identity at the individual scale is crucial for models of biodiversity, and plays a significant role in parameterizing models for ecosystem services, habitat modeling, and forestry (<xref ref-type="bibr" rid="ref-17">Duncanson et al., 2015</xref>; <xref ref-type="bibr" rid="ref-5">Barber et al., 2022</xref>). Species classification models have been a long-standing challenge in remote sensing of forests, with complexity especially in dense forests, due to weakly defined edges among trees, large intra-class variance in tree representation, and high local diversity within a forest. Early work used spectral features, texture-based features, random forests and support-vector-machines, band ratios within the visible and NIR, and other crafted-features (<xref ref-type="bibr" rid="ref-18">Fassnacht et al., 2016</xref>; <xref ref-type="bibr" rid="ref-4">Ballanti et al., 2016</xref>; <xref ref-type="bibr" rid="ref-54">Shi et al., 2018</xref>; <xref ref-type="bibr" rid="ref-43">Modzelewska, Fassnacht &amp; Stereńczak, 2020</xref>). These initial models often focused on higher-order taxonomic labels, such as ‘Birch’ <italic>vs</italic>. ‘Pine’, and were limited to less than 10 classes (<xref ref-type="bibr" rid="ref-48">Persson et al., 2004</xref>; <xref ref-type="bibr" rid="ref-24">Heikkinen et al., 2010</xref>). The emergence of deep learning networks in computer vision, combined with greater data availability, led to a large number of publications combining deep learning with a variety of sensors and data acquisition platforms (<xref ref-type="bibr" rid="ref-19">Fricker et al., 2019</xref>; <xref ref-type="bibr" rid="ref-30">Kattenborn et al., 2021</xref>; <xref ref-type="bibr" rid="ref-44">Mäyrä et al., 2021</xref>; <xref ref-type="bibr" rid="ref-58">Weinstein et al., 2023</xref>). A defining challenge of individual species classification is the fine-grained nature of the task, with subtle differences among co-occurring species, often within the same taxonomic genus. This challenge is compounded by a lack of training data, especially for rarer species, and the natural long-tailed nature of biodiversity leads to a massive imbalance between dominant and rare classes. While there are recent efforts to combat class-imbalance in machine learning for ecology (<xref ref-type="bibr" rid="ref-45">Nguyen, Demir &amp; Dalponte, 2019</xref>; <xref ref-type="bibr" rid="ref-25">Hemmerling, Pflugmacher &amp; Hostert, 2021</xref>; <xref ref-type="bibr" rid="ref-42">Miao et al., 2021</xref>), there remains significant areas for improvement before models can be used for operational analysis at the landscape and continental scales.</p>
+<p>Data science competitions are a unique way to advance image processing methods for particular applications (<xref ref-type="bibr" rid="ref-7">Carpenter, 2011</xref>). These competitions provide a standardized dataset and criteria for evaluation, and have the potential to draw expertise from different application domains because of the focus on data science tasks that are found in many applications (<xref ref-type="bibr" rid="ref-15">Dorr et al., 2016</xref>; <xref ref-type="bibr" rid="ref-38">Marconi et al., 2019</xref>; <xref ref-type="bibr" rid="ref-56">Van Etten, Lindenbaum &amp; Bacastow, 2019</xref>). While competitions have allowed for the advancement of many applications in data science, ecology is just beginning to use this format for democratizing method-building (<italic>e.g</italic>., <xref ref-type="bibr" rid="ref-26">Humphries et al., 2018</xref>; <xref ref-type="bibr" rid="ref-36">Little et al., 2020</xref>), largely due to the recent availability of large, openly available ecological datasets such as from the National Ecological Observatory Network (NEON).</p>
+<p>The National Ecological Observatory Network is a 30-year effort of the National Science Foundation to collect standardized organismal, biogeochemical, and remote sensing data over 81 sites in the US from 20 distinct ecoclimatic domains (<xref ref-type="bibr" rid="ref-51">Schimel et al., 2007</xref>). The data provided by NEON covers a broad array of ecosystem components including field data on trees and associated airborne remote sensing imagery. NEON data is ideal for use in data science competitions because it is openly available, well documented, and part of a massive, continental-scale data collection effort. Therefore, methods and lessons learned from the competition can be applied to a large-scale open dataset being used by large numbers of researchers.</p>
+<p>The first competition using data from the NEON was run in 2017 and was aimed at generating species predictions of individual tree crowns in a single temperate forest (<xref ref-type="bibr" rid="ref-38">Marconi et al., 2019</xref>). The 2017 competition was instrumental in advancing methods and in establishing a framework for providing data and evaluating submissions. The 2017 competition identified the most effective methods for delineating tree crowns from airborne remote sensing data, aligning delineations to field data, and assigning a species label to delineations. The results of the 2017 competition showed the most successful approaches to species classification require data cleaning to remove noise and outliers prior to analysis, and incorporate uncertainty in predictions show the most promise for future applications.</p>
+<p>While the 2017 competition was an important step towards better methods for converting remote sensing to ecological information, it has limited practical application because it was limited to a single site and relied on a small and labor-intensive field dataset collected. Classification methods will be most useful in generating ecological data of individual trees if they achieve high accuracy when: (1) trained on standard forest inventory and remote sensing data, (2) applied across large spatial scales and diverse forest types, and (3) when making predictions in forests where the models have not been trained. The complexity of using standard forest inventory data across multiple sites presents challenges for model performance because of the highly imbalanced multi-species datasets, differences in the species present at different sites, and variability in the remote sensing data due to differences in conditions when the data were collected. While the classification remains critical to the needs of ecologists, an expansion in the diversity of sites and data is required to effectively achieve this task.</p>
+<p>To address these needs, a new iteration of the 2017 competition was run that focused on classification using a dataset that allowed for within and cross site evaluation using multiple metrics. This current iteration of the competition uses data from three NEON sites in the southeastern United States to compare how well methods perform on standard forest inventory data at one site, and how well methods perform when applied to a new site. Here we present the results of the competition that includes a comparison of scores from participating teams, a summary of the methods used, and a discussion of how this competition advances our ability to classify individual trees using existing inventory and remote sensing data.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>Portions of this text were previously published as part of a preprint (<uri xlink:href="https://doi.org/10.1101/2021.08.06.453503">https://doi.org/10.1101/2021.08.06.453503</uri>) (<xref ref-type="bibr" rid="ref-23">Graves et al., 2021</xref>).</p>
+<sec>
+<title>Study sites</title>
+<p>The competition used multiple NEON data products from three sites in combination with data collected by members from our research team. The three NEON sites in the southeastern United States (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) used in this study are part of three separate NEON ecoclimatic domains and represent distinct environmental, geographic, and vegetative characteristics (<xref ref-type="bibr" rid="ref-55">Thorpe et al., 2016</xref>). The Ordway-Swisher Biological Station in Putnam County, Florida (OSBS, Southeastern domain, 03) is a mixed forest of hardwood and conifers and is primarily managed for maintaining upland pine forests. The canopy of the pine forests is dominated by Longleaf pine (<italic>Pinus palustris</italic>) and subcanopy Turkey oak (<italic>Quercus laevis</italic>) with a grass and forb understory. The forests are on deep sandy soil and are managed with prescribed fires at 3–4 year intervals (<xref ref-type="bibr" rid="ref-32">Krauss, 2018a</xref>). More mesic forests are also present at the site, specifically around large water bodies, and contain a mix of pines and hardwood species (see site species list in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>). Mountain Lake Biological Station in the Appalachian mountains of Virginia (MLBS, Appalachians and Cumberland Plateau domain, 07) is a high-elevation forest typical of Southern Appalachia with a closed canopy dominated by Red maple (<italic>Quercus rubrum</italic>) and White oak (<italic>Quercus alba</italic>) (<xref ref-type="bibr" rid="ref-33">Krauss, 2018b</xref>). In MLBS, pine species are rarer than at Ordway Swisher Biological Station (OSBS) and Talladega National Forest (TALL), and there is a greater abundance and diversity of canopy hardwood species (see site species list in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>). Talladega National Forest in west-central Alabama (TALL, Ozarks complex domain, 08) is similar to OSBS in management regimes and species in the upland longleaf and loblolly pine forests (<italic>Pinus palustris</italic> and <italic>Pinus taeda</italic>, <xref ref-type="bibr" rid="ref-34">Krauss, 2018c</xref>). Similar to OSBS, TALL has deciduous and mixed forest types with a closed canopy and variety of hardwood species in more mesic areas (see site species list in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>). These wetter forests in TALL have some species in common with MLBS (<italic>e.g</italic>. <italic>Liriodendron tulipifera</italic> and <italic>Quercus alba)</italic>. In our species dataset, there are 11 species in TALL that are found in either MLBS or OSBS, and 10 species that are only in the TALL dataset.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16578/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Map of the three study sites and domains of the National Ecological Observatory Network (NEON).</title>
+<p>The sites are part of three separate NEON ecoclimatic domains and represent distinct environmental, geographic, and vegetative characteristics. The map of the USA shows the NEON domains. To evaluate the ability for methods to apply within sites, the Ordway Swisher Biological Station (OSBS) and Mountain Lake Biological Station (MLBS) were used for training and testing (green circles). To evaluate the ability for methods to apply to new sites, the Talladega National Forest (TALL) was only used for testing (orange triangle).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/fig-1.png"/>
+</fig>
+</sec>
+<sec>
+<title>NEON data</title>
+<p>The competition used NEON data from two standard collections; remote sensing data and field-collected data. The remote sensing data were generated by the NEON Airborne Observation Platform (AOP) and are provided as four different products, each one measuring different properties of the vegetation and the ground surface (<xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>, <xref ref-type="supplementary-material" rid="supp-1">Table A1</xref>). The AOP data products are high-resolution orthorectified camera imagery (RGB), discrete return LiDAR point clouds (LAS), LiDAR-derived canopy height model raster (CHM), and spectrometer orthorectified surface directional reflectance—mosaic hyperspectral surface reflectance (HSI). The data products were downloaded using the NEON API and the neonUtilities R package (<xref ref-type="bibr" rid="ref-37">Lunch et al., 2020</xref>). We used the most recent data from the start of the competition: April 2019 for TALL, September 2019 for OSBS, and May 2018 for MLBS. NEON aims to collect airborne data for a minimum of 100 sq km at each site during peak vegetation greenness, when the solar angle is above 40 degrees, and with less than 10% cloud cover (<xref ref-type="bibr" rid="ref-28">Kampe et al., 2010</xref>). For this competition, 20 m × 20 m image subsets were extracted from the original 1 square km tiles downloaded from NEON. Each 20 m × 20 m image subset is either associated with a NEON field plot or with trees that occur outside NEON field plots but were manually mapped in the field by the research team.</p>
+<p>The species labels in the training data were collected through the NEON Terrestrial Observation System (TOS). The data contain information on individual tree identifiers, location of trees relative to sampling locations (<italic>i.e</italic>., distance and azimuth from a central location), species and genus labels, and measures of salient structural attributes. The field attribute that was directly used in the competition was the taxonomic species information that is described by its scientific name, which includes a genus and species classification. To simplify the taxonomic species information, each scientific name is simplified to its unique taxonomic identification code (taxonID). More information about the data products and the field data and the list of species classes and taxonomic codes is provided in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>.</p>
+</sec>
+<sec>
+<title>Individual tree crown data</title>
+<p>Participants were given bounding boxes labeled with the taxonomic species in the training dataset and generated species predictions for unclassified bounding boxes in the test dataset. Each bounding box represents an individual tree crown (ITC) and was generated by the research team since they are not a standard NEON product. Because ITC data are time-intensive and difficult to generate, the research team used a combination of two different approaches to produce both a reasonably large number of labeled data for training and precise data for evaluation. Both ITC datasets were generated by experts who are familiar with the ecology of the sites.</p>
+<p>To generate ITC data for training the research team in the lab visualized multiple remote sensing datasets and field inventory data from NEON for all tree crowns in the 20 m × 20 m image subsets to draw boxes round individual tree crowns. The 20 m × 20 m subsets were located at NEON field plots (specifically over a subplot of the distributed plots) for which surveys of geolocalized tree stems were available from the NEON vegetation structure dataset. The locations of these plots was determined by NEON through a stratified-random spatial balanced design as to capture the variation of the site and allow for robust statistical analysis of the data (<xref ref-type="bibr" rid="ref-55">Thorpe et al., 2016</xref>; <xref ref-type="bibr" rid="ref-6">Barnett et al., 2019</xref>; <xref ref-type="bibr" rid="ref-41">Meier, Thibault &amp; Barnett, 2023</xref>). In the training data, the average distance from one plot to its nearest plot is 246 m. Plot data and locations are available from NEON and maps of each site and the locations of the plots are included in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>.</p>
+<p>The training data had 409 ITCs from 39 plots at OSBS and 648 ITCs from 46 plots at MLBS (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Each ITC bounding box was assigned a species label based on the location of individual stem data in the NEON vegetation structure dataset that was determined to match the ITC. To minimize the chance of mislabelling bounding boxes we limited assignment of species labels to boxes that: (1) could clearly be linked to a single stem from the field or a single species in cases where multiple conspecific stems could be candidates; (2) where the field stem was not labeled as fully shaded; (3) where the field stem was not labeled as dead; and (4) where the height of the field stem was not more than 4 m lower than the maximum value of the LiDAR-based canopy height model within the bounding box (when field stem height was available). Those bounding boxes that did not qualify were labeled as unknown species and were not used for the species classification task.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16578/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Data used for classification training and testing.</title>
+<p>Data listed for each of the three sites from the National Ecological Observatory Network (NEON); OSBS, Ordway Swisher biological station; MLBS, Mountain Lake Biological Station; TALL, Talladega National Forest. Example plots are from TALL. Only RGB data are shown, but RS data include all four remote sensing data products (<xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>) and are given in the train and test dataset. For each site, the numbers are (1) the number of individual tree crown delineations (ITC), and (2) the number of RS 20 m × 20 m plots (in parentheses). For ease of visualization, the image of the Test-submitted only shows the probability for four taxonID classes for one ITC.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/fig-2.png"/>
+</fig>
+<p>To generate even more precise ITCs for evaluation, the research team created bounding boxes and identified species for a non-random sample of tree crowns directly from the field. These field-based ITCs are not directly overlapping with the NEON plots. The testing data had 218 field-based ITCs at OSBS, 39 at MLBS, and 104 at TALL. More information about how ITC data were generated and how they were related to the field data from NEON is provided in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>.</p>
+<p>Importantly, for this study ITC data can be summarized as polygons that represent the spatial extent of individual tree canopies. We provided 2-dimensional rectangular polygons (<italic>i.e</italic>., bounding boxes) with four vertices at the maximum North/South and East/West directions as a proxy of individual crowns. This strategy is different from what is commonly used for forest and remote sensing methods that use more detailed polygons with many vertices to delineate more precise crown boundaries and shape (<italic>e.g</italic>., <xref ref-type="bibr" rid="ref-12">Dalponte et al., 2015</xref>). We provide bounding boxes rather than multi-vertex polygons because boxes are a common output of most computer vision methods to identify, extract, and classify objects in an image (<xref ref-type="bibr" rid="ref-61">Wäldchen &amp; Mäder, 2018</xref>). In this way the competition allowed for models to be developed on training data from separate crown detection and delineation methods.</p>
+</sec>
+<sec>
+<title>Solicitation and team participation</title>
+<p>The competition was announced on February 3rd, 2020 and advertised to individuals and communities focused on remote sensing, image processing, and forest ecology. We also contacted the 109 people who had registered from the 2017 competition. In total, there were 130 registrations for this second competition. Submissions were received from four participating teams (<xref ref-type="supplementary-material" rid="supp-2">Appendix B</xref>, <xref ref-type="supplementary-material" rid="supp-2">Table B1</xref>).</p>
+<p>All teams were allowed up to four submissions per task. Submissions made prior to the final submission were evaluated and scores were returned. Pre-submissions were allowed to ensure submissions were properly formatted and provide teams with feedback on model performance. The final submission deadline was extended by 2 months after the train and test data were released. This was done to allow teams more time to work with the data given the challenges associated with COVID-19. The number of pre-submissions was limited to reduce the chance of artificially increasing performance indirectly by iteratively learning method performance from the test set. The number of pre-submissions varied by team, with five pre-submissions from the Fujitsu and Intellisense CAU teams (an additional submission allowed due to timeline extension), four submissions for Jeepers Treepers, and two for Más JALApeñoS.</p>
+<p>The original intent of the competition was for individual teams to submit short methods and results articles describing the approaches and performance of their own methods. However, due to the COVID-19 pandemic this became untenable for most teams, with only one team, Jeepers Treepers, submitting the associated companion article (<xref ref-type="bibr" rid="ref-52">Scholl et al., 2021</xref>). For details of Jeepers Treepers methods on the below tasks see <xref ref-type="bibr" rid="ref-52">Scholl et al. (2021)</xref>. For details of all other teams’ methods (and summaries of Jeepers Treepers) see <xref ref-type="supplementary-material" rid="supp-2">Appendix B</xref>.</p>
+</sec>
+<sec>
+<title>Classification task</title>
+<p>The data were split into training and testing datasets where the training data allowed for the development and self-evaluation of models and the testing data was used to evaluate the team methods. Training data included ITCs for the OSBS and MLBS sites, which consisted of 1057 ITC delineations with taxonomic species labels for 85 plots and all remote sensing data products (clips of 20 m × 20 m around each plot; <xref ref-type="fig" rid="fig-2">Fig. 2</xref>, “Train”). Data were split at the plot-level where all ITCs within a plot were assigned as train or test and therefore spatially distant from each other. This was to reduce the effects of spatial autocorrelation in model development due to the similarity of neighboring pixels (<xref ref-type="bibr" rid="ref-29">Karasiak et al., 2022</xref>). Participants could use any of the remote sensing and field data for training their models since this represents a common scenario where models are developed using data from inventory plots. No TALL data were provided in the training data. The testing data provided to the participants were 353 separate plots with associated remote sensing data, and 585 ITC delineations at the OSBS, MLBS, and TALL sites (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>, “Test-provided”). The ground truth species labels were withheld from the teams and used for evaluation by the research team (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>, “Test-ground truth”). Participants submitted the probability of each ITC belonging to one of the taxonomic classes (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>, “Test-submitted”). The predictions were submitted as a probability from 0 to 100% that the ITC belonged to the associated species class. Providing the ITC bounding boxes kept this task focused on classification methods rather than having participants also incorporate detection and delineation approaches prior to or after classification.</p>
+<p>Significant features of this dataset, and forest remote sensing data in general, are class imbalance in the training data, and a difference in species composition and relative abundances between the training data and the test data. Due to the nature of these data, the ability to train on imbalanced data and predict species with species identities and abundances that differ between the training and testing datasets is an important challenge addressed in the competition. The training dataset for the OSBS and MLBS sites had a total of 33 distinct species classes and two genus classes where the species was unknown (<italic>Pinus</italic> and <italic>Quercus</italic>), ranging from 1–302 individuals per class (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). This distribution represents the composition and relative abundance of canopy trees in the NEON plots and therefore the data available from forest inventory plots that are used to develop and test classification models. The test data for OSBS and MLBS both show unequal distributions of data among species classes. The test data for both sites include 15 species in the training data, and both sites include species in the test data that are not part of the training data (OSBS: 11 species, MLBS: five species). Furthermore, while the test data for TALL has less imbalance across the species classes than the training data at OSBS and MLBS, it includes only 10 of the species from the training data and introduces 11 new species that are not part of the training data (<xref ref-type="fig" rid="fig-3">Fig. 3</xref> as the “Other” class). All new species in the test data have few samples and therefore could not be included in the test and train data. In this way, the external TALL site tests not only the ability of the models to be applied to new remote sensing data, but also to a new site with different species composition.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.16578/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Distribution of samples and reflectance.</title>
+<p>(A) Distribution of samples per species class (taxonID) for each dataset. The number of samples for each taxonomic class differs for all sites. Taxonomic class is arranged based on the number of data points in the train data. (B) Hyperspectral reflectance for each data group. Reflectance sampled from 100 random pixels of 10 random 20 m × 20 m plots for each site in the training and test data. Mean (thick lines) and standard deviation (vertical lines) are calculated for each of the three data groups.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/fig-3.png"/>
+</fig>
+<p>Two additional challenges for applying methods to the untrained site were differences in species composition and spectral variation among sites. Species that occur in the test data but not in the train data are grouped together in an “Other” class in the test data. Creating a mixed-species “Other” class that contains species with low samples is a common practice in species mapping because there is insufficient data to accurately train and test each class individually (for example <xref ref-type="bibr" rid="ref-3">Baldeck et al., 2014</xref>). Participants were allowed to include a species class with the label “Other” in their submissions. The “Other” class can be used to indicate a probability that an ITC is a species that is not represented in the training data and is therefore likely a new species in the test dataset that was not seen in the train dataset. Finally, spectral differences among the sites and training and testing data are also an important feature of the dataset that could impact the ability to apply methods to an untrained site (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>).</p>
+</sec>
+<sec>
+<title>Evaluation of the classification task</title>
+<p>Classification was evaluated with three class-level metrics to assess the performance across teams; two hard-classification metrics that require a single species class label for each crown (<xref ref-type="bibr" rid="ref-20">Grandini, Bagli &amp; Visani, 2020</xref>) and one soft-classification metric that uses the probability of a crown belonging to any trained species. Accuracy, a common metric in remote sensing classification studies, is the number of samples correctly predicted out of the total number of samples. Since accuracy does not take into account the class-level scores, accuracy is influenced by variable performance and sample size of classes. In this dataset, the class PIPA2 (<italic>Pinus palustris</italic>) is the dominant class so accuracy is heavily influenced by the model performance for that class. Alternatively, a common classification evaluation metric that is not influenced by class sample size is macro F1. Macro F1 is an aggregate F1 metric of class-level performance, where F1 is the harmonic mean of class precision and recall and is given by <xref ref-type="disp-formula" rid="eqn-1">Eq. (1)</xref>, where P is precision, R is recall, TP is the number of true positives, FP is the number of false positives, and FN is the number of false negatives. Macro F1 is the unweighted mean of class F1 and is given by <xref ref-type="disp-formula" rid="eqn-2">Eq. (2)</xref>, where C is the set of species classes, P<sub>c</sub> is the precision of species class c, R<sub>c</sub> is the recall of species class c, and |C| is the number of elements of set C. Macro F1 is a useful evaluation metric when there is imbalance in the class size and variable prediction performance. In this dataset, the class PIPA2 has the same influence as each class in the macro F1 score.</p>
+<p><disp-formula id="eqn-1">
+<label>(1)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[$$F1\; = \; \; 2 \cdot \displaystyle{{P \cdot R} \over {P\; + \; R}}\; = \; \displaystyle{{TP} \over {TP\; + \; 0.5\;\left( {FP\; + \; FN} \right)}}$$]]></tex-math><mml:math id="mml-eqn-1" display="block"><mml:mi>F</mml:mi><mml:mn>1</mml:mn><mml:mspace width="thickmathspace"/><mml:mo>=</mml:mo><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mn>2</mml:mn><mml:mo>⋅</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>P</mml:mi><mml:mo>⋅</mml:mo><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mi>P</mml:mi><mml:mspace width="thickmathspace"/><mml:mo>+</mml:mo><mml:mspace width="thickmathspace"/><mml:mi>R</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mspace width="thickmathspace"/><mml:mo>=</mml:mo><mml:mspace width="thickmathspace"/><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mi>T</mml:mi><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mi>T</mml:mi><mml:mi>P</mml:mi><mml:mspace width="thickmathspace"/><mml:mo>+</mml:mo><mml:mspace width="thickmathspace"/><mml:mn>0.5</mml:mn><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>F</mml:mi><mml:mi>P</mml:mi><mml:mspace width="thickmathspace"/><mml:mo>+</mml:mo><mml:mspace width="thickmathspace"/><mml:mi>F</mml:mi><mml:mi>N</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow></mml:mstyle></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p><disp-formula id="eqn-2">
+<label>(2)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/eqn-2.png"/><tex-math id="tex-eqn-2"><![CDATA[$$macro\; F1\; = \; \displaystyle{1 \over {\left| C \right|}}\mathop \sum \limits_{c \in C}^{} F{1_c}\; = \; \displaystyle{1 \over {\left| C \right|}}\mathop \sum \limits_{c \in C}^{} \displaystyle{{2{P_c}{R_c}} \over {{P_c} + {R_c}}}.\; \; \; \; \; \; \; \;$$]]></tex-math><mml:math id="mml-eqn-2" display="block"><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>c</mml:mi><mml:mi>r</mml:mi><mml:mi>o</mml:mi><mml:mspace width="thickmathspace"/><mml:mi>F</mml:mi><mml:mn>1</mml:mn><mml:mspace width="thickmathspace"/><mml:mo>=</mml:mo><mml:mspace width="thickmathspace"/><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mrow><mml:mo>|</mml:mo><mml:mi>C</mml:mi><mml:mo>|</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:munderover><mml:mrow><mml:mo movablelimits="false">∑</mml:mo></mml:mrow><mml:mrow><mml:mi>c</mml:mi><mml:mo>∈</mml:mo><mml:mi>C</mml:mi></mml:mrow><mml:mrow/></mml:munderover><mml:mo>⁡</mml:mo><mml:mi>F</mml:mi><mml:mrow><mml:msub><mml:mn>1</mml:mn><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mspace width="thickmathspace"/><mml:mo>=</mml:mo><mml:mspace width="thickmathspace"/><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mrow><mml:mo>|</mml:mo><mml:mi>C</mml:mi><mml:mo>|</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:munderover><mml:mrow><mml:mo movablelimits="false">∑</mml:mo></mml:mrow><mml:mrow><mml:mi>c</mml:mi><mml:mo>∈</mml:mo><mml:mi>C</mml:mi></mml:mrow><mml:mrow/></mml:munderover><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mfrac><mml:mrow><mml:mn>2</mml:mn><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow><mml:mo>+</mml:mo><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mi>c</mml:mi></mml:msub></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mo>.</mml:mo><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/><mml:mspace width="thickmathspace"/></mml:mstyle></mml:mstyle></mml:mstyle></mml:math>
+</alternatives></disp-formula></p>
+<p>The final model-level metric is cross entropy loss, which is a metric commonly used to quantify the performance of multi-class classifiers where all samples are predicted with a probability of belonging to each class. The metric measures the degree of uncertainty in the predictions of the model. Cross entropy loss (<xref ref-type="bibr" rid="ref-53">Shannon, 1949</xref>; <xref ref-type="bibr" rid="ref-10">Chen, Kar &amp; Ralescu, 2012</xref>) is a good measure of model robustness particularly in cases where new classes are introduced into the test set because the metric can capture how the model responds to an increase in test data entropy. Models that have a stronger ability to differentiate between learned classes and new classes have lower cross entropy loss scores and can be considered more robust.</p>
+<p>Finally, a confusion matrix of all predictions and class-level precision and recall scores were calculated for all team predictions combined to identify classes that are commonly confused across methods. Precision, or user accuracy, is the percentage of instances classified as positive that are actually positive. High precision means a low commission error for the class where there are few predictions that are not true. Recall, or producer accuracy, is the percentage of positive instances correctly classified as positive. High recall means a low omission error for the class where there are few missing predictions. Evaluation scores and confusion matrices were calculated with the scikit-learn package for python (<xref ref-type="bibr" rid="ref-47">Pedregosa et al., 2011</xref>). The evaluation code is available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Material</xref>.</p>
+</sec>
+<sec>
+<title>Classification algorithms</title>
+<p>A gamut of classification algorithms were used in the competition, with three teams favoring neural network-based approaches and two teams favoring decision tree-based approaches (<xref ref-type="table" rid="table-1">Table 1</xref>). The winning method from the 2017 competition used principal components analysis (PCA) to reduce the dimension of the HSI images to 40 features, and then used an ensemble of a random forest classifier and a gradient boosting classifier (<xref ref-type="bibr" rid="ref-1">Anderson, 2018</xref>). This method was used to generate baseline results.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.16578/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Classification evaluation metrics for participating teams.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Team</th>
+<th>Method</th>
+<th>Data used</th>
+<th>Accuracy</th>
+<th>Macro F1</th>
+<th>Cross entropy loss</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fujitsu satellite</td>
+<td>Two-stage fully connected neural network</td>
+<td>HSI</td>
+<td align="char" char="."><bold>0.55</bold></td>
+<td align="char" char="."><bold>0.32</bold></td>
+<td align="char" char=".">3.6</td>
+</tr>
+<tr>
+<td>Intellisence CAU</td>
+<td align="char" char=".">1D-convolution neural network</td>
+<td>HSI, CHM</td>
+<td align="char" char=".">0.52</td>
+<td align="char" char=".">0.24</td>
+<td align="char" char=".">7.0</td>
+</tr>
+<tr>
+<td>Más JALApeñoS</td>
+<td>Extreme gradient boosting</td>
+<td>HSI, CHM</td>
+<td align="char" char=".">0.50</td>
+<td align="char" char=".">0.14</td>
+<td align="char" char="."><bold>2.4</bold></td>
+</tr>
+<tr>
+<td>Jeepers Treepers</td>
+<td>Two-stage neural network: RetinaNet + multimodal neural network</td>
+<td>RGB, HSI, LiDAR point cloud</td>
+<td align="char" char=".">0.46</td>
+<td align="char" char=".">0.09</td>
+<td align="char" char=".">9.2</td>
+</tr>
+<tr>
+<td>Stanford-CCB (baseline)</td>
+<td>Random forest and gradient boosting ensemble</td>
+<td>HSI</td>
+<td align="char" char=".">0.44</td>
+<td align="char" char=".">0.13</td>
+<td align="char" char=".">7.4</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>   Scores are from test data from only the OSBS and MLBS sites. Lower scores are better for cross entropy loss. HSI, hyperspectral reflectance; CHM, canopy height model; RGB, True color image. Bold values indicate the best score among the teams for each evaluation metric.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Only one team used only the HSI data and all other teams use LiDAR data, either as the CHM or the point cloud. The methods are summarized here and additional details are provided in <xref ref-type="supplementary-material" rid="supp-2">Appendix B</xref>. The Fujitsu Satellite team used only the HSI data in a two-step process. First, they used a neural network to encode pixel HSI data in a 2,048-dimension feature vector. The data was clustered to create crown-level feature vectors. The crown level features were put through a 3-layer fully connected neural network with Rectified Linear Unit (ReLU) activation and softmax output layer for the final species classification. The Jeepers Treepers team fused RGB, HSI, and LiDAR data into a neural network model. Their method first used RGB crown data to train a pre-trained (from ImageNet dataset) ResNet convolution neural network (CNN). The vector of probabilities derived from the ResNet was concatenated with the HSI reflectance pseudo-waveform data from the LiDAR point cloud. The concatenated vector was fed through a two-layer multi-layer perceptron with a customized soft-F1 loss function for final classification, and predictions with high uncertainty were labeled as “Other”. The Más JALApeñoS team’s method applied the Extreme Gradient Boosting decision-tree method to HSI data that was first filtered at a pixel level using LiDAR heights. The height-filtered pixels were further filtered using PCA-based outlier removal before application of PCA based dimension reduction. The dimensionally reduced data was run through the Extreme Gradient Boosted model with parameters chosen with a partial grid search. Pixel class probabilities were averaged for the final crown classification. The “Other” class was generated during training by grouping less abundant species into a single “Other” class. Finally, the Intellisense CAU team’s method was based on a one-dimensional CNN applied to HSI pixels. Small classes were resampled to handle the imbalance. The CNN consisted of a convolutional layer, max-pooling layer, a fully connected layer and output. The output was filtered using LiDAR data to remove ground pixels.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Overall performance</title>
+<p>For the trained sites (OSBS and MLBS) accuracy of team methods ranged from 0.46–0.55 and was higher than the baseline random forest and gradient boosting ensemble method (accuracy = 0.44, <xref ref-type="fig" rid="fig-4">Fig. 4</xref>, <xref ref-type="table" rid="table-1">Table 1</xref>). For all teams, macro F1, the metric that equally weighs all species classes, was considerably lower than accuracy (0.09–0.32), and all but one team had higher macro F1 than the baseline (0.13). Cross entropy loss, that takes into account uncertainty in the prediction, ranged from 2.4–9.2, with all but one team outperforming the baseline score of 7.4 (lower is better). The Fujitsu Satellite team’s two-stage fully connected neural network approach had the strongest performance for the two hard-classification evaluation metrics (accuracy = 0.55, macro F1 = 0.32) and the second-best performance for cross entropy loss (cross entropy loss = 3.6, <xref ref-type="table" rid="table-2">Table 2</xref>). The Más JALApeñoS extreme gradient boosting method showed the best performance for cross entropy loss (cross entropy loss = 2.4).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.16578/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Classification evaluation metrics for all teams at trained and untrained sites.</title>
+<p>Higher scores for accuracy and macro F1 and lower scores for cross entropy loss indicate better performance.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/fig-4.png"/>
+</fig><table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.16578/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Prediction metrics for taxonomic class of all team predictions.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>TaxonID</th>
+<th>Precision</th>
+<th>Recall</th>
+<th>F1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ACRU</td>
+<td align="char" char=".">0.16</td>
+<td align="char" char=".">0.38</td>
+<td align="char" char=".">0.23</td>
+</tr>
+<tr>
+<td>CAGL8</td>
+<td align="char" char=".">0.07</td>
+<td align="char" char=".">0.01</td>
+<td align="char" char=".">0.02</td>
+</tr>
+<tr>
+<td>LITU</td>
+<td align="char" char=".">0.57</td>
+<td align="char" char=".">0.48</td>
+<td align="char" char=".">0.52</td>
+</tr>
+<tr>
+<td>Other</td>
+<td align="char" char=".">0.31</td>
+<td align="char" char=".">0.22</td>
+<td align="char" char=".">0.26</td>
+</tr>
+<tr>
+<td>PINUS</td>
+<td align="char" char=".">0.03</td>
+<td align="char" char=".">0.08</td>
+<td align="char" char=".">0.04</td>
+</tr>
+<tr>
+<td>PIPA2</td>
+<td align="char" char=".">0.66</td>
+<td align="char" char="."><bold>0.89</bold></td>
+<td align="char" char="."><bold>0.76</bold></td>
+</tr>
+<tr>
+<td>PITA</td>
+<td align="char" char=".">0.17</td>
+<td align="char" char=".">0.01</td>
+<td align="char" char=".">0.02</td>
+</tr>
+<tr>
+<td>QUAL</td>
+<td align="char" char=".">0.30</td>
+<td align="char" char=".">0.20</td>
+<td align="char" char=".">0.24</td>
+</tr>
+<tr>
+<td>QUGE2</td>
+<td align="char" char=".">0.13</td>
+<td align="char" char=".">0.15</td>
+<td align="char" char=".">0.14</td>
+</tr>
+<tr>
+<td>QULA2</td>
+<td align="char" char=".">0.35</td>
+<td align="char" char=".">0.34</td>
+<td align="char" char=".">0.34</td>
+</tr>
+<tr>
+<td>QUNI</td>
+<td align="char" char=".">0.18</td>
+<td align="char" char=".">0.11</td>
+<td align="char" char=".">0.14</td>
+</tr>
+<tr>
+<td>QURU</td>
+<td align="char" char=".">0.32</td>
+<td align="char" char=".">0.50</td>
+<td align="char" char=".">0.39</td>
+</tr>
+<tr>
+<td>ROPS</td>
+<td align="char" char=".">0.70</td>
+<td align="char" char=".">0.30</td>
+<td align="char" char=".">0.42</td>
+</tr>
+<tr>
+<td>TSCA</td>
+<td align="char" char="."><bold>0.80</bold></td>
+<td align="char" char=".">0.16</td>
+<td align="char" char=".">0.27</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<p>   Values from aggregated confusion matrix. Taxonomic classes with the highest value for each metric are bolded. Taxonomic classes without predictions (with a value of 0) have been removed from the table (ACSA3, FAGR, NYSY, QUERC, QUHE2, QUMO4). Precision is the inverse of commission error and recall is the inverse of omission error.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>All methods performed substantially worse on the untrained site (TALL) than the trained sites (OSBS and MLBS), with accuracy ranging from 0.07–0.32 and macro F1 ranging from 0.02–0.18. The highest scores were from the Fujitsu Satellite team’s two-stage fully connected neural network and the lowest accuracy from the Jeppers Treepers’ RetinaNet method. While cross entropy loss scores were better (lower) for all teams on the trained sites, the two methods with the lowest cross entropy scores performed similarly for the trained and untrained sites (Fujitsu Satellite = 4.6 and Más JALApeñoS = 2.8). Since cross entropy loss takes into account the uncertainty in predictions, these results indicate having an uncertain model may be advantageous when applying it to new sites.</p>
+</sec>
+<sec>
+<title>Results by species</title>
+<p>Model performance varied widely for predictions of individual species classes, with the general pattern of better performance for the most common species and poorer performance for the least common species (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The most common species in the dataset (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) is PIPA2 (<italic>Pinus palustrus</italic>, Longleaf pine), which is a dominant canopy species in the conifer forests in parts of OSBS and TALL. For all team methods, PIPA2 was the best-scoring taxonomic species class, with F1 scores ranging from 0.73–0.86 in the trained sites. For the aggregate predictions for all teams, recall (0.89) for PIPA2 was higher than precision (0.66, <xref ref-type="table" rid="table-2">Table 2</xref>), which indicates that most models tend to over predict PIPA2 relative to other species. As with the overall accuracy metrics, all methods predicted PIPA2 more accurately at the trained sites than at the untrained site (F1 = 0.12–0.54), showing a consistent pattern of a decrease in F1 of approximately 0.35 for all teams. The Jeepers Treeper’s RetinaNet method showed the largest difference between trained and untrained PIPA2 performance (F1 on trained = 0.80 and untrained = 0.12) showing the method was unable to learn features of the species that translated accurately to a new site.</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.16578/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>F1 score for species classes and teams.</title>
+<p>Taxonomic ID classes are in order of highest to lowest number of samples in the training data with number of samples in parentheses. The “Other” category includes predictions of taxonomic ID classes that were not present in the training data but were present in the testing data, and therefore represent the ability for a method to identify unknown or untrained classes. The shape and the font of the text represents which sites are included in the evaluation (circle &amp; unbolded text = trained sites, OSBS &amp; MLBS; triangle and bolded text = untrained site, TALL). No number is included when the score is zero. Full species information for taxonID labels are in <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/fig-5.png"/>
+</fig>
+<p>What contributed to the high macro F1 scores of the top two methods was their ability to predict some of the less abundant species (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>), specifically <italic>Liriodendron tulipifera</italic> (LITU, Tulip tree), <italic>Tsuga canadensis</italic> (TSCA, Eastern hemlock), and <italic>Robinia pseudoacacia</italic> (ROPS, Black locust). For example, these methods had F1 scores of 0.75–0.77 for LITU in comparison to other teams and the baseline where F1 was 0–0.42. The top methods were responsive to the potentially distinct spectral signature of LITU based on it being taxonomically unique as the only species in the <italic>Liriodendron</italic> genus, regardless of the low number of samples in the training data (17 train samples, <xref ref-type="fig" rid="fig-3">Fig. 3</xref>). In addition, TSCA, a conifer species found only at the MLBS site, was not predicted by three methods (baseline, MaS JALApeñoS, and Jeepers Treepers), yet had F1 scores of 0.5 and 0.57 for the Fujitsu Satellite and Intellisence CAU team methods. A similar result was seen for ROPS, a distinct species because it belongs to a legume family, Fabaceae.</p>
+<p>All methods performed better than the baseline in predicting a mixed-species “Other” class. Three teams performed similarly in predicting the “Other” species class at the OSBS and MLBS sites with F1 scores of 0.21–0.27 (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The MaS JALApeñoS team, which created an “Other” class in the training dataset by grouping classes with fewer than three samples saw a big difference between the trained and untrained sites (F1 = 0.41 and 0.03, respectively). The Jeepers Treepers team use post-processing by assigning predictions with high uncertainty as “Other”, which resulted in similar scores in the trained and untrained sites (F1 = 0.21 and 0.22, respectively). An encouraging result is that two methods (Fujitsu Satellite and MaS JALApeñoS) had high F1 scores of 0.40 and 0.41, respectively, for the “Other” species class at the TALL site (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). These two methods also had the best performance as measured by cross entropy loss, suggesting that the methods that did well when incorporating uncertainty in the prediction are able to identify untrained classes when applied to a new site.</p>
+<p>The all-team aggregated confusion matrix (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>), individual team confusion matrices (<xref ref-type="supplementary-material" rid="supp-2">Appendix B</xref>), and aggregated precision and recall scores (<xref ref-type="table" rid="table-2">Table 2</xref>) show patterns of misclassification within and across the <italic>Pinus</italic> and <italic>Quercus</italic> species. For example, commission errors for PIPA2 (precision = 0.66) were mostly due to confusion with a taxonomically and structurally similar <italic>Pinus</italic> species (PITA) or with <italic>Quercus</italic> species (QUGE2 and QULA) that co-occurs in the same upland pine-dominated habitat. Confusion within the <italic>Quercus</italic> genus was also a dominant pattern, as shown by the multiple misclassifications of oak classes in the confusion matrix and precision, recall, and F1 scores generally less than 0.4. There were no correct predictions for three of the oak classes.</p>
+<fig id="fig-6">
+<object-id pub-id-type="doi">10.7717/peerj.16578/fig-6</object-id>
+<label>Figure 6</label>
+<caption>
+<title>Aggregated confusion matrix of all team predictions.</title>
+<p>Numbers within the cells and the intensity of color represent the total number of predictions for a given ground truth label. Correct class predictions are along the diagonal with bold text. The background color of the cell corresponds to the true genus category and box outline corresponds to the predicted genus category. Confusion matrices by team are in <xref ref-type="supplementary-material" rid="supp-2">Appendix B</xref>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16578/fig-6.png"/>
+</fig>
+<p>Finally, a feature of this dataset was the presence of a <italic>Pinus</italic> (pines) genus class (PINUS) and the <italic>Quercus</italic> (Oaks) genus class (QUERC), where the specific species could not be identified in the field. Confusion between the unique pine and oak species (<italic>e.g</italic>., PIPA2, QULA2) classes and the PINUS and QUERC classes is expected since the individuals with the PINUS and QUERC label are likely one of the species classes in the dataset. Our evaluation did not include any hierarchical structure to account for this feature of the data and no teams chose to include a hierarchical structure in their modeling. Yet, the results show that misclassifications of these genus classes are not limited to their genera, showing that despite having a catch-all pine and oak genus classes, the methods did not learn the taxonomic structure of the data.</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Evaluation in the scientific literature of many remote sensing approaches to tree species classification tends to focus on a method for a single site and where all species classes are mutually exclusive and known. In this competition, participants were asked to grapple with a challenging classification task, specifically building models using forest inventory training data from multiple sites where there is imbalance in the class sizes, and applying those models to a site where the models have not been trained. By establishing a dataset and evaluation process on which participants with different background can apply their methods, we can evaluate and compare relative performance of different methods for this challenging task. While the high model accuracy scores relative to the baseline winning model from the 2017 competition shows an advancement of methods for tree species classification, many species classes were poorly predicted, especially when applying models to the untrained site.</p>
+<p>Two classification methods stood out in how they handled the challenges of imbalance data and application to an untrained site. The first-ranked team based on accuracy and macro F1 scores (Fujitsu Satellite) used a convolution neural network pipeline, consisting of both a pixel and crown-level classifier. Stronger performance of CNNs over shallower machine learning methods for species classification of remote sensing data has been documented in many applications partly due to their ability to learn spatial features and reduced reliance on data pre-processing (<xref ref-type="bibr" rid="ref-30">Kattenborn et al., 2021</xref>). The Fujitsu Satellite team implemented a pixel and crown-level classifier and a unique random spatial data augmentation filter, which is likely key to its success (<xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>). The first-ranked team based on cross entropy loss (MaS JALApeñoS) used a relatively simple pixel-level decision tree classifier with a partial grid search for best parameters. Despite a more shallow machine learning approach compared to CNNs the Extreme Gradient Boosting method may have been less overfit and while a many species labels may have been incorrect, the certainty of those labels was also low, resulting in a better cross entropy loss score. Finally, while the approaches differed in many ways, both approaches relied on hyperspectral reflectance and reduced the noise and complexity of the data, and extracted relevant features of the 369 hyperspectral bands. This feature engineering was also a key lesson from the original competition in 2017.</p>
+<p>An inherent challenge with the classification of ecological data is the imbalance in the data across classes. Most natural forest ecosystems have an unequal abundance distribution of species, with a “hollow curve” shaped distribution where there are a small number of common species, and a large number of relatively rare species (<xref ref-type="bibr" rid="ref-40">McGill et al., 2007</xref>). Ecological datasets often reflect this natural distribution since they are generated by randomly sampling plots in the field. Understanding patterns of taxonomic and functional diversity or evaluating the impact of climate changes and extreme disturbance events on species are examples where poor accuracy of rare species will impact the ability to use the predictions because of the uncertainty in the predictions.</p>
+<p>Our results reflect the common outcome of classification on unbalanced datasets, with models generally performing better on classes that have a greater representation in the training data compared to classes with lower representation (<xref ref-type="bibr" rid="ref-21">Graves et al., 2016</xref>; <xref ref-type="bibr" rid="ref-45">Nguyen, Demir &amp; Dalponte, 2019</xref>; <xref ref-type="bibr" rid="ref-25">Hemmerling, Pflugmacher &amp; Hostert, 2021</xref>). Evaluation metrics that are weighted by the number of samples per class, such as accuracy, favor models that are most accurate for abundant classes. However, for many ecological questions and applications, having strong predictions across all species, especially the rare species is important (<xref ref-type="bibr" rid="ref-35">Leitão et al., 2016</xref>; <xref ref-type="bibr" rid="ref-13">Dee et al., 2019</xref>; <xref ref-type="bibr" rid="ref-8">Cerrejón et al., 2021</xref>), and therefore an evaluation score such as macro F1 that equally weighs all species classes, is most appropriate. While model accuracy shows a relatively narrow range in performance among the species, macro F1 shows the distinctly strong performance of two neural network methods (Fujitsu Satellite and Intellisense CAU, <xref ref-type="fig" rid="fig-4">Fig. 4</xref>) that can discriminate patterns of some less abundant but taxonomically distinct species. In addition, one of the teams that used a network approach and achieved a high macro F1 score (Intellisense CAU) addressed the imbalance by resampling the common classes, which is a common method to reduce the effect of imbalanced data in model training.</p>
+<p>Another challenge addressed in this competition was transferability of the model to an untrained site, where the site will most likely contain new taxonomic classes and introduce spectral variation within species, especially if the untrained site is geographically distinct from the training sites. We found that across metrics, all methods performed worse on the untrained site than the trained sites. While the decreased performance is partially due to the change in species classes, even a dominant species (Longleaf pine, PIPA2) was more poorly predicted at the untrained site. This suggests that regardless of differences in species presence and abundance between sites, the spectral and structural signatures of individual species (caused by sensor calibration, atmospheric conditions, seasonal differences, or inherent differences in species foliar and structural properties) are sufficiently different to hinder model performance.</p>
+<p>An encouraging result was the presence of methods with significantly lower cross entropy loss scores than other methods (gradient boosting by Más JALApeñoS and a neural network by Fujitsu), and that scores were similarly low for both the trained and untrained sites (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>). A low cross entropy loss score means that a method was confident with its correct predictions and unconfident with its incorrect predictions. Methods that score low in cross entropy loss could be most useful in transferring to new sites because low confidence in a prediction could indicate the presence of a new species.</p>
+<p>The imbalance of data and application of methods to an untrained site means classes will be present that are not in the training data. This challenge is often not directly addressed in species classification tasks in the remote sensing fields, but it is studied in computer science as a type of novel class detection (<xref ref-type="bibr" rid="ref-14">Din et al., 2021</xref>). While this competition design could not fully evaluate the ability to detect untrained species, we did employ the use of mixed-species “Other” class that were present only in the test data, and teams used different approaches to predict this class by grouping trained species with low sample sizes or post-processing based on prediction uncertainty. The F1 scores for the “Other” species class are too low for accurately detecting these new species (~0.2, <xref ref-type="fig" rid="fig-5">Fig. 5</xref>), yet most methods performed better at this task than our baseline approach from the 2017 competition where an untrained site and species were not part of the task. In addition, methods generally performed better at identifying new species in the trained sites (OSBS and MLBS) than the untrained site (TALL). This dataset and competition can hopefully encourage the remote sensing community to continue to confront this real challenge present in individual tree species mapping.</p>
+<p>Finally, this classification task was challenging due to limitations and complexities of the data. The complexities reflect the characteristics of data for real-world applications for which robust methods are needed. One common challenge for ecological applications is that the amount of field data for training and testing is often smaller than the optimal amount to train and robustly evaluate algorithms. We believe the most accurate data for training and evaluating crown delineation and classification models comes from laborious field efforts where individual tree crowns are delineated and species are identified in the field. Datasets like these are small and often limited to specific sites and studies. To overcome limited field data and create a sufficiently large dataset for the competition, we generated a large set of image-delineated crowns to use as training data (see <xref ref-type="supplementary-material" rid="supp-1">Appendix A</xref>). The certainty of these image-delineated ITCs, especially for classification, is less than for the field data because of uncertainty in associating information from field data on individual trees with the remote sensing data. The results showing confusion between two very different species (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>) suggest that some of the training pixels identified as belonging to one species may in fact belong to another, presenting challenges to classification models. We emphasize that this is an inherent challenge in ecological studies since high-quality data, such as the field-delineated ITCs, will always be limited, and therefore there is a need for methods to account for this source of potential uncertainty. Future efforts should be made to support improved alignment between field and remote sensing datasets (<xref ref-type="bibr" rid="ref-9">Chadwick et al., 2020</xref>). For example, when collecting data in the field, there could be an attribute that specifies if a tree has a position in the canopy and is therefore viewable in remote sensing imagery. Additionally, tree crowns could be digitized in remote sensing data while in the field to avoid any uncertainty and build robust datasets (<xref ref-type="bibr" rid="ref-22">Graves et al., 2018</xref>). Algorithmic approaches may also help address these issues including research in image analysis in classification and detection with label uncertainty (<xref ref-type="bibr" rid="ref-63">Zou, Gader &amp; Zare, 2019</xref>; <xref ref-type="bibr" rid="ref-16">Du &amp; Zare, 2019</xref>), active learning for adding new labels or reviewing existing labels and the inclusion of a self- or semi-supervised step in the learning processes (<xref ref-type="bibr" rid="ref-57">Weinstein et al., 2019</xref>; <xref ref-type="bibr" rid="ref-30">Kattenborn et al., 2021</xref>).</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>This competition engaged researchers in the data science, remote sensing, and ecology communities to train and apply algorithms for a classification task in the context of individual tree crown species across multiple sites. Participants focused on deep learning approaches, many of which were significantly better at cross-site prediction than the best method from the 2017 competition. By comparing predictions from all teams on the same dataset, we found that the deep learning and more traditional decision tree methods can predict the most common class well, even across sites, but more work is needed in methods that can handle imbalanced data, can predict rare species (<italic>i.e</italic>., those with lower relative abundances), and are robust to identifying the presence of new species when applied to an untrained site.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16578/AppendixA_resubmission_revision.docx">
+<object-id pub-id-type="doi">10.7717/peerj.16578/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Details of ITC and field data generation.</title>
+<p>Additional information about the Individual Tree Crown (ITC) and field data provided with the 2020 competition.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/16578/AppendixB_resubmission.docx">
+<object-id pub-id-type="doi">10.7717/peerj.16578/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Team methods and results.</title>
+<p>The methods used by participating teams for the classification task. This also includes confusion matrices for the classification methods for each team. See the published articles for full details on the methods for some teams (Table B1).</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>Thanks to Morteza Shahriari Nia for helping create the foundation for the 2017 competition.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>Yuzi Kanazawa is employed by Fujitsu Laboratories Ltd. Ethan P. White is an Academic Editor for PeerJ.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Sarah J. Graves</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Sergio Marconi</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Dylan Stewart</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Ira Harmon</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Ben Weinstein</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Yuzi Kanazawa</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-7">
+<p><xref ref-type="contrib" rid="author-7">Victoria M. Scholl</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-8">
+<p><xref ref-type="contrib" rid="author-8">Maxwell B. Joseph</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-9">
+<p><xref ref-type="contrib" rid="author-9">Joseph McGlinchy</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-10">
+<p><xref ref-type="contrib" rid="author-10">Luke Browne</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-11">
+<p><xref ref-type="contrib" rid="author-11">Megan K. Sullivan</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-12">
+<p><xref ref-type="contrib" rid="author-12">Sergio Estrada-Villegas</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-13">
+<p><xref ref-type="contrib" rid="author-13">Daisy Zhe Wang</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-14">
+<p><xref ref-type="contrib" rid="author-14">Aditya Singh</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-15">
+<p><xref ref-type="contrib" rid="author-15">Stephanie Bohlman</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-16">
+<p><xref ref-type="contrib" rid="author-16">Alina Zare</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-17">
+<p><xref ref-type="contrib" rid="author-17">Ethan P. White</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The data is available at GitHub and Zenodo:</p>
+<p>- <uri xlink:href="https://github.com/sjgraves/IDTReeS_competition">https://github.com/sjgraves/IDTReeS_competition</uri>.</p>
+<p>- Graves, S., &amp; Marconi, S. (2020). IDTReeS 2020 Competition Data (Version 4) [Data set]. Zenodo. <uri xlink:href="https://doi.org/10.5281/zenodo.3934932">https://doi.org/10.5281/zenodo.3934932</uri>.</p>
+<p>- <uri xlink:href="https://github.com/weecology/idtrees_competition_evaluation">https://github.com/weecology/idtrees_competition_evaluation</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Anderson (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anderson</surname>
+<given-names>CB</given-names>
+</name>
+</person-group>
+<article-title>The CCB-ID approach to tree species mapping with airborne imaging spectroscopy</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2018">2018</year>
+<volume>6</volume>
+<issue>10</issue>
+<elocation-id>e5666</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.5666</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Baena et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baena</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Moat</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Whaley</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Boyd</surname>
+<given-names>DS</given-names>
+</name>
+</person-group>
+<article-title>Identifying species from the air: UAVs and the very high resolution challenge for plant conservation</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2017">2017</year>
+<volume>12</volume>
+<issue>11</issue>
+<elocation-id>e0188714</elocation-id>
+<pub-id pub-id-type="doi">10.1371/JOURNAL.PONE.0188714</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Baldeck et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baldeck</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Colgan</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Féret</surname>
+<given-names>J-B</given-names>
+</name>
+<name>
+<surname>Levick</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Martin</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Asner</surname>
+<given-names>GP</given-names>
+</name>
+</person-group>
+<article-title>Landscape-scale variation in plant community composition of an African savanna from airborne species mapping</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2014">2014</year>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>84</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1890/13-0307.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Ballanti et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ballanti</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Blesius</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Hines</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Kruse</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Tree species classification using hyperspectral imagery: A comparison of two classifiers</article-title>
+<source>Remote Sensing</source>
+<year iso-8601-date="2016">2016</year>
+<volume>8</volume>
+<issue>6</issue>
+<fpage>445</fpage>
+<pub-id pub-id-type="doi">10.3390/RS8060445</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Barber et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Barber</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Hall</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Zuidema</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Brandt</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Asner</surname>
+<given-names>GP</given-names>
+</name>
+<name>
+<surname>Bailón</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Caughlin</surname>
+<given-names>TT</given-names>
+</name>
+</person-group>
+<article-title>Species-level tree crown maps improve predictions of tree recruit abundance in a tropical landscape</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2022">2022</year>
+<volume>32</volume>
+<issue>5</issue>
+<elocation-id>e2585</elocation-id>
+<pub-id pub-id-type="doi">10.1002/EAP.2585</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Barnett et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Barnett</surname>
+<given-names>DT</given-names>
+</name>
+<name>
+<surname>Adler</surname>
+<given-names>PB</given-names>
+</name>
+<name>
+<surname>Chemel</surname>
+<given-names>BR</given-names>
+</name>
+<name>
+<surname>Duffy</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Enquist</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Grace</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Harrison</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Peet</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Schimel</surname>
+<given-names>DS</given-names>
+</name>
+<name>
+<surname>Stohlgren</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Vellend</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>The plant diversity sampling design for the national ecological observatory network</article-title>
+<source>Ecosphere</source>
+<year iso-8601-date="2019">2019</year>
+<volume>10</volume>
+<issue>2</issue>
+<elocation-id>e02603</elocation-id>
+<pub-id pub-id-type="doi">10.1002/ecs2.2603</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Carpenter (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Carpenter</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>May the best analyst win: exploiting crowdsourcing, a company called Kaggle runs public competitions to analyze the data of scientists, companies, and organizations</article-title>
+<source>Science</source>
+<year iso-8601-date="2011">2011</year>
+<volume>331</volume>
+<issue>6018</issue>
+<fpage>698</fpage>
+<lpage>699</lpage>
+<pub-id pub-id-type="doi">10.1126/science.331.6018.698</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Cerrejón et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cerrejón</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Valeria</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Marchand</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Caners</surname>
+<given-names>RT</given-names>
+</name>
+<name>
+<surname>Fenton</surname>
+<given-names>NJ</given-names>
+</name>
+</person-group>
+<article-title>No place to hide: rare plant detection through remote sensing</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2021">2021</year>
+<volume>27</volume>
+<issue>6</issue>
+<fpage>948</fpage>
+<lpage>961</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.13244</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Chadwick et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chadwick</surname>
+<given-names>KD</given-names>
+</name>
+<name>
+<surname>Brodrick</surname>
+<given-names>PG</given-names>
+</name>
+<name>
+<surname>Grant</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Goulden</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Henderson</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Falco</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Wainwright</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>KH</given-names>
+</name>
+<name>
+<surname>Bill</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Breckheimer</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Brodie</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Steltzer</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>CFR</given-names>
+</name>
+<name>
+<surname>Blonder</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Dafflon</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Damerow</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Hancher</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Khurram</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lamb</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lawrence</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>McCormick</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Musinsky</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Pierce</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Polussa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hastings Porro</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Scott</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>HW</given-names>
+</name>
+<name>
+<surname>Sorensen</surname>
+<given-names>PO</given-names>
+</name>
+<name>
+<surname>Varadharajan</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Whitney</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Maher</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Integrating airborne remote sensing and field campaigns for ecology and earth system science</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2020">2020</year>
+<volume>11</volume>
+<issue>11</issue>
+<fpage>1492</fpage>
+<lpage>1508</lpage>
+<pub-id pub-id-type="doi">10.1111/2041-210X.13463</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Chen, Kar &amp; Ralescu (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Kar</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ralescu</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Cross-entropy measure of uncertain variables</article-title>
+<source>Information Sciences</source>
+<year iso-8601-date="2012">2012</year>
+<volume>201</volume>
+<issue>1</issue>
+<fpage>53</fpage>
+<lpage>60</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ins.2012.02.049</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Clark et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Clark</surname>
+<given-names>DB</given-names>
+</name>
+<name>
+<surname>Soto Castro</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Diego</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Alvarado</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Read</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Louis</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Selva</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Rica</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Quantifying mortality of tropical rain forest trees using high-spatial-resolution satellite data</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2004">2004</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>52</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1461-0248.2003.00547.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Dalponte et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dalponte</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Reyes</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Kandare</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Gianelle</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Delineation of individual tree crowns from ALS and hyperspectral data: a comparison among four methods</article-title>
+<source>European Journal of Remote Sensing</source>
+<year iso-8601-date="2015">2015</year>
+<volume>48</volume>
+<issue>1</issue>
+<fpage>365</fpage>
+<lpage>382</lpage>
+<pub-id pub-id-type="doi">10.5721/EuJRS20154821</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Dee et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dee</surname>
+<given-names>LE</given-names>
+</name>
+<name>
+<surname>Cowles</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Isbell</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Pau</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gaines</surname>
+<given-names>SD</given-names>
+</name>
+<name>
+<surname>Reich</surname>
+<given-names>PB</given-names>
+</name>
+</person-group>
+<article-title>When do ecosystem services depend on rare species?</article-title>
+<source>Trends in Ecology and Evolution</source>
+<year iso-8601-date="2019">2019</year>
+<volume>34</volume>
+<issue>8</issue>
+<fpage>746</fpage>
+<lpage>758</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2019.03.010</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Din et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Din</surname>
+<given-names>SU</given-names>
+</name>
+<name>
+<surname>Shao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Mawuli</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Mahmud</surname>
+<given-names>SMH</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</name>
+</person-group>
+<article-title>Data stream classification with novel class detection: a review, comparison and challenges</article-title>
+<source>Knowledge and Information Systems</source>
+<year iso-8601-date="2021">2021</year>
+<volume>63</volume>
+<issue>9</issue>
+<fpage>2231</fpage>
+<lpage>2276</lpage>
+<pub-id pub-id-type="doi">10.1007/s10115-021-01582-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Dorr et al. (2016)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Dorr</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Fontana</surname>
+<given-names>PC</given-names>
+</name>
+<name>
+<surname>Greenberg</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Le Bras</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Przybocki</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Evaluation-driven research in data science: Leveraging cross-field methodologies</article-title>
+<year iso-8601-date="2016">2016</year><conf-name>Proceedings—2016 IEEE International Conference on Big Data, Big Data 2016</conf-name>
+<publisher-name>Institute of Electrical and Electronics Engineers Inc.</publisher-name>
+<fpage>2853</fpage>
+<lpage>2862</lpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Du &amp; Zare (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Du</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Zare</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Multiple instance choquet integral classifier fusion and regression for remote sensing applications</article-title>
+<source>IEEE Transactions on Geoscience and Remote Sensing</source>
+<year iso-8601-date="2019">2019</year>
+<volume>57</volume>
+<issue>5</issue>
+<fpage>2741</fpage>
+<lpage>2753</lpage>
+<pub-id pub-id-type="doi">10.1109/TGRS.2018.2876687</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Duncanson et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Duncanson</surname>
+<given-names>LI</given-names>
+</name>
+<name>
+<surname>Dubayah</surname>
+<given-names>RO</given-names>
+</name>
+<name>
+<surname>Cook</surname>
+<given-names>BD</given-names>
+</name>
+<name>
+<surname>Rosette</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Parker</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>The importance of spatial detail: assessing the utility of individual crown information and scaling approaches for lidar-based biomass density estimation</article-title>
+<source>Remote Sensing of Environment</source>
+<year iso-8601-date="2015">2015</year>
+<volume>168</volume>
+<issue>1</issue>
+<fpage>102</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="doi">10.1016/j.rse.2015.06.021</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Fassnacht et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fassnacht</surname>
+<given-names>FE</given-names>
+</name>
+<name>
+<surname>Latifi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Stereńczak</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Modzelewska</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lefsky</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Waser</surname>
+<given-names>LT</given-names>
+</name>
+<name>
+<surname>Straub</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ghosh</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Review of studies on tree species classification from remotely sensed data</article-title>
+<source>Remote Sensing of Environment</source>
+<year iso-8601-date="2016">2016</year>
+<volume>186</volume>
+<issue>1</issue>
+<fpage>64</fpage>
+<lpage>87</lpage>
+<pub-id pub-id-type="doi">10.1016/j.rse.2016.08.013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Fricker et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fricker</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Ventura</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Wolf</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>North</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Davis</surname>
+<given-names>FW</given-names>
+</name>
+<name>
+<surname>Franklin</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>A convolutional neural network classifier identifies tree species in mixed-conifer forest from hyperspectral imagery</article-title>
+<source>Remote Sensing</source>
+<year iso-8601-date="2019">2019</year>
+<volume>11</volume>
+<issue>19</issue>
+<fpage>2326</fpage>
+<pub-id pub-id-type="doi">10.3390/rs11192326</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Grandini, Bagli &amp; Visani (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Grandini</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bagli</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Visani</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Metrics for multi-class classification: an overview</article-title>
+<source>ArXiv</source>
+<year iso-8601-date="2020">2020</year>
+<pub-id pub-id-type="doi">10.48550/arXiv.2008.05756</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Graves et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Asner</surname>
+<given-names>GP</given-names>
+</name>
+<name>
+<surname>Martin</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Colgan</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Kalantari</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Tree species abundance predictions in a tropical agricultural landscape with a supervised classification model and imbalanced data</article-title>
+<source>Remote Sensing</source>
+<year iso-8601-date="2016">2016</year>
+<volume>8</volume>
+<issue>2</issue>
+<fpage>161</fpage>
+<pub-id pub-id-type="doi">10.3390/rs8020161</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Graves et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Gearhart</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Caughlin</surname>
+<given-names>TT</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>A digital mapping method for linking high-resolution remote sensing images to individual tree crowns</article-title>
+<source>Peer J Preprints</source>
+<year iso-8601-date="2018">2018</year>
+<volume>6</volume>
+<fpage>e27182v1</fpage>
+<pub-id pub-id-type="doi">10.7287/peerj.preprints.27182v1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Graves et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Marconi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Stewart</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Harmon</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Weinstein</surname>
+<given-names>BG</given-names>
+</name>
+<name>
+<surname>Kanazawa</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Scholl</surname>
+<given-names>VM</given-names>
+</name>
+<name>
+<surname>Joseph</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>McClinchy</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Browne</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Sullivan</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Estrada-Villegas</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Tusa</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>DZ</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Zare</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>EP</given-names>
+</name>
+</person-group>
+<article-title>Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data</article-title>
+<source>bioRxiv Preprint</source>
+<year iso-8601-date="2021">2021</year>
+<pub-id pub-id-type="doi">10.1101/2021.08.06.453503</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Heikkinen et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Heikkinen</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Tokola</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Parkkinen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Korpela</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Jääskeläinen</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Simulated multispectral imagery for tree species classification using support vector machines</article-title>
+<source>IEEE Transactions on Geoscience and Remote Sensing</source>
+<year iso-8601-date="2010">2010</year>
+<volume>48</volume>
+<issue>3</issue>
+<fpage>1355</fpage>
+<lpage>1364</lpage>
+<pub-id pub-id-type="doi">10.1109/TGRS.2009.2032239</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Hemmerling, Pflugmacher &amp; Hostert (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hemmerling</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Pflugmacher</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Hostert</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Mapping temperate forest tree species using dense Sentinel-2 time series</article-title>
+<source>Remote Sensing of Environment</source>
+<year iso-8601-date="2021">2021</year>
+<volume>267</volume>
+<fpage>112743</fpage>
+<pub-id pub-id-type="doi">10.1016/j.rse.2021.112743</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Humphries et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Humphries</surname>
+<given-names>GRW</given-names>
+</name>
+<name>
+<surname>Che-Castaldo</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Bull</surname>
+<given-names>PJ</given-names>
+</name>
+<name>
+<surname>Lipstein</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ravia</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Carrión</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Bolton</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Ganguly</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lynch</surname>
+<given-names>HJ</given-names>
+</name>
+</person-group>
+<article-title>Predicting the future is hard and other lessons from a population time series data science competition</article-title>
+<source>Ecological Informatics</source>
+<year iso-8601-date="2018">2018</year>
+<volume>48</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecoinf.2018.07.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Jucker et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jucker</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Caspersen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Chave</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Antin</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Barbier</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Bongers</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Dalponte</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>van Ewijk</surname>
+<given-names>KY</given-names>
+</name>
+<name>
+<surname>Forrester</surname>
+<given-names>DI</given-names>
+</name>
+<name>
+<surname>Haeni</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Higgins</surname>
+<given-names>SI</given-names>
+</name>
+<name>
+<surname>Holdaway</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Iida</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Lorimer</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>PL</given-names>
+</name>
+<name>
+<surname>Momo</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Moncrieff</surname>
+<given-names>GR</given-names>
+</name>
+<name>
+<surname>Ploton</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Poorter</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Rahman</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Schlund</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sonké</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Sterck</surname>
+<given-names>FJ</given-names>
+</name>
+<name>
+<surname>Trugman</surname>
+<given-names>AT</given-names>
+</name>
+<name>
+<surname>Usoltsev</surname>
+<given-names>VA</given-names>
+</name>
+<name>
+<surname>Vanderwel</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Waldner</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Wedeux</surname>
+<given-names>BMM</given-names>
+</name>
+<name>
+<surname>Wirth</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wöll</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Woods</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Xiang</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Zimmermann</surname>
+<given-names>NE</given-names>
+</name>
+<name>
+<surname>Coomes</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Allometric equations for integrating remote sensing imagery into forest monitoring programmes</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>23</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.13388</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Kampe et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kampe</surname>
+<given-names>TU</given-names>
+</name>
+<name>
+<surname>Johnson</surname>
+<given-names>BR</given-names>
+</name>
+<name>
+<surname>Kuester</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Keller</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>NEON: the first continental-scale ecological observatory with airborne remote sensing of vegetation canopy biochemistry and structure</article-title>
+<source>Journal of Applied Remote Sensing</source>
+<year iso-8601-date="2010">2010</year>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>043510</fpage>
+<pub-id pub-id-type="doi">10.1117/1.3361375</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Karasiak et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Karasiak</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Dejoux</surname>
+<given-names>JF</given-names>
+</name>
+<name>
+<surname>Monteil</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Sheeren</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Spatial dependence between training and test sets: another pitfall of classification accuracy assessment in remote sensing</article-title>
+<source>Machine Learning</source>
+<year iso-8601-date="2022">2022</year>
+<volume>111</volume>
+<issue>7</issue>
+<fpage>2715</fpage>
+<lpage>2740</lpage>
+<pub-id pub-id-type="doi">10.1007/s10994-021-05972-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Kattenborn et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kattenborn</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Leitloff</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Schiefer</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Hinz</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Review on convolutional neural networks (CNN) in vegetation remote sensing</article-title>
+<source>ISPRS Journal of Photogrammetry and Remote Sensing</source>
+<year iso-8601-date="2021">2021</year>
+<volume>173</volume>
+<issue>2</issue>
+<fpage>24</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="doi">10.1016/j.isprsjprs.2020.12.010</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Kellner &amp; Hubbell (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kellner</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Hubbell</surname>
+<given-names>SP</given-names>
+</name>
+</person-group>
+<article-title>Density-dependent adult recruitment in a low-density tropical tree</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2018">2018</year>
+<volume>115</volume>
+<issue>44</issue>
+<fpage>11268</fpage>
+<lpage>11273</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1800353115</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Krauss (2018a)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Krauss</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>TOS site characterization report: domain 03</article-title>
+<year iso-8601-date="2018a">2018a</year><uri>https://data.neonscience.org/documents/10179/2263491/NEON.DOC.003890vB/dda0a129-193a-e568-4ee1-ead234828ca1</uri>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Krauss (2018b)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Krauss</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>TOS site characterization report: domain 07</article-title>
+<year iso-8601-date="2018b">2018b</year><uri>https://data.neonscience.org/documents/10179/2263491/NEON.DOC.003891vB/19484966-ed51-b681-ed5e-050b15122b87</uri>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Krauss (2018c)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Krauss</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>TOS site characterization report: domain 08</article-title>
+<year iso-8601-date="2018c">2018c</year><uri>https://data.neonscience.org/documents/10179/2263491/NEON.DOC.003892vB/b4c0564b-ebd1-fbe0-d2aa-922fd555218c</uri>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Leitão et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Leitão</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Zuanon</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Villéger</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Baraloto</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Fortune</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Mendonça</surname>
+<given-names>FP</given-names>
+</name>
+<name>
+<surname>Mouillot</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Rare species contribute disproportionately to the functional structure of species assemblages</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2016">2016</year>
+<volume>283</volume>
+<issue>1828</issue>
+<fpage>20160084</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2016.0084</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Little et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Little</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Tulig</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Tan</surname>
+<given-names>KC</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Belongie</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kaeser-Chen</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Michelangeli</surname>
+<given-names>FA</given-names>
+</name>
+<name>
+<surname>Panesar</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Guha</surname>
+<given-names>RV</given-names>
+</name>
+<name>
+<surname>Ambrose</surname>
+<given-names>BA</given-names>
+</name>
+</person-group>
+<article-title>An algorithm competition for automatic species identification from herbarium specimens</article-title>
+<source>Applications in Plant Sciences</source>
+<year iso-8601-date="2020">2020</year>
+<volume>8</volume>
+<issue>6</issue>
+<elocation-id>e11365</elocation-id>
+<pub-id pub-id-type="doi">10.1002/aps3.11365</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Lunch et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lunch</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Laney</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Durden</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Open tools for NEON data: lessons from open code development by NEON scientists and the NEON user community</article-title>
+<source>Earth and Space Science Open Archive January 20, 2020</source>
+<year iso-8601-date="2020">2020</year>
+<pub-id pub-id-type="doi">10.1002/essoar.10501966.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Marconi et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marconi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Gong</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Shahriari Nia</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Le Bras</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Dorr</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Fontana</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gearhart</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Greenberg</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Harris</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Arvind Kumar</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Nishant</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Prarabdh</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Rege</surname>
+<given-names>SU</given-names>
+</name>
+<name>
+<surname>Ann Bohlman Corresp</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>White Corresp</surname>
+<given-names>EP</given-names>
+</name>
+<name>
+<surname>Zhe Wang Corresp</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Authors</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Ann Bohlman</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>EP</given-names>
+</name>
+<name>
+<surname>Zhe Wang</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Harris</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Sugumar</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Joshi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Rege</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>A data science challenge for converting airborne remote sensing data into ecological information</article-title>
+<source>Peer J</source>
+<year iso-8601-date="2019">2019</year>
+<volume>6</volume>
+<elocation-id>e5843</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.5843</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Marconi et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marconi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Weinstein</surname>
+<given-names>BG</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>EP</given-names>
+</name>
+</person-group>
+<article-title>Estimating individual-level plant traits at scale</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2021">2021</year>
+<volume>31</volume>
+<issue>4</issue>
+<elocation-id>e02300</elocation-id>
+<pub-id pub-id-type="doi">10.1002/eap.2300</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>McGill et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McGill</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Etienne</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Gray</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Alonso</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Benecha</surname>
+<given-names>HK</given-names>
+</name>
+<name>
+<surname>Dornelas</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Enquist</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Green</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>He</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Hurlbert</surname>
+<given-names>AH</given-names>
+</name>
+<name>
+<surname>Magurran</surname>
+<given-names>AE</given-names>
+</name>
+<name>
+<surname>Marquet</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Maurer</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Ostling</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Soykan</surname>
+<given-names>CU</given-names>
+</name>
+<name>
+<surname>Ugland</surname>
+<given-names>KI</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>EP</given-names>
+</name>
+</person-group>
+<article-title>Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2007">2007</year>
+<volume>10</volume>
+<issue>10</issue>
+<fpage>995</fpage>
+<lpage>1015</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01094.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Meier, Thibault &amp; Barnett (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Meier</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Thibault</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Barnett</surname>
+<given-names>DT</given-names>
+</name>
+</person-group>
+<article-title>Spatial and temporal sampling strategy connecting NEON terrestrial observation system protocols</article-title>
+<source>Ecosphere</source>
+<year iso-8601-date="2023">2023</year>
+<volume>14</volume>
+<issue>3</issue>
+<elocation-id>e4455</elocation-id>
+<pub-id pub-id-type="doi">10.1002/ecs2.4455</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Miao et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miao</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Gaynor</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Palmer</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>SX</given-names>
+</name>
+<name>
+<surname>Getz</surname>
+<given-names>WM</given-names>
+</name>
+</person-group>
+<article-title>Iterative human and automated identification of wildlife images</article-title>
+<source>Nature Machine Intelligence</source>
+<year iso-8601-date="2021">2021</year>
+<volume>3</volume>
+<issue>10</issue>
+<fpage>885</fpage>
+<lpage>895</lpage>
+<pub-id pub-id-type="doi">10.1038/s42256-021-00393-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Modzelewska, Fassnacht &amp; Stereńczak (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Modzelewska</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Fassnacht</surname>
+<given-names>FE</given-names>
+</name>
+<name>
+<surname>Stereńczak</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Tree species identification within an extensive forest area with diverse management regimes using airborne hyperspectral data</article-title>
+<source>International Journal of Applied Earth Observation and Geoinformation</source>
+<year iso-8601-date="2020">2020</year>
+<volume>84</volume>
+<fpage>101960</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jag.2019.101960</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Mäyrä et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mäyrä</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Keski-Saari</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kivinen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Tanhuanpää</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Hurskainen</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Kullberg</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Poikolainen</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Viinikka</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Tuominen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kumpula</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Vihervaara</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Tree species classification from airborne hyperspectral and LiDAR data using 3D convolutional neural networks</article-title>
+<source>Remote Sensing of Environment</source>
+<year iso-8601-date="2021">2021</year>
+<volume>256</volume>
+<fpage>112322</fpage>
+<pub-id pub-id-type="doi">10.1016/j.rse.2021.112322</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Nguyen, Demir &amp; Dalponte (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nguyen</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Demir</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Dalponte</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>A weighted SVM-based approach to tree species classification at individual tree crown level using LiDAR data</article-title>
+<source>Remote Sensing</source>
+<year iso-8601-date="2019">2019</year>
+<volume>11</volume>
+<issue>24</issue>
+<fpage>2948</fpage>
+<pub-id pub-id-type="doi">10.3390/rs11242948</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Park et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Park</surname>
+<given-names>JY</given-names>
+</name>
+<name>
+<surname>Muller-landau</surname>
+<given-names>HC</given-names>
+</name>
+<name>
+<surname>Lichstein</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Rifai</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Dandois</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Quantifying leaf phenology of individual trees and species in a tropical forest using unmanned aerial vehicle (UAV) images</article-title>
+<source>Remote Sensing</source>
+<year iso-8601-date="2019">2019</year>
+<volume>11</volume>
+<issue>13</issue>
+<fpage>1534</fpage>
+<pub-id pub-id-type="doi">10.3390/rs11131534</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Pedregosa et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pedregosa</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Varoquaux</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Gramfort</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Thirion</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Grisel</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Blondel</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Prettenhofer</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Weiss</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Dubourg</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Vanderplas</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Passos</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Cournapeau</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Brucher</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Perrot</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Duchesnay</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Scikit-learn: machine learning in python</article-title>
+<source>Journal of Machine Learning Research</source>
+<year iso-8601-date="2011">2011</year>
+<volume>12</volume>
+<fpage>2825</fpage>
+<lpage>2830</lpage>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Persson et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Persson</surname>
+<given-names>Å</given-names>
+</name>
+<name>
+<surname>Holmgren</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Söderman</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Olsson</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Tree species classification of individual trees in Sweden by combining high resolution laser data with high resolution near-infrared digital images</article-title>
+<source>International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences</source>
+<year iso-8601-date="2004">2004</year>
+<volume>36</volume>
+<fpage>204</fpage>
+<lpage>207</lpage>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Rocchini et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rocchini</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Boyd</surname>
+<given-names>DS</given-names>
+</name>
+<name>
+<surname>Féret</surname>
+<given-names>J-B</given-names>
+</name>
+<name>
+<surname>Foody</surname>
+<given-names>GM</given-names>
+</name>
+<name>
+<surname>He</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Lausch</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Nagendra</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Wegmann</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Pettorelli</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Satellite remote sensing to monitor species diversity: potential and pitfalls</article-title>
+<source>Remote Sensing in Ecology and Conservation</source>
+<year iso-8601-date="2016">2016</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>25</fpage>
+<lpage>36</lpage>
+<pub-id pub-id-type="doi">10.1002/rse2.9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Schimel et al. (2007)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Schimel</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Hargrove</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Hoffman</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>MacMahon</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>NEON: a hierarchically designed national ecological network—Schimel—2007—Frontiers in Ecology and the Environment—Wiley Online Library</article-title>
+<year iso-8601-date="2007">2007</year><uri>https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/1540-9295%282007%295%5B59%3ANAHDNE%5D2.0.CO%3B2</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2021-06-21">21 June 2021</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Scholl et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scholl</surname>
+<given-names>VM</given-names>
+</name>
+<name>
+<surname>McGlinchy</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Price-Broncucia</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Balch</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Joseph</surname>
+<given-names>MB</given-names>
+</name>
+</person-group>
+<article-title>Fusion neural networks for plant classification: learning to combine RGB, hyperspectral, and lidar data</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2021">2021</year>
+<volume>9</volume>
+<issue>22</issue>
+<elocation-id>e11790</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.11790</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Shannon (1949)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Shannon</surname>
+<given-names>CE</given-names>
+</name>
+</person-group>
+<source>The mathematical theory of communication</source>
+<year iso-8601-date="1949">1949</year>
+<publisher-loc>Urbana</publisher-loc>
+<publisher-name>University of Illinois Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Shi et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Skidmore</surname>
+<given-names>AK</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Holzwarth</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Heiden</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Pinnel</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Heurich</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Tree species classification using plant functional traits from LiDAR and hyperspectral data</article-title>
+<source>International Journal of Applied Earth Observation and Geoinformation</source>
+<year iso-8601-date="2018">2018</year>
+<volume>73</volume>
+<fpage>207</fpage>
+<lpage>219</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jag.2018.06.018</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Thorpe et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Thorpe</surname>
+<given-names>AS</given-names>
+</name>
+<name>
+<surname>Barnett</surname>
+<given-names>DT</given-names>
+</name>
+<name>
+<surname>Elmendorf</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Hinckley</surname>
+<given-names>ELS</given-names>
+</name>
+<name>
+<surname>Hoekman</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>KD</given-names>
+</name>
+<name>
+<surname>Levan</surname>
+<given-names>KE</given-names>
+</name>
+<name>
+<surname>Meier</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Stanish</surname>
+<given-names>LF</given-names>
+</name>
+<name>
+<surname>Thibault</surname>
+<given-names>KM</given-names>
+</name>
+</person-group>
+<article-title>Introduction to the sampling designs of the national ecological observatory network terrestrial observation system</article-title>
+<source>Ecosphere</source>
+<year iso-8601-date="2016">2016</year>
+<volume>7</volume>
+<issue>12</issue>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1002/ecs2.1627</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Van Etten, Lindenbaum &amp; Bacastow (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van Etten</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lindenbaum</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Bacastow</surname>
+<given-names>TM</given-names>
+</name>
+</person-group>
+<article-title>SpaceNet: a remote sensing dataset and challenge series</article-title>
+<source>ArXiv</source>
+<year iso-8601-date="2019">2019</year>
+<pub-id pub-id-type="doi">10.48550/arXiv.1807.01232</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Weinstein et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weinstein</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Marconi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Zare</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Individual tree-crown detection in RGB imagery using self-supervised deep learning neural networks</article-title>
+<source>Remote Sensing</source>
+<year iso-8601-date="2019">2019</year>
+<volume>21</volume>
+<fpage>532952</fpage>
+<pub-id pub-id-type="doi">10.1101/532952</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Weinstein et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weinstein</surname>
+<given-names>BG</given-names>
+</name>
+<name>
+<surname>Marconi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Graves</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Zare</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Bohlman</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Magee</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Johnson</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Townsend</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>EP</given-names>
+</name>
+</person-group>
+<article-title>Capturing long-tailed individual tree diversity using an airborne imaging and a multi-temporal hierarchical model</article-title>
+<source>Remote Sensing in Ecology and Conservation</source>
+<year iso-8601-date="2023">2023</year>
+<volume>9</volume>
+<issue>5</issue>
+<fpage>656</fpage>
+<lpage>670</lpage>
+<pub-id pub-id-type="doi">10.1002/RSE2.335</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>White et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>White</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Coops</surname>
+<given-names>NC</given-names>
+</name>
+<name>
+<surname>Wulder</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Vastaranta</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hilker</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Tompalski</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Remote sensing technologies for enhancing forest inventories: a review</article-title>
+<source>Canadian Journal of Remote Sensing</source>
+<year iso-8601-date="2016">2016</year>
+<volume>42</volume>
+<issue>5</issue>
+<fpage>619</fpage>
+<lpage>641</lpage>
+<pub-id pub-id-type="doi">10.1080/07038992.2016.1207484</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Wu et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Albert</surname>
+<given-names>LP</given-names>
+</name>
+<name>
+<surname>Lopes</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Restrepo-Coupe</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Hayek</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Wiedemann</surname>
+<given-names>KT</given-names>
+</name>
+<name>
+<surname>Guan</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Stark</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Christoffersen</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Prohaska</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Tavares</surname>
+<given-names>JV</given-names>
+</name>
+<name>
+<surname>Marostica</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kobayashi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Ferreira</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Campos</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Dda Silva</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Brando</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Dye</surname>
+<given-names>DG</given-names>
+</name>
+<name>
+<surname>Huxman</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Huete</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Nelson</surname>
+<given-names>BW</given-names>
+</name>
+<name>
+<surname>Saleska</surname>
+<given-names>SR</given-names>
+</name>
+</person-group>
+<article-title>Leaf development and demography explain photosynthetic seasonality in amazon evergreen forests</article-title>
+<source>Science</source>
+<year iso-8601-date="2016">2016</year>
+<volume>351</volume>
+<issue>6276</issue>
+<fpage>972</fpage>
+<lpage>976</lpage>
+<pub-id pub-id-type="doi">10.1126/science.aad5068</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Wäldchen &amp; Mäder (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wäldchen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Mäder</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Machine learning for image based species identification</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2018">2018</year>
+<volume>9</volume>
+<issue>11</issue>
+<fpage>2216</fpage>
+<lpage>2225</lpage>
+<pub-id pub-id-type="doi">10.1111/2041-210X.13075</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Zheng et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zheng</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Zeng</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Schneider</surname>
+<given-names>FD</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Schmid</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Schaepman</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Morsdorf</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Mapping functional diversity using individual tree-based morphological and physiological traits in a subtropical forest</article-title>
+<source>Remote Sensing of Environment</source>
+<year iso-8601-date="2021">2021</year>
+<volume>252</volume>
+<issue>3</issue>
+<fpage>112170</fpage>
+<pub-id pub-id-type="doi">10.1016/j.rse.2020.112170</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Zou, Gader &amp; Zare (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zou</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gader</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Zare</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Hyperspectral tree crown classification using the multiple instance adaptive cosine estimator</article-title>
+<source>Peer J</source>
+<year iso-8601-date="2019">2019</year>
+<volume>2019</volume>
+<issue>3</issue>
+<elocation-id>e6405</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.6405</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

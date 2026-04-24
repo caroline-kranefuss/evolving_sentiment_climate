@@ -1,0 +1,3249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16399</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16399</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Agricultural Science</subject>
+               <subject>Bioinformatics</subject>
+               <subject>Biotechnology</subject>
+               <subject>Soil Science</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Potential of psychrotolerant rhizobacteria for the growth promotion of wheat (<italic>Triticum aestivum</italic> L.)</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author">
+               <name>
+                  <surname>Abdullah</surname>
+                  <given-names>Muhammad</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Tariq</surname>
+                  <given-names>Mohsin</given-names>
+               </name>
+               <email>mohsintariq@gcuf.edu.pk</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Zahra</surname>
+                  <given-names>Syeda Tahseen</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Ahmad</surname>
+                  <given-names>Azka</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>Zafar</surname>
+                  <given-names>Marriam</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-6" contrib-type="author">
+               <name>
+                  <surname>Ali</surname>
+                  <given-names>Shad</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Bioinformatics and Biotechnology, Government College University Faisalabad</institution>, <city>Faisalabad</city>, <state>Punjab</state>, <country>Pakistan</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Center of Excellence in Molecular Biology (CEMB), University of the Punjab</institution>, <city>Lahore</city>, <state>Punjab</state>, <country>Pakistan</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Sotelo-Mundo</surname>
+                  <given-names>Rogerio</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-11-30">
+            <day>30</day>
+            <month>11</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16399</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2023-06-26">
+               <day>26</day>
+               <month>6</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-10-12">
+               <day>12</day>
+               <month>10</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Abdullah et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Abdullah et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16399"/>
+         <abstract>
+            <p>Wheat is the second most important staple crop grown and consumed worldwide. Temperature fluctuations especially the cold stress during the winter season reduces wheat growth and grain yield. Psychrotolerant plant growth-promoting rhizobacteria (PGPR) may improve plant stress-tolerance in addition to serve as biofertilizer. The present study aimed to isolate and identify PGPR, with the potential to tolerate cold stress for subsequent use in supporting wheat growth under cold stress. Ten psychrotolerant bacteria were isolated from the wheat rhizosphere at 4 °C and tested for their ability to grow at wide range of temperature ranging from −8 °C to 36 °C and multiple plant beneficial traits. All bacteria were able to grow at 4 °C to 32 °C temperature range and solubilized phosphorus except WR23 at 4 °C, whereas all the bacteria solubilized phosphorus at 28 °C. Seven bacteria produced indole-3-acetic acid at 4 °C, whereas all produced indole-3-acetic acid at 28 °C. Seven bacteria showed the ability to fix nitrogen at 4 °C, while all the bacteria fixed nitrogen at 28 °C. Only one bacterium showed the potential to produce cellulase at 4 °C, whereas four bacteria showed the potential to produce cellulase at 28 °C. Seven bacteria produced pectinase at 4 °C, while one bacterium produced pectinase at 28 °C. Only one bacterium solubilized the zinc at 4 °C, whereas six bacteria solubilized the zinc at 28 °C using ZnO as the primary zinc source. Five bacteria solubilized the zinc at 4 °C, while seven bacteria solubilized the zinc at 28 °C using ZnCO<sub>3</sub> as the primary zinc source. All the bacteria produced biofilm at 4 °C and 28 °C. In general, we noticed behavior of higher production of plant growth-promoting substances at 28 °C, except pectinase assay. Overall, <italic>in vitro</italic> testing confirms that microbes perform their inherent properties efficiently at optimum temperatures rather than the low temperatures due to high metabolic rate. Five potential rhizobacteria were selected based on the <italic>in vitro</italic> testing and evaluated for plant growth-promoting potential on wheat under controlled conditions. WR22 and WR24 significantly improved wheat growth, specifically increasing plant dry weight by 42% and 58%, respectively. 16S <italic>rRNA</italic> sequence analysis of WR22 showed 99.78% similarity with <italic>Cupriavidus campinensis</italic> and WR24 showed 99.9% similarity with <italic>Enterobacter ludwigii</italic>. This is the first report highlighting the association of <italic>C. campinensis</italic> and <italic>E. ludwigii</italic> with wheat rhizosphere. These bacteria can serve as potential candidates for biofertilizer to mitigate the chilling effect and improve wheat production after field-testing.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Biofertilizer</kwd>
+            <kwd><italic>Cupriavidus campinensis</italic></kwd>
+            <kwd><italic>Enterobacter ludwigii</italic></kwd>
+            <kwd>Psychrotolerant</kwd>
+            <kwd>PGPR</kwd>
+            <kwd>Wheat</kwd>
+         </kwd-group>
+         <funding-group>
+            <funding-statement>The authors received no funding for this work.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Wheat is the second most important crop after rice, contributing 35% of total global grain production. Global wheat demand is estimated to increase up to 70% by 2050 to feed the ever-increasing human population (<xref ref-type="bibr" rid="ref-78">Vitale, Adam &amp; Vitale, 2020</xref>). Pakistan annually produces 26.4 million tons of wheat, which contributes 1.8% to the GDP (<xref ref-type="bibr" rid="ref-18">Economic Survey of Pakistan, 2021-22</xref>). Improving crop productivity has become a very important goal in satisfying food demand (<xref ref-type="bibr" rid="ref-79">Vitale, Vitale &amp; Epplin, 2019</xref>). Climate change is the major limiting factor in wheat productivity and poses a constant threat to food security (<xref ref-type="bibr" rid="ref-25">Hassan et al., 2021</xref>). Climate change intensifies abiotic stresses such as heat and cold, which reduces crop production (<xref ref-type="bibr" rid="ref-17">Ding, Shi &amp; Yang, 2019</xref>; <xref ref-type="bibr" rid="ref-26">Hussain et al., 2018</xref>). Cold stress is a major abiotic stress, in which plant experiences lower temperatures ranging from 0 °C to 15 °C (<xref ref-type="bibr" rid="ref-66">Solanke &amp; Sharma, 2008</xref>; <xref ref-type="bibr" rid="ref-48">Miura &amp; Furumoto, 2013</xref>). During cold stress, the plant produces reactive oxygen species (ROS) that damage the macromolecules and ultimately disrupt cellular homeostasis (<xref ref-type="bibr" rid="ref-70">Suzuki &amp; Mittler, 2006</xref>; <xref ref-type="bibr" rid="ref-60">Ruelland et al., 2009</xref>; <xref ref-type="bibr" rid="ref-22">Gill &amp; Tuteja, 2010</xref>). Wheat is cultivated during the winter season in temperate regions and 85% of its area endures cold stress (<xref ref-type="bibr" rid="ref-25">Hassan et al., 2021</xref>).</p>
+         <p>Different methods have been used to deal with cold stress, such as sprinkler irrigation, wind machines, and heaters (<xref ref-type="bibr" rid="ref-55">Poling, 2008</xref>). Chemical fertilizers are usually used to enhance crop production and mitigate plant stresses, but these fertilizers jeopardize environmental sustainability (<xref ref-type="bibr" rid="ref-67">Srivastav, 2020</xref>). Biofertilizers are based upon plant-beneficial bacteria that just like the chemical fertilizers, enhance soil fertility and nutrient availability for plants but do not harm the environment (<xref ref-type="bibr" rid="ref-1">Adesemoye, Torbert &amp; Kloepper, 2009</xref>; <xref ref-type="bibr" rid="ref-49">Morcillo &amp; Manzanera, 2021</xref>). These microbes in the rhizosphere facilitate plants to cope with biotic and abiotic stresses (<xref ref-type="bibr" rid="ref-14">Dai et al., 2020</xref>) by upregulating the expression of stress-responsive genes (<xref ref-type="bibr" rid="ref-7">Berendsen, Pieterse &amp; Bakker, 2012</xref>; <xref ref-type="bibr" rid="ref-6">Bakker et al., 2018</xref>). Rhizospheric microorganisms such as <italic>Pseudomonas</italic>, <italic>Bradyrhizobium japonicum</italic>, and <italic>Bacillus</italic> are known to display abiotic stress tolerance and rescue stressed plants (<xref ref-type="bibr" rid="ref-62">Seneviratne et al., 2017</xref>; <xref ref-type="bibr" rid="ref-39">Ma et al., 2020</xref>; <xref ref-type="bibr" rid="ref-37">Lalay, Ullah &amp; Ahmed, 2022</xref>). The wheat rhizosphere is a niche for many bacteria, including <italic>Paenibacillus, Bacillus subtilis, Bacillus thuringiensis, Arthrobacter nicotianae, Micrococcus luteus, Bacillus amyloliquefaciens, Pantoea, Pseudomonas, Methylobacterium, Agrobacterium</italic> (<xref ref-type="bibr" rid="ref-8">Bhattacharyya &amp; Jha, 2012</xref>; <xref ref-type="bibr" rid="ref-76">Verma &amp; Suman, 2018</xref>; <xref ref-type="bibr" rid="ref-41">Mahapatra et al., 2020</xref>; <xref ref-type="bibr" rid="ref-80">Wang et al., 2021</xref>; <xref ref-type="bibr" rid="ref-85">Zahra et al., 2023</xref>). Microbial diversity and plant growth-promoting traits of microbes are severely affected by adverse environmental conditions such as cold stress (<xref ref-type="bibr" rid="ref-86">Zeng, Wu &amp; Wen, 2016</xref>; <xref ref-type="bibr" rid="ref-75">Vega-Celedon et al., 2021</xref>). Low temperature cause ice crystallization in the microbial membrane, affecting the activity of essential enzymes reducing their activities to 2–4 folds for every 10 °C decrease in the temperature (<xref ref-type="bibr" rid="ref-59">Rizvi et al., 2021</xref>). Moreover, plant growth-promoting characteristics such as phosphate solubilization, and IAA production also get influenced by low temperatures, affecting the plant–microbe symbiosis which further decreases the plant growth rate (<xref ref-type="bibr" rid="ref-44">Meena et al., 2015</xref>).</p>
+         <p>Psychrotolerant bacteria, on the other hand, are the bacterial communities that thrive in low-temperature conditions (<xref ref-type="bibr" rid="ref-31">Jin, Wang &amp; Zhao, 2022</xref>). These bacteria prevent ice crystal formation in their membranes by synthesizing anti-freezing proteins, thereby regulating downstream processes (<xref ref-type="bibr" rid="ref-12">Cid et al., 2017</xref>). In addition, psychrotolerant bacteria can improve plant growth under cold stress conditions through nitrogen fixation, phosphate solubilization, and phytohormone production even at 4 °C (<xref ref-type="bibr" rid="ref-46">Mishra et al., 2011</xref>). Hence, the use of plant-beneficial psychrotolerant bacteria is promiscuous for optimizing agricultural production while mitigating the negative effects of cold stress (<xref ref-type="bibr" rid="ref-3">Adhikari et al., 2021</xref>). Psychrotolerant bacteria belonging to the genera <italic>Pseudomonas, Burkholderia, Bradyrhizobium, Azospirrilum, Bacillus, and Raoultella</italic> demonstrate the potential to increase plant growth under cold stress (<xref ref-type="bibr" rid="ref-87">Zhang et al., 2003</xref>; <xref ref-type="bibr" rid="ref-4">Ait Barka, Nowak &amp; Clément, 2006</xref>; <xref ref-type="bibr" rid="ref-47">Mishra et al., 2009</xref>; <xref ref-type="bibr" rid="ref-74">Turan et al., 2013</xref>).</p>
+         <p>Our hypothesis was that psychrotolerant bacteria may play a significant role in developing a cold-tolerant biofertilizer for wheat. In this study, psychrotolerant bacteria were isolated from wheat roots, identified phylogenetically, and evaluated for their potential to promote plant growth and mitigate cold stress.</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials &amp; Methods</title>
+         <sec>
+            <title>Sample collection and isolation of psychrotolerant bacteria</title>
+            <p>One-month-old wheat, cultivar Akbar-19, plants were collected in February 2022 from a field located in Rawalakot (GPS coordinates at 25°4′26.7456″N and 68°45′47.4912″E), Azad Jammu and Kashmir (AJK). Samples were transported to the Plant Biotechnology Lab of Government College University Faisalabad, Pakistan, and stored at 4 °C. Isolation of rhizobacteria was performed under aseptic conditions according to <xref ref-type="bibr" rid="ref-72">Tsegaye et al. (2019)</xref> with some modifications. Roots were washed with sterilized water to detach the adhering soil. Roots (1 g) were separated from the plant and transferred to the test tube containing nine mL of saline solution (0.85% NaCl). Tubes were vortexed to remove bacteria from the root surface and serially diluted up to 10<sup>−5</sup>. An aliquot of 100 µL from each dilution was spread on the King’s B media (Peptone 20 g L<sup>−1</sup>, K<sub>2</sub>HPO<sub>4</sub> 1.5 g L<sup>−1</sup>, MgSO<sub>4</sub>.7H<sub>2</sub>O 1.5 g L<sup>−1</sup>, glycerol 10 g L<sup>−1</sup>, agar 15 g L<sup>−1</sup>) and incubated at 4 ± 2 °C for 48 h (<xref ref-type="bibr" rid="ref-35">King, Ward &amp; Raney, 1954</xref>). Bacterial colonies showing different morphologies were selected and purified by sub-culturing on fresh King’s B media plates (<xref ref-type="bibr" rid="ref-47">Mishra et al., 2009</xref>).</p>
+         </sec>
+         <sec>
+            <title>Bacterial temperature tolerance assay</title>
+            <p>The bacterial isolates were tested for their ability to grow at different temperatures. Isolates were streaked on to King’s B media plates and incubated at each of the temperatures (−8 °C, −4 °C, 0 °C, 4 °C, 8 °C, 12 °C, 16 °C, 20 °C, 24 °C, 28 °C, 32 °C and 36 °C) for 48 h. Growth of bacteria was recorded as arbitrary values high (+++), moderate (++), low (+) or negative (-) by visual observation (<xref ref-type="bibr" rid="ref-69">Subramanian et al., 2016</xref>; <xref ref-type="bibr" rid="ref-25">Hassan et al., 2021</xref>).</p>
+         </sec>
+         <sec>
+            <title>Screening of plant growth-promoting characteristics</title>
+            <sec>
+               <title>Phosphate solubilization</title>
+               <p>The phosphate solubilization ability of bacterial isolates was determined by inoculating a single colony of each bacterial isolate on Pikovskaya’s agar plate containing tricalcium phosphate (<xref ref-type="bibr" rid="ref-53">Pikovskaya, 1948</xref>) and incubated at 4 ± 2 °C and 28 ± 2 °C for 7 days. After incubation, the plates were observed for clear zone formation around the colonies, indicating phosphate solubilization, and the phosphate solubilization index (PSI) was calculated according to the below-mentioned formula (<xref ref-type="bibr" rid="ref-51">Nacoon et al., 2020</xref>).</p>
+               <p>PSI = diameter of halo zone/diameter of colony</p>
+            </sec>
+            <sec>
+               <title>Indole-3-acetic acid (IAA) production</title>
+               <p>Indole-3-acetic acid (IAA) production was estimated by Salkowski’s calorimetric method with some modifications. Bacterial cultures were grown in King’s B broth, supplemented with tryptophan, and incubated at 4 ± 2 °C and 28 ± 2 °C for 3 days. After incubation, the bacterial cultures were centrifuged at 10,000 rpm for 10 min to remove bacterial cells, and the supernatant was collected. A total of 1 mL of the supernatant was mixed with 2 mL of Salkowski’s reagent (2 mL 0.5 M ferric chloride and 100 mL 35% (w/w) perchloric acid) and incubated at room temperature for 25 min in the dark. Pink coloration indicated the IAA production. The absorbance was recorded at 530 nm using a spectrophotometer and the amount of IAA was quantified by comparing it with the standard curve (<xref ref-type="bibr" rid="ref-50">Myo et al., 2019</xref>; <xref ref-type="bibr" rid="ref-27">Hyder et al., 2020</xref>).</p>
+            </sec>
+            <sec>
+               <title>Nitrogen fixation</title>
+               <p>The nitrogen-fixing ability of the isolates was determined by streaking the single colony on nitrogen-free media (mannitol 20 g L<sup>−1</sup>, K<sub>2</sub>HPO<sub>4</sub> 0.2 g L<sup>−1</sup>, NaCl 0.2 g L<sup>−1</sup>, MgSO<sub>4</sub> 0.2 g L<sup>−1</sup>, K<sub>2</sub>SO<sub>4</sub> 0.1 g L<sup>−1</sup>, CaCO<sub>3</sub> 5.0 g L<sup>−1</sup>, agar 20 g L<sup>−1</sup>) and incubated at 4 ± 2 °C and 28 ± 2 °C for 3 days. The growth of all bacteria was recorded as arbitrary values strong (+++), moderate (++), weak (+), or negative indicating their ability to fix nitrogen (<xref ref-type="bibr" rid="ref-45">Mirza &amp; Rodrigues, 2012</xref>).</p>
+            </sec>
+            <sec>
+               <title>Zinc solubilization</title>
+               <p>The zinc solubilization ability of the bacterial isolates was checked by inoculating the individual colonies on tris-minimal media supplemented with ZnO and ZnCO<sub>3</sub> separately as a zinc source. Plates were incubated at 4 ± 2 °C and 28 ± 2 °C for 7 days in the dark. The formation of a halo zone around the bacterial colonies indicates the zinc solubilization ability of the bacterial isolates. The zinc solubilization efficiency (ZSE) was calculated according to the below-mentioned formula (<xref ref-type="bibr" rid="ref-58">Rezaeiniko, Enayatizamir &amp; Norouzi Masir, 2022</xref>).</p>
+               <p>ZSE = (diameter of halo zone/diameter of the colony) ×100.</p>
+            </sec>
+            <sec>
+               <title>Cellulase production assay</title>
+               <p>Cellulase activity of bacterial isolates was measured by using carboxymethylcellulose (10 g L<sup>−1</sup>) agar plates (MgSO<sub>4</sub> 0.25 g L<sup>−1</sup>, K<sub>2</sub>HPO<sub>4</sub> 10 g L<sup>−1</sup>, yeast extract 5 g L<sup>−1</sup>, peptone 5 g L<sup>−1</sup>, gelatin 2 g L<sup>−1</sup>, cellulose 10 g L<sup>−1</sup>, agar 20 g L<sup>−1</sup>). Bacterial cultures were spot inoculated on the center of the carboxymethylcellulose agar plates and incubated at 4 ± 2 °C and 28 ± 2 °C for 7 days (<xref ref-type="bibr" rid="ref-28">Islam &amp; Roy, 2018</xref>). After incubation, plates were stained with Congo red dye (0.2%), incubated at room temperature for 15 min, and washed with 1 M NaCl solution. A clear zone around the colonies was observed and the cellulase activity index (CAI) of bacterial isolates was calculated according to the below-mentioned formula (<xref ref-type="bibr" rid="ref-68">Suárez-Moreno et al., 2019</xref>).</p>
+               <p>CAI = diameter of halo zone/diameter of the colony</p>
+            </sec>
+            <sec>
+               <title>Pectinase production assay</title>
+               <p>The pectinase activity of the bacterial isolates was assessed by spotting bacterial colonies on the center of pectin (10 g L<sup>−1</sup>) agar plates (KCl 1 g L<sup>−1</sup>, NaNO<sub>3</sub> 1 g L<sup>−1</sup>, MgSO<sub>4</sub> 0.5 g L<sup>−1</sup>, K<sub>2</sub>HPO<sub>4</sub> 1 g L<sup>−1</sup>, pectin 10 g L<sup>−1</sup>, yeast extract 0.5 g L<sup>−1</sup>, agar 20 g L<sup>−1</sup>) and incubated at 4 ± 2 °C and 28 ± 2  °C for 7 days (<xref ref-type="bibr" rid="ref-16">Devi et al., 2022</xref>). After incubation, the plates were stained with 1% iodine solution for 15 min and washed with sterilized water. A clear zone around the colonies was observed and the pectinase activity index (PAI) of bacterial isolates was calculated according to the below-mentioned formula (<xref ref-type="bibr" rid="ref-72">Tsegaye et al., 2019</xref>).</p>
+               <p>PAI = diameter of halo zone/diameter of the colony</p>
+            </sec>
+            <sec>
+               <title>Biofilm formation assay</title>
+               <p>Biofilm formation was tested using a microtiter plate assay (<xref ref-type="bibr" rid="ref-34">Kasim et al., 2016</xref>). Bacterial cultures were grown in King’s B broth medium up to 2 optical density at 600 nm (OD<sub>600 nm</sub>) and centrifuged at 6,000 rpm for 2 min. The supernatant was discarded and the pellet carrying bacterial cells was washed with sterile water. Bacterial cells were resuspended in King’s B broth and diluted to an OD<sub>600 nm</sub> of 0.2. An aliquot of 150 µL of each bacterial isolate was added to the 96-well polyvinyl chloride (PVC) plate in six replications and incubated at 28 ± 2 °C for 48 h. Bacterial cultures were removed and wells were washed with sterile water. Wells were stained with 150 µL of crystal violet (0.001%) for 15 min. The stain was removed with a pipette, followed by washing with sterile water and air drying. Absorbed dye in the wells was solubilized by adding 150 µL of 95% ethanol. Absorbance was measured at OD<sub>570 nm</sub> in a microtiter plate reader, which presents the quantity of biofilm formation (<xref ref-type="bibr" rid="ref-30">Jhuma et al., 2021</xref>).</p>
+            </sec>
+            <sec>
+               <title>Plant-inoculation experiment under controlled conditions</title>
+               <p>Controlled-conditions experiment was performed on the wheat cultivar Akbar-19 to test six treatments (WR15, WR16, WR18, WR22, WR24, and water as a control) with three replicates in a completely randomized design (CRD). Seeds were surface sterilized with 70% ethanol for 1 min and sodium hypochlorite (3%) for 30 s, followed by washing with sterile water. Sterilized seeds were placed on wet filter paper in a petri plate and incubated at room temperature for 48 h in the dark. Uniform-sized germinated seeds were transferred to the pots containing sterilized soil. Bacterial cultures were grown in King’s B media and centrifuged at 6,000 rpm for 10 min. The bacterial pellets of each culture was resuspended in sterile water to obtain an OD<sub>600</sub><sub>nm</sub> of 0.5 (<xref ref-type="bibr" rid="ref-47">Mishra et al., 2009</xref>). After one week of germination, 100 µL of inoculum from each bacterial treatment was applied to the root of the plant and placed in a growth chamber at 15 ± 2 °C during the day and 10 ± 2 °C at night. Plants were watered with sterile water and Hoagland’s solution on alternative days. After six weeks of inoculation, agronomical parameters such as shoot fresh weight, root fresh weight, shoot dry weight, root dry weight, root length, and shoot length of the plants were recorded and statistically analyzed (<xref ref-type="bibr" rid="ref-71">Tounsi-Hammami et al., 2022</xref>). Statistical analysis was done using ANOVA and LSD (<italic>p</italic> value = 0.05) using CoStat software (<xref ref-type="bibr" rid="ref-9">Cardinali &amp; Nason, 2013</xref>).</p>
+            </sec>
+         </sec>
+         <sec>
+            <title>Phylogenetic analysis of psychrotolerant bacteria</title>
+            <p>Phylogenetic identification of potential bacterial isolates was performed by 16S rRNA gene amplification using universal primers fD1 (5′-AGAGTTTGATCCTGGCTCAG-3′) and rD1 (5′–AAGGAGGTGATCCAGCC-3′) (<xref ref-type="bibr" rid="ref-81">Weisburg et al., 1991</xref>). A total of 50 µL PCR mixture contained Taq polymerase buffer (10X) 5 µL, dNTPs (2 mM) 5 µL, primers (10 mM) 2 µL each, MgCl<sub>2</sub> (25 mM) 4 µL, water 23. 4 µL, Taq polymerase (5 U µL<sup>−1</sup>) 0.6 µL and template DNA 4 µL). The PCR mixture was placed in the thermocycler under the thermal profile of initial denaturation at 95 °C for 5 min followed by 30 cycles of denaturation at 95 °C for 1 min, annealing at 55 °C for 50 s, extension at 72 °C for 1 min 40 s and final extension at 72 °C for 5 min. Amplification of the 16S rRNA gene was confirmed on 1% agarose gel. Amplified PCR products were purified using the Thermo Scientific GeneJet PCR Purification Kit (cat # K0701) and Sanger sequenced using services of Macrogen, Korea. After sequencing, contigs were formed and sequences were compared using the NCBI BLAST tool (<xref ref-type="bibr" rid="ref-5">Altschul et al., 1990</xref>). The phylogenetic tree was constructed with authenticated sequences retrieved from the database by the maximum likelihood method using Mega 11 software with 1,000 bootstrap values and a pairwise identity chart was also constructed using Sequence Demarcation Tool (SDT) v.1.2 (<xref ref-type="bibr" rid="ref-36">Kumar, Stecher &amp; Tamura, 2016</xref>; <xref ref-type="bibr" rid="ref-52">Noori et al., 2021</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Isolation of psychrotolerant bacteria</title>
+            <p>Different bacterial colonies with varying colors, shapes, edges, and sizes were obtained on the King’s B media agar plates. A total of 10 bacteria were selected based on colony morphology. The morphological characteristics of colonies were highly variable, as shown in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16399/table-1</object-id><label>Table 1</label><caption>
+                  <title>Colony morphology of wheat rhizobacteria.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>Name</th>
+                           <th>Color</th>
+                           <th>Appearance</th>
+                           <th>Edges</th>
+                           <th>Size</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>WR15</td>
+                           <td>White</td>
+                           <td>Gummy</td>
+                           <td>Round</td>
+                           <td>Large</td>
+                        </tr>
+                        <tr>
+                           <td>WR16</td>
+                           <td>Pale-yellow</td>
+                           <td>Non-gummy</td>
+                           <td>round</td>
+                           <td>Small</td>
+                        </tr>
+                        <tr>
+                           <td>WR17</td>
+                           <td>Red</td>
+                           <td>Non-gummy</td>
+                           <td>Irregular</td>
+                           <td>Very small</td>
+                        </tr>
+                        <tr>
+                           <td>WR18</td>
+                           <td>Yellow</td>
+                           <td>Flat</td>
+                           <td>Irregular</td>
+                           <td>Very small</td>
+                        </tr>
+                        <tr>
+                           <td>WR19</td>
+                           <td>Off-white</td>
+                           <td>Flat</td>
+                           <td>Irregular</td>
+                           <td>Medium</td>
+                        </tr>
+                        <tr>
+                           <td>WR20</td>
+                           <td>White</td>
+                           <td>Gummy</td>
+                           <td>Round</td>
+                           <td>Small</td>
+                        </tr>
+                        <tr>
+                           <td>WR21</td>
+                           <td>Off-white</td>
+                           <td>Non-gummy</td>
+                           <td>Round</td>
+                           <td>Medium</td>
+                        </tr>
+                        <tr>
+                           <td>WR22</td>
+                           <td>Pale Yellow</td>
+                           <td>Non-gummy</td>
+                           <td>Irregular</td>
+                           <td>Large</td>
+                        </tr>
+                        <tr>
+                           <td>WR23</td>
+                           <td>White</td>
+                           <td>Non-gummy</td>
+                           <td>Round</td>
+                           <td>Small</td>
+                        </tr>
+                        <tr>
+                           <td>WR24</td>
+                           <td>Off-white</td>
+                           <td>Gummy</td>
+                           <td>Round</td>
+                           <td>Large</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Bacterial temperature tolerance assay</title>
+            <p>All the bacteria were tested for their temperature tolerance ability by assessing growth at different temperatures ranging from −8 to 36 °C. WR15, WR17, WR22, and WR24 were able to grow at −4 °C. WR16, WR19, WR20, WR22 and WR24 showed growth upto 36 °C. All the bacterial isolates showed growth from 4 °C to 32 °C. The bacterial growth at different temperatures is shown in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>. WR22 and WR24 showed growth at all temperatures, ranging from −4 to 36 °C.</p>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16399/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Bacterial growth at different temperatures ranging from −4 °C to 36 °C.</title>
+                  <p>Red lines present above 20 °C and blue lines present below 20 °C.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/fig-1.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Plant growth-promoting characteristics</title>
+            <sec>
+               <title>Phosphate solubilization</title>
+               <p>All the bacteria showed phosphate solubilization ability at 4 °C except WR23 with the PSI range of 1.11–1.91, where isolate WR24 showed maximum P-solubilization potential. At 28 °C, all bacterial isolates showed P-solubilization showing PSI index of 1.06–2.6 where isolate WR19 showed maximum P-solubilization potential. The P-solubilization ability of the bacteria at 4 °C and 28 °C is shown in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>.</p>
+               <fig id="fig-2">
+                  <object-id pub-id-type="doi">10.7717/peerj.16399/fig-2</object-id><label>Figure 2</label><caption>
+                     <title>Biochemical characteristics of rhizospheric bacteria at 4 °C and 28 °C.</title>
+                     <p>Tested bacteria showed phosphate solubilization (A), indole-3-acitic acid production (B), nitrogen fixation (C), cellulase production (D), pectinase production (E), zinc oxide solubilization (F), zinc carbonate solubilization (G) and biofilm formation (H) [<italic>n</italic> = 3].</p>
+                  </caption>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/fig-2.png"/>
+               </fig>
+               <fig id="fig-3">
+                  <object-id pub-id-type="doi">10.7717/peerj.16399/fig-3</object-id><label>Figure 3</label><caption>
+                     <title>Biochemical characteristics of potential rhizospheric bacteria at 4 °C and 28 °C.</title>
+                     <p>The most potential isolates for each test are presented.</p>
+                  </caption>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/fig-3.png"/>
+               </fig>
+            </sec>
+            <sec>
+               <title>Indole-3-acetic acid production</title>
+               <p>IAA production ability of bacterial isolates WR15, WR17, WR18, WR19, WR20, WR22 and WR24 at 4 °C ranged from 0–4.28 µg mL<sup>−1</sup>, where isolate R24 showed the highest IAA production. At 28 °C, all the bacteria showed IAA production with the range of 0.62–7 µg mL<sup>−1</sup> where, WR 24 showed the highest IAA production. The IAA production ability of all the bacterial isolates is shown in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>.</p>
+            </sec>
+            <sec>
+               <title>Nitrogen fixation</title>
+               <p>Bacterial isolates, WR15, WR16, WR17, WR18, WR19, WR22 and WR24, showed the ability to fix nitrogen at 4 °C and maximum nitrogen fixation was shown by WR22. All the bacteria showed nitrogen fixation at 28 °C and maximum nitrogen fixation (+++) was demonstrated by WR18. The nitrogen fixation ability of the bacterial isolates is shown in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>.</p>
+            </sec>
+            <sec>
+               <title>Zinc oxide and zinc carbonate solubilization</title>
+               <p>In the zinc oxide solubilization assay, only WR24 showed halo zone formation with an index of 2.5 at 4 °C. WR16, WR17, WR18, WR19, WR20, and WR24 showed zinc oxide solubilization at 28 °C ranging 1.43–3.5 index, in which WR19 showed maximum zinc oxide solubilization at 28 °C by producing 3.5 index. In zinc carbonate solubilization assay, WR15, WR16, WR18, WR21, and WR23 showed Zn-solubilization at 4 °C with an index ranging from 1.27–3.2 while the isolates WR15, WR16, WR17, WR18, WR20, WR22 and WR24 showed Zn-carbonate solubilization at 28 °C with ZSI 1.78–4.3, where WR20 showed maximum zinc solubilization. The zinc oxide and zinc carbonate solubilization abilities of the bacteria are shown in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>.</p>
+            </sec>
+            <sec>
+               <title>Cellulase production</title>
+               <p>Only one bacterial isolate, WR22, showed cellulase production ability at 4 °C with an activity index of 1.3. At 28 °C, WR15, WR18, WR19, WR20 showed cellulase production with an activity index of 1.17–2.1. The cellulase activity index is presented in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>.</p>
+            </sec>
+            <sec>
+               <title>Pectinase production</title>
+               <p>Pectinase production ability was detected in WR15, WR17, WR20, WR21, WR22, WR23 and WR24 at 4 °C with and index of 1.12–3.2. At 28 °C, only one bacterial isolate, WR22, showed pectinase production with an index of 2.3. The pectinase production is shown in <xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>.</p>
+            </sec>
+            <sec>
+               <title>Biofilm formation</title>
+               <p>All the bacteria showed biofilm formation (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) at 4 °C and 28 °C ranging from 0.76–1.37 OD at 4 °C 0.23–1.31 OD at 28 °C, where WR24 showed maximum biofilm formation ability.</p>
+            </sec>
+         </sec>
+         <sec>
+            <title>Plant-inoculation experiment under controlled conditions</title>
+            <p>The inoculated plants grown under controlled conditions were healthy. Inoculation with bacterial isolates WR22 and WR24 showed a significant increase in shoot length compared to non-inoculated control plants (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). WR24-inoculated plants showed a significant increase in root length. All bacterial treatments showed a significant increase in shoot fresh weight compared to control. In the case of shoot dry weight, WR24 showed a significant increase compared to the control. WR15, WR16, WR22, and WR24 showed a significant increase in root fresh weight. Whereas WR15, WR22, and WR24 showed a significant increase in root dry weight compared to control. Overall, WR24 showed maximum potential to increase shoot length, root length, shoot fresh weight, and shoot dry weight by 31%, 23%, 81%, and 58%, respectively, compared to the control. Inoculation with bacterial isolate WR22 showed the maximum increase in root fresh weight and root dry weight by 105% and 98%, respectively, compared to the control. WR18 showed negative effects on root fresh and dry weight by reducing 23.3% root fresh weight and 41% root dry weight as compared to the control. The effect of different treatments on agronomical parameters of wheat is shown in <xref ref-type="table" rid="table-2">Table 2</xref>.</p>
+            <fig id="fig-4">
+               <object-id pub-id-type="doi">10.7717/peerj.16399/fig-4</object-id><label>Figure 4</label><caption>
+                  <title>Effect of potential bacteria on wheat growth under controlled conditions.</title>
+                  <p>WR24 showed maximum potential to improve shoot length after 4 weeks of inoculation.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/fig-4.png"/>
+            </fig>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.16399/table-2</object-id><label>Table 2</label><caption>
+                  <title>Effect of potential bacteria on wheat growth under controlled conditions.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Isolates</bold></th>
+                           <th><bold>Shoot length (cm)</bold></th>
+                           <th><bold>Root length (cm)</bold></th>
+                           <th><bold>Shoot fresh weight (mg)</bold></th>
+                           <th><bold>Shoot dry weight (mg)</bold></th>
+                           <th><bold>Root fresh weight (mg)</bold></th>
+                           <th><bold>Root dry weight (mg)</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Control</td>
+                           <td>16.3 ± 0.94<sup>c</sup></td>
+                           <td>6.9 ± 0.55<sup>b</sup></td>
+                           <td>82.2 ± 6.5<sup>c</sup></td>
+                           <td>17 ± 1.28<sup>b</sup></td>
+                           <td>52.3 ± 1.58<sup>d</sup></td>
+                           <td>7.4 ± 0.58<sup>c</sup></td>
+                        </tr>
+                        <tr>
+                           <td>WR15</td>
+                           <td>18.3 ± 1.09<sup>bc</sup></td>
+                           <td>7.5 ± 0.5<sup>ab</sup></td>
+                           <td>129.9 ± 6.71<sup>ab</sup></td>
+                           <td>21.2 ± 1.68<sup>ab</sup></td>
+                           <td>91.8 ± 8.3<sup>b</sup></td>
+                           <td>12.9 ± 0.97<sup>b</sup></td>
+                        </tr>
+                        <tr>
+                           <td>WR16</td>
+                           <td>18.4 ± 0.55<sup>bc</sup></td>
+                           <td>8.4 ± 0.78<sup>ab</sup></td>
+                           <td>111.4 ± 7.93<sup>b</sup></td>
+                           <td>19.7 ± 3.5<sup>ab</sup></td>
+                           <td>76.7 ± 6.9<sup>c</sup></td>
+                           <td>9.9 ± 0.59<sup>c</sup></td>
+                        </tr>
+                        <tr>
+                           <td>WR18</td>
+                           <td>16.1 ± 0.49<sup>c</sup></td>
+                           <td>7.6 ± 0.53<sup>ab</sup></td>
+                           <td>122.6 ± 8.7<sup>b</sup></td>
+                           <td>22.3 ± 3.57<sup>ab</sup></td>
+                           <td>40.1 ± 3.76<sup>d</sup></td>
+                           <td>4.4 ± 0.45<sup>d</sup></td>
+                        </tr>
+                        <tr>
+                           <td>WR22</td>
+                           <td>19.1 ± 1.18<sup>ab</sup></td>
+                           <td>8.2 ± 0.48<sup>ab</sup></td>
+                           <td>145.5 ± 7.2<sup>a</sup></td>
+                           <td>24.2 ± 3.36<sup>ab</sup></td>
+                           <td>107.6 ± 6.95<sup>a</sup></td>
+                           <td>22.1 ± 1.85<sup>a</sup></td>
+                        </tr>
+                        <tr>
+                           <td>WR24</td>
+                           <td>21.4 ± 0.89<sup>a</sup></td>
+                           <td>8.5 ± 0.58<sup>a</sup></td>
+                           <td>148.4 ± 7.06<sup>a</sup></td>
+                           <td>26.9 ± 1.25<sup>a</sup></td>
+                           <td>86.9 ± 3.49<sup>bc</sup></td>
+                           <td>15.3 ± 1.35<sup>b</sup></td>
+                        </tr>
+                        <tr>
+                           <td>LSD</td>
+                           <td>2.36</td>
+                           <td>1.48</td>
+                           <td>19.48</td>
+                           <td>7.34</td>
+                           <td>14.95</td>
+                           <td>2.87</td>
+                        </tr>
+                        <tr>
+                           <td>ANOVA significance</td>
+                           <td>***</td>
+                           <td>ns</td>
+                           <td>***</td>
+                           <td>ns</td>
+                           <td>***</td>
+                           <td>***</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+               <table-wrap-foot><fn id="table-2fn"><p><bold>Notes.</bold></p></fn><fn id="table-2fn1" fn-type="other"><p>Each value represents mean (<italic>n</italic> = 6) ± standard error.</p></fn><fn id="table-2fn2" fn-type="other"><p>Values followed by the different letters in same column indicate significant difference and followed by same letters are not significantly different.</p></fn><fn id="table-2fn3" fn-type="other"><p>LSD and ANOVA tests were performed using CoStat software. LSD (<italic>p</italic> value = 0.05) indicates least significant difference, (ns) indicates no significant, (*) indicates significant, (**) indicates moderately significant, (***) indicates highly significant.</p></fn></table-wrap-foot>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Phylogenetic analysis</title>
+            <p>Amplified 1,500 bp product of 16S rRNA gene from bacteria WR22 and WR24 were sequenced commercially and sequence contigs were compared with database sequences using the NCBI BLAST tool. 16S rRNA gene from WR22 showed maximum similarity (99.34%) with <italic>Cupriavidus campinensis</italic> while WR24 with <italic>Enterobacter ludwigii</italic> (99.53%). Sequences were submitted to GenBank under the accession numbers <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=OQ505159">OQ505159</ext-link> for WR22 and <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=OQ505160">OQ505160</ext-link> for WR24. The phylogenetic tree was constructed using closely related authenticated sequences of <italic>Cupriavidus</italic> and <italic>Enterobacter species</italic>, where <italic>Methanoregula boonei</italic> was used as an outgroup. The tree was constructed based on the similarity of the 16S rRNA gene sequence of the species. Bacterial isolate WR22 was clustered in the neighborhood of <italic>Cupriavidus campinensis</italic> WS2, and bacterial isolate WR24 was clustered in the neighborhood of <italic>Enterobacter ludwigii</italic> EN-119T in the phylogenetic tree. WR24 was clustered in clade 1 which includes all the species of <italic>Enterobacter.</italic> WR22 was clustered in clade 2 which includes all the species of <italic>Cupriavidus.</italic> Each clade includes the species of the same genera because the species of the same genera have a maximum similarity of 16S rRNA gene sequence (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). A pairwise identity chart was constructed using the SDT tool and the color-coded chart indicates the percentage identity between the species ranging from 80 to 100% (<xref ref-type="fig" rid="fig-6">Fig. 6</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Climate change is one of the most crucial problems worldwide and a major threat to food security (<xref ref-type="bibr" rid="ref-19">FAO, 2020</xref>). Cold stress exerts negative effects on the vegetative growth of wheat and ultimately results in yield losses affecting 85% of wheat cultivation annually (<xref ref-type="bibr" rid="ref-25">Hassan et al., 2021</xref>). Though cold tolerance can be induced in plants using genetic engineering tools, the process is quite time-consuming, tricky, and laborious. On the other hand, the use of plant growth-promoting rhizobacteria (PGPR) to rescue cold-affected plants is a quite simple, effective, and eco-friendly technology (<xref ref-type="bibr" rid="ref-21">García et al., 2017</xref>).</p>
+         <p>Numerous studies have demonstrated that psychrotolerant PGPR isolated from plants growing in cold regions has the potential to upregulate cold-tolerance mechanisms in plants such as wheat, grapevine, canola, tomato <italic>etc</italic>. (<xref ref-type="bibr" rid="ref-10">Cheng, Park &amp; Glick, 2007</xref>; <xref ref-type="bibr" rid="ref-46">Mishra et al., 2011</xref>; <xref ref-type="bibr" rid="ref-77">Verma et al., 2015</xref>; <xref ref-type="bibr" rid="ref-69">Subramanian et al., 2016</xref>; <xref ref-type="bibr" rid="ref-64">Singh &amp; Khanna, 2017</xref>). In this study, ten cold-tolerant bacteria were isolated from wheat rhizosphere. Isolation was carried out at 4 °C considering that bacteria present in the sample are adapted to grow at low temperatures. Our results are in agreement with previous studies showing that bacteria can tolerate different temperatures at 4 °C, 5 °C, 8 °C 15 °C, 16 °C, 20 °C, and 28 °C (<xref ref-type="bibr" rid="ref-46">Mishra et al., 2011</xref>; <xref ref-type="bibr" rid="ref-69">Subramanian et al., 2016</xref>; <xref ref-type="bibr" rid="ref-83">Yarzábal et al., 2018</xref>). Later, the bacteria were tested for their ability to grow at extremely low temperatures (−4 °C). Four bacteria were efficient enough to show growth even at −4 °C. Such extreme cold temperature conditions develop in many wheat cultivation areas of the world (<xref ref-type="bibr" rid="ref-20">Frederiks et al., 2015</xref>; <xref ref-type="bibr" rid="ref-42">Majeed et al., 2015</xref>; <xref ref-type="bibr" rid="ref-25">Hassan et al., 2021</xref>). <xref ref-type="bibr" rid="ref-44">Meena et al. (2015)</xref> isolated PGPR from peas surviving at 5 °C.</p>
+         <fig id="fig-5">
+            <object-id pub-id-type="doi">10.7717/peerj.16399/fig-5</object-id><label>Figure 5</label><caption>
+               <title>Phylogenetic tree based on 16S rRNA gene sequencing of potential bacteria using neighbor-joining method.</title>
+               <p>WR24 was positioned in clade 1 and WR22 in clade 2. Genbank accession numbers are written in paranthesis. The values at the nodes are bootstrap values which indicates the level of confidence on branch position. <italic>Methanoregula boonei</italic> 6A8 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/470467532">NR-074180</ext-link>), <italic>Enterobacter ludwigii</italic>_WR24 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/OQ505160">OQ505160</ext-link>), <italic>Enterobacter ludwigii</italic> GU-HP13 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/AJ853891">AJ853891</ext-link>), <italic>Enterobacter asburiae</italic> JM-458 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/1137647858">NR-145647</ext-link>), <italic>Enterobacter mori</italic> YIM (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/NR_146667">NR-146667</ext-link>), <italic>Enterobacter sichuanensis</italic> WCHECL1597 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/MG832788">MG832788</ext-link>), <italic>Enterobacter asburiae</italic> 1109-3-F2 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/LT160764">LT160764</ext-link>), <italic>Enterobacter cancerogenus</italic> MG 2693 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/Z96078.1">Z96078</ext-link>), <italic>Enterobacter huaxiensis</italic> 090008 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/MK049964">MK049964</ext-link>), <italic>Enterobacter cloacae</italic> DSM 30054T (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/400974214">HE978272</ext-link>), <italic>Enterobacter cloacae</italic> ATCC13047T (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/6562391">AJ251469</ext-link>), <italic>Enterobacter kobei</italic> CIP (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/265678688">NR-028993</ext-link>), <italic>Cupriavidus campinensis</italic>_WR22 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/OQ505159">OQ505159</ext-link>), <italic>Cupriavidus campinensis</italic> WS2 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/219857549">NR-025137</ext-link>), <italic>Cupriavidus necator</italic> N-1 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/NR_028766">NR-028766</ext-link>), <italic>Cupriavidus numazuensis</italic> TE26 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/343200276">NR-040963</ext-link>), <italic>Cupriavidus laharis</italic> 1263a (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/37514965">AB054961</ext-link>), <italic>Cupriavidus agave</italic> ASC-9842 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/HQ914245.1">HQ914245</ext-link>), <italic>Cupriavidus pauculus</italic> CIP (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/NR_116147">NR-116147</ext-link>), <italic>Cupriavidus plantarum</italic> ASC-64 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/HQ438086.1">HQ438086</ext-link>), <italic>Cupriavidus cauae</italic> MKL-01 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/MN453488.1">MN453488</ext-link>), <italic>Cupriavidus pampae</italic> CPDB6 (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore/FN430567.1">FN430567</ext-link>).</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/fig-5.png"/>
+         </fig>
+         <fig id="fig-6">
+            <object-id pub-id-type="doi">10.7717/peerj.16399/fig-6</object-id><label>Figure 6</label><caption>
+               <title>Pairwise identity chart based on 16S rRNA gene sequences of potential bacteria using SDT.</title>
+               <p>WR24 showed 99.9% similarity with <italic>Enterobacter ludwigii</italic> and WR22 showed 99.78% similarity with <italic>Cupriavidus campinesis</italic>.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16399/fig-6.png"/>
+         </fig>
+         <p>After the cold-tolerance assay, the bacteria were characterized for biochemical assays and plant growth promotion ability. PGPR have evolved direct and indirect mechanisms to increase plant growth (<xref ref-type="bibr" rid="ref-23">Glick, 1995</xref>). Direct mechanisms are involved in regulating the growth hormones and macronutrients that affect plant growth directly. This include phosphate solubilization, IAA production, nitrogen fixation, <italic>etc</italic>. Indirect mechanisms are generally happening outside the plant and bacteria increase plant growth indirectly by killing plant pathogens and increasing resistance against abiotic stress (<xref ref-type="bibr" rid="ref-29">Jha et al., 2011</xref>; <xref ref-type="bibr" rid="ref-24">Glick, 2014</xref>; <xref ref-type="bibr" rid="ref-56">Ramos-Solano, Barriuso &amp; Gutiérrez-Ma nero, 2008</xref>).</p>
+         <p>Phosphate is the second most important nutrient after nitrogen for plant growth. It helps in root hair development and improves plant growth (<xref ref-type="bibr" rid="ref-40">Ma et al., 2001</xref>). In this study, WR24 showed maximum phosphate solubilization at 4 °C, while WR15 showed maximum phosphate solubilization at 28 °C. Previously, <xref ref-type="bibr" rid="ref-69">Subramanian et al. (2016)</xref> isolated cold-tolerant phosphate solubilizing bacteria from agricultural soil and described their potential to increase tomato plant growth. Indole-3-acetic acid plays a very important role in root growth and development, which helps in the uptake of nutrients (<xref ref-type="bibr" rid="ref-61">Sabkia et al., 2021</xref>). In this study, it was found that the production of IAA was reduced at low temperatures as compared to mesophilic conditions. WR24 showed the highest production of IAA at 4 °C and 28 °C whereas WR24 showed a higher production of IAA at 28 °C. Similar results are demonstrated by <xref ref-type="bibr" rid="ref-46">Mishra et al. (2011)</xref> and <xref ref-type="bibr" rid="ref-43">Mantelin et al. (2006)</xref>. Nitrogen is the most important nutrient required for plant growth and a major constitute of genetic material. In this study, WR22 showed maximum nitrogen fixation ability at 4 °C, while WR18 exhibited the highest ability at 28 °C. The amount of nitrogen fixation was higher at 4 °C as compared to 28 °C. Our results are in agreement with <xref ref-type="bibr" rid="ref-11">Chumpitaz-Segovia et al. (2020)</xref>, who reported efficient nitrogen fixation of the <italic>Chenopodium quinoa</italic>-associated bacteria at 6 °C and 25 °C. Cellulase and pectinase are involved in the decomposition of dead organic matter present in the soil and enrich the soil nutrient profile (<xref ref-type="bibr" rid="ref-57">Reetha et al., 2014</xref>). In this study, maximum cellulase production at 4 °C was shown by WR22 while at 28 °C by WR20. Maximum pectinase production was observed by WR22 at both 4 °C and 28 °C, but the amount of pectinase was higher at 4 °C. <xref ref-type="bibr" rid="ref-82">Yadav et al. (2016)</xref> also explained that cold-tolerant <italic>Bacillus</italic> isolated from glacial lakes has the potential to produce cellulase and pectinase at 4 °C, which help to break cell wall of phytopathogens. Zinc is a micronutrient that helps in the synthesis of proteins, and nucleic acid metabolism and acts as a cofactor for auxin production (<xref ref-type="bibr" rid="ref-73">Tsonev &amp; Cebola Lidon, 2012</xref>). In this study, WR24 and WR23 showed the highest zinc solubilization efficiency at 4 °C while at 28 °C the maximum efficiency was shown by WR19 and WR20 with ZnO and ZnCO<sub>3</sub>, respectively. <xref ref-type="bibr" rid="ref-13">Costerousse et al. (2018)</xref> also isolated bacteria from wheat rhizosphere and reported zinc solubilization efficiency at 28 °C by using ZnO as a zinc source.</p>
+         <p>Biofilm formation is a major characteristic of bacteria to survive under stress conditions. In this study, WR24 showed the highest biofilm formation ability at both 4 °C and 28 °C. The amount of biofilm was higher at 4 °C as compared to 28 °C. Our results are in agreement with <xref ref-type="bibr" rid="ref-89">Zubair et al. (2019)</xref> who reported the biofilm formation potential of psychrotolerant <italic>Bacillus</italic> strains isolated from Tibetan prefectures at 4 °C and 28 °C.</p>
+         <p>Over all, <italic>in vitro</italic> testing revealed that each bacterium has an optimum temperature to perform its inherent character. Some bacteria perform a specific character at low temperatures while other bacteria do at high temperature (<xref ref-type="bibr" rid="ref-32">Junge, Cameron &amp; Nunn, 2019</xref>). WR22 and WR24 showed better plant growth-promoting characters at 4 °C because these bacteria are adapted to cold conditions and work efficiently at low temperatures. Overall production of plant growth-promoting characters was high at 28 °C as compared to 4 °C, which might be due to the reduction in bacterial metabolic activities at 4 °C. <xref ref-type="bibr" rid="ref-86">Zeng, Wu &amp; Wen (2016)</xref> and <xref ref-type="bibr" rid="ref-75">Vega-Celedon et al. (2021)</xref> also explained that plant growth-promoting efficiency is reduced at a lower temperature.</p>
+         <p>Phylogenetic analysis of potential bacteria revealed the maximum similarity of WR22 with <italic>Cupriavidus campinesis</italic> and WR24 with <italic>Enterobacter ludwigii</italic>. This is the first report on the novel association of <italic>C. campinesis</italic> and <italic>E. ludwigii</italic> in the wheat rhizosphere. Previously, <xref ref-type="bibr" rid="ref-54">Platero et al. (2016)</xref> reported <italic>Cupriavidus campinesis</italic> as a novel species isolated from root nodules of the Mimosa plant. Isolation of <italic>E. ludwigii</italic> from the rhizosphere of <italic>Lolium perenne</italic> and rice was reported in many studies (<xref ref-type="bibr" rid="ref-63">Shoebitz et al., 2009</xref>; <xref ref-type="bibr" rid="ref-38">Lee et al., 2019</xref>). <xref ref-type="bibr" rid="ref-15">Dayamrita &amp; Paul (2021)</xref> also isolated <italic>E. ludwigii</italic> from the roots of the medicinal plant <italic>Leucas aspera</italic>.</p>
+         <p>Inoculation of <italic>Cupriavidus campinesis</italic> WR22 and <italic>Enterobacter ludwigii</italic> WR24 exhibited the maximum potential to enhance plant growth parameters under controlled conditions. Previously, <xref ref-type="bibr" rid="ref-65">Singh et al. (2018)</xref> revealed that inoculation of <italic>E. ludwigii</italic> can increase wheat growth parameters under controlled conditions experiment. <xref ref-type="bibr" rid="ref-2">Adhikari et al. (2020)</xref> inoculated rice with <italic>E. ludwigii</italic>, which increased the plant growth parameter under cadmium stress. <xref ref-type="bibr" rid="ref-84">Zaballa, Golluscio &amp; Ribaudo (2020)</xref> reported that <italic>E. ludwigii</italic> improved the growth of barley up to 56%. <xref ref-type="bibr" rid="ref-33">Kang et al. (2021)</xref> also demonstrated that the inoculation of <italic>E. ludwigii</italic> increased the growth of alfalfa under cold-stress conditions. Recently, <xref ref-type="bibr" rid="ref-88">Zheng et al. (2023)</xref> reported that inoculation of <italic>Cupriavidus sp.</italic> increases plant growth parameters in <italic>Brassica napus</italic> plants. Taking all the findings together, it is suggested that <italic>C. campinesis</italic> WR22 and <italic>E. ludwigii</italic> WR24 have maximum PGP potential and could be used as cold-tolerant biofertilizers after field trials.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>Psychrotolerant PGPR have the potential to increase the growth of wheat in cold areas. In this study, ten bacteria were isolated and five efficient bacteria were subjected to plant assay based on the cold-tolerance and plant growth-promoting properties. Inoculations of WR22 and WR24 were found promising for wheat growth promotion. Phylogenetic analysis revealed the highest similarity of WR22 with <italic>Cupriavidus campinesis</italic> and WR24 with <italic>Enterobacter ludwigii</italic>. This is the first report on the novel association of <italic>C. campinesis</italic> WR22 and <italic>E. ludwigii</italic> WR24 in the wheat rhizosphere. Conclusively, <italic>C. campinesis</italic> WR22 and <italic>E. ludwigii</italic> WR24 could be used as cold-tolerant biofertilizers after field trials.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title>Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="image" mime-subtype="jpeg" xlink:href="https://peerj.com/articles/16399/FigureS1.jpg">
+            <object-id pub-id-type="doi">10.7717/peerj.16399/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Colony morphology of wheat rhizobacteria</title>
+               <p>Each bacteria was streaked on a single plate.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/16399/Data.xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.16399/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Supplementary data of bacterial growth at different temperatures, bacterial characterization and controlled conditions experiment</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>The authors are thankful to Dr. Asma Imran, Principal Scientist, Environmental Biotechnology Division, National Institute for Biotechnology and Genetic Engineering (NIBGE), Pakistan, for improving the write-up of manuscript.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>Mohsin Tariq is an Academic Editor for PeerJ.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Muhammad Abdullah</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Mohsin Tariq</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Syeda Tahseen Zahra</xref> performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Azka Ahmad</xref> conceived and designed the experiments, performed the experiments, prepared figures and/or tables, and approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Marriam Zafar</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-6" fn-type="con"><p><xref ref-type="contrib" rid="author-6">Shad Ali</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>DNA Deposition</title><fn id="addinfo-1"><p>The following information was supplied regarding the deposition of DNA sequences:</p>
+            <p>The data are available at GenBank: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=OQ505159">OQ505159</ext-link> for WR22 and <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=OQ505160">OQ505160</ext-link>.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-2"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw data are available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplementary File</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Adesemoye, Torbert &amp; Kloepper (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adesemoye</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Torbert</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Kloepper</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Plant growth-promoting rhizobacteria allow reduced application rates of chemical fertilizers</article-title>
+               <source>Microbial Ecology</source>
+               <volume>58</volume>
+               <issue>4</issue>
+               <fpage>921</fpage>
+               <lpage>929</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00248-009-9531-y</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Adhikari et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adhikari</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Khan</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Kang</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Adhikari</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Imran</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Jan</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>KM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>IJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Effect of silicate and phosphate solubilizing Rhizobacterium <italic>Enterobacter ludwigii</italic> GAK2 on <italic>Oryza sativa</italic> L. under cadmium stress</article-title>
+               <source>Journal of Microbiology and Biotechnology</source>
+               <volume>30</volume>
+               <issue>1</issue>
+               <fpage>118</fpage>
+               <pub-id pub-id-type="doi">10.4014/jmb.1906.06010</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Adhikari et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adhikari</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Jain</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Pandey</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Plant growth promotion at low temperature by phosphate-solubilizing <italic>Pseudomonas</italic> Spp. isolated from high-altitude Himalayan soil</article-title>
+               <source>Microbial Ecology</source>
+               <volume>82</volume>
+               <issue>3</issue>
+               <fpage>677</fpage>
+               <lpage>687</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00248-021-01702-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Ait Barka, Nowak &amp; Clément (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ait Barka</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Nowak</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Clément</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Enhancement of chilling resistance of inoculated grapevine plantlets with a plant growth-promoting <italic>rhizobacterium</italic>, Burkholderia <italic>phytofirmans</italic> strain PsJN</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>72</volume>
+               <issue>11</issue>
+               <fpage>7246</fpage>
+               <lpage>7252</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.01047-06</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Altschul et al. (1990)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Altschul</surname>
+                     <given-names>SF</given-names>
+                  </name>
+                  <name>
+                     <surname>Gish</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Miller</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Myers</surname>
+                     <given-names>EW</given-names>
+                  </name>
+                  <name>
+                     <surname>Lipman</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1990">1990</year>
+               <article-title>Basic local alignment search tool</article-title>
+               <source>Journal of Molecular Biology</source>
+               <volume>215</volume>
+               <issue>3</issue>
+               <fpage>403</fpage>
+               <lpage>410</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0022-2836(05)80360-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Bakker et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bakker</surname>
+                     <given-names>PA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pieterse</surname>
+                     <given-names>CM</given-names>
+                  </name>
+                  <name>
+                     <surname>de Jonge</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Berendsen</surname>
+                     <given-names>RL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>The soil-borne legacy</article-title>
+               <source>Cell</source>
+               <volume>172</volume>
+               <issue>6</issue>
+               <fpage>1178</fpage>
+               <lpage>1180</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.cell.2018.02.024</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Berendsen, Pieterse &amp; Bakker (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Berendsen</surname>
+                     <given-names>RL</given-names>
+                  </name>
+                  <name>
+                     <surname>Pieterse</surname>
+                     <given-names>CM</given-names>
+                  </name>
+                  <name>
+                     <surname>Bakker</surname>
+                     <given-names>PA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>The rhizosphere microbiome and plant health</article-title>
+               <source>Trends in Plant Science</source>
+               <volume>17</volume>
+               <issue>8</issue>
+               <fpage>478</fpage>
+               <lpage>486</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.tplants.2012.04.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Bhattacharyya &amp; Jha (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bhattacharyya</surname>
+                     <given-names>PN</given-names>
+                  </name>
+                  <name>
+                     <surname>Jha</surname>
+                     <given-names>DK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Plant growth-promoting rhizobacteria (PGPR): emergence in agriculture</article-title>
+               <source>World Journal of Microbiology and Biotechnology</source>
+               <volume>28</volume>
+               <fpage>1327</fpage>
+               <lpage>1350</lpage>
+               <pub-id pub-id-type="doi">10.1007/s11274-011-0979-9</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Cardinali &amp; Nason (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cardinali</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Nason</surname>
+                     <given-names>GP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Costationarity of locally stationary time series using costat</article-title>
+               <source>Journal of Statistical Software</source>
+               <volume>55</volume>
+               <fpage>1</fpage>
+               <lpage>22</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Cheng, Park &amp; Glick (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cheng</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Glick</surname>
+                     <given-names>BR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>1-Aminocyclopropane-1-carboxylate deaminase from <italic>Pseudomonas putida</italic> UW4 facilitates the growth of canola in the presence of salt</article-title>
+               <source>Canadian Journal of Microbiology</source>
+               <volume>53</volume>
+               <issue>7</issue>
+               <fpage>912</fpage>
+               <lpage>918</lpage>
+               <pub-id pub-id-type="doi">10.1139/W07-050</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Chumpitaz-Segovia et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chumpitaz-Segovia</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Alvarado</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Ogata-Gutiérrez</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Zúñiga Dávila</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Bioprospection of native psychrotolerant plant-growth-promoting rhizobacteria from Peruvian Andean Plateau soils associated with <italic>Chenopodium quinoa</italic></article-title>
+               <source>Canadian Journal of Microbiology</source>
+               <volume>66</volume>
+               <issue>11</issue>
+               <fpage>641</fpage>
+               <lpage>652</lpage>
+               <pub-id pub-id-type="doi">10.1139/cjm-2020-0036</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Cid et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cid</surname>
+                     <given-names>FP</given-names>
+                  </name>
+                  <name>
+                     <surname>Inostroza</surname>
+                     <given-names>NG</given-names>
+                  </name>
+                  <name>
+                     <surname>Graether</surname>
+                     <given-names>SP</given-names>
+                  </name>
+                  <name>
+                     <surname>Bravo</surname>
+                     <given-names>LA</given-names>
+                  </name>
+                  <name>
+                     <surname>Jorquera</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Bacterial community structures and ice recrystallization inhibition activity of bacteria isolated from the phyllosphere of the Antarctic vascular plant <italic>Deschampsia antarctica</italic></article-title>
+               <source>Polar Biology</source>
+               <volume>40</volume>
+               <issue>6</issue>
+               <fpage>1319</fpage>
+               <lpage>1331</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00300-016-2036-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Costerousse et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Costerousse</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Schönholzer-Mauclaire</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Frossard</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Thonar</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Identification of heterotrophic zinc mobilization processes among bacterial strains isolated from wheat rhizosphere (<italic>Triticum aestivum</italic> L.)</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>84</volume>
+               <issue>1</issue>
+               <elocation-id>e01715-17</elocation-id>
+               <pub-id pub-id-type="doi">10.1128/AEM.01715-17</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Dai et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dai</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Xu</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Fan</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Tian</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Wheat associated microbiota and their correlation with stripe rust reaction</article-title>
+               <source>Journal of Applied Microbiology</source>
+               <volume>128</volume>
+               <issue>2</issue>
+               <fpage>544</fpage>
+               <lpage>555</lpage>
+               <pub-id pub-id-type="doi">10.1111/jam.14486</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Dayamrita &amp; Paul (2021)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Dayamrita</surname>
+                     <given-names>KK</given-names>
+                  </name>
+                  <name>
+                     <surname>Paul</surname>
+                     <given-names>NM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>synthesis and characterization of silver nanoparticles produced by endophytic bacteria, Enterobacter ludwigii strain gol9, inhabiting roots of leucas aspera</article-title>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Devi et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Devi</surname>
+                     <given-names>NO</given-names>
+                  </name>
+                  <name>
+                     <surname>Tombisana Devi</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Debbarma</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hajong</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Thokchom</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Effect of endophytic <italic>Bacillus</italic> and arbuscular mycorrhiza fungi (AMF) against <italic>Fusarium wilt</italic> of tomato caused by <italic>Fusarium oxysporum</italic> f. sp. lycopersici</article-title>
+               <source>Egyptian Journal of Biological Pest Control</source>
+               <volume>32</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <pub-id pub-id-type="doi">10.1186/s41938-021-00499-y</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Ding, Shi &amp; Yang (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ding</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Shi</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Advances and challenges in uncovering cold tolerance regulatory mechanisms in plants</article-title>
+               <source>New Phytologist</source>
+               <volume>222</volume>
+               <issue>4</issue>
+               <fpage>1690</fpage>
+               <lpage>1704</lpage>
+               <pub-id pub-id-type="doi">10.1111/nph.15696</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Economic Survey of Pakistan (2021-22)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>Economic Survey of Pakistan,</collab>
+               </person-group>
+               <year iso-8601-date="2021">2021-22</year>
+               <uri>https://www.finance.gov.pk/survey/chapter_22/PES02-AGRICULTURE.pdf</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>FAO (2020)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>FAO</collab>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <source>Responding to the impact of the COVID-19 outbreak on food value chains through efficient logistics</source>
+               <publisher-name>FAO</publisher-name>
+               <publisher-loc>Rome</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Frederiks et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Frederiks</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>Christopher</surname>
+                     <given-names>JT</given-names>
+                  </name>
+                  <name>
+                     <surname>Sutherland</surname>
+                     <given-names>MW</given-names>
+                  </name>
+                  <name>
+                     <surname>Borrell</surname>
+                     <given-names>AK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Post-head-emergence frost in wheat and barley: defining the problem, assessing the damage, and identifying resistance</article-title>
+               <source>Journal of Experimental Botany</source>
+               <volume>66</volume>
+               <issue>12</issue>
+               <fpage>3487</fpage>
+               <lpage>3498</lpage>
+               <pub-id pub-id-type="doi">10.1093/jxb/erv088</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>García et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>García</surname>
+                     <given-names>JE</given-names>
+                  </name>
+                  <name>
+                     <surname>Maroniche</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Creus</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Suárez-Rodríguez</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramirez-Trujillo</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Groppa</surname>
+                     <given-names>MD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>In vitro PGPR properties and osmotic tolerance of different <italic>Azospirillum</italic> native strains and their effects on growth of maize under drought stress</article-title>
+               <source>Microbiological Research</source>
+               <volume>202</volume>
+               <fpage>21</fpage>
+               <lpage>29</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.micres.2017.04.007</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Gill &amp; Tuteja (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gill</surname>
+                     <given-names>SS</given-names>
+                  </name>
+                  <name>
+                     <surname>Tuteja</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Reactive oxygen species and antioxidant machinery in abiotic stress tolerance in crop plants</article-title>
+               <source>Plant Physiology and Biochemistry</source>
+               <volume>48</volume>
+               <issue>12</issue>
+               <fpage>909</fpage>
+               <lpage>930</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.plaphy.2010.08.016</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Glick (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glick</surname>
+                     <given-names>BR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>The enhancement of plant growth by free-living bacteria</article-title>
+               <source>Canadian Journal of Microbiology</source>
+               <volume>41</volume>
+               <issue>2</issue>
+               <fpage>109</fpage>
+               <lpage>117</lpage>
+               <pub-id pub-id-type="doi">10.1139/m95-015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Glick (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glick</surname>
+                     <given-names>BR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Bacteria with ACC deaminase can promote plant growth and help to feed the world</article-title>
+               <source>Microbiological Research</source>
+               <volume>169</volume>
+               <fpage>30</fpage>
+               <lpage>39</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.micres.2013.09.009</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Hassan et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hassan</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Xiang</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Farooq</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Muhammad</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Yan</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Hui</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Yuanyuan</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Bruno</surname>
+                     <given-names>AK</given-names>
+                  </name>
+                  <name>
+                     <surname>Lele</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Jincai</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Cold stress in wheat: plant acclimation responses and management strategies</article-title>
+               <source>Frontiers in Plant Science</source>
+               <volume>12</volume>
+               <elocation-id>676884</elocation-id>
+               <pub-id pub-id-type="doi">10.3389/fpls.2021.676884</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Hussain et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hussain</surname>
+                     <given-names>HA</given-names>
+                  </name>
+                  <name>
+                     <surname>Hussain</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ashraf</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name>
+                     <surname>Anjum</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Men</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Chilling and drought stresses in crop plants: implications, cross talk, and potential management opportunities</article-title>
+               <source>Frontiers in Plant Science</source>
+               <volume>9</volume>
+               <fpage>393</fpage>
+               <pub-id pub-id-type="doi">10.3389/fpls.2018.00393</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Hyder et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hyder</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Gondal</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                  <name>
+                     <surname>Rizvi</surname>
+                     <given-names>ZF</given-names>
+                  </name>
+                  <name>
+                     <surname>Ahmad</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Alam</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Hannan</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ahmed</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Fatima</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Inam-ul Haq</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Characterization of native plant growth promoting rhizobacteria and their anti-oomycete potential against Phytophthora capsici affecting chilli pepper (<italic>Capsicum annum</italic> L)</article-title>
+               <source>Scientific Reports</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>13859</fpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-020-69410-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Islam &amp; Roy (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Islam</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Roy</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Screening, purification and characterization of cellulase from cellulase producing bacteria in molasses</article-title>
+               <source>BMC Research Notes</source>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>6</lpage>
+               <pub-id pub-id-type="doi">10.1186/s13104-017-3088-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Jha et al. (2011)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jha</surname>
+                     <given-names>CK</given-names>
+                  </name>
+                  <name>
+                     <surname>Aeron</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Patel</surname>
+                     <given-names>BV</given-names>
+                  </name>
+                  <name>
+                     <surname>Maheshwari</surname>
+                     <given-names>DK</given-names>
+                  </name>
+                  <name>
+                     <surname>Saraf</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Enterobacter: role in plant growth promotion</article-title>
+               <source>Bacteria in agrobiology: plant growth responses</source>
+               <publisher-name>Springer Berlin Heidelberg</publisher-name>
+               <publisher-loc>Berlin</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Maheshwari</surname>
+                     <given-names>DK</given-names>
+                  </name>
+               </person-group>
+               <fpage>159</fpage>
+               <lpage>182</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Jhuma et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jhuma</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name>
+                     <surname>Rafeya</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Sultana</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>MT</given-names>
+                  </name>
+                  <name>
+                     <surname>Karim</surname>
+                     <given-names>MM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Isolation of endophytic salt-tolerant plant growth-promoting rhizobacteria from <italic>Oryza sativa</italic> and evaluation of their plant growth-promoting traits under salinity stress condition</article-title>
+               <source>Frontiers in Sustainable Food Systems</source>
+               <volume>5</volume>
+               <elocation-id>687531</elocation-id>
+               <pub-id pub-id-type="doi">10.3389/fsufs.2021.687531</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Jin, Wang &amp; Zhao (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jin</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhao</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Cold-adaptive mechanism of psychrophilic bacteria in food and its application</article-title>
+               <source>Microbial Pathogenesis</source>
+               <volume>169</volume>
+               <elocation-id>105652</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.micpath.2022.105652</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Junge, Cameron &amp; Nunn (2019)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Junge</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Cameron</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Nunn</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Diversity of psychrophilic bacteria in sea and Glacier ice Environments—Insights through genomics, metagenomics, and proteomics approaches</article-title>
+               <source>Elsevier eBooks</source>
+               <publisher-name>Academic Press</publisher-name>
+               <fpage>197</fpage>
+               <lpage>216</lpage>
+               <pub-id pub-id-type="doi">10.1016/b978-0-12-814849-5.00012-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Kang et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kang</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Khan</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Hamayun</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>LR</given-names>
+                  </name>
+                  <name>
+                     <surname>Kwon</surname>
+                     <given-names>EH</given-names>
+                  </name>
+                  <name>
+                     <surname>Kang</surname>
+                     <given-names>YS</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>KY</given-names>
+                  </name>
+                  <name>
+                     <surname>Park</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>IJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Phosphate-solubilizing <italic>Enterobacter ludwigii</italic> AFFR02 and <italic>Bacillus megaterium</italic> Mj1212 rescues alfalfa’s growth under post-drought stress</article-title>
+               <source>Agriculture</source>
+               <volume>11</volume>
+               <issue>6</issue>
+               <fpage>485</fpage>
+               <pub-id pub-id-type="doi">10.3390/agriculture11060485</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Kasim et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kasim</surname>
+                     <given-names>WA</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaafar</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Abou-Ali</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Omar</surname>
+                     <given-names>MN</given-names>
+                  </name>
+                  <name>
+                     <surname>Hewait</surname>
+                     <given-names>HM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Effect of biofilm forming plant growth promoting rhizobacteria on salinity tolerance in barley</article-title>
+               <source>Annals of Agricultural Sciences</source>
+               <volume>61</volume>
+               <fpage>217</fpage>
+               <lpage>227</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.aoas.2016.07.003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>King, Ward &amp; Raney (1954)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>King</surname>
+                     <given-names>EO</given-names>
+                  </name>
+                  <name>
+                     <surname>Ward</surname>
+                     <given-names>MK</given-names>
+                  </name>
+                  <name>
+                     <surname>Raney</surname>
+                     <given-names>DE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1954">1954</year>
+               <article-title>Two simple media for the demonstration of pyocyanin and fluorescin</article-title>
+               <source>Journal of Laboratory and Clinical Medicine</source>
+               <volume>44</volume>
+               <issue>2</issue>
+               <fpage>301</fpage>
+               <lpage>307</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Kumar, Stecher &amp; Tamura (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Stecher</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Tamura</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>33</volume>
+               <issue>7</issue>
+               <fpage>1870</fpage>
+               <lpage>1874</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msw054</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Lalay, Ullah &amp; Ahmed (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lalay</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Ullah</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Ahmed</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Physiological and biochemical responses of <italic>Brassica napus</italic> L. to drought-induced stress by the application of biochar and Plant Growth Promoting Rhizobacteria</article-title>
+               <source>Microscopy Research and Technique</source>
+               <volume>85</volume>
+               <issue>4</issue>
+               <fpage>1267</fpage>
+               <lpage>1281</lpage>
+               <pub-id pub-id-type="doi">10.1002/jemt.23993</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Lee et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Adhikari</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kang</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>You</surname>
+                     <given-names>YH</given-names>
+                  </name>
+                  <name>
+                     <surname>Joo</surname>
+                     <given-names>GJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>JH</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>IJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Isolation and characterization of the high silicate and phosphate solubilizing novel strain <italic>Enterobacter ludwigii</italic> GAK2 that promotes growth in rice plants</article-title>
+               <source>Agronomy</source>
+               <volume>9</volume>
+               <issue>3</issue>
+               <fpage>144</fpage>
+               <pub-id pub-id-type="doi">10.3390/agronomy9030144</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Ma et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ma</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Wei</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Hou</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Xu</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Bioremediation of cadmium polluted soil using a novel cadmium immobilizing plant growth promotion strain <italic>Bacillus</italic> sp. TZ5 loaded on biochar</article-title>
+               <source>Journal of Hazardous Materials</source>
+               <volume>388</volume>
+               <elocation-id>122065</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.jhazmat.2020.122065</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Ma et al. (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ma</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Bielenberg</surname>
+                     <given-names>DG</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>KM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lynch</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Regulation of root hair density by phosphorus availability in <italic>Arabidopsis thaliana</italic></article-title>
+               <source>Plant, Cell &amp; Environment</source>
+               <volume>24</volume>
+               <issue>4</issue>
+               <fpage>459</fpage>
+               <lpage>467</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-3040.2001.00695.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Mahapatra et al. (2020)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mahapatra</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Rayanoothala</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Solanki</surname>
+                     <given-names>MK</given-names>
+                  </name>
+                  <name>
+                     <surname>Das</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Solanki</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kashyap</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumari</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Wheat microbiome: present status and future perspective</article-title>
+               <source>Phytobiomes: current insights and future vistas</source>
+               <publisher-loc>Singapore</publisher-loc>
+               <publisher-name>Springer</publisher-name>
+               <fpage>191</fpage>
+               <lpage>223</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-981-15-3151-4_8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Majeed et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Majeed</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Abbasi</surname>
+                     <given-names>MK</given-names>
+                  </name>
+                  <name>
+                     <surname>Hameed</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Imran</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahim</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Isolation and characterization of plant growth-promoting rhizobacteria from wheat rhizosphere and their effect on plant growth promotion</article-title>
+               <source>Frontiers in Microbiology</source>
+               <volume>6</volume>
+               <fpage>198</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Mantelin et al. (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mantelin</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Desbrosses</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Larcher</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Tranbarger</surname>
+                     <given-names>TJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Cleyet-Marel</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Touraine</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Nitrate-dependent control of root architecture and N nutrition are altered by a plant growth-promoting <italic>Phyllobacterium</italic> sp</article-title>
+               <source>Planta</source>
+               <volume>223</volume>
+               <fpage>591</fpage>
+               <lpage>603</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00425-005-0106-y</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Meena et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Meena</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>NP</given-names>
+                  </name>
+                  <name>
+                     <surname>Meena</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Meena</surname>
+                     <given-names>VS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Isolation of low temperature surviving plant growth–promoting rhizobacteria (PGPR) from pea (<italic>Pisum sativum</italic> L.) and documentation of their plant growth promoting traits</article-title>
+               <source>Biocatalysis and Agricultural Biotechnology</source>
+               <volume>4</volume>
+               <issue>4</issue>
+               <fpage>806</fpage>
+               <lpage>811</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.bcab.2015.08.006</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Mirza &amp; Rodrigues (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mirza</surname>
+                     <given-names>BS</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodrigues</surname>
+                     <given-names>JL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Development of a direct isolation procedure for free-living diazotrophs under controlled hypoxic conditions</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>78</volume>
+               <issue>16</issue>
+               <fpage>5542</fpage>
+               <lpage>5549</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.00714-12</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Mishra et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mishra</surname>
+                     <given-names>PK</given-names>
+                  </name>
+                  <name>
+                     <surname>Bisht</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruwari</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Selvakumar</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Joshi</surname>
+                     <given-names>GK</given-names>
+                  </name>
+                  <name>
+                     <surname>Bisht</surname>
+                     <given-names>JK</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhatt</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Gupta</surname>
+                     <given-names>HS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Alleviation of cold stress in inoculated wheat (<italic>Triticum aestivum</italic> L.) seedlings with psychrotolerant Pseudomonads from NW Himalayas</article-title>
+               <source>Archives of Microbiology</source>
+               <volume>193</volume>
+               <fpage>497</fpage>
+               <lpage>513</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00203-011-0693-x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Mishra et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mishra</surname>
+                     <given-names>PK</given-names>
+                  </name>
+                  <name>
+                     <surname>Mishra</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Bisht</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Selvakumar</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Kundu</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Bisht</surname>
+                     <given-names>JK</given-names>
+                  </name>
+                  <name>
+                     <surname>Gupta</surname>
+                     <given-names>HS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Isolation, molecular characterization and growth-promotion activities of a cold tolerant bacterium Pseudomonas sp. NARs9 (MTCC9002) from the Indian Himalayas</article-title>
+               <source>Biological Research</source>
+               <volume>42</volume>
+               <issue>3</issue>
+               <fpage>305</fpage>
+               <lpage>313</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Miura &amp; Furumoto (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Miura</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Furumoto</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Cold signaling and cold response in plants</article-title>
+               <source>International Journal of Molecular Sciences</source>
+               <volume>14</volume>
+               <issue>3</issue>
+               <fpage>5312</fpage>
+               <lpage>5337</lpage>
+               <pub-id pub-id-type="doi">10.3390/ijms14035312</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Morcillo &amp; Manzanera (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Morcillo</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Manzanera</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>The effects of plant-associated bacterial exopolysaccharides on plant abiotic stress tolerance</article-title>
+               <source>Metabolites</source>
+               <volume>11</volume>
+               <issue>6</issue>
+               <fpage>337</fpage>
+               <pub-id pub-id-type="doi">10.3390/metabo11060337</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Myo et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Myo</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                  <name>
+                     <surname>Ge</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Ma</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Cui</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Shi</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Jiang</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Indole-3-acetic acid production by <italic>Streptomyces fradiae</italic> NKZ-259 and its formulation to enhance plant growth</article-title>
+               <source>BMC Microbiology</source>
+               <volume>19</volume>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <pub-id pub-id-type="doi">10.1186/s12866-018-1372-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Nacoon et al. (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nacoon</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jogloy</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Riddech</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Mongkolthanaruk</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Kuyper</surname>
+                     <given-names>TW</given-names>
+                  </name>
+                  <name>
+                     <surname>Boonlue</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Interaction between phosphate solubilizing bacteria and arbuscular mycorrhizal fungi on growth promotion and tuber inulin content of <italic>Helianthus tuberosus</italic> L</article-title>
+               <source>Scientific Reports</source>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <pub-id pub-id-type="doi">10.1038/s41598-019-56847-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Noori et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Noori</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Etesami</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Noori</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Forouzan</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Salehi Jouzani</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Malboobi</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Whole genome sequence of <italic>Pantoea agglomerans</italic> ANP8, a salinity and drought stress-resistant bacterium isolated from alfalfa (<italic>Medicago sativa</italic> L.) root nodules</article-title>
+               <source>Biotechnology Reports</source>
+               <volume>29</volume>
+               <elocation-id>e00600</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.btre.2021.e00600</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Pikovskaya (1948)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pikovskaya</surname>
+                     <given-names>RI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1948">1948</year>
+               <article-title>Mobilization of phosphorus in soil in connection with vital activity of some microbial species</article-title>
+               <source>Mikrobiologiya</source>
+               <volume>17</volume>
+               <fpage>362</fpage>
+               <lpage>370</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Platero et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Platero</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>James</surname>
+                     <given-names>EK</given-names>
+                  </name>
+                  <name>
+                     <surname>Rios</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Iriarte</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sandes</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Zabaleta</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Battistoni</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Fabiano</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Novel <italic>Cupriavidus</italic> strains isolated from root nodules of native Uruguayan Mimosa species</article-title>
+               <source>Applied and Environmental Microbiology</source>
+               <volume>82</volume>
+               <issue>11</issue>
+               <fpage>3150</fpage>
+               <lpage>3164</lpage>
+               <pub-id pub-id-type="doi">10.1128/AEM.04142-15</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Poling (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Poling</surname>
+                     <given-names>EB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Spring cold injury to winegrapes and protection strategies and methods</article-title>
+               <source>HortScience</source>
+               <volume>43</volume>
+               <issue>6</issue>
+               <fpage>1652</fpage>
+               <lpage>1662</lpage>
+               <pub-id pub-id-type="doi">10.21273/HORTSCI.43.6.1652</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Ramos-Solano, Barriuso &amp; Gutiérrez-Ma nero (2008)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ramos-Solano</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Barriuso</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Gutiérrez-Ma nero</surname>
+                     <given-names>FJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Physiological and molecular mechanisms of plant growth promoting rhizobacteria (PGPR)</article-title>
+               <source>Plant–bacteria interactions: strategies and techniques to promote plant growth</source>
+               <publisher-name>Wiley VCH</publisher-name>
+               <publisher-loc>Weinheim</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Ahmad</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Pichtel</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Hayat</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <fpage>41</fpage>
+               <lpage>54</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>Reetha et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Reetha</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Selvakumar</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Bhuvaneswari</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Thamizhiniyan</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Ravimycin</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Screening of cellulase and pectinase by using <italic>Pseudomonas fluorescens</italic> and <italic>Bacillus subtilis</italic></article-title>
+               <source>International Letters of Natural Sciences</source>
+               <volume>8</volume>
+               <issue>2</issue>
+               <fpage>75</fpage>
+               <lpage>80</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>Rezaeiniko, Enayatizamir &amp; Norouzi Masir (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rezaeiniko</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Enayatizamir</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Norouzi Masir</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>Changes in soil zinc chemical fractions and improvements in wheat grain quality in response to zinc solubilizing bacteria</article-title>
+               <source>Communications in Soil Science and Plant Analysis</source>
+               <volume>53</volume>
+               <issue>5</issue>
+               <fpage>622</fpage>
+               <lpage>635</lpage>
+               <pub-id pub-id-type="doi">10.1080/00103624.2021.2017962</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>Rizvi et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rizvi</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Ahmed</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Khan</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Umar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Psychrophilic bacterial phosphate-biofertilizers: a novel extremophile for sustainable crop production under cold environment</article-title>
+               <source>Microorganisms</source>
+               <volume>9</volume>
+               <issue>12</issue>
+               <fpage>2451</fpage>
+               <pub-id pub-id-type="doi">10.3390/microorganisms9122451</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-60"><label>Ruelland et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ruelland</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Vaultier</surname>
+                     <given-names>MN</given-names>
+                  </name>
+                  <name>
+                     <surname>Zachowski</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurry</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Cold signalling and cold acclimation in plants</article-title>
+               <source>Advances in Botanical Research</source>
+               <volume>49</volume>
+               <fpage>35</fpage>
+               <lpage>150</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0065-2296(08)00602-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-61"><label>Sabkia et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sabki</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name>
+                     <surname>Ong</surname>
+                     <given-names>PY</given-names>
+                  </name>
+                  <name>
+                     <surname>Ibrahim</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>CT</given-names>
+                  </name>
+                  <name>
+                     <surname>Klemeš</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Gao</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>A review on abiotic stress tolerance and plant growth metabolite framework by plant growth-promoting bacteria for sustainable agriculture</article-title>
+               <source>Chemical Engineering Transactions</source>
+               <volume>83</volume>
+               <fpage>367</fpage>
+               <lpage>372</lpage>
+               <pub-id pub-id-type="doi">10.3303/CET2183062</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-62"><label>Seneviratne et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Seneviratne</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Weerasundara</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Ok</surname>
+                     <given-names>YS</given-names>
+                  </name>
+                  <name>
+                     <surname>Rinklebe</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Vithanage</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Phytotoxicity attenuation in <italic>Vigna radiata</italic> under heavy metal stress at the presence of biochar and N fixing bacteria</article-title>
+               <source>Journal of Environmental Management</source>
+               <volume>186</volume>
+               <fpage>293</fpage>
+               <lpage>300</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jenvman.2016.07.024</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-63"><label>Shoebitz et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Shoebitz</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ribaudo</surname>
+                     <given-names>CM</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardo</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Cantore</surname>
+                     <given-names>ML</given-names>
+                  </name>
+                  <name>
+                     <surname>Ciampi</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Curá</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Plant growth promoting properties of a strain of <italic>Enterobacter ludwigii</italic> isolated from <italic>Lolium perenne</italic> rhizosphere</article-title>
+               <source>Soil Biology and Biochemistry</source>
+               <volume>41</volume>
+               <issue>9</issue>
+               <fpage>1768</fpage>
+               <lpage>1774</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.soilbio.2007.12.031</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-64"><label>Singh &amp; Khanna (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Khanna</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Functional attributes of psychrotolerant rhizobacteria from wheat (<italic>Triticum aestivum</italic> L.) Rhizoshpere</article-title>
+               <source>International Journal of Current Microbiology and Applied Sciences</source>
+               <volume>6</volume>
+               <issue>11</issue>
+               <fpage>2065</fpage>
+               <lpage>2078</lpage>
+               <pub-id pub-id-type="doi">10.20546/ijcmas.2017.611.244</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-65"><label>Singh et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Mishra</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jha</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Raghuvanshi</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jha</surname>
+                     <given-names>PN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Effect of inoculation of zinc-resistant bacterium <italic>Enterobacter ludwigii</italic> CDP-14 on growth, biochemical parameters and zinc uptake in wheat (<italic>Triticum aestivum</italic> L.)</article-title>
+               <source>Plant Ecology and Engineering</source>
+               <volume>116</volume>
+               <fpage>163</fpage>
+               <lpage>173</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ecoleng.2017.12.033</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-66"><label>Solanke &amp; Sharma (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Solanke</surname>
+                     <given-names>AU</given-names>
+                  </name>
+                  <name>
+                     <surname>Sharma</surname>
+                     <given-names>AK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Signal transduction during cold stress in plants</article-title>
+               <source>Physiology and Molecular Biology of Plants</source>
+               <volume>14</volume>
+               <fpage>69</fpage>
+               <lpage>79</lpage>
+               <pub-id pub-id-type="doi">10.1007/s12298-008-0006-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-67"><label>Srivastav (2020)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Srivastav</surname>
+                     <given-names>AL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Chemical fertilizers and pesticides: role in groundwater contamination</article-title>
+               <source>Elsevier eBooks</source>
+               <publisher-name>Elsevier</publisher-name>
+               <fpage>143</fpage>
+               <lpage>159</lpage>
+               <pub-id pub-id-type="doi">10.1016/b978-0-08-103017-2.00006-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-68"><label>Suárez-Moreno et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Suárez-Moreno</surname>
+                     <given-names>ZR</given-names>
+                  </name>
+                  <name>
+                     <surname>Vinchira-Villarraga</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Vergara-Morales</surname>
+                     <given-names>DI</given-names>
+                  </name>
+                  <name>
+                     <surname>Castellanos</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramos</surname>
+                     <given-names>FA</given-names>
+                  </name>
+                  <name>
+                     <surname>Guarnaccia</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Degrassi</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Venturi</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Moreno-Sarmiento</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Plant-growth promotion and biocontrol properties of three <italic>Streptomyces</italic> spp. isolates to control bacterial rice pathogens</article-title>
+               <source>Frontiers in Microbiology</source>
+               <volume>10</volume>
+               <fpage>290</fpage>
+               <pub-id pub-id-type="doi">10.3389/fmicb.2019.00290</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-69"><label>Subramanian et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Subramanian</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Krishnamoorthy</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Mageswari</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Selvakumar</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Sa</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Cold stress tolerance in psychrotolerant soil bacteria and their conferred chilling resistance in tomato (<italic>Solanum lycopersicum</italic> Mill.) under low temperatures</article-title>
+               <source>PLOS ONE</source>
+               <volume>11</volume>
+               <issue>8</issue>
+               <elocation-id>e0161592</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0161592</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-70"><label>Suzuki &amp; Mittler (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Suzuki</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Mittler</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Reactive oxygen species and temperature stresses: a delicate balance between signaling and destruction</article-title>
+               <source>Physiologia Plantarum</source>
+               <volume>126</volume>
+               <issue>1</issue>
+               <fpage>45</fpage>
+               <lpage>51</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.0031-9317.2005.00582.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-71"><label>Tounsi-Hammami et al. (2022)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tounsi-Hammami</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hammami</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Dhane-Fitouri</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Le Roux</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Jeddi</surname>
+                     <given-names>FB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <article-title>A mix of <italic>agrobacterium</italic> strains reduces nitrogen fertilization while enhancing economic returns in field trials with durum wheat in contrasting agroclimatic regions</article-title>
+               <source>Journal of Soil Science and Plant Nutrition</source>
+               <volume>22</volume>
+               <issue>4</issue>
+               <fpage>4816</fpage>
+               <lpage>4833</lpage>
+               <pub-id pub-id-type="doi">10.1007/s42729-022-00962-1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-72"><label>Tsegaye et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tsegaye</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Yimam</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bekele</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Chaniyalew</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Assefa</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Characterization and Identification of native plant growth-promoting bacteria colonizing tef (<italic>Eragrostis</italic> Tef) rhizosphere during the flowering stage for a production of bio inoculants</article-title>
+               <source>Biomedical Journal of Scientific &amp; Technical Research</source>
+               <volume>22</volume>
+               <issue>2</issue>
+               <fpage>16444</fpage>
+               <lpage>16456</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-73"><label>Tsonev &amp; Cebola Lidon (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tsonev</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Cebola Lidon</surname>
+                     <given-names>FJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Zinc in plants-an overview</article-title>
+               <source>Emirates Journal of Food and Agriculture</source>
+               <volume>24</volume>
+               <issue>4</issue>
+               <fpage>322</fpage>
+               <lpage>333</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-74"><label>Turan et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Turan</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Güllüce</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Çakmak</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Şahin</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Effect of plant growth-promoting rhizobacteria strain on freezing injury and antioxidant enzyme activity of wheat and barley</article-title>
+               <source>Journal of Plant Nutrition</source>
+               <volume>36</volume>
+               <issue>5</issue>
+               <fpage>731</fpage>
+               <lpage>748</lpage>
+               <pub-id pub-id-type="doi">10.1080/01904167.2012.754038</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-75"><label>Vega-Celedon et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vega-Celedon</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Bravo</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Velasquez</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Cid</surname>
+                     <given-names>FP</given-names>
+                  </name>
+                  <name>
+                     <surname>Valenzuela</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramirez</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Vasconez</surname>
+                     <given-names>IN</given-names>
+                  </name>
+                  <name>
+                     <surname>Alvarez</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Jorquera</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Seeger</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Microbial diversity of psychrotolerant bacteria isolated from wild flora of andes mountains and patagonia of chile towards the selection of plant growth-promoting bacterial consortia to alleviate cold stress in plants</article-title>
+               <source>Microorganisms</source>
+               <volume>9</volume>
+               <issue>3</issue>
+               <fpage>538</fpage>
+               <pub-id pub-id-type="doi">10.3390/microorganisms9030538</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-76"><label>Verma &amp; Suman (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Verma</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Suman</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Wheat microbiomes: ecological significances, molecular diversity and potential bioresources for sustainable agriculture</article-title>
+               <source>EC Microbiology</source>
+               <volume>14</volume>
+               <issue>9</issue>
+               <fpage>641</fpage>
+               <lpage>665</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-77"><label>Verma et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Verma</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Yadav</surname>
+                     <given-names>AN</given-names>
+                  </name>
+                  <name>
+                     <surname>Khannam</surname>
+                     <given-names>KS</given-names>
+                  </name>
+                  <name>
+                     <surname>Panjiar</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Saxena</surname>
+                     <given-names>AK</given-names>
+                  </name>
+                  <name>
+                     <surname>Suman</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Assessment of genetic diversity and plant growth promoting attributes of psychrotolerant bacteria allied with wheat (<italic>Triticum aestivum</italic>) from the northern hills zone of India</article-title>
+               <source>Journal of Experimental Botany</source>
+               <volume>65</volume>
+               <issue>4</issue>
+               <fpage>1885</fpage>
+               <lpage>1899</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-78"><label>Vitale, Adam &amp; Vitale (2020)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vitale</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Adam</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Vitale</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Economics of wheat breeding strategies: focusing on Oklahoma hard red winter wheat</article-title>
+               <source>Agronomy</source>
+               <volume>10</volume>
+               <issue>2</issue>
+               <fpage>238</fpage>
+               <pub-id pub-id-type="doi">10.3390/agronomy10020238</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-79"><label>Vitale, Vitale &amp; Epplin (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vitale</surname>
+                     <given-names>PP</given-names>
+                  </name>
+                  <name>
+                     <surname>Vitale</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Epplin</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Factors affecting efficiency measures of Western Great Plains wheat dominant farms</article-title>
+               <source>Journal of Agricultural and Applied Economics</source>
+               <volume>51</volume>
+               <issue>1</issue>
+               <fpage>69</fpage>
+               <lpage>103</lpage>
+               <pub-id pub-id-type="doi">10.1017/aae.2018.24</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-80"><label>Wang et al. (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Ji</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Song</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Gao</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Zheng</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Han</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Biocontrol of two bacterial inoculant strains and their effects on the rhizosphere microbial community of field-grown wheat</article-title>
+               <source>BioMed Research International</source>
+               <volume>2021</volume>
+               <fpage>8835275</fpage>
+               <pub-id pub-id-type="doi">10.1155/2021/8835275</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-81"><label>Weisburg et al. (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Weisburg</surname>
+                     <given-names>WG</given-names>
+                  </name>
+                  <name>
+                     <surname>Barns</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Pelletier</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                  <name>
+                     <surname>Lane</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>16S ribosomal DNA amplification for phylogenetic study</article-title>
+               <source>Journal of Bacteriology</source>
+               <volume>173</volume>
+               <issue>2</issue>
+               <fpage>697</fpage>
+               <lpage>703</lpage>
+               <pub-id pub-id-type="doi">10.1128/jb.173.2.697-703.1991</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-82"><label>Yadav et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yadav</surname>
+                     <given-names>AN</given-names>
+                  </name>
+                  <name>
+                     <surname>Sachan</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                  <name>
+                     <surname>Verma</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Kaushik</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Saxena</surname>
+                     <given-names>AK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Cold active hydrolytic enzymes production by psychrotrophic <italic>Bacilli</italic> isolated from three sub glacial lakes of NW Indian Himalayas</article-title>
+               <source>Journal of Basic Microbiology</source>
+               <volume>56</volume>
+               <issue>3</issue>
+               <fpage>294</fpage>
+               <lpage>307</lpage>
+               <pub-id pub-id-type="doi">10.1002/jobm.201500230</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-83"><label>Yarzábal et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yarzábal</surname>
+                     <given-names>LA</given-names>
+                  </name>
+                  <name>
+                     <surname>Monserrate</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Buela</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Chica</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Antarctic <italic>Pseudomonas</italic> spp. promote wheat germination and growth at low temperatures</article-title>
+               <source>Polar Biology</source>
+               <volume>41</volume>
+               <issue>11</issue>
+               <fpage>2343</fpage>
+               <lpage>2354</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00300-018-2374-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-84"><label>Zaballa, Golluscio &amp; Ribaudo (2020)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zaballa</surname>
+                     <given-names>JI</given-names>
+                  </name>
+                  <name>
+                     <surname>Golluscio</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Ribaudo</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <article-title>Effect of the phosphorus-solubilizing bacterium <italic>Enterobacter ludwigii</italic> on barley growth promotion</article-title>
+            </element-citation>
+         </ref>
+         <ref id="ref-85"><label>Zahra et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zahra</surname>
+                     <given-names>ST</given-names>
+                  </name>
+                  <name>
+                     <surname>Tariq</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Abdullah</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Azeem</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Ashraf</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Dominance of <italic>Bacillus</italic> species in the wheat (<italic>Triticum aestivum</italic> L.) rhizosphere and their plant growth promoting potential under salt stress conditions</article-title>
+               <source>PeerJ</source>
+               <volume>11</volume>
+               <elocation-id>e14621</elocation-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-86"><label>Zeng, Wu &amp; Wen (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zeng</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Wen</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Identification and characterization of the rhizosphere phosphate-solubilizing bacterium <italic>Pseudomonas frederiksbergensis</italic> JW-SD2, and its plant growth-promoting effects on poplar seedlings</article-title>
+               <source>Annals of Microbiology</source>
+               <volume>66</volume>
+               <issue>4</issue>
+               <fpage>1343</fpage>
+               <lpage>1354</lpage>
+               <pub-id pub-id-type="doi">10.1007/s13213-016-1220-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-87"><label>Zhang et al. (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Prithiviraj</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Charles</surname>
+                     <given-names>TC</given-names>
+                  </name>
+                  <name>
+                     <surname>Driscoll</surname>
+                     <given-names>BT</given-names>
+                  </name>
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>DL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Low temperature tolerant <italic>Bradyrhizobium japonicum</italic> strains allowing improved nodulation and nitrogen fixation of soybean in a short season (cool spring) area</article-title>
+               <source>European Journal of Agronomy</source>
+               <volume>19</volume>
+               <issue>2</issue>
+               <fpage>205</fpage>
+               <lpage>213</lpage>
+               <pub-id pub-id-type="doi">10.1016/S1161-0301(02)00038-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-88"><label>Zheng et al. (2023)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zheng</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Tang</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Luo</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Zou</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Xiang</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Bai</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Meng</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Liu</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Duan</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2023">2023</year>
+               <article-title>Alleviation of metal stress in rape seedlings (<italic>Brassica napus</italic> L.) using the antimony-resistant plant growth-promoting rhizobacteria <italic>Cupriavidus</italic> sp. S-8-2</article-title>
+               <source>Science of The Total Environment</source>
+               <volume>858</volume>
+               <elocation-id>159955</elocation-id>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2022.159955</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-89"><label>Zubair et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zubair</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hanif</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Farzand</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sheikh</surname>
+                     <given-names>TMM</given-names>
+                  </name>
+                  <name>
+                     <surname>Khan</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Suleman</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayaz</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Gao</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Genetic screening and expression analysis of psychrophilic <italic>Bacillus</italic> spp. reveal their potential to alleviate cold stress and modulate phytohormones in wheat</article-title>
+               <source>Microorganisms</source>
+               <volume>7</volume>
+               <issue>9</issue>
+               <fpage>337</fpage>
+               <pub-id pub-id-type="doi">10.3390/microorganisms7090337</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

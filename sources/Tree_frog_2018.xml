@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">5934</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.5934</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Animal Behavior</subject>
+               <subject>Conservation Biology</subject>
+               <subject>Developmental Biology</subject>
+               <subject>Ecology</subject>
+               <subject>Zoology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Reproduction and metamorphosis in the <italic>Myristica</italic> Swamp tree frog, <italic>Mercurana myristicapalustris</italic> (Anura: Rhacophoridae)</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Abraham</surname>
+                  <given-names>Robin Kurian</given-names>
+               </name>
+               <email> robinabrahamf50@gmail.com</email>
+               <email>robinabraham@ku.edu</email><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Mathew</surname>
+                  <given-names>Jobin Kuruvilla</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Raju</surname>
+                  <given-names>David Valiaparampil</given-names>
+               </name><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Rao</surname>
+                  <given-names>Ramprasad</given-names>
+               </name><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <contrib id="author-5" contrib-type="author">
+               <name>
+                  <surname>Zachariah</surname>
+                  <given-names>Anil</given-names>
+               </name><xref ref-type="aff" rid="aff-5">5</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Biodiversity Institute and Department of Ecology and Evolutionary Biology, University of Kansas</institution>, <city>Lawrence</city>, <state>KS</state>, <country>USA</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Karakkattupeedicayil</institution>, <city>Edakkara, Malappuram</city>, <state>Kerala</state>, <country>India</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Valiyaparampil House</institution>, <city>Kuzhimattom, Kottayam</city>, <state>Kerala</state>, <country>India</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Chathurthi</institution>, <city>Mudradi, Udupi</city>, <state>Karnataka</state>, <country>India</country></aff>
+            <aff id="aff-5"><label>5</label><institution>Beagle</institution>, <city>Chandakunnu, Wayanad</city>, <state>Kerala</state>, <country>India</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Forbes</surname>
+                  <given-names>Valery</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-21">
+            <day>21</day>
+            <month>11</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e5934</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-05-24">
+               <day>24</day>
+               <month>5</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-10-14">
+               <day>14</day>
+               <month>10</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Abraham et al.</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Abraham et al.</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/5934"/>
+         <abstract>
+            <p>The reproductive biology of the <italic>Myristica</italic> Swamp tree frog (<italic>Mercurana myristicapalustris</italic>), a monotypic rhacophorid frog endemic to the foothills of the Western Ghats mountains of India, has remained unknown since the description of the genus and species. We monitored individuals from parental generation amplexus to the completion of offspring generation tadpole metamorphosis. Surprisingly, our observations revealed that this species exhibits many previously unknown characteristics, including the first ever record of the female, and a diverse call repertoire, consisting of five different call types (the functions of which remain incompletely known). We were also able to determine that reproductive activity peaked during the late pre-monsoon season, that males engaged in intraspecific aggressive encounters to occupy and to defend desirable territories, and that oviposition took place in terrestrial nests made by females. Embryonic development in the unattended nest was followed by tadpole development, which concluded within 40 days. The specific breeding mode employed by <italic>Mercurana</italic>, which restricts its range to the endangered <italic>Myristica</italic> swamp ecosystem, likely renders it susceptible to multiple threats, which should be considered jointly in future conservation planning.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>India</kwd>
+            <kwd>Amphibia</kwd>
+            <kwd>Rhacophoridae</kwd>
+            <kwd>Reproductive mode</kwd>
+            <kwd><italic>Myristica</italic> swamp</kwd>
+         </kwd-group>
+         <funding-group>
+            <funding-statement>The authors received no funding for this work.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Anuran reproduction has conventionally been classified into two broad suites of breeding systems: explosive and prolonged, even though they are opposite extremes of a broad spectrum (<xref ref-type="bibr" rid="ref-46">Wells, 2007</xref>). Explosive breeding is usually associated with habitats in seasonal climates, in species that breed only once each year, in aggregations around suitable oviposition sites (<xref ref-type="bibr" rid="ref-46">Wells, 2007</xref>). In many species that breed explosively, males congregate for only a few days of the year, form ‘choirs’ and vocalize in choruses, advertising locations of breeding sites to females that arrive simultaneously from surrounding areas (<xref ref-type="bibr" rid="ref-38">Taylor, 1977</xref>; <xref ref-type="bibr" rid="ref-45">Wells, 1977</xref>); in such species, with the arrival of females, the males stop singing and start competing energetically and pursue females to ensure mating opportunity (<xref ref-type="bibr" rid="ref-11">Duellman &amp; Trueb, 1986</xref>). In prolonged breeding, on the other hand, breeding can last many months and males establish individual territories and use different calls both to warn male rivals not to approach their territory and to stand out from the rest of the males and therefore be chosen by females (<xref ref-type="bibr" rid="ref-14">Gerhardt, 1991</xref>; <xref ref-type="bibr" rid="ref-45">Wells, 1977</xref>). Between these two general classes, around 60 reproductive modes have been identified in anurans, ranging from aquatic eggs deposited in water to vivparity (<xref ref-type="bibr" rid="ref-10">Crump, 2015</xref>; <xref ref-type="bibr" rid="ref-17">Haddad &amp; Prado, 2005</xref>; <xref ref-type="bibr" rid="ref-46">Wells, 2007</xref>).</p>
+         <p>The Asian tree frogs (family Rhacophoridae) comprise 421 recognized species (<xref ref-type="bibr" rid="ref-13">Frost, 2018</xref>), which exhibit four general reproductive modes: aquatic breeding, terrestrial gel nesting, terrestrial foam nesting, and direct development (<xref ref-type="bibr" rid="ref-29">Meegaskumbura et al., 2015</xref>). In 2013, we described two new monotypic rhacophorid genera from the southern Western Ghats mountains of India (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>). Of these, <italic>Mercurana</italic> is a lineage that is sister to the clade containing direct-developing <italic>Raorchestes</italic> + <italic>Pseudophilautus</italic>. Other, early, successively-branching taxa include <italic>Nasutixalus</italic> (three species<italic>,</italic> from Northeast India, Myanmar, and Southern Tibet and Yunnan in China (<xref ref-type="bibr" rid="ref-47">Yang &amp; Chan, 2018</xref>), <italic>Kurixalus</italic> (15 species distributed from the Eastern Himalayas to insular Southeast Asia (<xref ref-type="bibr" rid="ref-25">Lv et al., 2018</xref>), and <italic>Beddomixalus</italic> (one species, from the southern Western Ghats (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>). All six genera are part of a larger clade including direct-developing taxa such as <italic>Philautus</italic> (55 species, primarily insular Southeast Asia), <italic>Raorchestes</italic> (62 species, primarily in the Indian Subcontinent), and <italic>Pseudophilautus</italic> (79 species, primarily in Sri Lanka) (<xref ref-type="bibr" rid="ref-13">Frost, 2018</xref>). The monophyly of this large clade traditionally has been interpreted as supported by a single unambiguous synapomorphy: the presence of a simple, tubular Wolffian duct in males (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>; <xref ref-type="bibr" rid="ref-23">Liem, 1969</xref>). However, within this clade, the phylogenetic position of <italic>Mercurana</italic> is not entirely clear with respect to the clades of <italic>Raorchestes</italic> and <italic>Pseudophilautus</italic> (<xref ref-type="bibr" rid="ref-7">Biju et al., 2016</xref>; <xref ref-type="bibr" rid="ref-29">Meegaskumbura et al., 2015</xref>).</p>
+         <p>Previously, we documented the reproductive behaviour of <italic>Beddomixalus bijui</italic> in detail: the species breeds explosively, ovipositing terrestrial, non-pigmented eggs openly on the moist bed of highland swamps immediately following the first pre-monsoon rains (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>). Embryos develop into free-swimming tadpoles that complete larval growth in swamps that inundate with standing water after the rains intensify (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>). This strategy was classified as ‘terrestrial gel nesting with exotrophic tadpoles’ by <xref ref-type="bibr" rid="ref-29">Meegaskumbura et al. (2015)</xref>.</p>
+         <p>The Western Ghats mountain range is a globally important biodiversity hotspot that supports many unique ecosystems and numerous endemic families, genera and species of plants, animals and fungi (<xref ref-type="bibr" rid="ref-16">Gunawardene et al., 2007</xref>). This region also represents a major area of endemic amphibian radiations, with hundreds of described species (<xref ref-type="bibr" rid="ref-8">Bossuyt et al., 2004</xref>; <xref ref-type="bibr" rid="ref-44">Vijayakumar et al., 2016</xref>). <italic>Mercurana myristicapalustris</italic> is a rare, highly range-restricted species that has so far been located only at two sites in the Western Ghats, both in <italic>Myristica</italic> swamp forests in the southern part of the state of Kerala. <italic>Myristica</italic> swamp forests are dominated by species of Myristicaceae (nutmeg family), and are found as pockets in low-lying, poorly-drained depressions in evergreen forest formations in the Western Ghats (<xref ref-type="bibr" rid="ref-9">Chandran &amp; Mesta, 2001</xref>; <xref ref-type="bibr" rid="ref-32">Moorthy, 1960</xref>). Once widespread across the west coast of India, these relics of primeval forests occur today as small fragments from Goa in the north to southern Kerala in the south (<xref ref-type="bibr" rid="ref-24">Limaye, Padmalal &amp; Kumaran, 2017</xref>). We previously noted reproductive behaviour in <italic>M. myristicapalustris</italic>, which appeared similar to that of <italic>Beddomixalus</italic> (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>), as likely indicative of explosive breeders. As in <italic>Beddomixalus</italic>, we observed large aggregations of male <italic>Mercurana</italic> congregating at breeding sites during the pre-monsoon period, vocalizing males calling from perches, and females depositing eggs on the swamp floor.</p>
+         <p>Males of some species in <italic>Pseudophilautus</italic>, <italic>Polypedatus</italic>, and <italic>Rhacophorus</italic> are known to defend limited calling and mating areas against conspecifics with combat, suggesting territoriality (<xref ref-type="bibr" rid="ref-3">Arak, 1983</xref>; <xref ref-type="bibr" rid="ref-12">Feng &amp; Narins, 1991</xref>; <xref ref-type="bibr" rid="ref-19">Kasuya, Hirota &amp; Shigehara, 1996</xref>). We witnessed one instance of physical combat between males of <italic>M. myristicapalustris</italic>, in what was perceived to be competition for optimal breeding sites (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>).</p>
+         <p>Oviposition by female <italic>M. myristicapalustris</italic> occurs in shallow burrows, excavated by the female in the loamy swamp floor (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>), suggesting that a rainfall-mediated stimulus may be vital for further larval development. The related <italic>Kurixalus idiootocus</italic>, from Taiwan, lays pigmented eggs in shallow depressions or holes at the edges of temporary ponds (<xref ref-type="bibr" rid="ref-22">Kuramoto &amp; Wang, 1987</xref>); embryonic development apparently is stimulated by heavy rain, and tadpoles complete development in water, much like in <italic>Mercurana</italic> and <italic>Beddomixalus</italic>.</p>
+         <p>In this study, we use extensive new field observation and natural history data to test if <italic>M. myristicapalustris</italic> (a) is an obligate swamp breeder (b) employs terrestrial nesting, (c) is territorial, and (d) is an explosive breeder, typical of many other pre-monsoon breeding frogs in India.</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>Methods</title>
+         <p>We monitored a population of <italic>M. myristicapalustris</italic> from 5 May–31 July 2016. The study area is a <italic>Myristica</italic> swamp forest patch, approximately 1,500 m<sup>2</sup>, in the 560,000 m<sup>2</sup> Ammayambalam Forest (8.841°N, 77.035°E, ∼170 m elevation), on the periphery of the Kulathupuzha Reserve Forest, in the state of Kerala, India. We also observed male activity (but no breeding) at Sasthanada swamp, a much smaller <italic>Myristica</italic> swamp patch 3.8 km southeast in aerial distance from our primary study site. Both these sites form discharge sites for the headwaters of the Pu Ar stream which is a tributary of the Kulathupuzha river, which in turn drains into the Kallada River. We assessed reproductive behaviour four or five nights/wk during the pre-monsoon (May to June) season, and larval development during the early course of the subsequent southwest monsoon (June to July) season. We located 25 males around a sandy depression that flooded during the monsoon rains, and we visited the site every evening. Adult males started making calls in the evenings from 11 May 2016, and vocalization activity persisted till 5 June 2016. We noted an increase in number of calling males with the progression of days peaking between 18–26 May, after which we sensed a decline in number of individuals calling; number of calling individuals per evening was not counted.</p>
+         <p>We recorded five advertisement calls (vocalizations) from each of four males with a TASCAM™ HDP2 portable stereo recorder, in uncompressed .wav format at a sampling rate of 44.1 kHz and 16-bit resolution. Individuals were recorded for three min at a distance of 50–200 cm, and calls were visualized using the SEEWAVE R package (<xref ref-type="bibr" rid="ref-37">Sueur, Aubin &amp; Simonis, 2008</xref>; <xref ref-type="bibr" rid="ref-39">Team RDC, 2013</xref>) and acoustic properties were analyzed in Raven©Pro 1.5 (Bioacoustics Research Group, Cornell Lab of Ornithology 2012). All calls were recorded at an ambient temperature range of 25.5  ± 1.5 °C, and temperature around the frog was measured using a Fluke 62 MAX InfraRed Thermometer. We did not measure SVL of males recorded to minimize disturbance which might bias reproductive behaviour. Dominant frequency was measured at peak amplitude; limited sample sizes prevented statistical summaries of rate-related call characters.</p>
+         <p>We observed combat behaviour at 19:22 h on 27 May 2016, at an ambient temperature of 27 °C and 100% humidity. We photographed male–male antagonistic interactions, and male–female interactions. We noted oviposition site, located clutches, and counted eggs per clutch. We collected tadpoles with a dip net, and euthanized specimens in 5% lidocaine, before preservation in 10% neutral-buffered formalin. We staged (<xref ref-type="bibr" rid="ref-15">Gosner, 1960</xref>), photographed, and took morphological measurements (to the nearest 0.1 mm, with Mitutoyo callipers, following <xref ref-type="bibr" rid="ref-28">McDiarmid &amp; Altig, 1999</xref>) from preserved specimens.</p>
+         <p>Measurements included total length, body length, tail length, body width, body height, maximum tail length, upper tail fin height, lower tail fin height, snout-spiracle distance, internarial distance, naris-snout distance, eye-naris distance, interorbital distance and eye diameter (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+         <table-wrap id="table-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/table-1</object-id><label>Table 1</label><caption>
+               <title>Morphometric measurements (in mm) of two tadpole specimens (Stage 38) of <italic>Mercurana myristicapalustris</italic>.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/table-1.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th><bold>TL</bold></th>
+                        <th><bold>BL</bold></th>
+                        <th><bold>TAL</bold></th>
+                        <th><bold>BH</bold></th>
+                        <th><bold>ED</bold></th>
+                        <th><bold>TMH</bold></th>
+                        <th><bold>MTH</bold></th>
+                        <th><bold>UTF</bold></th>
+                        <th><bold>LTF</bold></th>
+                        <th><bold>NSD</bold></th>
+                        <th><bold>END</bold></th>
+                        <th><bold>IND</bold></th>
+                        <th><bold>IOD</bold></th>
+                        <th><bold>SSD</bold></th>
+                        <th><bold>HW</bold></th>
+                        <th><bold>BW</bold></th>
+                        <th><bold>TMW</bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Tadpole 1</td>
+                        <td>22.1</td>
+                        <td>06.9</td>
+                        <td>15.2</td>
+                        <td>02.8</td>
+                        <td>00.9</td>
+                        <td>02.4</td>
+                        <td>02.4</td>
+                        <td>00.9</td>
+                        <td>00.3</td>
+                        <td>01.2</td>
+                        <td>00.9</td>
+                        <td>00.1</td>
+                        <td>01.6</td>
+                        <td>04.4</td>
+                        <td>03.9</td>
+                        <td>03.5</td>
+                        <td>02.1</td>
+                     </tr>
+                     <tr>
+                        <td>Tadpole 2</td>
+                        <td>20.9</td>
+                        <td>06.6</td>
+                        <td>14.3</td>
+                        <td>02.7</td>
+                        <td>00.8</td>
+                        <td>02.3</td>
+                        <td>02.3</td>
+                        <td>00.9</td>
+                        <td>00.2</td>
+                        <td>01.1</td>
+                        <td>00.8</td>
+                        <td>00.1</td>
+                        <td>01.5</td>
+                        <td>04.2</td>
+                        <td>03.7</td>
+                        <td>03.3</td>
+                        <td>02.0</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-1fn"><p><bold>Notes.</bold></p></fn><fn id="table-1fn1" fn-type="other"><p> 
+                  <def-list id="dl1">
+                     <def-item>
+                        <term> TL</term>
+                        <def>
+                           <p>Total length</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> BL</term>
+                        <def>
+                           <p>Body length</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> TAL</term>
+                        <def>
+                           <p>Tail length</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> BH</term>
+                        <def>
+                           <p>Body height</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> ED</term>
+                        <def>
+                           <p>Eye diameter</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> TMH</term>
+                        <def>
+                           <p>Tail muscle height</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> MTH</term>
+                        <def>
+                           <p>Maximum tail height</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> UTF</term>
+                        <def>
+                           <p>Upper tail fin height</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> LTF</term>
+                        <def>
+                           <p>Lower tail fin height</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> NSD</term>
+                        <def>
+                           <p>Nasal snout distance</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> END</term>
+                        <def>
+                           <p>Eye nasal distance</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> IND</term>
+                        <def>
+                           <p>Inter nasal distance</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> IOD</term>
+                        <def>
+                           <p>Inter orbital distance</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> SSD</term>
+                        <def>
+                           <p>Snout spiracle distance</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> HW</term>
+                        <def>
+                           <p>Head width</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> BW</term>
+                        <def>
+                           <p>Body width</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> TMW</term>
+                        <def>
+                           <p>Tail muscle width</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn></table-wrap-foot>
+         </table-wrap>
+         <p>Five tadpoles of the same clutch were captured after emergence and reared together at our field base 60 kms from the collection site, also in the foothills of the Western Ghats, until completion of metamorphosis to confirm species identification, confirm staging, and study development series and duration. Tadpole rearing was done at ambient temperatures ranging between 23–31 °C in a glass tank with water, soil substrate and associated debris collected from the natural site of the clutch. Fieldwork at the designated site was conducted with permissions and guidelines from the Kerala State Forest Department under the research permit # WL10-38972/2016. This study has been approved by the University of Kansas IACUC under protocol # AUS 158-04.</p>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>Males vocalized from perches (e.g., slender trunks of tree saplings, or branches/foliage of understorey vegetation such as <italic>Gomphandra tetrandra</italic>, <italic>Myxopyrum smilacifolium</italic>, <italic>Phrynium pubinerve</italic>, the screw palm <italic>Pandanus thwaitesii</italic>, the rattan palm <italic>Calamus hookerianus</italic> and the aroid <italic>Lagenandra ovata</italic> among a few) 0.25–1.5 m above ground (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>), during the intervals when the intermittent rainfall subsided. Although individual males call at moderate levels of sound intensity, calls of males in the vicinity of our study area became temporally synchronized, collectively resulting in a loud chorus, which could be heard by approaching field biologists 20 m away. Synchronized choruses lasted 10–12 s, separated by 480–600 s.</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Habit and Habitat of <italic>M. myristicapalustris</italic>.</title>
+               <p>(A) Male vocalizing from a branch perch. Image credit: David V. Raju; (B) female. Image credit: Jobin Mathew; (C) swamp forest floor before the first pre-monsoon showers. Image credit: Robin K. Abraham; (D) typical ovipostion site under leaf litter on the swamp floor beneath male perch (arrow, location of burrow). Image credit: Robin K. Abraham.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/fig-1.png"/>
+         </fig>
+         <p>Five different advertisement call types were recorded from four males (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Type 1 (all calls recorded between ambient temperatures of 25.5 ± 1.5 °C) consisted of a series of amplitude modulated pulses with a dominant frequency of 1,895 Hz, each separated by average interpulse intervals of 0.32 s (mean = 0.32, range = 0.26–0.36, SD = 0.30, <italic>n</italic> = 5; <xref ref-type="fig" rid="fig-2">Fig. 2A</xref>, Type 1). The pulse rate was 2.94 pulses/s and the call duration was 1.76 s. Type 2 (all calls recorded between ambient temperatures of 26 ± 1 °C) consisted of screechy pulses, with a dominant frequency of 2,182 Hz (<italic>n</italic> = 3), separated by an interpulse interval of approximately 0.38 s. Each pulse in this call type was strongly amplitude modulated, with the amplitude peaking over the last 50% of pulse length duration (<xref ref-type="fig" rid="fig-2">Fig. 2A</xref>, Type 2). The pulse rate was 0.57 pulses/s and the call duration was 1.24 s. We were able to record only one instance each of a third, fourth and fifth call type. Type 3 (call recorded at an ambient temperature of 25.4 °C) consisted of four pulses, of which the first one was distinct and dominant frequency was 1,808 Hz (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>, Type 3). The interpulse interval was approximately 0.075 s, the pulse rate 0.12 and call duration 0.36 s. Type 4 (call recorded at an ambient temperature of 24.5 °C), with a call duration of 0.32 s, consisted of a rapid, three-pulse call with a dominant frequency of 2,756 Hz and no interpulse interval (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>, Type 4). Type 5 (call recorded at an ambient temperature of 25.2 °C), with a call duration of 0.94 s, had 13 rapid pulses and had a dominant frequency of 1,895 Hz and also did not have a measurable interpulse interval (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>, Type 5).</p>
+         <fig id="fig-2">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/fig-2</object-id><label>Figure 2</label><caption>
+               <title>Advertisement vocalizations of <italic>Mercurana myristicapalustris</italic>.</title>
+               <p>Comparative spectrograms and corresponding oscillograms of different call types (A, Types 1 &amp; 2; B, Types 3, 4 and 5). Audio credit: (1, 2 &amp; 5) Robin K. Abraham and (3 &amp; 4) Ramprasad Rao.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/fig-2.png"/>
+         </fig>
+         <p>Males occupied specific perch sites every night for our 2-wk study period. These sites were located in the parts of the swamp where the canopy was broken, making understorey vegetation growth possible. Individual males could be identified by the specific arrangement of yellow spots and blotches (in relation to smaller black speckles) on their dorsal skin surface, the pattern which is unique to each individual (<xref ref-type="fig" rid="fig-3">Fig. 3A</xref> shows an example of two males that can be distinguished by the differences in their dorsal spot pattern). Two males ventured onto neighbouring male perches. On 27 May 2016 (19:22 h), one male approached an adjacent male at its habitual leaf perch. The resident male intensified calling rate upon detecting the intruder’s approach, and physical combat began when the intruding male arrived on the resident’s leaf (<xref ref-type="fig" rid="fig-3">Figs. 3B</xref>–<xref ref-type="fig" rid="fig-3">3D</xref>). Combat consisted of pushing, wrestling and kicking while calling at the same time, till one of the two individuals either withdrew or was pushed off the perch. The combating males made the Type 2 call (<xref ref-type="fig" rid="fig-2">Fig. 2B</xref>), which comprised of screechy notes (pulses), and were louder than the other call types. After 240 s of physical combat, the intruding male retreated. A second instance of male-male combat was observed (20:08 h, 29 May 2016), involving two males violently kicking one another using their hind limbs, till one fell out of the perch.</p>
+         <fig id="fig-3">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/fig-3</object-id><label>Figure 3</label><caption>
+               <title>Male-male combat in <italic>Mercurana myristicapalustris</italic>.</title>
+               <p>(A–D) Combat for perch position on a leaf. Image credit: David V. Raju.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/fig-3.png"/>
+         </fig>
+         <p>At 21:05 h on 27 May 2016, a female was observed in midstory vegetation layers as it approached a different conspecific male vocalizing on a lower perch above the swamp (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>). The female descended to the male’s perch (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>) and that male engaged in axillary amplexus (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>) at 22:45 h, after which the pair descended to the forest floor and entered the leaf litter to access the soil substrate below the male’s perch plant (<xref ref-type="fig" rid="fig-4">Figs. 4C</xref>–<xref ref-type="fig" rid="fig-4">4D</xref>). The female (still in amplexus) used her pointed snout (<xref ref-type="fig" rid="fig-4">Fig. 4E</xref>) to make a shallow burrow in the soil. She then turned around to position the posterior ends of the pair over the freshly made burrow, and initiated oviposition. The oviposition site was located in one of the lowest sections of the swamp, which had not yet been inundated during the pre-monsoon. A clutch of ∼130 non-pigmented eggs was deposited in this nest during a period of about 50 min (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>). Egg size at the time of oviposition was 2.5 mm (<italic>n</italic> = 15). The female then used her hind legs to mix the eggs with the substrate soil (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>), after which the amplectant pair emerged from the leaf-litter before disappearing from view. We located 3 other clutches in the vicinity (i.e., within a 10 m radius), all in the lowest depression of the swamp floor.</p>
+         <fig id="fig-4">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/fig-4</object-id><label>Figure 4</label><caption>
+               <title>Courtship and amplexus in <italic>Mercurana myristicapalustris</italic>.</title>
+               <p>(A) Female approaching a vocalizing male atop leaf perch; (B) male and female in amplexus; (C) amplectic pair descending to forest floor beneath perch site; (D) female digging burrow in the soil under the leaf litter to prepare oviposition site; (E) snout profile of pair highlighting pronounced snout of female which is used as an appendage to dig soil. Image credit: David V. Raju.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/fig-4.png"/>
+         </fig>
+         <fig id="fig-5">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/fig-5</object-id><label>Figure 5</label><caption>
+               <title>Nest and larval development of <italic>Mercurana myristicapalustris</italic>.</title>
+               <p>(A) Egg clutch in the soil nest (arrow, freshly deposited eggs), and embryos at approximate Stages of (B) 19, (C) 20, (D) 21, (E) 22, (F) 24 and (G) 26. Bar represents 1 mm. Image credit: Jobin Mathew.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/fig-5.png"/>
+         </fig>
+         <p>Motile larvae (Stage 25) emerged from the jelly capsule after seven days of embryonic development (<xref ref-type="fig" rid="fig-5">Figs. 5G</xref> &amp; <xref ref-type="fig" rid="fig-6">6A</xref>). Our impression was that this tadpole emergence seemed to be in response to the accumulation of rainwater inundating the nest and surrounding immediate area. We observed delayed emergence after 10 days in clutches (fertilized on the same night) not submerged by flooding of the forest floor. We had observed a decline in rainfall during May–June 2016 as compared to the previous year, and this was corroborated with annual rainfall data collected from the Kerala Livestock Development Board Bull Station &amp; Farm, Kulathupuzha, which was the nearest rain gauge we had access to (see <xref ref-type="supplementary-material" rid="supplemental-information">Supplementary File</xref> &amp; <xref ref-type="supplementary-material" rid="supp-5">Fig. S2</xref>).</p>
+         <fig id="fig-6">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/fig-6</object-id><label>Figure 6</label><caption>
+               <title>Tadpole of <italic>Mercurana myristicapalustris.</italic></title>
+               <p>Stages (A) 28, (B) illustration of the oral apparatus (LTRF: 4(2-4)/3(1)). Image credit: Robin K. Abraham, (C) 29, (D) 30 (E) 42 (F) 44 and (G) 45. Bar represents 1 mm. Image credit: Jobin Mathew.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5934/fig-6.png"/>
+         </fig>
+         <p>We selected a nest with a clutch of ∼120 eggs for observation in May, 2016 (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>). We measured 10 eggs and a few embryos in the nest, for the following developmental stages. The freshly fertilized eggs had an average diameter of 2.5 mm (mean = 2.49, range = 2.3–2.6, SD = 2.36, <italic>n</italic> = 10). The jelly layer was not obviously visible at this initial stage. After 66 h, an embryo had grown to 3.9 mm (including a prominent jelly layer) at Stage 19 (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>); gill filaments were present, and the tail elongated. After 80 h, at Stage 20, pigment appeared on the body and eye, and vascularization of yolk was noted (<xref ref-type="fig" rid="fig-5">Fig. 5C</xref>). At Stage 22 (91 h), tail-fin differentiation began, pigmentation of the eye and body intensified, and the gill filament increased in size (<xref ref-type="fig" rid="fig-5">Fig. 5E</xref>). At Stage 23 (131 h), deeper invagination of the oral groove and development of mouthparts were noted and external gills began to atrophy and pigmentation was prominent. At Stage 24 (140 h), mouthparts differentiated and movement of embryos within the jelly layer was observed (<xref ref-type="fig" rid="fig-5">Fig. 5F</xref>). After 150 h, at Stage 25, the yolk was replaced by a coiled gut and, within a few hours, the larva emerged from its jelly sac into the pool of water that had collected in the swamp basin following heavy showers of the southwest monsoon. The larva now had a total length of 7.7 mm. After 175 h, still at Stage 26 and with a length of 11.6 mm, all labial tooth rows and jaw sheaths had keratinized (<xref ref-type="fig" rid="fig-5">Fig. 5G</xref>). The free-swimming tadpole hid under leaf litter of the swamp pool, and fed from the loamy substrate. After 34 days, hind limb buds were first observed (Stage 32; <xref ref-type="fig" rid="fig-6">Fig. 6D</xref>). Forelimbs were first noted after 37 days. Metamorphosis completed at 40 days, with emergence of the froglet (Stage 45) around the swamp pool in the first week of July (<xref ref-type="fig" rid="fig-6">Fig. 6G</xref>).</p>
+         <p>Eight tadpoles at various stages were collected from a swamp pool in June, 2016. This description is based on two tadpoles in Stage 38 (<xref ref-type="fig" rid="fig-6">Fig. 6D</xref>; <xref ref-type="table" rid="table-1">Table 1</xref>). We chose Stage 38 because hind limbs are not prominent and tadpole growth is substantial to highlight most key traits. The tadpole is oval and depressed with a brown body and a pale-brown to off-white tail that has translucent fins. The body, tail, and fins have scattered dark brown spots and blotches. The body is also further pigmented with numerous golden iridocytes, which reach sparsely to the tail. The ventral and ventrolateral body sides are translucent, with a few scattered iridocytes. The eyes are black and copper coloured, and of moderate size, positioned dorsolaterally, not visible in ventral view. In lateral view, the body is slightly depressed, and the snout slightly rounded. The heart, gill apparatus, and intestine are visible through the ventral part of the body. The naris is equidistant between the snout and the eye. The spiracle is sinistral, and ventrolaterally positioned at the midbody. The tail fin is moderate, and rounded at the end, while the upper fin is larger than the lower fin. The oral disc is anteroventrally positioned and emarginated laterally. The marginal papillae frame the oral disc across both upper and lower labia, while small submarginal papillae cover the entire inner rim of the oral disc. The upper jaw sheath is narrow and stretched into a wide U-shaped arch and the lower jaw sheath is V-shaped. The labial tooth row formula (LTRF) is 4(2-4)/3(1) (see <xref ref-type="fig" rid="fig-6">Fig. 6B</xref>). Measurements (mm) of the representative tadpoles (<italic>n</italic> = 2) were as follows: 21.5 total length, 6.8 body length, 14.8 tail length, 3.4 body width, 2.8 body height, 0.9 upper tail fin height, 0.3 lower tail fin height, 2.4 maximum tail length, 0.9 eye-naris distance, 1.2 naris-snout distance, 4.3 snout-spiracle distance, 0.1 internarial distance, 1.6 interorbital distance, and 0.9 eye diameter.</p>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Although the objective of this study was to perform focal-animal samples and instantaneous behavioural scans of <italic>Mercurana myristicapalustris</italic>, we were prevented from making detailed observations on a larger sample of individuals. A primary reason for this difficulty is that the species’ <italic>Myristica</italic> swamp habitat has been reduced from historical extents to just a few fragments (<xref ref-type="bibr" rid="ref-9">Chandran &amp; Mesta, 2001</xref>). The presence of wild elephants rendered most fragments inaccessible for us in the evenings for reasons of security.</p>
+         <p>During repeated visits to two sites over different years, we noticed yearly variation in periodicity of <italic>Mercurana</italic>’s annual breeding period. One site was our primary study area from 2012 to 2017, and the second was at Sasthanada, where we recorded this species in 2017 and 2018. During this period at these sites, we noted male reproductive activity to range from two-weeks in some years, to barely one-month, between mid-May and early June.</p>
+         <p>Our observations in this study indicate that <italic>M. myristicapalustris</italic> exhibits a combination of characteristics of both explosive and prolonged breeding strategies, which are two extremes of a spectrum of amphibian breeding systems. Males secured optimal breeding sites by actively defending territories, despite the species’ apparently explosive breeding strategy. Males also engaged in active combat with intruding conspecific males, and sites were occupied by defending males on multiple nights. Male site fidelity to exposed perches has been explained by two hypotheses that state (a) that it provides better visual field that improves visual and acoustic communication and, (b) that it facilitates the defense of territories and search for mates (<xref ref-type="bibr" rid="ref-2">Abrunhosa &amp; Wogel, 2004</xref>; <xref ref-type="bibr" rid="ref-42">Tsuji, 2004</xref>; <xref ref-type="bibr" rid="ref-46">Wells, 2007</xref>). Although sexual dimorphism too has been associated with male–male territorial combat behaviour (<xref ref-type="bibr" rid="ref-26">Magalhães et al., 2018</xref>), sexual dimorphism in <italic>M. myristicapalustris</italic> may not be an evolutionary response to male territoriality.</p>
+         <p>Male <italic>M. myristicapalustris</italic> have a repertoire of different call types, of which we recorded an advertisement call, an encounter call, and three calls for which the function is as yet unknown. Several species of rhacophorids are known to possess diverse vocal repertoires, producing a large number of distinct calls that are variable in structure, duration, amplitude and frequency, in no predictable order (<xref ref-type="bibr" rid="ref-36">Rowley et al., 2011</xref>). In spite of noting territorial, encounter, fighting and displacement behaviours in <italic>M. myristicapalustris</italic>, it is difficult with our low encounter rates and poor sample size, to categorize our recordings to any of these particular aggressive behaviour categories (<xref ref-type="bibr" rid="ref-40">Toledo et al., 2015</xref>). A study by <xref ref-type="bibr" rid="ref-49">Zhu et al. (2017)</xref> implied that the related male <italic>Kurixalus odontotarsus</italic> added specific notes in compound calls (that contain two kinds of notes) to suppress effects of an opponent male’s calls in male-male competition, while also providing females with information about the male’s ability to attract mates. We are yet unaware of any such suppressor notes in <italic>M. myristicapalustris</italic>, although our study was not detailed enough to discern such a possibility. Many other species within the Rhacophoridae, including those occurring in the Western Ghats, such as species of <italic>Beddomixalus</italic> (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>), <italic>Raorchestes</italic> (<xref ref-type="bibr" rid="ref-5">Bee, Suyesh &amp; Biju, 2013a</xref>) and <italic>Pseudophilautus</italic> (<xref ref-type="bibr" rid="ref-6">Bee, Suyesh &amp; Biju, 2013b</xref>) also produce vocal repertoires of varying complexity.</p>
+         <p>The two females observed in this study chose to mate with males that staked out territories closer to breeding sites in the lowest parts of the swamp that had the potential to be flooded for the longest period of time. Eggs were loosely deposited in shallow burrows made by the female on the swamp floor during the pre-monsoon season, and this can be confirmed as a variant of a terrestrial nest. Utilization of burrows of varying depths as egg deposition and development sites is known primarily in terrestrial and fossorial frogs (<xref ref-type="bibr" rid="ref-4">Bailey &amp; Roberts, 1981</xref>; <xref ref-type="bibr" rid="ref-18">Kaminsky, Linsenmair &amp; Grafe, 1999</xref>; <xref ref-type="bibr" rid="ref-46">Wells, 2007</xref>). Terrestrial eggs have been known to have an advantage over aquatic eggs, especially in their improved embryonic respiratory environment, and thus freeing animals to colonize habitats without permanent water bodies (<xref ref-type="bibr" rid="ref-41">Touchon &amp; Warkentin, 2008</xref>). However, terrestrial eggs experience new risks from desiccation and terrestrial predators (<xref ref-type="bibr" rid="ref-27">Martin, 1999</xref>). So, many terrestrial egg laying species oviposit in terrestrial nests in which the necessary humidity is maintained, such as the moss nests of the Australian moss frog (<italic>Bryobatrachus nimbus</italic>) (<xref ref-type="bibr" rid="ref-30">Mitchell, 2002</xref>). The Australian brown toadlet (<italic>Pseudophryne bibroni</italic>) however, oviposit in a terrestrial nest under moist leaf litter, with tadpoles emerging upon being flooded (<xref ref-type="bibr" rid="ref-31">Mitchell, 2005</xref>), just as observed in <italic>M. myristicapalustris</italic>. It has been noted in terrestrial nests of the red-backed toadlet (<italic>Pseudophryne coriacea</italic>) that hypoxia triggers egg hatching (<xref ref-type="bibr" rid="ref-34">O’Brien et al., 2018</xref>). Our observations on <italic>M. myristicapalustris</italic> showed that in clutches oviposited at the same time, rain-induced inundation of nest sites triggered egg hatching while clutches in sites that were not flooded took longer to hatch. We need more detailed observations to test the role of hypoxia in <italic>M. myristicapalustiris</italic> larval emergence.</p>
+         <p>Time of oviposition in both instances of breeding that we observed was just before the intensive southwest monsoons, which makes landfall on the southwest coast of India annually around the beginning of June. Our observations in this study provide insight into an error we made in our previous report of amplectic behaviour in this species. We had reported in <xref ref-type="bibr" rid="ref-1">Abraham et al. (2013)</xref> that when the amplectic pair began oviposition in the leaf litter, “both individuals slowly changed colour, becoming almost inconspicuous on the forest floor”. We now know that there is no such colour change, and that the illusion of a different colour in the amplectic pair was caused by poor lighting at the time.</p>
+         <p>As with the monotypic <italic>M. myristicapalustiris</italic>, closely related taxa such as <italic>Nasutixalus</italic> (three species of phytothelm breeders), <italic>Beddomixalus</italic> (one species that gel nests terrestrially on swamp edges) and <italic>Kurixalus</italic> (15 species, of which some species are known to utilize swamp systems for terrestrial nesting, some others are phytothelm breeders, and breeding mode in the remainder is unknown) are relatively species poor (<xref ref-type="bibr" rid="ref-13">Frost, 2018</xref>; <xref ref-type="supplementary-material" rid="supp-4">Fig. S1</xref>). This pattern is in contrast to <italic>Philautus, Raorchestes</italic>, and <italic>Pseudophilautus</italic>, which are direct developers (<xref ref-type="bibr" rid="ref-29">Meegaskumbura et al., 2015</xref>); these latter genera are species-rich, containing &gt;50 species each (<xref ref-type="bibr" rid="ref-13">Frost, 2018</xref>; <xref ref-type="supplementary-material" rid="supp-4">Fig. S1</xref>). This disparity in species numbers per genus in relation to reproductive strategy may be an artefact of the dominant climatic regime in the region today. As such, we suspect swamp-breeding taxa may be depauperate in the Western Ghats owing to the absence today of an Equatorial, perhumid climatic regime, which had been more dominant in the Indian Peninsula in the past, such as during the Miocene (<xref ref-type="bibr" rid="ref-20">Kern et al., 2013</xref>). Direct-developing clades may now contain larger species numbers due to direct development being more optimal in today’s dominant seasonal climate (<xref ref-type="bibr" rid="ref-44">Vijayakumar et al., 2016</xref>).</p>
+         <p>The breeding cycles of the majority of life forms of the Western Ghats, including amphibians, seem to be selected by the monsoon system that is the primary harbinger of rains on the Indian Subcontinent (<xref ref-type="bibr" rid="ref-21">Krishnan, 2002</xref>; <xref ref-type="bibr" rid="ref-43">Van Bocxlaer et al., 2009</xref>). Of the three phases of the Indian monsoon (the other two being the pre-monsoon and northeast monsoon), the southwest monsoon is the most influential, bringing the bulk of precipitation over the Indian Subcontinent. However, a few frog species in these mountains have their breeding activity timed with the pre-monsoons, which precede the southwest monsoon (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>; <xref ref-type="bibr" rid="ref-48">Zachariah et al., 2012</xref>). Such pre-monsoon breeders often complete their reproductive activities explosively prior to the southwest monsoon, apparently as a strategy to allow early establishment of larvae in rejuvenating aquatic habitats by the time of the monsoons (<xref ref-type="bibr" rid="ref-1">Abraham et al., 2013</xref>; <xref ref-type="bibr" rid="ref-48">Zachariah et al., 2012</xref>). The hybrid reproductive strategy employed by <italic>M. myristicapalustris</italic>, in which they mate explosively in a span of less than a month, and yet maintain specific male territories where females choose mates (characteristic of prolonged breeders), might have to do with the availability of the pre- and southwest-monsoons as a limited climatic window in which to complete development and maturation. Since we have not located <italic>M. myristicapalustris</italic> tadpoles outside of <italic>Myristica</italic> swamps despite repeated surveys, we suspect if the low dissolved oxygen and low pH of the swamp pools of <italic>Myristica</italic> swamp forests, which are stagnant and acidic (<xref ref-type="bibr" rid="ref-33">Nair et al., 2007</xref>), might have a role in influencing the development of the tadpole of this species, and thus the species’ distribution. However, patchily-distributed, relictual <italic>Myristica</italic> swamp forests have been and are still being decimated by anthropogenic factors such as habitat conversion and the effects of climate change (<xref ref-type="bibr" rid="ref-35">Priti et al., 2016</xref>). Furthermore, our study throws some light on larval emergence success of <italic>M. myristicapalustris</italic> and its potential relationship with timely monsoon rains, where any deviation from the norm could impact froglet recruitment into the population. These factors might render <italic>Mercurana</italic> vulnerable to the threat of extinction, given that its reproductive mode restricts it to what is a critically endangered habitat type and a short climatic window. Additional studies on aspects of the species’ biology such as its association with its specific reproductive habitat and ongoing climatic fluxes are urgently required for immediate and future conservation intervention.</p>
+      </sec>
+      <sec>
+         <title>Conclusion</title>
+         <p>Our observations of <italic>M. myristicapalustiris</italic> in the wild revealed their reproductive activities to be restricted to a brief, few-weeks long reproductive period, during which territorial males attract selective females to breed by terrestrial nesting in a specific type of tropical freshwater swamp ecosystem. Given that this species has been located only in a few fragments of the highly threatened <italic>Myristica</italic> swamp ecosystem of south Kerala, it is pertinent that more detailed exploration and studies are carried out to understand the accurate distribution of its entire metapopulation and its relationship to its habitat. Our results identify some key traits of this highly restricted frog taxon, which will help throw light on the evolution of this clade of Asian tree frogs.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="audio" mime-subtype="x-wav" xlink:href="https://peerj.com/articles/5934/Mercurana_01.wav">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Type 1 and 2 calls</title>
+               <p>Raw data of frog vocalization.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="audio" mime-subtype="x-wav" xlink:href="https://peerj.com/articles/5934/Mercurana_02.wav">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Type 3 call</title>
+               <p>Raw data of frog vocalization.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" mimetype="audio" mime-subtype="x-wav" xlink:href="https://peerj.com/articles/5934/Mercurana_03.wav">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/supp-3</object-id><label>Supplemental Information 3</label><caption>
+               <title>Type 4 and 5 calls</title>
+               <p>Raw data of frog vocalization.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-4" mimetype="image" mime-subtype="jpeg" xlink:href="https://peerj.com/articles/5934/Phylogenetic_Tree.jpg">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/supp-4</object-id><label>Figure S1</label><caption>
+               <title>ML Tree of Philautus-Kurixalus-Mercurana-Raorchestes clade</title>
+               <p>Maximum Likelihood Tree of Philautus-Kurixalus-Mercurana-Raorchestes sub-clade of the larger Rhacophoridae presented in <xref ref-type="bibr" rid="ref-1">Abraham et al. (2013)</xref>. This phylogenetic tree shows the relationship of Mercurana with other allied genera within the clade. Also shown in the tree are the number of described species per genus, and breeding modes (Direct-development, Phytothelm (in vegetation cavities) breeding and Terrestrial gel nesting) known of the various taxa in this clade.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-5" mimetype="image" mime-subtype="jpeg" xlink:href="https://peerj.com/articles/5934/Precipitation_Graph.jpg">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/supp-5</object-id><label>Figure S2</label><caption>
+               <title>Annual local precipitation graph</title>
+               <p>Graph showing annual local precipitation during the study period (2015-2017).</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-6" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.spreadsheetml.sheet" xlink:href="https://peerj.com/articles/5934/Precipitation_Data_(KLD_Bull_Farm,_Kulathupuzha).xlsx">
+            <object-id pub-id-type="doi">10.7717/peerj.5934/supp-6</object-id><label>Supplemental Information 6</label><caption>
+               <title>Annual local precipitation data</title>
+               <p>Raw data of annual local precipitation (2015-17) acquired from the Kerala Livestock Development Board Bull Station &amp; Farm, Kulathupuzha, which was the closest rain gauge available to us.</p>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We are very grateful to Mr. Saby Varghese (formerly Principal, Kerala Forest School, Arippa) for support offered to us while conducting this study. Our sincere thanks also extend to Mr. Vasudevan (Kani watcher) for helping us during fieldwork, and to Dr. Anoop Jayakumar, (manager, KLD Bull Station &amp; Farm, Kulathupuzha) for sharing local precipitation data. Thanks also to A Townsend Peterson, Rafe Brown and Linda Trueb of the University of Kansas, and Mark Bee and an anonymous reviewer, who made valuable comments, which improved the manuscript.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Robin Kurian Abraham</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Jobin Kuruvilla Mathew</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">David Valiaparampil Raju</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Ramprasad Rao</xref> performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft, made recordings of additional calls which proved very interesting and vital to our species of interest.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Anil Zachariah</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Animal Ethics</title><fn id="addinfo-1"><p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+            <p>This study has been approved by the University of Kansas IACUC under protocol # AUS 158-04.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Field Study Permissions</title><fn id="addinfo-2"><p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+            <p>Fieldwork at the designated site was conducted with permissions and guidelines from the Kerala State Forest Department under the research permit # WL10-38972/2016.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-3"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw data are provided in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Abraham et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Abraham</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Pyron</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ansil</surname>
+                     <given-names>BR</given-names>
+                  </name>
+                  <name>
+                     <surname>Zachariah</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Zachariah</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Two novel genera and one new species of treefrog (Anura: Rhacophoridae) highlight cryptic diversity in the Western Ghats of India</article-title>
+               <source>Zootaxa</source>
+               <volume>3640</volume>
+               <fpage>177</fpage>
+               <lpage>189</lpage>
+               <pub-id pub-id-type="doi">10.11646/zootaxa.3640.2.3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Abrunhosa &amp; Wogel (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Abrunhosa</surname>
+                     <given-names>PA</given-names>
+                  </name>
+                  <name>
+                     <surname>Wogel</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Breeding behavior of the leaf-frog <italic>Phyllomedusa burmeisteri</italic> (Anura: Hylidae)</article-title>
+               <source>Amphibia-Reptilia</source>
+               <volume>25</volume>
+               <fpage>125</fpage>
+               <lpage>135</lpage>
+               <pub-id pub-id-type="doi">10.1163/1568538041231157</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Arak (1983)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arak</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1983">1983</year>
+               <article-title>Vocal interactions, call matching and territoriality in a Sri Lankan treefrog, <italic>Philautus leucorhinus</italic> (Rhacophoridae)</article-title>
+               <source>Animal Behaviour</source>
+               <volume>31</volume>
+               <fpage>292</fpage>
+               <lpage>302</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0003-3472(83)80199-7</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Bailey &amp; Roberts (1981)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bailey</surname>
+                     <given-names>WJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Roberts</surname>
+                     <given-names>JD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1981">1981</year>
+               <article-title>The bioacoustics of the burrowing frog <italic>Heleioporus</italic> (Leptodactylidae)</article-title>
+               <source>Journal of Natural History</source>
+               <volume>15</volume>
+               <fpage>693</fpage>
+               <lpage>702</lpage>
+               <pub-id pub-id-type="doi">10.1080/00222938100770491</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Bee, Suyesh &amp; Biju (2013a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bee</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Suyesh</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Biju</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013a</year>
+               <article-title>Vocal behavior of the Ponmudi Bush Frog (<italic>Raorchestes graminirupes</italic>): repertoire and individual variation</article-title>
+               <source>Herpetologica</source>
+               <volume>69</volume>
+               <fpage>22</fpage>
+               <lpage>35</lpage>
+               <pub-id pub-id-type="doi">10.1655/HERPETOLOGICA-D-11-00042</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Bee, Suyesh &amp; Biju (2013b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bee</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Suyesh</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Biju</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013b</year>
+               <article-title>The vocal repertoire of <italic>Pseudophilautus kani</italic>, a shrub frog (Anura: Rhacophoridae) from the Western Ghats of India</article-title>
+               <source>Bioacoustics</source>
+               <volume>22</volume>
+               <fpage>67</fpage>
+               <lpage>85</lpage>
+               <pub-id pub-id-type="doi">10.1080/09524622.2012.712750</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Biju et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Biju</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Senevirathne</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Garg</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Mahony</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Kamei</surname>
+                     <given-names>RG</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Shouche</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Raxworthy</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Meegaskumbura</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Van Bocxlaer</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title><italic>Frankixalus</italic>, a new rhacophorid genus of tree hole breeding frogs with oophagous tadpoles</article-title>
+               <source>PLOS ONE</source>
+               <volume>11</volume>
+               <elocation-id>e0145727</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0145727</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Bossuyt et al. (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bossuyt</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Meegaskumbura</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Beenaerts</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Gower</surname>
+                     <given-names>DJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Pethiyagoda</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Roelants</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Mannaert</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilkinson</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bahir</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name>
+                     <surname>Manamendra-Arachchi</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Local endemism within the Western Ghats-Sri Lanka biodiversity hotspot</article-title>
+               <source>Science</source>
+               <volume>306</volume>
+               <fpage>479</fpage>
+               <lpage>481</lpage>
+               <pub-id pub-id-type="doi">10.1126/science.1100167</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Chandran &amp; Mesta (2001)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chandran</surname>
+                     <given-names>MDS</given-names>
+                  </name>
+                  <name>
+                     <surname>Mesta</surname>
+                     <given-names>DK</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Shaanker</surname>
+                     <given-names>UR</given-names>
+                  </name>
+                  <name>
+                     <surname>Ganeshaiah</surname>
+                     <given-names>KN</given-names>
+                  </name>
+                  <name>
+                     <surname>Bawa</surname>
+                     <given-names>KS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>On the conservation of the <italic>Myristica</italic> swamps of the Western Ghats</article-title>
+               <source>Forest genetic resources: status, threats, and conservation strategies</source>
+               <publisher-loc>New Delhi</publisher-loc>
+               <publisher-name>Oxford and India Book House</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Crump (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Crump</surname>
+                     <given-names>ML</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Anuran reproductive modes: evolving perspectives</article-title>
+               <source>Journal of Herpetology</source>
+               <volume>49</volume>
+               <fpage>1</fpage>
+               <lpage>16</lpage>
+               <pub-id pub-id-type="doi">10.1670/14-097</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Duellman &amp; Trueb (1986)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Duellman</surname>
+                     <given-names>WE</given-names>
+                  </name>
+                  <name>
+                     <surname>Trueb</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1986">1986</year>
+               <source>Biology of Amphibians</source>
+               <publisher-name>John Hopkins University Press</publisher-name>
+               <publisher-loc>Baltimore</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Feng &amp; Narins (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Feng</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Narins</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Unusual mating behavior of Malaysian treefrogs, <italic>Polypedates leucomystax</italic></article-title>
+               <source>Naturwissenschaften</source>
+               <volume>78</volume>
+               <fpage>362</fpage>
+               <lpage>365</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF01131545</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Frost (2018)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Frost</surname>
+                     <given-names>DR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <data-title>Amphibian species of the world: an online reference</data-title>
+               <version designator="6.0">Version 6.0</version>
+               <publisher-loc>New York</publisher-loc>
+               <publisher-name>American Museum of Natural History</publisher-name>
+               <uri>http://research.amnh.org/herpetology/amphibia/index.html</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2018-07-09">09 July 2018</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Gerhardt (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gerhardt</surname>
+                     <given-names>HC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Female mate choice in treefrogs: static and dynamic acoustic criteria</article-title>
+               <source>Animal Behaviour</source>
+               <volume>42</volume>
+               <fpage>615</fpage>
+               <lpage>635</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0003-3472(05)80245-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Gosner (1960)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gosner</surname>
+                     <given-names>KL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1960">1960</year>
+               <article-title>A simplified table for staging anuran embryos and larvae with notes on identification</article-title>
+               <source>Herpetologica</source>
+               <volume>16</volume>
+               <fpage>183</fpage>
+               <lpage>190</lpage>
+               <pub-id pub-id-type="doi">10.2307/3890061</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Gunawardene et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gunawardene</surname>
+                     <given-names>NR</given-names>
+                  </name>
+                  <name>
+                     <surname>Daniels</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Gunatilleke</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Gunatilleke</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Karunakaran</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Nayak</surname>
+                     <given-names>KG</given-names>
+                  </name>
+                  <name>
+                     <surname>Prasad</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Puyravaud</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramesh</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Subramanian</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>A brief overview of the Western Ghats-Sri Lanka biodiversity hotspot</article-title>
+               <source>Current Science</source>
+               <volume>93</volume>
+               <fpage>1567</fpage>
+               <lpage>1572</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Haddad &amp; Prado (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Haddad</surname>
+                     <given-names>CF</given-names>
+                  </name>
+                  <name>
+                     <surname>Prado</surname>
+                     <given-names>CP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Reproductive modes in frogs and their unexpected diversity in the Atlantic Forest of Brazil</article-title>
+               <source>BioScience</source>
+               <volume>55</volume>
+               <fpage>207</fpage>
+               <lpage>217</lpage>
+               <pub-id pub-id-type="doi">10.1641/0006-3568(2005)055</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Kaminsky, Linsenmair &amp; Grafe (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kaminsky</surname>
+                     <given-names>SK</given-names>
+                  </name>
+                  <name>
+                     <surname>Linsenmair</surname>
+                     <given-names>KE</given-names>
+                  </name>
+                  <name>
+                     <surname>Grafe</surname>
+                     <given-names>TU</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Reproductive timing, nest construction and tadpole guidance in the African pig-nosed frog, <italic>Hemisus marmoratus</italic></article-title>
+               <source>Journal of Herpetology</source>
+               <volume>33</volume>
+               <fpage>119</fpage>
+               <lpage>123</lpage>
+               <pub-id pub-id-type="doi">10.2307/1565550</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Kasuya, Hirota &amp; Shigehara (1996)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kasuya</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Hirota</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Shigehara</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>Reproductive behavior of the Japanese treefrog, <italic>Rhacophorus arboreus</italic> (Anura: Rhacophoridae)</article-title>
+               <source>Researches on Population Ecology</source>
+               <volume>38</volume>
+               <fpage>1</fpage>
+               <pub-id pub-id-type="doi">10.1007/BF02514965</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Kern et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kern</surname>
+                     <given-names>AK</given-names>
+                  </name>
+                  <name>
+                     <surname>Harzhauser</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Reuter</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kroh</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Piller</surname>
+                     <given-names>WE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>The Miocene coastal vegetation of southwestern India and its climatic significance</article-title>
+               <source>Palaeoworld</source>
+               <volume>22</volume>
+               <fpage>119</fpage>
+               <lpage>132</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.palwor.2013.10.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Krishnan (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Krishnan</surname>
+                     <given-names>RM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Reproductive phenology of a wet forest understorey in the Western Ghats, South India</article-title>
+               <source>Global Ecology and Biogeography</source>
+               <volume>11</volume>
+               <fpage>179</fpage>
+               <lpage>182</lpage>
+               <pub-id pub-id-type="doi">10.1078/0367-2530-00163</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Kuramoto &amp; Wang (1987)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kuramoto</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>C-S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1987">1987</year>
+               <article-title>A new rhacophorid treefrog from Taiwan, with comparisons to <italic>Chirixalus eiffingeri</italic> (Anura, Rhacophoridae)</article-title>
+               <source>Copeia</source>
+               <volume>1987</volume>
+               <fpage>931</fpage>
+               <lpage>942</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF02514965</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Liem (1969)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Liem</surname>
+                     <given-names>SS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1969">1969</year>
+               <source>The morphology, systematics, and evolution of the Old World treefrogs (Rhacophoridae and Hyperoliidae)</source>
+               <publisher-name>University of Illinois at Urbana-Champaign</publisher-name>
+               <publisher-loc>Chicago</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Limaye, Padmalal &amp; Kumaran (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Limaye</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                  <name>
+                     <surname>Padmalal</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Kumaran</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Late Pleistocene-Holocene monsoon variations on climate, landforms and vegetation cover in southwestern India: an overview</article-title>
+               <source>Quaternary International</source>
+               <volume>443</volume>
+               <fpage>143</fpage>
+               <lpage>154</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.quaint.2016.08.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Lv et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lv</surname>
+                     <given-names>Y-Y</given-names>
+                  </name>
+                  <name>
+                     <surname>He</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Klaus</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>RM</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>J-T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>A comprehensive phylogeny of the genus <italic>Kurixalus</italic> (Rhacophoridae, Anura) sheds light on the geographical range evolution of frilled swamp treefrogs</article-title>
+               <source>Molecular Phylogenetics and Evolution</source>
+               <volume>121</volume>
+               <fpage>224</fpage>
+               <lpage>232</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ympev.2017.09.019</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Magalhães et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Magalhães</surname>
+                     <given-names>RFd</given-names>
+                  </name>
+                  <name>
+                     <surname>Lacerda</surname>
+                     <given-names>JVA</given-names>
+                  </name>
+                  <name>
+                     <surname>Reis</surname>
+                     <given-names>LdP</given-names>
+                  </name>
+                  <name>
+                     <surname>Garcia</surname>
+                     <given-names>PCA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pinheiro</surname>
+                     <given-names>PDP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Sexual Dimorphism in <italic>Bokermannohyla martinsi</italic> (Bokermann, 1964)(Anura, Hylidae) with a Report of Male–Male Combat</article-title>
+               <source>South American Journal of Herpetology</source>
+               <volume>13</volume>
+               <fpage>202</fpage>
+               <lpage>209</lpage>
+               <pub-id pub-id-type="doi">10.2994/SAJH-D-17-00039.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Martin (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Martin</surname>
+                     <given-names>KL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Ready and waiting: delayed hatching and extended incubation of anamniotic vertebrate terrestrial eggs</article-title>
+               <source>American Zoologist</source>
+               <volume>39</volume>
+               <fpage>279</fpage>
+               <lpage>288</lpage>
+               <pub-id pub-id-type="doi">10.1093/icb/39.2.279</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>McDiarmid &amp; Altig (1999)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McDiarmid</surname>
+                     <given-names>RW</given-names>
+                  </name>
+                  <name>
+                     <surname>Altig</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <source>Tadpoles: the biology of Anuran Larvae</source>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <publisher-loc>Chicago</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Meegaskumbura et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Meegaskumbura</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Senevirathne</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Biju</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Garg</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Meegaskumbura</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Pethiyagoda</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Hanken</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Schneider</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Patterns of reproductive-mode evolution in Old World tree frogs (Anura, Rhacophoridae)</article-title>
+               <source>Zoologica Scripta</source>
+               <volume>44</volume>
+               <fpage>509</fpage>
+               <lpage>522</lpage>
+               <pub-id pub-id-type="doi">10.1111/zsc.12121</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Mitchell (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mitchell</surname>
+                     <given-names>NJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Nest-site selection in a terrestrially breeding frog with protracted development</article-title>
+               <source>Australian Journal of Zoology</source>
+               <volume>50</volume>
+               <fpage>225</fpage>
+               <lpage>235</lpage>
+               <pub-id pub-id-type="doi">10.1071/ZO01086</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Mitchell (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mitchell</surname>
+                     <given-names>NJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Nest switching in the brown toadlet (<italic>Pseudophryne bibroni</italic>): do males use chemical signals?</article-title>
+               <source>Herpetological Review</source>
+               <volume>36</volume>
+               <fpage>19</fpage>
+               <lpage>20</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Moorthy (1960)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moorthy</surname>
+                     <given-names>KK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1960">1960</year>
+               <article-title><italic>Myristica</italic> swamps in the evergreen forests of Travancore</article-title>
+               <source>Indian Forester</source>
+               <volume>86</volume>
+               <fpage>314</fpage>
+               <lpage>315</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Nair et al. (2007)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nair</surname>
+                     <given-names>PV</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramachandran</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Swarupanandan</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>TP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <source>Mapping biodiversity of the <italic>Myristica</italic> swamps in Southern Kerala</source>
+               <publisher-name>Kerala Forest Research Institute</publisher-name>
+               <publisher-loc>Peechi</publisher-loc>
+               <fpage>255</fpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>O’Brien et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>O’Brien</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Keogh</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Silla</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Byrne</surname>
+                     <given-names>PG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>The unexpected genetic mating system of the red-backed toadlet (<italic>Pseudophryne coriacea</italic>): a species with prolonged terrestrial breeding and cryptic reproductive behaviour</article-title>
+               <source>Molecular Ecology</source>
+               <volume>27</volume>
+               <fpage>3001</fpage>
+               <lpage>3015</lpage>
+               <pub-id pub-id-type="doi">10.1111/mec.14737</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Priti et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Priti</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Aravind</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Shaanker</surname>
+                     <given-names>RU</given-names>
+                  </name>
+                  <name>
+                     <surname>Ravikanth</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Modeling impacts of future climate on the distribution of Myristicaceae species in the Western Ghats, India</article-title>
+               <source>Ecological Engineering</source>
+               <volume>89</volume>
+               <fpage>14</fpage>
+               <lpage>23</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ecoleng.2016.01.006</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Rowley et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rowley</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Dau</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>TT</given-names>
+                  </name>
+                  <name>
+                     <surname>Cao</surname>
+                     <given-names>TT</given-names>
+                  </name>
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>A new species of <italic>Gracixalus</italic> (Anura: Rhacophoridae) with a hyperextended vocal repertoire from Vietnam</article-title>
+               <source>Zootaxa</source>
+               <volume>3125</volume>
+               <fpage>22</fpage>
+               <lpage>38</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Sueur, Aubin &amp; Simonis (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sueur</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Aubin</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Simonis</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Seewave, a free modular tool for sound analysis and synthesis</article-title>
+               <source>Bioacoustics</source>
+               <volume>18</volume>
+               <fpage>213</fpage>
+               <lpage>226</lpage>
+               <pub-id pub-id-type="doi">10.1080/09524622.2008.9753600</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Taylor (1977)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Taylor</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1977">1977</year>
+               <source>The reproductive biology of amphibians</source>
+               <publisher-name>Springer Science &amp; Business Media</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Team RDC (2013)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>Team RDC</collab>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <data-title>R: a language and environment for statistical computing. R Foundation for Statistical Computing</data-title>
+               <publisher-loc>Vienna</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Toledo et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Toledo</surname>
+                     <given-names>LF</given-names>
+                  </name>
+                  <name>
+                     <surname>Martins</surname>
+                     <given-names>IA</given-names>
+                  </name>
+                  <name>
+                     <surname>Bruschi</surname>
+                     <given-names>DP</given-names>
+                  </name>
+                  <name>
+                     <surname>Passos</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Alexandre</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Haddad</surname>
+                     <given-names>CF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>The anuran calling repertoire in the light of social context</article-title>
+               <source>Acta Ethologica</source>
+               <volume>18</volume>
+               <fpage>87</fpage>
+               <lpage>99</lpage>
+               <pub-id pub-id-type="doi">10.1007/s10211-014-0194-4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Touchon &amp; Warkentin (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Touchon</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Warkentin</surname>
+                     <given-names>KM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Reproductive mode plasticity: aquatic and terrestrial oviposition in a treefrog</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>105</volume>
+               <fpage>7495</fpage>
+               <lpage>7499</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.0711579105</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Tsuji (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tsuji</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Reproductive ecology and mating success of male <italic>Limnonectes kuhlii</italic>, a fanged frog from Taiwan</article-title>
+               <source>Herpetologica</source>
+               <volume>60</volume>
+               <fpage>155</fpage>
+               <lpage>167</lpage>
+               <pub-id pub-id-type="doi">10.1655/02-10</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Van Bocxlaer et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Van Bocxlaer</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Biju</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Loader</surname>
+                     <given-names>SP</given-names>
+                  </name>
+                  <name>
+                     <surname>Bossuyt</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Toad radiation reveals into-India dispersal as a source of endemism in the Western Ghats-Sri Lanka biodiversity hotspot</article-title>
+               <source>BMC Evolutionary Biology</source>
+               <volume>9</volume>
+               <fpage>131</fpage>
+               <pub-id pub-id-type="doi">10.1186/1471-2148-9-131</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Vijayakumar et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vijayakumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Menezes</surname>
+                     <given-names>RC</given-names>
+                  </name>
+                  <name>
+                     <surname>Jayarajan</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Shanker</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Glaciations, gradients, and geography: multiple drivers of diversification of bush frogs in the Western Ghats Escarpment</article-title>
+               <source>Proceedings of the Royal Society B</source>
+               <volume>283</volume>
+               <fpage>20161011</fpage>
+               <pub-id pub-id-type="doi">10.1098/rspb.2016.1011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Wells (1977)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wells</surname>
+                     <given-names>KD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1977">1977</year>
+               <article-title>The social behaviour of anuran amphibians</article-title>
+               <source>Animal Behaviour</source>
+               <volume>25</volume>
+               <fpage>666</fpage>
+               <lpage>693</lpage>
+               <pub-id pub-id-type="doi">10.1016/0003-3472(77)90118-X</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Wells (2007)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wells</surname>
+                     <given-names>KD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <source>The ecology and behavior of amphibians</source>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <publisher-loc>Chicago</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Yang &amp; Chan (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>JH</given-names>
+                  </name>
+                  <name>
+                     <surname>Chan</surname>
+                     <given-names>BP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>A new phytotelm-breeding treefrog of the genus <italic>Nasutixalus</italic> (Rhacophoridae) from western Yunnan of China</article-title>
+               <source>Zootaxa</source>
+               <volume>4388</volume>
+               <fpage>191</fpage>
+               <lpage>206</lpage>
+               <pub-id pub-id-type="doi">10.11646/zootaxa.4388.2.3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Zachariah et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zachariah</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Abraham</surname>
+                     <given-names>RK</given-names>
+                  </name>
+                  <name>
+                     <surname>Das</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Jayan</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Altig</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>A detailed account of the reproductive strategy and developmental stages of <italic>Nasikabatrachus sahyadrensis</italic> (Anura: Nasikabatrachidae), the only extant member of an archaic frog lineage</article-title>
+               <source>Zootaxa</source>
+               <volume>3510</volume>
+               <fpage>53</fpage>
+               <lpage>64</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Zhu et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhu</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhao</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Sun</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name>
+                     <surname>Yang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Brauth</surname>
+                     <given-names>SE</given-names>
+                  </name>
+                  <name>
+                     <surname>Tang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Cui</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Male-male competition and female choice are differentially affected by male call acoustics in the serrate-legged small treefrog, <italic>Kurixalus odontotarsus</italic></article-title>
+               <source>PeerJ</source>
+               <volume>5</volume>
+               <elocation-id>e3980</elocation-id>
+               <pub-id pub-id-type="doi">10.7717/peerj.3980</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

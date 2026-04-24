@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">16585</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.16585</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Conservation Biology</subject>
+<subject>Ecology</subject>
+<subject>Genetics</subject>
+<subject>Zoology</subject>
+<subject>Population Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Genetic variability and population structure of the Montezuma quail (<italic>Cyrtonyx montezumae</italic>) in the northern limit of its distribution</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author">
+<name name-style="western">
+<surname>Sánchez-Murrieta</surname>
+<given-names>Eduardo</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<contrib id="author-2" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0001-5571-5810</contrib-id>
+<name name-style="western">
+<surname>Macías-Duarte</surname>
+<given-names>Alberto</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>alberto.macias@ues.mx</email>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Castillo-Gámez</surname>
+<given-names>Reyna A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Varela-Romero</surname>
+<given-names>Alejandro</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name name-style="western">
+<surname>Montoya</surname>
+<given-names>Angel B.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Weaver</surname>
+<given-names>James H.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-7" contrib-type="author">
+<name name-style="western">
+<surname>Pacheco-Hoyos</surname>
+<given-names>Nohelia G.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>Maestría en Biociencias, Universidad de Sonora</institution>, <addr-line>Hermosillo, Sonora</addr-line>, <country>Mexico</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Cuerpo Académico de Recursos Naturales, Universidad Estatal de Sonora</institution>, <addr-line>Hermosillo, Sonora</addr-line>, <country>Mexico</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Departamento de Investigaciones Científicas y Tecnológicas, Universidad de Sonora</institution>, <addr-line>Hermosillo, Sonora</addr-line>, <country>Mexico</country></aff>
+<aff id="aff-4">
+<label>4</label><institution>Partners for Fish and Wildlife Program, United States Fish and Wildlife Service</institution>, <addr-line>Las Cruces, New Mexico</addr-line>, <country>United States of America</country></aff>
+<aff id="aff-5">
+<label>5</label><institution>Texas Parks and Wildlife Department</institution>, <addr-line>Fort Davis, Texas</addr-line>, <country>United States of America</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Roper</surname>
+<given-names>James</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-08"><day>8</day><month>12</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e16585</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-04-14"><day>14</day><month>4</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-11-13"><day>13</day><month>11</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Sánchez-Murrieta et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Sánchez-Murrieta et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/16585"/>
+<abstract>
+<p>Restricted movement among populations decreases genetic variation, which may be the case for the Montezuma quail (<italic>Cyrtonyx montezumae</italic>), a small game bird that rarely flies long distances. In the northern limit of its distribution, it inhabits oak-juniper-pine savannas of Arizona, New Mexico, and Texas. Understanding genetic structure can provide information about the demographic history of populations that is also important for conservation and management. The objective of this study was to determine patterns of genetic variation in Montezuma quail populations using nine DNA microsatellite loci. We genotyped 119 individuals from four study populations: Arizona, Western New Mexico, Central New Mexico, and West Texas. Compared to other quail, heterozygosity was low (<inline-formula id="ieqn-9">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-9.png"/><tex-math id="tex-ieqn-9"><![CDATA[${\bar H_0}$]]></tex-math><mml:math id="mml-ieqn-9"><mml:mrow><mml:msub><mml:mover accent="true"><mml:mi>H</mml:mi><mml:mo>¯</mml:mo></mml:mover><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.22 ± 0.04) and there were fewer alleles per locus (<italic>Ā</italic> = 2.41 ± 0.27). The global population genetic differentiation index <italic>R<sub>ST</sub></italic> = 0.045 suggests little genetic structure, even though a Bayesian allocation analysis suggested three genetic clusters (<italic>K</italic> = 3). This analysis also suggested admixture between clusters. Nevertheless, an isolation-by-distance analysis indicates a strong correlation (<italic>r</italic> = 0.937) and moderate evidence (<italic>P</italic> = 0.032) of non-independence between geographical and genetic distances. Climate change projections indicate an increase in aridity for this region, especially in temperate ecosystems where the species occurs. In this scenario, corridors between the populations may disappear, thus causing their complete isolation.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Genetic structure</kwd>
+<kwd>Montezuma quail</kwd>
+<kwd>Dispersion</kwd>
+<kwd>Isolation by distance</kwd>
+<kwd><italic>Cyrtonyx montezumae</italic></kwd>
+<kwd>DNA microsatellites</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Arizona Quail Alliance</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>New Mexico Quail</funding-source>
+</award-group>
+<award-group id="fund-3">
+<funding-source>Southern Arizona Quail Forever</funding-source>
+</award-group>
+<award-group id="fund-4">
+<funding-source>Texas Parks and Wildlife Department</funding-source>
+</award-group>
+<award-group id="fund-5">
+<funding-source>The Timken Foundation</funding-source>
+</award-group>
+<award-group id="fund-6">
+<funding-source>Pheasants Forever and Quail Forever in Texas</funding-source>
+</award-group>
+<funding-statement>This work was supported by the Arizona Quail Alliance, New Mexico Quail, Southern Arizona Quail Forever, Texas Parks and Wildlife Department, The Timken Foundation, and Pheasants Forever and Quail Forever in Texas. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Geographical patterns of genetic variation are influenced by a species ability to disperse (<xref ref-type="bibr" rid="ref-48">Waters et al., 2020</xref>) and low dispersal ability may reduce local genetic variation in isolated populations (<xref ref-type="bibr" rid="ref-18">Frankham, 1996</xref>). If dispersal is limited, then the concomitant reduced genetic diversity can limit local adaptability (<xref ref-type="bibr" rid="ref-4">Allendorf &amp; Luikart, 2007</xref>), and may result in a detriment of the long-term survival of the metapopulation (<xref ref-type="bibr" rid="ref-6">Arif &amp; Khan, 2009</xref>). Similarly, genetic variation loss reduces population viability by decreasing average individual fitness (<xref ref-type="bibr" rid="ref-37">Reed &amp; Frankham, 2003</xref>). Population size reductions in harvested wildlife species have disrupted their geographical distribution, increased their isolation, and reduced gene flow (<xref ref-type="bibr" rid="ref-3">Allendorf et al., 2008</xref>). Under this metapopulation dynamic scenario, persistent harvest may further exacerbate the loss of genetic variability (<xref ref-type="bibr" rid="ref-21">Harris, Wall &amp; Allendorf, 2002</xref>). The Montezuma quail (<italic>Cyrtonyx montezumae</italic> Vigors 1830) is a small game bird with limited dispersal by flight, that has a naturally disjointed geographic distribution. Montezuma quail inhabit temperate woodlands and savannas associated with mountains ranges in southeastern Arizona, southern New Mexico, and west Texas in the United States (<xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>). The Montezuma quail’s geographic distribution extends southwards into Mexico along the Sierra Madre Occidental and Oriental to the Trans-Mexican Volcanic Belt and the Sierra Madre del Sur. Montezuma quail often occupy habitat patches in isolated mountain ranges that are widely separated by unsuitable arid lands (<xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>). Dense grass is a necessary habitat component for cover (<xref ref-type="bibr" rid="ref-11">Brown, 1979</xref>), nesting (<xref ref-type="bibr" rid="ref-10">Bishop, 1964</xref>), and forage (<xref ref-type="bibr" rid="ref-52">López-Bujanda et al., 2022</xref>). Montezuma quail are sedentary, with home range sizes averaging 50 ha (<xref ref-type="bibr" rid="ref-13">Chavarria et al., 2017</xref>). The Montezuma quail nesting season is from June to October and is largely influenced by summer precipitation. Females produce a single clutch of around 10 eggs (<xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>). Montezuma quail live in coveys during the non-breeding season, but form pairs for nesting by as early as late February. The species feeds primarily on underground plant structures, such as bulbs and tubers of woodsorrel (<italic>Oxalis</italic> spp.), and sedge (<italic>Cyperu</italic>s spp.), but also feed on acorns (<italic>Quercus</italic> spp.), and a large variety of seeds and insects (<xref ref-type="bibr" rid="ref-52">López-Bujanda et al., 2022</xref>).</p>
+<p>The Montezuma quail has a patchy distribution with numerous disjunct populations in Arizona, New Mexico, and Texas (<xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>). This habitat fragmentation may have an additive effect with genetic drift on the loss of genetic variation of isolated populations. For instance, naturally fragmented habitat has led to reduced levels of genetic variation in the Mexican spotted owl (<italic>Strix occidentalis lucida</italic>) in southeastern Arizona. Differences in management by state agencies may have also affected quail genetic structure. Montezuma quail are hunted in Arizona and New Mexico (<xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>; <xref ref-type="bibr" rid="ref-23">Heffelfinger &amp; Olding, 2000</xref>), but not in Texas, where populations are restricted to the Trans-Pecos region and the Edwards Plateau (<xref ref-type="bibr" rid="ref-1">Albers &amp; Gehlbach, 1990</xref>). Furthermore, geographic genetic variation of Texas populations might have been disrupted in the mid 1970s when a series of reintroductions occurred in west and central Texas using quail from Arizona (<xref ref-type="bibr" rid="ref-49">Wauer, 1973</xref>; <xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>). The success of these reintroductions, and their contribution to the gene pool in those populations, has not been confirmed (<xref ref-type="bibr" rid="ref-7">Armstrong, 2006</xref>).</p>
+<p>A population genetic survey is a convenient way to evaluate the effect of isolation, fragmentation, management, and reintroductions on the viability of Montezuma quail populations. The objective of this study was to determine the patterns of genetic variation among Montezuma quail populations in Arizona, New Mexico and Texas using DNA microsatellite markers.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>Tissue samples were extracted from specimens hunted in Arizona and New Mexico under numerous hunting licenses issued by Arizona Game and Fish Department and New Mexico Department of Game and Fish. Tissue samples from Texas originated from specimens collected under Scientific Permit Number SPR-0410-139 issued by Texas Parks and Wildlife Department. We initially allocated 119 individual samples to four populations: Arizona (AZ), Central New Mexico (CNM, east of the Río Grande), Western New Mexico (WNM, west of the Río Grande) and West Texas (WTX). These geographic designations produced an unbalanced sample size, with a relatively low sample size allocated to CNM (<italic>n</italic> = 12 individuals). Since unbalanced sampling affects the inference of population structure (<xref ref-type="bibr" rid="ref-32">Meirsman, 2019</xref>), we re-allocated 14 samples from the two easternmost collection locations of the WNM population to the CNM population. Ultimately, we allocated the 119 samples as follows: 32 to AZ, 36 to WNM, 26 to CNM and 25 to WTX (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). We used 25 mg of muscle tissue from the right wing to extract genomic DNA using a Qiagen® DNeasy Blood and Tissue extraction kit.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.16585/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Sampling locations of Montezuma quail.</title>
+<p>The gray area represents the estimated geographic distribution of the Montezuma quail (<xref ref-type="bibr" rid="ref-9">BirdLife International, 2016</xref>). Circles, squares, triangles, and diamonds represent individuals from the populations of Arizona (AZ), Western New Mexico (WNM), Central New Mexico (CNM), and West Texas (WTX), respectively. Gray dots are records from e-bird (<xref ref-type="bibr" rid="ref-44">Sullivan et al., 2009</xref>) and GBIF (<xref ref-type="bibr" rid="ref-19">GBIF.org, 2023</xref>). State division for the United States by <xref ref-type="bibr" rid="ref-33">National Weather Service (2023)</xref>. State division for Mexico by <xref ref-type="bibr" rid="ref-26">Instituto Nacional de Estadística y Geografía (2022)</xref>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16585/fig-1.png"/>
+</fig>
+<p>Twenty DNA microsatellite loci developed by <xref ref-type="bibr" rid="ref-39">Schable et al. (2004)</xref> for <italic>Colinus virginianus</italic> were evaluated. The choice of these was made based on heterozygosity and the number of alleles reported by the authors. For microsatellite amplification, 25 µL were prepared for PCR reactions whose final concentrations were 2 µL of genomic DNA (with a concentration of 50/µL), 12.5 µL of MasterMix (GoTaq® Colorless Master Mix, Promega), 1 µL of each oligo and 8.5 µL of PCR water without endonucleases. Thermocycler conditions for the amplification were modified according to the MasterMix manufacturer specifications and the alignment temperatures of the oligos, which varied between 45 °C and 57 °C. The program used was as follows: a cycle of 95 °C for 2 min; five cycles of 94 °C for 30 s, 45 °C for 30 s and 72 °C for 30 s; then 35 cycles of 94 °C for 45 s, 45 °C for 45 s and 72 °C for 1 min; followed by a cycle of 72 °C for 2 min. Ten microsatellite loci with the highest polymorphism and concordance in the fragment size as reported by the author were chosen. Selected loci were marked with fluorophores in the sequence 5′–3′. A post-PCR multiplex array for fragment reading was performed. This was performed on an ABI 3730xl sequencer (Applied Biosystems, Waltham, MA, USA) of Macrogen. We used GeneScan™ 350 ROX™ dye Size Standard for sizing DNA fragments. Allele scoring was conducted using program GeneMarker v. 2.6.4 (<xref ref-type="bibr" rid="ref-24">Hulce et al., 2011</xref>). We did not run fragment analyses on individual samples more than once and we could not estimate error rates associated with allele scoring. Loss of alleles, null alleles and excess homozygotes were assessed using program Micro-Checker v 2.2.3 (<xref ref-type="bibr" rid="ref-47">Van Oosterhout et al., 2004</xref>). Genetic variability estimator’s locus alleles (<italic>A</italic>) expected heterozygosity (<italic>H</italic><sub><italic>e</italic></sub>) and observed heterozygosity (<italic>H</italic><sub><italic>o</italic></sub>) were obtained for each locus and population using GenAlEx v 6.5 (<xref ref-type="bibr" rid="ref-41">Smouse &amp; Peakall, 2012</xref>). Using the Arlequin v 3.5 software (<xref ref-type="bibr" rid="ref-17">Excoffier &amp; Lischer, 2010</xref>), possible deviations from the Hardy-Weinberg equilibrium (HWE), were calculated for each locus in each population. Linkage disequilibrium for each pair of loci across populations was tested using the Fisher’s method as implemented by Genepop on the Web (<xref ref-type="bibr" rid="ref-36">Raymond &amp; Rousset, 1995</xref>; <xref ref-type="bibr" rid="ref-38">Rousset, 2008</xref>).</p>
+<p>Population genetic differentiation index <italic>R</italic><sub><italic>ST</italic></sub> was calculated using Arlequin v 3.5 (<xref ref-type="bibr" rid="ref-17">Excoffier &amp; Lischer, 2010</xref>) to determine the degree of genetic differentiation among populations. Population structure analysis was conducted using software STRUCTURE (<xref ref-type="bibr" rid="ref-35">Pritchard, Stephens &amp; Donnelly, 2000</xref>), which estimates the posterior probability of the data given existence of <italic>K</italic> clusters or groups under Hardy–Weinberg equilibrium and estimates the individuals’ posterior membership probability to each of the <italic>K</italic> clusters. Individuals are then assigned to the cluster that holds the highest probability. Parameters established for the analysis were 10,000 burnins, 50,000 repetitions of Monte Carlo Markov Chains, 25 iterations, a <italic>K</italic> value (number of clusters) between 1–4, an ancestral mixing model, and a correlated allelic frequency model. Outputs from program STRUCTURE were analyzed using the method of <xref ref-type="bibr" rid="ref-16">Evanno, Regnaut &amp; Goudet (2005)</xref> as implemented by software STRUCTURE HARVESTER (<xref ref-type="bibr" rid="ref-15">Earl, 2012</xref>) to determine the most probable number of genetic clusters. This method estimates Delta <italic>K</italic> (Δ<italic>K</italic>), which is the difference between the values of the logarithmic likelihood in each analysis iteration for the four clusters.</p>
+<p>A Mantel test was conducted using program Genepop 4.3 (<xref ref-type="bibr" rid="ref-38">Rousset, 2008</xref>) to determine if there was a distance isolation pattern among Montezuma quail populations. Statistic <italic>R</italic><sub><italic>ST</italic></sub> was used as a measure of genetic distance between populations. We performed 10,000 permutations to estimate the statistical significance (<italic>P</italic> &lt; 0.05) of the null hypothesis of independence between genetic and geographic distance.</p>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<p>A reduced number of DNA microsatellite loci out of the 20 loci tested were used for genetic analyses. We use locus (Quail) names as in <xref ref-type="bibr" rid="ref-39">Schable et al. (2004)</xref> hereafter. Loci Quail 3, Quail 13, Quail 24, and Quail 27 did not amplify for some individuals. For the first three loci, only one individual did not amplify in CNM, WNM, and AZ respectively. For Quail 27, no alleles were recovered in three individuals of CNM and two of WNM. For Quail 41, despite amplification of fragments in agarose gels, we could only genotype 21 individuals and this locus was excluded from analyses. Null alleles were detected in Quail 27 and Quail 44, and these were excluded from the analyses of genetic structure (see below). Seven loci were polymorphic in at least one population, while Quail 25 and Quail 44 were monomorphic for all populations (<xref ref-type="table" rid="table-1">Table 1</xref>). We found private alleles for Quail 03, Quail 13, Quail 27, and Quail 31 in populations AZ, CNM and WTX. Quail 27 deviated from HWE in AZ, CNM and WNM, and had heterozygous deficit. Quail 31 also deviated from HWE in all populations, with an excess of heterozygotes in AZ and deficit in the other three populations. Quail 24 did not meet HWE at WNM, where many individuals had the same homozygous genotype. There was suggestive evidence of linkage disequilibrium for only pairs Quail 9–Quail 31 (χ<sup>2</sup> = 9.58, d.f. = 4, <italic>P</italic> = 0.048) and Quail 27–Quail 31 (χ<sup>2</sup> = 16.86, d.f. = 8, <italic>P</italic> = 0.032) and no evidence of linkage disequilibrium for the other 23 pairs (<italic>P</italic> &gt; 0.05). Hence, no locus was discarded due to linkage disequilibrium. In the end, all samples (<italic>n</italic> = 119) were analyzed using 9 DNA microsatellite loci.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.16585/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Genetic variability estimators for nine microsatellite loci of Montezuma quail populations in Arizona, Central New Mexico, Western New Mexico, and West Texas.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16585/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th/><th colspan="4">Arizona</th>
+<th colspan="4">Central New Mexico</th>
+<th colspan="4">Western New Mexico</th>
+<th colspan="4">West Texas</th>
+</tr>
+<tr>
+<th>Locus</th>
+<th>N</th>
+<th><italic>A</italic></th>
+<th><italic>H</italic><sub><italic>o</italic></sub></th>
+<th><italic>H</italic><sub><italic>e</italic></sub></th>
+<th>N</th>
+<th><italic>A</italic></th>
+<th><italic>H</italic><sub><italic>o</italic></sub></th>
+<th><italic>H</italic><sub><italic>e</italic></sub></th>
+<th>N</th>
+<th><italic>A</italic></th>
+<th><italic>H</italic><sub><italic>o</italic></sub></th>
+<th><italic>H</italic><sub><italic>e</italic></sub></th>
+<th>N</th>
+<th><italic>A</italic></th>
+<th><italic>H</italic><sub><italic>o</italic></sub></th>
+<th><italic>H</italic><sub><italic>e</italic></sub></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quail 03</td>
+<td align="char" char=".">32</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.16</td>
+<td align="char" char=".">0.2</td>
+<td align="char" char=".">23</td>
+<td>3 (1)</td>
+<td align="char" char=".">0.22</td>
+<td align="char" char=".">0.20</td>
+<td align="char" char=".">36</td>
+<td align="char" char=".">3</td>
+<td align="char" char=".">0.22</td>
+<td align="char" char=".">0.20</td>
+<td align="char" char=".">25</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.12</td>
+<td align="char" char=".">0.11</td>
+</tr>
+<tr>
+<td>Quail 09</td>
+<td align="char" char=".">32</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">24</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.13</td>
+<td align="char" char=".">0.12</td>
+<td align="char" char=".">36</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.17</td>
+<td align="char" char=".">0.15</td>
+<td align="char" char=".">25</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+</tr>
+<tr>
+<td>Quail 13</td>
+<td align="char" char=".">32</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">24</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">35</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">25</td>
+<td>2 (1)</td>
+<td align="char" char=".">0.04</td>
+<td align="char" char=".">0.04</td>
+</tr>
+<tr>
+<td>Quail 14</td>
+<td align="char" char=".">32</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.41</td>
+<td align="char" char=".">0.33</td>
+<td align="char" char=".">24</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.58</td>
+<td align="char" char=".">0.50</td>
+<td align="char" char=".">36</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.47</td>
+<td align="char" char=".">0.49</td>
+<td align="char" char=".">25</td>
+<td align="char" char=".">2</td>
+<td align="char" char=".">0.56</td>
+<td align="char" char=".">0.50</td>
+</tr>
+<tr>
+<td>Quail 24</td>
+<td align="char" char=".">31</td>
+<td align="char" char=".">3</td>
+<td align="char" char=".">0.42</td>
+<td align="char" char=".">0.35</td>
+<td align="char" char=".">24</td>
+<td align="char" char=".">3</td>
+<td align="char" char=".">0.42</td>
+<td align="char" char=".">0.40</td>
+<td align="char" char="."><bold>36</bold></td>
+<td align="char" char="."><bold>2</bold></td>
+<td align="char" char="."><bold>0.03</bold></td>
+<td align="char" char="."><bold>0.08</bold></td>
+<td align="char" char=".">25</td>
+<td align="char" char=".">3</td>
+<td align="char" char=".">0.36</td>
+<td align="char" char=".">0.30</td>
+</tr>
+<tr>
+<td>Quail 25</td>
+<td align="char" char=".">32</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">24</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">36</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">25</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+</tr>
+<tr>
+<td>Quail 27</td>
+<td align="char" char="."><bold>32</bold></td>
+<td align="char" char="."><bold>3</bold></td>
+<td align="char" char="."><bold>0.19</bold></td>
+<td align="char" char="."><bold>0.45</bold></td>
+<td align="char" char="."><bold>22</bold></td>
+<td><bold>4 (2)</bold></td>
+<td align="char" char="."><bold>0.27</bold></td>
+<td align="char" char="."><bold>0.61</bold></td>
+<td align="char" char="."><bold>33</bold></td>
+<td align="char" char="."><bold>2</bold></td>
+<td align="char" char="."><bold>0.21</bold></td>
+<td align="char" char="."><bold>0.5</bold></td>
+<td align="char" char=".">25</td>
+<td>4 (1)</td>
+<td align="char" char=".">0.52</td>
+<td align="char" char=".">0.62</td>
+</tr>
+<tr>
+<td>Quail 31</td>
+<td align="char" char="."><bold>32</bold></td>
+<td><bold>5 (1)</bold></td>
+<td align="char" char="."><bold>0.84</bold></td>
+<td align="char" char="."><bold>0.63</bold></td>
+<td align="char" char="."><bold>24</bold></td>
+<td><bold>7 (1)</bold></td>
+<td align="char" char="."><bold>0.63</bold></td>
+<td align="char" char="."><bold>0.77</bold></td>
+<td align="char" char="."><bold>36</bold></td>
+<td align="char" char="."><bold>6</bold></td>
+<td align="char" char="."><bold>0.58</bold></td>
+<td align="char" char="."><bold>0.68</bold></td>
+<td align="char" char="."><bold>25</bold></td>
+<td><bold>7 (3)</bold></td>
+<td align="char" char="."><bold>0.48</bold></td>
+<td align="char" char="."><bold>0.69</bold></td>
+</tr>
+<tr>
+<td>Quail 44</td>
+<td align="char" char=".">32</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">24</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">36</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">25</td>
+<td align="char" char=".">1</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.00</td>
+</tr>
+<tr>
+<td>Mean</td>
+<td align="char" char=".">31.89</td>
+<td align="char" char=".">2.11</td>
+<td align="char" char=".">0.22</td>
+<td align="char" char=".">0.22</td>
+<td align="char" char=".">23.89</td>
+<td align="char" char=".">2.67</td>
+<td align="char" char=".">0.25</td>
+<td align="char" char=".">0.29</td>
+<td align="char" char=".">35.56</td>
+<td align="char" char=".">2.22</td>
+<td align="char" char=".">0.19</td>
+<td align="char" char=".">0.23</td>
+<td align="char" char=".">25.00</td>
+<td align="char" char=".">2.56</td>
+<td align="char" char=".">0.23</td>
+<td align="char" char=".">0.25</td>
+</tr>
+<tr>
+<td>S.E.</td>
+<td align="char" char=".">0.11</td>
+<td align="char" char=".">0.45</td>
+<td align="char" char=".">0.10</td>
+<td align="char" char=".">0.08</td>
+<td align="char" char=".">0.35</td>
+<td align="char" char=".">0.65</td>
+<td align="char" char=".">0.08</td>
+<td align="char" char=".">0.10</td>
+<td align="char" char=".">0.34</td>
+<td align="char" char=".">0.52</td>
+<td align="char" char=".">0.07</td>
+<td align="char" char=".">0.09</td>
+<td align="char" char=".">0.00</td>
+<td align="char" char=".">0.65</td>
+<td align="char" char=".">0.08</td>
+<td align="char" char=".">0.09</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Symbols <italic>N</italic>, <italic>A</italic>, <italic>H<sub>o</sub></italic> and <italic>H<sub>e</sub></italic> denote sample size, number of alleles (exclusive alleles), observed heterozygosity and expected heterozygosity, respectively. Numbers marked in bold correspond to loci that deviated from Hardy-Weinberg equilibrium under Fisher’s exact test (<italic>P</italic> &lt; 0.05).</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Overall estimators of genetic variability had the following values: mean number of alleles 2.41 ± 0.27 per locus (range = 1–11), mean observed heterozygosity of <inline-formula id="ieqn-1">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-1.png"/><tex-math id="tex-ieqn-1"><![CDATA[${\bar H_O}$]]></tex-math><mml:math id="mml-ieqn-1"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>O</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.22 ± 0.04 and mean expected heterozygosity of <inline-formula id="ieqn-2">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-2.png"/><tex-math id="tex-ieqn-2"><![CDATA[${\bar H_E}$]]></tex-math><mml:math id="mml-ieqn-2"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>E</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.24 ± 0.04 (<xref ref-type="table" rid="table-1">Table 1</xref>). Genetic variability estimates remained similar among populations. CNM had the greatest observed heterozygosity (<inline-formula id="ieqn-3">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-3.png"/><tex-math id="tex-ieqn-3"><![CDATA[${\bar H_O}$]]></tex-math><mml:math id="mml-ieqn-3"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>O</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.25 ± 0.08), followed by WTX (<inline-formula id="ieqn-4">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-4.png"/><tex-math id="tex-ieqn-4"><![CDATA[${\bar H_O}$]]></tex-math><mml:math id="mml-ieqn-4"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>O</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.23 ± 0.08), and AZ (<inline-formula id="ieqn-5">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-5.png"/><tex-math id="tex-ieqn-5"><![CDATA[${\bar H_O}$]]></tex-math><mml:math id="mml-ieqn-5"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>O</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.22 ± 0.10), while the WNM population had the lowest (<inline-formula id="ieqn-6">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-6.png"/><tex-math id="tex-ieqn-6"><![CDATA[${\bar H_O}$]]></tex-math><mml:math id="mml-ieqn-6"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>O</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.19 ± 0.07).</p>
+<p>Overall, among-population genetic differentiation was low (<italic>R</italic><sub><italic>ST</italic></sub> = 0.045). However, pairwise differentiation between distant populations AZ–WTX (<italic>R</italic><sub><italic>ST</italic></sub> = 0.094. <italic>P</italic> = 0.001), AZ–CNM (<italic>R</italic><sub><italic>ST</italic></sub> = 0.061. <italic>P</italic> = 0.009), and WTX–WNM had statistical significance (<italic>R</italic><sub><italic>ST</italic></sub> = 0.094, <italic>P</italic> = 0.001) (<xref ref-type="table" rid="table-2">Table 2</xref>). We found three genetic clusters (<italic>K</italic> = 3) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>), whose membership probabilities had a west-east gradient (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>); study population geographic positions was not an input of the STRUCTURE analysis. Most individuals from the AZ (66%) had a higher probability of membership in one cluster (Arizona cluster hereafter, <xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The within-individual probability of membership in this Arizona cluster declined towards the east, with only 12% of the WTX individuals assigned to the Arizona cluster. Likewise, most individuals from WTX (48%) had a higher probability of membership in a second cluster (Texas cluster hereafter, <xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The probability of membership in the Texas cluster within individuals declined towards the west, with only 3% of the AZ individuals assigned in the Texas cluster. However, the probability of membership in the third cluster (New Mexico cluster hereafter, <xref ref-type="fig" rid="fig-3">Fig. 3</xref>) had no geographic gradient (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). WNM (47%) and WTX (40%) individuals were often assigned to the New Mexico cluster.</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.16585/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>Genetic differentiation index values <italic>R<sub>ST</sub></italic> (below the diagonal) between Montezuma quail populations in Arizona (AZ), Central New Mexico (CNM), Western New Mexico (WNM), and West Texas (WTX).</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16585/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Population</th>
+<th>AZ</th>
+<th>CNM</th>
+<th>WNM</th>
+<th>WTX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AZ</td>
+<td>–</td>
+<td align="char" char="."><bold>0.009</bold></td>
+<td align="char" char=".">0.054</td>
+<td align="char" char="."><bold>0.001</bold></td>
+</tr>
+<tr>
+<td>CNM</td>
+<td align="char" char="."><bold>0.061</bold></td>
+<td>–</td>
+<td align="char" char=".">0.063</td>
+<td align="char" char=".">0.072</td>
+</tr>
+<tr>
+<td>WNM</td>
+<td align="char" char=".">0.014</td>
+<td align="char" char=".">0.021</td>
+<td>–</td>
+<td align="char" char="."><bold>0.009</bold></td>
+</tr>
+<tr>
+<td>WTX</td>
+<td align="char" char="."><bold>0.094</bold></td>
+<td align="char" char=".">0.041</td>
+<td align="char" char="."><bold>0.059</bold></td>
+<td>–</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<p>Numbers above the diagonal represent <italic>P</italic>-values for each pairwise population comparison from an exact Fisher test. The index <italic>R<sub>ST</sub></italic> values that were statistically significant (<italic>P</italic> &lt; 0.05) are marked in bold.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap><fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.16585/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Log-likelihood values <italic>vs</italic>. number of groups from the Bayesian method obtained in program STRUCTURE (<xref ref-type="bibr" rid="ref-35">Pritchard, Stephens &amp; Donnelly, 2000</xref>) (<italic>ΔK</italic>) for DNA microsatellite data of Montezuma quail from Arizona, New Mexico, and Texas.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16585/fig-2.png"/>
+</fig><fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.16585/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Geographic variation among Montezuma quail populations in posterior membership probability in each of the clusters inferred by program STRUCTURE (<xref ref-type="bibr" rid="ref-35">Pritchard, Stephens &amp; Donnelly, 2000</xref>), showing that geographic regions (<italic>i.e</italic>. study populations) moderately predict genetic clusters.</title>
+<p>Each stacked bar represents an individual’s ancestry estimates of each genetic cluster (Arizona, Texas, and New Mexico). Probability of individual membership is indicated by color (purple–Arizona, blue–New Mexico, yellow–Texas).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16585/fig-3.png"/>
+</fig>
+<p>Geographical distance and genetic distance (<italic>R</italic><sub><italic>ST</italic></sub>) were strongly correlated across populations (<italic>r</italic> = 0.937) (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). Nevertheless, we found only moderate evidence (Mantel test, <italic>P</italic> = 0.032 based on 10,000 permutations) of an association between geographical distance and genetic distance. According to <italic>R</italic><sub><italic>ST</italic></sub> statistics, AZ and WTX populations had the greatest genetic and geographic distances, while CNM and WNM populations had a shorter genetic and geographical distance.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.16585/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Correlation between geographical distance and the <italic>R<sub>ST</sub></italic> statistic values for each pair of populations (Mantel test, <italic>r</italic> = 0.937, <italic>P</italic> = 0.032 based on 10,000 permutations).</title>
+<p>The letters on the graph indicate each pairwise population comparison: (<italic>a</italic>) CNM–WNM, (<italic>b</italic>) AZ–WNM, (<italic>c</italic>) CNM–WTX, (<italic>d</italic>) AZ–CNM, (<italic>e</italic>) WNM–WTX, and (f) AZ–WTX.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16585/fig-4.png"/>
+</fig>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Montezuma quail populations appear to be effectively isolated from each other over relatively short geographical distances in the southwestern USA. Nevertheless, our results and their discussion should be taken with caution due to the relatively low number of loci analyzed (nine loci). Low heterozygosity (<inline-formula id="ieqn-8">
+<alternatives><inline-graphic xlink:href="https://peerj.com/articles/16585/ieqn-7.png"/><tex-math id="tex-ieqn-8"><![CDATA[${\bar H_O}$]]></tex-math><mml:math id="mml-ieqn-8"><mml:mrow><mml:msub><mml:mrow><mml:mover><mml:mi>H</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:mrow><mml:mi>O</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives></inline-formula> = 0.22 ± 0.02), few alleles per locus (<italic>A</italic> = 2.41 ± 0.27) and a high proportion of fixed loci (3 out of 9 loci) demonstrate low genetic variability of the Montezuma quail in the southwestern United States. For instance, <xref ref-type="bibr" rid="ref-14">DeYoung et al. (2012)</xref> reported an average observed heterozygosity of <italic>H</italic><sub><italic>o</italic></sub> = 0.58 in seven DNA microsatellite loci for bobwhite (<italic>Colinus virginianus</italic>) populations in southern Texas. <xref ref-type="bibr" rid="ref-34">Orange et al. (2014)</xref> reported a <italic>H</italic><sub><italic>o</italic></sub> from 0.250–0.928 and an average <italic>A</italic> = 7 in 23 DNA microsatellite loci for scaled quail (<italic>Callipepla squamata</italic>) populations in Arizona, Colorado, Oklahoma, and Texas. Similarly, <xref ref-type="bibr" rid="ref-30">Mathur et al. (2019)</xref> reported low levels of genetic variability in the Montezuma quail populations in Arizona, New Mexico and West Texas using genome-wide single nucleotide polymorphism, with <italic>H</italic><sub><italic>o</italic></sub> = 0.32 ± 0.17. Low genetic variability of Montezuma quail populations may be caused by drift in small and isolated populations inhabiting oak-pine-juniper savanna islands separated by vast desert grasslands. In this regard, low migration rates between the peripheral populations and those closer to the center of the geographic range could promote gene drift (<xref ref-type="bibr" rid="ref-27">Lesica &amp; Allendorf, 1995</xref>), where fixed alleles and reduction of genetic variability are more likely to occur. For instance, the Mexican spotted owl had reduced levels of genetic (mtDNA) variation in the Madrean sky islands of southeastern Arizona (co-inhabited by Montezuma quail) compared to the remaining owl populations in Arizona, New Mexico, Utah, and Colorado (<xref ref-type="bibr" rid="ref-8">Barrowclough et al., 2006</xref>).</p>
+<p>Previous genetic work (<xref ref-type="bibr" rid="ref-2">Allen, 2003</xref>) found that Montezuma quail from Arizona and Texas were not genetically distinct from one another based on mitochondrial DNA sequences. In this study, slight population structure was shown through the low <italic>R</italic><sub><italic>ST</italic></sub>. Nonetheless, pairwise <italic>R</italic><sub><italic>ST</italic></sub> values indicate a low to moderate differentiation in some study populations. For instance, AZ is different from CNM (<italic>R</italic><sub><italic>ST</italic></sub> = 0.061; <italic>P</italic> = 0.011) and WTX (<italic>R</italic><sub><italic>ST</italic></sub> = 0.094; <italic>P</italic> = 0.001). In addition, AZ is not differentiated from WNM, suggesting an extant or recent corridor for Montezuma quail between these two study populations. Montezuma quail occur through the forested Mogollon Rim, which may connect WNM to central Arizona and to mountain ranges to southern Arizona (AZ) as both eBird sightings (<xref ref-type="bibr" rid="ref-44">Sullivan et al., 2009</xref>) and GBIF (<xref ref-type="bibr" rid="ref-19">GBIF.org, 2023</xref>) records suggest (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The Montezuma quail’s ability to disperse this distance may not be as limited as presumed. A radiotelemetry study conducted in Texas found that Montezuma quail move up to 15 km (<xref ref-type="bibr" rid="ref-20">Greene et al., 2020</xref>). Furthermore, the lowest genetic differentiation occurred between neighboring WNM and CNM (<italic>R</italic><sub><italic>ST</italic></sub> = 0.014; <italic>P</italic> = 0.063). Although some CNM individuals appear to be geographically isolated from the rest of the population (for example, individuals collected in the Lincoln National Forest), Montezuma quail can occur in areas with riparian vegetation near oak forest (<xref ref-type="bibr" rid="ref-43">Stromberg, Montoya &amp; Holdermann, 2020</xref>), hence, they may be using riparian corridors to transit between the WNM and CNM populations. Sightings on the Rio Grande (<xref ref-type="bibr" rid="ref-44">Sullivan et al., 2009</xref>) also suggest connectivity between WNM and CNM through this river.</p>
+<p>Despite a low genetic differentiation among our study populations, patterns of genetic variation from all our analyses suggests isolation by distance, which arises from limited geneflow between distant populations (<xref ref-type="bibr" rid="ref-51">Wright, 1943</xref>). <italic>R</italic><sub><italic>ST</italic></sub> values between distant populations AZ and WTX (<italic>R</italic><sub><italic>ST</italic></sub> = 0.094; <italic>P</italic> = 0.001) and WTX–WNM populations (<italic>R</italic><sub><italic>ST</italic></sub> = 0.059; <italic>P</italic> = 0.013) were the highest among all pairwise comparisons. In contrast, the previous mtDNA survey by <xref ref-type="bibr" rid="ref-2">Allen (2003)</xref> found no genetic differentiation between Montezuma quail populations in Arizona and Texas. Differentiation between neighboring WTX–CNM populations (<italic>R</italic><sub><italic>ST</italic></sub> = 0.033) was suggestive (<italic>P</italic> = 0.096) that gene flow occurs between these populations &gt;200 km apart. This area is approximately 20 km away from the Guadalupe Mountains, which is near the Texas–New Mexico state line, thus representing a possible route of exchange between the two study populations. However, the current existence of a large extension of unsuitable arid land between the two mountainous areas and the <italic>R</italic><sub><italic>ST</italic></sub> may suggest recent divergence. Furthermore, our Bayesian analysis suggested three clusters, whose assignment probabilities among Montezuma quail followed a longitudinal gradient (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>), although mixing between clusters was evident. However, a Bayesian assignment by <xref ref-type="bibr" rid="ref-30">Mathur et al. (2019)</xref> did not detect separation between Arizona and New Mexico using genomic-wide single nucleotide polymorphism. Nevertheless, <xref ref-type="bibr" rid="ref-30">Mathur et al. (2019)</xref> also found lower differentiation between the populations of AZ–WNM and WNM–CNM. Thus, these populations may represent a single cluster, while the WTX population would be isolated from the rest. Approximately 40% of WTX Montezuma quail were assigned to the NM Cluster, suggesting recent admixture between clusters. Results from this work support the idea, proposed by <xref ref-type="bibr" rid="ref-31">Mathur et al. (2023)</xref>, that the Montezuma quail is a “ring species”, where AZ and WTX populations were colonized by divergent populations dispersing northbound from the ancestral population in central Mexico through the Sierra Madre Occidental and Sierra Madre Oriental, respectively. Alternatively, our results may also suggest gene flow has recently stopped. Connectivity between Montezuma quail populations in the American southwest and northern Mexico may have been more widespread before the late 19<sup>th</sup> century when extensive ranching began reducing and depleting the grass cover (<xref ref-type="bibr" rid="ref-25">Humprey, 1958</xref>) needed by Montezuma quail to disperse.</p>
+<p>Evidence suggests isolation by distance in Montezuma quail populations. Changes in temperature and precipitation patterns apparently expanded in altitude and latitude boundaries of deserts surrounding Montezuma quail habitat in the southwestern United States (<xref ref-type="bibr" rid="ref-5">Archer &amp; Predick, 2008</xref>; <xref ref-type="bibr" rid="ref-40">Seager et al., 2007</xref>; <xref ref-type="bibr" rid="ref-50">Williams et al., 2010</xref>). Thus, constant fragmentation, and predicted reduction of the extent of currently suitable habitats for the Montezuma quail (<xref ref-type="bibr" rid="ref-45">Tanner et al., 2017</xref>) may reduce corridors between populations, causing complete separation of populations and increase the risk of survival of the species in the mid and long term.</p>
+<p>Given the little genetic structure found in this study and the resolution offered by DNA microsatellites, we were unable detect effects of Montezuma quail reintroductions from Arizona to Texas on genetic structure. There is no evidence that the reintroductions were successful and that any genetic structure was disrupted. However, we found a significant genetic difference between AZ and WTX. In addition, <xref ref-type="bibr" rid="ref-31">Mathur et al. (2023)</xref> also found that extant populations in Arizona and Texas are genetically distinct from one another, having diverged approximately 17,000 years ago.</p>
+<p>The presence of isolated populations in mountain patches of habitat or “sky islands” is frequent along all edges of its geographic distribution, which may be embedded in arid, subtropical, or tropical vegetation. The existence of these isolated populations poses a conservation challenge for managers. These isolated populations have most likely differentiated, as those of numerous vertebrates inhabiting sky islands systems (<xref ref-type="bibr" rid="ref-8">Barrowclough et al., 2006</xref>; <xref ref-type="bibr" rid="ref-12">Browne &amp; Ferree, 2007</xref>; <xref ref-type="bibr" rid="ref-22">Hartley et al., 2023</xref>; <xref ref-type="bibr" rid="ref-28">Love et al., 2023</xref>). The degree to which isolated Montezuma quail populations have differentiated deserves investigation. Montezuma quail in sky islands may have a similar degree of differentiation that led to the special management status of the Mount Graham red squirrel (<italic>Tamiascirus fremonti grahamensis</italic>) in Arizona (<xref ref-type="bibr" rid="ref-46">U. S. Fish and Wildlife Service, 1987</xref>). Furthermore, isolation in sky islands can also lead to local adaptation, which may also promote persistence of a species. Therefore, a genomic survey through the Montezuma quail geographic distribution is a research priority. Genome sequencing has been undertaken for the species (<xref ref-type="bibr" rid="ref-30">Mathur et al., 2019</xref>; <xref ref-type="bibr" rid="ref-29">Mathur &amp; DeWoody, 2021</xref>; <xref ref-type="bibr" rid="ref-31">Mathur et al., 2023</xref>), but with minimal representation of Mexican and sky island populations. Genomic surveys will unveil genetic structure patterns relevant for conservation. For instance, translocations from one island population to another by federal and state game management agencies in the United States may have irreparably disrupted local genetics in such isolated populations. Like the Mount Graham’s red squirrel, genomic studies of Montezuma quail populations in Texas, southeastern Arizona, and southwestern New Mexico sky islands might reveal that they may warranted special management status.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>The subtle genetic structure and low levels of genetic variation detected in our study is valuable for the future management of this charismatic game bird. This subtle genetic structure consists in clusters in Arizona, New Mexico, and Texas. Despite the differentiation, the analysis suggests some mixing between populations, which may indicate infrequent, long-distance dispersal, especially between New Mexico and Arizona populations. Migration between New Mexico and West Texas is also possible. In this context, our results support isolation by distance between populations, due to the non-independence between geographical distance and genetic distance. Montezuma quail populations in the southwestern United States may not be fully isolated, despite habitat loss and fragmentation in this region as some corridors may open or close periodically depending on annual precipitation and its effect on herbaceous vegetation cover.</p>
+</sec>
+<sec id="supplemental-information" sec-type="supplementary-material">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16585/Rawdata_GENEPOP.txt">
+<object-id pub-id-type="doi">10.7717/peerj.16585/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Individual genotypes (9 DNA micro satellite loci) for 119 Montezuma quail from Arizona, New Mexico, and Texas.</title>
+<p>Input file for program Genepop (<uri xlink:href="https://genepop.curtin.edu.au">https://genepop.curtin.edu.au</uri>).</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank Robert Perez of the Texas Parks and Wildlife Department for his logistical support that made the collection of quail specimens in Texas possible. We also thank the volunteer hunters who collected or assisted in collecting specimens including Randy Gray, Steve Hopkins, Dennis Kavanagh, Zack May, Bill Miller, Mike Sullins, Peter Toot, Ray Trejo, Carlos Zuniga, and numerous anonymous quail hunters.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Eduardo Sánchez-Murrieta</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Alberto Macías-Duarte</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Reyna A. Castillo-Gámez</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Alejandro Varela-Romero</xref> conceived and designed the experiments, performed the experiments, analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Angel B. Montoya</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">James H. Weaver</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-7">
+<p><xref ref-type="contrib" rid="author-7">Nohelia G. Pacheco-Hoyos</xref> performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to field study approvals (<italic>i.e</italic>., approving body and any reference numbers):</p>
+<p>Tissue was extracted from specimens hunted in Arizona and New Mexico by numerous hunters under hunting licenses issued by Arizona Game and Fish Department and New Mexico Department of Game and Fish. Tissue samples from Texas originated from specimens collected under Scientific Permit Number SPR-0410-139 issued by Texas Parks and Wildlife Department.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-2">
+<p>The following information was supplied regarding data availability:</p>
+<p>The individual genotypes (9 DNA microsatellite loci) for 119 Montezuma quail is available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental File</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Albers &amp; Gehlbach (1990)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Albers</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Gehlbach</surname>
+<given-names>FR</given-names>
+</name>
+</person-group>
+<article-title>Choices of feeding habitat by relict Montezuma quail in central Texas</article-title>
+<source>Wilson Bulletin</source>
+<year iso-8601-date="1990">1990</year>
+<volume>102</volume>
+<fpage>300</fpage>
+<lpage>308</lpage>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Allen (2003)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Allen</surname>
+<given-names>TH</given-names>
+</name>
+</person-group>
+<article-title>Mitochondrial genetic variation among populations of Montezuma Quail (Cyrtonyx montezumae) in the southwestern United States</article-title>
+<year iso-8601-date="2003">2003</year>
+<comment>M.S. thesis. Sul Ross State University. Alpine, Texas, United States of America</comment>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Allendorf et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Allendorf</surname>
+<given-names>FW</given-names>
+</name>
+<name>
+<surname>England</surname>
+<given-names>PR</given-names>
+</name>
+<name>
+<surname>Luikart</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ritchie</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Ryman</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Genetic effects of harvest on wild animal populations</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2008">2008</year>
+<volume>23</volume>
+<issue>6</issue>
+<fpage>327</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2008.02.008</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Allendorf &amp; Luikart (2007)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Allendorf</surname>
+<given-names>FW</given-names>
+</name>
+<name>
+<surname>Luikart</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>Conservation and the Genetics of Populations</source>
+<year iso-8601-date="2007">2007</year>
+<publisher-loc>Oxford, England</publisher-loc>
+<publisher-name>Blackwell Publishing</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Archer &amp; Predick (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Archer</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Predick</surname>
+<given-names>KI</given-names>
+</name>
+</person-group>
+<article-title>Climate change and ecosystems of the southwestern United States</article-title>
+<source>Rangelands Journal</source>
+<year iso-8601-date="2008">2008</year>
+<volume>30</volume>
+<fpage>23</fpage>
+<lpage>29</lpage>
+<pub-id pub-id-type="doi">10.2111/1551-501X(2008)30[23:CCAEOT]2.0.CO;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Arif &amp; Khan (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arif</surname>
+<given-names>IA</given-names>
+</name>
+<name>
+<surname>Khan</surname>
+<given-names>HA</given-names>
+</name>
+</person-group>
+<article-title>Molecular markers for biodiversity analysis of wildlife animals: a brief review</article-title>
+<source>Animal Biodiversity and Conservation</source>
+<year iso-8601-date="2009">2009</year>
+<volume>32</volume>
+<fpage>9</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.32800/abc.2009.32.0009</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Armstrong (2006)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Armstrong</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<source>Texas Quails: Ecology and Management</source>
+<year iso-8601-date="2006">2006</year>
+<publisher-loc>Texas, United States of America</publisher-loc>
+<publisher-name>Texas A&amp;M University Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Barrowclough et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Barrowclough</surname>
+<given-names>GF</given-names>
+</name>
+<name>
+<surname>Groth</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Mertz</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Gutiérrez</surname>
+<given-names>RJ</given-names>
+</name>
+</person-group>
+<article-title>Genetic structure of Mexican spotted owl (<italic>Strix occidentalis lucida</italic>) populations in a fragmented landscape</article-title>
+<source>The Auk</source>
+<year iso-8601-date="2006">2006</year>
+<volume>123</volume>
+<fpage>1090</fpage>
+<lpage>1102</lpage>
+<pub-id pub-id-type="doi">10.1093/auk/123.4.1090</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>BirdLife International (2016)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>BirdLife International</collab>
+</person-group>
+<source>Cyrtonyx montezumae</source>
+<year iso-8601-date="2016">2016</year>
+<comment>The IUCN Red List of Threatened Species 2016:e.T22728212A94975065</comment><uri>http://dx.doi.org/10.2305/IUCN.UK.20163.RLTS.T22728212A94975065.en</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2017-12-11">11 December 2017</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Bishop (1964)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Bishop</surname>
+<given-names>RA</given-names>
+</name>
+</person-group>
+<article-title>The Mearns Quail (<italic>Cyrtonyx montezumae mearnsi</italic>) in southern Arizona</article-title>
+<year iso-8601-date="1964">1964</year>
+<comment>M.S. thesis. University of Arizona, Tucson, AZ, United States of America</comment>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Brown (1979)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>DE</given-names>
+</name>
+</person-group>
+<article-title>Factors influencing reproductive success and population densities in Montezuma Quail</article-title>
+<source>Journal of Wildlife Management</source>
+<year iso-8601-date="1979">1979</year>
+<volume>43</volume>
+<fpage>522</fpage>
+<lpage>526</lpage>
+<pub-id pub-id-type="doi">10.2307/3800365</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Browne &amp; Ferree (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Browne</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Ferree</surname>
+<given-names>PM</given-names>
+</name>
+</person-group>
+<article-title>Genetic structure of southern appalachian sky Island populations of the southern red-backed vole (<italic>Myodes gapperi</italic>)</article-title>
+<source>Journal of Mammalogy</source>
+<year iso-8601-date="2007">2007</year>
+<volume>88</volume>
+<fpage>759</fpage>
+<lpage>768</lpage>
+<pub-id pub-id-type="doi">10.1644/06-MAMM-A-049R1.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Chavarria et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chavarria</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Silvy</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Lopez</surname>
+<given-names>RR</given-names>
+</name>
+<name>
+<surname>Davis</surname>
+<given-names>DS</given-names>
+</name>
+<name>
+<surname>Montoya</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Ranges and movements of Montezuma quail in southeast Arizona</article-title>
+<source>Proceedings of the National Quail Symposium</source>
+<year iso-8601-date="2017">2017</year>
+<volume>8</volume>
+<fpage>94</fpage>
+<pub-id pub-id-type="doi">10.7290/nqsp08g3l2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>DeYoung et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>DeYoung</surname>
+<given-names>RW</given-names>
+</name>
+<name>
+<surname>Wehland</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Williford</surname>
+<given-names>DL</given-names>
+</name>
+<name>
+<surname>Zamorano</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sands</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Brennan</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Hernández</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>DeMaso</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Perez</surname>
+<given-names>RM</given-names>
+</name>
+</person-group>
+<article-title>Genetic structure and diversity in South Texas bobwhites: implications for conservation</article-title>
+<source>National Quail Symposium Proceedings</source>
+<year iso-8601-date="2012">2012</year>
+<volume>7</volume>
+<fpage>252</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.7290/nqsp07dog7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Earl (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Earl</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Structure Harvester: a website and program for visualizing Structure output and implementing the Evanno method</article-title>
+<source>Conservation Genetics Resources</source>
+<year iso-8601-date="2012">2012</year>
+<volume>4</volume>
+<fpage>359</fpage>
+<lpage>361</lpage>
+<pub-id pub-id-type="doi">10.1007/s12686-011-9548-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Evanno, Regnaut &amp; Goudet (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Evanno</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Regnaut</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Goudet</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Detecting the number of clusters of individuals using the software structure: a simulation study</article-title>
+<source>Molecular Ecology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>14</volume>
+<issue>8</issue>
+<fpage>2611</fpage>
+<lpage>2620</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02553.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Excoffier &amp; Lischer (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Excoffier</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Lischer</surname>
+<given-names>HE</given-names>
+</name>
+</person-group>
+<article-title>Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows</article-title>
+<source>Molecular Ecology Resources</source>
+<year iso-8601-date="2010">2010</year>
+<volume>10</volume>
+<issue>3</issue>
+<fpage>564</fpage>
+<lpage>567</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02847.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Frankham (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frankham</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Relationship of genetic variation to population size in wildlife</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="1996">1996</year>
+<volume>10</volume>
+<issue>6</issue>
+<fpage>1500</fpage>
+<lpage>1508</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1739.1996.10061500.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>GBIF.org (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>GBIF.org</collab>
+</person-group>
+<article-title>GBIF Occurrence</article-title>
+<year iso-8601-date="2023">2023</year><uri>https://doi.org/10.15468/dl.53a6gj</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2023-07-28">28 July 2023</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Greene et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Greene</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Harveson</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Cross</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Luna</surname>
+<given-names>RS</given-names>
+</name>
+</person-group>
+<article-title>Spatial ecology and habitat utilization of Montezuma quail in the Davis mountains of Texas</article-title>
+<source>The Texas Journal of Science</source>
+<year iso-8601-date="2020">2020</year>
+<volume>72</volume>
+<issue>1</issue>
+<fpage>Article-4</fpage>
+<pub-id pub-id-type="doi">10.32011/txjsci_72_1_Article4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Harris, Wall &amp; Allendorf (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harris</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Wall</surname>
+<given-names>WA</given-names>
+</name>
+<name>
+<surname>Allendorf</surname>
+<given-names>FW</given-names>
+</name>
+</person-group>
+<article-title>Genetic consequences of hunting: what do we know and what should we do?</article-title>
+<source>Wildlife Society Bulletin</source>
+<year iso-8601-date="2002">2002</year>
+<volume>30</volume>
+<fpage>634</fpage>
+<lpage>643</lpage>
+<pub-id pub-id-type="doi">10.2307/3784528</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Hartley et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hartley</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Clemann</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Atkins</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Scheele</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Lindenmayer</surname>
+<given-names>DB</given-names>
+</name>
+<name>
+<surname>Amor</surname>
+<given-names>MD</given-names>
+</name>
+</person-group>
+<article-title>Isolated on sky islands: genetic diversity and population structure of an endangered mountain lizard</article-title>
+<source>Conservation Genetics</source>
+<year iso-8601-date="2023">2023</year>
+<volume>24</volume>
+<issue>2</issue>
+<fpage>219</fpage>
+<lpage>233</lpage>
+<pub-id pub-id-type="doi">10.1007/s10592-022-01495-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Heffelfinger &amp; Olding (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Heffelfinger</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Olding</surname>
+<given-names>RJ</given-names>
+</name>
+</person-group>
+<article-title>Montezuma quail management in Arizona</article-title>
+<source>National Quail Symposium Proceedings</source>
+<year iso-8601-date="2000">2000</year>
+<volume>4</volume>
+<fpage>45</fpage>
+<pub-id pub-id-type="doi">10.7290/nqsp04j019</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Hulce et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hulce</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Snyder-Leiby</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>CJ</given-names>
+</name>
+</person-group>
+<article-title>GeneMarker® genotyping software: tools to increase the statistical power of DNA fragment analysis</article-title>
+<source>Journal of Biomolecular Techniques</source>
+<year iso-8601-date="2011">2011</year>
+<volume>22</volume>
+<issue>Suppl</issue>
+<fpage>S35</fpage>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Humprey (1958)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Humprey</surname>
+<given-names>RR</given-names>
+</name>
+</person-group>
+<article-title>The desert grassland, a history of vegetational change and an analysis of causes</article-title>
+<source>The Botanical Review</source>
+<year iso-8601-date="1958">1958</year>
+<volume>24</volume>
+<issue>4</issue>
+<fpage>193</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02872568</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Instituto Nacional de Estadística y Geografía (2022)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Instituto Nacional de Estadística y Geografía</collab>
+</person-group>
+<article-title>Marco Geoestadístico</article-title>
+<year iso-8601-date="2022">2022</year><uri>https://www.inegi.org.mx/temas/mg/#mapas</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2023-08-12">12 August 2023</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Lesica &amp; Allendorf (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lesica</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Allendorf</surname>
+<given-names>FW</given-names>
+</name>
+</person-group>
+<article-title>When are peripheral populations valuable for conservation?</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="1995">1995</year>
+<volume>9</volume>
+<fpage>753</fpage>
+<lpage>760</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1739.1995.09040753.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>López-Bujanda et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>López-Bujanda</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Macías-Duarte</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Castillo-Gámez</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Montoya</surname>
+<given-names>AB</given-names>
+</name>
+</person-group>
+<article-title>Factors determining diet composition of the Montezuma quail (<italic>Cyrtonyx montezumae</italic>) at the northern limit its distribution</article-title>
+<source>The Wilson Journal of Ornithology</source>
+<year iso-8601-date="2022">2022</year>
+<volume>134</volume>
+<issue>3</issue>
+<fpage>507</fpage>
+<lpage>520</lpage>
+<pub-id pub-id-type="doi">10.1676/22-00025</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Love et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Love</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Schweitzer</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Woolbright</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Bailey</surname>
+<given-names>JK</given-names>
+</name>
+</person-group>
+<article-title>Sky Islands are a global tool for predicting the ecological and evolutionary consequences of climate change</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2023">2023</year>
+<volume>54</volume>
+<fpage>1</fpage>
+<pub-id pub-id-type="doi">10.1146/annurev-ecolsys-102221-050029</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Mathur &amp; DeWoody (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mathur</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>DeWoody</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Genetic load has potential in large populations but is realized in small inbred populations</article-title>
+<source>Evolutionary Applications</source>
+<year iso-8601-date="2021">2021</year>
+<volume>14</volume>
+<fpage>1540</fpage>
+<lpage>1557</lpage>
+<pub-id pub-id-type="doi">10.1111/eva.13216</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Mathur et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mathur</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Tomeček</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Heniff</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Luna</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>DeWoody</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Evidence of genetic erosion in a peripheral population of a North American game bird: the Montezuma quail (<italic>Cyrtonyx montezumae</italic>)</article-title>
+<source>Conservation Genetics</source>
+<year iso-8601-date="2019">2019</year>
+<volume>20</volume>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1007/s10592-019-01218-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Mathur et al. (2023)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mathur</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Tomeček</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Tarango-Arámbula</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Perez</surname>
+<given-names>RM</given-names>
+</name>
+<name>
+<surname>DeWoody</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>An evolutionary perspective on genetic load in small, isolated populations as informed by whole genome resequencing and forward-time simulations</article-title>
+<source>Evolution</source>
+<year iso-8601-date="2023">2023</year>
+<volume>77</volume>
+<fpage>690</fpage>
+<lpage>704</lpage>
+<pub-id pub-id-type="doi">10.1093/evolut/qpac061</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Meirsman (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Meirsman</surname>
+<given-names>PG</given-names>
+</name>
+</person-group>
+<article-title>Subsampling reveals that unbalanced sampling affects STRUCTURE results in a multi-species dataset</article-title>
+<source>Heredity</source>
+<year iso-8601-date="2019">2019</year>
+<volume>122</volume>
+<fpage>276</fpage>
+<lpage>287</lpage>
+<pub-id pub-id-type="doi">10.1038/s41437-018-0124-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>National Weather Service (2023)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>National Weather Service</collab>
+</person-group>
+<article-title>U.S. States and Territories</article-title>
+<year iso-8601-date="2023">2023</year><uri>https://www.weather.gov/gis/USStates</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2023-08-12">12 August 2023</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Orange et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Orange</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Davis</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Van Den Bussche</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Fuhlendorf</surname>
+<given-names>SD</given-names>
+</name>
+<name>
+<surname>Elmore</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Thacker</surname>
+<given-names>ET</given-names>
+</name>
+<name>
+<surname>Judkins</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>Development and characterization of 23 microsatellite loci for scaled quail (Callipepla squamata)</article-title>
+<source>Conservation Genetics Resources</source>
+<year iso-8601-date="2014">2014</year>
+<volume>6</volume>
+<fpage>929</fpage>
+<lpage>931</lpage>
+<pub-id pub-id-type="doi">10.1007/s12686-014-0243-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Pritchard, Stephens &amp; Donnelly (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pritchard</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Stephens</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Donnelly</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Inference of population structure using multilocus genotype data</article-title>
+<source>Genetics</source>
+<year iso-8601-date="2000">2000</year>
+<volume>155</volume>
+<fpage>945</fpage>
+<lpage>959</lpage>
+<pub-id pub-id-type="doi">10.1093/genetics/155.2.945</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Raymond &amp; Rousset (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Raymond</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Rousset</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>GENEPOP (version 1.2): population genetics software for exact tests and ecumenicism</article-title>
+<source>Journal of Heredity</source>
+<year iso-8601-date="1995">1995</year>
+<volume>86</volume>
+<fpage>248</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1093/oxfordjournals.jhered.a111573</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Reed &amp; Frankham (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reed</surname>
+<given-names>DH</given-names>
+</name>
+<name>
+<surname>Frankham</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Correlation between fitness and genetic diversity</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2003">2003</year>
+<volume>17</volume>
+<fpage>230</fpage>
+<lpage>237</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1739.2003.01236.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Rousset (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rousset</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Genepop’007: a complete reimplementation of the Genepop software for windows and linux</article-title>
+<source>Molecular Ecology Resources</source>
+<year iso-8601-date="2008">2008</year>
+<volume>8</volume>
+<fpage>103</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1471-8286.2007.01931.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Schable et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schable</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Faircloth</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Palmer</surname>
+<given-names>WE</given-names>
+</name>
+<name>
+<surname>Carroll</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Burger</surname>
+<given-names>LW</given-names>
+</name>
+<name>
+<surname>Brennan</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Hagen</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Glenn</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Tetranucleotide and dinucleotide microsatellite loci from the northern bobwhite (<italic>Colinus virginianus</italic>)</article-title>
+<source>Molecular Ecology Notes</source>
+<year iso-8601-date="2004">2004</year>
+<volume>4</volume>
+<fpage>415</fpage>
+<lpage>419</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1471-8286.2004.00670.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Seager et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Seager</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Ting</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Held</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Kushnir</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Lu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Vecchi</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>HP</given-names>
+</name>
+<name>
+<surname>Harnik</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Leetma</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lau</surname>
+<given-names>NC</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Velez</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Naik</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Model projections of an imminent transition to a more arid climate in southwestern North America</article-title>
+<source>Science</source>
+<year iso-8601-date="2007">2007</year>
+<volume>316</volume>
+<fpage>1181</fpage>
+<lpage>1184</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1139601</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Smouse &amp; Peakall (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smouse</surname>
+<given-names>RPP</given-names>
+</name>
+<name>
+<surname>Peakall</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>GenAlEx 6.5: genetic analysis in excel. Population genetic software for teaching and research—an update</article-title>
+<source>Bioinformatics</source>
+<year iso-8601-date="2012">2012</year>
+<volume>28</volume>
+<fpage>2537</fpage>
+<lpage>2539</lpage>
+<pub-id pub-id-type="doi">10.1093/bioinformatics/bts460</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Stromberg, Montoya &amp; Holdermann (2020)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Stromberg</surname>
+<given-names>MR</given-names>
+</name>
+<name>
+<surname>Montoya</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>Holdermann</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Rodewald</surname>
+<given-names>PG</given-names>
+</name>
+</person-group>
+<article-title>Montezuma Quail (<italic>Cyrtonyx montezumae</italic>), version 1.0</article-title>
+<source>Birds of the World</source>
+<year iso-8601-date="2020">2020</year>
+<publisher-loc>Ithaca, NY, USA</publisher-loc>
+<publisher-name>Cornell Lab of Ornithology</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Sullivan et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sullivan</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Wood</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Iliff</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Bonney</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Fink</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Kelling</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>eBird: a citizen-based bird observation network in the biological sciences</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2009">2009</year>
+<volume>142</volume>
+<fpage>2282</fpage>
+<lpage>2292</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2009.05.006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Tanner et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tanner</surname>
+<given-names>EP</given-names>
+</name>
+<name>
+<surname>Papeş</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Elmore</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Fuhlendorf</surname>
+<given-names>SD</given-names>
+</name>
+<name>
+<surname>Davis</surname>
+<given-names>CA</given-names>
+</name>
+</person-group>
+<article-title>Incorporating abundance information and guiding variable selection for climate-based ensemble forecasting of species’ distributional shifts</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2017">2017</year>
+<volume>12</volume>
+<elocation-id>e0184316</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0184316</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>U. S. Fish and Wildlife Service (1987)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>U. S. Fish and Wildlife Service</collab>
+</person-group>
+<article-title>Endangered and threatened wildlife and plants; determination of endangered status for the Mount Graham red squirrel</article-title>
+<source>Federal Register</source>
+<year iso-8601-date="1987">1987</year>
+<volume>52</volume>
+<issue>20</issue>
+<fpage>994</fpage>
+<lpage>999</lpage>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Van Oosterhout et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van Oosterhout</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Hutchinson</surname>
+<given-names>WF</given-names>
+</name>
+<name>
+<surname>Wills</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Shipley</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>MICRO-CHECKER: software for identifying and correcting genotyping errors in microsatellite data</article-title>
+<source>Molecular Ecology Resources</source>
+<year iso-8601-date="2004">2004</year>
+<volume>4</volume>
+<issue>3</issue>
+<fpage>535</fpage>
+<lpage>538</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1471-8286.2004.00684.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Waters et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Waters</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Emerson</surname>
+<given-names>BC</given-names>
+</name>
+<name>
+<surname>Arribas</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>McCulloch</surname>
+<given-names>GA</given-names>
+</name>
+</person-group>
+<article-title>Dispersal reduction: causes, genomic mechanisms, and evolutionary consequences</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2020">2020</year>
+<volume>35</volume>
+<issue>6</issue>
+<fpage>512</fpage>
+<lpage>522</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2020.01.012</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Wauer (1973)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Wauer</surname>
+<given-names>RH</given-names>
+</name>
+</person-group>
+<source>Birds of Big Bend National Park and Vicinity</source>
+<year iso-8601-date="1973">1973</year>
+<publisher-loc>Texas, United States of America</publisher-loc>
+<publisher-name>University of Texas Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Williams et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Williams</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Allen</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Millar</surname>
+<given-names>CI</given-names>
+</name>
+<name>
+<surname>Swetnam</surname>
+<given-names>TW</given-names>
+</name>
+<name>
+<surname>Michaelsen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Still</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Leavitt</surname>
+<given-names>SW</given-names>
+</name>
+</person-group>
+<article-title>Forest responses to increasing aridity and warmth in the southwestern United States</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2010">2010</year>
+<volume>107</volume>
+<issue>50</issue>
+<fpage>21289</fpage>
+<lpage>21294</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0914211107</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Wright (1943)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wright</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Isolation by distance</article-title>
+<source>Genetics</source>
+<year iso-8601-date="1943">1943</year>
+<volume>28</volume>
+<issue>2</issue>
+<fpage>114</fpage>
+<lpage>138</lpage>
+<pub-id pub-id-type="doi">10.1093/genetics/28.2.114</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

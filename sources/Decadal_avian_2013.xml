@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="pmc">PeerJ</journal-id>
+      <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+      <journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+      <journal-title-group>
+        <journal-title>PeerJ</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-8359</issn>
+      <publisher>
+        <publisher-name>PeerJ Inc.</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">179</article-id>
+      <article-id pub-id-type="doi">10.7717/peerj.179</article-id>
+      <article-categories>
+        <subj-group subj-group-type="categories">
+          <subject>Biodiversity</subject>
+          <subject>Conservation Biology</subject>
+          <subject>Ecology</subject>
+          <subject>Ecosystem Science</subject>
+          <subject>Zoology</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Decadal changes and delayed avian species losses due to deforestation in the northern Neotropics</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib id="author-1" contrib-type="author">
+          <name>
+            <surname>Shaw</surname>
+            <given-names>David W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+        </contrib>
+        <contrib id="author-2" contrib-type="author">
+          <name>
+            <surname>Escalante</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-2">2</xref>
+        </contrib>
+        <contrib id="author-3" contrib-type="author">
+          <name>
+            <surname>Rappole</surname>
+            <given-names>John H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-3">3</xref>
+        </contrib>
+        <contrib id="author-4" contrib-type="author" deceased="yes">
+          <name>
+            <surname>Ramos</surname>
+            <given-names>Mario A.</given-names>
+          </name>
+        </contrib>
+        <contrib id="author-5" contrib-type="author">
+          <name>
+            <surname>Oehlenschlager</surname>
+            <given-names>Richard J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-4">4</xref>
+        </contrib>
+        <contrib id="author-6" contrib-type="author" deceased="yes">
+          <name>
+            <surname>Warner</surname>
+            <given-names>Dwain W.</given-names>
+          </name>
+        </contrib>
+        <contrib id="author-7" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Winker</surname>
+            <given-names>Kevin</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff-1">1</xref>
+          <email>kevin.winker@alaska.edu</email>
+        </contrib>
+        <aff id="aff-1"><label>1</label><institution>University of Alaska Museum</institution>, <addr-line>Fairbanks, AK</addr-line>, <country>USA</country>
+            </aff>
+        <aff id="aff-2"><label>2</label><institution>Colección Nacional de Aves, Instituto de Biología, Universidad Nacional Autónoma de México</institution>, <addr-line>Ciudad Universitaria, Copilco, Coyoacan</addr-line>, <country>Mexico</country>
+            </aff>
+        <aff id="aff-3"><label>3</label><institution>Smithsonian’s National Zoological Park, Conservation and Research Center</institution>, <addr-line>Front Royal, VA</addr-line>, <country>USA</country>
+            </aff>
+        <aff id="aff-4"><label>4</label><institution>Science Museum of Minnesota</institution>, <addr-line>St. Paul, MN</addr-line>, <country>USA</country>
+            </aff>
+      </contrib-group>
+      <contrib-group content-type="editors">
+        <contrib id="editor-1" contrib-type="editor">
+          <name>
+            <surname>Roberts</surname>
+            <given-names>David</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="epub" date-type="pub" iso-8601-date="2013-10-08">
+        <day>8</day>
+        <month>10</month>
+        <year iso-8601-date="2013">2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <elocation-id>e179</elocation-id>
+      <history>
+        <date date-type="received" iso-8601-date="2013-08-01">
+          <day>1</day>
+          <month>8</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+        <date date-type="accepted" iso-8601-date="2013-09-18">
+          <day>18</day>
+          <month>9</month>
+          <year iso-8601-date="2013">2013</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2013 Shaw et al.</copyright-statement>
+        <copyright-year>2013</copyright-year>
+        <copyright-holder>Shaw et al.</copyright-holder>
+        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://peerj.com/articles/179"/>
+      <abstract>
+        <p>How avifauna respond to the long-term loss and fragmentation of tropical forests is a critical issue in biodiversity management. We use data from over 30 years to gain insights into such changes in the northernmost Neotropical rainforest in the Sierra de Los Tuxtlas of southern Veracruz, Mexico. This region has been extensively deforested over the past half-century. The Estación de Biología Tropical Los Tuxtlas, of the Universidad Nacional Autónoma de México (UNAM), protects a 640 ha tract of lowland forest. It became relatively isolated from other forested tracts between 1975 and 1985, but it retains a corridor of forest to more extensive forests at higher elevations on Volcán San Martín. Most deforestation in this area occurred during the 1970s and early 1980s. Forest birds were sampled on the station and surrounding areas using mist nets during eight non-breeding seasons from 1973 to 2004 (though in some seasons netting extended into the local breeding season for some species). Our data suggested extirpations or declines in 12 species of birds subject to capture in mist nets. Six of the eight species no longer present were captured in 1992–95, but not in 2003–2004. Presence/absence data from netting and observational data suggested that another four low-density species also disappeared since sampling began. This indicates a substantial time lag between the loss of habitat and the apparent extirpation of these species. Delayed species loss and the heterogeneous nature of the species affected will be important factors in tropical forest management and conservation.</p>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <kwd>Birds</kwd>
+        <kwd>Ecology</kwd>
+        <kwd>Extinction</kwd>
+        <kwd>Conservation</kwd>
+        <kwd>Deforestation</kwd>
+        <kwd>Extirpation</kwd>
+        <kwd>Habitat loss</kwd>
+        <kwd>Species loss</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group id="fund-1">
+          <funding-source>University of Alaska Museum and the Friends of Ornithology</funding-source>
+        </award-group>
+        <award-group id="fund-2">
+          <funding-source>Welder Wildlife Foundation, World Wildlife Fund (US), Smithsonian Institution, Friends of the National Zoo, Wildlife Conservation Society, and Chicago Zoological Society</funding-source>
+        </award-group>
+        <award-group id="fund-3">
+          <funding-source>FOMIX (CONACyT-VERACRUZ)</funding-source>
+        </award-group>
+        <funding-statement>The University of Alaska Museum and the Friends of Ornithology provided financial support for this study in 2002 and 2004. Earlier seasons were supported by the Welder Wildlife Foundation, the World Wildlife Fund (US), the Smithsonian Institution, Friends of the National Zoo, the Wildlife Conservation Society, and the Chicago Zoological Society. This study is also part of project No. 109298 funded by FOMIX (CONACyT-VERACRUZ). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Deforestation is one of the main threats to biodiversity conservation. Forest loss and fragmentation have caused declines or local extinctions among animal species at many locations (<xref ref-type="bibr" rid="ref-76">Turner, 1996</xref>; <xref ref-type="bibr" rid="ref-21">Fahrig, 2003</xref>; <xref ref-type="bibr" rid="ref-17">Dirzo &amp; Raven, 2003</xref>). Local population declines and extirpations may be the most important leading indicators of biodiversity loss (<xref ref-type="bibr" rid="ref-12">Ceballos &amp; Ehrlich, 2002</xref>; <xref ref-type="bibr" rid="ref-44">O’Grady et al., 2004</xref>). Bird losses have been documented in many forest systems (e.g., <xref ref-type="bibr" rid="ref-83">Willis, 1974</xref>; <xref ref-type="bibr" rid="ref-84">Willis, 1979</xref>; <xref ref-type="bibr" rid="ref-33">Leck, 1979</xref>; <xref ref-type="bibr" rid="ref-31">Karr, 1982</xref>; <xref ref-type="bibr" rid="ref-6">Bierregaard &amp; Lovejoy, 1989</xref>; <xref ref-type="bibr" rid="ref-30">Kattan, Alvarez-López &amp; Giraldo, 1994</xref>; <xref ref-type="bibr" rid="ref-62">Robinson, 1999</xref>; <xref ref-type="bibr" rid="ref-68">Sodhi, Liow &amp; Bazzaz, 2004</xref>; <xref ref-type="bibr" rid="ref-23">Ferraz et al., 2007</xref>; <xref ref-type="bibr" rid="ref-46">Patten, Gómez de Silva &amp; Smith-Patten, 2010</xref>; <xref ref-type="bibr" rid="ref-32">Laurance et al., 2011</xref>). Perhaps nowhere has this phenomenon been more noticeable than among tropical forests, where species losses have been documented in numerous taxonomic groups (e.g., <xref ref-type="bibr" rid="ref-90">Zimmerman &amp; Bierregaard, 1986</xref>; <xref ref-type="bibr" rid="ref-51">Powell &amp; Powell, 1987</xref>; <xref ref-type="bibr" rid="ref-39">Malcolm, 1988</xref>; <xref ref-type="bibr" rid="ref-45">Pahl, Winter &amp; Heinsohn, 1988</xref>; <xref ref-type="bibr" rid="ref-4">Becker, Moure &amp; Peralta, 1991</xref>; <xref ref-type="bibr" rid="ref-13">Daily &amp; Ehrlich, 1995</xref>; <xref ref-type="bibr" rid="ref-8">Brook, Sodhi &amp; Ng, 2003</xref>; <xref ref-type="bibr" rid="ref-17">Dirzo &amp; Raven, 2003</xref>; <xref ref-type="bibr" rid="ref-73">Stuart et al., 2004</xref>; <xref ref-type="bibr" rid="ref-63">Robinson &amp; Sherry, 2012</xref>). Species losses can occur at the landscape or patch levels and depend on the intensity of the change in forest cover, the distance to and size of other forest fragments, shape and size of the fragment, and other factors (<xref ref-type="bibr" rid="ref-61">Robbins, 1980</xref>; <xref ref-type="bibr" rid="ref-37">Lovejoy et al., 1984</xref>; <xref ref-type="bibr" rid="ref-38">Lovejoy et al., 1986</xref>; <xref ref-type="bibr" rid="ref-65">Rolstad, 1991</xref>; <xref ref-type="bibr" rid="ref-1">Andrén, 1994</xref>; <xref ref-type="bibr" rid="ref-20">Faaborg et al., 1995</xref>; <xref ref-type="bibr" rid="ref-34">Lees &amp; Peres, 2006</xref>; <xref ref-type="bibr" rid="ref-3">Barlow et al., 2006</xref>; <xref ref-type="bibr" rid="ref-47">Patten &amp; Smith-Patten, 2011</xref>; <xref ref-type="bibr" rid="ref-63">Robinson &amp; Sherry, 2012</xref>). Tropical forest species, which often occur in small, low-density populations, may be particularly vulnerable to extirpation (<xref ref-type="bibr" rid="ref-74">Terborgh &amp; Winter, 1980</xref>; <xref ref-type="bibr" rid="ref-49">Pimm, Jones &amp; Diamond, 1988</xref>; <xref ref-type="bibr" rid="ref-70">Stotz et al., 1996</xref>).</p>
+      <p>Relatively few studies have assessed changes through decades, however (<xref ref-type="bibr" rid="ref-19">Ewers &amp; Didham, 2006</xref>). And although deforestation and fragmentation can occur over a short period, some time may pass before species begin to disappear from an affected area (<xref ref-type="bibr" rid="ref-35">Leigh, 1975</xref>; <xref ref-type="bibr" rid="ref-36">Leigh, 1981</xref>; <xref ref-type="bibr" rid="ref-31">Karr, 1982</xref>; <xref ref-type="bibr" rid="ref-75">Tilman et al., 1994</xref>; <xref ref-type="bibr" rid="ref-9">Brooks, Pimm &amp; Oyugi, 1999</xref>). Thus, to fully document the impact of deforestation on a forest community, a site must be studied for a substantial period of time after habitat alteration has occurred. Detailing the process of local population decline and extirpation over time provides invaluable information about species’ abilities to cope with habitat fragmentation. It also informs us about how community composition itself may be resistant to change, its degree of resilience following change, and how or if it stabilizes following this disturbance.</p>
+      <p>Studies of species losses in birds have used a variety of methods, including comparing species richness in different-sized fragments (<xref ref-type="bibr" rid="ref-84">Willis, 1979</xref>; <xref ref-type="bibr" rid="ref-43">Nemark, 1991</xref>; <xref ref-type="bibr" rid="ref-7">Blake, 1991</xref>), comparison of species composition at a site pre- and post-fragmentation (<xref ref-type="bibr" rid="ref-83">Willis, 1974</xref>; <xref ref-type="bibr" rid="ref-33">Leck, 1979</xref>; <xref ref-type="bibr" rid="ref-6">Bierregaard &amp; Lovejoy, 1989</xref>; <xref ref-type="bibr" rid="ref-30">Kattan, Alvarez-López &amp; Giraldo, 1994</xref>; <xref ref-type="bibr" rid="ref-47">Patten &amp; Smith-Patten, 2011</xref>), and experimental fragmentation (<xref ref-type="bibr" rid="ref-38">Lovejoy et al., 1986</xref>; <xref ref-type="bibr" rid="ref-5">Bierregaard &amp; Lovejoy, 1988</xref>; <xref ref-type="bibr" rid="ref-6">Bierregaard &amp; Lovejoy, 1989</xref>; <xref ref-type="bibr" rid="ref-22">Ferraz et al., 2003</xref>; <xref ref-type="bibr" rid="ref-23">Ferraz et al., 2007</xref>; <xref ref-type="bibr" rid="ref-32">Laurance et al., 2011</xref>), and have often included scattered survey data prior to fragmentation (<xref ref-type="bibr" rid="ref-83">Willis, 1974</xref>; <xref ref-type="bibr" rid="ref-33">Leck, 1979</xref>; <xref ref-type="bibr" rid="ref-30">Kattan, Alvarez-López &amp; Giraldo, 1994</xref>; <xref ref-type="bibr" rid="ref-62">Robinson, 1999</xref>; <xref ref-type="bibr" rid="ref-46">Patten, Gómez de Silva &amp; Smith-Patten, 2010</xref>; <xref ref-type="bibr" rid="ref-47">Patten &amp; Smith-Patten, 2011</xref>). Many of these studies have relied on qualitative visual and audio survey techniques, with multiple observers, though such techniques can allow cryptic and low-density species to be overlooked (<xref ref-type="bibr" rid="ref-81">Whitman, Hagan &amp; Brokaw, 1997</xref>). Additionally, observer skills and intensity of sampling may vary among surveys.</p>
+      <p>Mist netting offers the most consistent and quantitative method available to sample birds among years (<xref ref-type="bibr" rid="ref-59">Rappole, Winker &amp; Powell, 1998</xref>). However, mist nets have documented weaknesses; the most relevant is the limited stratum and size of birds they can effectively sample (<xref ref-type="bibr" rid="ref-60">Remsen &amp; Good, 1996</xref>; <xref ref-type="bibr" rid="ref-81">Whitman, Hagan &amp; Brokaw, 1997</xref>; <xref ref-type="bibr" rid="ref-59">Rappole, Winker &amp; Powell, 1998</xref>). This is particularly noticeable in structurally diverse habitats such as tropical rainforests, where probability of detection using mist nets is unknown for most species. Mist net studies in the Neotropics are therefore biased toward understory, small- to mid-sized passerines. While mist nets, unlike other methods, are less prone to observer bias and variability, we augmented our analyses of netting data that suggested species losses with presence-absence observational data (daily checklists in later years); this becomes particularly important for low-density species and for those not readily captured.</p>
+      <p>The Sierra de Los Tuxtlas of southern Veracruz, Mexico provides a textbook case of deforestation. This small range of volcanic mountains is home to the northernmost Neotropical rainforest (<xref ref-type="bibr" rid="ref-48">Pennington &amp; Sarukhan, 1968</xref>; <xref ref-type="bibr" rid="ref-16">Dirzo &amp; Miranda, 1991</xref>). The region has lost more than 90% of its forests in the past century, with the majority of that loss occurring in the lowlands over the past fifty years (<xref ref-type="bibr" rid="ref-14">Dirzo &amp; Garcia, 1992</xref>; <xref ref-type="bibr" rid="ref-58">Rappole, Powell &amp; Sader, 1994</xref>; <xref ref-type="bibr" rid="ref-86">Winker, 1997</xref>). Our study compares eight seasons of mist net sampling from Los Tuxtlas over the course of more than thirty years. This allows us to at least partly answer the question of how species composition and relative abundance changed in and around a conserved core of local rainforest habitat on a decadal scale.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <p>The Sierra de Los Tuxtlas is located in southern Veracruz, Mexico, 90 km southeast of Veracruz city. This range of mountains lies in the northwestern portion of the Isthmus of Tehuantepec and is isolated from the Sierra Madre Oriental by extensive lowlands. Los Tuxtlas encompass approximately 4,200 km<sup>2</sup>, and the range is dominated by Volcán San Martín and Volcán Santa Marta, each reaching more than 1,500 m elevation. The Gulf of Mexico lies a short distance from the mountains to the north and east. The northernmost Neotropical evergreen rainforest formerly dominated the habitat in the region (<xref ref-type="bibr" rid="ref-2">Andrle, 1966</xref>; <xref ref-type="bibr" rid="ref-48">Pennington &amp; Sarukhan, 1968</xref>; <xref ref-type="bibr" rid="ref-16">Dirzo &amp; Miranda, 1991</xref>), but due to deforestation it is now a mosaic with a high percentage of pasture, cropland, fencerows, and isolated trees (K Winker et al., personal observations; <xref ref-type="bibr" rid="ref-14">Dirzo &amp; Garcia, 1992</xref>; <xref ref-type="bibr" rid="ref-18">Estrada, Coates-Estrada &amp; Merritt, 1997</xref>). <xref ref-type="bibr" rid="ref-2">Andrle (1966)</xref> estimated that 50% of the region was forested in 1962. By 1975 <xref ref-type="bibr" rid="ref-56">Rappole &amp; Warner (1980)</xref> estimated that a third of the forests still stood. Just 15% of forest remained in 1986 (<xref ref-type="bibr" rid="ref-87">Winker, Rappole &amp; Ramos, 1990</xref>; <xref ref-type="bibr" rid="ref-14">Dirzo &amp; Garcia, 1992</xref>), and in 1994 only 7%–10% of the region was forested (<xref ref-type="bibr" rid="ref-86">Winker, 1997</xref>). Remaining forest occurs primarily in the highlands, and below 500 m forest is scarce (<xref ref-type="bibr" rid="ref-58">Rappole, Powell &amp; Sader, 1994</xref>; <xref ref-type="bibr" rid="ref-40">Mendoza, Fay &amp; Dirzo, 2005</xref>; <xref ref-type="fig" rid="fig-1">Figs. 1</xref> and <xref ref-type="fig" rid="fig-2">2</xref>, <xref ref-type="supplementary-material" rid="supp-2">Fig. S1</xref>).</p>
+      <fig id="fig-1">
+        <object-id pub-id-type="doi">10.7717/peerj.179/fig-1</object-id>
+        <label>Figure 1</label>
+        <caption>
+          <p>Comparative views of the Sierra de Los Tuxtlas from an artificially colorized 1979 Landsat image (A) and a 2010/11 Google Earth image (B) showing the extent of deforestation in the region. Remaining forest has become concentrated at higher elevations on the slopes of the region’s three volcanoes, San Martín, Santa Marta, and San Martín Pajápan (the forested areas remaining, from left to right).</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/fig-1.png"/>
+      </fig>
+      <fig id="fig-2">
+        <object-id pub-id-type="doi">10.7717/peerj.179/fig-2</object-id>
+        <label>Figure 2</label>
+        <caption>
+          <p>Satellite view of Volcán San Martín, the northernmost volcano in the Sierra de Los Tuxtlas, showing the distribution of forests (dark areas). The study area is indicated by the white box, which corresponds to the area in <xref ref-type="fig" rid="fig-3">Fig. 3</xref> (image from Google Earth, 2010).</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/fig-2.png"/>
+      </fig>
+      <p>The climate in Los Tuxtlas is warm and wet, with a mean annual temperature of 25 C, and annual precipitation is 4,500–4,900 mm, with a short dry season from March–May (<xref ref-type="bibr" rid="ref-69">Soto &amp; Gama, 1997</xref>). Canopy heights in primary forest range from 30 to 35 m (<xref ref-type="bibr" rid="ref-27">Ibarra-Manríquez et al., 1997</xref>). Second growth areas generally have variable canopy heights from 3 to 20 m (K Winker et al., personal observations).</p>
+      <p>In 1967 the Universidad Nacional Autónoma de México established the Estación de Biología Los Tuxtlas, protecting a 640-ha tract of lowland rainforest (<xref ref-type="bibr" rid="ref-24">González-Soriano, Dirzo &amp; Vogt, 1997</xref>). Over the following decades this site became largely isolated from other tracts of forest, although a corridor of forest remains, connecting to the more extensive upland forests on Volcán San Martín (<xref ref-type="bibr" rid="ref-14">Dirzo &amp; Garcia, 1992</xref>; <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The first intensive sampling of birds in the region began in 1973, and data from that effort are included here (see <xref ref-type="bibr" rid="ref-86">Winker, 1997</xref>).</p>
+      <p>During the non-breeding seasons of 1973–74 and 1974–75 Oehlenschlager, Ramos, Rappole, and Warner conducted the first intensive mist-netting efforts in the area. Sites extended through what was then contiguous rainforest from the biological station eastward to the coast (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). In 1986, Rappole, Ramos, and Winker operated mist nets at the biological station, and Winker and Escalante continued work there from 1992 to 1994. In 2003–04 as part of a study of migrant birds, Shaw operated mist nets at the same location as Winker and Escalante’s work in the 1990s. This study was approved by the University of Alaska Fairbanks IACUC (approval numbers: #00-33 &amp; #04-03). Fieldwork occurred primarily during the non-breeding season. Effort was made to equally sample the available forest types throughout the study period, although, in order to do this, habitat changes precluded using the same sites across all years (see <xref ref-type="bibr" rid="ref-85">Winker, 1995</xref>; <xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Field effort as gauged by net hours also varied among years (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+      <fig id="fig-3">
+        <object-id pub-id-type="doi">10.7717/peerj.179/fig-3</object-id>
+        <label>Figure 3</label>
+        <caption>
+          <p>Maps of the study area in the northern lowlands of the Sierra de Los Tuxtlas (this is the area in the white box in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>) showing a rough outline of all forests types (dark gray areas) in 1979 (A, from Landsat image), in 2005 (B, from GoogleEarth), and netting sites (black polygons). Numbers indicate field season(s) site was used and correspond to rows in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+        </caption>
+        <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/fig-3.png"/>
+      </fig>
+      <table-wrap id="table-1">
+        <object-id pub-id-type="doi">10.7717/peerj.179/table-1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Sample effort and periods during eight nonbreeding seasons across three decades in the Sierra de Los Tuxtlas, Veracruz, Mexico.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/table-1.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Nonbreeding season</th>
+                <th align="left">Net hours</th>
+                <th align="left">Sampling period</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">(1) 1973–74</td>
+                <td align="left">33,976</td>
+                <td align="left">15 Aug–26 May</td>
+              </tr>
+              <tr>
+                <td align="left">(2) 1974–75</td>
+                <td align="left">36,512</td>
+                <td align="left">7 Aug–29 May</td>
+              </tr>
+              <tr>
+                <td align="left">(3) 1986–87</td>
+                <td align="left">4,310</td>
+                <td align="left">17 Nov–16 Jan</td>
+              </tr>
+              <tr>
+                <td align="left">(4) 1992–93</td>
+                <td align="left">12,605</td>
+                <td align="left">5 Sep–15 Nov</td>
+              </tr>
+              <tr>
+                <td align="left">(5) 1993–94</td>
+                <td align="left">41,142</td>
+                <td align="left">25 Aug–20 May</td>
+              </tr>
+              <tr>
+                <td align="left">(6) 1994–95</td>
+                <td align="left">22,509</td>
+                <td align="left">15 Aug–15 Nov</td>
+              </tr>
+              <tr>
+                <td align="left">(7) 2002–03</td>
+                <td align="left">8,395</td>
+                <td align="left">21 Feb–27 Apr</td>
+              </tr>
+              <tr>
+                <td align="left">(8) 2003–04</td>
+                <td align="left">2,312</td>
+                <td align="left">5 Apr–29 Apr</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>Our earliest sampling occurred over a wider area than later seasons (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). During the earliest sampling, large tracts of contiguous forest consisting of various microhabitats dominated the region and were sampled accordingly (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). This broader expanse of forest likely provided habitat to more species than the current distribution of forest. This increased detection probabilities for some species such as <italic>Schiffornis turdina</italic>, which was rare even during our earliest sampling. Two general types of forest were present after fragmentation: primary forest and acahual (second growth). Because our sampling was forest-oriented, our efforts tracked the distribution of these habitats. Primary rainforest and second growth habitats were sampled in all efforts. We were unable to separate capture data by site for the early sampling periods; our findings therefore include data from the somewhat larger area from the station east to the coast. Our sampling was also uneven with respect to season, with wet and dry season sampling being unevenly distributed among years; we attempt to account for this, especially in relation to seasonal movements, when considering the results. This sampling heterogeneity leads us to be cautious and conservative in our analyses and interpretations. Importantly, however, the same site (18°34′50″ N, 95°04′20″ W) and net lanes were used in the 1992–2004 efforts (sample periods 4–8 in <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+      <p>Only resident species were used in our analyses due to seasonal migration and the high levels of variance in abundance this causes among obligate migrants. Changes in relative abundance were detected by comparing capture rates (birds per 1000 net hours) from each year of sampling. Through visual inspection of data (<xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>) we chose species absent in later samples and those with trends of apparently declining or increasing rates of capture for more detailed analyses. Neither gaps nor monotonic changes were necessary for inclusion, just suggestion of a possible trend. We did this instead of applying statistical tests across all 122 species to minimize Type I and Type II errors either by applying a very large number of tests or a conservative correction (e.g., Bonferroni). Presence/absence patterns and observational data (daily checklists in later years) were also considered to provide insight into changes in abundance in low-density species that did not have sufficient samples for statistical testing. Species were considered for examination for presence/absence if they had not been captured since at least 1986–87. Vagrants, defined as those rarely encountered species whose ranges do not normally include the Sierra de Los Tuxtlas, were excluded (<xref ref-type="bibr" rid="ref-88">Winker et al., 1992</xref>; <xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>). Only first-time captures (within a season) were used in statistical analyses. Ordinary least squares regression was used to detect changes in abundance for selected species. We looked for newly appearing species using presence/absence netting, observational, and specimen data. Daily checklists were used to augment mist-net data as a check to determine whether absence from the mist-net data was indicative of reality.</p>
+      <p>Species showing statistically significant declines and those not captured or observed in later sampling periods were categorized by preferred habitat (edge, forest, or semi-open), food preference (fruit/nectar or insects), elevational range, and whether Los Tuxtlas was at the periphery or core of its geographic range (<xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>). These characteristics were used to assess whether certain traits of the species increased their vulnerability to local extirpation.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <p>During this study we accumulated 165,083 net hours, equivalent to 37.7 net years if netting with a single net occurred twelve hours per day (<xref ref-type="table" rid="table-1">Table 1</xref>). A species accumulation curve for a representative year (1992) with below-average net hours (12,605; mean  = 20,220) showed that the avifauna was effectively fully sampled during most field seasons (<xref ref-type="supplementary-material" rid="supp-3">Fig. S2</xref>, though in documenting a species’ absence it is the among-season, aggregate sampling that is important). In total, 122 nonmigratory species were captured (<xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>).</p>
+      <p>Seven species showed statistically significant declines during the sampling period: <italic>Phaethornis striigularis</italic>, <italic>Xenops minutus, Glyphorynchus spirurus, Onychorhynchus coronatus, Myiobius sulphureipygius, Henicorhina leucosticta</italic>, and <italic>Eucometis penicillata</italic> (<xref ref-type="table" rid="table-2">Table 2</xref>). Of these taxa, four were captured throughout the sampling period: <italic>P. striigularis</italic>, <italic>X. minutus, E. penicillata</italic>, and <italic>H. leucosticta</italic>. <italic>G. spirurus</italic> was last captured in 1975, <italic>O. coronatus</italic> in 1986, and <italic>M. sulphureipygius</italic> in 1994, the last season of autumn netting. Four other species were captured in substantial numbers during early sampling periods but were not captured in later years: <italic>Lepidocolaptes souleyetii, Ornithion semiflavum</italic>, <italic>Leptopogon amaurocephalus</italic>, and <italic>Coereba flaveola</italic> (the latter may be an intratropical migrant in this region; <xref ref-type="bibr" rid="ref-53">Ramos, 1983</xref>); however, these species failed to show statistically significant declines in linear regression analyses, perhaps due to nonlinear declines. <italic>L. souleyetii</italic> was last captured in 1993–94, and the others were last captured in 1994–95. One species, <italic>Hylomanes momotula,</italic> was captured from 1986–1995 but not in the 1970s or in 2003–04. Though there were no captures in the 1970s, one individual was collected on 17 May 1974 a few km northeast of the station. A similar pattern occurred in <italic>Anabacerthia variegaticeps</italic>, with captures occurring only in the 1990s. Only two species (<italic>Trogon collaris</italic> and <italic>Xiphorhynchus flavigaster</italic>) showed significant increases during the study period.</p>
+      <table-wrap id="table-2">
+        <object-id pub-id-type="doi">10.7717/peerj.179/table-2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>Outcomes of regression analyses for 14 species showing changes in abundance (capture rates; captures and rates are given in the <xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>) and those not detected in the later sampling periods.</title>
+          <p>Those <italic>P</italic>-values presented in bold are significant at α = 0.05.</p>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/table-2.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Species</th>
+                <th align="left">
+                  <italic>F</italic>
+                </th>
+                <th align="left">
+                  <italic>P</italic>
+                </th>
+                <th align="left">
+                  <italic>R</italic>
+                  <sup>2</sup>
+                </th>
+                <th align="left">Last captured</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left"><italic>Phaethornis striigularis</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref>
+                        </td>
+                <td align="left">6.337</td>
+                <td align="left">
+                           <bold>0.045</bold>
+                        </td>
+                <td align="left">0.514</td>
+                <td align="left">2002–03</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Hylomanes momotula</italic><xref ref-type="fn" rid="table-2fn1"><sup>a</sup></xref>
+                        </td>
+                <td align="left">0.210</td>
+                <td align="left">0.890</td>
+                <td align="left">0.003</td>
+                <td align="left">1994–95</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Trogon collaris</italic><xref ref-type="fn" rid="table-2fn2"><sup>b</sup></xref>
+                        </td>
+                <td align="left">7.041</td>
+                <td align="left">
+                           <bold>0.038</bold>
+                        </td>
+                <td align="left">0.540</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Xiphorhynchus flavigaster</italic><xref ref-type="fn" rid="table-2fn2"><sup>b</sup></xref>
+                        </td>
+                <td align="left">6.941</td>
+                <td align="left">
+                           <bold>0.039</bold>
+                        </td>
+                <td align="left">0.536</td>
+                <td align="left">n/a</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Xenops minutus</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref>
+                        </td>
+                <td align="left">7.578</td>
+                <td align="left">
+                           <bold>0.033</bold>
+                        </td>
+                <td align="left">0.558</td>
+                <td align="left">2003–04</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Glyphorynchus spirurus</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref><sup>,</sup><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">7.529</td>
+                <td align="left">
+                           <bold>0.034</bold>
+                        </td>
+                <td align="left">0.557</td>
+                <td align="left">1974–75</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Lepidocolaptes souleyetii</italic><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">3.265</td>
+                <td align="left">0.121</td>
+                <td align="left">0.352</td>
+                <td align="left">1992–93</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Ornithion semiflavum</italic><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">0.327</td>
+                <td align="left">0.588</td>
+                <td align="left">0.052</td>
+                <td align="left">1994–95</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Leptopogon amaurocephalus</italic><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">2.814</td>
+                <td align="left">0.144</td>
+                <td align="left">0.319</td>
+                <td align="left">1994–95</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Onychorhynchus coronatus</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref><sup>,</sup><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">6.861</td>
+                <td align="left">
+                           <bold>0.040</bold>
+                        </td>
+                <td align="left">0.533</td>
+                <td align="left">1986–87</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Myiobius sulphureipygius</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref><sup>,</sup><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">10.555</td>
+                <td align="left">
+                           <bold>0.019</bold>
+                        </td>
+                <td align="left">0.629</td>
+                <td align="left">1994–95</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Henicorhinal eucosticta</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref><sup>,</sup><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">6.740</td>
+                <td align="left">
+                           <bold>0.041</bold>
+                        </td>
+                <td align="left">0.529</td>
+                <td align="left">2003–04</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Coereba flaveola</italic><xref ref-type="fn" rid="table-2fn4"><sup>d</sup></xref>
+                        </td>
+                <td align="left">2.164</td>
+                <td align="left">0.192</td>
+                <td align="left">0.265</td>
+                <td align="left">1994–95</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Eucometis penicillata</italic><xref ref-type="fn" rid="table-2fn3"><sup>c</sup></xref>
+                        </td>
+                <td align="left">18.725</td>
+                <td align="left">
+                           <bold>0.005</bold>
+                        </td>
+                <td align="left">0.757</td>
+                <td align="left">2002–03</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-2fn">
+            <p>
+                  <bold>Notes.</bold>
+               </p>
+          </fn>
+          <fn id="table-2fn1">
+            <label>a</label>
+            <p>Species captured 1986–1995. See text.</p>
+          </fn>
+          <fn id="table-2fn2">
+            <label>b</label>
+            <p>Species showing an increase in abundance.</p>
+          </fn>
+          <fn id="table-2fn3">
+            <label>c</label>
+            <p>Species showing a significant decline.</p>
+          </fn>
+          <fn id="table-2fn4">
+            <label>d</label>
+            <p>Species not captured in later sampling periods.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Presence/absence mist-net capture data for low-density species not captured after 1986–87 could be interpreted as suggesting that an additional 23 taxa were extirpated during the study (<xref ref-type="table" rid="table-3">Table 3</xref>). However, we know from observational data that not all of these species were absent. These taxa included rarely captured species that are too large for effective mist-net capture or that prefer the forest canopy (e.g., <italic>Micrastur ruficollis, Cotinga amabilis</italic>), mixed/open habitat specialists (e.g., <italic>Thraupis abbas</italic> and <italic>T. episcopus</italic>), a small-stream specialist (<italic>Chloroceryle aenea</italic>), and highland species (e.g., <italic>Myadestes unicolor</italic>) that are either not prone to capture in mist nets or at our site. Species such as <italic>Tityra inquisitor</italic>, both <italic>Thraupis</italic> tanagers, and others were known to be present on the site or nearby but were not captured in later sampling periods. Four species of hummingbirds are included in <xref ref-type="table" rid="table-3">Table 3</xref>, but due to inconsistent capture probabilities of low-density hummingbird species and non-definitive observational data with respect to accurate identification, we provide no hypotheses regarding their possible extirpation or persistence at the site; further work focusing on these species is warranted. There were six other species not in <xref ref-type="table" rid="table-2">Tables 2</xref> or <xref ref-type="table" rid="table-3">3</xref> in which mist net data alone might suggest declines or absences (<xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>) during the entire study but which were present throughout from observational data; netting is not an effective sampling tool for these taxa because of body size or forest stratum occupied (e.g., <italic>Glaucidium brasilianum, Ciccaba virgata</italic>, and <italic>Celeus castaneus</italic>) or because forest understory is not preferred habitat (e.g., <italic>Pitangus sulphuratus, Myiozetetes similis</italic>, and <italic>Volatinia jacarina</italic>; <xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>). The first three of these species require more focused study to determine abundances and possible declines.</p>
+      <table-wrap id="table-3">
+        <object-id pub-id-type="doi">10.7717/peerj.179/table-3</object-id>
+        <label>Table 3</label>
+        <caption>
+          <title>Species not captured or observed from 1992–2004, seasons captured (from <xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>), presence on the field site in later sampling periods, and comments.</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/table-3.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Species</th>
+                <th align="left">Seasons captured</th>
+                <th align="left">Presence</th>
+                <th align="left">Comments</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">
+                  <italic>Micrastur ruficollis</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Crypturellus boucardi</italic>
+                </td>
+                <td align="left">3</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Heliomaster longirostris</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">?</td>
+                <td align="left">hummingbird</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Florisuga mellivora</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">?</td>
+                <td align="left">hummingbird</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Chlorostilibon canivetii</italic>
+                </td>
+                <td align="left">2</td>
+                <td align="left">?</td>
+                <td align="left">hummingbird</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Hylocharis eliciae</italic>
+                </td>
+                <td align="left">1, 2</td>
+                <td align="left">?</td>
+                <td align="left">hummingbird</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Chloroceryle aenea</italic>
+                </td>
+                <td align="left">1, 2</td>
+                <td align="left">Y</td>
+                <td align="left">small streams</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Dryocopus lineatus</italic>
+                </td>
+                <td align="left">2</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Synallaxis erythrothorax</italic>
+                </td>
+                <td align="left">2</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Taraba major</italic>
+                </td>
+                <td align="left">2</td>
+                <td align="left">N</td>
+                <td align="left">forest understory</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Formicarius analis</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">N</td>
+                <td align="left">forest understory</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Grallaria guatimalensis</italic>
+                </td>
+                <td align="left">1, 3</td>
+                <td align="left">N</td>
+                <td align="left">forest understory</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Tityra inquisitor</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">Y</td>
+                <td align="left">observed, canopy</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Cotinga amabilis</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">?</td>
+                <td align="left">canopy</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Schiffornis turdina</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">N</td>
+                <td align="left">forest understory</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Polioptila plumbea</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Myadestes unicolor</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">Y</td>
+                <td align="left">highlands</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Euphonia affinis</italic>
+                </td>
+                <td align="left">2</td>
+                <td align="left">?</td>
+                <td align="left">none</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Thraupis abbas</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Thraupis episcopus</italic>
+                </td>
+                <td align="left">2</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Saltator atriceps</italic>
+                </td>
+                <td align="left">1, 2</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Molothrus aeneus</italic>
+                </td>
+                <td align="left">1</td>
+                <td align="left">Y</td>
+                <td align="left">observed</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+      <p>Four lower-density species have likely been extirpated: <italic>Taraba major</italic>, <italic>Formicarius analis</italic>, <italic>Grallaria guatimalensis</italic>, and <italic>Schiffornis turdina</italic> (<xref ref-type="table" rid="table-3">Table 3</xref>). One low-density species that might seem to have been extirpated from our data, <italic>Elaenia flavogaster</italic>, is likely an intratropical migrant here (K Winker et al., personal observations; <xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>; <xref ref-type="table" rid="table-3">Table 3</xref>). Several species were captured only in later sampling periods (<xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>) but were observed or collected throughout, suggesting that there were no additions to the biological station’s resident avifauna during the study.</p>
+      <p>Based on all available data during the study (netting and observational data), a minimum of 11 species of birds appear to have been extirpated from the biological station over the past three decades. This translates into an average loss of 3.7 species per decade or a local loss of 2.0% of the entire Los Tuxtlas avifauna (561 spp.; <xref ref-type="bibr" rid="ref-67">Schaldach &amp; Escalante, 1997</xref>), 4.1% of the resident avifauna (269 spp.; <xref ref-type="bibr" rid="ref-67">Schaldach &amp; Escalante, 1997</xref>), or 9.0% of the resident species captured in our study (122 spp.; <xref ref-type="supplementary-material" rid="supp-1">Appendix S1</xref>). All 16 species showing significant declines or no longer present on the site prefer some degree of forest cover (<xref ref-type="table" rid="table-4">Table 4</xref>). Three species are edge specialists: <italic>O. semiflavum, O. mexicanus</italic>, and <italic>C. flaveola</italic>. Eleven prefer closed canopy forest: <italic>P. striigularis</italic>, <italic>H. momotula</italic>, <italic>X. minutus</italic>, <italic>G. spirurus, F. analis, G. guatimalensis, L. amaurocephalus, M. sulphureipygius, S. turdina, H. leucosticta</italic>, and <italic>E. penicillata</italic>. <italic>T. major</italic> prefers primary forest edge, second growth, and riparian thickets, while <italic>L. souleyetii</italic> prefers semi-open or partly cleared forest.</p>
+      <table-wrap id="table-4">
+        <object-id pub-id-type="doi">10.7717/peerj.179/table-4</object-id>
+        <label>Table 4</label>
+        <caption>
+          <title>Habitat, foraging preference, elevational range, and position within geographical distribution for 18 species of birds at the Estación de Biología Los Tuxtlas (from <xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>).</title>
+        </caption>
+        <alternatives>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/179/table-4.png"/>
+          <table>
+            <colgroup>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+              <col align="left"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left">Species</th>
+                <th align="left">Habitat<break/>preference</th>
+                <th align="left">Foraging<break/>guild</th>
+                <th align="left">Elevational<break/>distribution (m)</th>
+                <th align="left">Geographic<break/>distribution</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">
+                  <italic>Phaethornis striigularis</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">nectarivore</td>
+                <td align="left">0–1500</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Hylomanes momotula</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">frugivore</td>
+                <td align="left">0–1500</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Trogon collaris</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">frugivore</td>
+                <td align="left">0–2400</td>
+                <td align="left">core</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Xenops minutus</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1000</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Xiphorhynchus flavigaster</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1500</td>
+                <td align="left">core</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Glyphorynchus spirurus</italic><xref ref-type="fn" rid="table-4fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1200</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Lepidocolaptes souleyetii</italic>
+                </td>
+                <td align="left">semi-open</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1500</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Taraba major</italic><xref ref-type="fn" rid="table-4fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1600</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Formicarius analis</italic><xref ref-type="fn" rid="table-4fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–750</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Grallaria guatimalensis</italic><xref ref-type="fn" rid="table-4fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">50–3500</td>
+                <td align="left">core</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Ornithion semiflavum</italic>
+                </td>
+                <td align="left">edge</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1500</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Leptopogon amaurocephalus</italic>
+                </td>
+                <td align="left">edge</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1300</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Onychorhynchus coronatus</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1200</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Myiobius sulphureipygius</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1000</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left"><italic>Schiffornis turdina</italic><xref ref-type="fn" rid="table-4fn1"><sup>*</sup></xref>
+                        </td>
+                <td align="left">forest</td>
+                <td align="left">frugivore</td>
+                <td align="left">0–750</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Henicorhina leucosticta</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">insectivore</td>
+                <td align="left">0–1300</td>
+                <td align="left">core</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Coereba flaveola</italic>
+                </td>
+                <td align="left">edge</td>
+                <td align="left">frugivore</td>
+                <td align="left">0–1000</td>
+                <td align="left">periphery</td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <italic>Eucometis penicillata</italic>
+                </td>
+                <td align="left">forest</td>
+                <td align="left">frugivore</td>
+                <td align="left">0–750</td>
+                <td align="left">periphery</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="table-4fn">
+            <p>
+                  <bold>Notes.</bold>
+               </p>
+          </fn>
+          <fn id="table-4fn1">
+            <label>*</label>
+            <p>Presence/Absence data suggest species is extirpated.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Eleven of 16, or 68.8%, of the species showing declines or extirpations in this study are insectivores, whereas among all species captured 41% are insectivores. This trend was not significant, however (<italic>G</italic>-test with Williams’ correction, <italic>P</italic> &gt; 0.1).</p>
+      <p>The Sierra de Los Tuxtlas is the northernmost limit of the ranges of 13 of the 16 species showing declines. <italic>G. guatimalensis</italic> and <italic>H. leucosticta</italic> are the only species with a distribution extending substantially to the north and west of the study site. The field site is well within the elevational limits for all 16 species (<xref ref-type="table" rid="table-4">Table 4</xref>).</p>
+      <p>The two species that significantly increased in abundance over the sample period (<xref ref-type="table" rid="table-4">Table 4</xref>) both occur here at the core of their ranges, elevational distributions, and in their preferred forest habitat. <italic>T. collaris</italic> is a frugivore, and <italic>X. flavigaster</italic> is an insectivore.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Although the absence of a species is not a clear indication of extirpation, our sampling effort, despite its heterogeneity, does suggest that at minimum a species’ absence indicates a decline. It is possible that some of the species now apparently gone from the station may persist in other, unsampled fragments. If the data presented here and our interpretations of them are accurate, the extirpation of species from the Estación de Biología Los Tuxtlas has been ongoing since its isolation. Such an “extinction debt” is a recognized component of deforestation, and models of empirical data show that in birds this occurs across decades, but the species affected and the mechanisms of species loss remain poorly understood  (<xref ref-type="bibr" rid="ref-75">Tilman et al., 1994</xref>; <xref ref-type="bibr" rid="ref-19">Ewers &amp; Didham, 2006</xref>; <xref ref-type="bibr" rid="ref-63">Robinson &amp; Sherry, 2012</xref>). Since 1973, 16 species susceptible to capture in mist nets have either become locally extirpated or are showing significant declines in abundance. The total number of losses and declines is undoubtedly higher than presented, because species not regularly captured in mist nets, such as large-bodied and canopy species, were not adequately surveyed. Species known to have been extirpated from Los Tuxtlas include <italic>Sarcoramphus papa</italic>, <italic>Harpia harpyja</italic>, and <italic>Ara macao</italic>. <xref ref-type="bibr" rid="ref-46">Patten, Gómez de Silva &amp; Smith-Patten (2010)</xref> also documented the extirpation of the latter two in Chiapas, Mexico. Many additional species have also been categorized as endangered or threatened in the Sierra de Los Tuxtlas (see <xref ref-type="bibr" rid="ref-86">Winker, 1997</xref>).</p>
+      <p>Our estimate of the average rate of avian losses from the station of 3.7 species per decade may not be directly comparable to other studies due to differences in habitat and sampling, but it is similar to the rate of loss observed at Barro Colorado Island by <xref ref-type="bibr" rid="ref-62">Robinson (1999)</xref> of 3.3 species per decade. Our estimate, however, includes only those taxa captured in mist nets, whereas Robinson’s work included all species detected through observation.</p>
+      <p>Of the eight species with data sufficient for statistical analysis that showed local extirpation, six were lost between 1992 and 2004 (on the same site), suggesting a continuing extirpation of species from the station. <xref ref-type="bibr" rid="ref-5">Bierregaard &amp; Lovejoy (1988)</xref> and <xref ref-type="bibr" rid="ref-6">Bierregaard &amp; Lovejoy (1989)</xref> found that as surrounding habitat was lost, species richness in remaining fragments increased as individuals displaced from surrounding areas found their way to remaining forest patches. This increased richness was limited by the lifespan of the individual birds (<xref ref-type="bibr" rid="ref-5">Bierregaard &amp; Lovejoy, 1988</xref>; <xref ref-type="bibr" rid="ref-6">Bierregaard &amp; Lovejoy, 1989</xref>). Unlike these studies, in which forest patches were suddenly and completely isolated, the forest of the Estación de Biología Los Tuxtlas was isolated gradually. Because extirpation seems to be continuing, we expect declines and extirpations to continue for some time at the station, even if no further deforestation occurs in the region (<xref ref-type="bibr" rid="ref-83">Willis, 1974</xref>; <xref ref-type="bibr" rid="ref-9">Brooks, Pimm &amp; Oyugi, 1999</xref>; <xref ref-type="bibr" rid="ref-62">Robinson, 1999</xref>; <xref ref-type="bibr" rid="ref-22">Ferraz et al., 2003</xref>).</p>
+      <p>Mechanisms for tropical bird species losses due to deforestation and fragmentation probably include factors such as greater specialization as compared to temperate birds, reduced dispersal abilities, lower population densities, and patchy distributions (<xref ref-type="bibr" rid="ref-64">Robinson et al., 2004</xref>; <xref ref-type="bibr" rid="ref-72">Stratford &amp; Robinson, 2005</xref>; <xref ref-type="bibr" rid="ref-41">Moore et al., 2008</xref>; <xref ref-type="bibr" rid="ref-66">Rompré et al., 2007</xref>). Our assessment of possible causes for the loss of these species reveals no definite patterns, however, other than the predominant requirement of forested habitat. On Barro Colorado Island in Lake Gatún, Panama, maturation of habitat and loss of open areas was responsible for the decline in the island’s avifauna (<xref ref-type="bibr" rid="ref-83">Willis, 1974</xref>; <xref ref-type="bibr" rid="ref-31">Karr, 1982</xref>). This is unlikely to be the case in Los Tuxtlas. Despite major degradation of surrounding forests, the station has remained primary forest with areas of second growth. A loss of sapling and seedling species has been described (<xref ref-type="bibr" rid="ref-15">Dirzo &amp; Miranda, 1990</xref>), but the overall structure of the forest appears to have remained fairly stable. <xref ref-type="bibr" rid="ref-80">Vetter et al. (2011)</xref> found in a meta-analysis of 30 studies that the effects of fragmentation are not subject to simple generalities, and that they are highly site specific. <xref ref-type="bibr" rid="ref-47">Patten &amp; Smith-Patten (2011)</xref> pointed to the need to understand extirpations at local scales because responses can differ from predictions made at larger scales.</p>
+      <p>Los Tuxtlas is at the northernmost extent of the ranges of 13 of the 16 species we found to be declining or extirpated (<xref ref-type="table" rid="table-3">Tables 3</xref> and <xref ref-type="table" rid="table-4">4</xref>). Evidence is mixed as to whether populations at the periphery of a species’ range are more vulnerable to extirpation (<xref ref-type="bibr" rid="ref-74">Terborgh &amp; Winter, 1980</xref>; <xref ref-type="bibr" rid="ref-30">Kattan, Alvarez-López &amp; Giraldo, 1994</xref>; <xref ref-type="bibr" rid="ref-29">Johnson, 1998</xref>). Los Tuxtlas is at the edge of all species’ geographic ranges endemic to Neotropical rainforest, so it is not clear why this subset might be more subject to this phenomenon. The elevational distribution of each of these species encompasses sea level to 750 m or more (<xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>), and we consider this factor unlikely to be responsible for the vulnerability of these particular taxa.</p>
+      <p>Although insectivores showed a trend toward being disproportionately affected in our study, it was not significant. Elsewhere insectivores have been shown to be particularly vulnerable to severe habitat change (e.g., <xref ref-type="bibr" rid="ref-30">Kattan, Alvarez-López &amp; Giraldo, 1994</xref>; <xref ref-type="bibr" rid="ref-11">Canaday, 1996</xref>; <xref ref-type="bibr" rid="ref-28">Johnson &amp; Winker, 2010</xref>; <xref ref-type="bibr" rid="ref-80">Vetter et al., 2011</xref>). Additionally, deforestation can negatively impact species found in multi-species foraging flocks (<xref ref-type="bibr" rid="ref-77">Van Houtan et al., 2006</xref>), which are important to many birds of tropical rainforest communities (<xref ref-type="bibr" rid="ref-82">Willis, 1966</xref>; <xref ref-type="bibr" rid="ref-42">Morton, 1973</xref>; <xref ref-type="bibr" rid="ref-10">Buskirk, 1976</xref>; <xref ref-type="bibr" rid="ref-57">Rappole et al., 1983</xref>). <xref ref-type="bibr" rid="ref-55">Rappole &amp; Morton (1985)</xref> noted that <italic>X. minutus</italic>, one of the species showing a significant decline in our study (<xref ref-type="table" rid="table-2">Table 2</xref>) was a regular member of mixed flocks in the Sierra de Los Tuxtlas.</p>
+      <p>We considered large-scale range shifts, perhaps from climate change, as a possible cause for species loss, but this seems unlikely. At least some of the species lost in our study appear to have persisted in the southern portion of Los Tuxtlas near Volcán Santa Marta at least into the mid-1990s (K Winker, personal observations). If range shifts were the cause, species would likely have disappeared region-wide and we would not expect only forest-related species to be affected. Habitat loss and degradation seem to be the best explanations for the losses observed, but exactly how these changes affected each species remains unknown.</p>
+      <p>Another possible influence on mist-net captures, particularly in the most recent, late winter/spring sampling periods, would be seasonal intra-tropical and elevational movements in some of the study species (<xref ref-type="bibr" rid="ref-53">Ramos, 1983</xref>; <xref ref-type="bibr" rid="ref-54">Ramos, 1988</xref>). There is evidence that <italic>C. flaveola</italic> and <italic>E. flavogaster</italic> move seasonally within the tropics, seemingly to breed in Los Tuxtlas then departing (M Ramos &amp; J Rappole, personal observations). <xref ref-type="bibr" rid="ref-79">Vega Rivera (1982)</xref> found probable elevational movements in <italic>M. sulphureipygius</italic>. The extirpations of seven of the 16 species are particularly notable. <italic>C. flaveola</italic> is a widely distributed species known to thrive in manipulated habitats such as gardens and forest edges and is a generalist frugivore and nectarivore (K Winker et al., personal observations; <xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>). This is not a species we would expect to decline due to forest fragmentation; both its habitat and food preferences are well suited to survival in a mosaic landscape, and it is known to persist in a fragmented landscape elsewhere in northern Middle America (<xref ref-type="bibr" rid="ref-28">Johnson &amp; Winker, 2010</xref>). Intratropical migrations of <italic>C. flaveola</italic> may partially explain the changing capture rates in this species (M Ramos &amp; J Rappole, personal observations). <italic>O. semiflavum</italic> and <italic>L. amaurocephalus</italic> are both edge specialists; thus, limited fragmentation, creating an increase in edges, might <italic>a priori</italic> seem to benefit these species. Though the habitat protected by the station has remained relatively static, the intensity of lowland deforestation in Los Tuxtlas as a whole (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) may be too extensive even for these edge specialists. <italic>L. souleyetii</italic> prefers open forest and partially cleared areas (<xref ref-type="bibr" rid="ref-25">Howell &amp; Webb, 1995</xref>). The habitat surrounding the station during the 1980s and 1990s was dominated by pasture scattered with isolated trees. In our later field seasons there was a noticeable decline in the number of isolated trees and fences constructed of living trees (K Winker, personal observations). This loss may account for the extirpation of <italic>L. souleyetii</italic>. <italic>G. spirurus</italic> apparently disappeared from the station between the 1970s and 1986, the first of the documented extirpations. The majority of deforestation across the region took place during this period. This previously abundant species disappeared from our data in just over a decade. Interestingly, on the slopes of neighboring Volcán Santa Marta the species was present at least into the 1990s and probably still persists there (K Winker, personal observations). Also, <xref ref-type="bibr" rid="ref-18">Estrada, Coates-Estrada &amp; Merritt (1997)</xref> had observational data of the species’ presence in the station area in 1990–1992, indicating at least a decline if not extirpation (<xref ref-type="table" rid="table-2">Table 2</xref>). In Brazil, <italic>G. spirurus</italic> persisted in experimentally isolated fragments well after isolation (<xref ref-type="bibr" rid="ref-71">Stouffer &amp; Bierregaard, 1995</xref>), and the species persists in highly fragmented forest in southern Belize (<xref ref-type="bibr" rid="ref-28">Johnson &amp; Winker, 2010</xref>). <italic>H. momotula</italic> was collected but not netted in 1974, was captured in substantial numbers during 1986 and 1992–94, but was absent in the last two seasons of sampling. This pattern is mysterious. This species has an elevational range extending to 1500 m and may persist in the forests of the upper slopes of Volcán San Martín. If so, we speculate that the station may serve as a sink for this species, where habitat is insufficient for a self-sustaining population but may occasionally be colonized by dispersing individuals (see also <xref ref-type="bibr" rid="ref-89">Winker et al., 1997</xref>). Continued sampling may provide more insight into its abundance patterns. It illustrates the need for improved understanding of species-specific dispersal behavior within and among forest fragments (e.g., <xref ref-type="bibr" rid="ref-78">Van Houtan et al., 2007</xref>; <xref ref-type="bibr" rid="ref-41">Moore et al., 2008</xref>; <xref ref-type="bibr" rid="ref-26">Ibarra-Macias, Robinson &amp; Gaines, 2011</xref>), which may be an important driver for patterns such as those we observed.</p>
+      <p>Two other studies provide comparative value to our results. The four species we consider likely extirpated (<italic>Taraba major</italic>, <italic>Formicarius analis</italic>, <italic>Grallaria guatimalensis</italic>, and <italic>Schiffornis turdina</italic>) were not detected in the much broader census surveys of <xref ref-type="bibr" rid="ref-18">Estrada, Coates-Estrada &amp; Merritt (1997)</xref> in 1990–1992. <xref ref-type="bibr" rid="ref-46">Patten, Gómez de Silva &amp; Smith-Patten (2010)</xref> conducted the geographically closest long-term study to ours in their analysis of avian declines at Palenque, Chiapas, Mexico. Their results showed only three species that overlapped our results. They found <italic>Eucometis penicillata</italic> extirpated (to our decline) and two others that declined as our populations did (<italic>Xenops minutus</italic> and <italic>Leptopogon amaurocephalus</italic>). Indeed, the species-level heterogeneity between our studies is noteworthy. A key similarity between our studies, however, is the importance of forest in explaining declines and extirpations (<xref ref-type="bibr" rid="ref-47">Patten &amp; Smith-Patten, 2011</xref>).</p>
+      <p>Our analyses suggest that the Estación de Biología Tropical Los Tuxtlas is too small to maintain its full, historic complement of bird species. If deforestation accelerated region-wide, eliminating other forest refugia, the station alone (640 ha) would be unable to maintain the historical avian diversity of the region or to provide source populations for restored forest habitats for many of its present bird species. Given the scale of deforestation in the region, it is surprising that there are not more species showing declines. Indeed, we may consider it good news that important forest seed dispersers such as <italic>Habia</italic> tanagers (<xref ref-type="bibr" rid="ref-52">Puebla &amp; Winker, 2004</xref>) did not show significant declines. The overall size of the remaining forests, particularly in the highlands, may be ameliorating the effects of lowland deforestation. However, increasing or continued isolation of the station will probably limit recolonization from elsewhere, and species losses will likely continue.</p>
+      <p>In our study, although several species seemed to quickly succumb to local and regional deforestation, others showed delayed declines and extirpations, a phenomenon also known to happen at larger scales (<xref ref-type="bibr" rid="ref-75">Tilman et al., 1994</xref>; <xref ref-type="bibr" rid="ref-50">Pimm et al., 2006</xref>). Moreover, the effects of deforestation were remarkably heterogeneous among forest-related species, with no single clear pattern of why some species experienced declines or extirpation. Our long-term data suggest that predicting which species will be most affected by deforestation in the northern Neotropics, and thus effectively working to ameliorate the effects of forest loss, will be particularly challenging. Nevertheless, as similar long-term datasets accrue, subtle patterns may reveal how species-specific responses reflect underlying commonalities that can be exploited for effective management and conservation.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="supplemental-information">
+      <title>Supplemental Information</title>
+      <supplementary-material id="supp-1" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/179/Appendix_Jul_13.pdf">
+        <object-id pub-id-type="doi">10.7717/peerj.179/supp-1</object-id>
+        <label>Appendix S1</label>
+        <caption>
+          <title>Species accumulation curve for a representative year.</title>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-2" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/179/Fig_S1_new.pdf">
+        <object-id pub-id-type="doi">10.7717/peerj.179/supp-2</object-id>
+        <label>Figure S1</label>
+        <caption>
+          <p>A series of satellite images depicting deforestation in Los Tuxtlas, focusing in on the volcanoes Santa Marta (left) and San Martín Pajápan (right), starting with a 1973/4 Skylab image (upper left) and progressing through a series of Landsat images, from 1999 (upper right), 2003 (lower left), and 2011 (lower right).</p>
+        </caption>
+      </supplementary-material>
+      <supplementary-material id="supp-3" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/179/Fig_S2.pdf">
+        <object-id pub-id-type="doi">10.7717/peerj.179/supp-3</object-id>
+        <label>Figure S2</label>
+        <caption>
+          <title>Species accumulation curve for a representative year with below average net hours (1992, 12,605 net hours).</title>
+        </caption>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the many field assistants who have helped us over the years and those who have provided and helped obtain permits to conduct this research. We also thank Len Kamerling for assistance with images. R Barry, A Powell, S Pimm, M Patten, and three anonymous reviewers provided excellent advice and comments.</p>
+    </ack>
+    <sec sec-type="additional-information">
+      <title>Additional Information and Declarations</title>
+      <fn-group content-type="competing-interests">
+        <title>Competing Interests</title>
+        <fn id="conflict-1" fn-type="con">
+          <p>The authors declare that they have no competing interests.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="author-contributions">
+        <title>Author Contributions</title>
+        <fn id="contribution-1" fn-type="con">
+          <p>
+               <xref ref-type="contrib" rid="author-1">David W. Shaw</xref> and <xref ref-type="contrib" rid="author-5">Richard J. Oehlenschlager</xref> performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+        <fn id="contribution-2" fn-type="con">
+          <p>
+               <xref ref-type="contrib" rid="author-2">Patricia Escalante</xref>, <xref ref-type="contrib" rid="author-3">John H. Rappole</xref> and <xref ref-type="contrib" rid="author-7">Kevin Winker</xref> conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper.</p>
+        </fn>
+      </fn-group>
+      <fn-group content-type="other">
+        <title>Animal Ethics</title>
+        <fn id="addinfo-1" fn-type="other">
+          <p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+          <p>This study was approved by the University of Alaska Fairbanks IACUC (approval numbers: #00-33 &amp; #04-03).</p>
+        </fn>
+      </fn-group>
+    </sec>
+    <ref-list content-type="authoryear">
+      <title>References</title>
+      <ref id="ref-1">
+        <label>Andrén (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Andrén</surname><given-names>H</given-names></name>
+               </person-group>
+          <article-title>Effects of habitat fragmentation on birds and mammals in landscapes with different proportions of suitable habitat: a review</article-title>
+          <source>Oikos</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>71</volume>
+          <fpage>355</fpage>
+          <lpage>366</lpage>
+          <pub-id pub-id-type="doi">10.2307/3545823</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-2">
+        <label>Andrle (1966)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Andrle</surname><given-names>RF</given-names></name>
+               </person-group>
+          <article-title>North American migrants in the Sierra de Tuxtla of southern Veracruz, Mexico</article-title>
+          <source>The Condor</source>
+          <year iso-8601-date="1966">1966</year>
+          <volume>68</volume>
+          <fpage>177</fpage>
+          <lpage>184</lpage>
+          <pub-id pub-id-type="doi">10.2307/1365716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-3">
+        <label>Barlow et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Barlow</surname><given-names>J</given-names></name>
+                  <name><surname>Peres</surname><given-names>CA</given-names></name>
+                  <name><surname>Henriques</surname><given-names>LMP</given-names></name>
+                  <name><surname>Stouffer</surname><given-names>PC</given-names></name>
+                  <name><surname>Wunderle</surname><given-names>JM</given-names></name>
+               </person-group>
+          <article-title>The responses of understorey birds to forest fragmentation, logging and wildfires: an Amazonian synthesis</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>128</volume>
+          <fpage>182</fpage>
+          <lpage>192</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2005.09.028</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-4">
+        <label>Becker, Moure &amp; Peralta (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Becker</surname><given-names>P</given-names></name>
+                  <name><surname>Moure</surname><given-names>JS</given-names></name>
+                  <name><surname>Peralta</surname><given-names>FJA</given-names></name>
+               </person-group>
+          <article-title>More about euglossine bees in Amazonian forest fragments</article-title>
+          <source>Biotropica</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>23</volume>
+          <fpage>586</fpage>
+          <lpage>591</lpage>
+          <pub-id pub-id-type="doi">10.2307/2388396</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-5">
+        <label>Bierregaard &amp; Lovejoy (1988)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Oellet</surname><given-names>H</given-names></name>
+               </person-group>
+          <article-title>Birds in Amazonian forest fragments: effects of insularization</article-title>
+          <source>Acta XIX congressus internationalis ornithologici</source>
+          <year iso-8601-date="1988">1988</year>
+          <publisher-loc>Ottawa</publisher-loc>
+          <publisher-name>University of Ottawa Press</publisher-name>
+          <fpage>1564</fpage>
+          <lpage>1579</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-6">
+        <label>Bierregaard &amp; Lovejoy (1989)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+               </person-group>
+          <article-title>Effects of forest fragmentation on Amazonian understory bird communities</article-title>
+          <source>Acta Amazonica</source>
+          <year iso-8601-date="1989">1989</year>
+          <volume>19</volume>
+          <fpage>215</fpage>
+          <lpage>241</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-7">
+        <label>Blake (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Blake</surname><given-names>JG</given-names></name>
+               </person-group>
+          <article-title>Nested subsets and the distribution of birds in isolated woodlots</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>5</volume>
+          <fpage>58</fpage>
+          <lpage>66</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-1739.1991.tb00388.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-8">
+        <label>Brook, Sodhi &amp; Ng (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Brook</surname><given-names>BW</given-names></name>
+                  <name><surname>Sodhi</surname><given-names>NS</given-names></name>
+                  <name><surname>Ng</surname><given-names>PKL</given-names></name>
+               </person-group>
+          <article-title>Catastrophic extinctions follow deforestation in Singapore</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>424</volume>
+          <fpage>420</fpage>
+          <lpage>426</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature01795</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-9">
+        <label>Brooks, Pimm &amp; Oyugi (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Brooks</surname><given-names>TM</given-names></name>
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Oyugi</surname><given-names>JO</given-names></name>
+               </person-group>
+          <article-title>Time lag between deforestation and bird extinction in tropical forest fragments</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>13</volume>
+          <fpage>1140</fpage>
+          <lpage>1150</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.1999.98341.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-10">
+        <label>Buskirk (1976)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Buskirk</surname><given-names>WH</given-names></name>
+               </person-group>
+          <article-title>Social systems in a tropical forest avifauna</article-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="1976">1976</year>
+          <volume>110</volume>
+          <fpage>293</fpage>
+          <lpage>310</lpage>
+          <pub-id pub-id-type="doi">10.1086/283065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-11">
+        <label>Canaday (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Canaday</surname><given-names>C</given-names></name>
+               </person-group>
+          <article-title>Loss of insectivorous birds among a gradient of human impact in Amazonia</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>77</volume>
+          <fpage>63</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-3207(95)00115-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-12">
+        <label>Ceballos &amp; Ehrlich (2002)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ceballos</surname><given-names>G</given-names></name>
+                  <name><surname>Ehrlich</surname><given-names>PR</given-names></name>
+               </person-group>
+          <article-title>Mammal population losses and the extinction crisis</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2002">2002</year>
+          <volume>296</volume>
+          <fpage>904</fpage>
+          <lpage>907</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1069349</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-13">
+        <label>Daily &amp; Ehrlich (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Daily</surname><given-names>GC</given-names></name>
+                  <name><surname>Ehrlich</surname><given-names>PR</given-names></name>
+               </person-group>
+          <article-title>Preservation of biodiversity in small rainforest patches: rapid evaluations using butterfly trapping</article-title>
+          <source>Biodiversity &amp; Conservation</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>4</volume>
+          <fpage>35</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00115313</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-14">
+        <label>Dirzo &amp; Garcia (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Garcia</surname><given-names>MC</given-names></name>
+               </person-group>
+          <article-title>Rates of deforestation in Los Tuxtlas, a Neotropical area in southeast Mexico</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>6</volume>
+          <fpage>84</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.1992.610084.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-15">
+        <label>Dirzo &amp; Miranda (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Miranda</surname><given-names>A</given-names></name>
+               </person-group>
+          <article-title>Contemporary Neotropical defaunation and forest structure, function, and diversity, a sequel to John Terborgh</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>4</volume>
+          <fpage>444</fpage>
+          <lpage>447</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-1739.1990.tb00320.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-16">
+        <label>Dirzo &amp; Miranda (1991)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Miranda</surname><given-names>A</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Price</surname><given-names>PW</given-names></name>
+                  <name><surname>Lewinsohn</surname><given-names>TM</given-names></name>
+                  <name><surname>Fernandes</surname><given-names>GW</given-names></name>
+                  <name><surname>Benson</surname><given-names>WW</given-names></name>
+               </person-group>
+          <article-title>Altered patterns of herbivory and diversity in the forest understory: a case study of the possible consequences of contemporary defaunation</article-title>
+          <source>Plant-animal interactions: evolutionary ecology in tropical and temperate regions</source>
+          <year iso-8601-date="1991">1991</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Wiley and Sons, Inc.</publisher-name>
+          <fpage>273</fpage>
+          <lpage>287</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-17">
+        <label>Dirzo &amp; Raven (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Raven</surname><given-names>PH</given-names></name>
+               </person-group>
+          <article-title>Global state of biodiversity and loss</article-title>
+          <source>Annual Review of Environment and Resources</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>28</volume>
+          <fpage>137</fpage>
+          <lpage>167</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.energy.28.050302.105532</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-18">
+        <label>Estrada, Coates-Estrada &amp; Merritt (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Estrada</surname><given-names>A</given-names></name>
+                  <name><surname>Coates-Estrada</surname><given-names>R</given-names></name>
+                  <name><surname>Merritt</surname><given-names>DA</given-names><suffix>Jr</suffix></name>
+               </person-group>
+          <article-title>Anthropogenic landscape changes and avian diversity at Los Tuxtlas, Mexico</article-title>
+          <source>Biodiversity &amp; Conservation</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>6</volume>
+          <fpage>19</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1018328930981</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-19">
+        <label>Ewers &amp; Didham (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ewers</surname><given-names>RM</given-names></name>
+                  <name><surname>Didham</surname><given-names>RK</given-names></name>
+               </person-group>
+          <article-title>Confounding factors in the detection of species responses to fragmentation</article-title>
+          <source>Biological Reviews</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>81</volume>
+          <fpage>117</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1464793105006949</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-20">
+        <label>Faaborg et al. (1995)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Faaborg</surname><given-names>J</given-names></name>
+                  <name><surname>Brittingham</surname><given-names>M</given-names></name>
+                  <name><surname>Donovan</surname><given-names>T</given-names></name>
+                  <name><surname>Blake</surname><given-names>J</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Finch</surname><given-names>DM</given-names></name>
+                  <name><surname>Martin</surname><given-names>TE</given-names></name>
+               </person-group>
+          <article-title>Habitat fragmentation in the temperate zone</article-title>
+          <source>Ecology and management of Neotropical migratory birds: a synthesis and review of the critical issues</source>
+          <year iso-8601-date="1995">1995</year>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>357</fpage>
+          <lpage>380</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-21">
+        <label>Fahrig (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Fahrig</surname><given-names>L</given-names></name>
+               </person-group>
+          <article-title>Effects of habitat fragmentation on biodiversity</article-title>
+          <source>Annual Review of Ecology, Evolution, and Systematics</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>34</volume>
+          <fpage>487</fpage>
+          <lpage>515</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.34.011802.132419</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-22">
+        <label>Ferraz et al. (2003)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ferraz</surname><given-names>G</given-names></name>
+                  <name><surname>Russell</surname><given-names>GJ</given-names></name>
+                  <name><surname>Stouffer</surname><given-names>PC</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names><suffix>Jr</suffix></name>
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+               </person-group>
+          <article-title>Rates of species loss from Amazonian forest fragments</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2003">2003</year>
+          <volume>100</volume>
+          <fpage>14069</fpage>
+          <lpage>14073</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.2336195100</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-23">
+        <label>Ferraz et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ferraz</surname><given-names>G</given-names></name>
+                  <name><surname>Nichols</surname><given-names>JD</given-names></name>
+                  <name><surname>Hines</surname><given-names>JE</given-names></name>
+                  <name><surname>Stouffer</surname><given-names>PC</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names><suffix>Jr</suffix></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+               </person-group>
+          <article-title>A large-scale deforestation experiment: effects of patch area and isolation on Amazon birds</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>315</volume>
+          <fpage>238</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1133097</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-24">
+        <label>González-Soriano, Dirzo &amp; Vogt (1997)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="editor">
+                  <name><surname>González-Soriano</surname><given-names>E</given-names></name>
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Vogt</surname><given-names>RC</given-names></name>
+               </person-group>
+          <source>Historia natural de Los Tuxtlas</source>
+          <year iso-8601-date="1997">1997</year>
+          <publisher-loc>DF, Mexico</publisher-loc>
+          <publisher-name>Universidad Nacional Autónoma de México</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-25">
+        <label>Howell &amp; Webb (1995)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Howell</surname><given-names>S</given-names></name>
+                  <name><surname>Webb</surname><given-names>S</given-names></name>
+               </person-group>
+          <source>A guide to the birds of Mexico and northern Central America</source>
+          <year iso-8601-date="1995">1995</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-26">
+        <label>Ibarra-Macias, Robinson &amp; Gaines (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Ibarra-Macias</surname><given-names>A</given-names></name>
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+                  <name><surname>Gaines</surname><given-names>MS</given-names></name>
+               </person-group>
+          <article-title>Experimental evaluation of bird movements in a fragmented Neotropical landscape</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>144</volume>
+          <fpage>703</fpage>
+          <lpage>712</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2010.08.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-27">
+        <label>Ibarra-Manríquez et al. (1997)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Ibarra-Manríquez</surname><given-names>G</given-names></name>
+                  <name><surname>Martinez-Ramos</surname><given-names>M</given-names></name>
+                  <name><surname>Dirzon</surname><given-names>R</given-names></name>
+                  <name><surname>Núñez-Farfán</surname><given-names>J</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>González-Soriano</surname><given-names>E</given-names></name>
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Vogt</surname><given-names>RC</given-names></name>
+               </person-group>
+          <article-title>La vegetación</article-title>
+          <source>Historia natural de Los Tuxtlas</source>
+          <year iso-8601-date="1997">1997</year>
+          <publisher-loc>DF, Mexico</publisher-loc>
+          <publisher-name>Universidad Nacional Autónoma de México</publisher-name>
+          <fpage>61</fpage>
+          <lpage>74</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-28">
+        <label>Johnson &amp; Winker (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Johnson</surname><given-names>AB</given-names></name>
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+               </person-group>
+          <article-title>Short-term hurricane impacts on a Neotropical community of marked birds and implications for early-stage community resilience</article-title>
+          <source>PLoS ONE</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>5</volume>
+          <fpage>e15109</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0015109</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-29">
+        <label>Johnson (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Johnson</surname><given-names>CN</given-names></name>
+               </person-group>
+          <article-title>Species extinction and the relationship between distribution and abundance</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>394</volume>
+          <fpage>272</fpage>
+          <lpage>274</lpage>
+          <pub-id pub-id-type="doi">10.1038/28385</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-30">
+        <label>Kattan, Alvarez-López &amp; Giraldo (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Kattan</surname><given-names>GH</given-names></name>
+                  <name><surname>Alvarez-López</surname><given-names>H</given-names></name>
+                  <name><surname>Giraldo</surname><given-names>M</given-names></name>
+               </person-group>
+          <article-title>Forest fragmentation and bird extinctions: San Antonio eighty years later</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>8</volume>
+          <fpage>138</fpage>
+          <lpage>146</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.1994.08010138.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-31">
+        <label>Karr (1982)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Karr</surname><given-names>JR</given-names></name>
+               </person-group>
+          <article-title>Population variability and extinction in the avifauna of a tropical land bridge island</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1982">1982</year>
+          <volume>63</volume>
+          <fpage>1975</fpage>
+          <lpage>1978</lpage>
+          <pub-id pub-id-type="doi">10.2307/1940137</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-32">
+        <label>Laurance et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Laurance</surname><given-names>WF</given-names></name>
+                  <name><surname>Camargo</surname><given-names>JLC</given-names></name>
+                  <name><surname>Luizão</surname><given-names>RCC</given-names></name>
+                  <name><surname>Laurance</surname><given-names>SG</given-names></name>
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Bruna</surname><given-names>EM</given-names></name>
+                  <name><surname>Stouffer</surname><given-names>PC</given-names></name>
+                  <name><surname>Williamson</surname><given-names>GB</given-names></name>
+                  <name><surname>Benítez-Malvido</surname><given-names>J</given-names></name>
+                  <name><surname>Vasconcelos</surname><given-names>HL</given-names></name>
+                  <name><surname>Van Houtan</surname><given-names>KS</given-names></name>
+                  <name><surname>Zartman</surname><given-names>CE</given-names></name>
+                  <name><surname>Boyle</surname><given-names>SA</given-names></name>
+                  <name><surname>Didham</surname><given-names>RK</given-names></name>
+                  <name><surname>Andrade</surname><given-names>A</given-names></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+               </person-group>
+          <article-title>The fate of Amazonian forest fragments: a 32-year investigation</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>144</volume>
+          <fpage>56</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2010.09.021</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-33">
+        <label>Leck (1979)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Leck</surname><given-names>CF</given-names></name>
+               </person-group>
+          <article-title>Avian extinctions in an isolated tropical wet-forest preserve, Ecuador</article-title>
+          <source>The Auk</source>
+          <year iso-8601-date="1979">1979</year>
+          <volume>96</volume>
+          <fpage>343</fpage>
+          <lpage>352</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-34">
+        <label>Lees &amp; Peres (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Lees</surname><given-names>AC</given-names></name>
+                  <name><surname>Peres</surname><given-names>CA</given-names></name>
+               </person-group>
+          <article-title>Rapid avifaunal collapse along the Amazonian deforestation frontier</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>133</volume>
+          <fpage>198</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2006.06.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-35">
+        <label>Leigh (1975)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Leigh</surname><given-names>EG</given-names><suffix>Jr</suffix></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Cody</surname><given-names>ML</given-names></name>
+                  <name><surname>Diamond</surname><given-names>JM</given-names></name>
+               </person-group>
+          <article-title>Population fluctuations, community stability, and environmental variability</article-title>
+          <source>Ecology and evolution of communities</source>
+          <year iso-8601-date="1975">1975</year>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Belknap Press</publisher-name>
+          <fpage>52</fpage>
+          <lpage>73</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-36">
+        <label>Leigh (1981)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Leigh</surname><given-names>EG</given-names><suffix>Jr</suffix></name>
+               </person-group>
+          <article-title>The average lifetime of a population in a varying environment</article-title>
+          <source>Journal of Theoretical Biology</source>
+          <year iso-8601-date="1981">1981</year>
+          <volume>90</volume>
+          <fpage>213</fpage>
+          <lpage>239</lpage>
+          <pub-id pub-id-type="doi">10.1016/0022-5193(81)90044-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-37">
+        <label>Lovejoy et al. (1984)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+                  <name><surname>Rankin</surname><given-names>JM</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names></name>
+                  <name><surname>Brown</surname><given-names>KS</given-names><suffix>Jr</suffix></name>
+                  <name><surname>Emmons</surname><given-names>LH</given-names></name>
+                  <name><surname>Van Der Voort</surname><given-names>ME</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Nitecki</surname><given-names>MH</given-names></name>
+               </person-group>
+          <article-title>Ecosystem decay of Amazon forest remnants</article-title>
+          <source>Extinctions</source>
+          <year iso-8601-date="1984">1984</year>
+          <publisher-loc>Chicago</publisher-loc>
+          <publisher-name>University of Chicago Press</publisher-name>
+          <fpage>295</fpage>
+          <lpage>325</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-38">
+        <label>Lovejoy et al. (1986)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names></name>
+                  <name><surname>Rylands</surname><given-names>AB</given-names></name>
+                  <name><surname>Malcolm</surname><given-names>JR</given-names></name>
+                  <name><surname>Quintela</surname><given-names>CE</given-names></name>
+                  <name><surname>Harper</surname><given-names>LH</given-names></name>
+                  <name><surname>Brown</surname><given-names>KS</given-names></name>
+                  <name><surname>Powell</surname><given-names>AH</given-names></name>
+                  <name><surname>Powell</surname><given-names>GVN</given-names></name>
+                  <name><surname>Schubart</surname><given-names>HOR</given-names></name>
+                  <name><surname>Hays</surname><given-names>MB</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Soule</surname><given-names>ME</given-names></name>
+               </person-group>
+          <article-title>Edge and other effects of isolation on Amazon forest fragments</article-title>
+          <source>Conservation biology: the science of scarcity of diversity</source>
+          <year iso-8601-date="1986">1986</year>
+          <publisher-loc>Sunderland</publisher-loc>
+          <publisher-name>Sinauer Associates</publisher-name>
+          <fpage>257</fpage>
+          <lpage>285</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-39">
+        <label>Malcolm (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Malcolm</surname><given-names>JR</given-names></name>
+               </person-group>
+          <article-title>Small mammal abundances in isolated and non-isolated primary forest reserves near Manaus, Brazil</article-title>
+          <source>Acta Amazonica</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>18</volume>
+          <fpage>67</fpage>
+          <lpage>83</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-40">
+        <label>Mendoza, Fay &amp; Dirzo (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Mendoza</surname><given-names>E</given-names></name>
+                  <name><surname>Fay</surname><given-names>J</given-names></name>
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>A quantitative analysis of forest fragmentation in Los Tuxtlas, southeast Mexico: patterns and implications for conservation</article-title>
+          <source>Revista Chilena de Historia Natural</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>78</volume>
+          <fpage>451</fpage>
+          <lpage>467</lpage>
+          <pub-id pub-id-type="doi">10.4067/S0716-078X2005000300008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-41">
+        <label>Moore et al. (2008)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Moore</surname><given-names>RP</given-names></name>
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+                  <name><surname>Lovette</surname><given-names>IJ</given-names></name>
+                  <name><surname>Robinson</surname><given-names>TR</given-names></name>
+               </person-group>
+          <article-title>Experimental evidence for extreme dispersal limitation in tropical forest birds</article-title>
+          <source>Ecology Letters</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>11</volume>
+          <fpage>960</fpage>
+          <lpage>968</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1461-0248.2008.01196.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-42">
+        <label>Morton (1973)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Morton</surname><given-names>ES</given-names></name>
+               </person-group>
+          <article-title>On the evolutionary advantages and disadvantages of fruit eating in tropical birds</article-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="1973">1973</year>
+          <volume>107</volume>
+          <fpage>8</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1086/282813</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-43">
+        <label>Nemark (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Nemark</surname><given-names>WD</given-names></name>
+               </person-group>
+          <article-title>Tropical forest fragmentation and the local extinction of understory birds in the eastern Usambara Mountains, Tanzania</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>5</volume>
+          <fpage>67</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-1739.1991.tb00389.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-44">
+        <label>O’Grady et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>O’Grady</surname><given-names>JJ</given-names></name>
+                  <name><surname>Reed</surname><given-names>DH</given-names></name>
+                  <name><surname>Brook</surname><given-names>BW</given-names></name>
+                  <name><surname>Frankham</surname><given-names>R</given-names></name>
+               </person-group>
+          <article-title>What are the best correlates of predicted extinction risk?</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>118</volume>
+          <fpage>513</fpage>
+          <lpage>520</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2003.10.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-45">
+        <label>Pahl, Winter &amp; Heinsohn (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Pahl</surname><given-names>LI</given-names></name>
+                  <name><surname>Winter</surname><given-names>JW</given-names></name>
+                  <name><surname>Heinsohn</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Variation in responses of arboreal marsupials to fragmentation of tropical rainforest in north eastern Australia</article-title>
+          <source>Biological Conservation</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>46</volume>
+          <fpage>71</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-3207(88)90109-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-46">
+        <label>Patten, Gómez de Silva &amp; Smith-Patten (2010)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Patten</surname><given-names>MA</given-names></name>
+                  <name><surname>Gómez de Silva</surname><given-names>H</given-names></name>
+                  <name><surname>Smith-Patten</surname><given-names>BD</given-names></name>
+               </person-group>
+          <article-title>Long-term changes in the bird community of Palenque, Chiapas, in response to rainforest loss</article-title>
+          <source>Biodiversity and Conservation</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>19</volume>
+          <fpage>21</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10531-009-9698-z</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-47">
+        <label>Patten &amp; Smith-Patten (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Patten</surname><given-names>MA</given-names></name>
+                  <name><surname>Smith-Patten</surname><given-names>BD</given-names></name>
+               </person-group>
+          <article-title>Predictors of occupancy trend across spatial scale</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>6</volume>
+          <fpage>1203</fpage>
+          <lpage>1211</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-1739.2011.01726.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-48">
+        <label>Pennington &amp; Sarukhan (1968)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Pennington</surname><given-names>TD</given-names></name>
+                  <name><surname>Sarukhan</surname><given-names>J</given-names></name>
+               </person-group>
+          <source>Arboles tropicales de Mexico</source>
+          <year iso-8601-date="1968">1968</year>
+          <publisher-loc>DF, Mexico</publisher-loc>
+          <publisher-name>Instituto Nacional de Investigaciones Forestales</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-49">
+        <label>Pimm, Jones &amp; Diamond (1988)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Jones</surname><given-names>HL</given-names></name>
+                  <name><surname>Diamond</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>On the risk of extinction</article-title>
+          <source>The American Naturalist</source>
+          <year iso-8601-date="1988">1988</year>
+          <volume>132</volume>
+          <fpage>757</fpage>
+          <lpage>785</lpage>
+          <pub-id pub-id-type="doi">10.1086/284889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-50">
+        <label>Pimm et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Raven</surname><given-names>P</given-names></name>
+                  <name><surname>Peterson</surname><given-names>A</given-names></name>
+                  <name><surname>Şekercioğlu</surname><given-names>Ç</given-names></name>
+                  <name><surname>Ehrlich</surname><given-names>PR</given-names></name>
+               </person-group>
+          <article-title>Human impacts on the rates of recent, present, and future bird extinctions</article-title>
+          <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>103</volume>
+          <fpage>10941</fpage>
+          <lpage>10946</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0604181103</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-51">
+        <label>Powell &amp; Powell (1987)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Powell</surname><given-names>AH</given-names></name>
+                  <name><surname>Powell</surname><given-names>GVN</given-names></name>
+               </person-group>
+          <article-title>Population dynamics of male euglossine bees in Amazonian forest fragments</article-title>
+          <source>Biotropica</source>
+          <year iso-8601-date="1987">1987</year>
+          <volume>19</volume>
+          <fpage>176</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="doi">10.2307/2388742</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-52">
+        <label>Puebla &amp; Winker (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Puebla</surname><given-names>F</given-names></name>
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+               </person-group>
+          <article-title>Dieta y dispersión de semillas de dos especies de tangara (<italic>Habia</italic>) en dos tipos de vegetación en Los Tuxtlas, Veracruz, México</article-title>
+          <source>Ornitología Neotropical</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>15</volume>
+          <fpage>53</fpage>
+          <lpage>64</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-53">
+        <label>Ramos (1983)</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+                  <name><surname>Ramos</surname><given-names>MA</given-names></name>
+               </person-group>
+          <article-title>Seasonal movements of bird populations at a Neotropical study site in southern Veracruz, Mexico</article-title>
+          <source>Ph.D. dissertation</source>
+          <year iso-8601-date="1983">1983</year>
+          <institution>University of Minnesota, Minneapolis</institution>
+        </element-citation>
+      </ref>
+      <ref id="ref-54">
+        <label>Ramos (1988)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Ramos</surname><given-names>MA</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Ouellet</surname><given-names>H</given-names></name>
+               </person-group>
+          <article-title>Eco-evolutionary aspects of bird movements in the northern Neotropical region</article-title>
+          <source>Acta XIX congressus internationalis ornithologici, Vol. I</source>
+          <year iso-8601-date="1988">1988</year>
+          <publisher-loc>Ottawa</publisher-loc>
+          <publisher-name>University of Ottawa Press</publisher-name>
+          <fpage>251</fpage>
+          <lpage>293</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-55">
+        <label>Rappole &amp; Morton (1985)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Morton</surname><given-names>ES</given-names></name>
+               </person-group>
+          <article-title>Effects of habitat alteration on a tropical forest avian community</article-title>
+          <source>Ornithological Monographs</source>
+          <year iso-8601-date="1985">1985</year>
+          <volume>36</volume>
+          <fpage>1013</fpage>
+          <lpage>1021</lpage>
+          <pub-id pub-id-type="doi">10.2307/40168333</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-56">
+        <label>Rappole &amp; Warner (1980)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Warner</surname><given-names>DW</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Keast</surname><given-names>A</given-names></name>
+                  <name><surname>Morton</surname><given-names>ES</given-names></name>
+               </person-group>
+          <article-title>Ecological aspects of migrant bird behavior in Veracruz, Mexcio</article-title>
+          <source>Migrant birds in the neotropics: ecology, behavior, distribution, and conservation</source>
+          <year iso-8601-date="1980">1980</year>
+          <publisher-loc>Washington</publisher-loc>
+          <publisher-name>Smithsonian Institution Press</publisher-name>
+          <fpage>353</fpage>
+          <lpage>393</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-57">
+        <label>Rappole et al. (1983)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Morton</surname><given-names>ES</given-names></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names><suffix>III</suffix></name>
+                  <name><surname>Ruos</surname><given-names>JL</given-names></name>
+               </person-group>
+          <source>Nearctic avian migrants in the Neotropics</source>
+          <year iso-8601-date="1983">1983</year>
+          <publisher-loc>Washington</publisher-loc>
+          <publisher-name>United States Fish and Wildlife Service</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-58">
+        <label>Rappole, Powell &amp; Sader (1994)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Powell</surname><given-names>GVN</given-names></name>
+                  <name><surname>Sader</surname><given-names>SA</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Miller</surname><given-names>RI</given-names></name>
+               </person-group>
+          <article-title>Remote-sensing assessment of tropical habitat availability for a Nearctic migrant: the Wood Thrush</article-title>
+          <source>Mapping the diversity of nature</source>
+          <year iso-8601-date="1994">1994</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Chapman and Hall</publisher-name>
+          <fpage>91</fpage>
+          <lpage>103</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-59">
+        <label>Rappole, Winker &amp; Powell (1998)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+                  <name><surname>Powell</surname><given-names>GVN</given-names></name>
+               </person-group>
+          <article-title>Migratory bird habitat use in southern Mexico: mist nets versus point counts</article-title>
+          <source>Journal of Field Ornithology</source>
+          <year iso-8601-date="1998">1998</year>
+          <volume>69</volume>
+          <fpage>635</fpage>
+          <lpage>643</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-60">
+        <label>Remsen &amp; Good (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Remsen</surname><given-names>JV</given-names><suffix>Jr</suffix></name>
+                  <name><surname>Good</surname><given-names>DA</given-names></name>
+               </person-group>
+          <article-title>Misuse of data from mist-net captures to assess relative abundance in bird populations</article-title>
+          <source>The Auk</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>113</volume>
+          <fpage>381</fpage>
+          <lpage>398</lpage>
+          <pub-id pub-id-type="doi">10.2307/4088905</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-61">
+        <label>Robbins (1980)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Robbins</surname><given-names>CS</given-names></name>
+               </person-group>
+          <article-title>Effect of forest fragmentation on breeding bird populations in the piedmont of the mid-Atlantic region</article-title>
+          <source>Atlantic Naturalist</source>
+          <year iso-8601-date="1980">1980</year>
+          <volume>33</volume>
+          <fpage>31</fpage>
+          <lpage>36</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-62">
+        <label>Robinson (1999)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+               </person-group>
+          <article-title>Long-term changes in the avifauna of Barro Colorado Island, Panama, a tropical forest isolate</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1999">1999</year>
+          <volume>13</volume>
+          <fpage>85</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.1999.97492.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-63">
+        <label>Robinson &amp; Sherry (2012)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+                  <name><surname>Sherry</surname><given-names>TW</given-names></name>
+               </person-group>
+          <article-title>Mechanisms of avian population decline and species loss in tropical forest fragments</article-title>
+          <source>Journal of Ornithology</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>153</volume>
+          <fpage>S141</fpage>
+          <lpage>S152</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10336-011-0806-y</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-64">
+        <label>Robinson et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+                  <name><surname>Angehr</surname><given-names>GR</given-names></name>
+                  <name><surname>Robinson</surname><given-names>TR</given-names></name>
+                  <name><surname>Petit</surname><given-names>LJ</given-names></name>
+                  <name><surname>Petit</surname><given-names>DR</given-names></name>
+                  <name><surname>Brawn</surname><given-names>JD</given-names></name>
+               </person-group>
+          <article-title>Distribution of bird diversity in a vulnerable Neotropical landscape</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>18</volume>
+          <fpage>510</fpage>
+          <lpage>518</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-1739.2004.00355.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-65">
+        <label>Rolstad (1991)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rolstad</surname><given-names>J</given-names></name>
+               </person-group>
+          <article-title>Consequences of forest fragmentation for the dynamics of bird populations: conceptual issues and the evidence</article-title>
+          <source>Biological Journal of the Linnean Society</source>
+          <year iso-8601-date="1991">1991</year>
+          <volume>42</volume>
+          <fpage>149</fpage>
+          <lpage>163</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1095-8312.1991.tb00557.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-66">
+        <label>Rompré et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Rompré</surname><given-names>G</given-names></name>
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+                  <name><surname>Desrochers</surname><given-names>A</given-names></name>
+                  <name><surname>Angehr</surname><given-names>G</given-names></name>
+               </person-group>
+          <article-title>Environmental correlates of avian diversity in lowland Panama rainforests</article-title>
+          <source>Journal of Biogeography</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>34</volume>
+          <fpage>802</fpage>
+          <lpage>815</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2699.2006.01657.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-67">
+        <label>Schaldach &amp; Escalante (1997)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Schaldach</surname><given-names>W</given-names></name>
+                  <name><surname>Escalante</surname><given-names>P</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>González-Soriano</surname><given-names>E</given-names></name>
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Vogt</surname><given-names>RC</given-names></name>
+               </person-group>
+          <article-title>Lista de Aves</article-title>
+          <source>Historia natural de Los Tuxtlas</source>
+          <year iso-8601-date="1997">1997</year>
+          <publisher-loc>DF, Mexico</publisher-loc>
+          <publisher-name>Universidad Nacional Autónoma de Mexico</publisher-name>
+          <fpage>571</fpage>
+          <lpage>573</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-68">
+        <label>Sodhi, Liow &amp; Bazzaz (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Sodhi</surname><given-names>NS</given-names></name>
+                  <name><surname>Liow</surname><given-names>LH</given-names></name>
+                  <name><surname>Bazzaz</surname><given-names>FA</given-names></name>
+               </person-group>
+          <article-title>Avian extinctions from tropical and subtropical forests</article-title>
+          <source>Annual Review of Ecology, Evolution, and Systematics</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>35</volume>
+          <fpage>323</fpage>
+          <lpage>345</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.35.112202.130209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-69">
+        <label>Soto &amp; Gama (1997)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Soto</surname><given-names>M</given-names></name>
+                  <name><surname>Gama</surname><given-names>L</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>González-Soriano</surname><given-names>E</given-names></name>
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Vogt</surname><given-names>RC</given-names></name>
+               </person-group>
+          <article-title>Climas</article-title>
+          <source>Historia natural de Los Tuxtlas</source>
+          <year iso-8601-date="1997">1997</year>
+          <publisher-loc>DF, Mexico</publisher-loc>
+          <publisher-name>Universidad Nacional Autónoma de Mexico</publisher-name>
+          <fpage>7</fpage>
+          <lpage>23</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-70">
+        <label>Stotz et al. (1996)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Stotz</surname><given-names>DF</given-names></name>
+                  <name><surname>Fitzpatrick</surname><given-names>JW</given-names></name>
+                  <name><surname>Parker</surname><given-names>TA</given-names></name>
+                  <name><surname>Moskovits</surname><given-names>DK</given-names></name>
+               </person-group>
+          <source>Neotropical birds: ecology and conservation</source>
+          <year iso-8601-date="1996">1996</year>
+          <publisher-loc>Chicago</publisher-loc>
+          <publisher-name>University of Chicago Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref-71">
+        <label>Stouffer &amp; Bierregaard (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Stouffer</surname><given-names>PC</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names><suffix>Jr</suffix></name>
+               </person-group>
+          <article-title>Use of Amazonian forest fragments by understory insectivorous birds</article-title>
+          <source>Ecology</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>76</volume>
+          <fpage>2429</fpage>
+          <lpage>2445</lpage>
+          <pub-id pub-id-type="doi">10.2307/2265818</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-72">
+        <label>Stratford &amp; Robinson (2005)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Stratford</surname><given-names>JA</given-names></name>
+                  <name><surname>Robinson</surname><given-names>WD</given-names></name>
+               </person-group>
+          <article-title>Gulliver travels to the fragmented tropics: geographic variation in mechanisms of avian extinction</article-title>
+          <source>Frontiers in Ecology and the Environment</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>3</volume>
+          <fpage>85</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.1890/1540-9295(2005)003[0085:GTTTFT]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-73">
+        <label>Stuart et al. (2004)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Stuart</surname><given-names>SN</given-names></name>
+                  <name><surname>Chanson</surname><given-names>JS</given-names></name>
+                  <name><surname>Cox</surname><given-names>NA</given-names></name>
+                  <name><surname>Young</surname><given-names>BE</given-names></name>
+                  <name><surname>Rodrigues</surname><given-names>ASL</given-names></name>
+                  <name><surname>Fischman</surname><given-names>DL</given-names></name>
+                  <name><surname>Waller</surname><given-names>RW</given-names></name>
+               </person-group>
+          <article-title>Status and trends of amphibian declines and extinctions worldwide</article-title>
+          <source>Science</source>
+          <year iso-8601-date="2004">2004</year>
+          <volume>306</volume>
+          <fpage>1783</fpage>
+          <lpage>1786</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1103538</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-74">
+        <label>Terborgh &amp; Winter (1980)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Terborgh</surname><given-names>J</given-names></name>
+                  <name><surname>Winter</surname><given-names>B</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>Soule</surname><given-names>ME</given-names></name>
+                  <name><surname>Wilcox</surname><given-names>BA</given-names></name>
+               </person-group>
+          <article-title>Some causes of extinction</article-title>
+          <source>Conservation biology: an evolutionary-ecological perspective</source>
+          <year iso-8601-date="1980">1980</year>
+          <publisher-loc>Sunderland</publisher-loc>
+          <publisher-name>Sinauer Associates</publisher-name>
+          <fpage>119</fpage>
+          <lpage>133</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-75">
+        <label>Tilman et al. (1994)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Tilman</surname><given-names>D</given-names></name>
+                  <name><surname>May</surname><given-names>RM</given-names></name>
+                  <name><surname>Lehman</surname><given-names>CL</given-names></name>
+                  <name><surname>Nowak</surname><given-names>MA</given-names></name>
+               </person-group>
+          <article-title>Habitat destruction and the extinction debt</article-title>
+          <source>Nature</source>
+          <year iso-8601-date="1994">1994</year>
+          <volume>371</volume>
+          <fpage>65</fpage>
+          <lpage>66</lpage>
+          <pub-id pub-id-type="doi">10.1038/371065a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-76">
+        <label>Turner (1996)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Turner</surname><given-names>IM</given-names></name>
+               </person-group>
+          <article-title>Species loss in fragments of tropical rain forest: a review of the evidence</article-title>
+          <source>Journal of Applied Ecology</source>
+          <year iso-8601-date="1996">1996</year>
+          <volume>33</volume>
+          <fpage>200</fpage>
+          <lpage>209</lpage>
+          <pub-id pub-id-type="doi">10.2307/2404743</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-77">
+        <label>Van Houtan et al. (2006)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Van Houtan</surname><given-names>KS</given-names></name>
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names><suffix>Jr</suffix></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+                  <name><surname>Stouffer</surname><given-names>PC</given-names></name>
+               </person-group>
+          <article-title>Local extinctions in flocking birds in Amazonian forest fragments</article-title>
+          <source>Evolutionary Ecology Research</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>8</volume>
+          <fpage>129</fpage>
+          <lpage>148</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-78">
+        <label>Van Houtan et al. (2007)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Van Houtan</surname><given-names>KS</given-names></name>
+                  <name><surname>Pimm</surname><given-names>SL</given-names></name>
+                  <name><surname>Halley</surname><given-names>JM</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names><suffix>Jr</suffix></name>
+                  <name><surname>Lovejoy</surname><given-names>TE</given-names></name>
+               </person-group>
+          <article-title>Dispersal of Amazonian birds in continuous and fragmented forest</article-title>
+          <source>Ecology Letters</source>
+          <year iso-8601-date="2007">2007</year>
+          <volume>10</volume>
+          <fpage>219</fpage>
+          <lpage>229</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1461-0248.2007.01004.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-79">
+        <label>Vega Rivera (1982)</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+                  <name><surname>Vega Rivera</surname><given-names>JH</given-names></name>
+               </person-group>
+          <article-title>Aspectos biologicos de <italic>Myiobius sulphureipygius</italic> (Aves: Tyrannidae) en el area de Santa Marta region de “Los Tuxtlas”, Veracruz, Mexico</article-title>
+          <source>Professional thesis</source>
+          <year iso-8601-date="1982">1982</year>
+          <institution>Universidad Nacional Autónoma de Mexico</institution>
+        </element-citation>
+      </ref>
+      <ref id="ref-80">
+        <label>Vetter et al. (2011)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Vetter</surname><given-names>D</given-names></name>
+                  <name><surname>Hansbauer</surname><given-names>MM</given-names></name>
+                  <name><surname>Végvári</surname><given-names>Z</given-names></name>
+                  <name><surname>Storch</surname><given-names>I</given-names></name>
+               </person-group>
+          <article-title>Predictors of forest fragmentation sensitivity in Neotropical vertebrates: a quantitative review</article-title>
+          <source>Ecography</source>
+          <year iso-8601-date="2011">2011</year>
+          <volume>34</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-0587.2010.06453.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-81">
+        <label>Whitman, Hagan &amp; Brokaw (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Whitman</surname><given-names>AA</given-names></name>
+                  <name><surname>Hagan</surname><given-names>JM</given-names><suffix>III</suffix></name>
+                  <name><surname>Brokaw</surname><given-names>NVL</given-names></name>
+               </person-group>
+          <article-title>A comparison of two survey techniques used in a subtropical forest</article-title>
+          <source>The Condor</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>99</volume>
+          <fpage>955</fpage>
+          <lpage>965</lpage>
+          <pub-id pub-id-type="doi">10.2307/1370146</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-82">
+        <label>Willis (1966)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Willis</surname><given-names>EO</given-names></name>
+               </person-group>
+          <article-title>The role of migrant birds at swarms of army ants</article-title>
+          <source>Living Bird</source>
+          <year iso-8601-date="1966">1966</year>
+          <volume>5</volume>
+          <fpage>187</fpage>
+          <lpage>231</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-83">
+        <label>Willis (1974)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Willis</surname><given-names>EO</given-names></name>
+               </person-group>
+          <article-title>Populations and local extinctions of birds on Barro Colorado Island, Panama</article-title>
+          <source>Ecological Monographs</source>
+          <year iso-8601-date="1974">1974</year>
+          <volume>44</volume>
+          <fpage>153</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="doi">10.2307/1942309</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-84">
+        <label>Willis (1979)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Willis</surname><given-names>EO</given-names></name>
+               </person-group>
+          <article-title>The composition of avian communities in remanescent woodlots in southern Brazil</article-title>
+          <source>Papéis Avulsos de Zoologia</source>
+          <year iso-8601-date="1979">1979</year>
+          <volume>33</volume>
+          <fpage>1</fpage>
+          <lpage>25</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-85">
+        <label>Winker (1995)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+               </person-group>
+          <article-title>Habitat selection in woodland Nearctic-Neotropic migrants on the Isthmus of Tehuantepec. I. Autumn migration</article-title>
+          <source>Wilson Bulletin</source>
+          <year iso-8601-date="1995">1995</year>
+          <volume>107</volume>
+          <fpage>26</fpage>
+          <lpage>39</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-86">
+        <label>Winker (1997)</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+               </person-group>
+          <person-group person-group-type="editor">
+                  <name><surname>González-Soriano</surname><given-names>E</given-names></name>
+                  <name><surname>Dirzo</surname><given-names>R</given-names></name>
+                  <name><surname>Vogt</surname><given-names>RC</given-names></name>
+               </person-group>
+          <article-title>Introduction to the birds of Los Tuxtlas</article-title>
+          <source>Historia natural de Los Tuxtlas</source>
+          <year iso-8601-date="1997">1997</year>
+          <publisher-loc>DF, Mexico</publisher-loc>
+          <publisher-name>Universidad Nacional Autonoma de Mexico</publisher-name>
+          <fpage>535</fpage>
+          <lpage>541</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-87">
+        <label>Winker, Rappole &amp; Ramos (1990)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Ramos</surname><given-names>MA</given-names></name>
+               </person-group>
+          <article-title>Population dynamics of the Wood Thrush (<italic>Hylocichla mustelina</italic>) on its wintering grounds in southern Veracruz, Mexico</article-title>
+          <source>The Condor</source>
+          <year iso-8601-date="1990">1990</year>
+          <volume>92</volume>
+          <fpage>444</fpage>
+          <lpage>460</lpage>
+          <pub-id pub-id-type="doi">10.2307/1368241</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-88">
+        <label>Winker et al. (1992)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+                  <name><surname>Oehlenschlager</surname><given-names>RJ</given-names></name>
+                  <name><surname>Ramos</surname><given-names>MA</given-names></name>
+                  <name><surname>Zink</surname><given-names>RM</given-names></name>
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Warner</surname><given-names>DW</given-names></name>
+               </person-group>
+          <article-title>Avian distribution and abundance records for the Sierra de Los Tuxtlas, Veracruz, Mexico</article-title>
+          <source>Wilson Bulletin</source>
+          <year iso-8601-date="1992">1992</year>
+          <volume>104</volume>
+          <fpage>699</fpage>
+          <lpage>718</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-89">
+        <label>Winker et al. (1997)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Winker</surname><given-names>K</given-names></name>
+                  <name><surname>Escalante</surname><given-names>P</given-names></name>
+                  <name><surname>Rappole</surname><given-names>JH</given-names></name>
+                  <name><surname>Ramos</surname><given-names>MA</given-names></name>
+                  <name><surname>Oehlenschlager</surname><given-names>RJ</given-names></name>
+                  <name><surname>Warner</surname><given-names>DW</given-names></name>
+               </person-group>
+          <article-title>Periodic migration and lowland forest refugia in a ‘sedentary’ Neotropical bird, Wetmore’s bush-tanager</article-title>
+          <source>Conservation Biology</source>
+          <year iso-8601-date="1997">1997</year>
+          <volume>11</volume>
+          <fpage>692</fpage>
+          <lpage>697</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1523-1739.1997.95450.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-90">
+        <label>Zimmerman &amp; Bierregaard (1986)</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+                  <name><surname>Zimmerman</surname><given-names>BL</given-names></name>
+                  <name><surname>Bierregaard</surname><given-names>RO</given-names></name>
+               </person-group>
+          <article-title>Relevance of the equilibrium theory of island biogeography and species–area relations to conservation with a case from Amazonia</article-title>
+          <source>Journal of Biogeography</source>
+          <year iso-8601-date="1986">1986</year>
+          <volume>13</volume>
+          <fpage>133</fpage>
+          <lpage>143</lpage>
+          <pub-id pub-id-type="doi">10.2307/2844988</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

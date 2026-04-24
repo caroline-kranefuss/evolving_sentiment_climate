@@ -1,0 +1,2662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5899</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5899</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Marine Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Trait-based predation suitability offers insight into effects of changing prey communities</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0003-2302-5529</contrib-id>
+<name name-style="western">
+<surname>Weigel</surname>
+<given-names>Benjamin</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>benjamin.weigel@helsinki.fi</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Bonsdorff</surname>
+<given-names>Erik</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>Environmental and Marine Biology, Faculty of Science and Engineering, Åbo Akademi University</institution>, <addr-line>Turku</addr-line>, <country>Finland</country></aff>
+<aff id="aff-2"><label>2</label><institution>Research Centre for Ecological Change, Organismal and Evolutionary Biology Research Programme, University of Helsinki</institution>, <addr-line>Helsinki</addr-line>, <country>Finland</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Taylor</surname>
+<given-names>Richard</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-06">
+<day>6</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5899</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-07-04">
+<day>4</day>
+<month>7</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-07">
+<day>7</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Weigel and Bonsdorff</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Weigel and Bonsdorff</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5899"/>
+<abstract>
+<p>Increasing environmental pressures and human impacts are reshaping community structures and species interactions throughout all trophic levels. The morphological and behavioural characteristics of species communities contain key ecological information on why prey species appear attractive to predators but are rarely applied when exploring predator-prey (PP) relationships. Expanding our knowledge on how changing prey communities can alter the food resource suitability (RS) for predators is vital for understanding PP dynamics in changing ecosystems. Detailed predator diet data are commonly restricted to commercially important species and often not available over long temporal scales. To find out whether structural changes of prey communities impact the food RS for predator communities over space and time, we apply a novel framework to describe and interpret changes in predator diet-suitability based on predation-relevant traits of prey. We use information on described feeding links from the literature to compile the prey spectrum for each predator and subsequently translate the prey-species into a prey-trait spectrum. For each predator, we then calculate a frequency-based prey-trait affinity score and relate it to the available food resource pool, the community weighted means of prey traits, resulting in a prey-suitability measure. We aim to reveal whether a described multi-decadal change in the community structure of zoobenthos had an impact on the food suitability for the benthic-feeding fish in a coastal system of the Baltic Sea. We assess the direction of change in resource quality from the perspective of benthic-feeding fish and describe predator-specific responses to examine which species are likely to profit or be disadvantaged by changes in their prey spectrum. Furthermore, we test the relationship between functional diversity of prey communities and food suitability for predators, and whether predation linkage-structures are affected through prey community-changes. Our results show that changes in zoobenthic communities had a positive effect on the food suitability for most benthic-feeding fish, implying more suitable food resources. Species-specific responses of predators suggest varying plasticity to cope with prey assemblages of different trait compositions. Additionally, the functional diversity of zoobenthos had a positive effect on the food suitability for predator fish. The changing trait compositions of prey influenced the PP linkage-structure, indicating varying specialisation of benthic feeding fish towards available food resources. Our findings suggest that changing morphological characteristics of prey can impact food RS features for its predators. This approach enables long-term evaluation of prey quality characteristics where no detailed diet data is available and allows for cross-system comparison as it is not relying on taxonomic identities <italic>per se</italic>.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Predator-prey interaction</kwd>
+<kwd>Food quality</kwd>
+<kwd>Functional structure</kwd>
+<kwd>Prey characteristic</kwd>
+<kwd>Functional traits</kwd>
+<kwd>Zoobenthos</kwd>
+<kwd>Fish</kwd>
+<kwd>Baltic Sea</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Nordic Centre for Research on Marine Ecosystems and Resources under Climate Change (NorMER)</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Norden Top-level Research Initiative sub-programme ‘Effect Studies and Adaptation to Climate Change’</funding-source>
+</award-group>
+<award-group id="fund-3">
+<funding-source>Doctoral Network Functional Marine Biology (FunMarBio)</funding-source>
+</award-group>
+<award-group id="fund-4">
+<funding-source>Strategic Research Council of the Academy of Finland (grant 312650 to the BlueAdapt consortium)</funding-source>
+</award-group>
+<award-group id="fund-5">
+<funding-source>BONUS-Project BIO-C3 also gave financial support (Erik Bonsdorff)</funding-source>
+</award-group>
+<funding-statement>This paper is a deliverable of the Nordic Centre for Research on Marine Ecosystems and Resources under Climate Change (NorMER), which is funded by the Norden Top-level Research Initiative sub-programme ‘Effect Studies and Adaptation to Climate Change’, the Doctoral Network Functional Marine Biology (FunMarBio) at Åbo Akademi University, and the Strategic Research Council of the Academy of Finland (grant 312650 to the BlueAdapt consortium). The Finnish Cultural Foundation (Benjamin Weigel) and the Åbo Akademi University Foundation SR as well as the BONUS-Project BIO-C3 also gave financial support (Erik Bonsdorff). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Community reorganizations, due to natural and anthropogenic pressures on the environment, not only reshuffle species compositions, but also affect species interactions and trophic dynamics (<xref ref-type="bibr" rid="ref-54">Tylianakis et al., 2008</xref>). What makes prey species suitable and/or favourable for their predators has been a central question in ecology for over half a century (<xref ref-type="bibr" rid="ref-10">Dice, 1949</xref>; <xref ref-type="bibr" rid="ref-42">Pyke, Pulliam &amp; Charnov, 1977</xref>) and with accelerating rates of changing communities and shifting interactions (<xref ref-type="bibr" rid="ref-19">Harley et al., 2006</xref>; <xref ref-type="bibr" rid="ref-4">Both et al., 2009</xref>; <xref ref-type="bibr" rid="ref-48">Schmitz &amp; Barton, 2014</xref>), it is still a relevant one.</p>
+<p>Besides purely size-structured approaches (<xref ref-type="bibr" rid="ref-29">Kerr, 1974</xref>; <xref ref-type="bibr" rid="ref-17">Gravel et al., 2013</xref>), the ‘who eats whom’ is usually described through empirical observations such as gut content analysis (<xref ref-type="bibr" rid="ref-25">Hyslop, 1980</xref>; <xref ref-type="bibr" rid="ref-21">Hinz, Kröncke &amp; Ehrich, 2005</xref>; <xref ref-type="bibr" rid="ref-2">Baker, Buckland &amp; Sheaves, 2014</xref>), stable isotope measurements (<xref ref-type="bibr" rid="ref-15">Fry &amp; Sherr, 1989</xref>; <xref ref-type="bibr" rid="ref-43">Quillien et al., 2016</xref>), or fatty acid measurements (<xref ref-type="bibr" rid="ref-26">Iverson, 2009</xref>; <xref ref-type="bibr" rid="ref-28">Kelly &amp; Scheibling, 2012</xref>), resulting in species-based trophic links. This type of data is usually temporally restricted and often limited to commercially relevant species due to high sampling and analysis efforts as well as costs. Although a pure taxonomy-based approach is the fundament of linking predator and prey, it neglects the key ecological information on why a species appears relevant as prey in the first place. Instead of being determined by taxonomic classifications, predation is more likely to be driven by the morphological and behavioural characteristics of a prey species than by its name (<xref ref-type="bibr" rid="ref-50">Spitz, Ridoux &amp; Brind’Amour, 2014</xref>). Hence, taxonomic affiliations of species offer only restricted information regarding their suitability as prey or their ecological role in general. During the past decades, the perception of taxonomic limitations in answering ecological questions has led to a steep increase in studies applying different measures linked to functional traits of species, rather than taxonomic related indices, when investigating ecosystem processes or species interactions (<xref ref-type="bibr" rid="ref-52">Tilman et al., 1997</xref>; <xref ref-type="bibr" rid="ref-5">Cadotte, Carscadden &amp; Mirotchnick, 2011</xref>; <xref ref-type="bibr" rid="ref-36">Mouillot et al., 2011</xref>; <xref ref-type="bibr" rid="ref-16">Gagic et al., 2015</xref>).</p>
+<p>Although it seems straightforward to include morphological and behavioural attributes describing prey, this approach has so far been applied in relatively few studies. Using trait-based approaches in the framework of feeding ecology has contributed significantly to a more complete understanding of predator-prey (PP) relationships and prey selectivity (<xref ref-type="bibr" rid="ref-9">De Crespin De Billy &amp; Usseglio-Polatera, 2002</xref>; <xref ref-type="bibr" rid="ref-46">Rossberg, Brännström &amp; Dieckmann, 2010</xref>; <xref ref-type="bibr" rid="ref-37">Nagelkerke &amp; Rossberg, 2014</xref>; <xref ref-type="bibr" rid="ref-45">Rodríguez-Lozano et al., 2016</xref>) through prey vulnerability traits, predator foraging traits, and the interaction of both prey and predator traits (<xref ref-type="bibr" rid="ref-30">Klecka &amp; Boukal, 2013</xref>; <xref ref-type="bibr" rid="ref-18">Green &amp; Côté, 2014</xref>; <xref ref-type="bibr" rid="ref-50">Spitz, Ridoux &amp; Brind’Amour, 2014</xref>).</p>
+<p>In dynamically changing ecosystems, strong environmental drivers, human impacts, and invasive species may rapidly alter community characteristics and biotic interactions (<xref ref-type="bibr" rid="ref-7">Collie, Wood &amp; Jeffries, 2008</xref>; <xref ref-type="bibr" rid="ref-56">Walther, 2010</xref>; <xref ref-type="bibr" rid="ref-27">Johnson et al., 2014</xref>; <xref ref-type="bibr" rid="ref-57">Weigel et al., 2015</xref>). Bottom trawl fishing, for example, has been highlighted as one particular human pressure that can impact the composition of benthic prey communities, leading to altered predator conditions by changing the prey availability (<xref ref-type="bibr" rid="ref-20">Hiddink et al., 2016</xref>; <xref ref-type="bibr" rid="ref-22">Hinz et al., 2017</xref>). Trait-based approaches seem to be a promising tool to assess changing food conditions on community levels (<xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>). Yet to our knowledge, there is no available framework to evaluate how changing prey may affect the suitability of food resources of a predator community over time and/or space. Here we suggest a novel concept to assess how changes in prey communities may influence food resource conditions for their predators based on a trait-suitability measure linked to the community weighted mean (CWM) traits of prey. We apply our approach on a marine coastal system in the Baltic Sea, to find out if changes in zoobenthos community structure influenced the food resource suitability (RS) for the benthic feeding fish community. While we focus on the link between zoobenthic prey and benthic-feeding fish in this study, the concept is applicable to all PP systems. The broad spectrum of phenotypic variation in zoobenthos makes it an ideal group to illustrate our approach. For example, many zoobenthos species can be inaccessible for their potential predators as they may be buried too deep in the sediment, have strong physical protection or are not within the right size spectrum to be consumed. In contrast, other zoobenthos may serve as easy prey items for visual hunters when occurring epibenthically, that is, on or just above the sediment surface, and being motile with no physical protection such as hard shells.</p>
+<p>The zoobenthic communities in our study system have undergone significant changes in species composition as well as in their functional structure, that is, CWM, over the past four decades (<xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>). These long-term changes in zoobenthos CWM indicate significant alterations of the morphological and behavioural characteristics of prey communities from a predator perspective, which could result in altered food resource conditions for benthivorous fish. With currently no other available means to evaluate or predict how the observed functional and structural changes of the zoobenthos community may affect the benthic-feeding fish through changed resource availability, particularly over long temporal scales (in our case several decades), we calculate a trait-based predation suitability measure for coastal fish and examine how changes in CWM of the prey community alter the food RS over space (sheltered and exposed coastal zones) and time (40 years). For building the trait-suitability measure, we first compile information on the prey species spectrum for each predator from the literature. In the following step we translate the species into their trait spectrum, reflecting predation-relevant traits. The frequency of specific traits in the diet results in predation affinity scores, which are ultimately related to the available food resource pool (CWM).</p>
+<p>In a system where the link between zoobenthos and fish is strong (<xref ref-type="bibr" rid="ref-34">Mattila &amp; Bonsdorff, 1988</xref>; <xref ref-type="bibr" rid="ref-49">Snickars, Weigel &amp; Bonsdorff, 2015</xref>), we hypothesise that changes in the predation-relevant traits of prey communities result in altered RS for the predators. Our aim is to answer whether structural changes of the zoobenthos community, based on predation-relevant morphological and behavioural characteristics, influence the suitability of the food resource pool for the predator assemblage. We evaluate which benthic-feeding fish species are likely to benefit from the functional changes of the zoobenthos and which are more likely to experience lower matching food availability. We further investigate the relationship between the functional diversity of prey communities and the food RS for predators, and lastly, whether altered functional compositions of prey communities may affect the predation linkage-structure.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Study system and predator-prey communities</title>
+<p>Our study area comprises coastal zones of the Åland archipelago in the northern Baltic Sea (60°15′N; 19°55′E). The complex land- and seascape form a heterogeneous habitat, encompassing thousands of islands with sheltered bays, exposed open coasts, soft as well as hard substratum, and thus create a multitude of general coastal types. The link between zoobenthos and fish is strong in this area (<xref ref-type="bibr" rid="ref-34">Mattila &amp; Bonsdorff, 1988</xref>) as most of the present fish (∼95%) are benthivorous during at least part of their life cycle (<xref ref-type="bibr" rid="ref-49">Snickars, Weigel &amp; Bonsdorff, 2015</xref>), and thus to a significant part rely on the zoobenthic food resource. In our analysis we included 11 benthic-feeding fish species of the Åland coastal zones, which have been continuously recorded during long-term coastal fish surveys in the study area. Details of the survey method and gear are described by <xref ref-type="bibr" rid="ref-49">Snickars, Weigel &amp; Bonsdorff (2015)</xref>. As our study focusses on a qualitative approach to food-resource availability for predators, the continuous presence of included fish species over the past 30 years was set to be a sufficient criterion for their inclusion and relevance in the present study. The fish community includes species of marine as well as freshwater origin, with both classifying either as cold or warm water species (<xref ref-type="table" rid="table-1">Table 1</xref>), which exemplifies our study system as a model area that can be related to marine, brackish-estuarine, and freshwater systems in environmental settings ranging from sub-arctic (cold water) to boreal (warm) areas.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5899/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Benthic-feeding fish predator assemblage (<xref ref-type="bibr" rid="ref-63">HELCOM, 2012</xref>; <xref ref-type="bibr" rid="ref-49">Snickars, Weigel &amp; Bonsdorff, 2015</xref>).</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Family</th>
+<th>Species</th>
+<th>Common name</th>
+<th>Origin</th>
+<th>Warm/cold-water</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Clupeidea</td>
+<td><italic>Clupea harengus</italic></td>
+<td>Herring</td>
+<td>Marine</td>
+<td>Cold</td>
+</tr>
+<tr>
+<td>Cottidae</td>
+<td><italic>Triglopsis quadricornis</italic></td>
+<td>Fourhorn sculpin</td>
+<td>Freshwater</td>
+<td>Cold</td>
+</tr>
+<tr>
+<td>Cyprinidae</td>
+<td><italic>Abramis bjoerkna</italic></td>
+<td>Silver bream</td>
+<td>Freshwater</td>
+<td>Warm</td>
+</tr>
+<tr>
+<td>Cyprinidae</td>
+<td><italic>Abramis brama</italic></td>
+<td>Bream</td>
+<td>Freshwater</td>
+<td>Warm</td>
+</tr>
+<tr>
+<td>Cyprinidae</td>
+<td><italic>Leuciscus idus</italic></td>
+<td>Ide</td>
+<td>Freshwater</td>
+<td>Warm</td>
+</tr>
+<tr>
+<td>Cyprinidae</td>
+<td><italic>Rutilus rutilus</italic></td>
+<td>Roach</td>
+<td>Freshwater</td>
+<td>Warm</td>
+</tr>
+<tr>
+<td>Osmeridae</td>
+<td><italic>Osmerus eperlanus</italic></td>
+<td>Smelt</td>
+<td>Freshwater</td>
+<td>Cold</td>
+</tr>
+<tr>
+<td>Percidae</td>
+<td><italic>Gymnocephalus cernuus</italic></td>
+<td>Ruffe</td>
+<td>Freshwater</td>
+<td>Warm</td>
+</tr>
+<tr>
+<td>Percidae</td>
+<td><italic>Perca fluviatilis</italic></td>
+<td>Perch</td>
+<td>Freshwater</td>
+<td>Warm</td>
+</tr>
+<tr>
+<td>Pleuronectidae</td>
+<td><italic>Platichthys flesus</italic></td>
+<td>Flounder</td>
+<td>Marine</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Salmonidae</td>
+<td><italic>Coregonus lavaretus</italic></td>
+<td>Whitfish</td>
+<td>Freshwater</td>
+<td>Cold</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Zoobenthos communities (prey) included in this work have been monitored over a 40-year time frame from 1973 to 2013 in the same area as the benthic-feeding fish to assure the direct linkage between predator and prey. We included community data from 16 sites comprising two different coastal exposure-zones, sheltered and exposed areas, both representing eight sites. (<xref ref-type="bibr" rid="ref-58">Weigel, Blenckner &amp; Bonsdorff, 2015</xref>, <xref ref-type="bibr" rid="ref-59">2016</xref>). The exposure-zones provide a proxy for habitat characteristics that have shown to structure the composition and diversity of zoobenthic communities around the Åland Islands, reflecting the exposure to wind and waves, the proximity to land as well as depth (<xref ref-type="bibr" rid="ref-57">Weigel et al., 2015</xref>). We included sites that were sampled in 1973, 1989, 2000, and 2013. Each sampling occasion comprised five replicate Ekman-grab samples (289 cm<sup>2</sup> per sample) at each site, which were directly fixed in a 4% buffered formaldehyde solution and later identified in the lab to their lowest practical taxonomic unit under a stereo microscope. For further detailed information on the sampling protocol refer to <xref ref-type="bibr" rid="ref-57">Weigel et al. (2015)</xref>.</p>
+</sec>
+<sec>
+<title>Trait-based diet spectrum</title>
+<p>We selected seven predation-relevant traits for benthivorous fish that reflect quality aspects of zoobenthos as a food resource, covering morphological and behavioural characteristics related to the availability, susceptibility, and palatability of the prey. All seven traits are categorical and contain a total of 24 categories (<xref ref-type="table" rid="table-2">Table 2</xref>). Applied traits were collected from <xref ref-type="bibr" rid="ref-53">Törnroos &amp; Bonsdorff (2012)</xref> and <xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff (2016)</xref>. As many fish species are visual hunters, we included one new trait, further characterising zoobenthic prey, indicating if a species is protruding the sediment (‘sediment protruding’) based on expert judgement.</p>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.5899/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title>List of included functional traits (seven) and trait categories (24).</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/table-2.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Trait</th>
+<th>Category</th>
+<th/>
+<th>Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Maximum size</td>
+<td>Small</td>
+<td>1–5 mm</td>
+<td><xref ref-type="fn" rid="table-2fn1"><sup>1</sup></xref><sup>,</sup><xref ref-type="fn" rid="table-2fn2"><sup>2</sup></xref></td>
+</tr>
+<tr>
+<td>Medium</td>
+<td>6–30 mm</td>
+<td/>
+</tr>
+<tr>
+<td>Large</td>
+<td>&gt;30 mm</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="6">Protection</td>
+<td>No protection</td>
+<td/>
+<td><xref ref-type="fn" rid="table-2fn1"><sup>1</sup></xref></td>
+</tr>
+<tr>
+<td>Tube</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Burrow</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Case</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Soft shell</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Hard shell</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td rowspan="3">Fragility</td>
+<td>Fragile</td>
+<td/>
+<td><xref ref-type="fn" rid="table-2fn1"><sup>1</sup></xref></td>
+</tr>
+<tr>
+<td>Intermediate</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Robust</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td rowspan="5">Environmental position</td>
+<td>Infauna deep</td>
+<td>&gt;5 cm</td>
+<td><xref ref-type="fn" rid="table-2fn1"><sup>1</sup></xref></td>
+</tr>
+<tr>
+<td>Infauna middle</td>
+<td>within 2–5 cm</td>
+<td/>
+</tr>
+<tr>
+<td>Infauna top</td>
+<td>top 2 cm</td>
+<td/>
+</tr>
+<tr>
+<td>Epibenthic</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Benthic pelagic</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td rowspan="3">Energy content</td>
+<td>Low</td>
+<td>&lt;1.7 kJ/g wwt</td>
+<td><xref ref-type="fn" rid="table-2fn2"><sup>2</sup></xref></td>
+</tr>
+<tr>
+<td>Medium</td>
+<td>1.7–3.4 kJ/g wwt</td>
+<td/>
+</tr>
+<tr>
+<td>High</td>
+<td>3.4–5.1 kJ/g wwt</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="3">Movement</td>
+<td>Swimming</td>
+<td/>
+<td><xref ref-type="fn" rid="table-2fn1"><sup>1</sup></xref></td>
+</tr>
+<tr>
+<td>Surface crawling</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Burrowing</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Protruding</td>
+<td>Sediment protruding</td>
+<td/>
+<td><xref ref-type="fn" rid="table-2fn3"><sup>3</sup></xref></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-2fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-2fn1" fn-type="other">
+<label>1</label>
+<p><xref ref-type="bibr" rid="ref-53">Törnroos &amp; Bonsdorff (2012)</xref>.</p>
+</fn>
+<fn id="table-2fn2" fn-type="other">
+<label>2</label>
+<p><xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff (2016)</xref>.</p>
+</fn>
+<fn id="table-2fn3" fn-type="other">
+<label>3</label>
+<p>Expert judgment.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>For the included fish species, we calculated a species-specific trait-based diet spectrum (DS) reflecting the affinity of a predator to specific prey traits and built on the following steps: First, we collected information from studies and open data sources reporting on the prey spectrum for each predator fish species, resulting in data that include the zoobenthos taxa that the predator utilises as prey (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>). Based on the presence/absence data of prey species in the predator DS, we built a PP matrix of every predator <italic>i</italic> and prey <italic>j</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1A</xref>), where 1 indicates that predator <italic>i</italic> is feeding on prey <italic>j</italic> and 0 indicates that <italic>i</italic> is not feeding on <italic>j</italic> (<xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>). Second, we built a prey trait matrix (T), including the selected traits described above (<xref ref-type="table" rid="table-2">Table 2</xref>), for all prey species <italic>j</italic> and all traits <italic>k</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1B</xref>), where 1 indicates that prey species <italic>j</italic> expresses trait <italic>k</italic> and 0 indicates that prey species <italic>j</italic> is not showing trait <italic>k</italic> (<xref ref-type="supplementary-material" rid="supp-3">Table S3</xref>). The prey trait matrix is built for every predator <italic>i</italic> and its specific DS. Third, we calculate the predator specific trait DS (<xref ref-type="fig" rid="fig-1">Fig. 1C</xref>) as the sum of each prey trait category over all prey species in relation to the total number of species in each predator’s diet (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) with:
+<disp-formula id="eqn-1">
+<label>(1)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/eqn-1.png"/><tex-math id="tex-eqn-1"><![CDATA[$${\rm{D}}{{\rm{S}}_{i,\,k}} = {{\sum\nolimits_{i = 1}^n {{\rm{P}}{{\rm{P}}_{i,\,j}} \times {{\rm{T}}_{j,\,k}}} } \over {\sum\nolimits_{i = 1}^n {{\rm{P}}{{\rm{P}}_{i,\,j}}} }}$$]]></tex-math><mml:math id="mml-eqn-1" display="block"><mml:mrow><mml:msub><mml:mrow><mml:mtext>DS</mml:mtext></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi><mml:mtext> </mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mrow><mml:msup><mml:mstyle><mml:mo>∑</mml:mo></mml:mstyle><mml:mtext>​</mml:mtext></mml:msup></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>n</mml:mi></mml:msubsup><mml:msub><mml:mrow><mml:mtext>PP</mml:mtext></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi><mml:mtext> </mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:msub><mml:mrow><mml:mtext> T</mml:mtext></mml:mrow><mml:mrow><mml:mi>j</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msubsup><mml:mrow><mml:msup><mml:mstyle><mml:mo>∑</mml:mo></mml:mstyle><mml:mtext>​</mml:mtext></mml:msup></mml:mrow><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>n</mml:mi></mml:msubsup><mml:msub><mml:mrow><mml:mtext>PP</mml:mtext></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:math>
+</alternatives>
+</disp-formula>
+</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5899/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Conceptual illustration of different steps involved in the calculation of the trait-based diet spectrum.</title>
+<p>(A) Starting with binary predator-prey matrix PP with predator species <italic>i</italic> and prey species <italic>j</italic>, (B) building prey-trait by prey-species matrix T for each predator <italic>i,</italic> (C) calculating trait-based diet spectrum DS for every predator <italic>i</italic> and prey trait <italic>k,</italic> by relating the sum of each prey trait in predator’s diet to the number of species in its diet, as specified in equation 1. Here exemplified with red highlighted steps for predator <italic>i</italic><sub>1</sub>. DS values for trait <italic>k</italic><sub>1</sub> = 1 would indicate that all prey items of predator <italic>i</italic><sub>1</sub> express trait <italic>k</italic><sub>1</sub>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/fig-1.png"/>
+</fig>
+<p>A trait category being present in every prey item of a predator would therefore result in maximum predation affinity of 1, while another trait category being present in only half of the prey items would result in a score of 0.5.</p>
+</sec>
+<sec>
+<title>Food resource suitability proxy</title>
+<p>We calculated the potential prey resource availability for predators as the CWMs of trait category expressions. Including 16 sites in every sampling year (1973, 1989, 2000, 2013), all CWM values are based on abundance-weighted traits of zoobenthos, with mean species abundances comprising five replicate samples per site (see <xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>). We used the ‘FD’ library (<xref ref-type="bibr" rid="ref-32">Laliberté, Legendre &amp; Shipley, 2014</xref>) in the R environment for statistical computing ver. 3.3.0 (<xref ref-type="bibr" rid="ref-44">R Development Core Team, 2013</xref>) to calculate all CWM-values and subsequently standardised them to range between 0 and 1.</p>
+<p>Relating the trait-based DS of benthivorous fish to the potential resource pool of zoobenthic prey, we developed a predator-specific proxy for prey RS based on DS and the present prey community structure (CWM traits), at each site and year and for all traits, by calculating the product of the predator specific DS and the trait-based resource availability:
+<disp-formula id="eqn-2">
+<label>(2)</label>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/eqn-2.png"/><tex-math id="tex-eqn-2"><![CDATA[$${\rm{R}}{{\rm{S}}_{i,\,k}} = \mathop \sum \limits_{k = 1}^t {\rm{D}}{{\rm{S}}_{i,\,k}}*{\rm{CW}}{{\rm{M}}_k}$$]]></tex-math><mml:math id="mml-eqn-2" display="block"><mml:mrow><mml:msub><mml:mrow><mml:mtext>RS</mml:mtext></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>t</mml:mi></mml:munderover></mml:mstyle><mml:msub><mml:mrow><mml:mtext>DS</mml:mtext></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>*</mml:mo><mml:msub><mml:mrow><mml:mtext>CWM</mml:mtext></mml:mrow><mml:mi>k</mml:mi></mml:msub></mml:mrow></mml:math>
+</alternatives>
+</disp-formula>
+with RS<sub><italic>i, k</italic></sub> being the food resource suitability for predator <italic>i</italic> and trait <italic>k,</italic> resulting from the predator-specific diet spectrum for prey traits DS<sub><italic>i, k</italic></sub> as calculated above, and CWM<sub><italic>k</italic></sub> being the community-weighted mean of the trait category expression at each site and year. The food resource suitability proxy RS provides a likelihood measure, bound between 0 and 1, for predators to encounter suitable food resources based on the prey traits. Suitability values close to 1 suggest a high prey trait availability for predators in combination with a high affinity in the DS to a particular trait, and therefore results in a high likelihood of the predator encountering the suitable food resource. Values closer to zero reflect a low likelihood when an affinity to a trait in the DS is low and/or the resource availability (CWM) is low.</p>
+<p>To test whether the food suitability for the predator community changed over time (1973–2013) and space (sheltered and exposed sites), we built a generalised linear mixed effect model (GLMM) with the resource suitability value RS as response variable (Supplementary Materials, <xref ref-type="supplementary-material" rid="supp-4">Workflow, and results of GLMM analysis</xref>). As fixed factors we included ‘year’ and ‘exposure’ and as random factors we included ‘sites’, ‘fish species’, and ‘traits’ to account for non-independence of observation from the same stations, the same predator and traits over time. We analysed the model using the ‘nlm4’ library (<xref ref-type="bibr" rid="ref-3">Bates et al., 2015</xref>) in connection with the ‘nlmerTest’ library (<xref ref-type="bibr" rid="ref-31">Kuznetsova, Brockhoff &amp; Christensen, 2016</xref>) to get significance estimates of model terms. To normalise the distribution of model residuals, all RS values were log transformed (log(<italic>x</italic> + 0.01)) prior to the analysis and subsequently standardised to zero mean and unit variance.</p>
+<p>To shed light on how the food suitability-proxy for each individual fish species varied over time and space, we further analysed species-specific GLMMs, similar to the previous community-based model, with year and exposure as fixed factors and sites and traits as random factors, to account for non-independencies of observations within each species.</p>
+</sec>
+<sec>
+<title>Functional diversity and food resource suitability</title>
+<p>In the present analysis, functional diversity is considered as the diversity in distribution and range of expressed functional traits (<xref ref-type="bibr" rid="ref-40">Petchey &amp; Gaston, 2006</xref>), with functional traits reflecting morphological and behavioural characteristics of organisms being relevant from a predatory perspective. We calculated the functional diversity of prey communities as Functional Dispersion (FDis) after <xref ref-type="bibr" rid="ref-64">Laliberté &amp; Legendre (2010)</xref>. We chose FDis because it is unaffected by species richness, takes species abundances into account and is capable of handling more traits than species. The metric depicts the abundance-weighted mean distance of individual species to their group centroid (all species of an assemblage) in a multivariate trait-space. FDis was calculated for assemblages at every site sampled (eight sheltered, eight exposed) based on the mean abundances of five samples, using the ‘FD’ library (<xref ref-type="bibr" rid="ref-32">Laliberté, Legendre &amp; Shipley, 2014</xref>). We tested whether the development in FDis changed over time by using a linear mixed-effect model with ‘year’ as fixed factor and ‘site’ as random factor, to account for non-independency of observations from the same sites over time. To reveal any relationship between functional diversity and food RS, we fitted a linear model with FDis being the predictor covariate of RS.</p>
+</sec>
+<sec>
+<title>Predation linkage-structure</title>
+<p>To find out whether predators show varying specialization and plasticity to the changing trait composition of prey assemblages over time and space, we built PP bipartite interaction networks. Bipartite networks are essentially two-level food webs, in our case linking the zoobenthic prey with the benthivorous predator fish. Besides being applied for studying trophic interaction networks, they are commonly used in pollination webs and seed dispersal studies where every member of the first level is only connected to members of the second level while direct interactions within one level are considered unimportant (<xref ref-type="bibr" rid="ref-13">Dormann, Gruber &amp; Fründ, 2008</xref>). Here we used the CWM-values of the zoobenthic assemblages as lower trophic level and connected them with each predator fish, representing the higher trophic level. To account for the affinity of a predator to a prey trait, we weighted each prey-CWM at all stations and for all years with the species-specific diet suitability value in DS. We used two species-level indices to investigate changes in predation linkage-structure over space and time. <italic>Proportional similarity</italic> provides a measure of predator specialisation and describes the dissimilarity between resource use and resource availability, that is, how many of the prey traits are potentially fed on in relation to how many prey traits are present. Values of 1 indicate high generality of predators, where all the available food resources are theoretically also used/interacted with. Further, we calculated the <italic>sum of interactions per species</italic>, describing the total number of links between predator and food resource. All interaction networks and indices were calculated in the ‘bipartite’ library (<xref ref-type="bibr" rid="ref-13">Dormann, Gruber &amp; Fründ, 2008</xref>; <xref ref-type="bibr" rid="ref-12">Dormann et al., 2009</xref>; <xref ref-type="bibr" rid="ref-11">Dormann, 2011</xref>) and the R environment.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Predation profile based on prey traits</title>
+<p>Our results demonstrate species-specific feeding spectra of the studied eleven coastal fish species and their affinity towards individual prey characteristics (trait categories) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Furthermore, our findings indicate that there is a resemblance in DS for a few trait-categories among all fish species, showing a generally high affinity for medium sized, epibenthic and surface crawling prey. However, the majority of traits are more variable regarding their predatory affinity among species. By grouping the fish species according to their DS similarity, we illustrate the relationship in trait-based predation patterns between the predator species (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). One close grouping cluster comprises the species <italic>Coregonus lavaretus, Perca fluviatilis, Platichthys flesus, Rutilus rutilus</italic>, showing very similar affinities over the entire trait spectrum. While the four predators utilise all size classes, it is mainly the robust, hard and soft shelled as well as species with no protection, living in the upper part of the sediment and crawling on the surface which they have high affinities to. On the contrary, <italic>Triglopsis quadricornis, Clupea harengus, and Gymnocephalus cernuus</italic> have more specific feeding size classes, not utilizing prey classified as small. All three have no affinity to hard shelled prey. <italic>T. quadricornis</italic> has the highest affinity for soft shelled species and is not utilizing any infaunal prey that is deeper than two cm from the sediment surface (infauna top). It does however have a strong affinity to all prey movement types. <italic>G. cernuus</italic> can utilise a broader range of prey protection types and has equally high affinities to the environmental position of prey ranging from epibenthic to the deep infauna (&gt;5 cm). <italic>C. harengus</italic> shows the highest affinity to bentho-pelagic prey among all species but only utilises prey with high energy content. <italic>Leuciscus idus</italic> and <italic>Abramis bjoerkna</italic> both are the only predators of the assemblage not showing any affinity for large-sized prey or species with a burrowing movement types. Additionally both predators have the highest affinity to prey with no protection (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>).</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5899/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Trait-based diet spectrum of fish community.</title>
+<p>Species are sorted by their similarity in diet spectrum, where similarity-groupings are indicated through the dendrogram. Colour saturation and size indicate the level of trait specific feeding affinity, with ‘1’ indicating trait category is always being preyed on and ‘0’ indicating never being preyed on.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/fig-2.png"/>
+</fig>
+</sec>
+<sec>
+<title>Food resource suitability over space and time</title>
+<p>Time had a significant effect on the overall food suitability for the benthic-feeding predator assemblage (<xref ref-type="table" rid="table-3">Table 3</xref>). Thus, the suitability-proxy calculated as the product of affinity to and availability of food resources (Eq. 2) first decreased towards 1989 (GLMM, <italic>p</italic> &lt; 0.05) and then increased over time in the years 2000 (GLMM, <italic>p</italic> &lt; 0.0001) and 2013 (GLMM, <italic>p</italic> &lt; 0.0001) compared to the values in 1973 (model intercept). There was no effect of exposure on the food quality, implying no significant difference between sheltered, and exposed areas (GLMM, <italic>p</italic> = 0.669) (<xref ref-type="table" rid="table-3">Table 3</xref>).</p>
+<table-wrap id="table-3">
+<object-id pub-id-type="doi">10.7717/peerj.5899/table-3</object-id>
+<label>Table 3</label>
+<caption>
+<title>Linear mixed-effect model results and significant approximations for the community model including all 11 fish species.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/table-3.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Fixed effects</th>
+<th>Parameter estimate</th>
+<th><italic>t</italic>-value</th>
+<th><italic>p</italic>-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1973 (Intercept)</td>
+<td>−0.0319</td>
+<td>−0.207</td>
+<td>0.8370</td>
+</tr>
+<tr>
+<td>1989</td>
+<td>−0.0308</td>
+<td>−2.024</td>
+<td>0.0430<xref ref-type="fn" rid="table-3fn1">*</xref></td>
+</tr>
+<tr>
+<td>2000</td>
+<td>0.0905</td>
+<td>5.945</td>
+<td>&lt;0.0001<xref ref-type="fn" rid="table-3fn1">**</xref></td>
+</tr>
+<tr>
+<td>2013</td>
+<td>0.1113</td>
+<td>7.31</td>
+<td>&lt;0.0001<xref ref-type="fn" rid="table-3fn1">**</xref></td>
+</tr>
+<tr>
+<td>Exposure</td>
+<td>−0.0217</td>
+<td>−0.436</td>
+<td>0.6690</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-3fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-3fn1" fn-type="other">
+<p>Significance levels are indicated with stars following the significance coding: 0.01 ‘*’ and 0 ‘**’.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>In accordance with the community model results, the species-specific models show that there is a general trend for most of the fish species (nine out of 11) to experience a significantly positive progression in food suitability over time (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>, <xref ref-type="supplementary-material" rid="supp-4">Workflow and results of GLMM analysis</xref>). This pattern is gradual with generally highest model estimates in 2013 but shows different species-specific strength. However, there were species for which the food suitability did not improve. For example, food quality for <italic>A. bjoerkna</italic> showed a negative trend until after 2000 and only becomes positive in 2013 while not being significantly different from the suitability measure in 1973 at any point in time (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). The food quality for <italic>Leucidus idus</italic> also shows no significant increase and that of <italic>T. quadricornis</italic> decreased in 2013 compared to 2000. Although there is no significant effect of exposure on the food suitability, the model estimates for exposure show both marginal positive, and negative trends for the different species (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) (<xref ref-type="supplementary-material" rid="supp-4">Workflow and results of GLMM analysis</xref>).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5899/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Species-specific linear mixed-effect model results.</title>
+<p>Colours indicate direction of parameter estimates, with blue and orange reflecting positive and negative estimates, respectively. All years are compared against 1973. Significance levels of model parameters for each species are indicated with stars following the significance coding: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘1’.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/fig-3.png"/>
+</fig>
+</sec>
+<sec>
+<title>Functional diversity—food suitability relationship</title>
+<p>The development of functional diversity of prey communities, calculated as FDis, showed an increasing trend over time, with a significant effect of year (GLMM, <italic>p</italic> &lt; 0.001), displaying highest FDis-values and lowest within year variation in the two recent sample occasions (2000 and 2013), indicating a higher functionally diversity compared to the early 1970s and 1980s (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>). Furthermore, functional diversity FDis had a highly significant and positive effect on food suitability (lm, <italic>p</italic> &lt; 0.0001, ad. <italic>r</italic><sup>2</sup> = 0.53) of sampled prey communities (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5899/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Functional diversity—food resource suitability relationship.</title>
+<p>(A) Development of functional dispersion (FDis) of all sampled prey assemblages (<italic>n</italic> = 16) over time; (B) relationship between food suitability-proxy <italic>S</italic> and functional dispersion (FDis) of prey communities. Here, <italic>S</italic> is the mean standardised predictor variable for each prey assemblage at all sites and all sampled years, as applied in the community mixed effect model. Positive relationship is highlighted with a linear model (model estimate = 0.074, <italic>p</italic> &lt; 0.0001, adj. <italic>r</italic><sup>2</sup> = 0.53).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/fig-4.png"/>
+</fig>
+</sec>
+<sec>
+<title>Specificity and resource use of predators</title>
+<p>The total <italic>sums of interactions</italic> between predator and prey generally increased over time, especially at exposed sites (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>). This implies that the zoobenthos assemblages display a higher number of suitable traits that the predator fish are able to utilise. For all 11 predator fish species, the total <italic>sums of interaction</italic> are the highest in the two later years of the study, 2000 and 2013, a pattern particularly pronounced at exposed sites. Absolute values in the <italic>sums of interaction</italic> at sheltered sites did not change considerably compared to the increasing tendency at exposed sites (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>).</p>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.5899/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Predation linkage network structure.</title>
+<p>(A) Sum of interactions between predatory fish and the available (trait-based) zoobenthic prey for all sites, (B) ‘Proportional similarity’ reflecting the ratio between resource use and availability, acting as a measure of specialisation. Each year comprises eight exposed (orange) and eight sheltered (blue) sites.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5899/fig-5.png"/>
+</fig>
+<p>The ratio between resource use and resource availability, the <italic>proportional similarity</italic> metric, showed species specificity, revealing the grade of specialisation/generality of the predator in relation to the present prey community (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>). At the exposed sites, <italic>A. bjoerkna</italic> and <italic>L. idus</italic> showed a decrease in <italic>proportional similarity,</italic> implying a higher specialisation towards the available food resource over time. Hence, following the changing prey traits, both predators have less suitable traits to feed on and appear more specialised in relation to the food resource pool. This pattern was, however, not reflected at the sheltered sites. The high generality-values, in combination with minimal within year variation of <italic>A. brama</italic>, <italic>Osmerus eperlanus</italic>, <italic>P. fluviatilis,</italic> and <italic>P. flesus,</italic> show a high efficiency in available resource use and a high generality of these predators regardless of the varying <italic>sum of interactions</italic> within years and exposure groups (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). The predator community generally displays relatively high values of <italic>proportional similarity</italic> with <italic>T. quadricornis</italic> being the most specialised species displaying the lowest values overall, which holds particularly true for exposed areas.</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<sec>
+<title>Trait-based predation; concept and food suitability-proxy</title>
+<p>Predators select their prey irrespective of taxonomic identities but based on a multitude of phenotypical characteristics, such as morphological, behavioural, and life history traits (<xref ref-type="bibr" rid="ref-24">Husseman et al., 2003</xref>; <xref ref-type="bibr" rid="ref-30">Klecka &amp; Boukal, 2013</xref>; <xref ref-type="bibr" rid="ref-18">Green &amp; Côté, 2014</xref>; <xref ref-type="bibr" rid="ref-50">Spitz, Ridoux &amp; Brind’Amour, 2014</xref>; <xref ref-type="bibr" rid="ref-47">Rusch et al., 2015</xref>; <xref ref-type="bibr" rid="ref-45">Rodríguez-Lozano et al., 2016</xref>). In this study, we applied a novel framework to describe predatory diet suitability based on predation-relevant functional traits of prey. This approach facilitates the understanding on how changes in prey communities may impact the food resource suitability for higher trophic levels, which can potentially result in bottom-up cascades. Our method takes advantage of binary PP links, that is, the presence and absence of feeding links, collected from the literature, to create a trait-based DS that reflects the affinity of a predator towards particular trait categories of a prey species (<xref ref-type="fig" rid="fig-1">Figs. 1</xref> and <xref ref-type="fig" rid="fig-2">2</xref>).</p>
+<p>Following this predator-specific measure, we highlight the composition as well as the theoretical predation-affinity to prey traits (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). The comparison of trait feeding affinities among species highlights the similarities and dissimilarities in the food spectra of the predator assemblage. Fish with a similar DS group close to each other. Close groupings of predators, that is, species having similarly affinities to prey traits, such as perch (<italic>Perca fluviatilis</italic>), flounder (<italic>Platichthys flesus</italic>), and roach (<italic>Rutilus rutilus</italic>) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>), could serve as an indication for resource competition regarding their zoobenthic prey (<xref ref-type="bibr" rid="ref-34">Mattila &amp; Bonsdorff, 1988</xref>, <xref ref-type="bibr" rid="ref-35">1989</xref>). This is in line with earlier findings on interspecific competition among these three species (<xref ref-type="bibr" rid="ref-39">Persson, 1983</xref>; <xref ref-type="bibr" rid="ref-33">Lappalainen et al., 2001</xref>). However, evaluating the impact of competition between the species on the food-resource availability is outside the scope of this study, nonetheless the theory could support future studies considering trait-based measures of interspecific competition.</p>
+<p>To evaluate food suitability of a prey community, the measure of feeding affinity to prey traits has to be related to the actual resource availability, that is, the present prey community. As such, CWM traits offer a meaningful link to the PP DS scores, capturing a quantitative measure of the abundance-weighted average community traits. It seems intuitive that high food RS values, that is, high affinity to an available resource, suggests preferable food conditions over low suitability values. However, disproportionate consumption rates in relation to prey abundance are also common, based on dietary preference (<xref ref-type="bibr" rid="ref-55">Vadas, 1977</xref>; <xref ref-type="bibr" rid="ref-1">Almany &amp; Webster, 2004</xref>), and maximal energetic gain (<xref ref-type="bibr" rid="ref-42">Pyke, Pulliam &amp; Charnov, 1977</xref>). In the here applied food suitability measure, predators are assumed to consume the available resources following the proportion of their affinity scores, which includes weighting morphological preferences derived from the observed DS. Yet, the weighing based on presence/absence data does not reflect the different proportions of specific prey items being ingested more or less frequently and potential ontogenic shifts in prey preference are not considered when predator age classes are not taken into account.</p>
+<p>Studying a system where long-term structural and functional changes of zoobenthic communities have been described in detail (<xref ref-type="bibr" rid="ref-57">Weigel et al., 2015</xref>; <xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>), we found that the altered prey CWM had an effect on the food suitability of the predator assemblage over time, confirming our hypothesis. <xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff (2016)</xref> described the major changes in zoobenthic trait composition over time based on community changes in the sheltered and exposed areas we also studied here. Detailing some of their findings and relating them to changes in the here observed food suitability, they found that the changes in sheltered areas between 1989 and 2000 could be linked to decreasing proportions of hard-shell-protected and increasing borrow-protected species, becoming more fragile, increasing in size with higher proportions of large-sized species, and increasing high-energy contents. Similarly, in exposed areas, changes were linked to increased proportions of high-energy species and increasing soft shelled protection. These particular changes in CWM can explain why the two species, <italic>L. idus</italic> and <italic>A. bjoerkna</italic> did not show an increase in food suitability (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) as neither displays an affinity for large-sized and soft-shelled species. <italic>A. bjoerkna</italic> additionally showed no affinity for high energy species and <italic>L. idus</italic> none for fragile species, both categories highlighted to have played a significant role in the changing trait composition of the prey communities. Particularly the soft-shelled increase can add to explain the highly significant increase in food suitability for <italic>C. harengus</italic> and <italic>T. quadricornis</italic> which both have high feeding affinities towards this trait. For the period comparing 2000 and 2013 on the other hand, the food suitability for <italic>T. quadricornis</italic> decreased, which can be associated to higher proportions of the prey community being buried deeper in the sediment (<xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>). The overall increased food suitability for nine out of the 11 coastal benthic-feeding fish (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>; <xref ref-type="table" rid="table-3">Table 3</xref>) may have contributed to the increase in total fish abundances (in catch per unit effort) since the mid-late 1990s in the same area despite an overall decrease in zoobenthic biomasses (<xref ref-type="bibr" rid="ref-49">Snickars, Weigel &amp; Bonsdorff, 2015</xref>). While our framework centres on a bottom-up approach, aiming to answer how changing prey communities affect predators, it is important to acknowledge that increasing feeding pressures due to higher abundances of predators or changes in the predator species composition may also structure the prey community and its biomass from the top down (<xref ref-type="bibr" rid="ref-34">Mattila &amp; Bonsdorff, 1988</xref>; <xref ref-type="bibr" rid="ref-38">Olsson, Bergström &amp; Gårdmark, 2013</xref>; <xref ref-type="bibr" rid="ref-22">Hinz et al., 2017</xref>). Hence, scenarios would be possible where the predators themselves would decrease the resource suitability by diminishing the CWM of favourable food items.</p>
+<p>Against our expectations, there was no significant spatial effect, that is, sheltered or exposed areas, on the prey suitability, although both areas showed significantly different progression pathways regarding the zoobenthic CWM (<xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>). This suggests no generality in the effect of changing functional compositions on the suitability-measure <italic>per se</italic> but highlights the importance of particular traits in the food resource, depending on the predator species and its DS (<xref ref-type="fig" rid="fig-2">Figs. 2</xref> and <xref ref-type="fig" rid="fig-3">3</xref>).</p>
+</sec>
+<sec>
+<title>Functional diversity and prey suitability</title>
+<p>Communities with a high functional diversity are assumed to express a wide range of ecosystem functions (<xref ref-type="bibr" rid="ref-6">Clark et al., 2012</xref>), supporting resilience towards environmental change (<xref ref-type="bibr" rid="ref-14">Folke et al., 2004</xref>), and promoting the magnitude of ecosystem processes (<xref ref-type="bibr" rid="ref-8">De Bello et al., 2010</xref>). In the present study, the functional diversity of prey communities, measured as FDis, increased over time displaying highest absolute values and lowest variation in 2000 and 2013, while the earlier sampling years showed a generally lower absolute FDis and a high within year variation (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>). <xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff (2016)</xref> have linked the increased functional diversity to the presence of the non-native and invasive polychaete <italic>Marenzelleria</italic> spp, which seemingly promoted a higher FDis. Although they applied a different set of functional traits, focussing on a broader set of general traits than primarily predation-relevant attributes as in this study, they observed a similar pattern in the progression of FDis. This shows that the FDis pattern remains robust despite the type of traits being applied.</p>
+<p>The large within-year variation of FDis can be interpreted as a high spatial discrepancy of prey traits at the assemblage level, with species ranging from a diverse set of different trait combinations at some sites to very similar traits of an assemblage at others (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>, 1989). Theory suggests that areas with low functional diversity of prey assemblages should display a higher risk to predators for not finding suitable dietary traits, whereas a high functional diversity of prey would increase the spectrum of available prey traits and thus the chance, for a wider range of predators, to encounter suitable food resources. Hence, a higher functional diversity should support a higher RS. Our results show that elevated FDis of prey communities coincided with an increase in the food suitability for predators (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). This relationship highlights the positive effect of diverse prey-traits on the food resource suitability for predators and supports a positive functional diversity—ecosystem function relationship (<xref ref-type="bibr" rid="ref-23">Hooper et al., 2005</xref>).</p>
+<p>For specialist species, feeding only on a narrow range of prey items, high functional diversity may be particularly important to ensure matching food items in a rapidly changing environment. Although the benthivorous fish in our study are mostly generalist, they still profit from a higher FDis as the suitable food resource-range increases and therefore the number of possible interactions between predator and prey (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>).</p>
+<p>Considering the role of the non-native polychaete <italic>Marenzelleria</italic> for the elevated and more stable FDis values (<xref ref-type="bibr" rid="ref-59">Weigel, Blenckner &amp; Bonsdorff, 2016</xref>), as well as the observed positive FDis-food suitability relationship (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), our results suggest that <italic>Marenzelleria</italic> may feature prey attributes that are generally favourable for the benthivorous fish community. Hence, since its establishment in the early 1990s, <italic>Marenzelleria</italic> seems to act as supporting food item for coastal fish (<xref ref-type="bibr" rid="ref-60">Winkler &amp; Debus, 1996</xref>).</p>
+<p>A high functional diversity of prey communities supports a broad spectrum of available food resources for predators and could hence serve as a valid approximation for food-quality estimations as depicted in our results (<xref ref-type="fig" rid="fig-3">Figs. 3</xref> and <xref ref-type="fig" rid="fig-4">4</xref>).</p>
+</sec>
+<sec>
+<title>Feeding specificity and plasticity of predators</title>
+<p>The structure of food webs constitutes an important role for ecosystem properties (<xref ref-type="bibr" rid="ref-41">Pimm, Lawton &amp; Cohen, 1991</xref>; <xref ref-type="bibr" rid="ref-51">Thébault &amp; Loreau, 2003</xref>) and has been linked to the functioning and resilience of communities (<xref ref-type="bibr" rid="ref-61">Yen et al., 2016</xref>; <xref ref-type="bibr" rid="ref-62">Yletyinen et al., 2016</xref>). Understanding how changes in prey communities affect the predation linkage-structure of PP networks, can thus provide insight into the resilience of predators to fluctuating food resources, their plasticity to adapt and their efficiency of resource utilisation.</p>
+<p>In the present study, we show that an altered functional composition CWM of a prey community may affect the PP network structure and impact the degree of specialisation of a predator towards the available food resource pool (<xref ref-type="fig" rid="fig-5">Fig. 5</xref>). Although predators showed generally high variability in the total sum of interactions (<xref ref-type="fig" rid="fig-5">Fig. 5A</xref>), the ability to utilise the present food resources remained stable for most of the predators, and in particular for <italic>A. brama, O. eperlanus, P. fluviatilis,</italic> and <italic>P. flesus</italic> with close to zero variation within and among years and exposure class (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>), suggesting a high plasticity in coping with changing prey communities. In contrast, species that show decreasing <italic>proportional similarity</italic> over time, such as <italic>A. bjoerkna</italic> and <italic>L. idus</italic>, primarily in relation to resources in exposed areas, hint towards lower plasticity in resource utilisation of changing prey communities. This finding is also partly reflected in the predator-specific food suitability estimation (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>), which shows no significant improvement for the respective species over time.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusion</title>
+<p>The structural changes in zoobenthos communities around the Åland Islands and over the past 40 years have not only resulted in changes of the species composition but also altered the characteristics of the communities influencing their suitability as prey for the fish assemblage in this area. Based on the changes of prey traits at the community level, we found that the food resource suitability has increased for most of the benthic-feeding predators since the 2000s. Our conceptual framework based on functional traits that reflect predation-relevant morphological and behavioural characteristics of prey can highlight changes in food suitability for predators along changing prey communities. With no other available means to find out if the resource suitability for a predator has changed over long temporal scales, in cases where there is no detailed data on diet, our approach takes advantage of binary PP links, available from the literature, and translates them into trait-based feeding profiles of predators reflecting specific affinities to certain prey traits. These can then be linked to for example, spatiotemporal changes in the functional structure CWM of prey communities and may serve as proxy for the food resource suitability or explanatory factor for PP dynamics. With stomach content data and other cost and sample intensive measurements often lacking, especially on long temporal and broad spatial scales, our approach can help understand altered PP interactions. Being independent of taxonomic species identities, our measure promotes cross-systems comparisons and is applicable to all PP communities. It can further deal with newly introduced and invasive species, as potential food resource, that reflect similar traits of the consumer diet profile.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5899/Supplementary_Table_S1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5899/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Feeding link references.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5899/Supplementary_Table_S2.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5899/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Binary predator-prey links.</title>
+<p>Binary feeding links between fish predators (columns) and zoobenthic prey (rows).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5899/Supplementary_Table_S3.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5899/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Binary trait classification of zoobenthos species.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5899/Workflow_GLMMs.pdf">
+<object-id pub-id-type="doi">10.7717/peerj.5899/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Workflow and results of GLMMs.</title>
+<p>This file provides the R code, workflow and results for all GLMMs (all fish and species-specific models).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/5899/Zoobenthos_community_data.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5899/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>Zoobenthos community data.</title>
+<p>Mean zoobenthos abundance data from 5 Ekman-grab samples at all sites and all years. Sites are labeled by their exposure classification (E = exposed, S = sheltered), their station ID, and their collection year.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/5899/Calculation_of_Suitability_values.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5899/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>Calculation of prey suitability values.</title>
+<p>Community weighted means of trait category expression for all traits t and all sites and years (CWM<sub><italic>t</italic></sub>), predator <italic>i</italic> affinity to prey traits <italic>t</italic> (DS<sub><italic>i,k</italic></sub>), prey suitability values S<sub><italic>i,k</italic></sub> as CWM<sub><italic>t</italic></sub> * DS<sub><italic>i,k</italic></sub>.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank Claire Morandin for helpful discussions during the GLMM development and Malcolm Itter for general comments that improved our study. We are grateful for the constructive comments of two anonymous reviewers that helped improve this study.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Benjamin Weigel</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Erik Bonsdorff</xref> contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data are provided in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p>
+<p>Weigel B, Blenckner T, Bonsdorff E (2016) Maintained functional diversity in benthic communities in spite of diverging functional identities. Oikos 125(10): 1421–1433. <uri xlink:href="https://doi.org/10.1111/oik.02894">https://doi.org/10.1111/oik.02894</uri>.</p>
+<p>Weigel B, Blenckner T, Bonsdorff E (2015) Data from: Maintained functional diversity in benthic communities in spite of diverging functional identities. Dryad Digital Repository. <uri xlink:href="https://doi.org/10.5061/dryad.6hc8q">https://doi.org/10.5061/dryad.6hc8q</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Almany &amp; Webster (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Almany</surname>
+<given-names>GR</given-names>
+</name>
+<name>
+<surname>Webster</surname>
+<given-names>MS</given-names>
+</name>
+</person-group>
+<article-title>Odd species out as predator reduce diversity of coral-reef fishes</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2004">2004</year>
+<volume>85</volume>
+<issue>11</issue>
+<fpage>2933</fpage>
+<lpage>2937</lpage>
+<pub-id pub-id-type="doi">10.1890/03-3150</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Baker, Buckland &amp; Sheaves (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baker</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Buckland</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Sheaves</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Fish gut content analysis: robust measures of diet composition</article-title>
+<source>Fish and Fisheries</source>
+<year iso-8601-date="2014">2014</year>
+<volume>15</volume>
+<issue>1</issue>
+<fpage>170</fpage>
+<lpage>177</lpage>
+<pub-id pub-id-type="doi">10.1111/faf.12026</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Bates et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bates</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Mächler</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bolker</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Walker</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Fitting linear mixed-effects models using lme4</article-title>
+<source>Journal of Statistical Software</source>
+<year iso-8601-date="2015">2015</year>
+<volume>67</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="doi">10.18637/jss.v067.i01</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Both et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Both</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Van Asch</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bijlsma</surname>
+<given-names>RG</given-names>
+</name>
+<name>
+<surname>Van Den Burg</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>Visser</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>Climate change and unequal phenological changes across four trophic levels: constraints or adaptations?</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>78</volume>
+<issue>1</issue>
+<fpage>73</fpage>
+<lpage>83</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2656.2008.01458.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Cadotte, Carscadden &amp; Mirotchnick (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cadotte</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Carscadden</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Mirotchnick</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Beyond species: functional diversity and the maintenance of ecological processes and services</article-title>
+<source>Journal of Applied Ecology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>48</volume>
+<issue>5</issue>
+<fpage>1079</fpage>
+<lpage>1087</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2664.2011.02048.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Clark et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Clark</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Flynn</surname>
+<given-names>DFB</given-names>
+</name>
+<name>
+<surname>Butterfield</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Reich</surname>
+<given-names>PB</given-names>
+</name>
+</person-group>
+<article-title>Testing the link between functional diversity and ecosystem functioning in a Minnesota grassland experiment</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2012">2012</year>
+<volume>7</volume>
+<issue>12</issue>
+<elocation-id>e52821</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0052821</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Collie, Wood &amp; Jeffries (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Collie</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Wood</surname>
+<given-names>AD</given-names>
+</name>
+<name>
+<surname>Jeffries</surname>
+<given-names>HP</given-names>
+</name>
+</person-group>
+<article-title>Long-term shifts in the species composition of a coastal fish community</article-title>
+<source>Canadian Journal of Fisheries and Aquatic Sciences</source>
+<year iso-8601-date="2008">2008</year>
+<volume>65</volume>
+<issue>7</issue>
+<fpage>1352</fpage>
+<lpage>1365</lpage>
+<pub-id pub-id-type="doi">10.1139/F08-048</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>De Bello et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Bello</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Lavorel</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Díaz</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Harrington</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Cornelissen</surname>
+<given-names>JHC</given-names>
+</name>
+<name>
+<surname>Bardgett</surname>
+<given-names>RD</given-names>
+</name>
+<name>
+<surname>Berg</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Cipriotti</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Feld</surname>
+<given-names>CK</given-names>
+</name>
+<name>
+<surname>Hering</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Da Silva</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Sandin</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Sousa</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Storkey</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wardle</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Harrison</surname>
+<given-names>PA</given-names>
+</name>
+</person-group>
+<article-title>Towards an assessment of multiple ecosystem processes and services via functional traits</article-title>
+<source>Biodiversity and Conservation</source>
+<year iso-8601-date="2010">2010</year>
+<volume>19</volume>
+<issue>10</issue>
+<fpage>2873</fpage>
+<lpage>2893</lpage>
+<pub-id pub-id-type="doi">10.1007/s10531-010-9850-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>De Crespin De Billy &amp; Usseglio-Polatera (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Crespin De Billy</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Usseglio-Polatera</surname>
+</name>
+</person-group>
+<article-title>Traits of brown trout prey in relation to habitat characteristics and benthic invertebrate communities</article-title>
+<source>Journal of Fish Biology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>60</volume>
+<issue>3</issue>
+<fpage>687</fpage>
+<lpage>714</lpage>
+<pub-id pub-id-type="doi">10.1006/jfbi.2002.1887</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Dice (1949)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dice</surname>
+<given-names>LR</given-names>
+</name>
+</person-group>
+<article-title>The selection index and its test of significance</article-title>
+<source>Evolution</source>
+<year iso-8601-date="1949">1949</year>
+<volume>3</volume>
+<issue>3</issue>
+<fpage>262</fpage>
+<lpage>265</lpage>
+<pub-id pub-id-type="doi">10.2307/2405563</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Dormann (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dormann</surname>
+<given-names>CF</given-names>
+</name>
+</person-group>
+<article-title>How to be a specialist? Quantifying specialisation in pollination networks</article-title>
+<source>Network Biology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>1</volume>
+<fpage>1</fpage>
+<lpage>20</lpage>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Dormann et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dormann</surname>
+<given-names>CF</given-names>
+</name>
+<name>
+<surname>Fruend</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bluethgen</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Gruber</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Indices, graphs and null models: analyzing bipartite ecological networks</article-title>
+<source>Open Ecology Journal</source>
+<year iso-8601-date="2009">2009</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>7</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="doi">10.2174/1874213000902010007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Dormann, Gruber &amp; Fründ (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dormann</surname>
+<given-names>CF</given-names>
+</name>
+<name>
+<surname>Gruber</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Fründ</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Introducing the bipartite package: analysing ecological networks</article-title>
+<source>R News</source>
+<year iso-8601-date="2008">2008</year>
+<volume>8</volume>
+<fpage>8</fpage>
+<lpage>11</lpage>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Folke et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Folke</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Carpenter</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Walker</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Scheffer</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Elmqvist</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Gunderson</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Holling</surname>
+<given-names>CS</given-names>
+</name>
+</person-group>
+<article-title>Regime shifts, resilience, and biodiversity in ecosystem management</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2004">2004</year>
+<volume>35</volume>
+<issue>1</issue>
+<fpage>557</fpage>
+<lpage>581</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.ecolsys.35.021103.105711</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Fry &amp; Sherr (1989)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Fry</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Sherr</surname>
+<given-names>EB</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Rundel</surname>
+<given-names>PW</given-names>
+</name>
+<name>
+<surname>Ehleringer</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Nagy</surname>
+<given-names>KA</given-names>
+</name>
+</person-group>
+<article-title>δ13C measurements as indicators of carbon flow in marine and freshwater ecosystems</article-title>
+<source>Stable isotopes in ecological research</source>
+<year iso-8601-date="1989">1989</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer New York</publisher-name>
+<fpage>196</fpage>
+<lpage>229</lpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Gagic et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gagic</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Bartomeus</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Jonsson</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Taylor</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Winqvist</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Fischer</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Slade</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>Steffan-Dewenter</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Emmerson</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Tscharntke</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Weisser</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Bommarco</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Functional identity and diversity of animals predict ecosystem functioning better than species-based indices</article-title>
+<source>Proceedings of the the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2015">2015</year>
+<volume>282</volume>
+<issue>1801</issue>
+<fpage>20142620</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2014.2620</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Gravel et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gravel</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Poisot</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Albouy</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Velez</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Mouillot</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Inferring food web structure from predator-prey body size relationships</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2013">2013</year>
+<volume>4</volume>
+<issue>11</issue>
+<fpage>1083</fpage>
+<lpage>1090</lpage>
+<pub-id pub-id-type="doi">10.1111/2041-210X.12103</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Green &amp; Côté (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Green</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Côté</surname>
+<given-names>IM</given-names>
+</name>
+</person-group>
+<article-title>Trait-based diet selection: prey behaviour and morphology predict vulnerability to predation in reef fish communities</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>83</volume>
+<issue>6</issue>
+<fpage>1451</fpage>
+<lpage>1460</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2656.12250</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Harley et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harley</surname>
+<given-names>CDG</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Hultgren</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Miner</surname>
+<given-names>BG</given-names>
+</name>
+<name>
+<surname>Sorte</surname>
+<given-names>CJB</given-names>
+</name>
+<name>
+<surname>Thornber</surname>
+<given-names>CS</given-names>
+</name>
+<name>
+<surname>Rodriguez</surname>
+<given-names>LF</given-names>
+</name>
+<name>
+<surname>Tomanek</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>SL</given-names>
+</name>
+</person-group>
+<article-title>The impacts of climate change in coastal marine systems</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2006">2006</year>
+<volume>9</volume>
+<issue>2</issue>
+<fpage>228</fpage>
+<lpage>241</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00871.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>HELCOM (2012)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>
+<institution>HELCOM</institution>
+</collab>
+</person-group>
+<article-title>Indicator-based assessment of coastal fish community status in the Baltic Sea 2005–2009</article-title>
+<source>Baltic Sea Environment Proceedings No. 131</source>
+<year iso-8601-date="2012">2012</year>
+<uri>http://www.helcom.fi/Lists/Publications/BSEP131.pdf</uri>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Hiddink et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hiddink</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Moranta</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Balestrini</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sciberras</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Cendrier</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bowyer</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Kaiser</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Sköld</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Jonsson</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Bastardie</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Hinz</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Bottom trawling affects fish condition through changes in the ratio of prey availability to density of competitors</article-title>
+<source>Journal of Applied Ecology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>53</volume>
+<issue>5</issue>
+<fpage>1500</fpage>
+<lpage>1510</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2664.12697</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Hinz, Kröncke &amp; Ehrich (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hinz</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kröncke</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Ehrich</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>The feeding strategy of dab <italic>Limanda limanda</italic> in the southern north sea: linking stomach contents to prey availability in the environment</article-title>
+<source>Journal of Fish Biology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>67</volume>
+<fpage>125</fpage>
+<lpage>145</lpage>
+<pub-id pub-id-type="doi">10.1111/j.0022-1112.2005.00918.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Hinz et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hinz</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Moranta</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Balestrini</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sciberras</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Pantin</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Monnington</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zalewski</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kaiser</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Sköld</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Jonsson</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Bastardie</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Hiddink</surname>
+<given-names>JG</given-names>
+</name>
+</person-group>
+<article-title>Stable isotopes reveal the effect of trawl fisheries on the diet of commercially exploited species</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2017">2017</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>6334</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-017-06379-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Hooper et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hooper</surname>
+<given-names>DU</given-names>
+</name>
+<name>
+<surname>Chapin</surname>
+<given-names>FS</given-names>
+</name>
+<name>
+<surname>Ewel</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Hector</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Inchausti</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Lavorel</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lawton</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Lodge</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Loreau</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Naeem</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Schmid</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Setälä</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Symstad</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Vandermeer</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wardle</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Effects of biodiversity on ecosystem functioning: a consensus of current knowledge</article-title>
+<source>Ecological Monographs</source>
+<year iso-8601-date="2005">2005</year>
+<volume>75</volume>
+<issue>1</issue>
+<fpage>3</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="doi">10.1890/04-0922</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Husseman et al. (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Husseman</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Murray</surname>
+<given-names>DL</given-names>
+</name>
+<name>
+<surname>Power</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Mack</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wenger</surname>
+<given-names>CR</given-names>
+</name>
+<name>
+<surname>Quigley</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Assessing differential prey selection patterns between two sympatric large carnivores</article-title>
+<source>Oikos</source>
+<year iso-8601-date="2003">2003</year>
+<volume>101</volume>
+<issue>3</issue>
+<fpage>591</fpage>
+<lpage>601</lpage>
+<pub-id pub-id-type="doi">10.1034/j.1600-0706.2003.12230.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Hyslop (1980)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hyslop</surname>
+<given-names>EJ</given-names>
+</name>
+</person-group>
+<article-title>Stomach contents analysis-a review of methods and their application</article-title>
+<source>Journal of Fish Biology</source>
+<year iso-8601-date="1980">1980</year>
+<volume>17</volume>
+<issue>4</issue>
+<fpage>411</fpage>
+<lpage>429</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1095-8649.1980.tb02775.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Iverson (2009)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Iverson</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Kainz</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Brett</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Arts</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Tracing aquatic food webs using fatty acids: from qualitative to quantative determination</article-title>
+<source>Lipids in aquatic ecosystems</source>
+<year iso-8601-date="2009">2009</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>281</fpage>
+<lpage>308</lpage>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Johnson et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Johnson</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Gorelli</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Jenkins</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Hiddink</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Hinz</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Effects of bottom trawling on fish foraging and feeding</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2014">2014</year>
+<volume>282</volume>
+<issue>1799</issue>
+<fpage>20142336</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2014.2336</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Kelly &amp; Scheibling (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kelly</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Scheibling</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Fatty acids as dietary tracers in benthic food webs</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="2012">2012</year>
+<volume>446</volume>
+<fpage>1</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.3354/meps09559</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Kerr (1974)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kerr</surname>
+<given-names>SR</given-names>
+</name>
+</person-group>
+<article-title>Theory of size distribution in ecological communities</article-title>
+<source>Journal of the Fisheries Research Board Canada</source>
+<year iso-8601-date="1974">1974</year>
+<volume>31</volume>
+<issue>12</issue>
+<fpage>1859</fpage>
+<lpage>1862</lpage>
+<pub-id pub-id-type="doi">10.1139/f74-241</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Klecka &amp; Boukal (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Klecka</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Boukal</surname>
+<given-names>DS</given-names>
+</name>
+</person-group>
+<article-title>Foraging and vulnerability traits modify predator-prey body mass allometry: freshwater macroinvertebrates as a case study</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>82</volume>
+<issue>5</issue>
+<fpage>1031</fpage>
+<lpage>1041</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2656.12078</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Kuznetsova, Brockhoff &amp; Christensen (2016)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Kuznetsova</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Brockhoff</surname>
+<given-names>PB</given-names>
+</name>
+<name>
+<surname>Christensen</surname>
+<given-names>RHB</given-names>
+</name>
+</person-group>
+<data-title>lmerTest: tests in linear mixed effects models</data-title>
+<year iso-8601-date="2016">2016</year>
+<version designator="2.0-30">R package Version 2.0-30</version>
+<uri>https://CRAN.R-project.org/package=lmerTest</uri>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Laliberté &amp; Legendre (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Laliberté</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Legendre</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>A distance-based framework for measuring functional diversity from multiple traits</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>91</volume>
+<issue>1</issue>
+<fpage>299</fpage>
+<lpage>305</lpage>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Laliberté, Legendre &amp; Shipley (2014)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Laliberté</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Legendre</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Shipley</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<data-title>FD: measuring functional diversity from multiple traits, and other tools for functional ecology</data-title>
+<year iso-8601-date="2014">2014</year>
+<version designator="1.0-12">R package version 1.0-12</version>
+<uri>http://idg.pl/mirrors/CRAN/web/packages/FD/FD.pdf</uri>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Lappalainen et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lappalainen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rask</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Koponen</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Vesala</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Relative abundance, diet and growth of perch (<italic>Perca fluviatilis</italic>) and roach (<italic>Rutilus rutilus</italic>) at Tvaerminne, northern Baltic Sea, in 1975 and 1997: responses to eutrophication?</article-title>
+<source>Boreal Environment Research</source>
+<year iso-8601-date="2001">2001</year>
+<volume>6</volume>
+<issue>2</issue>
+<fpage>107</fpage>
+<lpage>118</lpage>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Mattila &amp; Bonsdorff (1988)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mattila</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>A quantitative estimation of fish predation on shallow soft bottom benthos in SW Finland</article-title>
+<source>Kieler Meeresforschung</source>
+<year iso-8601-date="1988">1988</year>
+<volume>6</volume>
+<fpage>111</fpage>
+<lpage>125</lpage>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Mattila &amp; Bonsdorff (1989)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mattila</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>The impact of fish predation on shallow soft bottoms in brackish waters (SW Finland); an experimental study</article-title>
+<source>Netherlands Journal of Sea Research</source>
+<year iso-8601-date="1989">1989</year>
+<volume>23</volume>
+<issue>1</issue>
+<fpage>69</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="doi">10.1016/0077-7579(89)90044-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Mouillot et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mouillot</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Villéger</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Scherer-Lorenzen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Mason</surname>
+<given-names>NWH</given-names>
+</name>
+</person-group>
+<article-title>Functional structure of biological communities predicts ecosystem multifunctionality</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2011">2011</year>
+<volume>6</volume>
+<issue>3</issue>
+<elocation-id>e17476</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0017476</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Nagelkerke &amp; Rossberg (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nagelkerke</surname>
+<given-names>LAJ</given-names>
+</name>
+<name>
+<surname>Rossberg</surname>
+<given-names>AG</given-names>
+</name>
+</person-group>
+<article-title>Trophic niche-space imaging, using resource and consumer traits</article-title>
+<source>Theoretical Ecology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>7</volume>
+<issue>4</issue>
+<fpage>423</fpage>
+<lpage>434</lpage>
+<pub-id pub-id-type="doi">10.1007/s12080-014-0229-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Olsson, Bergström &amp; Gårdmark (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Olsson</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bergström</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Gårdmark</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Top-down regulation, climate and multi-decadal changes in coastal zoobenthos communities in two Baltic sea areas</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2013">2013</year>
+<volume>8</volume>
+<issue>5</issue>
+<elocation-id>e64767</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0064767</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Persson (1983)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Persson</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Effects of intra- and interspecific competition on dynamics and size structure of a perch <italic>Perca fluviatilis</italic> and a roach <italic>Rutilus rutilus</italic> population</article-title>
+<source>Oikos</source>
+<year iso-8601-date="1983">1983</year>
+<volume>41</volume>
+<issue>1</issue>
+<fpage>126</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="doi">10.2307/3544354</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Petchey &amp; Gaston (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Petchey</surname>
+<given-names>OL</given-names>
+</name>
+<name>
+<surname>Gaston</surname>
+<given-names>KJ</given-names>
+</name>
+</person-group>
+<article-title>Functional diversity: back to basics and looking forward</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2006">2006</year>
+<volume>9</volume>
+<issue>6</issue>
+<fpage>741</fpage>
+<lpage>758</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2006.00924.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Pimm, Lawton &amp; Cohen (1991)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pimm</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Lawton</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Cohen</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Food web patterns and their consequences</article-title>
+<source>Nature</source>
+<year iso-8601-date="1991">1991</year>
+<volume>350</volume>
+<issue>6320</issue>
+<fpage>669</fpage>
+<lpage>674</lpage>
+<pub-id pub-id-type="doi">10.1038/350669a0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Pyke, Pulliam &amp; Charnov (1977)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pyke</surname>
+<given-names>GH</given-names>
+</name>
+<name>
+<surname>Pulliam</surname>
+<given-names>HR</given-names>
+</name>
+<name>
+<surname>Charnov</surname>
+<given-names>EL</given-names>
+</name>
+</person-group>
+<article-title>Optimal foraging: a selective review of theory and tests</article-title>
+<source>Quarterly Review of Biology</source>
+<year iso-8601-date="1977">1977</year>
+<volume>52</volume>
+<issue>2</issue>
+<fpage>137</fpage>
+<lpage>154</lpage>
+<pub-id pub-id-type="doi">10.1086/409852</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Quillien et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Quillien</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Nordström</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Schaal</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Grall</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Opportunistic basal resource simplifies food web structure and functioning of a highly dynamic marine environment</article-title>
+<source>Journal of Experimental Marine Biology and Ecology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>477</volume>
+<fpage>92</fpage>
+<lpage>102</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jembe.2016.01.010</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>R Development Core Team (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>R Development Core Team</institution>
+</collab>
+</person-group>
+<source>R: A language and environment for statistical computing</source>
+<year iso-8601-date="2013">2013</year>
+<publisher-loc>Vienna</publisher-loc>
+<publisher-name>The R Foundation for Statistical Computing</publisher-name>
+<uri>http://www.Rproject.org/</uri>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Rodríguez-Lozano et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rodríguez-Lozano</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Verkaik</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Maceda-Veiga</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Monroy</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>De Sostoa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rieradevall</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Prat</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>A trait-based approach reveals the feeding selectivity of a small endangered Mediterranean fish</article-title>
+<source>Ecology and Evolution</source>
+<year iso-8601-date="2016">2016</year>
+<volume>6</volume>
+<fpage>3299</fpage>
+<lpage>3310</lpage>
+<pub-id pub-id-type="doi">10.1002/ece3.2117</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Rossberg, Brännström &amp; Dieckmann (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rossberg</surname>
+<given-names>AG</given-names>
+</name>
+<name>
+<surname>Brännström</surname>
+<given-names>Å</given-names>
+</name>
+<name>
+<surname>Dieckmann</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<article-title>How trophic interaction strength depends on traits</article-title>
+<source>Theoretical Ecology</source>
+<year iso-8601-date="2010">2010</year>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>13</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="doi">10.1007/s12080-009-0049-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Rusch et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rusch</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Birkhofer</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bommarco</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>HG</given-names>
+</name>
+<name>
+<surname>Ekbom</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Predator body sizes and habitat preferences predict predation rates in an agroecosystem</article-title>
+<source>Basic and Applied Ecology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>16</volume>
+<issue>3</issue>
+<fpage>250</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="doi">10.1016/j.baae.2015.02.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Schmitz &amp; Barton (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schmitz</surname>
+<given-names>OJ</given-names>
+</name>
+<name>
+<surname>Barton</surname>
+<given-names>BT</given-names>
+</name>
+</person-group>
+<article-title>Climate change effects on behavioral and physiological ecology of predator–prey interactions: implications for conservation biological control</article-title>
+<source>Biological Control</source>
+<year iso-8601-date="2014">2014</year>
+<volume>75</volume>
+<fpage>87</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocontrol.2013.10.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Snickars, Weigel &amp; Bonsdorff (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Snickars</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Weigel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Impact of eutrophication and climate change on fish and zoobenthos in coastal waters of the Baltic sea</article-title>
+<source>Marine Biology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>162</volume>
+<issue>1</issue>
+<fpage>141</fpage>
+<lpage>151</lpage>
+<pub-id pub-id-type="doi">10.1007/s00227-014-2579-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Spitz, Ridoux &amp; Brind’Amour (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Spitz</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ridoux</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Brind’Amour</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Let’s go beyond taxonomy in diet description: testing a trait-based approach to prey-predator relationships</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>83</volume>
+<issue>5</issue>
+<fpage>1137</fpage>
+<lpage>1148</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2656.12218</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Thébault &amp; Loreau (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Thébault</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Loreau</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Food-web constraints on biodiversity-ecosystem functioning relationships</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2003">2003</year>
+<volume>100</volume>
+<issue>25</issue>
+<fpage>14949</fpage>
+<lpage>14954</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.2434847100</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Tilman et al. (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tilman</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Knops</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wedin</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Reich</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Ritchie</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Siemann</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>The influence of functional diversity and composition on ecosystem processes</article-title>
+<source>Science</source>
+<year iso-8601-date="1997">1997</year>
+<volume>277</volume>
+<issue>5330</issue>
+<fpage>1300</fpage>
+<lpage>1302</lpage>
+<pub-id pub-id-type="doi">10.1126/science.277.5330.1300</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Törnroos &amp; Bonsdorff (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Törnroos</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Developing the multitrait concept for functional diversity: lessons from a system rich in functions but poor in species</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2012">2012</year>
+<volume>22</volume>
+<issue>8</issue>
+<fpage>2221</fpage>
+<lpage>2236</lpage>
+<pub-id pub-id-type="doi">10.1890/11-2042.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Tylianakis et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tylianakis</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Didham</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Bascompte</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Wardle</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Global change and species interactions in terrestrial ecosystems</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2008">2008</year>
+<volume>11</volume>
+<issue>12</issue>
+<fpage>1351</fpage>
+<lpage>1363</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2008.01250.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Vadas (1977)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vadas</surname>
+<given-names>RL</given-names>
+</name>
+</person-group>
+<article-title>Preferential feeding: an optimization strategy in sea urchins</article-title>
+<source>Ecological Monographs</source>
+<year iso-8601-date="1977">1977</year>
+<volume>47</volume>
+<issue>4</issue>
+<fpage>337</fpage>
+<lpage>371</lpage>
+<pub-id pub-id-type="doi">10.2307/1942173</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Walther (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Walther</surname>
+<given-names>GR</given-names>
+</name>
+</person-group>
+<article-title>Community and ecosystem responses to recent climate change</article-title>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2010">2010</year>
+<volume>365</volume>
+<issue>1549</issue>
+<fpage>2019</fpage>
+<lpage>2024</lpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2010.0021</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Weigel et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weigel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Andersson</surname>
+<given-names>HC</given-names>
+</name>
+<name>
+<surname>Meier</surname>
+<given-names>HEM</given-names>
+</name>
+<name>
+<surname>Blenckner</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Snickars</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Long-term progression and drivers of coastal zoobenthos in a changing system</article-title>
+<source>Marine Ecology Progress Series</source>
+<year iso-8601-date="2015">2015</year>
+<volume>528</volume>
+<fpage>141</fpage>
+<lpage>159</lpage>
+<pub-id pub-id-type="doi">10.3354/meps11279</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Weigel, Blenckner &amp; Bonsdorff (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weigel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Blenckner</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Data from: Maintained functional diversity in benthic communities in spite of diverging functional identities</article-title>
+<source>Dryad Digital Repository</source>
+<year iso-8601-date="2015">2015</year>
+<pub-id pub-id-type="doi">10.5061/dryad.6hc8q</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Weigel, Blenckner &amp; Bonsdorff (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weigel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Blenckner</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Maintained functional diversity in benthic communities in spite of diverging functional identities</article-title>
+<source>Oikos</source>
+<year iso-8601-date="2016">2016</year>
+<volume>125</volume>
+<issue>10</issue>
+<fpage>1421</fpage>
+<lpage>1433</lpage>
+<pub-id pub-id-type="doi">10.1111/oik.02894</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Winkler &amp; Debus (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Winkler</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Debus</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Is the polychaete <italic>Marenzelleria viridis</italic> an important food item for fish?</article-title>
+<source>Proceedings of the 13th Symposium of the Baltic Marine Biologists</source>
+<year iso-8601-date="1996">1996</year>
+<volume>13</volume>
+<fpage>147</fpage>
+<lpage>151</lpage>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Yen et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yen</surname>
+<given-names>JDL</given-names>
+</name>
+<name>
+<surname>Cabral</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Cantor</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hatton</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Kortsch</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Patrício</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Yamamichi</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Linking structure and function in food webs: maximization of different ecological functions generates distinct food web structures</article-title>
+<source>Journal of Animal Ecology</source>
+<year iso-8601-date="2016">2016</year>
+<volume>85</volume>
+<issue>2</issue>
+<fpage>537</fpage>
+<lpage>547</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2656.12484</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>Yletyinen et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yletyinen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bodin</surname>
+<given-names>Ö</given-names>
+</name>
+<name>
+<surname>Weigel</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Nordström</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Bonsdorff</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Blenckner</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Regime shifts in marine communities: a complex systems perspective on food web dynamics</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2016">2016</year>
+<volume>283</volume>
+<issue>1825</issue>
+<fpage>20152569</fpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2015.2569</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

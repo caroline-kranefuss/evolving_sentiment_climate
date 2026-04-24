@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">16367</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.16367</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Biodiversity</subject>
+               <subject>Conservation Biology</subject>
+               <subject>Ecology</subject>
+               <subject>Plant Science</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Enhancing restoration success of rare plants in an arid-tropical climate through water-saving technologies: a case study of <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> in the Galapagos Islands</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author">
+               <name>
+                  <surname>Plunkett</surname>
+                  <given-names>Esme</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Negoita</surname>
+                  <given-names>Luka</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref></contrib>
+            <contrib id="author-3" contrib-type="author">
+               <name>
+                  <surname>Sevilla</surname>
+                  <given-names>Christian</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref></contrib>
+            <contrib id="author-4" contrib-type="author">
+               <name>
+                  <surname>Velasco</surname>
+                  <given-names>Nicolás</given-names>
+               </name><xref ref-type="aff" rid="aff-1">1</xref><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-5" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Jaramillo Díaz</surname>
+                  <given-names>Patricia</given-names>
+               </name>
+               <email>patricia.jaramillo@fcdarwin.org.ec</email><xref ref-type="aff" rid="aff-1">1</xref><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Charles Darwin Foundation</institution>, <city>Puerto Ayora</city>, <state>Galapagos Islands</state>, <country>Ecuador</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Galapagos National Park Directorate</institution>, <city>Puerto Ayora</city>, <state>Galapagos Islands</state>, <country>Ecuador</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Institute for Evolutionary Life Sciences, University of Groningen</institution>, <city>Groningen</city>, <country>Netherlands</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Department of Botany and Plant Physiology, Universidad de Málaga</institution>, <city>Málaga</city>, <country>Spain</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Jaffé</surname>
+                  <given-names>Rodolfo</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-12-06">
+            <day>6</day>
+            <month>12</month>
+            <year iso-8601-date="2023">2023</year>
+         </pub-date>
+         <volume>11</volume>
+         <elocation-id>e16367</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2022-05-13">
+               <day>13</day>
+               <month>5</month>
+               <year iso-8601-date="2022">2022</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2023-10-06">
+               <day>6</day>
+               <month>10</month>
+               <year iso-8601-date="2023">2023</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2023 Plunkett et al.</copyright-statement>
+            <copyright-year>2023</copyright-year>
+            <copyright-holder>Plunkett et al.</copyright-holder>
+            <license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/16367"/>
+         <abstract>
+            <p>Arid tropical archipelagos, such as the Galapagos Islands, host a high concentration of endemic plant species, many of which require restoration intervention to recover from past environmental degradation. Water-saving technologies (WSTs) have potential for hastening restoration by providing plants with additional water during the early stages of growth. However, it remains unclear whether such technologies provide an advantage for plant species of arid-tropical regions. This study examined the effect of the water-saving technology Groasis Waterboxx® (Groasis) on the rare endemic plant species <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> during early stages of restoration. Survival was monitored for 374 individuals planted across six sites on Santa Cruz Island, Galapagos (326 with technology and 48 as controls). Kaplan-Meier survival analysis showed that the use of Groasis reduced mortality during the first two years of the seedling survival. A mixed-effect logistic regression that modelled plant survival as a function of total precipitation, maximum temperature, and WST treatment (Groasis and no-technology control) found that despite low overall survival rates, plants grown with Groasis exhibited a three-fold higher predicted survival by the end of the 3.7 year duration of the study. Finally, through a resampling method, we demonstrate that the effect of the WST treatment is not dependent on the unbalanced design typical of a restoration project framework. We conclude that water-saving technologies such as the Groasis Waterboxx® can enhance survival of rare plant species such as <italic>S. affinis</italic> ssp. <italic>brachyloba</italic> in restoration programs in arid-tropical regions.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Ecological restoration</kwd>
+            <kwd>Galapagos</kwd>
+            <kwd><italic>Scalesia affinis</italic></kwd>
+            <kwd>Groasis Waterboxx</kwd>
+            <kwd>Endemic</kwd>
+            <kwd>Plants</kwd>
+            <kwd>Water-saving technologies</kwd>
+            <kwd>Islands</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>COmON Foundation and the BESS Forest Club</funding-source>
+            </award-group>
+            <funding-statement>Funding was provided by the COmON Foundation and the BESS Forest Club. There was no additional external funding received for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Despite occupying less than 5% of the global terrestrial area, oceanic islands are home to &gt;20% of the planet’s terrestrial plant and vertebrate species (<xref ref-type="bibr" rid="ref-8">Courchamp et al., 2014</xref>). The Galapagos archipelago and its flora are no exception, with 37% of its plant taxa as endemic (<xref ref-type="bibr" rid="ref-49">Tye &amp; Francisco-Ortega, 2011</xref>). Despite its globally recognized significance, the Galapagos flora is currently under high levels of degradation (<xref ref-type="bibr" rid="ref-26">Jaramillo et al., 2013</xref>) and extinction risk (<xref ref-type="bibr" rid="ref-47">Tye, 2007</xref>) which has led to Galapagos flora becoming the focus of major restoration activities in the last decade (<xref ref-type="bibr" rid="ref-27">Jaramillo et al., 2020</xref>). In the Galapagos, as in other arid tropic regions, dry forest species are some of the most threatened species due to land-use change and stochastic rainfall seasonality, which can undermine regeneration (<xref ref-type="bibr" rid="ref-35">Myers, Mittermeier &amp; Mittermeier, 2000</xref>; <xref ref-type="bibr" rid="ref-31">Khurana &amp; Singh, 2001</xref>; <xref ref-type="bibr" rid="ref-49">Tye &amp; Francisco-Ortega, 2011</xref>; <xref ref-type="bibr" rid="ref-11">Gillespie et al., 2013</xref>).</p>
+         <p>The scarcity of water and high summer temperatures in arid environments are some of the main challenges of restoration programs in these climates (<xref ref-type="bibr" rid="ref-6">Cabin et al., 2002</xref>; <xref ref-type="bibr" rid="ref-51">Will et al., 2013</xref>). Although tropical climates have wet summers, climate change has altered rainfall predictability, making plants more prone to senesce when water is scarce (<xref ref-type="bibr" rid="ref-38">Nieuwolt, 1991</xref>; <xref ref-type="bibr" rid="ref-2">Anderegg, Anderegg &amp; Berry, 2013</xref>). Water-saving technologies (WSTs) (<italic>i.e.,</italic> equipment or tools that can reduce the changing levels of water balance in soil) can improve seedling survival by providing regular supplies of water and have been useful in restoration programs in other arid regions around the world (<xref ref-type="bibr" rid="ref-27">Jaramillo et al., 2020</xref>). WSTs have the potential to accelerate Galapagos plant species’ restoration by making them less susceptible to rainfall seasonality. For example, given that water limitation has been identified as a key driver of seedling survival, preliminary restoration activities with these technologies have shown promising results (<xref ref-type="bibr" rid="ref-43">Tapia et al., 2019</xref>; <xref ref-type="bibr" rid="ref-36">Negoita, Gibbs &amp; Jaramillo, 2021</xref>).</p>
+         <p>We focused on <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> as a model taxon to investigate the effect of WSTs on improving species restoration. In 2013, the Charles Darwin Foundation (CDF), <italic>via</italic> the Galapagos Verde 2050 (GV2050) program, began an initiative to increase populations of <italic>Scalesia</italic> spp., with a particular focus on <italic>S. affinis</italic> ssp. <italic>brachyloba</italic> which only grows in arid-tropical conditions (<xref ref-type="bibr" rid="ref-5">Beck et al., 2018</xref>) in the south-west border of Santa Cruz Island (<xref ref-type="bibr" rid="ref-16">Harling, 1962</xref>). The species’ has evergreen leaves and a long taproot, functional characteristics for a dry environment (<xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>), making it an ideal candidate for testing the potential value of WSTs. Results from this study may also be useful for understanding other species in this genus. <italic>Scalesia</italic> (Asteraceae) is the most diverse of seven endemic genera of the Galapagos, with 15 species and more than 20 taxa, and is often cited as a prominent example of adaptive radiation (<xref ref-type="bibr" rid="ref-1">Adsersen &amp; Svendsen, 1986</xref>; <xref ref-type="bibr" rid="ref-9">Eliasson, 1974</xref>; <xref ref-type="bibr" rid="ref-46">Tye, 2003</xref>) from colonizing barren lava fields, to forming a forest canopy (<xref ref-type="bibr" rid="ref-13">Hamann, 1979a</xref>; <xref ref-type="bibr" rid="ref-21">Itow, 1995</xref>; <xref ref-type="bibr" rid="ref-30">Kelager &amp; Philipp, 2008</xref>; <xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>; <xref ref-type="bibr" rid="ref-50">Watson et al., 2009</xref>). Many <italic>Scalesia</italic> spp. are threatened by anthropogenic habitat changes, introduced species, and the changing climate (<xref ref-type="bibr" rid="ref-33">Lawesson, 1986</xref>; <xref ref-type="bibr" rid="ref-7">Caujapé-Castells et al., 2010</xref>). The population of <italic>S. affinis</italic> ssp. <italic>brachyloba</italic> (hereafter <italic>S. brachyloba</italic>) on Santa Cruz Island has dramatically declined (<xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>). The historical distribution of the taxa was in the same area where the human settlements have established and expanded on Santa Cruz Island (<xref ref-type="bibr" rid="ref-16">Harling, 1962</xref>; <xref ref-type="bibr" rid="ref-50">Watson et al., 2009</xref>; <xref ref-type="bibr" rid="ref-20">INEC, 2015</xref>). By the year 2000 the population of <italic>S. brachyloba</italic> within the main town of Puerto Ayora was recorded at five individuals (<xref ref-type="bibr" rid="ref-37">Nielsen, 2004</xref>; <xref ref-type="bibr" rid="ref-30">Kelager &amp; Philipp, 2008</xref>), and by 2007 all areas with previously large populations of <italic>S. brachyloba</italic> had seen population declines (<xref ref-type="bibr" rid="ref-24">Jaramillo, 2007</xref>). Low natural and assisted regeneration of the species hinders its restoration. For example, the species may reach only 17% survival 3 months after germination, and 19% one year after transplanting to the wild (<xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>).</p>
+         <p>Here we aim to use <italic>S. brachyloba</italic> both as a study taxon for evaluating the effect of a water-saving technology (Groasis Waterboxx®, hereafter just “Groasis”) on dry forest species, but results may also inform future restoration efforts of this species on Santa Cruz Island, Galapagos. Through this process we also account for the influence of the two main factors that shape arid-tropical climates: precipitation and maximum temperature.</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials &amp; Methods</title>
+         <p>Through regular monitoring over six years, we collected data on the survival of <italic>S. brachyloba</italic> seedlings that were planted (under National Park permission N° PC-10-21) using treatments that included Groasis and controls (no technology). We also used available data from associated environmental conditions (<xref ref-type="bibr" rid="ref-27">Jaramillo et al., 2020</xref>).</p>
+         <sec>
+            <title>Study area, sites, and target species</title>
+            <p>Our study sites were based on the southwest border of Santa Cruz Island (−0.7351, −90.3089)—the second largest island on the Galapagos archipelago (<xref ref-type="bibr" rid="ref-17">Helsen et al., 2009</xref>), in the dry lowland zone of the island. The climate in this zone is arid tropical with a median annual rainfall of 227 mm, though 71% of this precipitation occurs during the wet season months of January through May and mean monthly temperature ranging from 19° to 30.5 °C (<xref ref-type="bibr" rid="ref-5">Beck et al., 2018</xref>; <xref ref-type="bibr" rid="ref-45">Trueman &amp; D’Ozouville, 2010</xref>). Vegetation community is mostly xeric, composed by <italic>S. affinis</italic>, <italic>Oputia echios</italic> and <italic>Croton scouleri</italic> (<xref ref-type="bibr" rid="ref-19">Huttel, 1986</xref>). Soils are mainly clay or clay-loam (<xref ref-type="bibr" rid="ref-18">Hengl et al., 2017</xref>). We studied <italic>S. brachyloba</italic> at six sites which totaled an area of one hectare and were all locations where <italic>S. brachyloba</italic> had been historically found—locations that were confirmed by samples in the CDF Herbarium (<xref ref-type="bibr" rid="ref-25">Jaramillo et al., 2018</xref>), observations, and photographs (<xref ref-type="bibr" rid="ref-24">Jaramillo, 2007</xref>; <xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>) (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Two sites correspond to natural populations: one site was an enclosed area of national park land in an area called ‘Garrapatero’ in the southeast of the island and another site called ‘Mirador’ was on public land in Puerto Ayora (<xref ref-type="bibr" rid="ref-28">Jaramillo, Tapia &amp; Tye, 2018</xref>). The other four sites were all small gardens located in Puerto Ayora, Galapagos at the Biosecurity Agency (GBA), the Galapagos National High School, the offices of the Galapagos National Park Directorate (GNPD), and the Charles Darwin Research Station (CDRS) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16367/table-1</object-id><label>Table 1</label><caption>
+                  <title>Planting age summary of <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> by study site, treatment and planting date.</title>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th><bold>Site</bold></th>
+                           <th><bold>Treatment</bold></th>
+                           <th><bold>Count</bold></th>
+                           <th><bold>Mean</bold></th>
+                           <th/>
+                           <th><bold>SD</bold></th>
+                           <th><bold>Median</bold></th>
+                           <th><bold>CI_Lower</bold></th>
+                           <th><bold>CI_Upper</bold></th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td rowspan="2">GBA</td>
+                           <td>Control</td>
+                           <td>1</td>
+                           <td>124,0</td>
+                           <td>±</td>
+                           <td>NA</td>
+                           <td>124</td>
+                           <td>NA</td>
+                           <td>NA</td>
+                        </tr>
+                        <tr>
+                           <td>Groasis</td>
+                           <td>30</td>
+                           <td>510,7</td>
+                           <td>±</td>
+                           <td>560,6</td>
+                           <td>124</td>
+                           <td>301,4</td>
+                           <td>720,1</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="2">CDF</td>
+                           <td>Control</td>
+                           <td>3</td>
+                           <td>456,7</td>
+                           <td>±</td>
+                           <td>456,8</td>
+                           <td>305</td>
+                           <td>0,0</td>
+                           <td>1591,4</td>
+                        </tr>
+                        <tr>
+                           <td>Groasis</td>
+                           <td>22</td>
+                           <td>650,2</td>
+                           <td>±</td>
+                           <td>539,6</td>
+                           <td>407</td>
+                           <td>410,9</td>
+                           <td>889,4</td>
+                        </tr>
+                        <tr>
+                           <td>Galapagos College</td>
+                           <td>Groasis</td>
+                           <td>4</td>
+                           <td>1277,0</td>
+                           <td>±</td>
+                           <td>8,0</td>
+                           <td>1273</td>
+                           <td>1264,3</td>
+                           <td>1289,7</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="2">Garrapatero</td>
+                           <td>Control</td>
+                           <td>25</td>
+                           <td>60,6</td>
+                           <td>±</td>
+                           <td>29,3</td>
+                           <td>42</td>
+                           <td>48,6</td>
+                           <td>72,7</td>
+                        </tr>
+                        <tr>
+                           <td>Groasis</td>
+                           <td>155</td>
+                           <td>350,8</td>
+                           <td>±</td>
+                           <td>255,0</td>
+                           <td>297</td>
+                           <td>310,4</td>
+                           <td>391,3</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="2">GNP</td>
+                           <td>Control</td>
+                           <td>1</td>
+                           <td>1352,0</td>
+                           <td>±</td>
+                           <td>NA</td>
+                           <td>1352</td>
+                           <td>NA</td>
+                           <td>NA</td>
+                        </tr>
+                        <tr>
+                           <td>Groasis</td>
+                           <td>5</td>
+                           <td>844,2</td>
+                           <td>±</td>
+                           <td>564,2</td>
+                           <td>1130</td>
+                           <td>143,7</td>
+                           <td>1544,7</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="2">Mirador</td>
+                           <td>Control</td>
+                           <td>18</td>
+                           <td>131,9</td>
+                           <td>±</td>
+                           <td>308,5</td>
+                           <td>46</td>
+                           <td>0,0</td>
+                           <td>285,3</td>
+                        </tr>
+                        <tr>
+                           <td>Groasis</td>
+                           <td>110</td>
+                           <td>625,3</td>
+                           <td>±</td>
+                           <td>476,4</td>
+                           <td>583</td>
+                           <td>535,3</td>
+                           <td>715,3</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+               <table-wrap-foot><fn id="table-1fn"><p><bold>Notes.</bold></p></fn><fn id="table-1fn1" fn-type="other"><p>Count = number of plants used. Summaries are mean planting age (days ± SD) and median planting age plus the lower and upper limit for its 95% confidence interval.</p></fn></table-wrap-foot>
+            </table-wrap>
+            <fig id="fig-1">
+               <object-id pub-id-type="doi">10.7717/peerj.16367/fig-1</object-id><label>Figure 1</label><caption>
+                  <title>Map of the <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> restoration study sites on Santa Cruz Island, Galapagos.</title>
+                  <p>Puerto Ayora is the town in which the four garden study sites were located in. GNS, Galapagos National School; CDRS, Charles Darwin Research Station; GBA, Galapagos Biosecurity Agency; GNPD, Galapagos National Park Directorate.</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/fig-1.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>Plantings and water-saving technology</title>
+            <p><italic>S. brachyloba</italic> were germinated in the CDRS laboratories from seeds collected from naturally occurring individuals, then transferred to pots kept in a shade-house and monitored for 12 weeks, before being planted across the study sites. From 2013 to 2017, 374 individuals were planted at the six study sites: Garrapatero (<italic>n</italic> = 180), Mirador (<italic>n</italic> = 128), GBA garden (<italic>n</italic> = 31), CDRS garden (<italic>n</italic> = 25), Galapagos National School (<italic>n</italic> = 4), and GNPD garden (<italic>n</italic> = 6). Since the study was conducted within a restoration framework, plants that died were replaced with new seedlings during subsequent monitoring trips. Individuals were planted either using the WST Groasis or without a WST (controls). The Groasis is a donut-shaped polypropylene tub with a lid designed to collect rainwater and store it within the tub (<xref ref-type="bibr" rid="ref-12">Groasis®, 2019</xref>). The bottom of the tub has a section of rope that wicks water to the area of the plant roots <italic>via</italic> capillary action. Additionally, the box reduces evaporation of surface water and the growth of weeds around the plant (<xref ref-type="bibr" rid="ref-27">Jaramillo et al., 2020</xref>). Each Groasis was filled with 20 liters of water at the time of planting and controls were planted directly into the ground with 5 liters of water, which is the conventional maximum amount that park rangers from the Galapagos National Park use for other restoration plantings. Following planting, controls did not receive any additional water other than natural precipitation. In contrast, as per the recommended Groasis protocol, Groasis tubs were filled with 15 litres of water every three to four months from 2014 to 2018, or when the tubs had fully drained. Groasis is hypothesized to aid the survival of <italic>S. brachyloba</italic> by providing a constant water supply to the taproots, which mimics natural conditions of lava cracks (where the species have a potentially higher survival; <xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>). This was carried out by a conservation program aimed to maximize species survival. Therefore, due to the potential benefits of using Groasis, as well as the limited resources to grow and plant seedlings of this threatened species, we decided to reduce the number of controls, leading to an unbalanced experimental design (one control used for every 6.75 individual planted with Groasis). In total between all sites, 326 plants were planted with Groasis, and 48 were planted as controls due to the higher expected mortality (<xref ref-type="bibr" rid="ref-3">Atkinson, Jaramillo &amp; Tapia, 2009</xref>). Treatment was randomly assigned to each plant in the study.</p>
+            <p>Each individual plant was given a unique code and its survival monitored every three-to-four month after planting. The Groasis was removed at the point just before each plant had grown too large to fit through the center Groasis hole, approximately two years after planting. Monitoring of an individual was terminated after it died. Although the monitoring is ongoing, data presented here are from the first six years of the study: 2014–2020.</p>
+         </sec>
+         <sec>
+            <title>Weather data</title>
+            <p>Weather conditions were determined from daily precipitation and temperature data available from the CDRS weather station (Charles Darwin Foundation 2020) in Puerto Ayora, Santa Cruz Island, for the period 1970–2020. These data were used to calculate total precipitation and maximum temperature across each monitoring interval (<italic>i.e.,</italic> approximately three to four months). Total precipitation corresponds to the sum of daily precipitation for the period assessed, and for maximum temperature, the median value was used for each interval to reduce the effect of outliers (<italic>i.e.,</italic> extreme values). As the time of planting was different between sites and even between plants within the site (<italic>i.e.,</italic> plants subsequently replaced or added), the monitoring interval was always 3-4 months, but the number of monitoring events for each plant varied.</p>
+         </sec>
+         <sec>
+            <title>Effect of treatment in raw survival data</title>
+            <p>The effect of treatment (Groasis) <italic>versus</italic> the control was initially visualized using Kaplan–Meier (KM) survival curves (<italic>i.e.,</italic> predicted percentage of plants alive through time). For this, raw survival data was summarized by treatment for each planting age (<italic>i.e.,</italic> time since planting) with a 95% confidence interval. KM survival curves were calculated using the package ‘survival’ (<xref ref-type="bibr" rid="ref-44">Therneau, 2022</xref>) and were plotted using the package ‘survminer’ (<xref ref-type="bibr" rid="ref-29">Kassambara et al., 2017</xref>). These and all remaining statistical analyses were conducted using the R statistical language version 4.2.1 (<xref ref-type="bibr" rid="ref-40">R Core Team, 2022</xref>).</p>
+         </sec>
+         <sec>
+            <title>Effect of treatments and other factors on seedling survival</title>
+            <p>A regression modeling approach was used to test the effect of WST treatment, total precipitation, and maximum temperature on plant survival. This was done using a repeated-measures mixed-effect logistic regression with the ‘lme4’ package (<xref ref-type="bibr" rid="ref-4">Bates et al., 2015</xref>), to model the plant survival status at each monitoring date as a function of the three factors. Survival describes whether a plant is alive or dead at the time of monitoring, while treatment indicates if the WST was used (Groasis, <italic>n</italic> = 326; control, <italic>n</italic> = 48). A full model including the interaction between treatment, total precipitation, and maximum temperature was used since the effect of the technology is expected to vary depending on temperature and precipitation. The full model was compared through a series of likelihood ratio tests (LRT) against all null models and combinations including smaller interactions and/or additive terms, through the ‘anova’ function in base R. All models also included planting age in days as an additive term to account for any changes in mortality due to age-related factors. To aid model convergence, maximum temperature and planting age were standardized by subtracting their mean and dividing by twice their standard deviation. Total precipitation was log<sub>10</sub> transformed to scale to similar levels as the other factors. Models initially included <italic>site</italic> and <italic>plant ID</italic> as part of the random effect structure, but the sample size was too low to support this level of model complexity so <italic>site</italic> was dropped and only <italic>plant ID</italic> was included to account for the non-independent repeated measures. Although data collected from some plants covered more than 2000 days of monitoring, we analyzed data to a cap of 1352 days (3.7 years), as after that Groasis and controls had marginal drops in survival.</p>
+         </sec>
+         <sec>
+            <title>Validation of model in resampled data</title>
+            <p>To test whether the effect of treatment is dependent on the unbalanced design, we used a resampling procedure where 5000 random samples without replacement of only 48 Groasis (from the 326) were compared to the controls (<italic>n</italic> = 48), to obtain a Chi-Square distribution statistic. For this, we re-estimate statistics of main factors through a type II Wald Chi-Squared Tests, with the function ‘Anova’ from the ‘car’ package (<xref ref-type="bibr" rid="ref-10">Fox &amp; Weisberg, 2018</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>Plants grown with Groasis generally had a greater planting age at death than those grown without Groasis, with a median survival of at least 1.25 years (455 days, 335 to 569 95% CI) for Groasis compared to 46 days (42 to 95 95% CI) for controls (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). This difference in survival was marked predominantly in the first two years. By 3.7 years of monitoring, both treatments had become more stable, with a three-fold higher survival of Groasis at 16% (± 2% s.e.) compared with controls at 5.1% survival (±3.3% s.e.) (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). For controls, this corresponds to only one plant surviving, in GNP gardens (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+         <fig id="fig-2">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/fig-2</object-id><label>Figure 2</label><caption>
+               <title>Kaplan Meier survival curves for <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> individuals planted using Groasis technology or as controls (no technology).</title>
+               <p>Monitored period from 2014 to 2020. Red dashed line indicates the maximum planting age cap considered for analyses.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/fig-2.png"/>
+         </fig>
+         <p>The selected model had a better performance than all other models tested (<xref ref-type="table" rid="table-2">Table 2</xref>), and we found that all interaction effects were significant predictors of <italic>S. brachyloba</italic> survival [<italic>χ</italic><sup><bold>2</bold></sup> = 116.28 (<italic>df</italic> = 7, <italic>n</italic> = 374), <italic>p</italic> &lt; 0.01 to <italic>χ</italic><sup><bold>2</bold></sup> = 15.5 (<italic>df</italic> = 3, <italic>n</italic> = 374), <italic>p</italic> &lt; 0.01, depending on the models compared]. When controlling for all other factors we found that treatment was a significant predictor of <italic>S. brachyloba</italic> when grown with Groasis (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) (<italic>χ</italic><sup><bold>2</bold></sup> (<italic>df</italic> = 1, <italic>n</italic> = 374) = 48.67, <italic>p</italic> &lt; 0.01), showing a high variation when grown without the technology (control). Since these effects come from a 3-way interaction model, their independent significance should be interpreted with caution, as the main effects are marginal to the full interaction. Treatment remained significant when the interaction was removed on a type II Wald Chi Square test, and when the dataset was balanced by resampling Groasis and controls (48 each) (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>; inset graph). The interaction between the three factors included in the model had an overall positive effect with odds ratio −1 of 16.585 (<xref ref-type="table" rid="table-3">Table 3</xref>). When maximum temperature is segregated in two groups, total precipitation had a positive effect on predicted survival of controls (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), particularly under conditions of 27 °C or below. On the contrary, predicted survival of plants growing with Groasis technology showed a neutral or slightly negative trend with increasing temperature and precipitation. We included planting age to account for any change due to age-related factors, and its trend was negative (<xref ref-type="table" rid="table-3">Table 3</xref>, <xref ref-type="supplementary-material" rid="supp-3">Fig. S1</xref>; coef = −0.41) but its overall effect was non-significant.</p>
+         <table-wrap id="table-2">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/table-2</object-id><label>Table 2</label><caption>
+               <title>Likelihood ratio tests (LRT) results for the full interaction model against all model combinations.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/table-2.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Likelihood ratio test model</bold></th>
+                        <th><italic>χ</italic><sup>2</sup></th>
+                        <th><bold><italic>df</italic></bold></th>
+                        <th><bold><italic>P</italic>-value</bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Null Model</td>
+                        <td>116.286</td>
+                        <td>7</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Null: treatment</td>
+                        <td>65.192</td>
+                        <td>6</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Null: Maximum Temperature</td>
+                        <td>97.039</td>
+                        <td>6</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Null: Total Precipitation</td>
+                        <td>121.488</td>
+                        <td>6</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Add: Treatment + Maximum Temperature</td>
+                        <td>41.466</td>
+                        <td>5</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Add: Treatment + Total Precipitation</td>
+                        <td>63.908</td>
+                        <td>5</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Add: Maximum Temperature + Total Precipitation</td>
+                        <td>94.011</td>
+                        <td>5</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Add: Full</td>
+                        <td>39.802</td>
+                        <td>4</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Inter: Treatment × Maximum Temperature</td>
+                        <td>16.206</td>
+                        <td>4</td>
+                        <td>0.002</td>
+                     </tr>
+                     <tr>
+                        <td>Inter: Treatment × Total Precipitation</td>
+                        <td>44.006</td>
+                        <td>4</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Inter: Maximum Temperature × Total Precipitation</td>
+                        <td>93.912</td>
+                        <td>4</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Inter+: Maximum Temperature × Treatment + Total Precipitation</td>
+                        <td>15.500</td>
+                        <td>3</td>
+                        <td>0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Inter+: Total Precipitation × Treatment + Maximum Temperature</td>
+                        <td>21.007</td>
+                        <td>3</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                     <tr>
+                        <td>Inter+: Total Precipitation × Maximum Temperature + Treatment</td>
+                        <td>39.792</td>
+                        <td>3</td>
+                        <td>&lt;0.001</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-2fn"><p><bold>Notes.</bold></p></fn><fn id="table-2fn1" fn-type="other"><p> 
+                  <def-list id="dl1">
+                     <def-item>
+                        <term> Null Model</term>
+                        <def>
+                           <p>Model without including studied factors</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Null</term>
+                        <def>
+                           <p>only one factor added</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Add</term>
+                        <def>
+                           <p>two factors included as additive terms</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Full</term>
+                        <def>
+                           <p>all factors included</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Inter</term>
+                        <def>
+                           <p>two factors included as interaction</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term> Inter+</term>
+                        <def>
+                           <p>one interaction and one additive term</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn><fn id="table-2fn2" fn-type="other"><p>All models include plant age as a fixed effect and plant ID as a random effect. Statistically significant values (<italic>P</italic> &lt; 0.05) indicates that the more complex model (full interaction) has a better fit to simpler models.</p></fn></table-wrap-foot>
+         </table-wrap>
+         <fig id="fig-3">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/fig-3</object-id><label>Figure 3</label><caption>
+               <title>Predicted survival of <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> individuals planted with Groasis or without it (controls) and resampled treatment significance.</title>
+               <p>Predicted survival and significance statistics between treatments are based on the full interaction model in the full dataset. In the lower-right corner, a distribution of Chi-square values for test treatment significance, based on 5,000 resamples of equal amount of Groasis as the control (<italic>n</italic> = 48), without considering the effect of the interaction (type II Wald Chi Square test). Dashed red line = 0.05. For visualization purpose, small <italic>x</italic>-axis is log<sub>10</sub> transformed.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/fig-3.png"/>
+         </fig>
+         <table-wrap id="table-3">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/table-3</object-id><label>Table 3</label><caption>
+               <title><italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> survival as a function of treatment, total precipitation, and maximum temperature.</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/table-3.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th><bold>Parameters</bold></th>
+                        <th><bold>Coef.</bold></th>
+                        <th><bold>Std. error</bold></th>
+                        <th><bold><italic>Z</italic>-value</bold></th>
+                        <th><bold>Odds ratio − 1</bold></th>
+                        <th><bold><italic>p</italic>-value</bold></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Treatment</td>
+                        <td>1.347</td>
+                        <td>0.641</td>
+                        <td>2.100</td>
+                        <td>2.849</td>
+                        <td>0.036</td>
+                     </tr>
+                     <tr>
+                        <td>TP</td>
+                        <td>0.542</td>
+                        <td>0.494</td>
+                        <td>1.096</td>
+                        <td>0.720</td>
+                        <td>0.273</td>
+                     </tr>
+                     <tr>
+                        <td>MT</td>
+                        <td>4.062</td>
+                        <td>1.387</td>
+                        <td>2.928</td>
+                        <td>57.116</td>
+                        <td>&lt;0.01</td>
+                     </tr>
+                     <tr>
+                        <td>Planting Age</td>
+                        <td>−0.414</td>
+                        <td>0.313</td>
+                        <td>−1.323</td>
+                        <td>−0.339</td>
+                        <td>0.186</td>
+                     </tr>
+                     <tr>
+                        <td>Treatment × TP</td>
+                        <td>−0.624</td>
+                        <td>0.509</td>
+                        <td>−1.225</td>
+                        <td>−0.464</td>
+                        <td>0.220</td>
+                     </tr>
+                     <tr>
+                        <td>Treatment × MT</td>
+                        <td>−5.363</td>
+                        <td>1.4346</td>
+                        <td>−3.738</td>
+                        <td>−0.99</td>
+                        <td>&lt;0.01</td>
+                     </tr>
+                     <tr>
+                        <td>TP × MT</td>
+                        <td>−2.423</td>
+                        <td>0.949</td>
+                        <td>−2.552</td>
+                        <td>−0.911</td>
+                        <td>0.010</td>
+                     </tr>
+                     <tr>
+                        <td>Full Interaction</td>
+                        <td>2.867</td>
+                        <td>0.981</td>
+                        <td>2.920</td>
+                        <td>16.585</td>
+                        <td>&lt;0.01</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-3fn"><p><bold>Notes.</bold></p></fn><fn id="table-3fn1" fn-type="other"><p>Summary of logistic mixed-effect model on <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> survival as a function of treatment, total precipitation (TP), and Maximum Temperature (MT). MT and Plant Age were standardized, and TP was log10 transformed, prior the analyses.</p></fn></table-wrap-foot>
+         </table-wrap>
+         <fig id="fig-4">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/fig-4</object-id><label>Figure 4</label><caption>
+               <title>Predicted probability of survival for <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> as a function of total precipitation (log<sub>10</sub> scaled axis) and standardized maximum temperature, since last monitoring.</title>
+               <p>For visualization purposes, data was separated according to raw temperature values (without transforming them), as “lower (or equal)” and “higher” than 27 °C.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/16367/fig-4.png"/>
+         </fig>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Our results suggest that water limitation is an important factor for the early-stage survival and restoration of <italic>S. brachyloba</italic>. We found that water availability through precipitation increases the survival of this species and the use of Groasis consistently improved survival (<xref ref-type="table" rid="table-3">Table 3</xref>, <xref ref-type="fig" rid="fig-3">Figs. 3</xref> and <xref ref-type="fig" rid="fig-4">4</xref>), probably by providing a balanced input of water. However, survival differences between control and Groasis narrowed two years after planting (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). This coincided with when most Groasis boxes were removed, suggesting that <italic>S. brachyloba</italic> plants may benefit from a longer application of this technology. Additionally, as the study was part of a large-scale restoration project framework, there were certain limitations in the experimental design because not all combinations of treatments could be applied (<italic>e.g.</italic>, applying the same volume of water to Groasis and controls), thus, effects of water availability presented here confounded the application of the Groasis technology.</p>
+         <p>Individuals of <italic>S. brachyloba</italic> usually exhibit resilience in their survival during extended periods of reduced water-availability. Having evolved with regular drought, arid-tropical species such as <italic>S. brachyloba</italic> may be resilient to such conditions (<xref ref-type="bibr" rid="ref-14">Hamann, 1979b</xref>; <xref ref-type="bibr" rid="ref-41">Riedinger et al., 2002</xref>). The Galapagos archipelago’s location is within the El Niño Southern Oscillation (ENSO) region making it subject to drought and rainfall cycles that are especially pronounced during strong events, with some years seeing up to 3 m of annual precipitation (<xref ref-type="bibr" rid="ref-45">Trueman &amp; D’Ozouville, 2010</xref>). Many plant species in Galapagos, including <italic>Scalesia</italic> spp., benefit from short-term increases in rainfall associated with El Niño events (<xref ref-type="bibr" rid="ref-48">Tye &amp; Aldáz, 1999</xref>), as seen in other arid-tropical plant populations following an El Niño event (<xref ref-type="bibr" rid="ref-39">Polis et al., 1997</xref>). This period is followed by a large spike in mortality of adults from long-term exposure to water <italic>via</italic> precipitation. This may explain why the plants grown with Groasis showed a weak negative trend with increasing precipitation (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), indicating that the water added to the technology plus high levels of rainfall may be more than the amount that <italic>S. brachyloba</italic> can withstand. Nonetheless, even the lowest values of predicted survival in Groasis were close to the maximum predicted survival for controls (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>), indicating that even in extremely humid events, too little water has a more detrimental effect on <italic>S. brachyloba</italic> than too much water, providing a support to the value of using Groasis despite intense rainfall events.</p>
+         <p>The Galapagos hot season (<italic>i.e.,</italic> warmer land and sea surface temperatures from January to May and high rainfall variability) principally determines dry-zone species’ annual productivity, such as that of <italic>S. brachyloba</italic> (<xref ref-type="bibr" rid="ref-42">Snell &amp; Rea, 1999</xref>; <xref ref-type="bibr" rid="ref-45">Trueman &amp; D’Ozouville, 2010</xref>; <xref ref-type="bibr" rid="ref-32">Larrea &amp; Di Carlo, 2011</xref>). Our results similarly show that predicted survival was associated with rainfall, and that under lower maximum temperatures (in the June-December cold season) this interaction is more evident (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). Although the test of temperature above or below 27 °C in this study was arbitrary and only for visualization purposes, one possible explanation is that <italic>S. brachyloba</italic> may be more active below certain temperature thresholds. Many tropical forest species are known to have a threshold around 27–29 °C where photosynthesis starts to decline but respiration increases (<xref ref-type="bibr" rid="ref-34">Mau et al., 2018</xref>). Further research addressing temperature threshold for Galapagos’ plant species is needed to evaluate this hypothesis.</p>
+         <p>Overall, most high mortality rates in <italic>S. brachyloba</italic> appeared either after periods of cold temperature and high rainfall (&gt;50 mm per week, maximum temperature &lt;27 °C) (<xref ref-type="supplementary-material" rid="supp-4">Fig. S2</xref>) or after periods of warm temperature and low rainfall (&lt;50 mm per week, maximum temperature &gt;27 °C), indicating two extreme conditions that may constrain species development. The link between high water availability and other <italic>Scalesia</italic> species’ mortality has been attributed to root rot, high winds, and vine overgrowth (<xref ref-type="bibr" rid="ref-48">Tye &amp; Aldáz, 1999</xref>; <xref ref-type="bibr" rid="ref-15">Hamann, 2001</xref>; <xref ref-type="bibr" rid="ref-32">Larrea &amp; Di Carlo, 2011</xref>). While temperature and rainfall influence the species’ survival, the causal mechanism was not addressed in this study. Further research is needed to establish how weather conditions directly shape <italic>S. brachyloba</italic> seedling survival. Research on <italic>S. pedunculata</italic> has shown that large-scale, rainfall-induced mortality makes way for the next cohort of young plants (<xref ref-type="bibr" rid="ref-22">Itow &amp; Mueller-Dombois, 1988</xref>; <xref ref-type="bibr" rid="ref-21">Itow, 1995</xref>; <xref ref-type="bibr" rid="ref-48">Tye &amp; Aldáz, 1999</xref>; <xref ref-type="bibr" rid="ref-15">Hamann, 2001</xref>; <xref ref-type="bibr" rid="ref-32">Larrea &amp; Di Carlo, 2011</xref>; <xref ref-type="bibr" rid="ref-23">Jäger et al., 2017</xref>). Rainfall, especially during extreme weather events, may thus influence the natural regeneration cycles of related species. Similar patterns, though less pronounced, have been found in the mortality and regeneration of five dry-zone <italic>Scalesia</italic> species in response to the high rainfall of El Niño events (<xref ref-type="bibr" rid="ref-48">Tye &amp; Aldáz, 1999</xref>; <xref ref-type="bibr" rid="ref-15">Hamann, 2001</xref>; <xref ref-type="bibr" rid="ref-32">Larrea &amp; Di Carlo, 2011</xref>). All in all, the results of this study are informative in addressing potential planting windows for <italic>S. brachyloba</italic> by avoiding the most extreme conditions.</p>
+         <p>Our study only applies to the first few years of growth in young <italic>S. brachyloba</italic>, a period less than both the species life expectancy and ENSO events; therefore, future research should consider longer-term demographic changes in response to weather conditions. Other challenges of the current study include the large variability between sites. Evaluating site differences were beyond the scope of the study since our goal was to extract general trends on the use of WSTs for the focal species. Nonetheless, future work should seek to further examine the importance of local conditions. For example, no plants survived more than 851 days at the Garrapatero site, which may be due to its much more rural location, where plants may be more susceptible to pest attacks (P Jaramillo, pers. obs., 2019). The overall low sample and imbalanced design is also a fundamental limitation of this study. This is largely due to the focus on conservation of a rare species that is already limited in sample size (<italic>i.e.,</italic> restoring <italic>S. brachyloba</italic>), and retrospective nature of the study (the study was conducted using data that were collected prior to a central experimental design). These limitations reduce the strength with which our results can be generalized, and it is imperative that additional prospective studies are conducted for further assessing the best tools for effectively restoring <italic>S. brachyloba</italic> and other species of conservation concern in Galapagos.</p>
+         <p>Galapagos arid-zone rainfall is largely determined by sea-surface temperatures, and global climate change is expected to create a wetter and warmer climate in the Galapagos (<xref ref-type="bibr" rid="ref-45">Trueman &amp; D’Ozouville, 2010</xref>; <xref ref-type="bibr" rid="ref-32">Larrea &amp; Di Carlo, 2011</xref>). It is more important to understand how these changes may affect endangered species in the Galapagos, especially by examining the effect of water availability and temperature on their survival and growth. This study gives insights into the effects of both factor on the early growth of <italic>S. brachyloba</italic> and shows promise in the use of water-saving technologies to improve survival in the face of climatic fluctuations. However, further investigations into the life cycle of <italic>S. brachyloba</italic> across more conditions and larger time frames are necessary to inform a more complete restoration plan for this species.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>The restoration of endemic species in tropical dry forest ecosystems is needed to prevent the continued degradation of these habitats (<xref ref-type="bibr" rid="ref-11">Gillespie et al., 2013</xref>). Water-saving technology has the potential to increase the survival of dry forest plant species, such as <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic>. This study investigated <italic>S. brachyloba</italic>’ relationship with two main weather conditions in arid-tropical climates: precipitation and maximum temperature, and from this, has been able to determine the effectiveness of a WST on its survival. Application of similar experimental efforts using WSTs on endangered dry forest species may produce similar positive successes, but understanding other factors that impact the species’ early establishment is essential for contributing to the recovery of a globally threatened ecosystem.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/16367/climate_data_raw.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>Climate raw data</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/16367/scalesia_raw_data.csv">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Scalesia raw data</title>
+               <p>Data from monitoring including planting age, date, treatment, treatment_ID, site, survival, planting_day_fct, MaxT, tot_prec</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-3" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/16367/Supplemental_Figure_1.pdf">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/supp-3</object-id><label>Figure S1</label><caption>
+               <title>Predicted survival as function of standardized planting age (SPA)</title>
+               <p>Lower values of SPA indicate younger plants, while higher older ones. In dots: raw binary data of dead and alive plants.</p>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-4" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/16367/Supplemental_Figure_2.pdf">
+            <object-id pub-id-type="doi">10.7717/peerj.16367/supp-4</object-id><label>Figure S2</label><caption>
+               <title>Summary of weekly data of the study</title>
+               <p>(Upper graph) Estimated weekly mortality rate for <italic>Scalesia affinis</italic> ssp. <italic>brachyloba</italic> plantings on Santa Cruz Island; (Mid) Weekly maximum temperature (pink values = equal or lower than 27 °C, blue values = higher than 27 °C); (Lower graph) Weekly total precipitation in millimeters.</p>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We would like to thank the Galapagos National Park Directorate, along with their park rangers both in the field and the plant nursery, especially to Danny Rueda and Rafael Chango, and the team at the GBA(Agencia de Regulación y Control de la Bioseguridad y Cuarentena para Galápagos). This paper is the result of the combined effort by all Galapagos Verde 2050 team members, especially Anna Calle-Loor, Pavel Enríquez, Paúl Mayorga, Danyer Zambrano and David Cevallos, as well as all the local, national, and international volunteers who cared for the plants during their time with the program. We are grateful to GV2050 collaborators team and we thank the constant support of GV2050’s advisors: María del Mar Trigo, James Gibbs and Washington Tapia. Finally, we would like to thank Michael Stewart, James Gibbs and Alan Tye for their helpful comments on this manuscript. The Galapagos Verde 2050 program is under DPNG investigation permission PC-21-20. This publication is contribution number 2364 of the Charles Darwin Foundation for the Galapagos Islands.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors were staff or consultants of the Charles Darwin Foundation (CDF) at the time of this study. The CDF’s Galapagos Verde 2050 program, of which the study was a part, was developed in consultation with the COmON Foundation (<ext-link ext-link-type="uri" xlink:href="https://www.comon.earth/map-of-projects/">https://www.comon.earth/map-of-projects/</ext-link>), which provided funding for the study, is a major donor to the CDF and advises its Board. The equipment evaluated in this study was manufactured by and purchased from Groasis BV, a company independent of COmON but which supplies several COmON initiatives. The authors declare no other competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Esme Plunkett</xref> analyzed the data, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Luka Negoita</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-3" fn-type="con"><p><xref ref-type="contrib" rid="author-3">Christian Sevilla</xref> conceived and designed the experiments, performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-4" fn-type="con"><p><xref ref-type="contrib" rid="author-4">Nicolás Velasco</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the article, and approved the final draft.</p></fn><fn id="contribution-5" fn-type="con"><p><xref ref-type="contrib" rid="author-5">Patricia Jaramillo Díaz</xref> conceived and designed the experiments, performed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Field Study Permissions</title><fn id="addinfo-1"><p>The following information was supplied relating to field study approvals (<italic>i.e</italic>., approving body and any reference numbers):</p>
+            <p>Galapagos National Park Directorate.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-2"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw data is available in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Adsersen &amp; Svendsen (1986)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Adsersen</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Svendsen</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1986">1986</year>
+               <article-title>A comparative study of <italic>Scalesia</italic> species (Asteraceae) by gas chromatographic analysis of the monoterpene hydrocarbons of their essential oils</article-title>
+               <source>Botanical Journal of the Linnean Society</source>
+               <volume>92</volume>
+               <fpage>95</fpage>
+               <lpage>99</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1095-8339.1986.tb01826.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Anderegg, Anderegg &amp; Berry (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Anderegg</surname>
+                     <given-names>LD</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderegg</surname>
+                     <given-names>WR</given-names>
+                  </name>
+                  <name>
+                     <surname>Berry</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Not all droughts are created equal: translating meteorological drought into woody plant mortality</article-title>
+               <source>Tree Physiology</source>
+               <volume>33</volume>
+               <issue>7</issue>
+               <fpage>701</fpage>
+               <lpage>712</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Atkinson, Jaramillo &amp; Tapia (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Atkinson</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Tapia</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Establishing a new population of <italic>Scalesia affinis</italic>, a threatened endemic shrub on Santa Cruz Island, Galapagos, Ecuador</article-title>
+               <source>Conservation Evidence</source>
+               <volume>6</volume>
+               <fpage>42</fpage>
+               <lpage>47</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Bates et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bates</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Mächler</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bolker</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Walker</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Fitting linear mixed-effects models using lme4</article-title>
+               <source>Journal of Statistical Software</source>
+               <volume>67</volume>
+               <fpage>1</fpage>
+               <lpage>48</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Beck et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Beck</surname>
+                     <given-names>HE</given-names>
+                  </name>
+                  <name>
+                     <surname>Zimmerman</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>McVicar</surname>
+                     <given-names>TR</given-names>
+                  </name>
+                  <name>
+                     <surname>Vergopolan</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Berg</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Wood</surname>
+                     <given-names>EF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Present and future Köppen-Geiger climate classification maps at 1-Km resolution</article-title>
+               <source>Scientific Data</source>
+               <volume>5</volume>
+               <fpage>1</fpage>
+               <lpage>12</lpage>
+               <pub-id pub-id-type="doi">10.1038/s41597-018-0002-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Cabin et al. (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cabin</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Weller</surname>
+                     <given-names>SG</given-names>
+                  </name>
+                  <name>
+                     <surname>Lorence</surname>
+                     <given-names>DH</given-names>
+                  </name>
+                  <name>
+                     <surname>Cordell</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Hadway</surname>
+                     <given-names>LJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Effects of microsite, water, weeding, and direct seeding on the regeneration of native and alien species within a Hawaiian dry forest preserve</article-title>
+               <source>Biological Conservation</source>
+               <volume>104</volume>
+               <fpage>181</fpage>
+               <lpage>190</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0006-3207(01)00163-X</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Caujapé-Castells et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Caujapé-Castells</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Crawford</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Santos-Guerra</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sakai</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Beaver</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Conservation of oceanic island floras: present and future global challenges</article-title>
+               <source>Perspectives in Plant Ecology, Evolution and Systematics</source>
+               <volume>12</volume>
+               <fpage>107</fpage>
+               <lpage>129</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ppees.2009.10.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Courchamp et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Courchamp</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Hoffmann</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Russell</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Leclerc</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Bellard</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Climate change, sea-level rise, and conservation: keeping island biodiversity afloat</article-title>
+               <source>Trends in Ecology &amp; Evolution</source>
+               <volume>293</volume>
+               <fpage>127</fpage>
+               <lpage>130</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Eliasson (1974)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Eliasson</surname>
+                     <given-names>U</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1974">1974</year>
+               <article-title>Studies in Galapagos plants XIV. The genus <italic>Scalesia</italic> Arn</article-title>
+               <source>Opera Botanica</source>
+               <volume>36</volume>
+               <fpage>1</fpage>
+               <lpage>117</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Fox &amp; Weisberg (2018)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fox</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Weisberg</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <source>An R companion to applied regression</source>
+               <publisher-name>Sage Publications</publisher-name>
+               <publisher-loc>Thousand Oaks</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Gillespie et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gillespie</surname>
+                     <given-names>TW</given-names>
+                  </name>
+                  <name>
+                     <surname>Keppel</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Pau</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Price</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name>
+                     <surname>Jaffré</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>O’Neill</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Scaling species richness and endemism of tropical dry forests on Oceanic Islands</article-title>
+               <source>Diversity and Distributions</source>
+               <volume>19</volume>
+               <fpage>896</fpage>
+               <lpage>906</lpage>
+               <pub-id pub-id-type="doi">10.1111/ddi.12036</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Groasis (2019)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>Groasis®</collab>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <data-title>Waterboxx® plant cocoon</data-title>
+               <uri>https://www.groasis.com/shop/consumers/plant-trees-in-a-water-saving-way/growboxx</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2020-10-16">16 October 2020</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Hamann (1979a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hamann</surname>
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1979">1979a</year>
+               <article-title>Dynamics of a stand of <italic>Scalesia pedunculata</italic> Hooker fil., Santa Cruz Island, Galápagos</article-title>
+               <source>Botanical Journal of the Linnean Society</source>
+               <volume>78</volume>
+               <fpage>67</fpage>
+               <lpage>84</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1095-8339.1979.tb02186.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Hamann (1979b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hamann</surname>
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1979">1979b</year>
+               <article-title>On climatic conditions, vegetation types, and leaf size in the Galapagos Islands</article-title>
+               <source>Biotropica</source>
+               <volume>11</volume>
+               <fpage>101</fpage>
+               <lpage>122</lpage>
+               <pub-id pub-id-type="doi">10.2307/2387785</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Hamann (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hamann</surname>
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Demographic studies of three indigenous stand-forming plant taxa (<italic>Scalesia</italic>, Opuntia, and Bursera) in the Galápagos Islands, Ecuador</article-title>
+               <source>Biodiversity and Conservation</source>
+               <volume>10</volume>
+               <fpage>223</fpage>
+               <lpage>250</lpage>
+               <pub-id pub-id-type="doi">10.1023/A:1008952319105</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Harling (1962)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harling</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1962">1962</year>
+               <article-title>On some compositae endemic to the Galápagos Islands</article-title>
+               <source>Acta Horti Bergiani</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>63</fpage>
+               <lpage>119</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Helsen et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Helsen</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Verdyck</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Van Dongen</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Low levels of genetic differentiation between Opuntia echios varieties on Santa Cruz (Galapagos)</article-title>
+               <source>Plant Systematics and Evolution</source>
+               <volume>279</volume>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00606-008-0064-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Hengl et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hengl</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Mendes de Jesus</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Heuvelink</surname>
+                     <given-names>GB</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruiperez Gonzalez</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Kilibarda</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Blagotić</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Shangguan</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Wright</surname>
+                     <given-names>MN</given-names>
+                  </name>
+                  <name>
+                     <surname>Geng</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Bauer-Marschallinger</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Guevara</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Vargas</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>MacMillan</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Batjes</surname>
+                     <given-names>NH</given-names>
+                  </name>
+                  <name>
+                     <surname>Leenaars</surname>
+                     <given-names>JGB</given-names>
+                  </name>
+                  <name>
+                     <surname>Ribeiro</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Wheeler</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Mantel</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Kempen</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>SoilGrids250m: global gridded soil information based on machine learning</article-title>
+               <source>PLOS ONE</source>
+               <volume>12</volume>
+               <issue>2</issue>
+               <elocation-id>e0169748</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0169748</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Huttel (1986)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Huttel</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1986">1986</year>
+               <article-title>Zonificación bioclimatológica y formaciones vegetales en las Islas Galápagos</article-title>
+               <source>Cultura: Revista del Banco Central del Ecuador</source>
+               <volume>8</volume>
+               <fpage>221</fpage>
+               <lpage>233</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>INEC (2015)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>INEC</collab>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <data-title>Censo de Población y Vivienda Galápagos 2015 (CPVG-2015)</data-title>
+               <uri>https://anda.inec.gob.ec/anda/index.php/catalog/553/related_materials</uri>
+               <date-in-citation content-type="access-date" iso-8601-date="2020-11-11">11 November 2020</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Itow (1995)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Itow</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Phytogeography and ecology of Scalesia (Compositate) endemic to the Galápagos Islands</article-title>
+               <source>Pacific Science</source>
+               <volume>49</volume>
+               <fpage>17</fpage>
+               <lpage>30</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Itow &amp; Mueller-Dombois (1988)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Itow</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Mueller-Dombois</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1988">1988</year>
+               <article-title>Population structure, stand-level dieback and recovery of Scalesia pedunculata forest in the Galápagos Islands</article-title>
+               <source>Ecological Research</source>
+               <volume>3</volume>
+               <fpage>333</fpage>
+               <lpage>339</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF02348590</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Jäger et al. (2017)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jäger</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Buchholz</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Cimadom</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Tebbich</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodríguez</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Barrera</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Walentowitz</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Breuer</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Carrión</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sevilla</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Causton</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Restoration of the blackberry-invaded Scalesia forest: impacts on the vegetation, invertebrates, and birds</article-title>
+               <source>Galapagos Report 2015–2016</source>
+               <institution>GNPD, GCREG, CDF &amp; GC, Puerto Ayora, Galapagos, Ecuador</institution>
+               <fpage>142</fpage>
+               <lpage>148</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Jaramillo (2007)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Amenazas para la Sobrevivencia de las Últimas Plantas de <italic>Scalesia affinis</italic></article-title>
+               <source>El Colono: Parte II, Galapagos, Ecuador</source>
+               <fpage>5</fpage>
+               <lpage>6</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Jaramillo et al. (2018)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Guézou</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Mauchamp</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <source>CDF Checklist of Galapagos Flowering Plants</source>
+               <institution>Charles Darwin Foundation Galapagos Species Checklist</institution>
+               <date-in-citation content-type="access-date" iso-8601-date="2020-09-25">25 September 2020</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Jaramillo et al. (2013)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Lorenz</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortiz</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortiz</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Rueda</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibbs</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name>
+                     <surname>Tapia</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Galápagos Verde 2050: an opportunity to restore degraded ecosystems and promote sustainable agriculture in the Archipelago</article-title>
+               <source>Biodiversity and ecosystem restoration: GNPD, GCREG, CDF, and GC. Galápagos Report, 2014</source>
+               <fpage>133</fpage>
+               <lpage>143</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Jaramillo et al. (2020)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Tapia</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Negoita</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Plunkett</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Guerrero</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Mayorga</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibbs</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2020">2020</year>
+               <source>The Galapagos Verde 2050 project</source>
+               <publisher-name>Charles Darwin Foundation</publisher-name>
+               <publisher-loc>Puerto Ayora, Galápagos, Ecuador</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Jaramillo, Tapia &amp; Tye (2018)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Tapia</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title><italic>Scalesia affinis</italic> Hook. f</article-title>
+               <source>Atlas de Galápagos</source>
+               <publisher-name>Charles Darwin Foundation and WWF-Ecuador</publisher-name>
+               <publisher-loc>Quito</publisher-loc>
+               <fpage>56</fpage>
+               <lpage>57</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Kassambara et al. (2017)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kassambara</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Kosinski</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Biecek</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Fabian</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <data-title>Package ‘survminer’. Drawing Survival Curves using ‘ggplot2’</data-title>
+               <version designator="03 1">R package version 03 1</version>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Kelager &amp; Philipp (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kelager</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Philipp</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Hybridization in <italic>Scalesia</italic> (Asteraceae): adding complexity to a problematic genus</article-title>
+               <source>Journal of Pending Biological Tales</source>
+               <volume>3</volume>
+               <fpage>1</fpage>
+               <lpage>35</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>Khurana &amp; Singh (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Khurana</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Singh</surname>
+                     <given-names>JS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Ecology of seed and seedling growth for conservation and restoration of tropical dry forest: a review</article-title>
+               <source>Environmental Conservation</source>
+               <volume>28</volume>
+               <fpage>39</fpage>
+               <lpage>52</lpage>
+               <pub-id pub-id-type="doi">10.1017/S0376892901000042</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Larrea &amp; Di Carlo (2011)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Larrea</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Di Carlo</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <source>Climate change vulnerability assessment of the Galápagos Islands</source>
+               <publisher-name>WWF &amp; Conservation International</publisher-name>
+               <publisher-loc>Arlington</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Lawesson (1986)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lawesson</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1986">1986</year>
+               <article-title>Problems on plant protection in the Galapagos</article-title>
+               <source>Noticias de Galapagos</source>
+               <volume>44</volume>
+               <fpage>12</fpage>
+               <lpage>13</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Mau et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mau</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Reed</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Wood</surname>
+                     <given-names>TE</given-names>
+                  </name>
+                  <name>
+                     <surname>Cavaleri</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Temperate and tropical forest canopies are already functioning beyond their thermal thresholds for photosynthesis</article-title>
+               <source>Forests</source>
+               <volume>9</volume>
+               <issue>1</issue>
+               <fpage>47</fpage>
+               <pub-id pub-id-type="doi">10.3390/f9010047</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Myers, Mittermeier &amp; Mittermeier (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Myers</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Mittermeier</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Mittermeier</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Biodiversity hotspots for conservation priorities</article-title>
+               <source>Nature</source>
+               <volume>403</volume>
+               <fpage>853</fpage>
+               <lpage>858</lpage>
+               <pub-id pub-id-type="doi">10.1038/35002501</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Negoita, Gibbs &amp; Jaramillo (2021)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Negoita</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibbs</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2021">2021</year>
+               <article-title>Cost-effectiveness of water-saving technologies for restoration of tropical dry forest: a case study from the Galapagos Islands, Ecuador</article-title>
+               <source>Restoration Ecology</source>
+               <volume>30</volume>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Nielsen (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nielsen</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Molecular differentiation within and among island populations of the endemic plant Scalesia affinis (Asteraceae) from the Galápagos Islands</article-title>
+               <source>Heredity</source>
+               <volume>93</volume>
+               <fpage>434</fpage>
+               <lpage>442</lpage>
+               <pub-id pub-id-type="doi">10.1038/sj.hdy.6800520</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Nieuwolt (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nieuwolt</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Climatic uniformity and diversity in the Galapagos Islands and the effects on agriculture</article-title>
+               <source>Erdkunde</source>
+               <volume>45</volume>
+               <fpage>134</fpage>
+               <lpage>142</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Polis et al. (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Polis</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurd</surname>
+                     <given-names>SD</given-names>
+                  </name>
+                  <name>
+                     <surname>Jackson</surname>
+                     <given-names>CT</given-names>
+                  </name>
+                  <name>
+                     <surname>Pinero</surname>
+                     <given-names>FS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>El Nino effects on the dynamics and control of an island ecosystem in the Gulf of California</article-title>
+               <source>Ecology</source>
+               <volume>78</volume>
+               <fpage>1884</fpage>
+               <lpage>1897</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>R Core Team (2022)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>R Core Team</collab>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <source>R: a language and environment for statistical computing</source>
+               <publisher-name>R Foundation for Statistical Computing</publisher-name>
+               <publisher-loc>Vienna</publisher-loc>
+               <uri>https://www.r-project.org/</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Riedinger et al. (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Riedinger</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Steinitz-Kannan</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Last</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Brenner</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>A ∼6100 14C yr record of El Niño activity from the Galápagos Islands</article-title>
+               <source>Journal of Paleolimnology</source>
+               <volume>27</volume>
+               <fpage>1</fpage>
+               <lpage>7</lpage>
+               <pub-id pub-id-type="doi">10.1023/A:1013514408468</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Snell &amp; Rea (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Snell</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Rea</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>The 1997-98 El Niño in galapagos: can 34 years of data estimate 120 years of pattern?</article-title>
+               <source>Noticias de Galapagos</source>
+               <volume>60</volume>
+               <fpage>11</fpage>
+               <lpage>20</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Tapia et al. (2019)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tapia</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Negoita</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibbs</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Jaramillo</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2019">2019</year>
+               <article-title>Effectiveness of water-saving technologies during early stages of restoration of endemic Opuntia cacti in the Galápagos Islands, Ecuador</article-title>
+               <source>PeerJ</source>
+               <volume>7</volume>
+               <elocation-id>e8156</elocation-id>
+               <pub-id pub-id-type="doi">10.7717/peerj.8156</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Therneau (2022)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Therneau</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2022">2022</year>
+               <data-title>A package for survival analysis in R</data-title>
+               <uri>https://cran.r-project.org/package=survival</uri>
+               <version designator="3.4-0">R package version 3.4-0</version>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Trueman &amp; D’Ozouville (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Trueman</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Ozouville</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Characterizing the Galapagos terrestrial climate in the face of global climate change</article-title>
+               <source>Galapagos Research</source>
+               <volume>67</volume>
+               <fpage>26</fpage>
+               <lpage>37</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Tye (2003)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Plant research for conservation in galapagos</article-title>
+               <source>Report for the years 1998–2003</source>
+               <publisher-name>Charles Darwin Foundation</publisher-name>
+               <publisher-loc>Galapagos, Ecuador</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Tye (2007)</label><element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>La flora endémica de Galápagos: aumentan las especies amenazadas</article-title>
+               <source>Informe Galápagos 2006–2007</source>
+               <fpage>101</fpage>
+               <lpage>107</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Tye &amp; Aldáz (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Aldáz</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Effects of the 1997–98 El Niño event on the vegetation of Galápagos</article-title>
+               <source>Noticias de Galápagos</source>
+               <volume>60</volume>
+               <fpage>22</fpage>
+               <lpage>24</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Tye &amp; Francisco-Ortega (2011)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tye</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Francisco-Ortega</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Origins and evolution of Galapagos endemic vascular plants</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Bramwell</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Caujapé-Castells</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <source>The biology of island Floras</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <publisher-loc>Cambridge</publisher-loc>
+               <fpage>89</fpage>
+               <lpage>152</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Watson et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Watson</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Trueman</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Tufet</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Henderson</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Atkinson</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Mapping terrestrial anthropogenic degradation on the inhabited islands of the Galapagos Archipelago</article-title>
+               <source>Oryx</source>
+               <volume>44</volume>
+               <fpage>79</fpage>
+               <lpage>82</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Will et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Will</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>SM</given-names>
+                  </name>
+                  <name>
+                     <surname>Zou</surname>
+                     <given-names>CB</given-names>
+                  </name>
+                  <name>
+                     <surname>Hennessey</surname>
+                     <given-names>TC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Increased vapor pressure deficit due to higher temperature leads to greater transpiration and faster mortality during drought for tree seedlings common to the forest–grassland ecotone</article-title>
+               <source>New Phytologist</source>
+               <volume>200</volume>
+               <issue>2</issue>
+               <fpage>366</fpage>
+               <lpage>374</lpage>
+               <pub-id pub-id-type="doi">10.1111/nph.12321</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

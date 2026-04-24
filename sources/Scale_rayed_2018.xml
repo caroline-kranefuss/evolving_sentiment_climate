@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5900</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5900</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Aquaculture, Fisheries and Fish Science</subject>
+<subject>Biodiversity</subject>
+<subject>Conservation Biology</subject>
+<subject>Marine Biology</subject>
+<subject>Zoology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Mapping the distribution of scale-rayed wrasse <italic>Acantholabrus palloni</italic> in Swedish Skagerrak using angling records</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0003-1091-2225</contrib-id>
+<name name-style="western">
+<surname>Näslund</surname>
+<given-names>Joacim</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>joacim.naslund@gmail.com</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Lundgren</surname>
+<given-names>Markus</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>Department of Zoology, Stockholm University</institution>, <addr-line>Stockholm</addr-line>, <country>Sweden</country></aff>
+<aff id="aff-2"><label>2</label><institution>Swedish Anglers Association</institution>, <addr-line>Gothenburg</addr-line>, <country>Sweden</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Arlinghaus</surname>
+<given-names>Robert</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-06">
+<day>6</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5900</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-03-02">
+<day>2</day>
+<month>3</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-02">
+<day>2</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Näslund and Lundgren</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Näslund and Lundgren</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5900"/>
+<abstract>
+<p>In this paper, we map the distribution of scale-rayed wrasse <italic>Acantholabrus palloni</italic> in eastern Skagerrak based on a combination of verified and personally communicated angling records. Long thought to be occasional vagrants outside its known range in the eastern Atlantic Ocean and Mediterranean Sea, we ask if this rare and understudied labrid has expanded its range and become established in Swedish waters. A recent surge in verified angling records in the Swedish Anglers Association’s specimen database <italic>Storfiskregistret</italic> provides information to suggest that this species should no longer be considered an occasional guest, but rather a species established in the Swedish parts of Skagerrak. These records are supported by additional personal communications with anglers. The species is currently well spread geographically along the Swedish Skagerrak coast, with many locations providing repeated captures of adult fish over multiple years. The typical Swedish catch sites are rocky reefs located between the general 40- and 80-m depth curves, likely influenced by currents bringing higher-salinity water from the North Sea. The present study show that angling records can provide an important, but underutilized, resource for mapping the distribution of data-deficient fish species.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Distribution</kwd>
+<kwd><italic>Acantholabrus palloni</italic></kwd>
+<kwd>Labridae</kwd>
+<kwd>Angling records</kwd>
+<kwd>Skagerrak</kwd>
+<kwd>Citizen-generated data</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The authors received no funding for this work.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec>
+<title>Background</title>
+<p>Records of rare species and their natural history can constitute important information for future research on these species and the ecosystems they occur in, for example, with respect to human impacts (<xref ref-type="bibr" rid="ref-8">Boero, 2013</xref>; <xref ref-type="bibr" rid="ref-1">Able, 2016</xref>). Obtaining records of rare species is, however, time consuming and professional biologists are often active within projects limited in time and space, making alternative sources for information important (<xref ref-type="bibr" rid="ref-16">Devictor, Whittaker &amp; Beltrame, 2010</xref>; <xref ref-type="bibr" rid="ref-9">Bradter et al., in press</xref>). This is particularly true for records from aquatic environments, where the occurring species rarely can be observed directly, but rather have to be obtained by indiscriminate techniques such as trawls, nets, and dredges, which are also limited in their areal coverage at any given point in time. To achieve a larger spatial and temporal coverage, there is typically need for larger efforts and manpower than normally possible within a normal research project. Non-professional experts can help in the collection of species occurrence data, a feature which has been widely utilized for a long time within the scientific field of ornithology (<xref ref-type="bibr" rid="ref-52">Silvertown, 2009</xref>; <xref ref-type="bibr" rid="ref-60">Dickinson, Zuckerberg &amp; Bonter, 2010</xref>; <xref ref-type="bibr" rid="ref-9">Bradter et al., in press</xref>). However, non-biologists well versed in species determination, -ecology and -distributions, exist not only for birds, but also for fish in the form of leisure anglers (<xref ref-type="bibr" rid="ref-23">Granek et al., 2008</xref>). Angling is a common leisure activity in large parts of the world (<xref ref-type="bibr" rid="ref-6">Arlinghaus, Tillner &amp; Bork, 2015</xref>; <xref ref-type="bibr" rid="ref-30">Hyder et al., 2018</xref>) and anglers often document (photographs and personal journals; e.g., <xref ref-type="bibr" rid="ref-7">Banha, Ilhéu &amp; Anastácio, 2015</xref>; <xref ref-type="bibr" rid="ref-53">Skov, Jansen &amp; Arlinghaus, 2017</xref>) and report their catches (public or closed databases; e.g., <xref ref-type="bibr" rid="ref-58">Venturelli, Hyder &amp; Skov, 2017</xref>; this paper: Materials and Methods). Some anglers are also specializing in “collecting” different species (a similar concept to “twitching” in the bird-watching community; see, e.g., the Swedish online angling community “50-klubben”; “The club of 50 species,” <uri xlink:href="http://www.50klubben.se/">http://www.50klubben.se/</uri>). Information about rare species’ occurrence is also commonly spread openly within the angler community (<xref ref-type="bibr" rid="ref-38">Lundgren &amp; Waje, 2015</xref>). Hence, anglers’ records and notes are excellent sources for confirmed qualitative data on presence of species in certain areas and can be useful and important, but underutilized, auxiliary, and corroborating sources for mapping distributions and habitats of data-deficient species (<xref ref-type="bibr" rid="ref-21">Fetterplace et al., 2018</xref>). In this paper, the aim is to present a desktop study where citizen-generated data, in the form of private and publicly available angling records, are used to map out a tentative distribution map for a data-deficient species, the scale-rayed wrasse <italic>Acantholabrus palloni</italic> (Risso, 1810), in Swedish waters.</p>
+<p><italic>Acantholabrus palloni</italic> is a labrid fish inhabiting the eastern Atlantic Ocean and the Mediterranean Sea, with a known latitudinal range from Gabon in western Africa to mid- Norway, including areas around some of the eastern Atlantic offshore islands, like Madeira and the Canary Islands (<xref ref-type="bibr" rid="ref-3">Andersson, 1942</xref>; <xref ref-type="bibr" rid="ref-15">Debelius, 1997</xref>; <xref ref-type="bibr" rid="ref-40">Muus, Nielsen &amp; Svedberg, 1999</xref>; <xref ref-type="bibr" rid="ref-47">Pollard, 2010</xref>; <xref ref-type="bibr" rid="ref-35">Kullander et al., 2012</xref>). The full range of the species is continuously being mapped out, with relatively recent documented records from, for example, the Azores and Cape Verde Islands (<xref ref-type="bibr" rid="ref-49">Santos, Porteiro &amp; Barreiros, 1997</xref>; <xref ref-type="bibr" rid="ref-59">Wirtz et al., 2013</xref>). The species is considered rare throughout its known range, but since its typical habitat (coralline and rocky offshore reefs) are seldom trawled, its population may be underestimated due to lack of capture records (<xref ref-type="bibr" rid="ref-57">Swaby &amp; Potts, 1990</xref>; <xref ref-type="bibr" rid="ref-47">Pollard, 2010</xref>). Little is known about its ecology; it is considered to live solitarily or in small groups, and the diet mainly consists of benthic invertebrates (<xref ref-type="bibr" rid="ref-47">Pollard, 2010</xref>). It is light brown in color and characterized by one black blotch on the posterior part of the dorsal fin, a black blotch on the dorsal part of the trunk and several lighter blotches on the back, below the dorsal fin. By these characteristics, the species is well distinguished from other wrasse species in Swedish waters. In the Mediterranean Sea it is often found on rocky bottoms at depths below 80 m (<xref ref-type="bibr" rid="ref-50">Sartoretto et al., 1997</xref>). In the northern parts of its range, however, it has been noted at shallower depth (from 18 m; <xref ref-type="bibr" rid="ref-15">Debelius, 1997</xref>; <xref ref-type="bibr" rid="ref-35">Kullander et al., 2012</xref>).</p>
+<p>In Norway, the species has been considered rare, albeit potentially yearly in occurrence (<xref ref-type="bibr" rid="ref-14">Curry-Lindahl, 1985</xref>), but recent evidence suggest that there are larger concentrations of the species in, for example, the Hardangerfjord, and anecdotal reports from scuba-divers suggest it is more common than previously thought (<xref ref-type="bibr" rid="ref-19">Espeland et al., 2010</xref>). The species is regularly captured by anglers in the Norwegian part of northern Skagerrak, just south of Langesund, on rocky bottoms at 40–60 m depth, elevating from deeper soft bottoms (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>., position 1; M. Lundgren, 2017, personal observations; also documented in the catch-records of the Langesund Seafood and Fishing Festival; <uri xlink:href="http://www.lsff.no/">http://www.lsff.no/</uri>; data accessed 23 April 2014). The first recorded Scandinavian specimen (recorded as <italic>A. Couchi</italic>) was retrieved in 1869 from around 50 m depth in the area around the island Hidra (Hitterø) close to Flekkefjord in south-western Norway, and is preserved at the Swedish Museum of Natural History (cat. no. NRM 47556) (<xref ref-type="bibr" rid="ref-44">Öberg, 1870</xref>; <xref ref-type="bibr" rid="ref-54">SMNH (Swedish Museum of Natural History), 2018</xref>; description reiterated in <xref ref-type="bibr" rid="ref-55">Stuxberg, 1894</xref>). This specimen was confirmed as an adult individual belonging to the species <italic>Labrus palloni</italic> (junior synonym to <italic>A. palloni</italic>) by <xref ref-type="bibr" rid="ref-37">Lilljeborg (1881)</xref>. Another three preserved specimens from the Norwegian parts of the eastern Skagerrak (captured in 1966, 1968, and 1985), around the southern parts of the Oslofjord area (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>., one specimen at position 2, and two specimens at position 3), are available at the Natural History Museum, University of Oslo, according to the Global Biodiversity Information Facility (GBIF) database (<uri xlink:href="https://www.gbif.org/">https://www.gbif.org/</uri>). In addition, <xref ref-type="bibr" rid="ref-3">Andersson (1942)</xref> notes that a few specimens had been caught between Stavanger and Kristiansand in Norway.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5900/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Positions for records of <italic>Acantholabrus palloni</italic> in Skagerrak.</title>
+<p>Red dots represent non-angling records, showing the previously documented occurrence, and blue dots represent angling records reported in this paper. Red arrows show the large-scale current patterns in the area, and dotted lines delineate approximate 40- and 80-m depth curves. A: Hidra Island, Norway, first Scandinavian record (<xref ref-type="bibr" rid="ref-44">Öberg, 1870</xref>); B: Singlefjord mouth, Sweden, first Swedish record (identical to position 5) (<xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson, 1995</xref>); 1: S. Langesund city, Norway; 2: Ferder Lighthouse, Oslofjord, Norway; 3: S. Missingen Islands, Oslofjord, Norway; 4: Koster Fjord area, Sweden; 5: Singlefjord mouth, Sweden; 6: W. Stora Pölsan lighthouse, Sweden; 7: Persgrunden, Sweden; 8: Grisbådarna, Sweden; 9: Kullarna (S.W. Måseskär lighthouse), Sweden; 10: N.W. Hunnebostrand city, Sweden; 11: Gullmarn Fjord, Sweden; 12: Svaberget, Sweden; 13: Väderöarna (Weather Islands), Sweden; 14: W. Ursholmen Island. Names of areas of angling grounds (pos. 7–9 and 12) are based on <xref ref-type="bibr" rid="ref-38">Lundgren &amp; Waje (2015)</xref>; currents and depth curves are drawn after <xref ref-type="bibr" rid="ref-56">Svansson (1975)</xref> and <xref ref-type="bibr" rid="ref-36">Larsson &amp; Stevens (2008)</xref>.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5900/fig-1.png"/>
+</fig>
+<p>While the presence of <italic>A. palloni</italic> along the southern Norwegian coast is clearly documented with sporadic, but repeated, records over the last century, the eastern limits in the Skagerrak are not well established. The species has been noted as not being native to Swedish waters (<xref ref-type="bibr" rid="ref-46">Pethon &amp; Svedberg, 2004</xref>; <xref ref-type="bibr" rid="ref-42">Nielsen &amp; Svedberg, 2006</xref>; <xref ref-type="bibr" rid="ref-47">Pollard, 2010</xref>; <xref ref-type="bibr" rid="ref-13">Craig &amp; Pollard, 2015</xref>), or alternatively, only being present in the Koster Fjord area (<xref ref-type="bibr" rid="ref-43">Nilsson, 1997</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>, position 4). Whereas FishBase (<uri xlink:href="http://www.fishbase.org/">http://www.fishbase.org/</uri>; <xref ref-type="bibr" rid="ref-22">Froese &amp; Pauly, 2018</xref>) lists the species as native, based on the Swedish checklist of fishes (<xref ref-type="bibr" rid="ref-33">Kullander, 1999</xref>); this checklist, however, lists all species recorded in Swedish waters, including sporadic visitors. In an updated checklist, the occurrence of <italic>A. palloni</italic> is noted as “sporadic” (<xref ref-type="bibr" rid="ref-34">Kullander, 2002</xref>). The FishBase-associated AquaMaps project (<uri xlink:href="http://www.aquamaps.org/">http://www.aquamaps.org/</uri>; <xref ref-type="bibr" rid="ref-31">Kaschner et al., 2016</xref>) has a predicted occurrence probability of 0.60–0.79 in Swedish waters (<xref ref-type="bibr" rid="ref-32">Kesner-Reyes et al., 2012</xref>), based on a single verified and a few unverified records in GBIF (the single verified record, from southern Skagerrak, is noted here in the Results section). Recently, the distribution of the species has been suggested to be wider than previously thought in Swedish waters, based on multiple reports of angled specimens.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Swedish non-angling records (1993–2016)</title>
+<p>Non-angling records were sourced from the scientific literature (<xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson, 1995</xref>; <xref ref-type="bibr" rid="ref-24">Hallberg, 2011</xref>), the Swedish Species Observation System (SSOS; <uri xlink:href="http://www.artportalen.se/">http://www.artportalen.se/</uri>), and the GBIF-Sweden Data Portal (<uri xlink:href="http://www.gbif.se/">http://www.gbif.se/</uri>).</p>
+</sec>
+<sec>
+<title>Swedish angling records (1995–2016)</title>
+<p>The majority of the angling records were obtained from the curated specimen registry (<italic>Storfiskregistret</italic>) of the Swedish Anglers Association (SAA; <uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri>), where anglers can report catches of fish specimens above a certain species-specific mass-limit, which then gets validated based on photographs, accessory information, and, if needed, expert assessment. The SAA records contains additional information about capture location, depth, habitat, and capture method. The mass-limit for recording an <italic>A. palloni</italic> in the SAA specimen registry is 250 g (effective since 2012; before that it was 300 g, but no registered records exist from this time-period).</p>
+<p>Additional records, were supplied by Swedish anglers, located through posts on internet blogs or through personal communication. A number of records are also direct personal observations by the authors (e.g., specimens in <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Furthermore, some records in the SAA registry had limited capture information. In such cases, the angler was contacted.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5900/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Pictures of <italic>Acantholabrus palloni</italic> from Swedish waters (Position 9 in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</title>
+<p>(A) Record #8, <xref ref-type="table" rid="table-1">Table 1</xref>; (B) Record #9, <xref ref-type="table" rid="table-1">Table 1</xref>. Published with permission (Photo credit: M. Lundgren).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5900/fig-2.png"/>
+</fig>
+<p>All records from the SAA database in <xref ref-type="table" rid="table-1">Table 1</xref> have been verified by the authors from photographs. SAA carries digital copies of all fish in their records. Personal communications were obtained from experienced sea anglers; some of these records are unverified (see <xref ref-type="table" rid="table-1">Table 1</xref>) and should therefore be used mainly as auxiliary information. While misidentification of the species is possible, specimen sea anglers are typically examining their catch closely when resembling a rare species. Hence, the unverified angling records are judged to be valid.</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5900/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Records of <italic>A. palloni</italic> in Swedish waters.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5900/table-1a.png"/>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5900/table-1b.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Record number</th>
+<th>Date</th>
+<th>Size</th>
+<th>Capture method</th>
+<th>Location (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>)</th>
+<th>Notes</th>
+<th>Information source</th>
+</tr> 
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1993</td>
+<td>Juvenile</td>
+<td>Dredge haul</td>
+<td>Pos 5</td>
+<td>First record from Swedish waters, first inshore record</td>
+<td><xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson (1995)</xref></td>
+</tr>
+<tr>
+<td>2</td>
+<td>July 1995</td>
+<td>L: 23 cm M: 142 g</td>
+<td>Angling</td>
+<td>Pos 8</td>
+<td/>
+<td><xref ref-type="bibr" rid="ref-25">Hanefors (1995)</xref></td>
+</tr>
+<tr>
+<td>3</td>
+<td>09 July 2007</td>
+<td>L: No record M: 265 g</td>
+<td>Angling</td>
+<td>Pos 7</td>
+<td>Verified by M. Lundgren</td>
+<td>Records of Kungsbacka Angling Club</td>
+</tr>
+<tr>
+<td>4</td>
+<td>16 November 2007</td>
+<td>L: No record M: No record</td>
+<td>Filmed, remotely operated vehicle</td>
+<td>Pos 7</td>
+<td>50 m depth. Reported by A. Tullot (record #61250199). Unverified</td>
+<td><uri xlink:href="https://artportalen.se/">https://artportalen.se/</uri></td>
+</tr>
+<tr>
+<td>5</td>
+<td>2008</td>
+<td>L: No record M: No record</td>
+<td>Unknown</td>
+<td>Pos 6</td>
+<td>Verified by S.O. Kullander, Swedish Museum of Natural History in GBIF</td>
+<td><uri xlink:href="http://www.gbif.se/">http://www.gbif.se/</uri></td>
+</tr>
+<tr>
+<td>6</td>
+<td>No info. (Pre-2011)</td>
+<td>L: No record M: No record</td>
+<td>Filmed, remotely operated vehicle</td>
+<td>Pos 4</td>
+<td/>
+<td><xref ref-type="bibr" rid="ref-24">Hallberg (2011)</xref></td>
+</tr>
+<tr>
+<td>7</td>
+<td>2010</td>
+<td>L: No record M: No record</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td>Verified by M. Lundgren, direct observation</td>
+<td>M. Durell, 2017, personal communication</td>
+</tr>
+<tr>
+<td>8</td>
+<td>04 April 2011</td>
+<td>L: No record M: 220 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td><xref ref-type="fig" rid="fig-2">Figure 2</xref></td>
+<td>M. Lundgren, 2017, personal observation</td>
+</tr>
+<tr>
+<td>9</td>
+<td>05 June 2011</td>
+<td>L: No record M: 180 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td><xref ref-type="fig" rid="fig-2">Figure 2</xref></td>
+<td>M. Lundgren, 2017, personal observation</td>
+</tr>
+<tr>
+<td>10</td>
+<td>05 June 2011</td>
+<td>L: No record M: 160–180 g (estimated)</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td/>
+<td>M. Lundgren, 2017, personal observation</td>
+</tr>
+<tr>
+<td>11</td>
+<td>26 May 2012</td>
+<td>L: No record M: 120 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td/>
+<td><uri xlink:href="http://www.sg-zander.se/">http://www.sg-zander.se/</uri></td>
+</tr>
+<tr>
+<td>12</td>
+<td>01 June 2014</td>
+<td>L: 26 cm M: 275 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td>12.5 m depth<xref ref-type="fn" rid="table-1fn1"><sup>1</sup></xref>, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri>, <xref ref-type="bibr" rid="ref-26">Hellenberg (2014a</xref>, <xref ref-type="bibr" rid="ref-27">2014b)</xref></td>
+</tr>
+<tr>
+<td>13</td>
+<td>26 July 2014</td>
+<td>L: 26 cm M: 260 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>44 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri>, <xref ref-type="bibr" rid="ref-27">Hellenberg (2014b)</xref></td>
+</tr>
+<tr>
+<td>14</td>
+<td>16 August 2014</td>
+<td>L: 26 cm M: 250 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>47 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri>, <xref ref-type="bibr" rid="ref-27">Hellenberg (2014b)</xref></td>
+</tr>
+<tr>
+<td>15</td>
+<td>16 August 2014</td>
+<td>L: 27.5 cm M: 282 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>46 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri>, <xref ref-type="bibr" rid="ref-27">Hellenberg (2014b)</xref></td>
+</tr>
+<tr>
+<td>16</td>
+<td>13 July 2015</td>
+<td>L: No record M: 200 g</td>
+<td>Angling</td>
+<td>Pos 11</td>
+<td>First record from the fjord Gullmarn, second inshore record from Swedish waters. Verified by M. Lundgren, direct observation</td>
+<td>M. Jonsson, 2017, personal communication</td>
+</tr>
+<tr>
+<td>17</td>
+<td>17 July 2015</td>
+<td>L: 29 cm M: 296 g</td>
+<td>Angling</td>
+<td>Pos 12</td>
+<td>26 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>18</td>
+<td>06 August 2015</td>
+<td>L: 28 cm M: 293 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>50 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>19</td>
+<td>06 August 2015</td>
+<td>L: 28 cm M: 285 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>50 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>20</td>
+<td>06 August 2015</td>
+<td>L: 27 cm M: 267 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>50 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>21</td>
+<td>09 August 2015</td>
+<td>L: 27.5 cm M: 260 g</td>
+<td>Angling</td>
+<td>Pos 13</td>
+<td>35 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>22</td>
+<td>20 August 2015</td>
+<td>L: 26.5 cm M: 260 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td>42 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>23</td>
+<td>20 August 2015</td>
+<td>L: 26 cm M: 250 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td>41 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>24</td>
+<td>21 August 2015</td>
+<td>L: 27 cm M: 260 g</td>
+<td>Angling</td>
+<td>Pos 13</td>
+<td>32 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>25</td>
+<td>22 August 2015</td>
+<td>L: 27 cm M: 280 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>40 m depth</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>26</td>
+<td>22 August 2015</td>
+<td>L: 27.5 cm M: 267 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>38 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>27</td>
+<td>22 August 2015</td>
+<td>L: 28 cm M: 270 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>40 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>28</td>
+<td>22 August 2015</td>
+<td>L: 28.5 cm M: 300 g</td>
+<td>Angling</td>
+<td>Pos 10</td>
+<td>45 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>29</td>
+<td>09 August 2015</td>
+<td>L: No record M: No record</td>
+<td>Filmed, remotely operated vehicle</td>
+<td>Pos 6</td>
+<td>30–35 m depth, rocky bottom</td>
+<td><xref ref-type="bibr" rid="ref-45">Palmkvist et al., 2016</xref></td>
+</tr>
+<tr>
+<td>30</td>
+<td>04 October 2015</td>
+<td>L: 27 cm M: 270 g</td>
+<td>Angling</td>
+<td>Pos 6</td>
+<td>28 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri></td>
+</tr>
+<tr>
+<td>31</td>
+<td>24 July 2016</td>
+<td>L: 26 cm M: 260 g</td>
+<td>Angling</td>
+<td>Pos 8</td>
+<td>37 m depth, rocky bottom verified from photograph by J. Näslund</td>
+<td>A. Enemar, 2017, personal communication</td>
+</tr>
+<tr>
+<td>32–37</td>
+<td>September 2016</td>
+<td>L: No record M: 70–200 g</td>
+<td>Angling</td>
+<td>Pos 14</td>
+<td>5 individuals. 35–50 m depth, rocky bottom</td>
+<td>A. Enemar, 2017, personal communication</td>
+</tr>
+<tr>
+<td>38</td>
+<td>19 August 2016</td>
+<td>L: 28.5 cm M: 320 g</td>
+<td>Angling</td>
+<td>Pos 9</td>
+<td>42 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri> <xref ref-type="bibr" rid="ref-4">Anonymous (2017a)</xref></td>
+</tr>
+<tr>
+<td>39</td>
+<td>25 August 2016</td>
+<td>L: 26.5 cm M: 270 g</td>
+<td>Angling</td>
+<td>Pos 12</td>
+<td>41 m depth, rocky bottom</td>
+<td><uri xlink:href="http://www.sportfiskarna.se/">http://www.sportfiskarna.se/</uri> <xref ref-type="bibr" rid="ref-5">Anonymous (2017b)</xref></td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<label>1</label>
+<p>Possibly an error in the report of depth.</p>
+</fn>
+<fn id="table-1fn2" fn-type="other">
+<p>L, total length; M, wet mass.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Swedish non-angling records</title>
+<p>The occurrence of <italic>A. palloni</italic> in Swedish waters was rarely reported prior to 2010, with a first record of a juvenile specimen from year 1993 from somewhere between 50 and 115 m depth in the mouth of the Singlefjord, northeastern Skagerrak (<xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson, 1995</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>, position 5). The species has also been previously reported from the Koster Fjord area around the Koster Islands, northeastern Skagerrak (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>, position 4; <xref ref-type="bibr" rid="ref-24">Hallberg, 2011</xref>), and six km west of Rörö Island (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>, position 6), southern Skagerrak in 2008 (data provided by Swedish Museum of Natural History, Stockholm; accessed through GBIF-Sweden Data Portal, 25 April 2014; also reported as capture site by <xref ref-type="bibr" rid="ref-45">Palmkvist et al., 2016</xref>). Only two unverified observations were found in SSOS (as of 22 May 2018). The first record comes from Persgrunden (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>, position 7), stemming from a scientific transect investigation using a remotely operated vehicle in 2007; the second is a questionable record from the harbor of Käringön. The latter record (record 54966014 in SSOS) is not reported in <xref ref-type="table" rid="table-1">Table 1</xref>, due to <italic>A. palloni</italic> not being a typical species seen in the shallow harbor waters (in contrast to the similar looking goldsinny wrasse <italic>Ctenolabrus rupestris</italic> (L.)).</p>
+</sec>
+<sec>
+<title>Angling records</title>
+<p>Between the first Swedish record in 1993 (<xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson, 1995</xref>) and 2011, a few angling records of <italic>A. palloni</italic> were noted from different sites on the Swedish west coast (<xref ref-type="table" rid="table-1">Table 1</xref>). Between 2011 and 2016, several records of <italic>A. palloni</italic> have been provided by leisure anglers (<xref ref-type="table" rid="table-1">Table 1</xref>). Repeated captures of the species have been made across years, at least at a few positions (e.g., position 9; <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+<p>Most angled specimens are reported to be caught on, or directly above, rocky bottom at depths of 28–50 m. Another specimen standing out from the rest is record #16 which is the only one caught inshore (in the Gullmarn Fjord, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>, Position 11), apart from the first Swedish record by <xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson (1995)</xref>.</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>The presented records extend the knowledge about the marine ichthyofauna of eastern Skagerrak, which is a generally well documented area regarding fish species distributions (<xref ref-type="bibr" rid="ref-35">Kullander et al., 2012</xref>). In the light of the present summary of these records, we show that angling databases can be utilized as a source for information about the distribution of fish species which are seldom targeted by commercial fisheries, but specifically targeted by anglers.</p>
+<sec>
+<title><italic>Acantholabrus palloni</italic> belongs to the Swedish ichthyofauna</title>
+<p>The angling records of <italic>A. palloni</italic> show that several individuals of this species being repeatedly caught in the same general locations, at multiple sites, in Swedish waters. It should be noted that number of angled specimens at any given position are likely related to the specific fishing pressure at that site, and data are limited to adult specimens as a consequence of the size-restrictions in the SSA database (see Materials and Methods). Still, these repeated captures across several years indicate that <italic>A. palloni</italic> could be currently established in, at least some, areas of eastern Skagerrak. Notably, the sites at which the species is recorded, matches the 40–80 m depth curve in Skagerrak, as well as the currents from the North Sea which bring higher-salinity water into the southern Skagerrak and northward along the Swedish coast (<xref ref-type="bibr" rid="ref-56">Svansson, 1975</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). It is worth noting that the current list of records (<xref ref-type="table" rid="table-1">Table 1</xref>) is not a complete record of angled <italic>A. palloni</italic>, as several other specimens (typically smaller ones) have been verbally described to the authors by anglers, without any specific information being noted by the angler.</p>
+</sec>
+<sec>
+<title>Spatial and temporal distribution of the population</title>
+<p>The typical capture site for <italic>A. palloni</italic> is rocky reefs located largely within the general 40–80-m depth range along the Swedish Skagerrak coast. Capture sites are also matching the route of the main currents bringing water from the North Sea. The bottom layer of the deeper parts of Skagerrak have a salinity similar to the North Sea and is substantially more saline than the water originating from the Baltic Sea in the upper layers and in Kattegatt to the south of Skagerrak (<xref ref-type="bibr" rid="ref-56">Svansson, 1975</xref>). This likely makes the conditions in these areas suitable for marine species with a main distribution area in more saline waters, such as <italic>A. palloni</italic>.</p>
+<p>The presence of the species at the offshore islands of the Atlantic (the Azores, Canary Islands, Madeira and Cape Verde) suggests that there is capacity for dispersal in the species. However, the temporal aspect of dispersal appears largely unknown. The angled specimens are all captured between May and October, which represents the time when the angling activity is highest. Given paucity of data from the winter-months, we cannot exclude that the species is a seasonally migratory species in this geographic area. An additional unverified underwater observation was made in November during a scientific expedition at Persgrunden (record #4; <xref ref-type="table" rid="table-1">Table 1</xref>); but November-temperatures at &gt;25 m depth largely matches spring- to early-summer temperatures (<xref ref-type="bibr" rid="ref-56">Svansson, 1975</xref>), so such an observation does not indicate a non-migratory behavior. However, given the apparent strong reef-association, the small body size, and the labriform swimming mode, which is relatively inefficient for long-distance swimming (<xref ref-type="bibr" rid="ref-51">Sfakiotakis, Davies &amp; Lane, 1999</xref>), a seasonal migratory life-style seems unlikely. Notably, <xref ref-type="bibr" rid="ref-13">Craig &amp; Pollard (2015)</xref> states that it is not a migratory species; however, without explicit support from data or references.</p>
+</sec>
+<sec>
+<title>Stability of the population</title>
+<p>The first Swedish record was a juvenile individual (<xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson, 1995</xref>), which is indicative, but not proof, of spawning in the area. It could be possible that Skagerrak acts as a sink for the <italic>A. palloni</italic> population, with fry or young individuals drifting into the Skagerrak area from the North Sea and then settling on suitable rocky reefs. Until spawning and viable fry can be demonstrated from Skagerrak, it is not possible to know whether the Skagerrak population is self-reproducing. Systematic investigations of angled specimens (e.g., in association with marine angling competitions) could provide information about spawning activity, as well as other aspects of their biology, such as feeding habits and parasite fauna—all of which are largely unknown for the species (<xref ref-type="bibr" rid="ref-35">Kullander et al., 2012</xref>). Studies on population genetics may provide further insights into the population structure of the species (<xref ref-type="bibr" rid="ref-20">Faust et al., 2018</xref>). Hence, such investigations could be encouraged to extend the knowledge of this data-deficient species.</p>
+</sec>
+<sec>
+<title>Range extension due to climate change?</title>
+<p>The recent surge in records could be an indication of a range extension. One hypothetical factor that could lead to range extensions is the changing climate which leads to higher seawater temperatures (<xref ref-type="bibr" rid="ref-17">Dye et al., 2013</xref>). While increased sea water temperature was also noted from 1939 to 1960, the warming effect has been particularly strong in the north–east Atlantic during the last decades (<xref ref-type="bibr" rid="ref-17">Dye et al., 2013</xref>). The estimated temperature increase in Skagerrak, from 1990 to 2014, is 1.6 °C (<xref ref-type="bibr" rid="ref-48">Rinde, Hjermann &amp; Staalstrøm, 2016</xref>). Range extensions has indeed been indicated in several European marine areas, including Scandinavian waters (<xref ref-type="bibr" rid="ref-28">Hiddink &amp; Ter Hofstede, 2008</xref>; <xref ref-type="bibr" rid="ref-41">Nicolas et al., 2011</xref>; <xref ref-type="bibr" rid="ref-11">Brattegard, 2011</xref>). <xref ref-type="bibr" rid="ref-11">Brattegard (2011)</xref> estimated that more than 500 marine benthic species expanded their range northwards in Norwegian waters, in the range of 750–1,000 km, between 1997 and 2010. Furthermore, several new species were found to establish along the Norwegian Skagerrak coast during this time (<xref ref-type="bibr" rid="ref-11">Brattegard, 2011</xref>; <xref ref-type="bibr" rid="ref-48">Rinde, Hjermann &amp; Staalstrøm, 2016</xref>). Even though the angling records are located south of the previous northern range limit, the eastern Skagerrak is still at the edge of the species’ northern distribution range (AquaMaps presents an estimated native distribution map that extends to the Faroe Islands, but this is not supported by actual records of the species; <xref ref-type="bibr" rid="ref-31">Kaschner et al., 2016</xref>; <xref ref-type="bibr" rid="ref-32">Kesner-Reyes et al., 2012</xref>). Hence, a climate-related population increase at the northern distribution range may cause spillover effects into the Swedish waters of Skagerrak, following the main currents in this area (cf. <xref ref-type="fig" rid="fig-1">Fig. 1</xref> and <xref ref-type="bibr" rid="ref-48">Rinde, Hjermann &amp; Staalstrøm, 2016</xref>). However, the paucity of historical data on the species makes it impossible to conclude whether this is the case or not. The fact that the species was recorded in south-western Norway already in 1869 (<xref ref-type="bibr" rid="ref-44">Öberg, 1870</xref>), with further observations along the south coast of Norway noted prior to 1942 (<xref ref-type="bibr" rid="ref-3">Andersson, 1942</xref>), suggests that it was present, at least temporarily, close to Swedish waters prior to the recent increase in the seawater temperature. It is also very hard to distinguish climate effects from other effects such as fishing or meta-population dynamics (<xref ref-type="bibr" rid="ref-10">Brander &amp; Havenhand, 2016</xref>).</p>
+</sec>
+<sec>
+<title>Prior records missing due to historical angling methods and oversight?</title>
+<p><italic>Acantholabrus palloni</italic> is generally captured over off-shore rocky reefs. Smaller-sized marine fish species, such as <italic>A. palloni</italic>, have historically not been targeted by off-shore anglers to the same extent they currently are (<xref ref-type="bibr" rid="ref-38">Lundgren &amp; Waje, 2015</xref>). While coastal anglers use a wide variety of hook-sizes, off-shore anglers have, until recently, mainly used larger hooks targeting larger species. With the relatively small gape-size of <italic>A. palloni</italic>, this may effectively have eliminated the species from being caught, even though the capture sites reported here have been commonly targeted reefs for angling (<xref ref-type="bibr" rid="ref-38">Lundgren &amp; Waje, 2015</xref>). In addition, the typical rocky reef habitat is likely seldom trawled by commercial fishermen, probably leading to few specimens being caught in fisheries overall (<xref ref-type="bibr" rid="ref-47">Pollard, 2010</xref>). While clearly distinguished at closer inspection (which is typically what specimen sea anglers do), it also resembles the common goldsinny wrasse and young female cuckoo wrasse <italic>Labrus mixtus</italic> L. in coloration, which may lead to misidentification and oversight by, for example, fishermen not interested in the species for commercial purposes. These facts may have limited the number of captures and historical reports from Swedish waters. Similar oversight might apply to other rare Scandinavian species, such as <italic>Thorogobius ephippiatus</italic> (Lowe, 1839) and <italic>Pomatoschistus norvegicus</italic> (Collett, 1903) (<xref ref-type="bibr" rid="ref-29">Holm &amp; Mattson, 1980</xref>; <xref ref-type="bibr" rid="ref-12">Cedhagen &amp; Hansson, 1995</xref>).</p>
+</sec>
+<sec>
+<title>Value for Swedish fisheries</title>
+<p>Despite its relatively small size, <italic>A. palloni</italic> has value for marine specimen angling, for example, in marine angling competitions where the number of species caught is rewarded. In fact, the angling records being presented in this article are largely a consequence of this species being acknowledged as a target for specimen anglers, who are specifically targeting large specimens of different species (<xref ref-type="bibr" rid="ref-26">Hellenberg, 2014a</xref>, <xref ref-type="bibr" rid="ref-27">2014b</xref>; <xref ref-type="bibr" rid="ref-38">Lundgren &amp; Waje, 2015</xref>). In commercial fisheries, however, it has generally little or no value (<xref ref-type="bibr" rid="ref-39">Machias et al., 2001</xref>; <xref ref-type="bibr" rid="ref-42">Nielsen &amp; Svedberg, 2006</xref>), although it has been noted among the targeted species in some Mediterranean countries (<xref ref-type="bibr" rid="ref-2">Alegre, Lleonart &amp; Veny, 1992</xref>; <xref ref-type="bibr" rid="ref-18">Economidis &amp; Koutrakis, 2001</xref>). Smaller wrasse species are fished commercially in Scandinavia for sea lice control in salmon farms (<xref ref-type="bibr" rid="ref-19">Espeland et al., 2010</xref>), but <italic>A. palloni</italic> is not suited for such fishery as it is deeper-living than most of the other smaller wrasses (e.g., corkwing wrasse <italic>Symphodus melops</italic> (L.) and juvenile ballan wrasse <italic>Labrus bergylta</italic> Ascanius, 1767) and, thus, generally subjected to severe barotrauma when hauled, resulting in inflated swim-bladders and bulging eye-balls (see, e.g., <xref ref-type="fig" rid="fig-2">Fig. 2</xref>).</p>
+</sec>
+<sec>
+<title>Using angling records for conservation and management of rare fishes</title>
+<p>This study presents a case where citizen generated data can be used for increasing the knowledge about a rare species. It is possible that recognition of the angler community as a valuable source of information may increase anglers’ interest in continuing and increasing the frequency and detail of their reports. Anglers are often keen to participate in the management of fish stocks, but may also be skeptical about revealing the exact location of their fishing sites, so this type of recognition may lead to a further increased interest in fish conservation issues (<xref ref-type="bibr" rid="ref-23">Granek et al., 2008</xref>; <xref ref-type="bibr" rid="ref-21">Fetterplace et al., 2018</xref>). From a conservation and management perspective, the current data provides a tentative picture of the distribution and habitat in Swedish waters. A quantitative habitat suitability model (HSM) is, however, not possible to construct, mainly due to the scarcity of data about habitat conditions at capture sites. <xref ref-type="bibr" rid="ref-9">Bradter et al. (in press)</xref> constructed HSMs for Siberian Jays in Sweden, utilizing data from the SSOS. As compared to, for example, birds, for which the SSOS reporting system is run in collaboration with BirdLife Sweden (the Swedish Ornithological Society), fish appear to be under-reported in SSOS. Hence, the SAA database appears to be substantially more informative and reliable for observational reports of fish at the present point in time, despite having a lower mass-limit for reports, which limits the number of reports in general and completely eliminates reports of juvenile specimens.</p>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>In this article, we summarize the present knowledge about the current distribution of <italic>A. palloni</italic> in Swedish waters, at the edge of the distribution range of the species. The records of <italic>A. palloni</italic> presented here in particular highlight the importance of citizen-generated data in the form of anglers’ reports and angling records as useful contributions for ichthyological investigations of presence and distribution of non-commercial fish species.</p>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank Magnus Durell, Mattias Jonsson, Mattias Liewendahl, Arvid Enemar, and Dan Calderon for providing details on their catches of scale-rayed wrasse. Nicka Hellenberg is thanked for curating the <italic>Storfiskregistret</italic> specimen database. Three anonymous reviewers are thanked for contributing valuable comments and information.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Joacim Näslund</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Markus Lundgren</xref> conceived and designed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Field Study Permissions</title>
+<fn id="addinfo-1">
+<p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+<p>Fish specimens reported were caught following Swedish or Norwegian angling regulations. All cases where the authors captured recorded specimens were part of non-scientific angling expeditions, conducted prior to the conception of the study.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-2">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data is contained in <xref ref-type="table" rid="table-1">Table 1</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Able (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Able</surname>
+<given-names>KW</given-names>
+</name>
+</person-group>
+<article-title>Natural history: an approach whose time has come, passed, and needs to be resurrected</article-title>
+<source>ICES Journal of Marine Science</source>
+<year iso-8601-date="2016">2016</year>
+<volume>73</volume>
+<issue>9</issue>
+<fpage>2150</fpage>
+<lpage>2155</lpage>
+<pub-id pub-id-type="doi">10.1093/icesjms/fsw049</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Alegre, Lleonart &amp; Veny (1992)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Alegre</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lleonart</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Veny</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Espècies pesqueres d’interès commercial: nomenclatura official catalana</source>
+<year iso-8601-date="1992">1992</year>
+<publisher-loc>Barcelona</publisher-loc>
+<publisher-name>Departament de Cultura, Generalitat de Catalunya</publisher-name>
+<comment>[in Catalan]</comment>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Andersson (1942)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Andersson</surname>
+<given-names>KA</given-names>
+</name>
+</person-group>
+<source>Fiskar och fiske i Norden. Bd. 1, Fiskar och fiske i havet</source>
+<year iso-8601-date="1942">1942</year>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>Natur och Kultur</publisher-name>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Anonymous (2017a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab><institution>Anonymous</institution></collab>
+</person-group>
+<article-title>Brunsnultra från Måseskär</article-title>
+<source>Svenskt Fiske</source>
+<year iso-8601-date="2017a">2017a</year>
+<volume>1</volume>
+<issue>2017</issue>
+<fpage>60</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Anonymous (2017b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab><institution>Anonymous</institution></collab>
+</person-group>
+<article-title>Sportfiskeåret 2016: Saltvattensfiskar</article-title>
+<source>Svenskt Fiske</source>
+<year iso-8601-date="2017b">2017b</year>
+<volume>1</volume>
+<issue>2017</issue>
+<fpage>74</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Arlinghaus, Tillner &amp; Bork (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arlinghaus</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Tillner</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bork</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Explaining participation rates in recreational fishing across industrialised countries</article-title>
+<source>Fisheries Management and Ecology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>22</volume>
+<issue>1</issue>
+<fpage>45</fpage>
+<lpage>55</lpage>
+<pub-id pub-id-type="doi">10.1111/fme.12075</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Banha, Ilhéu &amp; Anastácio (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Banha</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Ilhéu</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Anastácio</surname>
+<given-names>PM</given-names>
+</name>
+</person-group>
+<article-title>Angling web forums as an additional tool for detection of new fish introductions: the first record of <italic>Perca fluviatilis</italic> in continental Portugal</article-title>
+<source>Knowledge and Management of Aquatic Ecosystems</source>
+<year iso-8601-date="2015">2015</year>
+<volume>416</volume>
+<fpage>03</fpage>
+<pub-id pub-id-type="doi">10.1051/kmae/2014039</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Boero (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boero</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Observational articles: a tool to reconstruct ecological history based on chronicling unusual events</article-title>
+<source>F1000Research</source>
+<year iso-8601-date="2013">2013</year>
+<volume>2</volume>
+<fpage>168</fpage>
+<pub-id pub-id-type="doi">10.12688/f1000research.2-168.v1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Bradter et al. (in press)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bradter</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Mair</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jönsson</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Knape</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Singer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Snäll</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Can opportunistically collected citizen science data fill a data gap for habitat suitability models of less common species?</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year>in press</year>
+<pub-id pub-id-type="doi">10.1111/2041-21X.13012</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Brander &amp; Havenhand (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Brander</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Havenhand</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Reckermann</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Brander</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>MacKenzie</surname>
+<given-names>BR</given-names>
+</name>
+<name>
+<surname>Omstedt</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Impacts of climate change, including acidification, on marine ecosystems and fisheries</article-title>
+<source>Climate Impacts on the Baltic Sea: From Science to Policy</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Berlin Heidelberg</publisher-loc>
+<publisher-name>Springer-Verlag</publisher-name>
+<fpage>129</fpage>
+<lpage>160</lpage>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Brattegard (2011)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Brattegard</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<source>Endringer i norsk marin bunnfauna 1997–2011. DN-utredning 8–2011</source>
+<year iso-8601-date="2011">2011</year>
+<publisher-loc>Trondheim</publisher-loc>
+<publisher-name>Direktoratet for Naturforvaltning</publisher-name>
+<comment>[in Norwegian]</comment>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Cedhagen &amp; Hansson (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cedhagen</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Hansson</surname>
+<given-names>HG</given-names>
+</name>
+</person-group>
+<article-title>First records of <italic>Acantholabrus palloni</italic> (Risso, 1810) (Labridae) and <italic>Pomatoschistus norvegicus</italic> (Collett, 1903) (Gobiidae) in the Swedish fish fauna, and a note on the distribution of <italic>Cottunculus microps</italic> Collett, 1875 (Psychrolutidae)</article-title>
+<source>Sarsia</source>
+<year iso-8601-date="1995">1995</year>
+<volume>80</volume>
+<issue>1</issue>
+<fpage>33</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="doi">10.1080/00364827.1995.10413576</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Craig &amp; Pollard (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Craig</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Pollard</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title><italic>Acantholabrus palloni</italic></article-title>
+<source>The IUCN Red List of Threatened Species</source>
+<year iso-8601-date="2015">2015</year>
+<volume>2015</volume>
+<fpage>e.T186106A44906675</fpage>
+<uri>http://www.iucnredlist.org/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-05-12">12 May 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Curry-Lindahl (1985)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Curry-Lindahl</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<source>Våra fiskar–havs- och sötvattensfiskar i Norden och övriga Europa</source>
+<year iso-8601-date="1985">1985</year>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>P.A. Norstedts &amp; Söners Förlag</publisher-name>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Debelius (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Debelius</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<source>Mediterranean and Atlantic Fish Guide</source>
+<year iso-8601-date="1997">1997</year>
+<publisher-loc>Frankfurt</publisher-loc>
+<publisher-name>IKAN—Unterwasserarchiv</publisher-name>
+<fpage>305</fpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Devictor, Whittaker &amp; Beltrame (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Devictor</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Whittaker</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Beltrame</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Beyond scarcity: citizen science programmes as useful tools for conservation biogeography</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2010">2010</year>
+<volume>16</volume>
+<issue>3</issue>
+<fpage>354</fpage>
+<lpage>362</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1472-4642.2009.00615.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Dickinson, Zuckerberg &amp; Bonter (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dickinson</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Zuckerberg</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Bonter</surname>
+<given-names>DN</given-names>
+</name>
+</person-group>
+<article-title>Citizen science as an ecological research tool: challenges and benefits</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2010">2010</year>
+<volume>41</volume>
+<fpage>149</fpage>
+<lpage>172</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-ecolsys-102209-144636</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Dye et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dye</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Hughes</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Tinker</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Berry</surname>
+<given-names>DI</given-names>
+</name>
+<name>
+<surname>Holliday</surname>
+<given-names>NP</given-names>
+</name>
+<name>
+<surname>Kent</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Kennington</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Inall</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Smyth</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Nolan</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Lyons</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Andres</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Beszczynska-Möller</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Impacts of climate change on temperature (air and sea)</article-title>
+<source>MCCIP Science Review</source>
+<year iso-8601-date="2013">2013</year>
+<volume>2013</volume>
+<fpage>1</fpage>
+<lpage>12</lpage>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Economidis &amp; Koutrakis (2001)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Economidis</surname>
+<given-names>PS</given-names>
+</name>
+<name>
+<surname>Koutrakis</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<source>Common Names of Commercially Important Hellenic Marine Organisms</source>
+<year iso-8601-date="2001">2001</year>
+<publisher-loc>Thessaloniki</publisher-loc>
+<publisher-name>Aristotle University</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Espeland et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Espeland</surname>
+<given-names>SH</given-names>
+</name>
+<name>
+<surname>Nedreaas</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Mortensen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Skiftesvik</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>Agnalt</surname>
+<given-names>A-L</given-names>
+</name>
+<name>
+<surname>Durif</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Harkestad</surname>
+<given-names>LS</given-names>
+</name>
+<name>
+<surname>Karlsbakk</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Knutsen</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Thangstad</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Jørstad</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bjordal</surname>
+<given-names>Å</given-names>
+</name>
+<name>
+<surname>Gjøsæter</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Kunnskapsstatus leppefisk—utfordringer i et økende fiskeri</article-title>
+<source>Fisken og Havet 7/2010</source>
+<year iso-8601-date="2010">2010</year>
+<publisher-name>Institute of Marine Research</publisher-name>
+<fpage>35</fpage>
+<comment>[in Norwegian]</comment>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Faust et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Faust</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Halvorsen</surname>
+<given-names>KT</given-names>
+</name>
+<name>
+<surname>Andersen</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Knutsen</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>André</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Cleaner fish escape salmon farms and hybridize with local wrasse populations</article-title>
+<source>Royal Society Open Science</source>
+<year iso-8601-date="2018">2018</year>
+<volume>5</volume>
+<issue>3</issue>
+<fpage>171752</fpage>
+<pub-id pub-id-type="doi">10.1098/rsos.171752</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Fetterplace et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fetterplace</surname>
+<given-names>LC</given-names>
+</name>
+<name>
+<surname>Turnbull</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Knott</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Hardy</surname>
+<given-names>NA</given-names>
+</name>
+</person-group>
+<article-title>The devil in the deep: expanding the known habitat of a rare and protected fish</article-title>
+<source>European Journal of Ecology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>4</volume>
+<issue>1</issue>
+<fpage>22</fpage>
+<lpage>29</lpage>
+<pub-id pub-id-type="doi">10.2478/eje-2018-0003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Froese &amp; Pauly (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Froese</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Pauly</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>FishBase. World Wide Web electronic publication</article-title>
+<year iso-8601-date="2018">2018</year>
+<uri>http://www.fishbase.org/</uri>
+<version designator="02/2018">version 02/2018</version>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Granek et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Granek</surname>
+<given-names>EF</given-names>
+</name>
+<name>
+<surname>Madin</surname>
+<given-names>EMP</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Figueira</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Cameron</surname>
+<given-names>DS</given-names>
+</name>
+<name>
+<surname>Hogan</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Kristianson</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>De Villiers</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Post</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zahn</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Arlinghaus</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Engaging recreational fishers in management and conservation: global case studies</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>22</volume>
+<issue>5</issue>
+<fpage>1125</fpage>
+<lpage>1134</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1523-1739.2008.00977.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Hallberg (2011)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Hallberg</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Assemblages of mobile fauna in the Koster-area: correlative patterns, predictive modelling, mapping and possible applications in the planning of a marine national park</article-title>
+<year iso-8601-date="2011">2011</year>
+<comment>MSc thesis</comment>
+<publisher-loc>Sweden</publisher-loc>
+<publisher-name>University of Gothenburg</publisher-name>
+<fpage>33</fpage>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Hanefors (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hanefors</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Brunsnultra—en ovanlig fångst</article-title>
+<source>Sportfiske</source>
+<year iso-8601-date="1995">1995</year>
+<volume>12</volume>
+<fpage>73</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Hellenberg (2014a)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hellenberg</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Brunsnultra—en ny art och nytt rekord</article-title>
+<source>Svenskt Fiske</source>
+<year iso-8601-date="2014a">2014a</year>
+<volume>4</volume>
+<fpage>65</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Hellenberg (2014b)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hellenberg</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Nytt rekord under rekordåret</article-title>
+<source>Svenskt Fiske</source>
+<year iso-8601-date="2014b">2014b</year>
+<volume>5</volume>
+<fpage>64</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Hiddink &amp; Ter Hofstede (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hiddink</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Ter Hofstede</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Climate induced increases in species richness of marine fishes</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>14</volume>
+<issue>3</issue>
+<fpage>453</fpage>
+<lpage>460</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2007.01518.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Holm &amp; Mattson (1980)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Holm</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Mattson</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title><italic>Thorogobius ephippiatus</italic> (Pisces) found on the west coast of Sweden</article-title>
+<source>Sarsia</source>
+<year iso-8601-date="1980">1980</year>
+<volume>66</volume>
+<issue>1</issue>
+<fpage>87</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="doi">10.1080/00364827.1981.10414526</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Hyder et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hyder</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Weltersbach</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Armstrong</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ferter</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Townhill</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Ahvonen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Arlinghaus</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Baikov</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Bellanger</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Birzaks</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Borch</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cambie</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>De Graaf</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Diogo</surname>
+<given-names>HMC</given-names>
+</name>
+<name>
+<surname>Dziemian</surname>
+<given-names>Ł</given-names>
+</name>
+<name>
+<surname>Gordoa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Grzebielec</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Hartill</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Kagervall</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kapiris</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Karlsson</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Klieven</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Lejk</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Levrel</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Lovell</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Lyle</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Moilanen</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Monkman</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Morales-Nin</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Mugerza</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Martinez</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>O’Reilly</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Olesen</surname>
+<given-names>HJ</given-names>
+</name>
+<name>
+<surname>Papadopoulos</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pita</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Radford</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Radtke</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Roche</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Rocklin</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ruiz</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Scougal</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Silvestri</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Skov</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Steinback</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Sundelöf</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Svagzdys</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Turnbull</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Van Der Hammen</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Van Voorhees</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Van Winsen</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Verleye</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Veiga</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Vølstad</surname>
+<given-names>J-H</given-names>
+</name>
+<name>
+<surname>Zarauz</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zolubas</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Strehlow</surname>
+<given-names>HV</given-names>
+</name>
+</person-group>
+<article-title>Recreational sea fishing in Europe in a global context – participation rates, fishing effort, expenditure, and implications for monitoring and assessment</article-title>
+<source>Fish and Fisheries</source>
+<year iso-8601-date="2018">2018</year>
+<volume>19</volume>
+<fpage>225</fpage>
+<lpage>243</lpage>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Kaschner et al. (2016)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Kaschner</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Kesner-Reyes</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Garilao</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Rius-Barile</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Rees</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Froese</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>AquaMaps: Predicted range maps for aquatic species. World Wide Web electronic publication</article-title>
+<year iso-8601-date="2016">2016</year>
+<version designator="8.2016">Version 8.2016</version>
+<uri>www.aquamaps.org</uri>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Kesner-Reyes et al. (2012)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kesner-Reyes</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Kaschner</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Kullander</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Garilao</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Barile</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Froese</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Froese</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Pauly</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>AquaMaps: algorithm and data sources for aquatic organisms</article-title>
+<source>FishBase</source>
+<year iso-8601-date="2012">2012</year>
+<comment>World Wide Web electronic publication</comment>
+<version designator="04/2012">Version 04/2012</version>
+<uri>www.fishbase.org</uri>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Kullander (1999)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kullander</surname>
+<given-names>SO</given-names>
+</name>
+</person-group>
+<source>Swedish fishes: checklist of Swedish fishes</source>
+<year iso-8601-date="1999">1999</year>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>Swedish Museum of Natural History</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Kullander (2002)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kullander</surname>
+<given-names>SO</given-names>
+</name>
+</person-group>
+<source>Svenska Fiskar: Förteckning Över svenska Fiskar</source>
+<year iso-8601-date="2002">2002</year>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>Swedish Museum of Natural History</publisher-name>
+<comment>[in Swedish]</comment>
+<uri>http://www.nrm.se/download/18.4e32c81078a8d9249800010214/1367705199489/svenska+fiskar.pdf</uri>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Kullander et al. (2012)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kullander</surname>
+<given-names>SO</given-names>
+</name>
+<name>
+<surname>Nyman</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Jilg</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Delling</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title><italic>Nationalnyckeln Till Sveriges Flora Och Fauna. Strålfeniga Fiskar</italic></article-title>
+<source>Actinopterygii</source>
+<year iso-8601-date="2012">2012</year>
+<publisher-loc>Uppsala</publisher-loc>
+<publisher-name>ArtDatabanken</publisher-name>
+<fpage>517</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Larsson &amp; Stevens (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Larsson</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Stevens</surname>
+<given-names>RL</given-names>
+</name>
+</person-group>
+<article-title>Seismic stratigraphy of late Quaternary deposits in the eastern Skagerrak</article-title>
+<source>Marine and Petroleum Geology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>25</volume>
+<issue>10</issue>
+<fpage>1023</fpage>
+<lpage>1039</lpage>
+<pub-id pub-id-type="doi">10.1016/j.marpetgeo.2007.11.005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Lilljeborg (1881)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lilljeborg</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Lilljeborg</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title><italic>Labrus palloni</italic> (Risso). Pallonsnultran</article-title>
+<source>Sveriges Och Norges Fiskar</source>
+<year iso-8601-date="1881">1881</year>
+<publisher-loc>Upsala</publisher-loc>
+<publisher-name>W. Schultz</publisher-name>
+<fpage>447</fpage>
+<lpage>452</lpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Lundgren &amp; Waje (2015)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lundgren</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Waje</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<source>Havsfiskeboken</source>
+<year iso-8601-date="2015">2015</year>
+<publisher-loc>Vallda</publisher-loc>
+<publisher-name>Twow</publisher-name>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Machias et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Machias</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vassilopoulou</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Vatsos</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Kallianiotis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Papaconstantinou</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Tsimenides</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Bottom trawl discards in the northeastern Mediterranean Sea</article-title>
+<source>Fisheries Research</source>
+<year iso-8601-date="2001">2001</year>
+<volume>53</volume>
+<issue>2</issue>
+<fpage>181</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1016/s0165-7836(00)00298-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Muus, Nielsen &amp; Svedberg (1999)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Muus</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Nielsen</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>Svedberg</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<source>Havsfisk Och Fiske i Nordvästeuropa</source>
+<year iso-8601-date="1999">1999</year>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>Bokförlaget Prisma</publisher-name>
+<fpage>337</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Nicolas et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nicolas</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Chaalali</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Drouineau</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Lobry</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Uriarte</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Borja</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Boët</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Impact of global warming on European tidal estuaries: some evidence of northward migration of estuarine fish species</article-title>
+<source>Regional Environmental Change</source>
+<year iso-8601-date="2011">2011</year>
+<volume>11</volume>
+<issue>3</issue>
+<fpage>639</fpage>
+<lpage>649</lpage>
+<pub-id pub-id-type="doi">10.1007/s10113-010-0196-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Nielsen &amp; Svedberg (2006)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Nielsen</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Svedberg</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<source>Våra Fiskar</source>
+<year iso-8601-date="2006">2006</year>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>Prisma</publisher-name>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Nilsson (1997)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Nilsson</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Biologiska värden i Kosterfjorden—en sammanställning och analys av nuvarande kunskap</article-title>
+<source>Naturvårdsverket Rapport 4749</source>
+<year iso-8601-date="1997">1997</year>
+<series>Naturvårdsverket (Swedish Environmental Protection Agency)</series>
+<fpage>75</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Öberg (1870)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Öberg</surname>
+<given-names>PEW</given-names>
+</name>
+</person-group>
+<article-title><italic>Acantholabrus Couchi</italic> Cuv. Et Val., en för Skandinaviens fauna ny fiskart. <italic>Öfversigt af Kongl</italic></article-title>
+<source>Vetenskaps-Akademiens Förhandlingar</source>
+<year iso-8601-date="1870">1870</year>
+<volume>1870</volume>
+<fpage>391</fpage>
+<lpage>395</lpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Palmkvist et al. (2016)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Palmkvist</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Scherer</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Liungman</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rådén</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Mattson</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<collab>
+<institution>Länsstyrelserna Västra Götaland</institution>
+</collab>
+<collab>
+<institution>Halland och Skåne län</institution>
+</collab>
+</person-group>
+<article-title>Rapport nummer 1: Epibentisk fauna i Västerhavet</article-title>
+<year iso-8601-date="2016">2016</year>
+<source>Inventering av marin epibentisk fauna på djupa bottnar</source>
+<comment>Online publication: Länsstyrelserna Västra Götaland, Halland och Skåne län, 7–142</comment>
+<uri>www.lansstyrelsen.se/vastragotaland</uri>
+<comment>(report 2016:30). [in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Pethon &amp; Svedberg (2004)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Pethon</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Svedberg</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<source>Fiskar</source>
+<year iso-8601-date="2004">2004</year>
+<edition designator="4">Fourth edition</edition>
+<publisher-loc>Stockholm</publisher-loc>
+<publisher-name>Bokförlaget Prisma</publisher-name>
+<fpage>245</fpage>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Pollard (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pollard</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title><italic>Acantholabrus palloni</italic></article-title>
+<source>The IUCN Red List of Threatened Species</source>
+<year iso-8601-date="2010">2010</year>
+<volume>2010</volume>
+<fpage>e.T186106A8501267</fpage>
+<uri>http://www.iucnredlist.org/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-05-12">12 May 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Rinde, Hjermann &amp; Staalstrøm (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Rinde</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Hjermann</surname>
+<given-names>DØ</given-names>
+</name>
+<name>
+<surname>Staalstrøm</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Larvae Drift Simulation of the Pacific Oyster in Skagerrak–Influence of Climate Change on Larvae Development, Survival and Dispersal</source>
+<year iso-8601-date="2016">2016</year>
+<series>NIVA Report 7016–2016</series>
+<publisher-loc>Oslo</publisher-loc>
+<publisher-name>Norwegian Institute for Water Research</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Santos, Porteiro &amp; Barreiros (1997)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Santos</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Porteiro</surname>
+<given-names>FM</given-names>
+</name>
+<name>
+<surname>Barreiros</surname>
+<given-names>JP</given-names>
+</name>
+</person-group>
+<source>Marine fishes of the Azores: annotated checklist and bibliography: a catalogue of the Azorean marine Ichthyodiversity</source>
+<year iso-8601-date="1997">1997</year>
+<publisher-loc>Ponta Delgada</publisher-loc>
+<publisher-name>Universidade dos Açores</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Sartoretto et al. (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sartoretto</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Francour</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Harmelin</surname>
+<given-names>J-G</given-names>
+</name>
+<name>
+<surname>Charbonnel</surname>
+<given-names>É</given-names>
+</name>
+</person-group>
+<article-title>Observations <italic>in situ</italic> de deux Labridae profonds, <italic>Lapanella fasciata</italic> et <italic>Acantholabrus palloni</italic>, en Méditerranée nord-occidentale</article-title>
+<source>Cybium</source>
+<year iso-8601-date="1997">1997</year>
+<volume>21</volume>
+<fpage>37</fpage>
+<lpage>44</lpage>
+<comment>[in French]</comment>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Sfakiotakis, Davies &amp; Lane (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sfakiotakis</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Davies</surname>
+<given-names>JBC</given-names>
+</name>
+<name>
+<surname>Lane</surname>
+<given-names>DM</given-names>
+</name>
+</person-group>
+<article-title>Review of fish swimming modes for aquatic locomotion</article-title>
+<source>IEEE Journal of Oceanic Engineering</source>
+<year iso-8601-date="1999">1999</year>
+<volume>24</volume>
+<issue>2</issue>
+<fpage>237</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1109/48.757275</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Silvertown (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Silvertown</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>A new dawn for citizen science</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2009">2009</year>
+<volume>24</volume>
+<issue>9</issue>
+<fpage>467</fpage>
+<lpage>471</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2009.03.017</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Skov, Jansen &amp; Arlinghaus (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Skov</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Jansen</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Arlinghaus</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>62 years of population dynamics of European perch (<italic>Perca fluviatilis</italic>) in a mesotrophic lake tracked using angler diaries: the role of commercial fishing, predation and temperature</article-title>
+<source>Fisheries Research</source>
+<year iso-8601-date="2017">2017</year>
+<volume>195</volume>
+<fpage>71</fpage>
+<lpage>79</lpage>
+<pub-id pub-id-type="doi">10.1016/j.fishres.2017.06.016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>SMNH (Swedish Museum of Natural History) (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab><institution>SMNH (Swedish Museum of Natural History)</institution></collab>
+</person-group>
+<article-title>Ichthyology database: collection report 47556</article-title>
+<year iso-8601-date="2018">2018</year>
+<uri>http://artedi.nrm.se/nrmfish/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-08-17">17 August 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Stuxberg (1894)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Stuxberg</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Sveriges och Norges fiskar. Deras lefnadssätt, födoämnen, lektid, förekomst och utbredning jämte inledning till fiskarnes naturalhistoria</source>
+<year iso-8601-date="1894">1894</year>
+<publisher-loc>Göteborg</publisher-loc>
+<publisher-name>Wettergren &amp; Kerber</publisher-name>
+<comment>[in Swedish]</comment>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Svansson (1975)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Svansson</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Physical and chemical oceanography of the Skagerrak and the Kattegatt. I. open sea conditions</source>
+<year iso-8601-date="1975">1975</year>
+<comment>Institute of Marine Research, Report No. 1</comment>
+<publisher-loc>Uddevalla</publisher-loc>
+<publisher-name>Fishery Board of Sweden/Bohusläningens AB</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Swaby &amp; Potts (1990)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Swaby</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>GW</given-names>
+</name>
+</person-group>
+<article-title>Rare British marine fishes-identification and conservation</article-title>
+<source>Journal of Fish Biology</source>
+<year iso-8601-date="1990">1990</year>
+<volume>37</volume>
+<issue>suppl. A</issue>
+<fpage>133</fpage>
+<lpage>143</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1095-8649.1990.tb05029.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Venturelli, Hyder &amp; Skov (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Venturelli</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Hyder</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Skov</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Angler apps as a source of recreational fisheries data: opportunities, challenges and proposed standards</article-title>
+<source>Fish and Fisheries</source>
+<year iso-8601-date="2017">2017</year>
+<volume>18</volume>
+<issue>3</issue>
+<fpage>578</fpage>
+<lpage>595</lpage>
+<pub-id pub-id-type="doi">10.1111/faf.12189</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Wirtz et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wirtz</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Brito</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Falcón</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Freitas</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Fricke</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Monteiro</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Reiner</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Tariche</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>The coastal fishes of the Cape Verde Islands–new records and an annotated check-list</article-title>
+<source>Spixiana</source>
+<year iso-8601-date="2013">2013</year>
+<volume>36</volume>
+<fpage>113</fpage>
+<lpage>142</lpage>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

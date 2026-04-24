@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5940</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5940</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Ecology</subject>
+<subject>Entomology</subject>
+<subject>Environmental Impacts</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Urbanisation and wing asymmetry in the western honey bee (<italic>Apis mellifera</italic>, Linnaeus 1758) at multiple scales</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Leonard</surname>
+<given-names>Ryan J.</given-names>
+</name>
+<email>ryan.leonard@sydney.edu.au</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Wat</surname>
+<given-names>Katie K.Y.</given-names>
+</name>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7867-414X</contrib-id>
+<name name-style="western">
+<surname>McArthur</surname>
+<given-names>Clare</given-names>
+</name>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-6673-4475</contrib-id>
+<name name-style="western">
+<surname>Hochuli</surname>
+<given-names>Dieter F.</given-names>
+</name>
+</contrib>
+<aff><institution>School of Life and Environmental Sciences, The University of Sydney</institution>, <addr-line>Camperdown, NSW</addr-line>, <country>Australia</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Negri</surname>
+<given-names>Ilaria</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-03">
+<day>3</day>
+<month>12</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5940</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-04-10">
+<day>10</day>
+<month>4</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-16">
+<day>16</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Leonard et al.</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Leonard et al.</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5940"/>
+<abstract>
+<p>Changes in the mean and variance of phenotypic traits like wing and head morphology are frequently used as indicators of environmental stress experienced during development and may serve as a convenient index of urbanization exposure. To test this claim, we collected adult western honey bee (<italic>Apis mellifera</italic> Linnaeus 1758, Hymenoptera, Apidae) workers from colonies located across an urbanization gradient, and quantified associations between the symmetries of both wing size and wing shape, and several landscape traits associated with urbanization. Landscape traits were assessed at two spatial scales (three km and 500 m) and included vegetation and anthropogenic land cover, total road length, road proximity and, population and dwelling density. We then used geometric morphometric techniques to determine two wing asymmetry scores—centroid size, a measure of wing size asymmetry and Procrustes distance, a measure of wing shape asymmetry. We found colony dependent differences in both wing size and shape asymmetry. Additionally, we found a negative association between wing shape asymmetry and road proximity at the three km buffer, and associations between wing shape asymmetry and road proximity, anthropogenic land cover and vegetation cover at the 500 m buffer. Whilst we were unable to account for additional variables that may influence asymmetry including temperature, pesticide presence, and parasitism our results demonstrate the potential usefulness of wing shape asymmetry for assessing the impact of certain landscape traits associated with urbanization. Furthermore, they highlight important spatial scale considerations that warrant investigation in future phenotypic studies assessing urbanization impact.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Procrustes analysis</kwd>
+<kwd><italic>Apis mellifera</italic></kwd>
+<kwd>Urbanization</kwd>
+<kwd>Wing asymmetry</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The authors received no funding for this work.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>The unique interplay between humans and the environment in cities generates novel anthropogenic stressors such as artificial lighting, air pollution, and elevated temperatures that can profoundly affect organisms at multiple levels of biological organization (<xref ref-type="bibr" rid="ref-19">Johnson &amp; Munshi-South, 2017</xref>; <xref ref-type="bibr" rid="ref-50">Williams, Hahs &amp; Vesk, 2015</xref>; <xref ref-type="bibr" rid="ref-2">Alberti, Marzluff &amp; Hunt, 2017</xref>). Such anthropogenic stressors can induce physiological responses such as cell death (<xref ref-type="bibr" rid="ref-29">Lodovici &amp; Bigagli, 2011</xref>), and elevate stress hormone concentrations (<xref ref-type="bibr" rid="ref-36">Ouyang et al., 2015</xref>; <xref ref-type="bibr" rid="ref-40">Regoli et al., 2006</xref>). Furthermore, they may alter behaviours, including daytime activity (<xref ref-type="bibr" rid="ref-10">Dominoni &amp; Partecke, 2015</xref>) and foraging efficiency (<xref ref-type="bibr" rid="ref-13">Gate, McNeill &amp; Ashmore, 1995</xref>), and significantly influence the composition of biological communities, resulting in increased or decreased numbers of certain functional groups including predators and scavenging individuals (<xref ref-type="bibr" rid="ref-7">Davies, Bennie &amp; Gaston, 2012</xref>). Given the large number of anthropogenic stressors present in cities and the magnitude with which they affect species, it is imperative we find sensitive indicators (i.e. biomarkers) that can detect detrimental effects before populations are irreversibly impacted.</p>
+<p>Biomarkers may act as functional measures of exposure to anthropogenic stressors and environmental conditions more generally, as such, they can indicate deteriorating environmental quality and, ultimately, serve as precursors to additional physiological, behavioural, and population-level impacts (<xref ref-type="bibr" rid="ref-17">Hook, Gallagher &amp; Batley, 2014</xref>, <xref ref-type="bibr" rid="ref-14">Hagger et al., 2006</xref>). Traditional biomarkers including abundance, reproductive output, and survival are typically time consuming and cost-prohibitive to quantify. As such, it is unsurprising urban ecologists have spent a great deal of the last two decades testing the utility of a suite of potential biomarkers including physiological and phenotypic proxies of fitness such as the quality or concentration of hormones (e.g. testosterone, <xref ref-type="bibr" rid="ref-6">Crago et al. (2011)</xref>) and organism size and mass (e.g. morphology and body size of European blackbirds, <italic>Terdus merula</italic> (Linnaeus, 1758, Passeriformes, Turdidae); <xref ref-type="bibr" rid="ref-11">Evans et al. (2009)</xref>).</p>
+<p>One biomarker that shows increasing promise is fluctuating asymmetry. This type of asymmetry occurs when developmental errors resulting from exogenous environmental conditions experienced during embryogenesis produce asymmetry in morphological traits normally distributed around a mean of zero (<xref ref-type="bibr" rid="ref-51">Palmer &amp; Strobeck, 2003</xref>). Fluctuating asymmetry occurs in bilaterally symmetrical body parts such as wings (<xref ref-type="bibr" rid="ref-15">Hoffmann, Collins &amp; Woods, 2002</xref>; <xref ref-type="bibr" rid="ref-16">Hoffmann et al., 2005</xref>), head capsules (<xref ref-type="bibr" rid="ref-28">Leamy et al., 2015</xref>), jaws (<xref ref-type="bibr" rid="ref-49">Wiig &amp; Bachmann, 2014</xref>), and scales (<xref ref-type="bibr" rid="ref-5">Brown et al., 2017</xref>). It is distinct from other types of asymmetry including directional asymmetry, where the population mean of the left right differences do not equal zero, and antisymmetry, where asymmetry is the norm but asymmetry towards the left and right sides are equally common, that is normally distributed around a mean of zero (<xref ref-type="bibr" rid="ref-23">Klingenberg, 2015</xref>). Fluctuating asymmetry is often considered a meaningful index of environmentally induced developmental stability (<xref ref-type="bibr" rid="ref-8">De Anna, Bonisoli-Alquati &amp; Mousseau, 2013</xref>) and is associated with several fundamental life history components including growth, fecundity, and longevity (<xref ref-type="bibr" rid="ref-33">Møller, 1997</xref>). Additionally, fluctuating asymmetry occurs across several taxonomic boundaries including plants, vertebrates, and invertebrates (<xref ref-type="bibr" rid="ref-23">Klingenberg, 2015</xref>). Following larval exposure to certain environmental conditions under standardized conditions (i.e. laboratory), several insect taxa may exhibit increased or no change in wing size and/or wing shape fluctuating asymmetry. In the bumblebee <italic>Bombus impatiens</italic> (Cresson, 1863, Hymenoptera, Apidae), for example, exposure to CO<sub>2</sub> increases wing shape asymmetry (<xref ref-type="bibr" rid="ref-24">Klingenberg et al., 2001</xref>), whilst low temperatures increase wing shape but not wing size asymmetry in the noctuid moth, <italic>Helicoverpa punctigera</italic> (Wallengren, 1860, Lepidoptera, Noctuidae), (<xref ref-type="bibr" rid="ref-15">Hoffmann, Collins &amp; Woods, 2002</xref>). Furthermore, pollen deprivation has no impact on wing size asymmetry in neither male or female honey bees (<italic>Apis mellifera</italic>) (<xref ref-type="bibr" rid="ref-45">Szentgyörgyi et al., 2017</xref>).</p>
+<p>Attempts to quantify fluctuating asymmetry in the field and associate variation with environmental conditions including gradients of contamination or urbanization have yielded mixed results (<xref ref-type="bibr" rid="ref-35">Nunes, Araújo &amp; Marchini, 2015</xref>; <xref ref-type="bibr" rid="ref-48">Weller &amp; Ganzhorn, 2004</xref>; <xref ref-type="bibr" rid="ref-31">Lutterschmidt, Martin &amp; Schaefer, 2016</xref>; <xref ref-type="bibr" rid="ref-3">Banaszak-Cibicka et al., 2018</xref>). Indeed, red mason bees (<italic>Osmia bicornis</italic>, Linnaeus 1758, Hymenoptera, Megachilidae) collected along a zinc, cadmium, and lead contamination gradient in Poland show no difference in wing size or shape asymmetry (<xref ref-type="bibr" rid="ref-45">Szentgyörgyi et al., 2017</xref>). Similarly, euglossine bees (<italic>Eulaema nigrita,</italic> Lepoletier 1841, Hymenoptera, Apidae) collected from agricultural landscapes where pesticide use is prevalent did not record higher fluctuating asymmetry than individuals collected from a tropical savannah (<xref ref-type="bibr" rid="ref-39">Pinto et al., 2015</xref>). In carabid beetles, individuals display a species dependent effect of urbanization on elytra size asymmetry with ubiquitous species like <italic>Nebria brevicollis</italic> (Fabricuis, 1792, Coleoptera, Carabidae), and <italic>Leistus rufomarginatus</italic> (Duftschmid, 1812, Coleoptera, Carabidae) exhibiting no effect, yet other species including <italic>Platynus obscurus</italic> (Herbst, 1784, Coleoptera, Carabidae) and <italic>Leistus ferrugineus</italic> (Linnaeus 1758, Coleoptera, Carabidae) showing increased asymmetry with decreasing distance towards the city centre (<xref ref-type="bibr" rid="ref-48">Weller &amp; Ganzhorn, 2004</xref>). Quantifying changes (if any) in the fluctuating asymmetry of species encountering urban areas and exposed to anthropogenic stressors of varying intensities is a critical step in determining the utility of morphometric techniques and the candidate species most appropriate for assessing asymmetry variation.</p>
+<p>We assessed fluctuating asymmetries in wing size and wing shape, among adult western honey bees (<italic>A. mellifera</italic>) collected from colonies located along an urbanization gradient in the Greater Sydney Region. The western honey bee is an excellent model organism to study the effects of anthropogenic stressors and urbanization more generally due to its ubiquity across different landscape types including cities. Furthermore, wing asymmetry is common in western honey bees and frequently used to investigate the consequences of ploidy and hybridization (<xref ref-type="bibr" rid="ref-44">Smith, Crespi &amp; Bookstein, 1997</xref>). We predicted wing shape and size fluctuating asymmetry would increase as anthropogenic stressors including anthropogenic land cover, road proximity, and housing density increased. We also sampled anthropogenic stressors at multiple spatial scales, allowing us to test how the spatial scale at which data are recorded influence associations between anthropogenic stressors and fluctuating asymmetry. We predicted the effects of anthropogenic stressors on fluctuating shape and size asymmetry would be consistent at both fine and coarse spatial scales. Multi-scale approaches like this should be a key consideration in urban ecology given they can substantially affect the interpretation of biological patterns. For example, urbanisation at fine (i.e. 200 × 200 m plots) but not coarse (i.e. 3 × 3 km) spatial scales explains variation in the fitness (i.e. survival) of <italic>Lasiommata megera</italic> (Linnaeus, 1767, Lepidoptera, Nymphalidae) caterpillars (<xref ref-type="bibr" rid="ref-20">Kaiser, Merckx &amp; Van Dyck, 2016</xref>).</p>
+</sec>
+<sec sec-type="methods">
+<title>Methods</title>
+<sec>
+<title>Sample collection and measurement</title>
+<p>We sampled 22 permanent disease-free colonies managed by amateur bee keepers across several local government areas within the Greater Sydney Region (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). All colonies were located within the Sydney Basin Bioregion, an area characterized by temperate climatic conditions and sandy soils derived from Hawkesbury Sandstone (<xref ref-type="bibr" rid="ref-34">NPWS, 2003</xref>). Mean annual temperature in this region is 16 °C and 1,000 mm average annual rainfall. In each case, bee keepers collected between 10 and 15 dead bees found at the colony entrance (i.e. landing board) each morning over a week-long collection period, from the 8th to the 14th of February 2016. The disposal of dead nest mates from within the colony by honey bee ‘undertakers,’ is a common behavioural response that facilitates colony hygiene (<xref ref-type="bibr" rid="ref-47">Visscher, 1983</xref>). These dead bees are typically older and have likely transitioned through all stages of the honey bee temporal caste system including cell cleaner, nurse, and forager (<xref ref-type="bibr" rid="ref-27">Langstroth, 1857</xref>). By using these bees, we attempted to reduce temporal dependent differences in exposure to environmental stressors during development. Asymmetry and, especially, fluctuating asymmetry appears during development and is believed to reflect developmental instability (<xref ref-type="bibr" rid="ref-37">Palmer, 1996</xref>). After collection by bee keepers, bees were stored in ethanol until analyses.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5940/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Colony sampling locations within Sydney region.</title>
+<p>Colony locations within the Greater Sydney region. Map data: Data SIO, NOAA, U.S. Navy, NGA, GEBCO. Image from Google Earth and ©2018 CNES/Airbus.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5940/fig-1.png"/>
+</fig>
+<p>Before morphometric analyses, the forewings of 10 randomly selected individuals per colony were detached at the base of each wing, placed on a microscope slide and secured with a coverslip. Bees with damaged wings (i.e. wings where all 19 wing vein junctions were not present) were excluded. Asymmetry has been verified in small sample sizes including &lt;10 individuals (<xref ref-type="bibr" rid="ref-37">Palmer, 1996</xref>). Each slide was photographed at 12.5 × magnification using a compound light microscope and microscope Camera Leica MC170 HD attachment. Using tPSDig software (<xref ref-type="bibr" rid="ref-41">Rohlf, 2001</xref>), we digitized photographs and collected a set of 19 landmarks positioned at wing vein junctions (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). To reduce measurement error, this process was repeated, independently, two times and the average taken. Right wings were also mirrored to be comparable to left wings. In all cases, measurements were made by the same person.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5940/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title><italic>Apis mellifera</italic> forewing with landmark locations.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5940/fig-2.png"/>
+</fig>
+</sec>
+<sec>
+<title>Quantifying size and shape variation</title>
+<p>We assessed wing size and shape variation between colonies using Procrustes analysis, an approach that characterizes shape mathematically using a series of transformations to remove the effects of location, scale, and rotation (<xref ref-type="bibr" rid="ref-26">Klingenberg &amp; McIntyre, 1998</xref>, <xref ref-type="bibr" rid="ref-25">Klingenberg, Barluenga &amp; Meyer, 2002</xref>). We conducted the analysis on landmarks collected from both the left and right wing of individuals in MorphoJ software (<xref ref-type="bibr" rid="ref-22">Klingenberg, 2011</xref>). The output from this analysis includes a set of landmark coordinates containing shape information for each wing that has been corrected for size and position. To characterise wing size, we derived centroid sizes from landmark coordinates. Centroid size describes the spread of landmarks around their centre of gravity and is calculated as the square root of the sum of squared distances of each landmark from the centroid of each wing (<xref ref-type="bibr" rid="ref-23">Klingenberg, 2015</xref>). The centroid size for each wing was used to calculate wing size asymmetry by dividing the absolute difference between the left and right centroid sizes by the mean centroid size and multiplying by 100. Higher values indicate greater wing size asymmetry between the left and right wings. To calculate wing shape variation, we used wing shape asymmetry, a measure of absolute shape differences (<xref ref-type="bibr" rid="ref-23">Klingenberg, 2015</xref>). Wing shape asymmetry is calculated by taking the square root of the sum of squared differences between corresponding right and left-wing Procrustes’ coordinates. As with wing size asymmetry, higher wing shape asymmetry values indicate greater wing shape asymmetry.</p>
+</sec>
+<sec>
+<title>Quantifying urbanisation</title>
+<p>We quantified habitat variables, using ArcMap (v10.3 ESRI; Redlands, CA, USA). Initially, we created a 500 m and three km buffer around each colony (<xref ref-type="supplementary-material" rid="supp-1">Table S1</xref>). These buffer distances reflect both short- and long-distance foraging radii for western honey bees (<xref ref-type="bibr" rid="ref-4">Beekman &amp; Ratnieks, 2000</xref>) and allowed us to investigate the effects of spatial scale on wing size and shape variation. Spatial scale (i.e. fine vs. coarse) is a key consideration in urban ecology given scale dependent effects on phenotype are common (<xref ref-type="bibr" rid="ref-30">Lowe, Wilder &amp; Hochuli, 2014</xref>). We determined human population density, dwelling density, per cent cover of anthropogenic land use, total length of road, and total amount of vegetation per buffer area (for further details see <xref ref-type="supplementary-material" rid="supp-2">Table S2</xref>). We also determined the distance (km) between each colony and its nearest road. These variables were measured using Geographic Information Systems (GIS) layers obtained from the New South Wales Department of Finance, Services and Innovation, Department of Environment, Climate Change and Water and the Bureau of Statistics (ABS). We derived urban population and land use statistics from the 2016 ABS census ‘Mesh Blocks’ districts, the smallest geographical unit for which census data are available.</p>
+</sec>
+<sec>
+<title>Statistical analyses</title>
+<p>Given differences in bilateral traits are typically small (i.e. ≤5% of the total variation in a given trait), fluctuating asymmetry indices are especially prone to measurement error (<xref ref-type="bibr" rid="ref-32">Merila &amp; Biorklund, 1995</xref>). For this reason, we estimated measurement error for wing size and shape asymmetry by calculating the technical error of measurement (TEM) for each bee (<xref ref-type="bibr" rid="ref-18">Jamison &amp; Ward, 1993</xref>; <xref ref-type="bibr" rid="ref-38">Perini et al., 2005</xref>). To calculate TEM, the difference between the first and second sets of measurements are recorded, and the square root of the sum of squares of these differences is divided by the total number of measurements times two (<xref ref-type="bibr" rid="ref-18">Jamison &amp; Ward, 1993</xref>). TEM is expressed in the same units as those used to make the original observation and smaller TEM values indicate lower measurement error (better accuracy of the investigator to perform measurement) (<xref ref-type="bibr" rid="ref-38">Perini et al., 2005</xref>). Directional asymmetry may also be a major factor influencing total asymmetry (<xref ref-type="bibr" rid="ref-44">Smith, Crespi &amp; Bookstein, 1997</xref>). To determine if directional asymmetry was present in sampled bees, we ran separate one-sample <italic>t</italic>-tests using centroid size and Procrustes coordinates 1 through 38 as response variables. A Bonferroni adjusted alpha of 0.0013 was used to account for multiple comparisons. If the left right differences in these either centroid size or Procrustes coordinates 1 through 38 deviated significantly from zero, we concluded directional asymmetry was present in wing size and shape, respectively (<xref ref-type="bibr" rid="ref-39">Pinto et al., 2015</xref>).</p>
+<p>To determine if wing size asymmetry and wing shape asymmetry differed among colony, we ran separate independent sample Kruskal–Wallis tests, using bee as the unit of replication. This test is equivalent to a one-way ANOVA and appropriate in cases where assumptions such as normality are violated (<xref ref-type="bibr" rid="ref-12">Field, 2013</xref>).</p>
+<p>We assessed the relationship between the habitat variables collected in ArcMap and our two asymmetry measures (i.e. wing size asymmetry and wing shape asymmetry) at both 500 m and three km spatial scales using separate multiple linear regressions. To confirm our findings, we also conducted stepwise model selection by comparing the fit of models with different variables and removing those variables that did not significantly improve the fit of the model to the data (See <xref ref-type="supplementary-material" rid="supp-3">Table S3</xref>). We used either wing size asymmetry or wing shape asymmetry as the response variable and the following predictor variables: total amount of road, nearest straight-line distance from colony to road, anthropogenic land area, vegetation area, number of dwellings, and number of people. Given predictor variables were measured on different scales, to facilitate comparison with parameter estimates we <italic>z</italic>-transformed all variables by first subtracting the mean of all scores from each individual score and then dividing these new values by the standard deviation of all scores (<xref ref-type="bibr" rid="ref-42">Schielzeth, 2010</xref>). We also assessed collinearity among variables by calculating variance inflation factors and generating Pearson correlation matrices. In cases where multicollinearity occurred, we removed one of two predictor variables showing high intercorrelation. Additionally, we assessed normality using Normal P–P plots and in cases where normality was violated, data were transformed. All analyses were performed using SPSS (version 22; IBM Corp., Armonk, NY, USA).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Measurement error and directional asymmetry</title>
+<p>Technical error of measurement was small for both wing size (mean ± S.E. = 0.047 + 0.008) and shape (mean ± S.E. = 0.00128 + 0.00003). Mean centroid size (<italic>t</italic>(252) = −0.55, <italic>p</italic> = 0.58) and Procrustes coordinates 1–38 (<italic>p</italic> &gt; 0.0013 for all coordinates) did not differ significantly from zero, indicating no directional asymmetry.</p>
+</sec>
+<sec>
+<title>Surrounding habitat variation among colony and among colony variation</title>
+<p>Colonies were located across an urbanization gradient that varied greatly in road extent, anthropogenic land and vegetation cover and the densities of dwellings and human inhabitants. In the three km buffer for example, road extent varied from 52,422 to 575,130 m whist anthropogenic land and vegetation cover ranged from 10 to 92% and 0 to 88% of the total buffer area, respectively. The densities of dwellings and people varied from just 3,729 dwellings to 123,553 dwellings and 10,422 people to 250,602 people, respectively. For the 500 m buffer, road extent varied from 5,031 to 29,949 m, anthropogenic land cover ranged from 29 to 100%, and vegetation cover from 0 to 55% of the total buffer area, respectively. For 500 m and three km buffers, the nearest straight line distance from colony to road was eight m and the longest 63 m. Hive significantly affected both wing size asymmetry (<italic>H</italic>(25) = 62.11, <italic>p</italic> &lt; 0.001) and wing shape asymmetry (<italic>H</italic>(25) = 45.80, <italic>p</italic> = 0.007).</p>
+</sec>
+<sec>
+<title>Wing shape asymmetry</title>
+<p>For the three km buffer, colony-road proximity, anthropogenic land area, vegetation area, and number of people significantly predicted wing shape asymmetry (<italic>F</italic><sub>(5,23)</sub> = 3.17, <italic>p</italic> = 0.04, <italic>R</italic><sup>2</sup> = 0.43; <xref ref-type="table" rid="table-1">Table 1</xref>). However, only nearest straight-line distance from colony to road added significantly to the prediction, <italic>p</italic> = 0.01 (<xref ref-type="table" rid="table-1">Table 1</xref>). Hives closer to roads contained bees with higher wing shape asymmetry values (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>).</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5940/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Parameter effect estimates.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5940/table-1.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Buffer</th>
+<th>Explanatory term</th>
+<th>Beta coefficient</th>
+<th><italic>t</italic>-value</th>
+<th><italic>p</italic>-value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Three km</td>
+<td>Nearest straight line distance from hive to road</td>
+<td>−0.60</td>
+<td>−2.79</td>
+<td>0.01</td>
+</tr>
+<tr>
+<td>Anthropogenic land area</td>
+<td>−0.43</td>
+<td>−1.52</td>
+<td>0.15</td>
+</tr>
+<tr>
+<td>Number of people</td>
+<td>0.05</td>
+<td>0.15</td>
+<td>0.88</td>
+</tr>
+<tr>
+<td>Vegetation area</td>
+<td>−0.39</td>
+<td>−1.36</td>
+<td>0.19</td>
+</tr>
+<tr>
+<td rowspan="5">500 m</td>
+<td>Nearest straight line distance from hive to road</td>
+<td>−0.57</td>
+<td>−2.69</td>
+<td>0.02</td>
+</tr>
+<tr>
+<td>Total road length</td>
+<td>0.21</td>
+<td>1.06</td>
+<td>0.30</td>
+</tr>
+<tr>
+<td>Anthropogenic land area</td>
+<td>−0.57</td>
+<td>−2.69</td>
+<td>0.02</td>
+</tr>
+<tr>
+<td>Number of dwellings</td>
+<td>−0.29</td>
+<td>−1.25</td>
+<td>0.23</td>
+</tr>
+<tr>
+<td>Vegetation area</td>
+<td>−0.57</td>
+<td>−2.15</td>
+<td>0.047</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Note:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>Parameter effect estimates (with associated <italic>t</italic>-statistic and <italic>p</italic>-values) for variables collected from three km and 500 m buffers surrounding each hive and included in multiple linear regressions analysing variation in Procrustes distance.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5940/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Relationship between wing shape (Procrustes distance) and nearest colony road distance. Colony-road-distance was the same in both 500 m and three km buffers.</title>
+<p>Each data point indicates the average Procrustes distance value per colony (<italic>n</italic> = 10 individuals). Colony were located across an urbanisation gradient and varied in their closest straight line proximity to nearby roads.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5940/fig-3.png"/>
+</fig>
+<p>For the 500 m buffer, colony-road proximity, anthropogenic land area, vegetation area, total road length, and number of dwellings significantly predicted wing shape asymmetry (<italic>F</italic><sub>(5,21)</sub> = 4.34, <italic>p</italic> = 0.01, <italic>R</italic><sup>2</sup> = 0.58). Colony-road proximity, vegetation area, and anthropogenic land area all added statistically significantly to the prediction (<xref ref-type="table" rid="table-1">Table 1</xref>). Hives closer to roads contained bees with higher wing shape asymmetry values (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Hives surrounded by less vegetation contained bees with higher wing shape asymmetry values (<xref ref-type="fig" rid="fig-4">Fig. 4A</xref>), and colonies surrounded by more anthropogenic land area contained bees with lower wing shape asymmetry values (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5940/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Relationship between Procrustes distance and two landscape traits, vegetation area and anthropogenic land area.</title>
+<p>(A) Relationship between Procrustes distance and vegetation area within 500 m. (B) Relationship between Procrustes distance and anthropogenic land area. Each data point is the average Procrustes distance per hive (<italic>n</italic> = 10 individuals). Data collected using a 500 m buffer surrounding each hive.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5940/fig-4.png"/>
+</fig>
+</sec>
+<sec>
+<title>Wing size asymmetry</title>
+<p>For the three km buffer, we found no effect of our predictor variables on wing size asymmetry (<italic>F</italic><sub>(4,23)</sub> = 1.48, <italic>p</italic> = 0.25, <italic>R</italic><sup>2</sup> = 0.26). Similarly, for the 500 m buffer, we found no effect of our predictor variables on wing size asymmetry (<italic>F</italic><sub>(5,21)</sub> = 1.75, <italic>p</italic> = 0.35, <italic>R</italic><sup>2</sup> = 0.18).</p>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Colony location significantly affected both wing size and wing shape asymmetry. Furthermore, the effect of specific landscape features on wing shape asymmetry differed depending on the spatial scale considered. This finding is novel and highlights the important spatial scale considerations needed to assess the applicability of biomarkers including fluctuating asymmetry in the future. In our study, within the three km buffer, the only factor adding significantly to the model was colony-to-road proximity whilst, within the 500 m buffer, colony-to-road proximity and two additional factors (anthropogenic land area and vegetation area) added significantly to the model. Ultimately, our findings indicate colonies located in areas surrounded by more urban features (e.g. proximal roads, less vegetation) contain bees with higher wing shape asymmetries. Whilst these findings differ from those conducted on non-<italic>Apis</italic> bees (<italic>E. nigrita</italic>) (<xref ref-type="bibr" rid="ref-39">Pinto et al., 2015</xref>) our results are consistent with those of previous work demonstrating increased wing asymmetry in western honey bees inhabiting urban compared to less urban forested areas (<xref ref-type="bibr" rid="ref-35">Nunes, Araújo &amp; Marchini, 2015</xref>).</p>
+<p>Wing shape differences have previously been reported between western honey bees collected from several forest and contaminated landscape populations, including urban areas (<xref ref-type="bibr" rid="ref-35">Nunes, Araújo &amp; Marchini, 2015</xref>). These studies grouped sites categorically as either urban or rural (<xref ref-type="bibr" rid="ref-35">Nunes, Araújo &amp; Marchini, 2015</xref>; <xref ref-type="bibr" rid="ref-43">Silva et al., 2009</xref>). To appreciate the more nuanced effects site specific differences may have on wing asymmetry, we collected continuous measures of several landscape traits typically favoured or lost through urbanization. We suspect using continuous rather than categorical predictor variables may be more appropriate especially when the focal species is likely to respond to fine scale changes in habitat including vegetation and impervious surface. Future studies would benefit from including variables collected over fine spatial scales such as the diversity of vegetation patches directly surrounding colonies, and quality of food resources.</p>
+<p>We found associations between road proximity and wing shape asymmetry. Similar results have been reported in the western fence lizard, <italic>Sceloporus occidentalis</italic> (Baird &amp; Girard, 1852, Squamata, Phrynosomatidae), with individuals inhabiting sites containing off-highway vehicular roads reporting higher bilateral scale pattern asymmetry (<xref ref-type="bibr" rid="ref-46">Tull &amp; Brussard, 2007</xref>). The specific mechanism(s) associated with associations between how proximal colonies were to roads and wing shape asymmetry in honey bees remains unclear. From a physiological perspective, we suspect the air pollutants occurring near roads and associated with road use (e.g. oxides of nitrogen and carbon) may be important. Carbon dioxide, a common traffic-related air pollutant, for example, significantly affects development in the moth <italic>Manduca sexta</italic> (Linnaeus, 1763, Lepidoptera, Sphingidae), increasing egg development time parabolically (<xref ref-type="bibr" rid="ref-21">Kerr, Phelan &amp; Woods, 2013</xref>). Furthermore, CO<sub>2</sub> exposure increases wing shape asymmetry in the bumblebee <italic>B. impatiens</italic> (<xref ref-type="bibr" rid="ref-24">Klingenberg et al., 2001</xref>).</p>
+<p>Why wing asymmetry sizes and wing shape asymmetries differed between colony locations remains enigmatic, however, we suspect features of the hive and/or management practices used by bee keepers may be important. Practices increasing pesticide exposure risk including frequent spraying and/or multi-pesticide use are associated with increases in asymmetry in several bee species including the western honey bee (<xref ref-type="bibr" rid="ref-1">Abaga et al., 2011</xref>) and <italic>Scaptotrigona</italic> aff. <italic>Depilis</italic> (Moure, 1942, Hymenoptera, Apidae) (<xref ref-type="bibr" rid="ref-9">De Souza Rosa et al., 2016</xref>).</p>
+<p>Given associations between wing shape asymmetry and vegetation and anthropogenic land area were detected at 500 m but not three km we suspect wing shape asymmetry may be resistant to changes in landscape at coarser spatial scales. This could also reflect decreased food quality and/or lower diversity and abundance of flowering plants directly surrounding each colony (i.e. within a 500 m radius). The fact wing size asymmetry was unaffected by landscape traits at either spatial scale, is unsurprising. This measure is generally constant between populations exposed to several environmental stressors including CO<sub>2</sub> and cold temperatures (<xref ref-type="bibr" rid="ref-15">Hoffmann, Collins &amp; Woods, 2002</xref>).</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusion</title>
+<p>Overall the present results indicate wing shape asymmetry in western honey bees may be related to how proximal colonies are to roads and depending on the spatial scale considered (e.g. 500 m vs. three km), other habitat variables including vegetation area and anthropogenic land area. While additional environmental conditions may also have contributed to the fluctuating asymmetry observed (e.g. temperature, pesticides, or parasitism), our findings provide support for an effect of roads. Given that roads generate light, noise, and air pollution and increase edge effects by dividing habitat, combinations of these factors should be incorporated into future observational studies. It is difficult to avoid confounding factors in such studies, however, combinations of field and manipulative laboratory studies (e.g. greenhouse reared colonies are exposed to known concentrations of traffic related air pollutants) increase the confidence with which we can establish a cause-effect relationship. One additional avenue for future work is the potential fitness consequence of the asymmetry observed. To our knowledge, this is the first study to assess the effects of spatial scale on associations between measures of wing asymmetry and landscape traits associated with urbanization. Understanding how spatial scale and the factors favoured or lost through urbanisation affect biomarkers like wing asymmetry is an important step required to quantify the utility of morphometrics for assessing urbanization impact.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5940/Supplementary_Table_1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5940/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Habitat data within 500 m and 3 km buffers surrounding each colony.</title>
+<p>Data were collected using GIS layers obtained from the New South Wales (NSW) Department of Finance, Services and Innovation, Department of Environment, Climate Change and Water (DECCW) and the Bureau of Statistics (ABS).</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5940/Supplementary_Table_2.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5940/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Landscape traits collected in ArcMap and used in linear regression analyses.</title>
+<p>Landscape traits from each category (i.e. anthropogenic land, vegetation and road area) were summed to give a total area per buffer. This value was then used in regression analyses.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5940/Supplementary_Table_3.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5940/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Results of model selection dropping terms.</title>
+<p>In the main text we present results from multiple regressions where all landscape traits of interest are included in the multivariate model to explain variation in Procrustes distance. To test the robustness of this approach, below we also present the results of a stepwise model selection where landscape traits are removed from the model based on the <italic>p</italic>-value of each effect.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5940/Raw_Data.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5940/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Raw data set including landscape trait information, procrustes coordinates and centroid sizes for bees collected from hive in the Sydney region.</title>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>The authors thank members of the Sydney and Illawarra bee keeping clubs and especially club presidents E. Haege, L. Osborne for collecting and donating their bees.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Ryan J. Leonard</xref> conceived and designed the experiments, performed the experiments, analysed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Katie K.Y. Wat</xref> performed the experiments, analysed the data, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Clare McArthur</xref> conceived and designed the experiments, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Dieter F. Hochuli</xref> conceived and designed the experiments, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>The raw data are provided in a <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental File</xref>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Abaga et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Abaga</surname>
+<given-names>NOZ</given-names>
+</name>
+<name>
+<surname>Alibert</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Dousset</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Savadogo</surname>
+<given-names>PW</given-names>
+</name>
+<name>
+<surname>Savadogo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Sedogo</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Insecticide residues in cotton soils of Burkina Faso and effects of insecticides on fluctuating asymmetry in honey bees (<italic>Apis mellifera</italic> Linnaeus)</article-title>
+<source>Chemosphere</source>
+<year iso-8601-date="2011">2011</year>
+<volume>83</volume>
+<issue>4</issue>
+<fpage>585</fpage>
+<lpage>592</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chemosphere.2010.12.021</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Alberti, Marzluff &amp; Hunt (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alberti</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Marzluff</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Hunt</surname>
+<given-names>VM</given-names>
+</name>
+</person-group>
+<article-title>Urban driven phenotypic changes: empirical observations and theoretical implications for eco-evolutionary feedback</article-title>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2017">2017</year>
+<volume>372</volume>
+<issue>1712</issue>
+<fpage>20160029</fpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2016.0029</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Banaszak-Cibicka et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Banaszak-Cibicka</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Fliszkiewicz</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Langowska</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Żmihorski</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Body size and wing asymmetry in bees along an urbanization gradient</article-title>
+<source>Apidologie</source>
+<year iso-8601-date="2018">2018</year>
+<volume>49</volume>
+<issue>3</issue>
+<fpage>297</fpage>
+<lpage>306</lpage>
+<pub-id pub-id-type="doi">10.1007/s13592-017-0554-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Beekman &amp; Ratnieks (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Beekman</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ratnieks</surname>
+<given-names>FLW</given-names>
+</name>
+</person-group>
+<article-title>Long-range foraging by the honey-bee, <italic>Apis mellifera</italic> L</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="2000">2000</year>
+<volume>14</volume>
+<issue>4</issue>
+<fpage>490</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2435.2000.00443.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Brown et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>GP</given-names>
+</name>
+<name>
+<surname>Madsen</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Dubey</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Shine</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>The causes and ecological correlates of head scale asymmetry and fragmentation in a tropical snake</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2017">2017</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>11363</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-017-11768-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Crago et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Crago</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>CorsI</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Weber</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Bannerman</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Klaper</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Linking biomarkers to reproductive success of caged fathead minnows in streams with increasing urbanization</article-title>
+<source>Chemosphere</source>
+<year iso-8601-date="2011">2011</year>
+<volume>82</volume>
+<issue>11</issue>
+<fpage>1669</fpage>
+<lpage>1674</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chemosphere.2010.11.011</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Davies, Bennie &amp; Gaston (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Davies</surname>
+<given-names>TW</given-names>
+</name>
+<name>
+<surname>Bennie</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Gaston</surname>
+<given-names>KJ</given-names>
+</name>
+</person-group>
+<article-title>Street lighting changes the composition of invertebrate communities</article-title>
+<source>Biology Letters</source>
+<year iso-8601-date="2012">2012</year>
+<volume>8</volume>
+<issue>5</issue>
+<fpage>764</fpage>
+<lpage>767</lpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2012.0216</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>De Anna, Bonisoli-Alquati &amp; Mousseau (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Anna</surname>
+<given-names>EB</given-names>
+</name>
+<name>
+<surname>Bonisoli-Alquati</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Mousseau</surname>
+<given-names>TA</given-names>
+</name>
+</person-group>
+<article-title>The use of fluctuating asymmetry as a measure of environmentally induced developmental instability: a meta-analysis</article-title>
+<source>Ecological Indicators</source>
+<year iso-8601-date="2013">2013</year>
+<volume>30</volume>
+<fpage>218</fpage>
+<lpage>226</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolind.2013.02.024</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>De Souza Rosa et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Souza Rosa</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Teixeira</surname>
+<given-names>JSG</given-names>
+</name>
+<name>
+<surname>Vollet-Neto</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Queiroz</surname>
+<given-names>EP</given-names>
+</name>
+<name>
+<surname>Blochtein</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Pires</surname>
+<given-names>CSS</given-names>
+</name>
+<name>
+<surname>Imperatriz-Fonseca</surname>
+<given-names>VL</given-names>
+</name>
+</person-group>
+<article-title>Consumption of the neonicotinoid thiamethoxam during the larval stage affects the survival and development of the stingless bee, <italic>Scaptotrigona aff. depilis</italic></article-title>
+<source>Apidologie</source>
+<year iso-8601-date="2016">2016</year>
+<volume>47</volume>
+<issue>6</issue>
+<fpage>729</fpage>
+<lpage>738</lpage>
+<pub-id pub-id-type="doi">10.1007/s13592-015-0424-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Dominoni &amp; Partecke (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dominoni</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Partecke</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Does light pollution alter daylength? A test using light loggers on free-ranging European blackbirds (<italic>Turdus merula</italic>)</article-title>
+<source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2015">2015</year>
+<volume>370</volume>
+<issue>1667</issue>
+<fpage>20140118</fpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2014.0118</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Evans et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Evans</surname>
+<given-names>KL</given-names>
+</name>
+<name>
+<surname>Gaston</surname>
+<given-names>KJ</given-names>
+</name>
+<name>
+<surname>Sharp</surname>
+<given-names>SP</given-names>
+</name>
+<name>
+<surname>McGowan</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>HatchwelL</surname>
+<given-names>BJ</given-names>
+</name>
+</person-group>
+<article-title>The effect of urbanisation on avian morphology and latitudinal gradients in body size</article-title>
+<source>Oikos</source>
+<year iso-8601-date="2009">2009</year>
+<volume>118</volume>
+<issue>2</issue>
+<fpage>251</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-0706.2008.17092.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Field (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Field</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Discovering statistics using IBM SPSS statistics</source>
+<year iso-8601-date="2013">2013</year>
+<publisher-loc>Thousand Oaks</publisher-loc>
+<publisher-name>Sage Publications</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Gate, McNeill &amp; Ashmore (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gate</surname>
+<given-names>IM</given-names>
+</name>
+<name>
+<surname>McNeill</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ashmore</surname>
+<given-names>MR</given-names>
+</name>
+</person-group>
+<article-title>Effects of air pollution on the searching behaviour of an insect parasitoid</article-title>
+<source>Water Air and Soil Pollution</source>
+<year iso-8601-date="1995">1995</year>
+<volume>85</volume>
+<issue>3</issue>
+<fpage>1425</fpage>
+<lpage>1430</lpage>
+<pub-id pub-id-type="doi">10.1007/bf00477181</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Hagger et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hagger</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Leonard</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Owen</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Galloway</surname>
+<given-names>TS</given-names>
+</name>
+</person-group>
+<article-title>Biomarkers and integrated environmental risk assessment: are there more questions than answers?</article-title>
+<source>Integrated Environmental Assessment and Management</source>
+<year iso-8601-date="2006">2006</year>
+<volume>2</volume>
+<issue>4</issue>
+<fpage>312</fpage>
+<lpage>329</lpage>
+<pub-id pub-id-type="doi">10.1002/ieam.5630020403</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Hoffmann, Collins &amp; Woods (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoffmann</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Collins</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Woods</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Wing shape and wing size changes as indicators of environmental stress in <italic>Helicoverpa punctigera</italic> (Lepidoptera: Noctuidae) moths: comparing shifts in means, variances, and asymmetries</article-title>
+<source>Environmental Entomology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>31</volume>
+<issue>6</issue>
+<fpage>965</fpage>
+<lpage>971</lpage>
+<pub-id pub-id-type="doi">10.1603/0046-225x-31.6.965</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Hoffmann et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoffmann</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Woods</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Collins</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Wallin</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>McKenzie</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>Wing shape versus asymmetry as an indicator of changing environmental conditions in insects</article-title>
+<source>Australian Journal of Entomology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>44</volume>
+<issue>3</issue>
+<fpage>233</fpage>
+<lpage>243</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1440-6055.2005.00469.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Hook, Gallagher &amp; Batley (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hook</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Gallagher</surname>
+<given-names>EP</given-names>
+</name>
+<name>
+<surname>Batley</surname>
+<given-names>GE</given-names>
+</name>
+</person-group>
+<article-title>The role of biomarkers in the assessment of aquatic ecosystem health</article-title>
+<source>Integrated Environmental Assessment and Management</source>
+<year iso-8601-date="2014">2014</year>
+<volume>10</volume>
+<issue>3</issue>
+<fpage>327</fpage>
+<lpage>341</lpage>
+<pub-id pub-id-type="doi">10.1002/ieam.1530</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Jamison &amp; Ward (1993)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jamison</surname>
+<given-names>PL</given-names>
+</name>
+<name>
+<surname>Ward</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Brief communication: measurement size, precision, and reliability in craniofacial anthropometry: bigger is better</article-title>
+<source>American Journal of Physical Anthropology</source>
+<year iso-8601-date="1993">1993</year>
+<volume>90</volume>
+<issue>4</issue>
+<fpage>495</fpage>
+<lpage>500</lpage>
+<pub-id pub-id-type="doi">10.1002/ajpa.1330900409</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Johnson &amp; Munshi-South (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Johnson</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Munshi-South</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Evolution of life in urban environments</article-title>
+<source>Science</source>
+<year iso-8601-date="2017">2017</year>
+<volume>358</volume>
+<issue>6363</issue>
+<fpage>eaam8327</fpage>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Kaiser, Merckx &amp; Van Dyck (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kaiser</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Merckx</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Van Dyck</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>The Urban Heat Island and its spatial scale dependent impact on survival and development in butterflies of different thermal sensitivity</article-title>
+<source>Ecology and Evolution</source>
+<year iso-8601-date="2016">2016</year>
+<volume>6</volume>
+<issue>12</issue>
+<fpage>4129</fpage>
+<lpage>4140</lpage>
+<pub-id pub-id-type="doi">10.1002/ece3.2166</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Kerr, Phelan &amp; Woods (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kerr</surname>
+<given-names>ED</given-names>
+</name>
+<name>
+<surname>Phelan</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Woods</surname>
+<given-names>HA</given-names>
+</name>
+</person-group>
+<article-title>Subtle direct effects of rising atmospheric CO<sub>2</sub> on insect eggs</article-title>
+<source>Physiological Entomology</source>
+<year iso-8601-date="2013">2013</year>
+<volume>38</volume>
+<issue>4</issue>
+<fpage>302</fpage>
+<lpage>305</lpage>
+<pub-id pub-id-type="doi">10.1111/phen.12034</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Klingenberg (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Klingenberg</surname>
+<given-names>CP</given-names>
+</name>
+</person-group>
+<article-title>MorphoJ: an integrated software package for geometric morphometrics</article-title>
+<source>Molecular Ecology Resources</source>
+<year iso-8601-date="2011">2011</year>
+<volume>11</volume>
+<issue>2</issue>
+<fpage>353</fpage>
+<lpage>357</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02924.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Klingenberg (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Klingenberg</surname>
+<given-names>CP</given-names>
+</name>
+</person-group>
+<article-title>Analyzing fluctuating asymmetry with geometric morphometrics: concepts, methods, and applications</article-title>
+<source>Symmetry</source>
+<year iso-8601-date="2015">2015</year>
+<volume>7</volume>
+<issue>2</issue>
+<fpage>843</fpage>
+<lpage>934</lpage>
+<pub-id pub-id-type="doi">10.3390/sym7020843</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Klingenberg et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Klingenberg</surname>
+<given-names>CP</given-names>
+</name>
+<name>
+<surname>Badyaev</surname>
+<given-names>AV</given-names>
+</name>
+<name>
+<surname>Sowry</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Beckwith</surname>
+<given-names>NJ</given-names>
+</name>
+</person-group>
+<article-title>Inferring developmental modularity from morphological integration: analysis of individual variation and asymmetry in bumblebee wings</article-title>
+<source>American Naturalist</source>
+<year iso-8601-date="2001">2001</year>
+<volume>157</volume>
+<issue>1</issue>
+<fpage>11</fpage>
+<lpage>23</lpage>
+<pub-id pub-id-type="doi">10.1086/317002</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Klingenberg, Barluenga &amp; Meyer (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Klingenberg</surname>
+<given-names>CP</given-names>
+</name>
+<name>
+<surname>Barluenga</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Meyer</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Shape analysis of symmetric structures: quantifying variation among individuals and asymmetry</article-title>
+<source>Evolution</source>
+<year iso-8601-date="2002">2002</year>
+<volume>56</volume>
+<issue>10</issue>
+<fpage>1909</fpage>
+<lpage>1920</lpage>
+<pub-id pub-id-type="doi">10.1111/j.0014-3820.2002.tb00117.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Klingenberg &amp; McIntyre (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Klingenberg</surname>
+<given-names>CP</given-names>
+</name>
+<name>
+<surname>McIntyre</surname>
+<given-names>GS</given-names>
+</name>
+</person-group>
+<article-title>Geometric morphometrics of developmental instability: analyzing patterns of fluctuating asymmetry with Procrustes methods</article-title>
+<source>Evolution</source>
+<year iso-8601-date="1998">1998</year>
+<volume>52</volume>
+<issue>5</issue>
+<fpage>1363</fpage>
+<lpage>1375</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1558-5646.1998.tb02018.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Langstroth (1857)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Langstroth</surname>
+<given-names>LL</given-names>
+</name>
+</person-group>
+<source>A practical treatise on the hive and honey-bee</source>
+<year iso-8601-date="1857">1857</year>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>C. M. Saxton &amp; Company</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Leamy et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Leamy</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Klingenberg</surname>
+<given-names>CP</given-names>
+</name>
+<name>
+<surname>Sherratt</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Wolf</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Cheverud</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>The genetic architecture of fluctuating asymmetry of mandible size and shape in a population of mice: another look</article-title>
+<source>Symmetry</source>
+<year iso-8601-date="2015">2015</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>146</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="doi">10.3390/sym7010146</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Lodovici &amp; Bigagli (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lodovici</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bigagli</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Oxidative stress and air pollution exposure</article-title>
+<source>Journal of Toxicology</source>
+<year iso-8601-date="2011">2011</year>
+<volume>2011</volume>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1155/2011/487074</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Lowe, Wilder &amp; Hochuli (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lowe</surname>
+<given-names>EC</given-names>
+</name>
+<name>
+<surname>Wilder</surname>
+<given-names>SM</given-names>
+</name>
+<name>
+<surname>Hochuli</surname>
+<given-names>DF</given-names>
+</name>
+</person-group>
+<article-title>Urbanisation at multiple scales is associated with larger size and higher fecundity of an orb-weaving spider</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014">2014</year>
+<volume>9</volume>
+<issue>8</issue>
+<elocation-id>e105480</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0105480</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Lutterschmidt, Martin &amp; Schaefer (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lutterschmidt</surname>
+<given-names>WI</given-names>
+</name>
+<name>
+<surname>Martin</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Schaefer</surname>
+<given-names>JF</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry in two common freshwater fishes as a biological indicator of urbanization and environmental stress within the Middle Chattahoochee Watershed</article-title>
+<source>Symmetry</source>
+<year iso-8601-date="2016">2016</year>
+<volume>8</volume>
+<issue>11</issue>
+<fpage>124</fpage>
+<pub-id pub-id-type="doi">10.3390/sym8110124</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Merila &amp; Biorklund (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Merila</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Biorklund</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry and measurement error</article-title>
+<source>Systematic Biology</source>
+<year iso-8601-date="1995">1995</year>
+<volume>44</volume>
+<issue>1</issue>
+<fpage>97</fpage>
+<lpage>101</lpage>
+<pub-id pub-id-type="doi">10.1093/sysbio/44.1.97</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Møller (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Møller</surname>
+<given-names>AP</given-names>
+</name>
+</person-group>
+<article-title>Developmental stability and fitness: a review</article-title>
+<source>American Naturalist</source>
+<year iso-8601-date="1997">1997</year>
+<volume>149</volume>
+<issue>5</issue>
+<fpage>916</fpage>
+<lpage>932</lpage>
+<pub-id pub-id-type="doi">10.1086/286030</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>NPWS (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>
+<institution>NPWS</institution>
+</collab>
+</person-group>
+<source>The bioregions of New South Wales: their biodiversity, conservation and history</source>
+<year iso-8601-date="2003">2003</year>
+<publisher-loc>Hurstville</publisher-loc>
+<publisher-name>NSW National Parks and Wildlife Service</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Nunes, Araújo &amp; Marchini (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nunes</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Araújo</surname>
+<given-names>EDD</given-names>
+</name>
+<name>
+<surname>Marchini</surname>
+<given-names>LC</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry in <italic>Apis mellifera</italic> (Hymenoptera: Apidae) as bioindicator of anthropogenic environments</article-title>
+<source>Revista de Biologia Tropical</source>
+<year iso-8601-date="2015">2015</year>
+<volume>63</volume>
+<fpage>673</fpage>
+<lpage>682</lpage>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Ouyang et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ouyang</surname>
+<given-names>JQ</given-names>
+</name>
+<name>
+<surname>De Jong</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hau</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Visser</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Van Grunsven</surname>
+<given-names>RH</given-names>
+</name>
+<name>
+<surname>Spoelstra</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Stressful colours: corticosterone concentrations in a free-living songbird vary with the spectral composition of experimental illumination</article-title>
+<source>Biology Letters</source>
+<year iso-8601-date="2015">2015</year>
+<volume>11</volume>
+<issue>8</issue>
+<fpage>20150517</fpage>
+<pub-id pub-id-type="doi">10.1098/rsbl.2015.0517</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Palmer (1996)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>AR</given-names>
+</name>
+</person-group>
+<article-title>Waltzing with asymmetry</article-title>
+<source>BioScience</source>
+<year iso-8601-date="1996">1996</year>
+<volume>46</volume>
+<issue>7</issue>
+<fpage>518</fpage>
+<lpage>532</lpage>
+<pub-id pub-id-type="doi">10.2307/1312930</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Palmer &amp; Strobeck (2003)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Palmer</surname>
+<given-names>AR</given-names>
+</name>
+<name>
+<surname>Strobeck</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Polak</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry analyses revisited</article-title>
+<source>Developmental Instability (DI): Causes and Consequences</source>
+<year iso-8601-date="2003">2003</year>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>Oxford University Press</publisher-name>
+<fpage>279</fpage>
+<lpage>319</lpage>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Perini et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Perini</surname>
+<given-names>TA</given-names>
+</name>
+<name>
+<surname>Oliveira</surname>
+<given-names>GLD</given-names>
+</name>
+<name>
+<surname>Ornellas</surname>
+<given-names>JDS</given-names>
+</name>
+<name>
+<surname>Oliveira</surname>
+<given-names>FPD</given-names>
+</name>
+</person-group>
+<article-title>Technical error of measurement in anthropometry</article-title>
+<source>Revista Brasileira de Medicina do Esporte</source>
+<year iso-8601-date="2005">2005</year>
+<volume>11</volume>
+<fpage>81</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="doi">10.1590/S1517-86922005000100009</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Pinto et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pinto</surname>
+<given-names>NS</given-names>
+</name>
+<name>
+<surname>Silva</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Rodrigues</surname>
+<given-names>JG</given-names>
+</name>
+<name>
+<surname>De Marco</surname>
+<given-names>P</given-names>
+<suffix>Jr</suffix>
+</name>
+</person-group>
+<article-title>The size but not the symmetry of the wings of <italic>Eulaema nigrita</italic> Lepeletier (Apidae: Euglossini) is affected by human-disturbed landscapes in the Brazilian Cerrado Savanna</article-title>
+<source>Neotropical Entomology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>44</volume>
+<issue>5</issue>
+<fpage>439</fpage>
+<lpage>447</lpage>
+<pub-id pub-id-type="doi">10.1007/s13744-015-0316-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Regoli et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Regoli</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Gorbi</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Fattorini</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Tedesco</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Notti</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Machella</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Bocchetti</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Benedetti</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Piva</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Use of the land snail <italic>Helix aspersa</italic> as sentinel organism for monitoring ecotoxicologic effects of urban pollution: an integrated approach</article-title>
+<source>Environmental Health Perspectives</source>
+<year iso-8601-date="2006">2006</year>
+<volume>114</volume>
+<issue>1</issue>
+<fpage>63</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1289/ehp.8397</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Rohlf (2001)</label>
+<element-citation publication-type="software">
+<person-group person-group-type="author">
+<name>
+<surname>Rohlf</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<data-title>TPSDig2: a program for landmark development and analysis</data-title>
+<year iso-8601-date="2001">2001</year>
+<uri>http://life.bio.sunysb.edu/morph</uri>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Schielzeth (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schielzeth</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Simple means to improve the interpretability of regression coefficients</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2010">2010</year>
+<volume>1</volume>
+<issue>2</issue>
+<fpage>103</fpage>
+<lpage>113</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2041-210x.2010.00012.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Silva et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Silva</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lomônaco</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Augusto</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kerr</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Climatic and anthropic influence on size and fluctuating asymmetry of Euglossine bees (Hymenoptera, Apidae) in a semideciduous seasonal forest reserve</article-title>
+<source>Genetics and Molecular Research</source>
+<year iso-8601-date="2009">2009</year>
+<volume>8</volume>
+<issue>2</issue>
+<fpage>730</fpage>
+<lpage>737</lpage>
+<pub-id pub-id-type="doi">10.4238/vol8-2kerr037</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Smith, Crespi &amp; Bookstein (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>DR</given-names>
+</name>
+<name>
+<surname>Crespi</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Bookstein</surname>
+<given-names>FL</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry in the honey bee, <italic>Apis mellifera</italic>: effects of ploidy and hybridization</article-title>
+<source>Journal of Evolutionary Biology</source>
+<year iso-8601-date="1997">1997</year>
+<volume>10</volume>
+<issue>4</issue>
+<fpage>551</fpage>
+<lpage>574</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1420-9101.1997.10040551.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Szentgyörgyi et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Szentgyörgyi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Moroń</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Nawrocka</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Tofilski</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Woyciechowski</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Forewing structure of the solitary bee <italic>Osmia bicornis</italic> developing on heavy metal pollution gradient</article-title>
+<source>Ecotoxicology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>26</volume>
+<issue>8</issue>
+<fpage>1031</fpage>
+<lpage>1040</lpage>
+<pub-id pub-id-type="doi">10.1007/s10646-017-1831-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Tull &amp; Brussard (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tull</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Brussard</surname>
+<given-names>PF</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry as an indicator of environmental stress from off-highway vehicles</article-title>
+<source>Journal of Wildlife Management</source>
+<year iso-8601-date="2007">2007</year>
+<volume>71</volume>
+<issue>6</issue>
+<fpage>1944</fpage>
+<lpage>1948</lpage>
+<pub-id pub-id-type="doi">10.2193/2006-397</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Visscher (1983)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Visscher</surname>
+<given-names>PK</given-names>
+</name>
+</person-group>
+<article-title>Hygiene in honey bee colonies</article-title>
+<source>American Bee Journal</source>
+<year iso-8601-date="1983">1983</year>
+<volume>123</volume>
+<fpage>511</fpage>
+<lpage>513</lpage>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Weller &amp; Ganzhorn (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Weller</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Ganzhorn</surname>
+<given-names>JU</given-names>
+</name>
+</person-group>
+<article-title>Carabid beetle community composition, body size, and fluctuating asymmetry along an urban-rural gradient</article-title>
+<source>Basic and Applied Ecology</source>
+<year iso-8601-date="2004">2004</year>
+<volume>5</volume>
+<issue>2</issue>
+<fpage>193</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="doi">10.1078/1439-1791-00220</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Wiig &amp; Bachmann (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wiig</surname>
+<given-names>Ø</given-names>
+</name>
+<name>
+<surname>Bachmann</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Fluctuating asymmetry and inbreeding in Scandinavian gray wolves (<italic>Canis lupus</italic>)</article-title>
+<source>Acta Theriologica</source>
+<year iso-8601-date="2014">2014</year>
+<volume>59</volume>
+<issue>3</issue>
+<fpage>399</fpage>
+<lpage>405</lpage>
+<pub-id pub-id-type="doi">10.1007/s13364-014-0174-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Williams, Hahs &amp; Vesk (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Williams</surname>
+<given-names>NSG</given-names>
+</name>
+<name>
+<surname>Hahs</surname>
+<given-names>AK</given-names>
+</name>
+<name>
+<surname>Vesk</surname>
+<given-names>PA</given-names>
+</name>
+</person-group>
+<article-title>Urbanisation, plant traits and the composition of urban floras</article-title>
+<source>Perspectives in Plant Ecology, Evolution and Systematics</source>
+<year iso-8601-date="2015">2015</year>
+<volume>17</volume>
+<issue>1</issue>
+<fpage>78</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ppees.2014.10.002</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

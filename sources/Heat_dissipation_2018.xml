@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">5725</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.5725</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Ecology</subject>
+               <subject>Climate Change Biology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Testing the heat dissipation limitation hypothesis: basal metabolic rates of endotherms decrease with increasing upper and lower critical temperatures</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" corresp="yes">
+               <name>
+                  <surname>Khaliq</surname>
+                  <given-names>Imran</given-names>
+               </name>
+               <email> imrankhaliq9@hotmail.com</email><xref ref-type="aff" rid="aff-1">1</xref><xref ref-type="aff" rid="aff-2">2</xref><xref ref-type="aff" rid="aff-3">3</xref></contrib>
+            <contrib id="author-2" contrib-type="author">
+               <name>
+                  <surname>Hof</surname>
+                  <given-names>Christian</given-names>
+               </name><xref ref-type="aff" rid="aff-2">2</xref><xref ref-type="aff" rid="aff-4">4</xref></contrib>
+            <aff id="aff-1"><label>1</label><institution>Department of Zoology, Ghazi University, Pakistan</institution>, <city>Dera Ghazi Khan</city>, <state>Punjab</state>, <country>Pakistan</country></aff>
+            <aff id="aff-2"><label>2</label><institution>Senckenberg Biodiversity and Climate Research Centre (BiK-F)</institution>, <city>Frankfurt</city>, <country>Germany</country></aff>
+            <aff id="aff-3"><label>3</label><institution>Institute for Ecology, Evolution and Diversity, Department of Biological Sciences, Johann Wolfgang Goethe Universität Frankfurt am Main</institution>, <city>Frankfurt</city>, <country>Germany</country></aff>
+            <aff id="aff-4"><label>4</label><institution>Terrestrial Ecology Research Group, Department for Ecology and Ecosystem Management, School of Life Sciences Weihenstephan, Technical University of Munich</institution>, <city>Freising</city>, <country>Germany</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Bates</surname>
+                  <given-names>Amanda</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-10-31">
+            <day>31</day>
+            <month>10</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e5725</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-04-24">
+               <day>24</day>
+               <month>4</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-09-05">
+               <day>5</day>
+               <month>9</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Khaliq and Hof</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Khaliq and Hof</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/5725"/>
+         <abstract>
+            <p>Metabolic critical temperatures define the range of ambient temperatures where endotherms are able to minimize energy allocation to thermogenesis. Examining the relationship between metabolic critical temperatures and basal metabolic rates (BMR) provides a unique opportunity to gain a better understanding of how animals respond to varying ambient climatic conditions, especially in times of ongoing and projected future climate change. We make use of this opportunity by testing the heat dissipation limit (HDL) theory, which hypothesizes that the maximum amount of heat a species can dissipate constrains its energetics. Specifically, we test the theory’s implicit prediction that BMR should be lower under higher metabolic critical temperatures. We analysed the relationship of BMR with upper and lower critical temperatures for a large dataset of 146 endotherm species using regression analyses, carefully accounting for phylogenetic relationships and body mass. We show that metabolic critical temperatures are negatively related with BMR in both birds and mammals. Our results confirm the predictions of the HDL theory, suggesting that metabolic critical temperatures and basal metabolic rates respond in concert to ambient climatic conditions. This implies that heat dissipation capacities of endotherms may be an important factor to take into account in assessments of species’ vulnerability to climate change.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>BMR</kwd>
+            <kwd>Energy</kwd>
+            <kwd>Endogenous heat load</kwd>
+            <kwd>Birds</kwd>
+            <kwd>Mammals</kwd>
+            <kwd>Macrophysiology</kwd>
+            <kwd>Metabolic critical temperatures</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>Higher Education Commission of Pakistan</funding-source>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source>German Academic Exchange Service</funding-source>
+            </award-group>
+            <award-group id="fund-3">
+               <funding-source>Bavarian Network of Climate Change</funding-source>
+            </award-group>
+            <funding-statement>Imran Khaliq was supported by a doctoral scholarship by the Higher Education Commission of Pakistan. Furthermore, support was provided by the German Academic Exchange Service (DAAD) via its funding program “German-Pakistani Research Cooperations”. Christian Hof was supported by the Bavarian Network of Climate Change “bayklif” of the Bavarian State Ministry for Science and the Arts. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>Understanding how organisms cope with their ambient climatic conditions is crucial for assessing whether and how species may be able to respond to ongoing and future climate change. Organisms’ energy budgets play a key role in this context, and studies on how energy budgets vary in relation to environmental factors as well as to the species-specific characteristics will contribute to our knowledge about species’ responses to varying and changing climatic conditions.</p>
+         <p>Life history theory predicts that the energy available to organisms is limited and thus has to be utilized economically among different biological processes (<xref ref-type="bibr" rid="ref-37">McNab, 2012</xref>). An endotherm animal (i.e., a bird or a mammal) normally utilizes 30–50% of its daily energy expenditure just to maintain a stable body temperature (homeostasis) (<xref ref-type="bibr" rid="ref-37">McNab, 2012</xref>). In order to be able to invest sufficient energy into processes such as reproduction, dispersal or predator avoidance, animals should seek to live in environments with conditions allowing them to keep the energetic cost for homeostasis low (<xref ref-type="bibr" rid="ref-23">Kobbe, Nowack &amp; Dausmann, 2014</xref>).</p>
+         <p>A non-reproductive endotherm at rest utilizes a minimal amount of energy within a range of temperatures known as thermal neutral zone (TNZ, <xref ref-type="bibr" rid="ref-34">McNab, 2002</xref>). Under the assumption outlined above, i.e., assuming an energetic trade-off between homeostasis and other biological processes, endotherms should live in areas with ambient temperatures falling within the TNZ (<xref ref-type="bibr" rid="ref-23">Kobbe, Nowack &amp; Dausmann, 2014</xref>). However, studies have shown that for the majority of investigated endotherm species this expectation did not receive strong support (<xref ref-type="bibr" rid="ref-1">Araújo et al., 2013</xref>; <xref ref-type="bibr" rid="ref-22">Khaliq et al., 2014</xref>; <xref ref-type="bibr" rid="ref-20">Khaliq et al., 2017</xref>). This indicates that other physiological and ecological constraints shape the evolution, survival and distribution of endotherm animals (<xref ref-type="bibr" rid="ref-19">Kearney &amp; Porter, 2009</xref>; <xref ref-type="bibr" rid="ref-7">Fristoe et al., 2015</xref>). In fact, in recent decades the identification of the factors that limit the energy availability of animals has become one of the most pursued topics in the field of eco-physiology (<xref ref-type="bibr" rid="ref-28">Lovegrove, 2003</xref>; <xref ref-type="bibr" rid="ref-58">White et al., 2007</xref>; <xref ref-type="bibr" rid="ref-62">Wiersma et al., 2007</xref>; <xref ref-type="bibr" rid="ref-35">McNab, 2008</xref>; <xref ref-type="bibr" rid="ref-36">McNab, 2009</xref>; <xref ref-type="bibr" rid="ref-63">Wiersma, Nowak &amp; Williams, 2012</xref>). Researchers have proposed a plethora of factors that influence the energetics of animals (<xref ref-type="bibr" rid="ref-58">White et al., 2007</xref>; <xref ref-type="bibr" rid="ref-59">White &amp; Kearney, 2013</xref>), in particular their basal metabolic rate (BMR), which is the minimal level of energy invested for homeostasis. On the one hand, several intrinsic factors, i.e., factors inherent to the animal’s morphological or physiological characteristics have been shown to be associated with the variation in BMR (<xref ref-type="bibr" rid="ref-56">Speakman et al., 2004</xref>; <xref ref-type="bibr" rid="ref-63">Wiersma, Nowak &amp; Williams, 2012</xref>; <xref ref-type="bibr" rid="ref-59">White &amp; Kearney, 2013</xref>). For instance, species with small organ size tend to have lower BMR than species with larger organs (<xref ref-type="bibr" rid="ref-63">Wiersma, Nowak &amp; Williams, 2012</xref>). As another example, the number of uncoupled mitochondria in individual mice have been shown to be positively associated with BMR (<xref ref-type="bibr" rid="ref-56">Speakman et al., 2004</xref>). On the other hand, BMR has been shown to be related to extrinsic factors, i.e., factors related to species’ ambient environments. For example, BMR was negatively associated with ambient temperatures and rainfall variability (<xref ref-type="bibr" rid="ref-28">Lovegrove, 2003</xref>; <xref ref-type="bibr" rid="ref-58">White et al., 2007</xref>) and positively associated with the primary productivity (<xref ref-type="bibr" rid="ref-57">Tieleman &amp; Williams, 2000</xref>; <xref ref-type="bibr" rid="ref-65">Withers, Cooper &amp; Larcombe, 2006</xref>).</p>
+         <p>Traditionally, most studies have focused on extrinsic factors influencing the energy level in organisms, such as food sources (<xref ref-type="bibr" rid="ref-33">McNab, 1988</xref>; <xref ref-type="bibr" rid="ref-36">McNab, 2009</xref>) or environmental conditions (<xref ref-type="bibr" rid="ref-27">Lovegrove, 2000</xref>; <xref ref-type="bibr" rid="ref-28">Lovegrove, 2003</xref>; <xref ref-type="bibr" rid="ref-58">White et al., 2007</xref>). However, a few studies have also focused on intrinsic factors (<xref ref-type="bibr" rid="ref-18">Johnson, Thomson &amp; Speakman, 2001</xref>; <xref ref-type="bibr" rid="ref-68">Wu et al., 2009</xref>; <xref ref-type="bibr" rid="ref-47">Sadowska et al., 2016</xref>). Regarding the latter, several hypotheses have gained attention. First, the central limitation hypothesis predicts that energy intake is constrained by the alimentary canal’s capacity to process food, i.e., energy levels should be directly linked to the efficiency of the alimentary canal to convert food into energy (<xref ref-type="bibr" rid="ref-4">Drent &amp; Daan, 1980</xref>; <xref ref-type="bibr" rid="ref-42">Peterson, Nagy &amp; Diamond, 1990</xref>). In other words, available energy is constrained at the level of energy generation. However, this hypothesis has been questioned because it was shown that under different climatic conditions animals (<italic>n</italic> = 15) can alter the rate of food processing beyond the upper limits set by the central limitation hypothesis (<xref ref-type="bibr" rid="ref-17">Johnson &amp; Speakman, 2001</xref>; <xref ref-type="bibr" rid="ref-24">Krol, Murphy &amp; Speakman, 2007</xref>). Second, the peripheral limitation hypothesis predicts that it is the internal organs’ capacity to utilize energy that constrains the energy level in animals (<xref ref-type="bibr" rid="ref-10">Hammond &amp; Diamond, 1997</xref>; <xref ref-type="bibr" rid="ref-2">Bacigalupe &amp; Bozinovic, 2002</xref>). However, the observed possibility to alter energy utilization within the same individual animal (containing the same organs) under different climatic conditions has questioned this hypothesis as well (<xref ref-type="bibr" rid="ref-54">Speakman et al., 2003</xref>; <xref ref-type="bibr" rid="ref-45">Renaudeau et al., 2012</xref>).</p>
+         <p>Recently, as a third hypothesis on which intrinsic factors constrain the energy budget of endotherms, the heat dissipation limit (HDL) hypothesis has been put forward (<xref ref-type="bibr" rid="ref-55">Speakman &amp; Król, 2010</xref>). It has received support from different lines of evidence; e.g., from observations that endotherms are able to alter energy levels under different climatic conditions (<xref ref-type="bibr" rid="ref-25">Król &amp; Speakman, 2003</xref>) or that basal and field metabolic rates decrease with increasing ambient temperatures (<xref ref-type="bibr" rid="ref-53">Speakman, 2000</xref>; <xref ref-type="bibr" rid="ref-58">White et al., 2007</xref>; <xref ref-type="bibr" rid="ref-14">Hudson, Isaac &amp; Reuman, 2013</xref>). These findings point towards the role of animals’ heat dissipation capacity in limiting their energy levels. Further support for this comes from <xref ref-type="bibr" rid="ref-38">McNab &amp; Morrison (1963)</xref> who showed that mammals inhabiting hotter environments are confronted with the endogenous heat load challenge due to their inefficiency to dissipate heat. When ambient temperatures rise, the difference between body and ambient temperatures decreases and it becomes increasingly difficult for endotherms to dissipate heat from the body. Consequently, it becomes a challenge to keep body temperatures constant. When temperatures rise beyond the upper limit of the TNZ (upper critical temperature, T<sub>uc</sub>), the amount of heat generated at BMR exceeds the capacity of the body to dissipate heat passively, and other cooling mechanisms (e.g., evaporative cooling) must be employed to maintain body temperature and avoid hyperthermia.</p>
+         <p>To avoid an increased risk of hyperthermia under high and even increasing temperatures, endotherms may have two non-exclusive avenues of adaptation: changes in their thermal conductance (i.e., the ability to passively dissipate heat) or changes in their BMR as one crucial source of endogenous heat (<xref ref-type="bibr" rid="ref-39">Naya et al., 2013</xref>). All else being equal, to keep their body temperatures constant, species with a relatively high BMR must invoke active cooling mechanisms at a lower environmental temperature, i.e., have a lower T<sub>uc</sub>, than species with a relatively low BMR. Similarly, species with a relatively high thermal conductance are able to dissipate more heat at a given environmental temperature than species with low thermal conductance. Thus, by increasing thermal conductance, decreasing BMR, or both, endotherms may increase their T<sub>uc</sub> (<xref ref-type="bibr" rid="ref-38">McNab &amp; Morrison, 1963</xref>), hence being able to cope better with rising global temperatures (<xref ref-type="bibr" rid="ref-23">Kobbe, Nowack &amp; Dausmann, 2014</xref>). Similarly, when environmental temperatures decrease, the difference between body temperatures and environmental temperatures increases and as a consequence the animal loses heat. When environmental temperatures reach the lower critical temperature (T<sub>lc</sub>), the heat generated at the BMR level is not sufficient to keep body temperatures constant; therefore, the animal must invoke active heat generation (e.g., by increasing its food intake). Animals with relatively high BMR should therefore be able to extend their T<sub>lc</sub> towards low temperatures.</p>
+         <p>The HDL theory proposes that the overall energetics of endotherms are dependent on their abilities to dissipate heat from the body (<xref ref-type="bibr" rid="ref-55">Speakman &amp; Król, 2010</xref>). There are a few studies that show lack of support for the HDL theory (<xref ref-type="bibr" rid="ref-43">Petit, Vézina &amp; Piersma, 2010</xref>; <xref ref-type="bibr" rid="ref-63">Wiersma, Nowak &amp; Williams, 2012</xref>); however, several studies in the recent past have empirically supported the HDL theory (<xref ref-type="bibr" rid="ref-3">Brown, 1985</xref>; <xref ref-type="bibr" rid="ref-53">Speakman, 2000</xref>; <xref ref-type="bibr" rid="ref-11">Hinds &amp; Rice-Warner, 2012</xref>; <xref ref-type="bibr" rid="ref-14">Hudson, Isaac &amp; Reuman, 2013</xref>; <xref ref-type="bibr" rid="ref-9">Glazier, 2015</xref>; <xref ref-type="bibr" rid="ref-48">Sadowska et al., 2015</xref>; <xref ref-type="bibr" rid="ref-67">Woodroffe, Groom &amp; McNutt, 2017</xref>; <xref ref-type="bibr" rid="ref-69">Zhang et al., 2018</xref>). Still, a cross-species test of the HDL is lacking. Here, we test this prediction, using a data set of T<sub>uc</sub>, T<sub>lc</sub>, body mass, and BMR of 146 endotherms (88 mammals and 58 birds), in order to evaluate the influence of heat dissipation limits on species’ metabolism. Following the above line of arguments, we expect, if heat dissipation is a limiting factor of endotherm energy levels (i.e., BMR), a negative relationship between critical temperatures and BMR.</p>
+      </sec>
+      <sec>
+         <title>Material and Methods</title>
+         <sec>
+            <title>Data</title>
+            <p>Data for T<sub>uc</sub>, T<sub>lc</sub>, BMR and body mass for birds and mammals were compiled from published sources (see <xref ref-type="bibr" rid="ref-22">Khaliq et al., 2014</xref>; <xref ref-type="bibr" rid="ref-21">Khaliq et al., 2015</xref> for a detailed description). The compiled data were obtained from physiological experiments conducted to measure BMR under different temperature conditions. Data quality and suitability for macro-physiological analyses have been extensively debated recently (<xref ref-type="bibr" rid="ref-12">Hof et al., 2017a</xref>; <xref ref-type="bibr" rid="ref-13">Hof et al., 2017b</xref>; <xref ref-type="bibr" rid="ref-30">McKechnie et al., 2017</xref>; <xref ref-type="bibr" rid="ref-66">Wolf et al., 2017</xref>). Here, the focus on critical temperatures and BMR requires the use of data fulfilling the strictest quality criteria, i.e., a sufficient sample size (at least three individuals measured) and an experimental temperature range sufficient for determining T<sub>uc</sub> and T<sub>lc</sub> (at least three measurements of metabolic rate beyond TNZ) (see Table S1 in <xref ref-type="bibr" rid="ref-12">Hof et al., 2017a</xref>; <xref ref-type="bibr" rid="ref-13">Hof et al., 2017b</xref> for details). Thus, the dataset used here consists of 58 bird species (28 migrants and 30 residents) belonging to 28 families and 12 orders, and 88 mammal species belonging to 40 families and 16 order (see <xref ref-type="supplementary-material" rid="supplemental-information">Table S1</xref>). To account for the evolutionary non-independence of data in comparative analysis, phylogenetic information for all species were compiled from published supertrees for birds (<xref ref-type="bibr" rid="ref-16">Jetz et al., 2012</xref>) and mammals (<xref ref-type="bibr" rid="ref-8">Fritz, Bininda-Emonds &amp; Purvis, 2009</xref>; <xref ref-type="bibr" rid="ref-26">Kuhn, Mooers &amp; Thomas, 2011</xref>).</p>
+         </sec>
+         <sec>
+            <title>Analyses</title>
+            <p>To evaluate the influence of body mass on metabolic critical temperatures and to account for the joint evolutionary history of species, we used phylogenetic generalized least squares (PGLS) regression using the package <italic>caper</italic> (<xref ref-type="bibr" rid="ref-40">Orme et al., 2012</xref>) in R (<xref ref-type="bibr" rid="ref-44">R Core Team, 2013</xref>). This approach estimates a parameter <italic>λ</italic> (Pagel’s lambda, <xref ref-type="bibr" rid="ref-41">Pagel, 1999</xref>), which indicates the amount of phylogenetic influence on the phenotype and applies a correction (<xref ref-type="bibr" rid="ref-29">Martins, Hansen &amp; Url, 1997</xref>; <xref ref-type="bibr" rid="ref-6">Freckleton, Harvey &amp; Pagel, 2002</xref>). We modeled T<sub>uc</sub> and T<sub>lc</sub> separately, using PGLS, as a function of log-transformed body mass while estimating <italic>λ</italic> by a maximum likelihood approach.</p>
+            <p>To test for the influence of heat dissipation on BMR, we modeled BMR as a function of body mass and then individually added T<sub>uc</sub> or T<sub>lc</sub> to the PGLS model, where T<sub>uc</sub> and T<sub>lc</sub> were used as proxies for species’ heat dissipation abilities. To evaluate the robustness of the analysis across phylogenetic trees, we sampled 100 trees from the pseudo-posterior distribution of the used supertrees (<xref ref-type="bibr" rid="ref-26">Kuhn, Mooers &amp; Thomas, 2011</xref>; <xref ref-type="bibr" rid="ref-16">Jetz et al., 2012</xref>) and ran the analyses for these 100 trees. For the final analysis we generated a maximum clade credibility (MCC) tree, using TreeAnnotator (included in BEAST v.1.7.5, <xref ref-type="bibr" rid="ref-5">Drummond &amp; Rambaut, 2007</xref>).</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <p>T<sub>lc</sub> and T<sub>uc</sub> co-varied with body mass (M), with the exception of bird T<sub>uc</sub> (Mammals: T<sub>lc</sub> = M<sup>−0.04</sup>, lambda =1, <italic>t</italic> =  − 3.002, <italic>p</italic> = 0.003, <italic>n</italic> = 88; T<sub>uc</sub> = M<sup>−0.02</sup>, lambda =0, <italic>t</italic> =  − 4.6, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 58; Birds: T<sub>lc</sub> = M<sup>−0.07</sup>, lambda =0, <italic>t</italic> =  − 3.13, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 58; T<sub>uc</sub> = M<sup>−0.001</sup>, lambda =0, <italic>t</italic> =  − 0.16, <italic>p</italic> = 0.87, <italic>n</italic> = 58). 8% of the variation in T<sub>lc</sub> and 19% of the variation in T<sub>uc</sub> of mammals could be explained by body mass. A higher amount of variation (13%) in T<sub>lc</sub> was explained by body mass in case of birds. As expected, body mass was positively related with BMR both in birds and mammals (Mammals: BMR = M<sup>−0.69</sup>, lambda =0.91, <italic>t</italic> = 37.3, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 88; Birds: BMR = M<sup>−0.71</sup>, lambda =0.66, <italic>t</italic> = 19.2, <italic>p</italic> &lt; 0.001, <italic>n</italic> = 58). After accounting for the effect of body mass, T<sub>lc</sub> and T<sub>uc</sub> were negatively related with BMR both in mammals and birds (<xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>).</p>
+         <table-wrap id="table-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5725/table-1</object-id><label>Table 1</label><caption>
+               <title>Phylogenetic generalized least squares models of BMR as a function of body mass and either upper or lower critical temperature (T<sub>lc</sub> or T<sub>uc</sub>).</title>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5725/table-1.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th align="center" colspan="4"><bold>Birds</bold> (<italic>n</italic> = 58)</th>
+                        <th align="center" colspan="4"><bold>Mammals</bold> (<italic>n</italic> = 88)</th>
+                     </tr>
+                     <tr>
+                        <th/>
+                        <th><italic>B</italic></th>
+                        <th><italic>λ</italic></th>
+                        <th><italic>R</italic><sup>2</sup></th>
+                        <th><italic>P</italic></th>
+                        <th><italic>B</italic></th>
+                        <th><italic>λ</italic></th>
+                        <th><italic>R</italic><sup>2</sup></th>
+                        <th><italic>P</italic></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td><bold>Mass</bold></td>
+                        <td><bold>0.70 (±0.03)</bold></td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td><bold>&lt;0.001</bold></td>
+                        <td><bold>0.68 (±0.01)</bold></td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td><bold>&lt;0.001</bold></td>
+                     </tr>
+                     <tr>
+                        <td>T<sub>uc</sub></td>
+                        <td><bold>−1.07 (±0.25)</bold></td>
+                        <td><bold>0.66</bold></td>
+                        <td><bold>0.89</bold></td>
+                        <td><bold>&lt;0.001</bold></td>
+                        <td><bold>−0.57 (±0.23)</bold></td>
+                        <td><bold>0.91</bold></td>
+                        <td><bold>0.94</bold></td>
+                        <td><bold>0.01</bold></td>
+                     </tr>
+                     <tr>
+                        <td><bold>Mass</bold></td>
+                        <td><bold>0.68 (±0.03)</bold></td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td><bold>&lt;0.001</bold></td>
+                        <td><bold>0.67 (±0.01)</bold></td>
+                        <td>–</td>
+                        <td>–</td>
+                        <td><bold>&lt;0.001</bold></td>
+                     </tr>
+                     <tr>
+                        <td>T<sub>lc</sub></td>
+                        <td><bold>−0.31 (±0.13)</bold></td>
+                        <td><bold>0.59</bold></td>
+                        <td><bold>0.88</bold></td>
+                        <td><bold>0.02</bold></td>
+                        <td><bold>−0.32 (±0.12)</bold></td>
+                        <td><bold>0.90</bold></td>
+                        <td><bold>0.94</bold></td>
+                        <td><bold>0.008</bold></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+            <table-wrap-foot><fn id="table-1fn"><p><bold>Notes.</bold></p></fn><fn id="table-1fn1" fn-type="other"><p>BMR was first modeled using phylogenetic generalized least squares (<italic>PGLS)</italic>, as a function of body mass while Pagel’s <italic>λ</italic> was estimated, and set it to its maximum likelihood value (see Methods). After controlling for phylogeny and body mass, we individually added either T<sub>uc</sub>, T<sub>lc</sub> (log10-transformed) to the model. Bold values indicate associations where estimated parameters (B) are significantly different from 0. BMR and body mass were also log10-transformed. <italic>R</italic><sup>2</sup> values refer to the full model.</p></fn><fn id="table-1fn2" fn-type="other"><p> 
+                  <def-list id="dl1">
+                     <def-item>
+                        <term><italic>n</italic></term>
+                        <def>
+                           <p>sample size</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term><italic>B</italic></term>
+                        <def>
+                           <p>estimated parameter ±SE</p>
+                        </def>
+                     </def-item>
+                     <def-item>
+                        <term><italic>λ</italic></term>
+                        <def>
+                           <p>Pagel’s Lambda, set to its maximum likelihood value</p>
+                        </def>
+                     </def-item>
+                  </def-list>
+               </p></fn></table-wrap-foot>
+         </table-wrap>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.5725/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Relationship between BMR and upper and lower critical temperatures in birds (A, B) and mammals (C, D).</title>
+               <p>(A, B) birds, (C, D) mammals. BMR residuals are calculated as the BMR minus BMR as predicted by mass; and the T<sub>lc</sub> and T<sub>uc</sub> residuals are calculated as the T<sub>lc</sub> or T<sub>uc</sub> minus T<sub>lc</sub> or T<sub>uc</sub> as predicted by mass. All BMR, T<sub>lc</sub> and T<sub>uc</sub> values were log10-transformed before calculating the residuals. Note that these simple OLS analyses of the residuals only visualize the trends revealed by the full statistical model based on PGLS analyses (see <xref ref-type="table" rid="table-1">Table 1</xref> for details).</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5725/fig-1.png"/>
+         </fig>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Our results show that endotherm species with higher mass-independent critical temperature values tend to have lower mass-independent BMR values, which is in accordance with our expectations based on the HDL theory. With higher T<sub>uc</sub> levels and lower mass-independent BMR under high ambient temperatures, endogenous heat load is reduced and hyperthermia can be avoided with lower efforts of evaporative cooling (<xref ref-type="bibr" rid="ref-38">McNab &amp; Morrison, 1963</xref>; <xref ref-type="bibr" rid="ref-55">Speakman &amp; Król, 2010</xref>). Similarly, under low ambient temperatures below T<sub>lc</sub> levels, heat is being lost more rapidly and to maintain body temperatures, heat generation above BMR levels is required. Thus there are two non-exclusive avenues to cope with lower temperatures: higher BMR levels or lower thermal conductance, e.g., via insulation. As a consequence, lower levels of T<sub>lc</sub> can be expected (<xref ref-type="bibr" rid="ref-50">Scholander et al., 1950a</xref>; <xref ref-type="bibr" rid="ref-49">Scholander, 1955</xref>).</p>
+         <p>Our analyses accounts for the effect of body mass, which plays a central role in thermal physiology. Large endotherms tend to dissipate or lose metabolic heat slowly because of their small surface area relative to their body volume (<xref ref-type="bibr" rid="ref-52">Scholander et al., 1950c</xref>; <xref ref-type="bibr" rid="ref-46">Riek &amp; Geiser, 2013</xref>). Thermal conductance scales with body mass with an exponent of around 0.57, while both BMR and body surface area scale with body mass with exponents around 0.66–0.74 (<xref ref-type="bibr" rid="ref-27">Lovegrove, 2000</xref>; <xref ref-type="bibr" rid="ref-28">Lovegrove, 2003</xref>; <xref ref-type="bibr" rid="ref-60">White &amp; Seymour, 2003</xref>; <xref ref-type="bibr" rid="ref-61">White &amp; Seymour, 2004</xref>; <xref ref-type="bibr" rid="ref-31">McKechnie, Freckleton &amp; Jetz, 2006</xref>; <xref ref-type="bibr" rid="ref-58">White et al., 2007</xref>; <xref ref-type="bibr" rid="ref-35">McNab, 2008</xref>; <xref ref-type="bibr" rid="ref-36">McNab, 2009</xref>; <xref ref-type="bibr" rid="ref-15">Jetz, Freckleton &amp; McKechnie, 2008</xref>; <xref ref-type="bibr" rid="ref-46">Riek &amp; Geiser, 2013</xref>). This indicates that thermal conductance increases more slowly with body mass than BMR. Therefore, larger endotherms are better able to withstand colder temperatures than smaller endotherms (<xref ref-type="bibr" rid="ref-51">Scholander et al., 1950b</xref>). Similarly, small-bodied endotherms have a higher thermal conductance than larger species. Thus, small endotherms may be able to cope better with rising ambient temperatures than larger species (<xref ref-type="bibr" rid="ref-51">Scholander et al., 1950b</xref>). Overall the interplay of body size, BMR and heat dissipation capacities allows endotherms to occupy a variety of environmental conditions (<xref ref-type="bibr" rid="ref-7">Fristoe et al., 2015</xref>).</p>
+         <p>The findings of the present study support the hypothesis that the capacity to dissipate heat is an important constraint for the energetics of endotherms (<xref ref-type="bibr" rid="ref-55">Speakman &amp; Król, 2010</xref>). Recently, <xref ref-type="bibr" rid="ref-39">Naya et al. (2013)</xref> highlighted the importance of rodents’ ability to dissipate heat in order to manage endogenous heat load and suggested that endotherm species (particularly non-tropical rodents) tend to increase their thermal conductance during the summer season (e.g., by seasonal changes in their insulation via fur). Such an increase in conductance should also be a means to increase their T<sub>uc</sub>. Other studies also suggest that endotherm species do indeed raise their T<sub>uc</sub> during warmer months by lowering their basal metabolic rates (<xref ref-type="bibr" rid="ref-64">Wilson, Brown &amp; Downs, 2011</xref>). Without such plastic changes in T<sub>uc</sub>, endotherms may find it difficult to cope with the temporal variability in dry and hot conditions and as a result would frequently experience hyperthermia, which may have serious consequences for their survival (<xref ref-type="bibr" rid="ref-32">McKechnie &amp; Wolf, 2010</xref>; <xref ref-type="bibr" rid="ref-55">Speakman &amp; Król, 2010</xref>). Therefore, hot and dry conditions, as they are projected under future climate change scenarios for many regions, would probably favour species with lower mass-independent BMR and higher T<sub>uc</sub>, while species with high BMR and, of course, those with lower T<sub>uc</sub> will face disadvantages.</p>
+         <p>All else being equal, it should be advantageous for endotherms to achieve extreme metabolic critical temperatures (i.e., very low T<sub>lc</sub> and very high T<sub>uc</sub>) because wide thermal limits will allow endotherms to maintain BMR across a wide range of environmental temperatures, and thereby conserve energy (<xref ref-type="bibr" rid="ref-51">Scholander et al., 1950b</xref>; <xref ref-type="bibr" rid="ref-52">Scholander et al., 1950c</xref>). However, TNZs in endotherms are not infinitely wide; instead, T<sub>lc</sub> and T<sub>uc</sub> are positively correlated (<xref ref-type="bibr" rid="ref-46">Riek &amp; Geiser, 2013</xref>; <xref ref-type="bibr" rid="ref-1">Araújo et al., 2013</xref>; <xref ref-type="bibr" rid="ref-22">Khaliq et al., 2014</xref>). This indicates that there are constrains for changing between low minimum conductance (i.e., low T<sub>lc</sub>) and high maximum conductance (i.e., high T<sub>uc</sub>) and thereby to alter the TNZ dynamically or adaptively to suit variable or changing climatic conditions. Specifically, in order to tolerate cold temperatures an endotherm requires a high energy level and low thermal conductance which is disadvantageous under higher ambient temperatures (<xref ref-type="bibr" rid="ref-37">McNab, 2012</xref>). This trade-off is supported by findings that the breadth of the TNZ of small endotherms varies seasonally which may be a mechanism to conserve energy (<xref ref-type="bibr" rid="ref-64">Wilson, Brown &amp; Downs, 2011</xref>; <xref ref-type="bibr" rid="ref-23">Kobbe, Nowack &amp; Dausmann, 2014</xref>).</p>
+         <p>Our findings on the relationship of metabolic critical temperatures with BMR may contribute to a better understanding of the relationships between species’ energy budget and their environment, especially under changing climatic conditions. To off-set the negative effects of rising temperatures, endotherms may have at least two avenues for adaptation: (i) the alteration of heat dissipation capacities e.g., via altering body insulation (<xref ref-type="bibr" rid="ref-50">Scholander et al., 1950a</xref>), or (ii) achieving higher levels of metabolic critical temperatures. Endothermic species, particularly those in the tropics, might face the challenge of hyperthermia during periods of high ambient temperatures (see also <xref ref-type="bibr" rid="ref-22">Khaliq et al., 2014</xref>). Therefore, considering the heat dissipation capacities of endotherms may significantly improve assessments of species’ vulnerability to climatic change.</p>
+      </sec>
+      <sec sec-type="supplementary-material" id="supplemental-information">
+         <title> Supplemental Information</title>
+         <supplementary-material id="supp-1" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/5725/References.pdf">
+            <object-id pub-id-type="doi">10.7717/peerj.5725/supp-1</object-id><label>Supplemental Information 1</label><caption>
+               <title>References: Sources of data</title>
+            </caption>
+         </supplementary-material>
+         <supplementary-material id="supp-2" mimetype="application" mime-subtype="pdf" xlink:href="https://peerj.com/articles/5725/Supplemetary_table_final.pdf">
+            <object-id pub-id-type="doi">10.7717/peerj.5725/supp-2</object-id><label>Supplemental Information 2</label><caption>
+               <title>Physiological data</title>
+            </caption>
+         </supplementary-material>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We thank Craig R. White, Diana Bowler, Meghan Balk, Markus Pfenninger, Stefan Ferger, and Humera Khaliq for commenting on previous versions of this paper. Comments by Amanda Bates and two anonymous reviewers greatly improved the manuscript.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests. Christian Hof is an Academic Editor for PeerJ.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Imran Khaliq</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Christian Hof</xref> analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-1"><p>The following information was supplied regarding data availability:</p>
+            <p>The raw data and references are provided in the <xref ref-type="supplementary-material" rid="supplemental-information">Supplemental Files</xref>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Araújo et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Araújo</surname>
+                     <given-names>MB</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferri-Yáñez</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Bozinovic</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Marquet</surname>
+                     <given-names>PA</given-names>
+                  </name>
+                  <name>
+                     <surname>Valladares</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Chown</surname>
+                     <given-names>SL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Heat freezes niche evolution</article-title>
+               <source>Ecology Letters</source>
+               <volume>16</volume>
+               <fpage>1206</fpage>
+               <lpage>1219</lpage>
+               <pub-id pub-id-type="doi">10.1111/ele.12155</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Bacigalupe &amp; Bozinovic (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bacigalupe</surname>
+                     <given-names>LD</given-names>
+                  </name>
+                  <name>
+                     <surname>Bozinovic</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Design, limitations and sustained metabolic rate: lessons from small mammals</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>205</volume>
+               <fpage>2963</fpage>
+               <lpage>2970</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Brown (1985)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>CR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1985">1985</year>
+               <article-title>Energetic cost of moult in macaroni penguins (<italic>Eudyptes chrysolophus</italic>) and rockhopper penguins (<italic>E. chrysocome</italic>)</article-title>
+               <source>Journal of Comparative Physiology B, Biochemical, Systemic, and Environmental Physiology</source>
+               <volume>155</volume>
+               <fpage>515</fpage>
+               <lpage>520</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF00684682</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Drent &amp; Daan (1980)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Drent</surname>
+                     <given-names>RH</given-names>
+                  </name>
+                  <name>
+                     <surname>Daan</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1980">1980</year>
+               <article-title>The prudent parent: energetic adjustments in avian breeding</article-title>
+               <source>Ardea</source>
+               <volume>68</volume>
+               <fpage>225</fpage>
+               <lpage>252</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Drummond &amp; Rambaut (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Drummond</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Rambaut</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>BEAST: Bayesian evolutionary analysis by sampling trees</article-title>
+               <source>BMC Evolutionary Biology</source>
+               <volume>7</volume>
+               <fpage>214</fpage>
+               <pub-id pub-id-type="doi">10.1186/1471-2148-7-214</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Freckleton, Harvey &amp; Pagel (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Freckleton</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Harvey</surname>
+                     <given-names>PH</given-names>
+                  </name>
+                  <name>
+                     <surname>Pagel</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Phylogenetic analysis and comparative data: a test and review of evidence</article-title>
+               <source>The American Naturalist</source>
+               <volume>160</volume>
+               <fpage>712</fpage>
+               <lpage>726</lpage>
+               <pub-id pub-id-type="doi">10.1086/343873</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Fristoe et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fristoe</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                  <name>
+                     <surname>Burger</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Balk</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>JH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Metabolic heat production and thermal conductance are mass-independent adaptations to thermal environment in birds and mammals</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>112</volume>
+               <fpage>15934</fpage>
+               <lpage>15939</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.1521662112</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Fritz, Bininda-Emonds &amp; Purvis (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fritz</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Bininda-Emonds</surname>
+                     <given-names>ORP</given-names>
+                  </name>
+                  <name>
+                     <surname>Purvis</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Geographical variation in predictors of mammalian extinction risk: big is bad, but only in the tropics</article-title>
+               <source>Ecology Letters</source>
+               <volume>12</volume>
+               <fpage>538</fpage>
+               <lpage>549</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1461-0248.2009.01307.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Glazier (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Glazier</surname>
+                     <given-names>DS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Is metabolic rate a universal “pacemaker” for biological processes?</article-title>
+               <source>Biological Reviews</source>
+               <volume>90</volume>
+               <fpage>377</fpage>
+               <lpage>407</lpage>
+               <pub-id pub-id-type="doi">10.1111/brv.12115</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>Hammond &amp; Diamond (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hammond</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Diamond</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Maximal sustained energy budgets in human and animals</article-title>
+               <source>Nature</source>
+               <volume>386</volume>
+               <fpage>457</fpage>
+               <lpage>462</lpage>
+               <pub-id pub-id-type="doi">10.1038/386457a0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>Hinds &amp; Rice-Warner (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hinds</surname>
+                     <given-names>DS</given-names>
+                  </name>
+                  <name>
+                     <surname>Rice-Warner</surname>
+                     <given-names>CN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Maximum metabolism and aerobic capacity in heteromyid and other rodents</article-title>
+               <source>Physiological Zoology</source>
+               <volume>65</volume>
+               <fpage>188</fpage>
+               <lpage>214</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>Hof et al. (2017a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Fritz</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Prinzinger</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Pfenninger</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Böhning-Gaese</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>I</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017a</year>
+               <article-title>Phylogenetic signals in thermal traits remain stronger in the tropics if we can believe published physiological data. A reply to McKechnie et al., “Data quality problems undermine analyses of endotherm upper critical temperatures”</article-title>
+               <source>Journal of Biogeography</source>
+               <volume>44</volume>
+               <fpage>2427</fpage>
+               <lpage>2431</lpage>
+               <pub-id pub-id-type="doi">10.1111/jbi.13068</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>Hof et al. (2017b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Prinzinger</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Böhning-Gaese</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Pfenninger</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Bohning-Gaese</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Pfenninger</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017b</year>
+               <article-title>Global patterns of thermal tolerances and vulnerability of endotherms to climate change remain robust irrespective of varying data suitability criteria</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>284</volume>
+               <comment>Article 20170232</comment>
+               <pub-id pub-id-type="doi">10.1098/rspb.2017.0232</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Hudson, Isaac &amp; Reuman (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hudson</surname>
+                     <given-names>LN</given-names>
+                  </name>
+                  <name>
+                     <surname>Isaac</surname>
+                     <given-names>NJB</given-names>
+                  </name>
+                  <name>
+                     <surname>Reuman</surname>
+                     <given-names>DC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>The relationship between body mass and field metabolic rate among individual birds and mammals</article-title>
+               <source>Journal of Animal Ecology</source>
+               <volume>82</volume>
+               <fpage>1009</fpage>
+               <lpage>1020</lpage>
+               <pub-id pub-id-type="doi">10.1111/1365-2656.12086</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Jetz, Freckleton &amp; McKechnie (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jetz</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Freckleton</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>McKechnie</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Environment, migratory tendency, phylogeny and basal metabolic rate in birds</article-title>
+               <source>PLOS ONE</source>
+               <volume>3</volume>
+               <elocation-id>e3261</elocation-id>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0003261</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Jetz et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jetz</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>GH</given-names>
+                  </name>
+                  <name>
+                     <surname>Joy</surname>
+                     <given-names>JB</given-names>
+                  </name>
+                  <name>
+                     <surname>Hartmann</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Mooers</surname>
+                     <given-names>AO</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>The global diversity of birds in space and time</article-title>
+               <source>Nature</source>
+               <volume>491</volume>
+               <fpage>444</fpage>
+               <lpage>448</lpage>
+               <pub-id pub-id-type="doi">10.1038/nature11631</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Johnson &amp; Speakman (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Limits to sustained energy intake V. Effect of cold-exposure during lactation in Mus musculus</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>1977</volume>
+               <fpage>1967</fpage>
+               <lpage>1977</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Johnson, Thomson &amp; Speakman (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomson</surname>
+                     <given-names>SC</given-names>
+                  </name>
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Limits to sustained energy intake: II. Inter-relationships between resting metabolic rate, life-history traits and morphology in Mus musculus</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>204</volume>
+               <fpage>1937</fpage>
+               <lpage>1946</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>Kearney &amp; Porter (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kearney</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Porter</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Mechanistic niche modelling: combining physiological and spatial data to predict species’ ranges</article-title>
+               <source>Ecology Letters</source>
+               <volume>12</volume>
+               <fpage>334</fpage>
+               <lpage>350</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1461-0248.2008.01277.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Khaliq et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Bohning-Gaese</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Prinzinger</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Pfenninger</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>The influence of thermal tolerances on geographical ranges of endotherms</article-title>
+               <source>Global Ecology and Biogeography</source>
+               <volume>26</volume>
+               <fpage>650</fpage>
+               <lpage>668</lpage>
+               <pub-id pub-id-type="doi">10.1111/geb.12575</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Khaliq et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Fritz</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Prinzinger</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Pfenninger</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Böhning-Gaese</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Global variation in thermal physiology of birds and mammals: evidence for phylogenetic niche conservatism only in the tropics</article-title>
+               <source>Journal of Biogeography</source>
+               <volume>42</volume>
+               <fpage>2187</fpage>
+               <lpage>2196</lpage>
+               <pub-id pub-id-type="doi">10.1111/jbi.12573</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Khaliq et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Khaliq</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>Hof</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Prinzinger</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Böhning-Gaese</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Pfenninger</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Global variation in thermal tolerances and vulnerability of endotherms to climate change</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>281</volume>
+               <comment>Article 20141097</comment>
+               <pub-id pub-id-type="doi">10.1098/rspb.2014.1097</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Kobbe, Nowack &amp; Dausmann (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kobbe</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Nowack</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Dausmann</surname>
+                     <given-names>KH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Torpor is not the only option: seasonal variations of the thermoneutral zone in a small primate</article-title>
+               <source>Journal of Comparative Physiology B, Biochemical, Systemic, and Environmental Physiology</source>
+               <volume>184</volume>
+               <fpage>789</fpage>
+               <lpage>797</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00360-014-0834-z</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Krol, Murphy &amp; Speakman (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Krol</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Murphy</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Limits to sustained energy intake. X. Effects of fur removal on reproductive performance in laboratory mice</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>210</volume>
+               <fpage>4233</fpage>
+               <lpage>4243</lpage>
+               <pub-id pub-id-type="doi">10.1242/jeb.009779</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Król &amp; Speakman (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Król</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Limits to sustained energy intake VI. Energetics of lactation in laboratory mice at thermoneutrality</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>206</volume>
+               <fpage>4255</fpage>
+               <lpage>4266</lpage>
+               <pub-id pub-id-type="doi">10.1242/jeb.00674</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Kuhn, Mooers &amp; Thomas (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kuhn</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                  <name>
+                     <surname>Mooers</surname>
+                     <given-names>AØ</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>GH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>A simple polytomy resolver for dated phylogenies</article-title>
+               <source>Methods in Ecology and Evolution</source>
+               <volume>2</volume>
+               <fpage>427</fpage>
+               <lpage>436</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.2041-210X.2011.00103.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Lovegrove (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lovegrove</surname>
+                     <given-names>BG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>The zoogeography of mammalian basal metabolic rate</article-title>
+               <source>The American Naturalist</source>
+               <volume>156</volume>
+               <fpage>201</fpage>
+               <lpage>219</lpage>
+               <pub-id pub-id-type="doi">10.1086/303383</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Lovegrove (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lovegrove</surname>
+                     <given-names>BG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>The influence of climate on the basal metabolic rate of small mammals: a slow-fast metabolic continuum</article-title>
+               <source>Journal of Comparative Physiology. B, Biochemical, Systemic, and Environmental Physiology</source>
+               <volume>173</volume>
+               <fpage>87</fpage>
+               <lpage>112</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00360-002-0309-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Martins, Hansen &amp; Url (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Martins</surname>
+                     <given-names>EP</given-names>
+                  </name>
+                  <name>
+                     <surname>Hansen</surname>
+                     <given-names>TF</given-names>
+                  </name>
+                  <name>
+                     <surname>Url</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Phylogenies and the comparative method: a general approach to incorporating phylogenetic information into the analysis of interspecific data</article-title>
+               <source>The American Naturalist</source>
+               <volume>149</volume>
+               <fpage>646</fpage>
+               <lpage>667</lpage>
+               <pub-id pub-id-type="doi">10.1086/286013</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>McKechnie et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McKechnie</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Coe</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerson</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolf</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Data quality problems undermine analyses of endothem upper critical temperatures</article-title>
+               <source>Journal of Biogeography</source>
+               <volume>44</volume>
+               <fpage>2424</fpage>
+               <lpage>2426</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1399-0012.2012.01641.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>McKechnie, Freckleton &amp; Jetz (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McKechnie</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Freckleton</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Jetz</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Phenotypic plasticity in the scaling of avian basal metabolic rate</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>273</volume>
+               <fpage>931</fpage>
+               <lpage>937</lpage>
+               <pub-id pub-id-type="doi">10.1098/rspb.2005.3415</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>McKechnie &amp; Wolf (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McKechnie</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolf</surname>
+                     <given-names>BO</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Climate change increases the likelihood of catastrophic avian mortality events during extreme heat waves</article-title>
+               <source>Biology Letters</source>
+               <volume>6</volume>
+               <fpage>253</fpage>
+               <lpage>256</lpage>
+               <pub-id pub-id-type="doi">10.1098/rsbl.2009.0702</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>McNab (1988)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McNab</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1988">1988</year>
+               <article-title>Food habits and the basal rate of metabolism in birds</article-title>
+               <source>Oecologia</source>
+               <volume>77</volume>
+               <fpage>343</fpage>
+               <lpage>349</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF00378040</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>McNab (2002)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McNab</surname>
+                     <given-names>BK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <source>The physiological ecology of vertebrates: a view from energetics</source>
+               <publisher-name>Comstock/Cornell University Press</publisher-name>
+               <publisher-loc>Ithaca</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>McNab (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McNab</surname>
+                     <given-names>BK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>An analysis of the factors that in fluence the level and scaling of mammalian BMR</article-title>
+               <source>Comparative Biochemistry and Physiology Part A, Molecular &amp; Integrative Physiology</source>
+               <volume>151</volume>
+               <fpage>5</fpage>
+               <lpage>28</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.cbpa.2008.05.008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>McNab (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McNab</surname>
+                     <given-names>BK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Ecological factors affect the level and scaling of avian BMR</article-title>
+               <source>Comparative Biochemistry and Physiology Part A, Molecular &amp; Integrative Physiology</source>
+               <volume>152</volume>
+               <fpage>22</fpage>
+               <lpage>45</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.cbpa.2008.08.021</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>McNab (2012)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McNab</surname>
+                     <given-names>BK</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <source>Extreme measures: the ecological energetics of birds and mammals</source>
+               <publisher-name>The University of Chicago Press</publisher-name>
+               <publisher-loc>Chicago</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>McNab &amp; Morrison (1963)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McNab</surname>
+                     <given-names>BK</given-names>
+                  </name>
+                  <name>
+                     <surname>Morrison</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1963">1963</year>
+               <article-title>Body temperature and metabolism in subspecies of Peromyscus from arid and mesic environments</article-title>
+               <source>Ecological Monographs</source>
+               <volume>33</volume>
+               <fpage>63</fpage>
+               <lpage>82</lpage>
+               <pub-id pub-id-type="doi">10.2307/1948477</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Naya et al. (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Naya</surname>
+                     <given-names>DE</given-names>
+                  </name>
+                  <name>
+                     <surname>Spangenberg</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Naya</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Bozinovic</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Thermal conductance and basal metabolic rate are part of a coordinated system for heat transfer regulation</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>280</volume>
+               <fpage>20141629</fpage>
+               <pub-id pub-id-type="doi">10.1098/rspb.2013.1629</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label>Orme et al. (2012)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Orme</surname>
+                     <given-names>CDL</given-names>
+                  </name>
+                  <name>
+                     <surname>Freckleton</surname>
+                     <given-names>RP</given-names>
+                  </name>
+                  <name>
+                     <surname>Thomas</surname>
+                     <given-names>GH</given-names>
+                  </name>
+                  <name>
+                     <surname>Petzoldt</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Frits</surname>
+                     <given-names>SA</given-names>
+                  </name>
+                  <name>
+                     <surname>Issac</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Pearse</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <data-title>Caper: comparative analyses of phylogenetics and evolution in R</data-title>
+               <version designator="version 0.5">R package version 0.5</version>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Pagel (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Pagel</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Inferring the historical patterns of biological evolution</article-title>
+               <source>Nature</source>
+               <volume>401</volume>
+               <fpage>877</fpage>
+               <lpage>884</lpage>
+               <pub-id pub-id-type="doi">10.1038/44766</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Peterson, Nagy &amp; Diamond (1990)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Peterson</surname>
+                     <given-names>CC</given-names>
+                  </name>
+                  <name>
+                     <surname>Nagy</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name>
+                     <surname>Diamond</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1990">1990</year>
+               <article-title>Sustained metabolic scope</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>87</volume>
+               <fpage>2324</fpage>
+               <lpage>2328</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.87.6.2324</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Petit, Vézina &amp; Piersma (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Petit</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Vézina</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Piersma</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Ambient temperature does not affect fuelling rate in absence of digestive constraints in long-distance migrant shorebird fuelling up in captivity</article-title>
+               <source>Journal of Comparative Physiology. B, Biochemical, Systemic, and Environmental Physiology</source>
+               <volume>180</volume>
+               <fpage>847</fpage>
+               <lpage>856</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00360-010-0463-0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>R Core Team (2013)</label><element-citation publication-type="software">
+               <person-group person-group-type="author">
+                  <collab>R Core Team</collab>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <data-title>A language and environment for statistical computing</data-title>
+               <publisher-name>R foundation for statistical computing</publisher-name>
+               <publisher-loc>Vienna</publisher-loc>
+               <uri>http://www.r-project.org</uri>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Renaudeau et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Renaudeau</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Collin</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Yahav</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>De Basilio</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Gourdine</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Collier</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Adaptation to hot climate and strategies to alleviate heat stress in livestock production</article-title>
+               <source>Animal</source>
+               <volume>6</volume>
+               <fpage>707</fpage>
+               <lpage>728</lpage>
+               <pub-id pub-id-type="doi">10.1017/S1751731111002448</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Riek &amp; Geiser (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Riek</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Geiser</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Allometry of thermal variables in mammals: consequences of body size and phylogeny</article-title>
+               <source>Biological Reviews</source>
+               <volume>88</volume>
+               <fpage>564</fpage>
+               <lpage>572</lpage>
+               <pub-id pub-id-type="doi">10.1111/brv.12016</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Sadowska et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sadowska</surname>
+                     <given-names>ET</given-names>
+                  </name>
+                  <name>
+                     <surname>Król</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Chrzascik</surname>
+                     <given-names>KM</given-names>
+                  </name>
+                  <name>
+                     <surname>Rudolf</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Koteja</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Limits to sustained energy intake. XXIII. Does heat dissipation capacity limit the energy budget of lactating bank voles?</article-title>
+               <source>Journal of Experimental Biology</source>
+               <volume>219</volume>
+               <fpage>805</fpage>
+               <lpage>815</lpage>
+               <pub-id pub-id-type="doi">10.1242/jeb.134437</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Sadowska et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sadowska</surname>
+                     <given-names>ET</given-names>
+                  </name>
+                  <name>
+                     <surname>Stawski</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Rudolf</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Dheyongera</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Baliga-klimczyk</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Koteja</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Chrza</surname>
+                     <given-names>KM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Evolution of basal metabolic rate in bank voles from a multidirectional selection experiment</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>282</volume>
+               <comment>Article 20150025</comment>
+               <pub-id pub-id-type="doi">10.1098/rspb.2015.0025</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Scholander (1955)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scholander</surname>
+                     <given-names>PF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1955">1955</year>
+               <article-title>Evolution of climatic adaptation in homeotherms</article-title>
+               <source>Evolution</source>
+               <volume>9</volume>
+               <fpage>15</fpage>
+               <lpage>26</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1558-5646.1955.tb01510.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Scholander et al. (1950a)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scholander</surname>
+                     <given-names>PF</given-names>
+                  </name>
+                  <name>
+                     <surname>Hock</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Walters</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Irving</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1950">1950a</year>
+               <article-title>Adaptation to cold in arctic and tropical mammals and birds in relation to body temperature, insulation, and basal metabolic rate</article-title>
+               <source>The Biological Bulletin</source>
+               <volume>99</volume>
+               <fpage>259</fpage>
+               <lpage>271</lpage>
+               <pub-id pub-id-type="doi">10.2307/1538742</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Scholander et al. (1950b)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scholander</surname>
+                     <given-names>PF</given-names>
+                  </name>
+                  <name>
+                     <surname>Hock</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Walters</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Irving</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1950">1950b</year>
+               <article-title>Heat regulation in some arctic and tropical mammals and birds</article-title>
+               <source>The Biological Bulletin</source>
+               <volume>99</volume>
+               <fpage>237</fpage>
+               <lpage>258</lpage>
+               <pub-id pub-id-type="doi">10.2307/1538741</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Scholander et al. (1950c)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scholander</surname>
+                     <given-names>PF</given-names>
+                  </name>
+                  <name>
+                     <surname>Walters</surname>
+                     <given-names>VV</given-names>
+                  </name>
+                  <name>
+                     <surname>Hock</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Irving</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1950">1950c</year>
+               <article-title>Body insulation of some arctic and tropical mammals and birds</article-title>
+               <source>The Biological Bulletin</source>
+               <volume>99</volume>
+               <fpage>225</fpage>
+               <lpage>236</lpage>
+               <pub-id pub-id-type="doi">10.2307/1538740</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Speakman (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>The cost of living: field metabolic rates of small mammals</article-title>
+               <source>Advances in Ecological Research</source>
+               <volume>30</volume>
+               <fpage>177</fpage>
+               <lpage>297</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Speakman et al. (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Ergon</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Cavanagh</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Reid</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Scantlebury</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Lambin</surname>
+                     <given-names>X</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Resting and daily energy expenditures of free-living field voles are positively correlated but reflect extrinsic rather than intrinsic effects</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>100</volume>
+               <fpage>14057</fpage>
+               <lpage>14062</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.2235671100</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Speakman &amp; Król (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Król</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Maximal heat dissipation capacity and hyperthermia risk: neglected key factors in the ecology of endotherms</article-title>
+               <source>The Journal of Animal Ecology</source>
+               <volume>79</volume>
+               <fpage>726</fpage>
+               <lpage>746</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2656.2010.01689.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Speakman et al. (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Talbot</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                  <name>
+                     <surname>Selman</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Snart</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Mclaren</surname>
+                     <given-names>JS</given-names>
+                  </name>
+                  <name>
+                     <surname>Redman</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Krol</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Jackson</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name>
+                     <surname>Brand</surname>
+                     <given-names>MD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Uncoupled and surviving: individual mice with high metabolism have greater mitochondrial uncoupling and live longer</article-title>
+               <source>Aging Cell</source>
+               <volume>3</volume>
+               <fpage>87</fpage>
+               <lpage>95</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1474-9728.2004.00097.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>Tieleman &amp; Williams (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tieleman</surname>
+                     <given-names>BI</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>JB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>The Adjustment of avian metabolic rates and water fluxes to desert environments</article-title>
+               <source>Physiological and Biochemical Zoology</source>
+               <volume>73</volume>
+               <fpage>461</fpage>
+               <lpage>479</lpage>
+               <pub-id pub-id-type="doi">10.1086/317740</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>White et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>White</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Blackburn</surname>
+                     <given-names>TM</given-names>
+                  </name>
+                  <name>
+                     <surname>Martin</surname>
+                     <given-names>GR</given-names>
+                  </name>
+                  <name>
+                     <surname>Butler</surname>
+                     <given-names>PJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Basal metabolic rate of birds is associated with habitat temperature and precipitation, not primary productivity</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>274</volume>
+               <fpage>287</fpage>
+               <lpage>293</lpage>
+               <pub-id pub-id-type="doi">10.1098/rspb.2006.3727</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>White &amp; Kearney (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>White</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Kearney</surname>
+                     <given-names>MR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Determinants of inter-specific variation in basal metabolic rate</article-title>
+               <source>Journal of Comparative Physiology. B, Biochemical, Systemic, and Environmental Physiology</source>
+               <volume>183</volume>
+               <fpage>1</fpage>
+               <lpage>26</lpage>
+               <pub-id pub-id-type="doi">10.1007/s00360-012-0676-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-60"><label>White &amp; Seymour (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>White</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Seymour</surname>
+                     <given-names>RS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Mammalian basal metabolic rate is proportional to body mass 2/3</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>100</volume>
+               <fpage>4046</fpage>
+               <lpage>4049</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.0436428100</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-61"><label>White &amp; Seymour (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>White</surname>
+                     <given-names>CR</given-names>
+                  </name>
+                  <name>
+                     <surname>Seymour</surname>
+                     <given-names>RS</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Does basal metabolic rate contain a useful signal? mammalian BMR allometry and correlations with a selection of physiological, ecological, and life-history variables</article-title>
+               <source>Physiological and Biochemical Zoology</source>
+               <volume>77</volume>
+               <fpage>929</fpage>
+               <lpage>941</lpage>
+               <pub-id pub-id-type="doi">10.1086/425186</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-62"><label>Wiersma et al. (2007)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wiersma</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Muñoz Garcia</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Walker</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>JB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2007">2007</year>
+               <article-title>Tropical birds have a slow pace of life</article-title>
+               <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+               <volume>104</volume>
+               <fpage>9340</fpage>
+               <lpage>9345</lpage>
+               <pub-id pub-id-type="doi">10.1073/pnas.0702212104</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-63"><label>Wiersma, Nowak &amp; Williams (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wiersma</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Nowak</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Williams</surname>
+                     <given-names>JB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Small organ size contributes to the slow pace of life in tropical birds</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>215</volume>
+               <fpage>1662</fpage>
+               <lpage>1669</lpage>
+               <pub-id pub-id-type="doi">10.1242/jeb.065144</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-64"><label>Wilson, Brown &amp; Downs (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wilson</surname>
+                     <given-names>A-L</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Downs</surname>
+                     <given-names>CT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Seasonal variation in metabolic rate of a medium-sized frugivore, the Knysana turaco (Tauraco corythaix)</article-title>
+               <source>Journal of Thermal Biology</source>
+               <volume>36</volume>
+               <fpage>167</fpage>
+               <lpage>172</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jtherbio.2011.01.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-65"><label>Withers, Cooper &amp; Larcombe (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Withers</surname>
+                     <given-names>PC</given-names>
+                  </name>
+                  <name>
+                     <surname>Cooper</surname>
+                     <given-names>CE</given-names>
+                  </name>
+                  <name>
+                     <surname>Larcombe</surname>
+                     <given-names>AN</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Environmetal correlates of physiological variables in marsupials</article-title>
+               <source>Physiological and Biochemical Zoology</source>
+               <volume>79</volume>
+               <fpage>437</fpage>
+               <lpage>453</lpage>
+               <pub-id pub-id-type="doi">10.1086/501063</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-66"><label>Wolf et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wolf</surname>
+                     <given-names>BO</given-names>
+                  </name>
+                  <name>
+                     <surname>Coe</surname>
+                     <given-names>BH</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerson</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>McKechnie</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Comment on an analysis of endotherm thermal tolerances: systematic errors in data compilation undermine its credibility</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+               <volume>284</volume>
+               <comment>Article 20162523</comment>
+               <pub-id pub-id-type="doi">10.1098/rspb.2016.2523</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-67"><label>Woodroffe, Groom &amp; McNutt (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Woodroffe</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Groom</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>McNutt</surname>
+                     <given-names>JW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Hot dogs: high ambient temperatures impact reproductive success in a tropical carnivore</article-title>
+               <source>Journal of Animal Ecology</source>
+               <volume>86</volume>
+               <fpage>1329</fpage>
+               <lpage>1338</lpage>
+               <pub-id pub-id-type="doi">10.1111/1365-2656.12719</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-68"><label>Wu et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Speakman</surname>
+                     <given-names>JR</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Limits to sustained energy intake. XI. A test of the heat dissipation limitation hypothesis in lactating Brandt’s voles (Lasiopodomys brandtii)</article-title>
+               <source>The Journal of Experimental Biology</source>
+               <volume>212</volume>
+               <fpage>3455</fpage>
+               <lpage>3465</lpage>
+               <pub-id pub-id-type="doi">10.1242/jeb.030338</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-69"><label>Zhang et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>Y</given-names>
+                  </name>
+                  <name>
+                     <surname>Mathewson</surname>
+                     <given-names>PD</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>Q</given-names>
+                  </name>
+                  <name>
+                     <surname>Porter</surname>
+                     <given-names>WP</given-names>
+                  </name>
+                  <name>
+                     <surname>Ran</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>An ecophysiological perspective on likely giant panda habitat responses to climate change</article-title>
+               <source>Global Change Biology</source>
+               <volume>24</volume>
+               <fpage>1804</fpage>
+               <lpage>1816</lpage>
+               <pub-id pub-id-type="doi">10.1111/ijlh.12426</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

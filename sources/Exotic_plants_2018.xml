@@ -1,0 +1,4001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">5916</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.5916</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Biodiversity</subject>
+<subject>Conservation Biology</subject>
+<subject>Ecology</subject>
+<subject>Entomology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Along urbanization sprawl, exotic plants distort native bee (Hymenoptera: Apoidea) assemblages in high elevation Andes ecosystem</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Henríquez-Piskulich</surname>
+<given-names>Patricia</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<email>patricia.henriquez@mayor.cl</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Vera</surname>
+<given-names>Alejandro</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Sandoval</surname>
+<given-names>Gino</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-6921-597X</contrib-id>
+<name name-style="western">
+<surname>Villagra</surname>
+<given-names>Cristian</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>Instituto de Entomología, Universidad Metropolitana de Ciencias de la Educación</institution>, <addr-line>Santiago, Región Metropolitana</addr-line>, <country>Chile</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Departamento de Biología, Universidad Metropolitana de Ciencias de la Educación</institution>, <addr-line>Santiago, Región Metropolitana</addr-line>, <country>Chile</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Departamento de Historia y Geografía, Universidad Metropolitana de Ciencias de la Educación</institution>, <addr-line>Santiago, Región Metropolitana</addr-line>, <country>Chile</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Colla</surname>
+<given-names>Sheila</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-11-07">
+<day>7</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e5916</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-08-23">
+<day>23</day>
+<month>8</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-10-11">
+<day>11</day>
+<month>10</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Henríquez-Piskulich et al.</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Henríquez-Piskulich et al.</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/5916"/>
+<abstract>
+<p>Native bees contribute a considerable portion of pollination services for endemic as well as introduced plant species. Their decline has been attributed to several human-derived influences including global warming as well as the reduction, alteration, and loss of bees’ habitat. With human expansion comes along the introduction of exotic plant species with negative impacts over native ecosystems. Anthropic effects may even have a deeper impact on communities adapted to extreme environments, such as high elevation habitats, where abiotic stressors alone are a natural limitation to biodiversity. Among these effects, the introduction of exotic plants and urbanization may have a greater influence on native communities. In this work, we explored such problems, studying the relationship between the landscape and its effect over richness and abundance of native bees from the subandean belt in the Andes mountain chain. Furthermore, we investigated the effects of exotic plant abundance on this high-altitude bee assemblage. Despite the landscape not showing an effect over bee richness and abundance, exotic plants did have a significant influence over the native bee assemblage. The abundance of exotic plants was associated with a relative increase in the proportion of small and medium bee species. Moreover, Halictidae was the only family that appeared to be favored by an increase in the abundance of exotic plant species. We discuss these results and the urgent need for further research of high-altitude environments due to their vulnerability and high endemicity.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Exotic plant species</kwd>
+<kwd>Apoidea</kwd>
+<kwd>Montane ecosystems</kwd>
+<kwd>Pollinators</kwd>
+<kwd>Native bee assemblage</kwd>
+<kwd>Urbanization</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The authors received no funding for this work.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Native bee species are not only important as native plant pollinators, but also 15–30% of productive crops require their pollination services (<xref ref-type="bibr" rid="ref-71">McGregor, 1976</xref>). Declines of these insects have been reported at a global scale (<xref ref-type="bibr" rid="ref-10">Biesmeijer et al., 2006</xref>; <xref ref-type="bibr" rid="ref-28">Fitzpatrick et al., 2007</xref>; <xref ref-type="bibr" rid="ref-14">Cameron et al., 2011</xref>). Human activities are the main drivers of native bee’s downturn through: fragmentation, biotic homogenization with the introduction of invasive organisms (<xref ref-type="bibr" rid="ref-73">McKinney &amp; Lockwood, 1999</xref>), as well as insect’s habitat quality degradation and, ultimately, destruction (<xref ref-type="bibr" rid="ref-31">Foley et al., 2005</xref>; <xref ref-type="bibr" rid="ref-98">Potts et al., 2010</xref>). Furthermore, climate change has also been listed among the explanations for native bee declines (<xref ref-type="bibr" rid="ref-98">Potts et al., 2010</xref>). Among the consequences of pollinator declines are changes in the structure of biotic communities, degradation of biodiversity, and reduction of food production from negative effects on native flowers and crops of economic importance that depend on pollinators to achieve reproduction (<xref ref-type="bibr" rid="ref-4">Allen-Wardell et al., 1998</xref>; <xref ref-type="bibr" rid="ref-98">Potts et al., 2010</xref>). Pollinator declines may not be easy to recover from if they continue progressing from the continuous anthropogenic pressure on pollinators (<xref ref-type="bibr" rid="ref-4">Allen-Wardell et al., 1998</xref>; <xref ref-type="bibr" rid="ref-140">Winfree et al., 2009</xref>).</p>
+<p>This situation could be even more critical for native insects adapted to extreme environments, including bees. At a local scale, insects may be especially sensitive to human impact in habitats with extreme climate fluctuations (<xref ref-type="bibr" rid="ref-12">Boggs &amp; Murphy, 1997</xref>; <xref ref-type="bibr" rid="ref-46">Haslett, 1997</xref>). This could be the case of high elevation environments, such as montane ecosystems, also recognized as hotspots of biological diversity (<xref ref-type="bibr" rid="ref-65">Lomolino, 2001</xref>). Under these conditions, in addition to overcoming current human impacts, native bees must face extreme environmental variation such as severe changes in temperature, elevated levels of ultraviolet radiation, less partial pressure of atmospheric gases, drastic oscillations in the amount of precipitations, strong wind speed, among others (<xref ref-type="bibr" rid="ref-53">Hodkinson, 2005</xref>). All these abiotic factors have been associated to comparatively reduced diversity and specialized insects in high-altitude habitats (<xref ref-type="bibr" rid="ref-95">Pellissier et al., 2012</xref>; <xref ref-type="bibr" rid="ref-19">Classen et al., 2015</xref>). In general, studies have found lower richness and abundance of insects as altitude increases (<xref ref-type="bibr" rid="ref-42">Hägvar, 1976</xref>; <xref ref-type="bibr" rid="ref-141">Wolda, 1987</xref>; <xref ref-type="bibr" rid="ref-63">Lefebvre et al., 2018</xref>), and, regarding native bee species, the same pattern has been reported (<xref ref-type="bibr" rid="ref-6">Arroyo, Primack &amp; Armesto, 1982</xref>; <xref ref-type="bibr" rid="ref-54">Hoiss et al., 2012</xref>).</p>
+<p>With economic development, it often increases environment degradation in favor of urbanization, especially in countries with unsustainable development policies (<xref ref-type="bibr" rid="ref-105">Romero &amp; Ordenes, 2004</xref>). This problem may also impact high-altitude ecosystems (<xref ref-type="bibr" rid="ref-9">Baiping et al., 2004</xref>; <xref ref-type="bibr" rid="ref-105">Romero &amp; Ordenes, 2004</xref>). Regarding the consequences of urbanization on native bee habitats, it has been demonstrated that this affects bee richness and evenness, and also, delays peak abundance during the bee season and decreases temporal turnover (<xref ref-type="bibr" rid="ref-139">Winfree, Bartomeus &amp; Cariveau, 2011</xref>; <xref ref-type="bibr" rid="ref-56">Hung, Ascher &amp; Holway, 2017</xref>). Also, the landscape modifications have been found to affect bee assemblages due to species-specific responses such as: body size, nesting habits, feeding behavior and sociality level, among others (<xref ref-type="bibr" rid="ref-11">Bishop &amp; Armbruster, 1999</xref>; <xref ref-type="bibr" rid="ref-136">Williams et al., 2010</xref>; <xref ref-type="bibr" rid="ref-55">Hopfenmüller, Steffan-Dewenter &amp; Holzschuh, 2014</xref>; <xref ref-type="bibr" rid="ref-68">Marshall et al., 2015</xref>). Considering this, there could be an array of different responses: Some species could respond positively while others could be under threat of disappearing from an ecosystem (<xref ref-type="bibr" rid="ref-52">Hinners, Kearns &amp; Wessman, 2012</xref>; <xref ref-type="bibr" rid="ref-32">Fortel et al., 2014</xref>). Bees with feeding specializations (also called “oligolectic”) gather resources on floral species of one family or genera of plants, and therefore, are less flexible to changes in their habitats due to human-derived modifications (<xref ref-type="bibr" rid="ref-119">Steffan-Dewenter et al., 2006</xref>; <xref ref-type="bibr" rid="ref-50">Hernandez, Frankie &amp; Thorp, 2009</xref>). For instance, changes in the landscape decrease the proportion of parasitic (<xref ref-type="bibr" rid="ref-119">Steffan-Dewenter et al., 2006</xref>), solitary and also larger-sized native bee species (<xref ref-type="bibr" rid="ref-52">Hinners, Kearns &amp; Wessman, 2012</xref>). Contrastingly, urbanization may favor cavity-nesting species (<xref ref-type="bibr" rid="ref-32">Fortel et al., 2014</xref>) probably due to the higher nesting resources for these species in urbanized areas (<xref ref-type="bibr" rid="ref-50">Hernandez, Frankie &amp; Thorp, 2009</xref>). Therefore, knowledge of the pollinator’s resources and life-history traits is required to correctly assess the most likely pollination responses under the effects of human activities (<xref ref-type="bibr" rid="ref-16">Cane et al., 2006</xref>).</p>
+<p>The impact of exotic plants over native bee species has been poorly studied (<xref ref-type="bibr" rid="ref-22">Corbet et al., 2001</xref>; <xref ref-type="bibr" rid="ref-38">Goulson, 2003</xref>; <xref ref-type="bibr" rid="ref-64">Liu &amp; Pemberton, 2008</xref>). To the best of our knowledge, the effects of exotic plant species on mountain native bee assemblages are yet to be revealed. Their influence could be particularly relevant if they are capable of modifying the landscapes and native plant communities, due to cascading effects on different trophic levels (<xref ref-type="bibr" rid="ref-88">Morón et al., 2009</xref>; <xref ref-type="bibr" rid="ref-27">Fenesi et al., 2015</xref>). In high elevation environments it has been suggested that exotic plants may jeopardize native pollination services (<xref ref-type="bibr" rid="ref-79">Miller et al., 2018</xref>) and potentially affect native bee populations through modifying the relative abundance and the diversity of native plant species (<xref ref-type="bibr" rid="ref-120">Stout &amp; Morales, 2009</xref>). Previous studies have found a negative relationship between the presence of exotic plants and the abundance, species richness, and evenness of native bees (<xref ref-type="bibr" rid="ref-88">Morón et al., 2009</xref>; <xref ref-type="bibr" rid="ref-27">Fenesi et al., 2015</xref>). However, contrary to general trends in landscape studies, there are no works on the effect of exotic plants over the species-specific response of native bees due to the threats previously mentioned. If exotic plant species could alter mountain bee assemblages, this may have significant effects on pollination of native plant species. Since their effect could vary depending on which bee species is considered, some native bee species could benefit from the introduction of exotic plants, as providers of additional resources (<xref ref-type="bibr" rid="ref-122">Tepedino, Bradley &amp; Griswold, 2008</xref>; <xref ref-type="bibr" rid="ref-24">Drossart, Michez &amp; Vanderplanck, 2017</xref>). Nonetheless, it has been recently demonstrated that the introduction of exotic plants could be even more problematic that changes in the landscape, affecting not only insect assemblages but also complete plant-pollinator networks (<xref ref-type="bibr" rid="ref-43">Hansen et al., 2017</xref>). If exotic plants replace the majority of native plant species, not only bees would face the consequences of this introduction, but also the whole ecosystem services may be hampered due to alterations to the biota (<xref ref-type="bibr" rid="ref-135">Wilde, Gandhi &amp; Colson, 2015</xref>).</p>
+<p>Despite above-mentioned problems, we found no published studies that focus on the response of native bee assemblages towards the effects of the landscape’s changes and the introduction of exotic flora in high elevation ecosystems. These dimensions could be essential for the understanding of bee declines, and preventing further losses not only of these insects, but also the rest of pollinating animals (<xref ref-type="bibr" rid="ref-3">Aguirre‐Gutiérrez et al., 2015</xref>). In this work, we evaluated if urbanization could have an effect on native bee species richness and abundance. In addition, we focused on the influence of the abundance of exotic plant species and the response of native bee assemblages in order to evaluate species-specific responses. In general, there is still much to explore from montane biomes (<xref ref-type="bibr" rid="ref-65">Lomolino, 2001</xref>). In this context, previous works have listed nearly 50 species of native bees for the subandean belt of central Chile, an area that unfortunately is under constant alteration due to the replacement of natural habitats by urban expansion (<xref ref-type="bibr" rid="ref-6">Arroyo, Primack &amp; Armesto, 1982</xref>; <xref ref-type="bibr" rid="ref-15">Camousseight &amp; Barrera, 1998</xref>; <xref ref-type="bibr" rid="ref-80">Monckton, 2016</xref>). In particular, we tested the hypothesis that urbanization mediates changes in diversity, and also, that the introduction of exotic flora that comes along with this, could also play a role in changing the assemblage due to the close relationship between bees and their floral resources. Our objectives were to assess the effect of urbanization over high-altitude native bee diversity and of exotic floral abundance over the assemblage.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<sec>
+<title>Study site</title>
+<p>We carried out our study in the town of Farellones and its surroundings (33°20′59″S, 70°18′34″O), located at 2,360 m above sea level in the subandean vegetational belt of Andes mountains of central Chile. A zone characterized by long, snow free-periods of 5–8 months, and annual precipitations of 400–800 mm falling mostly as snow during winter (<xref ref-type="bibr" rid="ref-5">Arroyo, Armesto &amp; Villagran, 1981</xref>). Corresponds to a settlement started around 1930s as a winter sport center and presently the larger ski destination in Chile, with an ongoing expansion of urban areas (<xref ref-type="bibr" rid="ref-60">Junta de Vecinos de Farellones, 2018</xref>). Moreover, as in other urbanized high elevation sites along Andes mountain chain, it is possible to find livestock seasonal foraging activities as well as mining exploitation routes (<xref ref-type="bibr" rid="ref-8">Bahre, 1979</xref>; <xref ref-type="bibr" rid="ref-116">SERPLAC (Secretaría Regional de Planificación y Coordinación), 1980</xref>).</p>
+<p>In this locality, vegetation is represented by subandean scrub, mainly composed by the Asteraceae family, accompanied by perennial herbs, geophytes, and annual herbs (<xref ref-type="bibr" rid="ref-6">Arroyo, Primack &amp; Armesto, 1982</xref>). It has been described that 54% of its vascular flora is native and 29% endemic (<xref ref-type="bibr" rid="ref-89">Muñoz-Schick et al., 2000</xref>).</p>
+<p>We selected eight sites for this study of 80 × 80 m (<xref ref-type="supplementary-material" rid="supp-4">Fig. S1</xref>), criteria for this selection were: (i) the vegetation was unmanaged; (ii) sites were exposed to human activities; and (iii) safe enough to sample, considering that the area presented cliffs and sharp edge precipices. Data was collected from the sites once a month for two seasons: the first in December 2016, January and February 2017 (season 1: 2016/2017), and the second in November and December 2017, January and February 2018 (season 2: 2017/2018). Weather with abundant snow precipitation did not permit us to sample in November 2016. Minimal and maximal distances between sites were 380 m and 4.4 Km, respectively (<xref ref-type="bibr" rid="ref-91">Normandin et al., 2017</xref>).</p>
+</sec>
+<sec>
+<title>Plants</title>
+<p>In order to determine native and exotic floral abundance for each month sampled, we defined four transects of 80 m long × 2 m wide, covering approximately 10% of the total site area. In these transects all flowers of blooming species encountered within one meter on each side was counted. Later, we calculated total density of native and exotic plant for each month. For each season, we obtained an average of native and exotic floral abundance per month sampled for every site. In addition, for each site we calculated the percentage covered by urban landscape through the analysis of aerial photographs taken with a drone, with ArcGIS v 10.5 to avoid bias caused by the possible effect of other factors associated with human activities. Proximity of each site to urban settlements and roads measured in meters was also considered a factor of human impact. Furthermore, since our study was done in a high mountain environment, altitude of each site was recorded.</p>
+</sec>
+<sec>
+<title>Bee sampling</title>
+<p>We sampled bees on sunny days, with temperatures over 15 °C and winds below 15 Km/h (following <xref ref-type="bibr" rid="ref-32">Fortel et al., 2014</xref>). Pan traps and insect nets were used to assess bee assemblages (<xref ref-type="bibr" rid="ref-92">Nielsen et al., 2011</xref>). Pan traps corresponded to plastic bowls painted with yellow, blue, or white fluorescent paint (Rocol Top, Asnières-sur-Seine, France) (<xref ref-type="bibr" rid="ref-91">Normandin et al., 2017</xref>). For these samplings, we defined three triplets of pan traps per site. In each triplet we considered one of every color used. These recipients were filled with 400 mL of water and a drop of detergent. Pan traps were separated from each other by 20–40 m forming a three m side equilateral triangle that we left to work at each site from 9:00 to 17:00 (<xref ref-type="bibr" rid="ref-134">Westphal et al., 2008</xref>).</p>
+<p>Complementarily, active net sampling took place one hour during the morning (9:00–12:00) and one hour during the afternoon (15:00–17:00), in order to cover for the majority of bee activity for this mountain habitat (<xref ref-type="bibr" rid="ref-62">LeBuhn et al., 2003</xref>). Specimens collected were first stored in 70% ethanol, and later washed, processed, pinned, and identified to the lowest taxonomic level using several keys and specialized taxonomist assistance (<xref ref-type="bibr" rid="ref-17">Chiappa, Rojas &amp; Toro, 1990</xref>; <xref ref-type="bibr" rid="ref-123">Toro &amp; Rodríguez, 1998</xref>; <xref ref-type="bibr" rid="ref-124">Toro, 1997</xref>, <xref ref-type="bibr" rid="ref-125">1999</xref>; <xref ref-type="bibr" rid="ref-80">Monckton, 2016</xref>). For specimens identified only to genus level, we made sure they corresponded to the same species. For <italic>Bombus dahlbomii</italic> Guérin-Méneville, 1835 (Hymenoptera: Apidae), an endangered (<xref ref-type="bibr" rid="ref-86">Morales et al., 2016</xref>) and conspicuous species, we only collected them to take into account the relative abundance in each sampled site and after the 1-h sampling period they were all released. Introduced species, such as <italic>Apis mellifera</italic> and <italic>Bombus terrestris</italic>, were not collected in this study.</p>
+</sec>
+<sec>
+<title>Data analysis</title>
+<p>We computed the parameters separately for the two sampled seasons because of the difference in sampling effort and climatic variability (e.g., precipitation and maximum temperatures) (<xref ref-type="bibr" rid="ref-129">Vuille, 2014</xref>). During the first season we were unable to sample in November due to bad weather conditions. Moreover, Central Chile and Argentina near Andes zones are highly affected by “el niño” and “la niña” climatic oscillations (<xref ref-type="bibr" rid="ref-21">Cortes &amp; Margulis, 2017</xref>; <xref ref-type="bibr" rid="ref-67">Malmros et al., 2018</xref>). Species diversity was characterized by species richness in EstimateS (version 9.1.0; Colwell, CT, USA). We computed the observed cumulative species richness curve and the total expected species richness with a bootstrapping of 1,000 random iterations of sampling order. In regards to total expected species richness, we used Chao2 since it is the least biased estimator (<xref ref-type="bibr" rid="ref-41">Gwinn et al., 2016</xref>).</p>
+<p>Regarding native bee diversity, to assess correlation between the landscape variables we used Spearman correlation coefficients in SPSS, in order to avoid the effect of outliers and biased correlation results (<xref ref-type="bibr" rid="ref-121">Suchowski, 2001</xref>). Later, for each sampled season, we evaluated the effect of the landscape variables on native bee richness and abundance through generalized linear models (GLM), using glm function in R. Since the dependent variables of richness and abundance presented overdispersion, we used a negative binomial model to take this into account. Furthermore, the effect of each landscape variable was nested in the season to account for inter-seasonal variation. Considering the results of correlation analyses, we maintained the model with the variable of the correlation set with the lowest Akaike Information Criterion (AIC) value, regarding it as the most parsimonious alternative (<xref ref-type="bibr" rid="ref-59">Johnson &amp; Omland, 2004</xref>).</p>
+<p>For the native bee assemblage of our study, we wanted to relate the functional traits of native bees with the abundance of exotic flora. First, we classified our collected native bee specimens based on different functional traits at species level into: “parasitic” and “non-parasitic.” Afterward, the “non-parasitic” group was subdivided by feeding behavior into: “oligolectic” or “polylectic.” This was done because adults of parasitic bees forage only for nectar (<xref ref-type="bibr" rid="ref-106">Roubik, 1989</xref>; <xref ref-type="bibr" rid="ref-47">Heard, 2016</xref>). This classification was based on previous published information (<xref ref-type="bibr" rid="ref-58">Jaffuel &amp; Pirión, 1926</xref>; <xref ref-type="bibr" rid="ref-114">Ruiz, 1944</xref>; <xref ref-type="bibr" rid="ref-108">Rozen, 1967</xref>; <xref ref-type="bibr" rid="ref-130">Wagenknecht, 1969</xref>, <xref ref-type="bibr" rid="ref-131">1970</xref>; <xref ref-type="bibr" rid="ref-26">Ehrenfeld &amp; Rozen, 1977</xref>). If there was no information available of functional traits of a particular bee species, we used the information available from the nearest related species.</p>
+<p>We used the inter-tegular distance (ITD) as a proxy for body size and the functional trait of foraging distance on every individual collected (<xref ref-type="bibr" rid="ref-40">Greenleaf et al., 2007</xref>). Measures were done with the software tpsDig v 2.32, using photographs of the thorax of every collected specimen (<xref ref-type="bibr" rid="ref-54">Hoiss et al., 2012</xref>; <xref ref-type="bibr" rid="ref-32">Fortel et al., 2014</xref>). For <italic>B. dahlbomii</italic>, we measured the ITD from several specimens from Instituto de Entomología, UMCE collection. Species were then grouped into small (&lt;1.5 mm), medium (1.5–3 mm), and large (&gt;3 mm) size classes (<xref ref-type="bibr" rid="ref-52">Hinners, Kearns &amp; Wessman, 2012</xref>).</p>
+<p>To determine how groups of species that shared above-mentioned functional traits responded to exotic floral abundance, in each sampled site we tested for the proportion of each functional trait in regards to the site’s exotic floral abundance. We pooled the data from both seasons and used the proportion of the total number of native bee individuals (abundance) and total number of species for each classification group. In addition, we evaluated the possible effect of exotic floral abundance in montane bee’s assemblage at the family level. For both, bee family and functional group analyses, to evaluate the response of exotic floral abundance we used multinomial and binomial logistic regression models with JMP (version 14; SAS Institute, Cary, NC, USA) (<xref ref-type="bibr" rid="ref-52">Hinners, Kearns &amp; Wessman, 2012</xref>).</p>
+<p>We applied the threefold Bonferroni correction (<xref ref-type="bibr" rid="ref-101">Rice, 1989</xref>) along the three functional trait categories for these analyses to control for a high probability of obtaining significant results due to chance because of the number of non-independent tests we conducted (<xref ref-type="bibr" rid="ref-101">Rice, 1989</xref>).</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Native bee diversity</title>
+<p>Considering the two sampling seasons of 2016/2017 and 2017/2018, a total of 1,052 bee specimens were collected, 212 in season 1 and 840 in season 2. In total, this corresponded to 28 genera and 46 species (32 in 1 and 40 in 2) with a minimum of nine species and a maximum of 27 species per site (<xref ref-type="supplementary-material" rid="supp-5">Table S1</xref>). They belonged to five families: Andrenidae (seven species), Apidae (13 species), Colletidae (seven species), Halictidae (11 species), and Megachilidae (eight species) (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Nonetheless, after our 2-year study, it was still not possible to ensure that we had collected all the potential species from Farellones, which can be confirmed by the species accumulation curve not reaching saturation (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Estimated species richness of both pooled seasons was 52.83, therefore, approximately 87.07% of native bee species present in our study location were collected during our work (<xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.5916/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Specimens from the different native bee families collected during the study in Farellones, Chile.</title>
+<p>(A) <italic>Acamptopoeum submetallicum</italic> (Andrenidae), scale bar 1.5 mm. (B) <italic>Centris nigerrima</italic> (Apidae), scale bar two mm. (C) <italic>Xeromelissa</italic> sp. (Colletidae), scale bar 0.5 mm. (D) <italic>Caenohalictus iodurus</italic> (Halictidae), scale bar one mm. (E) <italic>Anthidium chubuti</italic> (Megachilidae), scale bar two mm. Photography: Patricia Henríquez-Piskulich.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5916/fig-1.png"/>
+</fig>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.5916/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Mean species accumulation curve for pooled data of native bees collected for the two sampled seasons of the study (1,000 randomizations).</title>
+<p>The vertical axis corresponds to number of species and the horizontal to sampled sites.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5916/fig-2.png"/>
+</fig>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.5916/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Observed and estimated species richness for each sampled season and pooled data.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5916/table-1.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>Season</th>
+<th>Sobs<xref ref-type="fn" rid="table-1fn2"><sup>a</sup></xref> ± Sd<xref ref-type="fn" rid="table-1fn2"><sup>b</sup></xref></th>
+<th>Chao 2 ± SD (completeness)</th>
+</tr> 
+</thead>
+<tbody>
+<tr>
+<td>2016–2018</td>
+<td>46 ± 9.53</td>
+<td>52.83 ± 5.15 (87.07)</td>
+</tr>
+<tr>
+<td>2016/2017</td>
+<td>32 ± 8.07</td>
+<td>43.48 ± 7.98 (73.60)</td>
+</tr>
+<tr>
+<td>2017/2018</td>
+<td>40 ± 8.29</td>
+<td>46.62 ± 5.29 (85.80)</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="table-1fn">
+<p><bold>Notes:</bold></p>
+</fn>
+<fn id="table-1fn1" fn-type="other">
+<p>The first column corresponds to the analyses of both pooled seasons and each season evaluated separately. The second, to observed species richness and its standard deviation. Finally, the third column represents Chao2 estimator, its standard deviation and the completeness of native bee sampling.</p>
+</fn>
+<fn id="table-1fn2" fn-type="other">
+<label>a</label>
+<p>Sobs, observed species richness.</p>
+</fn>
+<fn id="table-1fn3" fn-type="other">
+<label>b</label>
+<p>Sd, standard deviation.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>For both seasons 12 bee species (26.09%) were recorded as singletons and four (8.70%) as doubletons. In regards to singletons, two species (4.35%) were parasitic. In total, five species (10.87%) were parasitic and 41 non-parasitic. Non-parasitic were mostly polylectic (78.05%). From the 46 species collected, 15 represented from 1.14% to 5.80% of the total number of specimens (12–61 specimens). The three most abundant species were: <italic>Lasioglossum</italic> sp. (279 specimens; 26.52% of the total), <italic>B. dahlbomii</italic> (121 specimens; 11.50%), and <italic>Caenohalictus iodurus</italic> (117 specimens; 11.12%), all of them are polylectic.</p>
+<p>Spearman correlation coefficients showed for both seasons a negative correlation between distance to the nearest town and exotic floral abundance (<italic>r</italic> ≤ −0.857, <italic>n</italic> = 8, <italic>p</italic> ≥ 0.002) (<xref ref-type="supplementary-material" rid="supp-6">Table S2</xref>). For the GLM of dependent variables, native bee richness and abundance, we only maintained distance to nearest town since the models with this variable gave the lowest AIC to explain both. Regarding these analyses, the landscape variables showed no significant effect over native bee richness and abundance (<xref ref-type="supplementary-material" rid="supp-7">Table S3</xref>).</p>
+</sec>
+<sec>
+<title>Native bee species assemblage</title>
+<p>Within the plant species found during our field work and used to evaluate changes in the bee assemblage, we encountered 39 plant species: 24.32% were exotic, 70.27% native, and 5.41% were endemic for Chile (<xref ref-type="supplementary-material" rid="supp-8">Table S4</xref>).</p>
+<p>In regards to mountain bee assemblage composition, “parasitism” and “feeding behavior” had no significant relationship with abundance of exotic plant species. After Bonferroni correction, the variable “body size” (by abundance) showed a significant relationship with “exotic floral” abundance. As the abundance of the latter increased, the proportion of small and medium native bee species was greater, and the proportion of large individuals decreased (<italic>χ</italic><sup>2</sup> = 197.96, <italic>p</italic> &lt; 0.0001) (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.5916/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Changes in relative proportions of native bee species grouped by body size (small, medium, and large) with exotic floral abundance (χ<sup>2</sup> = 197.96, <italic>p</italic> &lt; 0.0001).</title>
+<p>Lines are least-squares regression lines depicting the proportions of each group. The left vertical axis corresponds to the proportion of total specimens and the horizontal to exotic floral abundance proportion. The groups of the right vertical axis correspond to areas between the regression lines.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5916/fig-3.png"/>
+</fig>
+<p>Finally, for the native bee families in the assemblage, the proportion of Halictidae increased while the proportions of Apidae, Colletidae, and Megachilidae decreased (<italic>χ</italic><sup>2</sup> = 229.88, <italic>p</italic> &lt; 0.0001). The family Andrenidae maintained a relatively small proportion in all sampled sites (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>).</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.5916/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Changes in relative proportions of native bee species grouped by family (Andrenidae, Apidae, Colletidae, Halictidae, and Megachilidae) with exotic floral abundance (χ<sup>2</sup> = 229.88, <italic>p</italic> &lt; 0.0001).</title>
+<p>Lines are least-squares regression lines depicting the proportions of each group. The left vertical axis corresponds to the proportion of total specimens and the horizontal to exotic floral abundance proportion. The groups of the right vertical axis correspond to areas between the regression lines.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/5916/fig-4.png"/>
+</fig>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>After our 2-year study in the subandean belt of montane Andes, we found that the introduction of exotic plant species did show an association with changes in native bee species assemblages. In sites with higher abundance of exotic plants the composition of native bees changed in regards to their body size (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>), and also at a taxonomic level (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). Furthermore, we found no evidence of a possible effect of the landscape variables considered, represented by: distance to nearest town, distance to roads, percentage of urban landscape cover, altitude and native floral abundance, on to native bee richness and abundance (<xref ref-type="supplementary-material" rid="supp-7">Table S3</xref>).</p>
+<p>Even though our work included two seasons, we weren’t able to collect all the potential species present in our study location, as showed by the mean species accumulation curve. We found 46 species, which represents 87.07% of the predicted native bee species richness of this montane area (<xref ref-type="supplementary-material" rid="supp-5">Table S1</xref>). We sampled each of the eight sites from this high Andean zone for a total of seven times (each survey done every 4 weeks during the bee season of both years) and obtained 12 species (26.09%) of bees in the form of singletons. Our number of singletons is in accordance with literature, where the average of singletons for bee studies is 28% (<xref ref-type="bibr" rid="ref-137">Williams, Minckley &amp; Silveira, 2001</xref>).</p>
+<p>Exotic floral abundance proved to be correlated with the proximity to urban areas, where a higher abundance of introduced plants individuals was found near urbanized lands. High elevation ecosystem may be very sensitive to human-derived changes such as the introduction of exotic species (<xref ref-type="bibr" rid="ref-7">Badano et al., 2007</xref>). It is possible to suggest that the problem lies in the biotic homogenization that comes along with urbanization, and the consequent replacement of native and endemic species by invasive and exotic ones (<xref ref-type="bibr" rid="ref-73">McKinney &amp; Lockwood, 1999</xref>). Urbanization also reduces native flora and fauna diversity, and at the same time, promotes the reproduction, and colonization by exotic plant species (<xref ref-type="bibr" rid="ref-70">Marzluff, 2001</xref>; <xref ref-type="bibr" rid="ref-75">McKinney, 2002</xref>; <xref ref-type="bibr" rid="ref-29">Frankie et al., 2005</xref>). The latter has proven to have significant effects over many ecological variables, the problem falling in the varying magnitude and direction of these context dependent effects (<xref ref-type="bibr" rid="ref-128">Vilà et al., 2011</xref>). Nonetheless, exotic flora could in some cases decrease richness and abundance of native plant and insect species, and at the same time reduce insect biomass with lower insect productivity as a consequence (<xref ref-type="bibr" rid="ref-48">Heleno et al., 2009</xref>; <xref ref-type="bibr" rid="ref-20">Cook-Patton &amp; Agrawal, 2014</xref>; <xref ref-type="bibr" rid="ref-127">Van Hengstum et al., 2014</xref>). For native bees, varying responses to exotic plant species have been found: where some species may be favored due to the alteration of plant community composition and structure, others may be unable to forage and complete their life cycles, due to their inability to use exotic plants (<xref ref-type="bibr" rid="ref-120">Stout &amp; Morales, 2009</xref>). Therefore, some bee species may be especially sensitive to the loss of their native plants (<xref ref-type="bibr" rid="ref-74">McKinney, 1997</xref>), a problem that could be potentially important at high altitudes, where Hymenoptera are the dominant flower visitors (<xref ref-type="bibr" rid="ref-6">Arroyo, Primack &amp; Armesto, 1982</xref>; <xref ref-type="bibr" rid="ref-66">Makrodimos et al., 2008</xref>). Studies have found a relationship between floral specialization and risk of extinction, were oligolectic species are at a higher risk of being affected by changes in their habitats (<xref ref-type="bibr" rid="ref-94">Packer et al., 2005</xref>; <xref ref-type="bibr" rid="ref-102">Roberts et al., 2011</xref>). Even though most bee species in our study were polylectic, loss of dominant plant species in an ecosystem might adversely affect generalists and specialists in the same manner (<xref ref-type="bibr" rid="ref-30">Frankie et al., 1997</xref>). Furthermore, since native plant richness of an ecosystem is negatively correlated with the vulnerability to plant invasions (<xref ref-type="bibr" rid="ref-61">Knops et al., 1999</xref>), mountain environments could be more susceptible to the dispersal of exotic plant species due to the decrease in species richness with altitude (<xref ref-type="bibr" rid="ref-99">Rahbek, 1995</xref>). This becomes very relevant not only because of the great endemism of its community (<xref ref-type="bibr" rid="ref-89">Muñoz-Schick et al., 2000</xref>), but also because there is already evidence supporting the classification as endangered for bee species in this habitat, such as the case of <italic>B. dahlbomii</italic>, the largest Apiformes known to date (<xref ref-type="bibr" rid="ref-86">Morales et al., 2016</xref>). A species that could already be threatened by the presence of the introduced bumblebee <italic>B. terrestris</italic> (<xref ref-type="bibr" rid="ref-82">Montalva, Ruz &amp; Arroyo, 2008</xref>; <xref ref-type="bibr" rid="ref-81">Montalva, 2012</xref>; <xref ref-type="bibr" rid="ref-1">Arbetman et al., 2013</xref>).</p>
+<p>For montane Andes, we found an association between exotic floral abundance increase and the rise in the proportion of small and medium native bee specimens (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). On the other hand, the proportion of bee specimens of large sizes dropped along the increase of introduced plant species (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). It is important to emphasize that in proportional data, when one or more group increases, other groups must decrease. Regarding the consequences of exotic flora over the phylogenetic structure of the assemblage, the effect may be probably related to body size, since Halictidae specimens present in our study ranged between small or medium sized bees and were the only family that showed a rise in its proportion of total specimens with higher exotic floral abundance (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>). It has been demonstrated that larger bee species are able to cover longer distances in the search of resources than smaller and medium sized bees (<xref ref-type="bibr" rid="ref-40">Greenleaf et al., 2007</xref>), but their success is still affected by the quality of their habitat, decreasing in sites were urbanization is stronger (<xref ref-type="bibr" rid="ref-69">Martins, Gonçalves &amp; Melo, 2013</xref>). If exotic flora keeps expanding, it is possible there could be changes not only for bees, but also for this entire high-altitude ecosystem (<xref ref-type="bibr" rid="ref-39">Goulson &amp; Nicholls, 2016</xref>). Different bee species may prefer different floral resources during foraging (<xref ref-type="bibr" rid="ref-51">Hinners &amp; Hjelmroos-Koski, 2009</xref>; <xref ref-type="bibr" rid="ref-44">Harmon-Threatt &amp; Kremen, 2015</xref>), and they can also have varied responses toward the use of exotic flora over native plant species (<xref ref-type="bibr" rid="ref-87">Morandin &amp; Kremen, 2013</xref>). For an optimal larval development, bees need to reach their pollen nutritional requirements (<xref ref-type="bibr" rid="ref-13">Brodschneider &amp; Crailsheim, 2010</xref>), therefore, low quality pollen can affect the development and survival of native bees and consequently affect the complete assemblage of this group of insects (<xref ref-type="bibr" rid="ref-49">Herbert, Bickley &amp; Shimanuk, 1970</xref>; <xref ref-type="bibr" rid="ref-96">Peng &amp; Jay, 1976</xref>; <xref ref-type="bibr" rid="ref-107">Roulston &amp; Cane, 2002</xref>; <xref ref-type="bibr" rid="ref-23">Di Pasquale et al., 2013</xref>). Nevertheless, even if the abundance of small and medium native bees increased, the long-term effects of these changes on this native bee assemblage are still unknown and further studies are needed to assess their extent and implications.</p>
+<p>The landscape variables didn’t show an effect over native bee richness and abundance. Considering our study was located in a small Andean urban area with a great number of “green spaces” (gardens and town squares) it could be possible that connectivity still remains unaffected. Regardless if urbanization results in a higher number of edifications coupled with destruction and fragmentation of natural habitats, loss of areas capable of sustaining wild life (<xref ref-type="bibr" rid="ref-72">McIntyre et al., 2001</xref>; <xref ref-type="bibr" rid="ref-117">Seto, Günerlap &amp; Hutyra, 2012</xref>) and thus, habitat loss and permanent disappearance of wild species as a consequence (<xref ref-type="bibr" rid="ref-75">McKinney, 2002</xref>; <xref ref-type="bibr" rid="ref-45">Harrison, Gibbs &amp; Winfree, 2018</xref>), these predictors will depend of the quality of the surrounding landscape (<xref ref-type="bibr" rid="ref-126">Tscharntke et al., 2005</xref>). Therefore, if “green spaces” are large or close from one another, the impact these areas would have in preserving biodiversity in the long-term may buffer the effects of urbanization (<xref ref-type="bibr" rid="ref-111">Rudd, Vala &amp; Schaefer, 2002</xref>; <xref ref-type="bibr" rid="ref-33">Goddard, Dougill &amp; Benton, 2010</xref>).</p>
+<p>Given the response of the functional traits in comparison with native bee richness and abundance alterations due to changes in the landscape, the use of species-specific traits could be an important tool to detect early changes in native bee assemblages and take appropriate conservation measures. This work contributed to the scarce information regarding the connection between high-altitude pollinators and urbanization effects, especially in regards to the relationship between the introduction of exotic flora and native assemblages. Our work stresses the need to elucidate the direct effect exotic flora can have in native bee ecophysiology and the long-term ecological dynamics. This study also highlights the urgent need to plan urban expansion ahead of time, taking into account the biodiversity that will be affected so management measures can also be included. For instance, the control of weeds and introduction of exotic ornamental plant species. Furthermore, it is important to stress the need for science education and outreach to generate a common conscience of the value of local biodiversity and the ecosystem services they provide (<xref ref-type="bibr" rid="ref-138">Wilson, Forister &amp; Carril, 2017</xref>). Biotic homogenization has been described as one of the most detrimental human activities on biological diversity (<xref ref-type="bibr" rid="ref-73">McKinney &amp; Lockwood, 1999</xref>). This, in addition to the fact of the disconnection of our own species with nature (<xref ref-type="bibr" rid="ref-90">Navarro-Perez &amp; Tidball, 2012</xref>), could make it more difficult for humans to empathize with biodiversity and promote its conservation (<xref ref-type="bibr" rid="ref-76">McKinney, 2006</xref>). A future goal should be to include management practices that buffer the effects of urbanization over biodiversity.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>Exotic flora in montane habitats could modify the composition of native bee assemblages. Nevertheless, further research is necessary in order to assess the ecological and evolutionary consequences of these invasions. Furthermore, we did not find a landscape effect from urbanization variables, we suggest that the occurrence of empty lots with remaining patches of native flora may contribute to habitat connectivity in this high-altitude town, reducing the effect of urbanization itself over native bee species. We propose that the existence of “green spaces,” composed by local plant community, and control of exotic plant species may ameliorate the effects of human expansion in high elevation bee habitats.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/5916/raw_data_bees.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Native bee raw data.</title>
+<p>Raw data of native bee specimens collected during the two year study.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/5916/Diversity_and_landscape_information.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>Raw data for native bee diversity and landscape analysis.</title>
+<p>Raw data used for the analysis of the landscape variables over native bee richness and abundance.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/5916/Native_bee_assemblage_information.xlsx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>Raw data for assemblage analysis.</title>
+<p>Raw data used for the analysis of the relationship of exotic floral abundance over the high-altitude bee assemblage.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/5916/Fig_S1.png">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>Map of the distribution of the 8 selected sites for the study in Farellones, Chile.</title>
+<p>On the right side of the panel is a representation of Chilean territory highlighting our study site. On the upper right corner, a regional scale map also points where our study site was located. Main frame of this figure shows a satellite image of our study site. Symbols are explained on the lower right side of the figure. Map data: Gino Sandoval.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/5916/Table_S1-revised.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>List of native bee species collected during both seasons of the study, their functional traits and observed floral associations.</title>
+<p>Each column depicts information of each species collected during the study and the number of specimens collected for both pooled seasons.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/5916/Table_S2.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>Spearman correlation coefficients between the landscape variables considered in the study.</title>
+<p>First column corresponds to each sampled season. The following columns and rows represent the spearman correlation value for the landscape variables considered for the study. Cells with significant p-value are written in bold.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-7" xlink:href="https://peerj.com/articles/5916/Table_S3.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-7</object-id>
+<label>Supplemental Information 7</label>
+<caption>
+<title>GLM results for mountain native bee richness and abundance depending on the landscape variables for each season of the study.</title>
+<p>Factor column represents the landscape variables of the study site and B represents the coefficient estimates.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-8" xlink:href="https://peerj.com/articles/5916/Table_S4.docx">
+<object-id pub-id-type="doi">10.7717/peerj.5916/supp-8</object-id>
+<label>Supplemental Information 8</label>
+<caption>
+<title>List of floral plant species registered during field work and their origin.</title>
+<p>Plant species collected at the study site during both seasons. The second and third columns represent their family and their origin for Chile.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>We thank A. Beaugendre for his help with the field work, N. Vereecken for providing pan traps, L. Ruz for invaluable taxonomic assistance and entomological native bee collection access at Universidad Católica de Valparaíso, M. López-Uribe and R. Scherson for advice and comments on the manuscript, and M. Elgueta for granting us access to the Museo Nacional de Historia Natural, Santiago, Chile collection.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Patricia Henríquez-Piskulich</xref> conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Alejandro Vera</xref> contributed reagents/materials/analysis tools, approved the final draft, insect taxonomic identification.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Gino Sandoval</xref> analyzed the data, contributed reagents/materials/analysis tools, approved the final draft, spatial analysis and mapping.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Cristian Villagra</xref> conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>Villagra Gil CA. 2018. Along urbanization sprawl, exotic plants (Hymenoptera Apoidea) distort native bee assemblages in high elevation Andes ecosystem. Available at <uri xlink:href="https://osf.io/qrphj">osf.io/qrphj</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Arbetman et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arbetman</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Meeus</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Morales</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Aizen</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Smagghe</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Alien parasite hitchhikes to Patagonia on invasive bumblebee</article-title>
+<source>Biological Invasions</source>
+<year iso-8601-date="2013">2013</year>
+<volume>15</volume>
+<issue>3</issue>
+<fpage>489</fpage>
+<lpage>494</lpage>
+<pub-id pub-id-type="doi">10.1007/s10530-012-0311-0</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Aguirre‐Gutiérrez et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Aguirre‐Gutiérrez</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Biesmeijer</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Van Loon</surname>
+<given-names>EE</given-names>
+</name>
+<name>
+<surname>Reemer</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>WallisDeVries</surname>
+<given-names>MF</given-names>
+</name>
+<name>
+<surname>Carvalheiro</surname>
+<given-names>LG</given-names>
+</name>
+</person-group>
+<article-title>Susceptibility of pollinators to ongoing landscape changes depends on landscape history</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2015">2015</year>
+<volume>21</volume>
+<issue>10</issue>
+<fpage>1129</fpage>
+<lpage>1140</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.12350</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Allen-Wardell et al. (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Allen-Wardell</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Bernhardt</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Bitner</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Burquez</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Buchmann</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Cane</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cox</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Dalton</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Feinsinger</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Ingram</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Inouye</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Kennedy</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Kevan</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Koopowitz</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Medellin</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Medellin-Morales</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Nabhan</surname>
+<given-names>GP</given-names>
+</name>
+</person-group>
+<article-title>The potential consequences of pollinator declines on the conservation of biodiversity and stability of food crop yields</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="1998">1998</year>
+<volume>12</volume>
+<issue>1</issue>
+<fpage>8</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1523-1739.1998.97154.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Arroyo, Armesto &amp; Villagran (1981)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arroyo</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Armesto</surname>
+<given-names>JJ</given-names>
+</name>
+<name>
+<surname>Villagran</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Plant phenological patterns in the high andean cordillera of central chile</article-title>
+<source>Journal of Ecology</source>
+<year iso-8601-date="1981">1981</year>
+<volume>69</volume>
+<issue>1</issue>
+<fpage>205</fpage>
+<lpage>223</lpage>
+<pub-id pub-id-type="doi">10.2307/2259826</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Arroyo, Primack &amp; Armesto (1982)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Arroyo</surname>
+<given-names>MTK</given-names>
+</name>
+<name>
+<surname>Primack</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Armesto</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Community studies in pollination ecology in the high temperate Andes of central Chile. I. Pollination mechanisms and altitudinal variation</article-title>
+<source>American Journal of Botany</source>
+<year iso-8601-date="1982">1982</year>
+<volume>69</volume>
+<issue>1</issue>
+<fpage>82</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="doi">10.1002/j.1537-2197.1982.tb13237.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Badano et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Badano</surname>
+<given-names>EI</given-names>
+</name>
+<name>
+<surname>Villarroel</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Bustamante</surname>
+<given-names>RO</given-names>
+</name>
+<name>
+<surname>Marquet</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Cavieres</surname>
+<given-names>LA</given-names>
+</name>
+</person-group>
+<article-title>Ecosystem engineering facilitates invasions by exotic plants in high‐Andean ecosystems</article-title>
+<source>Journal of Ecology</source>
+<year iso-8601-date="2007">2007</year>
+<volume>95</volume>
+<issue>4</issue>
+<fpage>682</fpage>
+<lpage>688</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2745.2007.01262.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Bahre (1979)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Bahre</surname>
+<given-names>CJ</given-names>
+</name>
+</person-group>
+<source>Destruction of the Natural Vegetation of North-central Chile</source>
+<year iso-8601-date="1979">1979</year>
+<volume>23</volume>
+<publisher-loc>Berkeley</publisher-loc>
+<publisher-name>University of California Press</publisher-name>
+<fpage>1</fpage>
+<lpage>118</lpage>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Baiping et al. (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baiping</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Shenguo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ya</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Fei</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Hongzhi</surname>
+<given-names>W</given-names>
+</name>
+</person-group>
+<article-title>Urbanization and De-urbanization in Mountain Regions of China</article-title>
+<source>Mountain Research and Development</source>
+<year iso-8601-date="2004">2004</year>
+<volume>24</volume>
+<issue>3</issue>
+<fpage>206</fpage>
+<lpage>209</lpage>
+<pub-id pub-id-type="doi">10.1659/0276-4741(2004)024[0206:uadimr]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Biesmeijer et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Biesmeijer</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>SPM</given-names>
+</name>
+<name>
+<surname>Reemer</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ohlemüller</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Edwards</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Peeters</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Schaffers</surname>
+<given-names>AP</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Kleukers</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Thomas</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Settele</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Kunin</surname>
+<given-names>WE</given-names>
+</name>
+</person-group>
+<article-title>Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands</article-title>
+<source>Science</source>
+<year iso-8601-date="2006">2006</year>
+<volume>313</volume>
+<issue>5785</issue>
+<fpage>351</fpage>
+<lpage>354</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1127863</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>Bishop &amp; Armbruster (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bishop</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Armbruster</surname>
+<given-names>WS</given-names>
+</name>
+</person-group>
+<article-title>Thermoregulatory abilities of Alaskan bees: effects of size, phylogeny and ecology</article-title>
+<source>Functional Ecology</source>
+<year iso-8601-date="1999">1999</year>
+<volume>13</volume>
+<issue>5</issue>
+<fpage>711</fpage>
+<lpage>724</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-2435.1999.00351.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Boggs &amp; Murphy (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boggs</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Murphy</surname>
+<given-names>DD</given-names>
+</name>
+</person-group>
+<article-title>Community composition in mountain ecosystems: climatic determinants of montane butterfly distributions</article-title>
+<source>Global Ecology and Biogeography Letters</source>
+<year iso-8601-date="1997">1997</year>
+<volume>6</volume>
+<issue>1</issue>
+<fpage>39</fpage>
+<lpage>48</lpage>
+<pub-id pub-id-type="doi">10.2307/2997525</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Brodschneider &amp; Crailsheim (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brodschneider</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Crailsheim</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Nutrition and health in honey bees</article-title>
+<source>Apidologie</source>
+<year iso-8601-date="2010">2010</year>
+<volume>41</volume>
+<issue>3</issue>
+<fpage>278</fpage>
+<lpage>294</lpage>
+<pub-id pub-id-type="doi">10.1051/apido/2010012</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Cameron et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cameron</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Lozier</surname>
+<given-names>JD</given-names>
+</name>
+<name>
+<surname>Strange</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Koch</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Cordes</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Solter</surname>
+<given-names>LF</given-names>
+</name>
+<name>
+<surname>Griswold</surname>
+<given-names>TL</given-names>
+</name>
+</person-group>
+<article-title>Patterns of widespread decline in North American bumble bees</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<year iso-8601-date="2011">2011</year>
+<volume>108</volume>
+<issue>2</issue>
+<fpage>662</fpage>
+<lpage>667</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1014743108</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Camousseight &amp; Barrera (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Camousseight</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Barrera</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Análisis del polen transportado por insectos estivales en el sector La Parva, Cordillera de Santiago</article-title>
+<source>Revista Chilena de Entomología</source>
+<year iso-8601-date="1998">1998</year>
+<volume>25</volume>
+<fpage>77</fpage>
+<lpage>81</lpage>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Cane et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cane</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Minckley</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Roulston</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Kervin</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Multiple response of desert bee guild (Hymenoptera: Apiformes) to urban habitat fragmentation</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2006">2006</year>
+<volume>16</volume>
+<issue>2</issue>
+<fpage>632</fpage>
+<lpage>644</lpage>
+<pub-id pub-id-type="doi">10.1890/1051-0761(2006)016[0632:CRWADB]2.0.CO;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Chiappa, Rojas &amp; Toro (1990)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chiappa</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Rojas</surname>
+<given-names>G-LM</given-names>
+</name>
+<name>
+<surname>Toro</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Clave para los géneros de abejas de chile (Hymenoptera: Apoidea)</article-title>
+<source>Revista Chilena de Entomología</source>
+<year iso-8601-date="1990">1990</year>
+<volume>18</volume>
+<fpage>67</fpage>
+<lpage>81</lpage>
+</element-citation>
+</ref>
+<ref id="ref-19">
+<label>Classen et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Classen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Peters</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Kindeketa</surname>
+<given-names>WJ</given-names>
+</name>
+<name>
+<surname>Appelhans</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Eardley</surname>
+<given-names>CD</given-names>
+</name>
+<name>
+<surname>Gikungu</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Hemp</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Nauss</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Steffan‐Dewenter</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Temperature versus resource constraints: which factors determine bee diversity on Mount Kilimanjaro, Tanzania?</article-title>
+<source>Global Ecology and Biogeography</source>
+<year iso-8601-date="2015">2015</year>
+<volume>24</volume>
+<issue>6</issue>
+<fpage>642</fpage>
+<lpage>652</lpage>
+<pub-id pub-id-type="doi">10.1111/geb.12286</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Cook-Patton &amp; Agrawal (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cook-Patton</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Agrawal</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Exotic plants contribute positively to biodiversity functions but reduce native seed production and arthropod richness</article-title>
+<source>Ecology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>95</volume>
+<issue>6</issue>
+<fpage>1642</fpage>
+<lpage>1650</lpage>
+<pub-id pub-id-type="doi">10.1890/13-0782.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Cortes &amp; Margulis (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cortes</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Margulis</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Impacts of El Niño and La Niña on interannual snow accumulation in the Andes: results from a high-resolution 31 year reanalysis</article-title>
+<source>Geophysical Research Letters</source>
+<year iso-8601-date="2017">2017</year>
+<volume>44</volume>
+<issue>13</issue>
+<fpage>6859</fpage>
+<lpage>6867</lpage>
+<pub-id pub-id-type="doi">10.1002/2017gl073826</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Corbet et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Corbet</surname>
+<given-names>SA</given-names>
+</name>
+<name>
+<surname>Bee</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Dasmahapatra</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Gale</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gorringe</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>La Ferla</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Moorhouse</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Trevail</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Van Bergen</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Vorontsova</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Native or exotic? Double or single? evaluating plants for pollinator-friendly gardens</article-title>
+<source>Annals of Botany</source>
+<year iso-8601-date="2001">2001</year>
+<volume>87</volume>
+<issue>2</issue>
+<fpage>219</fpage>
+<lpage>232</lpage>
+<pub-id pub-id-type="doi">10.1006/anbo.2000.1322</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Di Pasquale et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Di Pasquale</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Salignon</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Le Conte</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Belzunces</surname>
+<given-names>LP</given-names>
+</name>
+<name>
+<surname>Decourtye</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Kretzschmar</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Suchail</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Brunet</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Alaux</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Influence of pollen nutrition on honey bee health: do pollen quality and diversity matter?</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2013">2013</year>
+<volume>8</volume>
+<issue>8</issue>
+<elocation-id>e72016</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0072016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Drossart, Michez &amp; Vanderplanck (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Drossart</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Michez</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Vanderplanck</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Invasive plants as potential food resource for native pollinators: a case study with two invasive species and a generalist bumble bee</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2017">2017</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>16242</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-017-16054-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Ehrenfeld &amp; Rozen (1977)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ehrenfeld</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Rozen</surname>
+<given-names>JG</given-names>
+<suffix>Jr</suffix>
+</name>
+</person-group>
+<article-title>The cuckoo bee genus Kelita, its systematics, biology, and larvae</article-title>
+<source>American Museum Novitates</source>
+<year iso-8601-date="1977">1977</year>
+<volume>2631</volume>
+<fpage>1</fpage>
+<lpage>24</lpage>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Fenesi et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fenesi</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vágási</surname>
+<given-names>CI</given-names>
+</name>
+<name>
+<surname>Beldean</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Földesi</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Kolcsár</surname>
+<given-names>LP</given-names>
+</name>
+<name>
+<surname>Shapiro</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Török</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Kovács-Hostyánszki</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Solidago canadensis impacts on native plant and pollinator communities in different-aged old fields</article-title>
+<source>Basic and Applied Ecology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>16</volume>
+<issue>4</issue>
+<fpage>335</fpage>
+<lpage>346</lpage>
+<pub-id pub-id-type="doi">10.1016/j.baae.2015.03.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Fitzpatrick et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fitzpatrick</surname>
+<given-names>Ú</given-names>
+</name>
+<name>
+<surname>Murray</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Paxton</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Breen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Cotton</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Santorum</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>MJF</given-names>
+</name>
+</person-group>
+<article-title>Rarity and decline in bumblebees—A test of causes and correlates in the Irish fauna</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2007">2007</year>
+<volume>136</volume>
+<issue>2</issue>
+<fpage>185</fpage>
+<lpage>194</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2006.11.012</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Frankie et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frankie</surname>
+<given-names>GW</given-names>
+</name>
+<name>
+<surname>Thorp</surname>
+<given-names>RW</given-names>
+</name>
+<name>
+<surname>Schindler</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hernandez</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ertter</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Rizzardi</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Ecological patterns of bees and their host ornamental flowers in two northern California cities</article-title>
+<source>Journal of the Kansas Entomological Society</source>
+<year iso-8601-date="2005">2005</year>
+<volume>78</volume>
+<issue>3</issue>
+<fpage>227</fpage>
+<lpage>246</lpage>
+<pub-id pub-id-type="doi">10.2317/0407.08.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-30">
+<label>Frankie et al. (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frankie</surname>
+<given-names>GW</given-names>
+</name>
+<name>
+<surname>Vinson</surname>
+<given-names>SB</given-names>
+</name>
+<name>
+<surname>Rizzardi</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Griswold</surname>
+<given-names>TL</given-names>
+</name>
+<name>
+<surname>O’Keefe</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Snelling</surname>
+<given-names>RR</given-names>
+</name>
+</person-group>
+<article-title>Diversity and abundance of bees visiting a mass flowering tree species in disturbed seasonal dry forest, Costa Rica</article-title>
+<source>Journal of the Kansas Entomological Society</source>
+<year iso-8601-date="1997">1997</year>
+<volume>70</volume>
+<issue>4</issue>
+<fpage>281</fpage>
+<lpage>296</lpage>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Foley et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Foley</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>DeFries</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Asner</surname>
+<given-names>GP</given-names>
+</name>
+<name>
+<surname>Barford</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Bonan</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Carpenter</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Chapin</surname>
+<given-names>FS</given-names>
+</name>
+<name>
+<surname>Coe</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Daily</surname>
+<given-names>GT</given-names>
+</name>
+<name>
+<surname>Gibbs</surname>
+<given-names>HK</given-names>
+</name>
+<name>
+<surname>Helkowski</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Holloway</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Howard</surname>
+<given-names>EA</given-names>
+</name>
+<name>
+<surname>Kucharik</surname>
+<given-names>CJ</given-names>
+</name>
+<name>
+<surname>Monfreda</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Patz</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Prentice</surname>
+<given-names>IC</given-names>
+</name>
+<name>
+<surname>Ramankutty</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Snyder</surname>
+<given-names>PK</given-names>
+</name>
+</person-group>
+<article-title>Global consequences of land use</article-title>
+<source>Science</source>
+<year iso-8601-date="2005">2005</year>
+<volume>309</volume>
+<issue>5734</issue>
+<fpage>570</fpage>
+<lpage>574</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1111772</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Fortel et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fortel</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Henry</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Guilbaud</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Guirao</surname>
+<given-names>AL</given-names>
+</name>
+<name>
+<surname>Kuhlmann</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Mouret</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Rollin</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Vaissière</surname>
+<given-names>BE</given-names>
+</name>
+</person-group>
+<article-title>Decreasing abundance, increasing diversity and changing structure of the wild bee community (Hymenoptera: Anthophila) along an urbanization gradient</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014">2014</year>
+<volume>9</volume>
+<issue>8</issue>
+<elocation-id>e104679</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0104679</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Goddard, Dougill &amp; Benton (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goddard</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Dougill</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Benton</surname>
+<given-names>TG</given-names>
+</name>
+</person-group>
+<article-title>Scaling up from gardens: biodiversity conservation in urban environments</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2010">2010</year>
+<volume>25</volume>
+<issue>2</issue>
+<fpage>90</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2009.07.016</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Goulson (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goulson</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Effects of introduced bees on native ecosystems</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2003">2003</year>
+<volume>34</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.ecolsys.34.011802.132355</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Goulson &amp; Nicholls (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goulson</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Nicholls</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>The canary in the coalmine; bee declines as an indicator of environmental health</article-title>
+<source>Science Progress</source>
+<year iso-8601-date="2016">2016</year>
+<volume>99</volume>
+<issue>3</issue>
+<fpage>312</fpage>
+<lpage>326</lpage>
+<pub-id pub-id-type="doi">10.3184/003685016x14685000479908</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Greenleaf et al. (2007)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Greenleaf</surname>
+<given-names>SS</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</name>
+<name>
+<surname>Winfree</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Kremen</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Bee foraging ranges and their relationship to body size</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="2007">2007</year>
+<volume>153</volume>
+<issue>3</issue>
+<fpage>589</fpage>
+<lpage>596</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-007-0752-9</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Gwinn et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gwinn</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Allen</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Bonvechio</surname>
+<given-names>KI</given-names>
+</name>
+<name>
+<surname>Hoyer</surname>
+<given-names>MV</given-names>
+</name>
+<name>
+<surname>Beesley</surname>
+<given-names>LS</given-names>
+</name>
+</person-group>
+<article-title>Evaluating estimators of species richness: the importance of considering statistical error rates</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2016">2016</year>
+<volume>7</volume>
+<issue>3</issue>
+<fpage>294</fpage>
+<lpage>302</lpage>
+<pub-id pub-id-type="doi">10.1111/2041-210x.12462</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Hägvar (1976)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hägvar</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Altitudinal zonation of the invertebrate fauna on branches of birch (Betula pubescens Ehrh)</article-title>
+<source>Norwegian Journal of Entomology</source>
+<year iso-8601-date="1976">1976</year>
+<volume>23</volume>
+<fpage>61</fpage>
+<lpage>74</lpage>
+</element-citation>
+</ref>
+<ref id="ref-43">
+<label>Hansen et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hansen</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Roets</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Seymour</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Thébault</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Van Veen</surname>
+<given-names>FJF</given-names>
+</name>
+<name>
+<surname>Pryke</surname>
+<given-names>JS</given-names>
+</name>
+</person-group>
+<article-title>Alien plants have greater impact than habitat fragmentation on native insect flower visitation networks</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2017">2017</year>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>58</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="doi">10.1111/ddi.12656</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Harmon-Threatt &amp; Kremen (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harmon-Threatt</surname>
+<given-names>AN</given-names>
+</name>
+<name>
+<surname>Kremen</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Bumble bees selectively use native and exotic species to maintain nutritional intake across highly variable and invaded local floral resource pools</article-title>
+<source>Ecological Entomology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>40</volume>
+<issue>4</issue>
+<fpage>471</fpage>
+<lpage>478</lpage>
+<pub-id pub-id-type="doi">10.1111/een.12211</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Harrison, Gibbs &amp; Winfree (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Harrison</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Gibbs</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Winfree</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Forest bees are replaced in agricultural and urban landscapes by native species with different phenologies and life‐history traits</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>287</fpage>
+<lpage>296</lpage>
+<pub-id pub-id-type="doi">10.1111/gcb.13921</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Haslett (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Haslett</surname>
+<given-names>JR</given-names>
+</name>
+</person-group>
+<article-title>Mountain ecology: organism responses to environmental change, an introduction</article-title>
+<source>Global Ecology and Biogeography Letters</source>
+<year iso-8601-date="1997">1997</year>
+<volume>6</volume>
+<issue>1</issue>
+<fpage>3</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="doi">10.2307/2997522</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Heard (2016)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Heard</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Lloyd-Prichard</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Dollin</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hogendoorn</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Heard</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cunningham</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rader</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Saunders</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Latty</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Threlfall</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Halcroft</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Bee biology and behaviour</article-title>
+<source>Australian Native Bees: AgGuide—A Practical Handbook</source>
+<year iso-8601-date="2016">2016</year>
+<publisher-loc>Orange</publisher-loc>
+<publisher-name>NSW Department of Primary Industries</publisher-name>
+<fpage>1</fpage>
+<lpage>19</lpage>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Heleno et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Heleno</surname>
+<given-names>RH</given-names>
+</name>
+<name>
+<surname>Ceia</surname>
+<given-names>RS</given-names>
+</name>
+<name>
+<surname>Ramos</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Memmott</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Effects of alien plants on insect abundance and biomass: a Food‐Web Approach</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2009">2009</year>
+<volume>23</volume>
+<issue>2</issue>
+<fpage>410</fpage>
+<lpage>419</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1523-1739.2008.01129.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-49">
+<label>Herbert, Bickley &amp; Shimanuk (1970)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Herbert</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Bickley</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Shimanuk</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Brood-rearing capability of caged honeybees fed dandelion and mixed pollen diets</article-title>
+<source>Journal of Economic Entomology</source>
+<year iso-8601-date="1970">1970</year>
+<volume>63</volume>
+<fpage>215</fpage>
+<lpage>218</lpage>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Hernandez, Frankie &amp; Thorp (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hernandez</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Frankie</surname>
+<given-names>GW</given-names>
+</name>
+<name>
+<surname>Thorp</surname>
+<given-names>RW</given-names>
+</name>
+</person-group>
+<article-title>Ecology of urban bees: a review of current knowledge and directions for future study</article-title>
+<source>Cities and the Environment</source>
+<year iso-8601-date="2009">2009</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.15365/cate.2132009</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Hinners &amp; Hjelmroos-Koski (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hinners</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Hjelmroos-Koski</surname>
+<given-names>MK</given-names>
+</name>
+</person-group>
+<article-title>Receptiveness of foraging wild bees to exotic landscape elements</article-title>
+<source>American Midland Naturalist</source>
+<year iso-8601-date="2009">2009</year>
+<volume>162</volume>
+<issue>2</issue>
+<fpage>253</fpage>
+<lpage>265</lpage>
+<pub-id pub-id-type="doi">10.1674/0003-0031-162.2.253</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Hinners, Kearns &amp; Wessman (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hinners</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Kearns</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Wessman</surname>
+<given-names>CA</given-names>
+</name>
+</person-group>
+<article-title>Roles of scale, matrix, and native habitat in supporting a diverse suburban pollinator assemblage</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2012">2012</year>
+<volume>22</volume>
+<issue>7</issue>
+<fpage>1923</fpage>
+<lpage>1935</lpage>
+<pub-id pub-id-type="doi">10.1890/11-1590.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Hodkinson (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hodkinson</surname>
+<given-names>ID</given-names>
+</name>
+</person-group>
+<article-title>Terrestrial insects along elevation gradients: species and community responses to altitude</article-title>
+<source>Biological Reviews</source>
+<year iso-8601-date="2005">2005</year>
+<volume>80</volume>
+<issue>3</issue>
+<fpage>489</fpage>
+<lpage>513</lpage>
+<pub-id pub-id-type="doi">10.1017/s1464793105006767</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Hoiss et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoiss</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Krauss</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Steffan-Dewenter</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Altitude acts as an environmental filter on phylogenetic composition, traits and diversity in bee communities</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>
+<year iso-8601-date="2012">2012</year>
+<volume>279</volume>
+<issue>1746</issue>
+<fpage>4447</fpage>
+<lpage>4456</lpage>
+<pub-id pub-id-type="doi">10.1098/rspb.2012.1581</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-55">
+<label>Hopfenmüller, Steffan-Dewenter &amp; Holzschuh (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hopfenmüller</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Steffan-Dewenter</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Holzschuh</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Trait-Specific responses of wild bee communities to landscape composition, configuration and local factors</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014">2014</year>
+<volume>9</volume>
+<issue>8</issue>
+<elocation-id>e104439</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0104439</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Hung, Ascher &amp; Holway (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hung</surname>
+<given-names>K-LJ</given-names>
+</name>
+<name>
+<surname>Ascher</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Holway</surname>
+<given-names>DA</given-names>
+</name>
+</person-group>
+<article-title>Urbanization-induced habitat fragmentation erodes multiple components of temporal diversity in a Southern California native bee assemblage</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2017">2017</year>
+<volume>12</volume>
+<issue>8</issue>
+<elocation-id>e0184136</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0184136</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Jaffuel &amp; Pirión (1926)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jaffuel</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Pirión</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Hymenopteros del Valle de Marga-Marga</article-title>
+<source>Revista Chilena de Historia Natural</source>
+<year iso-8601-date="1926">1926</year>
+<volume>30</volume>
+<fpage>362</fpage>
+<lpage>383</lpage>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Johnson &amp; Omland (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Johnson</surname>
+<given-names>JB</given-names>
+</name>
+<name>
+<surname>Omland</surname>
+<given-names>KS</given-names>
+</name>
+</person-group>
+<article-title>Model selection in ecology and evolution</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2004">2004</year>
+<volume>19</volume>
+<issue>2</issue>
+<fpage>101</fpage>
+<lpage>108</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2003.10.013</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Junta de Vecinos de Farellones (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab><institution>Junta de Vecinos de Farellones</institution></collab>
+</person-group>
+<article-title>Historia de Farellones. Junta de Vecinos de Farellones del Cerro Colorado, Santiago, Chile</article-title>
+<year iso-8601-date="2018">2018</year>
+<uri>http://www.jvfarellones.cl/articulo-de-prueba-farellones</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-07">July 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Knops et al. (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Knops</surname>
+<given-names>JMH</given-names>
+</name>
+<name>
+<surname>Tilman</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Haddad</surname>
+<given-names>NM</given-names>
+</name>
+<name>
+<surname>Naeem</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mitchell</surname>
+<given-names>CE</given-names>
+</name>
+<name>
+<surname>Haarstad</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ritchie</surname>
+<given-names>ME</given-names>
+</name>
+<name>
+<surname>Howe</surname>
+<given-names>KM</given-names>
+</name>
+<name>
+<surname>Reich</surname>
+<given-names>PB</given-names>
+</name>
+<name>
+<surname>Siemann</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Groth</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Effects of plant species richness on invasion dynamics, disease outbreaks, insect abundances and diversity</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="1999">1999</year>
+<volume>2</volume>
+<issue>5</issue>
+<fpage>286</fpage>
+<lpage>293</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1461-0248.1999.00083.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-62">
+<label>LeBuhn et al. (2003)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>LeBuhn</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Griswold</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Minckley</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Droege</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Roulston</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cane</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Parker</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Buchmann</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Tepedino</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Kremen</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Messinger</surname>
+<given-names>O</given-names>
+</name>
+</person-group>
+<article-title>A standardized method for monitoring Bee Populations—The Bee Inventory (BI) Plot</article-title>
+<year iso-8601-date="2003">2003</year>
+<uri>http://online.sfsu.edu/beeplot/</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2016-09">September 2016</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Lefebvre et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lefebvre</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Villemant</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Fontaine</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Daugeron</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Altitudinal, temporal and trophic partitioning of flower-visitors in Alpine communities</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2018">2018</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>4706</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-23210-y</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Liu &amp; Pemberton (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Pemberton</surname>
+<given-names>RW</given-names>
+</name>
+</person-group>
+<article-title>Solitary invasive orchid bee outperforms co-occurring native bees to promote fruit set of an invasive Solanum</article-title>
+<source>Oecologia</source>
+<year iso-8601-date="2008">2008</year>
+<volume>159</volume>
+<issue>3</issue>
+<fpage>515</fpage>
+<lpage>525</lpage>
+<pub-id pub-id-type="doi">10.1007/s00442-008-1232-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Lomolino (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lomolino</surname>
+<given-names>MV</given-names>
+</name>
+</person-group>
+<article-title>Elevation gradients of species-density: historical and prospective views</article-title>
+<source>Global Ecology and Biogeography</source>
+<year iso-8601-date="2001">2001</year>
+<volume>10</volume>
+<issue>1</issue>
+<fpage>3</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1466-822x.2001.00229.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-66">
+<label>Makrodimos et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Makrodimos</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Blionis</surname>
+<given-names>GJ</given-names>
+</name>
+<name>
+<surname>Krigas</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Vokou</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Flower morphology, phenology and visitor patterns in an alpine community on Mt Olympos, Greece</article-title>
+<source>Flora—Morphology, Distribution, Functional Ecology of Plants</source>
+<year iso-8601-date="2008">2008</year>
+<volume>203</volume>
+<issue>6</issue>
+<fpage>449</fpage>
+<lpage>468</lpage>
+<pub-id pub-id-type="doi">10.1016/j.flora.2007.07.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-67">
+<label>Malmros et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Malmros</surname>
+<given-names>JK</given-names>
+</name>
+<name>
+<surname>Mernild</surname>
+<given-names>SH</given-names>
+</name>
+<name>
+<surname>Wilson</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Tagesson</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Fensholt</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Snow cover and snow albedo changes in the central Andes of Chile and Argentina from daily MODIS observations (2000–2016)</article-title>
+<source>Remote Sensing of Environment</source>
+<year iso-8601-date="2018">2018</year>
+<volume>209</volume>
+<fpage>240</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1016/j.rse.2018.02.072</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-68">
+<label>Marshall et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marshall</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Carvalheiro</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Aguirre‐Gutiérrez</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bos</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>De Groot</surname>
+<given-names>GA</given-names>
+</name>
+<name>
+<surname>Kleijn</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Reemer</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Scheper</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Biesmeijer</surname>
+<given-names>JC</given-names>
+</name>
+</person-group>
+<article-title>Testing projected wild bee distributions in agricultural habitats: predictive power depends on species traits and habitat type</article-title>
+<source>Ecology and Evolution</source>
+<year iso-8601-date="2015">2015</year>
+<volume>5</volume>
+<issue>19</issue>
+<fpage>4426</fpage>
+<lpage>4436</lpage>
+<pub-id pub-id-type="doi">10.1002/ece3.1579</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-69">
+<label>Martins, Gonçalves &amp; Melo (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Martins</surname>
+<given-names>AC</given-names>
+</name>
+<name>
+<surname>Gonçalves</surname>
+<given-names>RB</given-names>
+</name>
+<name>
+<surname>Melo</surname>
+<given-names>GAR</given-names>
+</name>
+</person-group>
+<article-title>Changes in wild bee fauna of a grassland in Brazil reveal negative effects associated with growing urbanization during the last 40 years</article-title>
+<source>Zoologia</source>
+<year iso-8601-date="2013">2013</year>
+<volume>30</volume>
+<issue>2</issue>
+<fpage>157</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="doi">10.1590/s1984-46702013000200006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-70">
+<label>Marzluff (2001)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Marzluff</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Marzluff</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bowman</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Donnelly</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Worldwide urbanization and its effects on birds</article-title>
+<source>Avian Ecology in an Urbanizing World</source>
+<year iso-8601-date="2001">2001</year>
+<publisher-loc>Boston</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>19</fpage>
+<lpage>47</lpage>
+</element-citation>
+</ref>
+<ref id="ref-71">
+<label>McGregor (1976)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>McGregor</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Insect Pollination of Cultivated Crop Plants. U.S. Department of Agriculture–Agricultural Research Service, Washington, D.C</article-title>
+<year iso-8601-date="1976">1976</year>
+<uri>https://www.ars.usda.gov/ARSUserFiles/20220500/OnlinePollinationHandbook.pdf</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-01">January 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-72">
+<label>McIntyre et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McIntyre</surname>
+<given-names>NE</given-names>
+</name>
+<name>
+<surname>Rango</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Fagan</surname>
+<given-names>WF</given-names>
+</name>
+<name>
+<surname>Faeth</surname>
+<given-names>SH</given-names>
+</name>
+</person-group>
+<article-title>Ground arthropod community structure in a heterogeneous urban environment</article-title>
+<source>Landscape and Urban Planning</source>
+<year iso-8601-date="2001">2001</year>
+<volume>52</volume>
+<issue>4</issue>
+<fpage>257</fpage>
+<lpage>274</lpage>
+<pub-id pub-id-type="doi">10.1016/s0169-2046(00)00122-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-73">
+<label>McKinney &amp; Lockwood (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McKinney</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Lockwood</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<article-title>Biotic homogenization: a few winners replacing many losers in the next mass extinction</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="1999">1999</year>
+<volume>14</volume>
+<issue>11</issue>
+<fpage>450</fpage>
+<lpage>453</lpage>
+<pub-id pub-id-type="doi">10.1016/s0169-5347(99)01679-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-74">
+<label>McKinney (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McKinney</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Extinction vulnerability and selectivity: combining ecological and paleontological views</article-title>
+<source>Annual Review of Ecology and Systematics</source>
+<year iso-8601-date="1997">1997</year>
+<volume>28</volume>
+<issue>1</issue>
+<fpage>495</fpage>
+<lpage>516</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.ecolsys.28.1.495</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-75">
+<label>McKinney (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McKinney</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Urbanization, biodiversity, and conservation: the impacts of urbanization on native species are poorly studied, but educating a highly urbanized human population about these impacts can greatly improve species conservation in all ecosystems</article-title>
+<source>BioScience</source>
+<year iso-8601-date="2002">2002</year>
+<volume>52</volume>
+<issue>10</issue>
+<fpage>883</fpage>
+<lpage>890</lpage>
+<pub-id pub-id-type="doi">10.1641/0006-3568(2002)052[0883:UBAC]2.0.CO;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-76">
+<label>McKinney (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McKinney</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Urbanization as a major cause of biotic homogenization</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2006">2006</year>
+<volume>127</volume>
+<issue>3</issue>
+<fpage>247</fpage>
+<lpage>260</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2005.09.005</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-79">
+<label>Miller et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miller</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Barratt</surname>
+<given-names>BIP</given-names>
+</name>
+<name>
+<surname>Dickinson</surname>
+<given-names>KJM</given-names>
+</name>
+<name>
+<surname>Lord</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Are introduced plants a threat to native pollinator services in montane–alpine environments?</article-title>
+<source>Alpine Botany</source>
+<year iso-8601-date="2018">2018</year>
+<volume>128</volume>
+<issue>2</issue>
+<fpage>179</fpage>
+<lpage>189</lpage>
+<pub-id pub-id-type="doi">10.1007/s00035-018-0206-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-80">
+<label>Monckton (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Monckton</surname>
+<given-names>SK</given-names>
+</name>
+</person-group>
+<article-title>A revision of Chilicola (Heteroediscelis), a subgenus of xeromelissine bees (Hymenoptera, Colletidae) endemic to Chile: taxonomy, phylogeny, and biogeography, with descriptions of eight new species</article-title>
+<source>Zookeys</source>
+<year iso-8601-date="2016">2016</year>
+<volume>591</volume>
+<fpage>1</fpage>
+<lpage>144</lpage>
+<pub-id pub-id-type="doi">10.3897/zookeys.591.7731</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-81">
+<label>Montalva (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Montalva</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>La Difícil Situación Del Abejorro Más Austral Del Mundo (<italic>Bombus dahlbomii</italic> Guérin-Méneville, 1835)</article-title>
+<source>Boletín de Biodiversidad de Chile</source>
+<year iso-8601-date="2012">2012</year>
+<volume>7</volume>
+<fpage>1</fpage>
+<lpage>3</lpage>
+</element-citation>
+</ref>
+<ref id="ref-82">
+<label>Montalva, Ruz &amp; Arroyo (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Montalva</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ruz</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Arroyo</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title><italic>Bombus terrestris</italic> Linnaeus (Hymenoptera: Apidae: Bombini) en Chile: causas y consecuencias de su introducción</article-title>
+<source>Revista del Jardín Botánico Chagual</source>
+<year iso-8601-date="2008">2008</year>
+<volume>6</volume>
+<fpage>13</fpage>
+<lpage>20</lpage>
+</element-citation>
+</ref>
+<ref id="ref-86">
+<label>Morales et al. (2016)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Morales</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Montalva</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Arbetman</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Aizen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Smith-Ramírez</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Vieli</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Hatfield</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title><italic>Bombus dahlbomii</italic></article-title>
+<year iso-8601-date="2016">2016</year>
+<publisher-name>International Union for Conservation of Nature</publisher-name>
+<publisher-loc>Gland, Switzerland</publisher-loc>
+<uri>http://www.iucnredlist.org/details/21215142/0</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2016-12">December 2016</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-87">
+<label>Morandin &amp; Kremen (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Morandin</surname>
+<given-names>LA</given-names>
+</name>
+<name>
+<surname>Kremen</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Hedgerow restoration promotes pollinator populations and exports native bees to adjacent fields</article-title>
+<source>Ecological Applications</source>
+<year iso-8601-date="2013">2013</year>
+<volume>23</volume>
+<issue>4</issue>
+<fpage>829</fpage>
+<lpage>839</lpage>
+<pub-id pub-id-type="doi">10.1890/12-1051.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-88">
+<label>Morón et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Morón</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Lenda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Skórka</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Szentgyörgyi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Settele</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Woyciechowski</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Wild pollinator communities are negatively affected by invasion of alien goldenrods in grassland landscapes</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2009">2009</year>
+<volume>142</volume>
+<issue>7</issue>
+<fpage>1322</fpage>
+<lpage>1332</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2008.12.036</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-89">
+<label>Muñoz-Schick et al. (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Muñoz-Schick</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Moreira–Muñoz</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Villagrán</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Luebert</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Caracterización florística y pisos de vegetación en los Andes de Santiago, Chile Central</article-title>
+<source>Boletín del Museo Nacional de Historia Natural, Chile</source>
+<year iso-8601-date="2000">2000</year>
+<volume>49</volume>
+<fpage>9</fpage>
+<lpage>50</lpage>
+</element-citation>
+</ref>
+<ref id="ref-90">
+<label>Navarro-Perez &amp; Tidball (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Navarro-Perez</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Tidball</surname>
+<given-names>KG</given-names>
+</name>
+</person-group>
+<article-title>Challenges of biodiversity education: a review of education strategies for biodiversity education</article-title>
+<source>International Electronic Journal of Environmental Education</source>
+<year iso-8601-date="2012">2012</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>12</fpage>
+<lpage>30</lpage>
+</element-citation>
+</ref>
+<ref id="ref-91">
+<label>Normandin et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Normandin</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Vereecken</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Buddle</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Fournier</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Taxonomic and functional trait diversity of wild bees in different urban settings</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2017">2017</year>
+<volume>5</volume>
+<elocation-id>e3051</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.3051</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-92">
+<label>Nielsen et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nielsen</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Steffan-Dewenter</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Westphal</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Messinger</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>SPM</given-names>
+</name>
+<name>
+<surname>Settele</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Szentgyörgyi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Vaissière</surname>
+<given-names>BE</given-names>
+</name>
+<name>
+<surname>Vaitis</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Woyciechowski</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bazos</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Biesmeijer</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Bommarco</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Kunin</surname>
+<given-names>WE</given-names>
+</name>
+<name>
+<surname>Tscheulin</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Lamborn</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Petanidou</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Assessing bee species richness in two Mediterranean communities: importance of habitat type and sampling techniques</article-title>
+<source>Ecological Research</source>
+<year iso-8601-date="2011">2011</year>
+<volume>26</volume>
+<issue>5</issue>
+<fpage>969</fpage>
+<lpage>983</lpage>
+<pub-id pub-id-type="doi">10.1007/s11284-011-0852-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-94">
+<label>Packer et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Packer</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zayed</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Grixti</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Ruz</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Owen</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Vivallo</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Toro</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Conservation genetics of potentially endangered mutualisms: reduced levels of genetic variation in specialist versus generalist bees</article-title>
+<source>Conservation Biology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>19</volume>
+<issue>1</issue>
+<fpage>195</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1523-1739.2005.00601.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-95">
+<label>Pellissier et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pellissier</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Fiedler</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Ndribe</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Dubuis</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pradervand</surname>
+<given-names>J-N</given-names>
+</name>
+<name>
+<surname>Guisan</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Rasmann</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Shifts in species richness, herbivore specialization, and plant resistance along elevation gradients</article-title>
+<source>Ecology and Evolution</source>
+<year iso-8601-date="2012">2012</year>
+<volume>2</volume>
+<issue>8</issue>
+<fpage>1818</fpage>
+<lpage>1825</lpage>
+<pub-id pub-id-type="doi">10.1002/ece3.296</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-96">
+<label>Peng &amp; Jay (1976)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Peng</surname>
+<given-names>Y-S</given-names>
+</name>
+<name>
+<surname>Jay</surname>
+<given-names>SC</given-names>
+</name>
+</person-group>
+<article-title>The effect of diet on queen rearing by caged worker honeybees</article-title>
+<source>Canadian Journal of Zoology</source>
+<year iso-8601-date="1976">1976</year>
+<volume>54</volume>
+<issue>7</issue>
+<fpage>1156</fpage>
+<lpage>1160</lpage>
+<pub-id pub-id-type="doi">10.1139/z76-131</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-98">
+<label>Potts et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Biesmeijer</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Kremen</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Neumann</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Schweiger</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Kunin</surname>
+<given-names>WE</given-names>
+</name>
+</person-group>
+<article-title>Global pollinator declines: Trends, impacts and drivers</article-title>
+<source>Trends in Ecology &amp; Evolution</source>
+<year iso-8601-date="2010">2010</year>
+<volume>25</volume>
+<issue>6</issue>
+<fpage>345</fpage>
+<lpage>353</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tree.2010.01.007</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-99">
+<label>Rahbek (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rahbek</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>The elevational gradient of species richness: a uniform pattern?</article-title>
+<source>Ecography</source>
+<year iso-8601-date="1995">1995</year>
+<volume>18</volume>
+<issue>2</issue>
+<fpage>200</fpage>
+<lpage>205</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-0587.1995.tb00341.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-101">
+<label>Rice (1989)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rice</surname>
+<given-names>WR</given-names>
+</name>
+</person-group>
+<article-title>Analyzing tables of statistical tests</article-title>
+<source>Evolution</source>
+<year iso-8601-date="1989">1989</year>
+<volume>43</volume>
+<issue>1</issue>
+<fpage>223</fpage>
+<lpage>225</lpage>
+<pub-id pub-id-type="doi">10.2307/2409177</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-102">
+<label>Roberts et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Roberts</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Biesmeijer</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Kuhlmann</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kunin</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Ohlemüller</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Assessing continental-scale risks for generalist and specialist pollinating bee species under climate change</article-title>
+<source>BioRisk</source>
+<year iso-8601-date="2011">2011</year>
+<volume>6</volume>
+<fpage>1</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="doi">10.3897/biorisk.6.1325</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-105">
+<label>Romero &amp; Ordenes (2004)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Romero</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Ordenes</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Emerging urbanization in the Southern Andes</article-title>
+<source>Mountain Research and Development</source>
+<year iso-8601-date="2004">2004</year>
+<volume>24</volume>
+<issue>3</issue>
+<fpage>197</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="doi">10.1659/0276-4741(2004)024[0197:euitsa]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-106">
+<label>Roubik (1989)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Roubik</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Roubik</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>Nesting and reproductive biology</article-title>
+<source>Ecology and Natural History of Tropical Bees</source>
+<year iso-8601-date="1989">1989</year>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Cambridge University Press</publisher-name>
+<fpage>161</fpage>
+<lpage>312</lpage>
+</element-citation>
+</ref>
+<ref id="ref-107">
+<label>Roulston &amp; Cane (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Roulston</surname>
+<given-names>TH</given-names>
+</name>
+<name>
+<surname>Cane</surname>
+<given-names>JH</given-names>
+</name>
+</person-group>
+<article-title>The effect of pollen protein concentration on body size in the sweat bee <italic>Lasioglossum zephyrum</italic> (Hymenoptera: Apiformes)</article-title>
+<source>Evolutionary Ecology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>16</volume>
+<issue>1</issue>
+<fpage>49</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="doi">10.1023/a:1016048526475</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-108">
+<label>Rozen (1967)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rozen</surname>
+<given-names>J</given-names>
+<suffix>Jr</suffix>
+</name>
+</person-group>
+<article-title>Review of the biology of panurgine bees, with observations on North American forms (Hymenoptera, Andrenidae)</article-title>
+<source>American Museum Novitates</source>
+<year iso-8601-date="1967">1967</year>
+<volume>2297</volume>
+<fpage>1</fpage>
+<lpage>44</lpage>
+</element-citation>
+</ref>
+<ref id="ref-111">
+<label>Rudd, Vala &amp; Schaefer (2002)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rudd</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Vala</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Schaefer</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Importance of backyard habitat in a comprehensive biodiversity conservation strategy: a connectivity analysis of urban green spaces</article-title>
+<source>Restoration Ecology</source>
+<year iso-8601-date="2002">2002</year>
+<volume>10</volume>
+<issue>2</issue>
+<fpage>368</fpage>
+<lpage>375</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1526-100x.2002.02041.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-114">
+<label>Ruiz (1944)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ruiz</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Apidologia Chilena, segunda parte</article-title>
+<source>Revista Chilena de Historia Natural</source>
+<year iso-8601-date="1944">1944</year>
+<volume>46</volume>
+<fpage>200</fpage>
+<lpage>231</lpage>
+</element-citation>
+</ref>
+<ref id="ref-116">
+<label>SERPLAC (Secretaría Regional de Planificación y Coordinación) (1980)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab><institution>SERPLAC (Secretaría Regional de Planificación y Coordinación)</institution></collab>
+</person-group>
+<source>La Minería En La Región Metropolitana</source>
+<year iso-8601-date="1980">1980</year>
+<publisher-loc>Santiago</publisher-loc>
+<publisher-name>SERPLAC</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-117">
+<label>Seto, Günerlap &amp; Hutyra (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Seto</surname>
+<given-names>KC</given-names>
+</name>
+<name>
+<surname>Günerlap</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Hutyra</surname>
+<given-names>LR</given-names>
+</name>
+</person-group>
+<article-title>Global forecasts of urban expansion to 2030 and direct impacts on biodiversity and carbon pools</article-title>
+<source>Proceedings of the National Academy of Sciences United States of America</source>
+<year iso-8601-date="2012">2012</year>
+<volume>109</volume>
+<issue>40</issue>
+<fpage>16083</fpage>
+<lpage>16088</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1211658109</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-119">
+<label>Steffan-Dewenter et al. (2006)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Steffan-Dewenter</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Klein</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Gaebele</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Alfert</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Tscharntke</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Waser</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title>Bee diversity and plant-pollinator interactions in fragmented landscapes</article-title>
+<source>Specialization and Generalization in Plant-Pollinator Interactions</source>
+<year iso-8601-date="2006">2006</year>
+<publisher-loc>Chicago</publisher-loc>
+<publisher-name>University of Chicago Press</publisher-name>
+<fpage>387</fpage>
+<lpage>407</lpage>
+</element-citation>
+</ref>
+<ref id="ref-120">
+<label>Stout &amp; Morales (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stout</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Morales</surname>
+<given-names>CL</given-names>
+</name>
+</person-group>
+<article-title>Ecological impacts of invasive alien species on bees</article-title>
+<source>Apidologie</source>
+<year iso-8601-date="2009">2009</year>
+<volume>40</volume>
+<issue>3</issue>
+<fpage>388</fpage>
+<lpage>409</lpage>
+<pub-id pub-id-type="doi">10.1051/apido/2009023</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-121">
+<label>Suchowski (2001)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Suchowski</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>An analysis of the impact of an outlier on correlation coefficients across small sample data where RHO is non-zero</article-title> 
+<year iso-8601-date="2001">2001</year>
+<comment>PhD thesis</comment>
+<publisher-name>Western Michigan University</publisher-name>
+<publisher-loc>Kalamazoo, Michigan</publisher-loc>
+<uri>https://scholarworks.wmich.edu/dissertations/1348</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2018-05">May 2018</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-122">
+<label>Tepedino, Bradley &amp; Griswold (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tepedino</surname>
+<given-names>VJ</given-names>
+</name>
+<name>
+<surname>Bradley</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Griswold</surname>
+<given-names>TL</given-names>
+</name>
+</person-group>
+<article-title>Might flowers of invasive plants increase native bee carrying capacity? intimations from capitol reef National Park, Utah</article-title>
+<source>Natural Areas Journal</source>
+<year iso-8601-date="2008">2008</year>
+<volume>28</volume>
+<issue>1</issue>
+<fpage>44</fpage>
+<lpage>50</lpage>
+<pub-id pub-id-type="doi">10.3375/0885-8608(2008)28[44:mfoipi]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-123">
+<label>Toro &amp; Rodríguez (1998)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Toro</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Rodríguez</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Anthidiini de Chile: Clave de especies (Hymenoptera: Megachilidae)</article-title>
+<source>Acta Entomológica Chilena</source>
+<year iso-8601-date="1998">1998</year>
+<volume>22</volume>
+<fpage>63</fpage>
+<lpage>78</lpage>
+</element-citation>
+</ref>
+<ref id="ref-124">
+<label>Toro (1997)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Toro</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Nuevas especies chilenas de Xeromelissinae (Hymenoptera: Colletidae)</article-title>
+<source>Acta Entomológica Chilena</source>
+<year iso-8601-date="1997">1997</year>
+<volume>21</volume>
+<fpage>7</fpage>
+<lpage>12</lpage>
+</element-citation>
+</ref>
+<ref id="ref-125">
+<label>Toro (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Toro</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Las especies chilenas del género Colletes (Hymenoptera: Colletidae): clave de especies</article-title>
+<source>Acta Entomológica Chilena</source>
+<year iso-8601-date="1999">1999</year>
+<volume>23</volume>
+<fpage>23</fpage>
+<lpage>32</lpage>
+</element-citation>
+</ref>
+<ref id="ref-126">
+<label>Tscharntke et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tscharntke</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Klein</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Kruess</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Steffan-Dewenter</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Thies</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Landscape perspectives on agricultural intensification and biodiversity—ecosystem service management</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2005">2005</year>
+<volume>8</volume>
+<issue>8</issue>
+<fpage>857</fpage>
+<lpage>874</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2005.00782.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-127">
+<label>Van Hengstum et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Van Hengstum</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Hooftman</surname>
+<given-names>DAP</given-names>
+</name>
+<name>
+<surname>Oostermeijer</surname>
+<given-names>JGB</given-names>
+</name>
+<name>
+<surname>Van Tienderen</surname>
+<given-names>PH</given-names>
+</name>
+</person-group>
+<article-title>Impact of plant invasions on local arthropod communities: a meta‐analysis</article-title>
+<source>Journal of Ecology</source>
+<year iso-8601-date="2014">2014</year>
+<volume>102</volume>
+<issue>1</issue>
+<fpage>4</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1111/1365-2745.12176</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-128">
+<label>Vilà et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vilà</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Espinar</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Hejda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Hulme</surname>
+<given-names>PE</given-names>
+</name>
+<name>
+<surname>Jarošík</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Maron</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Pergl</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Schaffner</surname>
+<given-names>U</given-names>
+</name>
+<name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Pyšek</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Ecological impacts of invasive alien plants: a meta‐analysis of their effects on species, communities and ecosystems</article-title>
+<source>Ecology Letters</source>
+<year iso-8601-date="2011">2011</year>
+<volume>14</volume>
+<issue>7</issue>
+<fpage>702</fpage>
+<lpage>708</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1461-0248.2011.01628.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-129">
+<label>Vuille (2014)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Vuille</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Singh</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Haritashya</surname>
+<given-names>U</given-names>
+</name>
+</person-group>
+<article-title>Climate variability and high altitude temperature and precipitation</article-title>
+<source>Encyclopedia of Snow, Ice and Glaciers</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Dordrecht</publisher-loc>
+<publisher-name>Springer Netherlands</publisher-name>
+<fpage>153</fpage>
+<lpage>156</lpage>
+</element-citation>
+</ref>
+<ref id="ref-130">
+<label>Wagenknecht (1969)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wagenknecht</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Contribución A La Biología De Los Apoidea Chilenos</article-title>
+<source>Anales Del Museo De Historia Natural</source>
+<year iso-8601-date="1969">1969</year>
+<volume>2</volume>
+<fpage>171</fpage>
+<lpage>181</lpage>
+</element-citation>
+</ref>
+<ref id="ref-131">
+<label>Wagenknecht (1970)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wagenknecht</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Contribución A La Biología De Los Apoidea Chilenos</article-title>
+<source>Anales Del Museo De Historia Natural</source>
+<year iso-8601-date="1970">1970</year>
+<volume>3</volume>
+<fpage>111</fpage>
+<lpage>127</lpage>
+</element-citation>
+</ref>
+<ref id="ref-134">
+<label>Westphal et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Westphal</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Bommarco</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Carré</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Lamborn</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Morison</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Petanidou</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+<name>
+<surname>Roberts</surname>
+<given-names>SPM</given-names>
+</name>
+<name>
+<surname>Szentgyörgyi</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Tscheulin</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Vaissière</surname>
+<given-names>BE</given-names>
+</name>
+<name>
+<surname>Woyciechowski</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Biesmeijer</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Kunin</surname>
+<given-names>WE</given-names>
+</name>
+<name>
+<surname>Settele</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Steffan-Dewenterm</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Measuring bee diversity in different European habitats and biogeographical regions</article-title>
+<source>Ecological Monographs</source>
+<year iso-8601-date="2008">2008</year>
+<volume>78</volume>
+<issue>4</issue>
+<fpage>653</fpage>
+<lpage>671</lpage>
+<pub-id pub-id-type="doi">10.1890/07-1292.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-135">
+<label>Wilde, Gandhi &amp; Colson (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wilde</surname>
+<given-names>HD</given-names>
+</name>
+<name>
+<surname>Gandhi</surname>
+<given-names>KJK</given-names>
+</name>
+<name>
+<surname>Colson</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>State of the science and challenges of breeding landscape plants with ecological function</article-title>
+<source>Horticulture Research</source>
+<year iso-8601-date="2015">2015</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>14069</fpage>
+<pub-id pub-id-type="doi">10.1038/hortres.2014.69</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-136">
+<label>Williams et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</name>
+<name>
+<surname>Crone</surname>
+<given-names>EE</given-names>
+</name>
+<name>
+<surname>Roulston</surname>
+<given-names>TH</given-names>
+</name>
+<name>
+<surname>Minckley</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Packer</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Potts</surname>
+<given-names>SG</given-names>
+</name>
+</person-group>
+<article-title>Ecological and life-history traits predict bee species responses to environmental disturbances</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="2010">2010</year>
+<volume>143</volume>
+<issue>10</issue>
+<fpage>2280</fpage>
+<lpage>2291</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biocon.2010.03.024</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-137">
+<label>Williams, Minckley &amp; Silveira (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Williams</surname>
+<given-names>NM</given-names>
+</name>
+<name>
+<surname>Minckley</surname>
+<given-names>RL</given-names>
+</name>
+<name>
+<surname>Silveira</surname>
+<given-names>FA</given-names>
+</name>
+</person-group>
+<article-title>Variation in native bee faunas and its implications for detecting community changes</article-title>
+<source>Conservation Ecology</source>
+<year iso-8601-date="2001">2001</year>
+<volume>5</volume>
+<issue>1</issue>
+<fpage>7</fpage>
+<pub-id pub-id-type="doi">10.5751/es-00259-050107</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-138">
+<label>Wilson, Forister &amp; Carril (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wilson</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Forister</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Carril</surname>
+<given-names>OM</given-names>
+</name>
+</person-group>
+<article-title>Interest exceeds understanding in public support of bee conservation</article-title>
+<source>Frontiers in Ecology and the Environment</source>
+<year iso-8601-date="2017">2017</year>
+<volume>15</volume>
+<issue>8</issue>
+<fpage>460</fpage>
+<lpage>466</lpage>
+<pub-id pub-id-type="doi">10.1002/fee.1531</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-139">
+<label>Winfree, Bartomeus &amp; Cariveau (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Winfree</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bartomeus</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Cariveau</surname>
+<given-names>DP</given-names>
+</name>
+</person-group>
+<article-title>Native pollinators in anthropogenic habitats</article-title>
+<source>Annual Review of Ecology, Evolution, and Systematics</source>
+<year iso-8601-date="2011">2011</year>
+<volume>42</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-ecolsys-102710-145042</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-140">
+<label>Winfree et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Winfree</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Aguilar</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Vázquez</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>LeBuhn</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Aizen</surname>
+<given-names>MA</given-names>
+</name>
+</person-group>
+<article-title>A meta‐analysis of bees’ responses to anthropogenic disturbance</article-title>
+<source>Ecological Society of America</source>
+<year iso-8601-date="2009">2009</year>
+<volume>90</volume>
+<issue>8</issue>
+<fpage>2068</fpage>
+<lpage>2076</lpage>
+<pub-id pub-id-type="doi">10.1890/08-1245.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-141">
+<label>Wolda (1987)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wolda</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Altitude, habitat and tropical insect diversity</article-title>
+<source>Biological Journal of the Linnean Society</source>
+<year iso-8601-date="1987">1987</year>
+<volume>30</volume>
+<issue>4</issue>
+<fpage>313</fpage>
+<lpage>323</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1095-8312.1987.tb00305.x</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

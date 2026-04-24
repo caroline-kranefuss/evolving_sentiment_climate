@@ -1,0 +1,3344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">15685</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.15685</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Agricultural Science</subject>
+<subject>Plant Science</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Major biotic stresses affecting maize production in Kenya and their implications for food security</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Njeru</surname>
+<given-names>Faith</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>wanjikunjeru2012@gmail.com</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<name name-style="western">
+<surname>Wambua</surname>
+<given-names>Angeline</given-names>
+</name>
+<xref ref-type="aff" rid="aff-3">3</xref>
+</contrib>
+<contrib id="author-3" contrib-type="author">
+<name name-style="western">
+<surname>Muge</surname>
+<given-names>Edward</given-names>
+</name>
+<xref ref-type="aff" rid="aff-4">4</xref>
+</contrib>
+<contrib id="author-4" contrib-type="author">
+<name name-style="western">
+<surname>Haesaert</surname>
+<given-names>Geert</given-names>
+</name>
+<xref ref-type="aff" rid="aff-5">5</xref>
+</contrib>
+<contrib id="author-5" contrib-type="author">
+<name name-style="western">
+<surname>Gettemans</surname>
+<given-names>Jan</given-names>
+</name>
+<xref ref-type="aff" rid="aff-6">6</xref>
+</contrib>
+<contrib id="author-6" contrib-type="author">
+<name name-style="western">
+<surname>Misinzo</surname>
+<given-names>Gerald</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+</contrib>
+<aff id="aff-1">
+<label>1</label><institution>SACIDS Africa Centre of Excellence for Infectious Diseases, SACIDS Foundation for One Health, Sokoine University of Agriculture</institution>, <addr-line>Morogoro</addr-line>, <country>Tanzania</country></aff>
+<aff id="aff-2">
+<label>2</label><institution>Department of Veterinary Microbiology, Parasitology and Biotechnology, College of Veterinary Medicines and Biomedical Sciences, Sokoine University of Agriculture</institution>, <addr-line>Morogoro</addr-line>, <country>Tanzania</country></aff>
+<aff id="aff-3">
+<label>3</label><institution>Department of Physical Sciences, Chuka University</institution>, <addr-line>Chuka</addr-line>, <country>Kenya</country></aff>
+<aff id="aff-4">
+<label>4</label><institution>Department of Biochemistry, University of Nairobi</institution>, <addr-line>Nairobi</addr-line>, <country>Kenya</country></aff>
+<aff id="aff-5">
+<label>5</label><institution>Department of Plants and Crops, Ghent University</institution>, <addr-line>Ghent</addr-line>, <country>Belgium</country></aff>
+<aff id="aff-6">
+<label>6</label><institution>Department of Biomolecular Medicine, Ghent University</institution>, <addr-line>Ghent</addr-line>, <country>Belgium</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Dąbrowski</surname>
+<given-names>Piotr</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2023-11-30"><day>30</day><month>11</month><year iso-8601-date="2023">2023</year></pub-date>
+<volume>11</volume>
+<elocation-id>e15685</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2023-03-15"><day>15</day><month>3</month><year iso-8601-date="2023">2023</year>
+</date>
+<date date-type="accepted" iso-8601-date="2023-06-14"><day>14</day><month>6</month><year iso-8601-date="2023">2023</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2023 Njeru et al.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Njeru et al.</copyright-holder>
+<license xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/15685"/>
+<abstract>
+<p>Maize (<italic>Zea mays</italic> L.) is a staple food for many households in sub-Saharan Africa (SSA) and also contributes to the gross domestic product (GDP). However, the maize yields reported in most SSA countries are very low and this is mainly attributed to biotic and abiotic stresses. These stresses have been exacerbated by climate change which has led to long periods of drought or heavy flooding and the emergence of new biotic stresses. Few reports exist which compile the biotic stresses affecting maize production in SSA. Here, five major biotic stresses of maize in Kenya are presented which are attributed to high yield losses. They include Maize lethal necrosis, fall armyworm, gray leaf spot, turcicum leaf blight and desert locusts. Maize lethal necrosis and fall armyworm are new biotic stresses to the Kenyan maize farmer while gray leaf spot, and turcicum leaf blight are endemic to the region. The invasion by the desert locusts is speculated to be caused by climate change. The biotic stresses cause a reduction in maize yield of 30–100% threatening food security. Therefore, this review focuses on the cause, control measures employed to control these diseases and future prospective. There should be deliberate efforts from the government and researchers to control biotic stresses affecting maize yields as the effect of these stresses is being exacerbated by the changing climate.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>Food security</kwd>
+<kwd>Maize</kwd>
+<kwd>Maize lethal necrosis</kwd>
+<kwd>Fall armyworm</kwd>
+<kwd>Gray leaf spot</kwd>
+<kwd>Desert locusts</kwd>
+<kwd>Turcicum leaf blight</kwd>
+</kwd-group>
+<funding-group>
+<award-group id="fund-1">
+<funding-source>Partnership for Skills in Applied Sciences, Engineering and Technology (PASET)</funding-source>
+</award-group>
+<award-group id="fund-2">
+<funding-source>SACIDS Africa Centre of Excellence for Infectious Diseases</funding-source>
+</award-group>
+<award-group id="fund-3">
+<funding-source>SACIDS Foundation for One Health</funding-source>
+</award-group>
+<award-group id="fund-4">
+<funding-source>Sokoine University of Agriculture, Morogoro, Tanzania</funding-source>
+</award-group>
+<award-group id="fund-5">
+<funding-source>L’Oreal-UNESCO for Women in Science Sub Saharan Africa program</funding-source>
+</award-group>
+<funding-statement>This study was funded by the Partnership for Skills in Applied Sciences, Engineering and Technology (PASET) through the Regional Scholarship and Innovation Fund (RSIF) awarded to Faith Njeru to carry out doctoral studies at SACIDS Africa Centre of Excellence for Infectious Diseases, SACIDS Foundation for One Health, Sokoine University of Agriculture, Morogoro, Tanzania. The L’Oreal-UNESCO For Women in Science Sub Saharan Africa program provided support for the APC. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Maize (<italic>Zea mays</italic> L.) is an important cereal crop in Sub-Saharan Africa (SSA) critical for food security as well as a source of income for millions of small-holder farmers (<xref ref-type="bibr" rid="ref-45">Prasanna et al., 2020</xref>). The importance of maize is evidenced by the fact that 90% of the Kenyan population depends on maize for food (annual maize consumption of 4.3 million tons reported in 2018), income, and employment (<xref ref-type="bibr" rid="ref-23">Indexmundi, 2018</xref>; <xref ref-type="bibr" rid="ref-31">Kusia, 2018</xref>). The total maize yield in Kenya ranged from 1.43 to 1.82 t/ha from 2010 to 2018 (<xref ref-type="bibr" rid="ref-101">FAO, 2018</xref>) (<xref ref-type="table" rid="table-1">Table 1</xref>). Similar results have also been reported from data collected from farmers in Kenya who reported average maize yields of 1.48 t/ha for the 2020/2021 cropping season (<xref ref-type="bibr" rid="ref-41">Njeru et al., 2022</xref>).</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.15685/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title>Average maize production in Kenya (2010–2018).</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15685/table-1.png"/>
+<table content-type="text">
+<colgroup>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr><th/><th colspan="2">Maize production</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Area harvested (ha)</th>
+<th>Yield (t/ha)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="char" char=".">2010</td>
+<td align="char" char=".">2,008,346</td>
+<td align="char" char=".">1.73</td>
+</tr>
+<tr>
+<td align="char" char=".">2011</td>
+<td align="char" char=".">2,131,887</td>
+<td align="char" char=".">1.58</td>
+</tr>
+<tr>
+<td align="char" char=".">2012</td>
+<td align="char" char=".">2,159,322</td>
+<td align="char" char=".">1.74</td>
+</tr>
+<tr>
+<td align="char" char=".">2013</td>
+<td align="char" char=".">2,123,138</td>
+<td align="char" char=".">1.69</td>
+</tr>
+<tr>
+<td align="char" char=".">2014</td>
+<td align="char" char=".">2,116,141</td>
+<td align="char" char=".">1.66</td>
+</tr>
+<tr>
+<td align="char" char=".">2015</td>
+<td align="char" char=".">2,098,240</td>
+<td align="char" char=".">1.82</td>
+</tr>
+<tr>
+<td align="char" char=".">2016</td>
+<td align="char" char=".">2,337,586</td>
+<td align="char" char=".">1.43</td>
+</tr>
+<tr>
+<td align="char" char=".">2017</td>
+<td align="char" char=".">2,086,178</td>
+<td align="char" char=".">1.53</td>
+</tr>
+<tr>
+<td align="char" char=".">2018</td>
+<td align="char" char=".">2,273,283</td>
+<td align="char" char=".">1.77</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>Maize is cultivated under diversified climatic and agroecological zones mostly by resource-poor farmers with limited access to inputs such as fertilizers and pesticides (<xref ref-type="bibr" rid="ref-20">Gudero Mengesha, Kedir Mohammed &amp; Sultan Salo, 2019</xref>). Despite the low maize production, potential exists for increasing maize yield to over 6 t/ha through increased use of improved seeds and good crop husbandry (<xref ref-type="bibr" rid="ref-42">Odendo, De Groote &amp; Odongo, 2001</xref>). Therefore, there is need to invest in innovative agricultural practices to increase maize yield to be able to meet the demand.</p>
+<p>Maize production is threatened by several factors, where biotic factors are of a significant challenge. Biotic factors such as stem borers, and weeds such as <italic>Striga</italic>, have been shown to contribute up to 30% yield loss in maize production (<xref ref-type="bibr" rid="ref-31">Kusia, 2018</xref>). Pathogens such as <italic>maize dwarf mosaic virus</italic>, <italic>sugarcane mosaic virus</italic>, and <italic>wheat streak mosaic virus</italic> have also been reported to cause significant reductions in maize yields in the affected farms.</p>
+<p>Globalization and international trade have increased significantly in recent years, subsequently increasing the spread of transboundary pests and diseases. This has led to the emergence of new diseases such as maize lethal necrosis (MLN) and the introduction of new pests such as fall armyworm (FAW) <italic>Spodoptera frugiperda</italic> in Kenya. These new pests and diseases further contribute to low maize production and puts a strain on the agricultural sector.</p>
+<p>The population in Kenya is expected to continue increasing in the coming decades reaching 66 million in 2030; however, food production is not expected to be on pace. Hence, the purpose of this review article is to present the major biotic stresses affecting maize production in Kenya, with a focus on two pests namely: fall armyworm and desert locusts, two fungal pathogens: gray leaf spot (GLS), and Turcicum leaf blight (TLB) and one viral disease: maize lethal necrosis (MLN). These biotic stresses are very common, occurring every maize growing season and have the potential to cause yield losses of 100%.</p>
+<p>This review article targets plant breeders, pathologists, scientists in the seed companies and students in agricultural research. Several previous review articles have been written on different aspects of biotic stresses affecting maize production such as (<xref ref-type="bibr" rid="ref-102">Redinbaugh &amp; Stewart, 2018</xref>; <xref ref-type="bibr" rid="ref-103">Prasanna et al., 2022</xref>; <xref ref-type="bibr" rid="ref-104">Shiferaw et al., 2011</xref>). These previous review articles have focused on a single specific biotic stress. The current review article combines several biotic stresses affecting maize production.</p>
+</sec>
+<sec sec-type="survey|methodology">
+<title>Survey methodology</title>
+<p>The studies used to write this review article were identified from science direct, research gate and web of science. Only articles written in English were reviewed. The inclusion criteria included original articles and previous review articles on biotic stresses. The search terms used included maize lethal necrosis, fall armyworm, desert locusts, gray leaf spot; turcicum leaf blight. The search terms were used with the Boolean operator “AND” maize production. This enabled to focus the search to articles written in reference to maize cultivation.</p>
+<sec>
+<title>Biotic stresses</title>
+<p>Productivity in plants is reduced by biotic stresses caused by living organisms such as pests, bacteria, fungi, weeds and viruses. Economic losses to biotic stresses vary depending on the stress and the affected crop. A study by <xref ref-type="bibr" rid="ref-105">Pratt, Constantine &amp; Murphy (2017)</xref> reported that biotic stresses in Kenya cause losses of between 3.8 to 123.6 million USD.</p>
+<p>Maize is cultivated in 40% of the total crop area in Kenya and its production is often affected by biotic stresses. These biotic stresses affect maize during growth and also after harvest and they not only impact the yield but also the quality of the crop harvested.</p>
+<p>Below we discuss in detail the main biotic stresses of maize which are of national importance in Kenya as they cause significant yield losses disrupting food security.</p>
+</sec>
+<sec>
+<title>Fall armyworm</title>
+<sec>
+<title>History and biology of FAW</title>
+<p>Fall armyworm (FAW) <italic>Spodoptera frugiperda</italic> (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) is a type of caterpillar that disperses to long distances annually (<xref ref-type="bibr" rid="ref-65">Zaman-allah et al., 2019</xref>). The female moth lays eggs in masses on the leaves of many plants (<xref ref-type="bibr" rid="ref-11">De Groote et al., 2020</xref>). After hatching, the larvae, which is the most destructive stage of the pest, disperses throughout the crop field consuming vegetation they come across (<xref ref-type="bibr" rid="ref-9">Capinera, 2008</xref>). FAW is a polyphagous pest that attacks over 60 plant species, but its major effects have been on a few crops such as rice, millet, sorghum, and maize (<xref ref-type="bibr" rid="ref-50">Sisay et al., 2018</xref>).</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.15685/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Fall armyworm.</title>
+<p>(A) and (C) is the photo showing the larval form of FAW (taken by Paul Njau at Naivasha, Kenya in 2023). (B) Photo of maize plants affected by FAW in Kenya 2020 (photo taken by Faith Njeru).</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15685/fig-1.png"/>
+</fig>
+<p>FAW is native to the tropical regions of the western hemisphere from the United States to Argentina (<xref ref-type="bibr" rid="ref-106">Marenya et al., 2022</xref>). FAW is relatively new in Africa, where its first report was in 2016 in West Africa following distress calls by maize producers of high armyworm populations (<xref ref-type="bibr" rid="ref-108">Goergen et al., 2016</xref>). Subsequently, FAW was reported in other African countries including Kenya in 2016 (<xref ref-type="bibr" rid="ref-107">Mutyambai et al., 2022</xref>) and by 2018, FAW had affected 86% of the maize farmers in Kenya (<xref ref-type="bibr" rid="ref-11">De Groote et al., 2020</xref>).</p>
+<p>The fast spread of FAW is attributed to its natural distribution capacity (strong migratory pest, producing many eggs) and the increase in international trade (<xref ref-type="bibr" rid="ref-53">Tambo et al., 2020</xref>). Additionally, its preference for maize, the major cereal crop in Africa also aids in the fast spread of this pest which has been reported in all Sub-Saharan African countries except Lesotho (<xref ref-type="bibr" rid="ref-53">Tambo et al., 2020</xref>).</p>
+</sec>
+<sec>
+<title>Impact of FAW on maize production</title>
+<p>Damage on maize by FAW is observed on all plant parts and at all maize developmental stages, with the pest reported to affect the stem base of maize plantlets, the leaves of maize at the vegetative stage, and also on grown maize plants with the pest able to feed on tassels or bore into ears (<xref ref-type="bibr" rid="ref-108">Goergen et al., 2016</xref>). It has been identified mostly in the Southeastern U.S. as a regular and serious pest destroying maize crops (<xref ref-type="bibr" rid="ref-65">Zaman-allah et al., 2019</xref>) causing yield losses of up to 57% in Latin America, depending on the crop season and the maize variety planted (<xref ref-type="bibr" rid="ref-8">Burtet et al., 2017</xref>).</p>
+<p>Results based on socioeconomic surveys and farmer estimates of yield loss, undertaken in different countries in Africa have estimated maize yield loss due to fall armyworm to be in the range of 22–67% (<xref ref-type="bibr" rid="ref-109">Kansiime et al., 2019</xref>). A community based survey done in Kenya in 2017 and 2018 by <xref ref-type="bibr" rid="ref-11">De Groote et al. (2020)</xref> reported average yield losses of 33% to FAW. These losses due to FAW are similar to results reported by a farmer survey in Ghana and Zambia which reported yield losses of 26–40% and 35–40% respectively (<xref ref-type="bibr" rid="ref-40">Nboyine et al., 2020</xref>) and 32% in Ethiopia (<xref ref-type="bibr" rid="ref-119">Baudron et al., 2019</xref>).</p>
+<p><xref ref-type="bibr" rid="ref-29">Kumela et al. (2019)</xref> reported FAW-induced maize yield reductions of 32% (Ethiopia) and 47% (Kenya), based on a survey of maize farmers while maize yield reductions of 27% and 35% were reported in Ghana and Zambia respectively (<xref ref-type="bibr" rid="ref-47">Rwomushana et al., 2018</xref>). However, in Zimbabwe, a study by <xref ref-type="bibr" rid="ref-119">Baudron et al. (2019)</xref> estimated FAW-induced maize yield reductions of 12% based on a rigorous field scouting method.</p>
+<p>In addition, FAW has been shown to significantly increase the vulnerability of maize to other secondary plant pathogens since it destroys the protective husk of maize. The larvae of FAW causes damage to corn ears and the kernels (<xref ref-type="bibr" rid="ref-21">Herrington et al., 2014</xref>). The damage caused by FAW to maize kernels has been shown to increase the growth of certain fungi that cause mycotoxins (<xref ref-type="bibr" rid="ref-12">Devi, 2018</xref>). Mycotoxins are toxic metabolites with mild to chronic health effects to humans and animals (<xref ref-type="bibr" rid="ref-63">Wokorach et al., 2021</xref>).</p>
+<p>The presence of this new pest in most SSA countries adds to the threat caused by native lepidopteran maize stalk or ear borers such as African maize stalk borer (<italic>Busseola fusca</italic>). Besides its direct effect on agricultural production, FAW also has the potential to significantly affect access to foreign markets (<xref ref-type="bibr" rid="ref-108">Goergen et al., 2016</xref>). Maize is an important crop as a source of food and income to millions of smallholder farmers in SSA, FAW, therefore, poses a significant threat to food security in SSA and the attainment of sustainable development goal 2 to end hunger by 2030.</p>
+</sec>
+<sec>
+<title>FAW detection and control</title>
+<p>An assay based on loop‑mediated isothermal amplification (LAMP) has been reported for the species specific diagnosis of FAW (<xref ref-type="bibr" rid="ref-111">Osabutey et al., 2022</xref>). However, for the small scale farmer, scouting protocols which looks for the signs of egg hatch and feeding by egg larvae instar have been developed to allow early detection of FAW for better management (<xref ref-type="bibr" rid="ref-44">Prasanna et al., 2018</xref>). Besides scouting, sex pheromone traps have been developed to track the presence and movement of FAW in a certain region (<xref ref-type="bibr" rid="ref-44">Prasanna et al., 2018</xref>).</p>
+<p>FAW is new to the African continent, therefore control measures are limited and little is known about the most effective agronomic practices for FAW control (<xref ref-type="bibr" rid="ref-119">Baudron et al., 2019</xref>; <xref ref-type="bibr" rid="ref-11">De Groote et al., 2020</xref>). Therefore, most farmers are left with the option of using chemical pesticides for FAW control. This option is expensive and poses risks to health and the environment (<xref ref-type="bibr" rid="ref-50">Sisay et al., 2018</xref>). A study done across five African countries of Ghana, Rwanda, Uganda, Zambia and Zimbabwe showed that use of pesticides for FAW control was the most preferred management option among the surveyed farmers (<xref ref-type="bibr" rid="ref-53">Tambo et al., 2020</xref>).</p>
+<p>The common pesticides used by the farmers in Africa include profenofos and cypermethrin traded as rocket and lambda-cyhalothrin (Karate). These are broad spectrum non systemic pesticides having contact and stomach action. Unfortunately, some farmers reported using pesticides such as monocrotophos, dichlorvos, methomyl, and methamidophos which are highly toxic and prohibited products (<xref ref-type="bibr" rid="ref-53">Tambo et al., 2020</xref>). Due to the devastating effect of FAW on maize plants and the limited know how on its management, farmers resulted in indiscriminate use of pesticides with some farmers applying fungicides such as mancozeb (<xref ref-type="bibr" rid="ref-53">Tambo et al., 2020</xref>).</p>
+<p>In addition, the use of pesticides has been reported to be ineffective due to the larval behavior of this pest; larval stage bores into the host plant developing under a protected environment, making it difficult to reach with target insecticidal sprays (<xref ref-type="bibr" rid="ref-8">Burtet et al., 2017</xref>). FAW has also been reported to have evolved resistance to several insecticides used including carbamates, organophosphorus, and pyrethroids (<xref ref-type="bibr" rid="ref-58">Wan et al., 2021</xref>). FAW have been shown to develop resistance to insecticide by metabolic detoxification mechanism (<xref ref-type="bibr" rid="ref-59">Wang et al., 2022</xref>). The increased activity of glutathione S-transferases (GSTs) resulted in FAW resistance to pyrethroids. Another mechanism that has been reported for FAW resistance to insecticides is the target resistance mechanism (<xref ref-type="bibr" rid="ref-58">Wan et al., 2021</xref>).</p>
+<p>In Brazil, the control of FAW has been through the use of transgenic plants encoding the Cry1F gene from <italic>Bacillus thuringiensis</italic> (Bt) (<xref ref-type="bibr" rid="ref-112">Bernardi et al., 2015</xref>). However, some studies done in Brazil have shown Bt maize plants expressing the Cry1 proteins to be affected by FAW as a consequence of field evolved resistance to Cry1 proteins (<xref ref-type="bibr" rid="ref-8">Burtet et al., 2017</xref>). Maize plants expressing the Vip3A gene product from Bt were shown to be effective against FAW due to the high toxicity of Vip3A protein to FAW (<xref ref-type="bibr" rid="ref-8">Burtet et al., 2017</xref>).</p>
+<p>Though the use of Bt maize expressing the Cry1 and Vip3A proteins have been shown to have significant success in the control of FAW, the use of this technology need to be monitored and integrated with other control options to control the evolution of resistance against the Cry1 and Vip3A proteins by FAW.</p>
+<p>However, the ethical concerns for use of genetically modified (GM) plants still restrict the use of such plants where legal restrictions are imposed on GM plants. Therefore, in most SSA countries, more research is being carried out to identify alternative control strategies that are effective, adaptable, and applicable to the smallholder farmer’s in SSA.</p>
+<p>These mitigation strategies include cultural, the use of bioagents, and the use of resistant plant genotypes as extensively reviewed by <xref ref-type="bibr" rid="ref-113">Kasoma et al. (2020)</xref>. Natural enemies of FAW which include parasitoids that are small insects that develop attached to the host and eventually kill the host, have been reported for FAW. <xref ref-type="bibr" rid="ref-50">Sisay et al. (2018)</xref> reported several species of parasitoids for FAW in Ethiopia, Kenya and Tanzania with parasitism ranging from 4 to 45.3%. The parasitoids that have been reported for FAW include <italic>Cotesia icipe</italic>, <italic>tachinid fly</italic>, <italic>Palexorista zonata</italic>, <italic>Charops ater</italic> and <italic>Coccygidium luteum</italic> (<xref ref-type="bibr" rid="ref-50">Sisay et al., 2018</xref>). It has also been shown that intercropping with plants such as Tephrosia or desmodium which produce repugnant chemicals help to repel the adult female moths, reducing the number of eggs laid on host plants (<xref ref-type="bibr" rid="ref-44">Prasanna et al., 2018</xref>).</p>
+<p>In addition to the parasitoids which are natural enemies of FAW, entomopathogenic microbials which include fungi, bacteria, viruses and nematodes have also been reported to be effective against FAW through laboratory assays and in the field (<xref ref-type="bibr" rid="ref-114">Hruska, 2019</xref>). Entomopathogenic fungi <italic>Beauveria bassiana, Metarhizium rileyi, and Metarhizium anisopliae</italic> have more than 50% mortality rate of FAW eggs and larvae (<xref ref-type="bibr" rid="ref-115">Guo et al., 2020</xref>). The nematode <italic>Steinernema feltiae</italic>, when sprayed on maize ears in the field was shown to effective against FAW (<xref ref-type="bibr" rid="ref-116">Fallet et al., 2022</xref>).</p>
+<p>Microbials have also been shown that when applied in combination can lead to more efficient FAW control. Simultaneous application of <italic>Metarhizium rileyi</italic> strains and nucleopolyhedroviruses (NPV) had a better control on FAW (<xref ref-type="bibr" rid="ref-117">Souza et al., 2019</xref>). Microbials have been used to develop biopesticides for FAW control, which are less hazardous to the environment and the farmers. Few biopesticides are registered for use in Africa, therefore more research should be done to encourage the use of biopestides in Africa (<xref ref-type="bibr" rid="ref-118">Bateman et al., 2018</xref>).</p>
+<p>A study by <xref ref-type="bibr" rid="ref-119">Baudron et al. (2019)</xref> in Zimbabwe, reported that FAW damage was frequently reduced by frequent weeding and by minimum and zero tillage. However, pumpkin intercropping was found to significantly increase FAW damage. Further research is needed to determine which crops are the most efficient in controlling FAW and acceptable to farmers. Farmers’ have also been shown to employ a range of cultural and physical practices, based on indigenous knowledge <italic>e.g</italic>., hand picking of egg masses and caterpillars, and application of ash/sand on the larvae, some with considerable levels of success (<xref ref-type="bibr" rid="ref-109">Kansiime et al., 2019</xref>).</p>
+<p>Some of the cultural practices used by the farmers have been studied and shown to be effective. For example, the use of neem oil was reported to have 70% mortality of FAW larvae (<xref ref-type="bibr" rid="ref-120">Matova et al., 2020</xref>). Rabbit urine has also been shown to be effective against FAW by reducing larval feeding (<xref ref-type="bibr" rid="ref-121">Kemunto et al., 2022</xref>). Therefore, potential exists for the application of indigenous knowledge in the control of FAW especially in small scale farming.</p>
+<p>Some maize varieties were found by <xref ref-type="bibr" rid="ref-119">Baudron et al. (2019)</xref> to be tolerant to FAW damage. Therefore, there has been research to identify quantitative trait loci (QTL) for application in marker-assisted selection (MAS) to facilitate the breeding process. <xref ref-type="bibr" rid="ref-64">Womack et al. (2020)</xref> identified two important QTL explaining 37% of the phenotypic variance of leaf-feeding damage by FAW in maize. The resistant variety used, Mp705 was responsible for the leaf-feeding damage-reducing alleles for both large-effect QTL and most of the small-effect QTL identified in the study by <xref ref-type="bibr" rid="ref-64">Womack et al. (2020)</xref>.</p>
+<p>There is a need for the development and implementation of evidence based efforts to control this pest. Development of alternative control and preventive methods for FAW, based on agronomic management would be more affordable to resource-constrained small holder farmers with less risk to health and environment. But studies are still ongoing to understand the unknown dynamics of establishment, spread, and environmental conditions favoring the survival of FAW in the continent.</p>
+</sec>
+</sec>
+<sec>
+<title>Desert locusts</title>
+<sec>
+<title>Emergence of desert locusts</title>
+<p>The desert locusts, <italic>Schistocerca gregaria</italic> (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>) are mainly found in arid and semi-arid areas spanning regions from West Africa to India. Desert locusts’ outbreak and invasion date back to 1860. Since then, different outbreaks have been recorded over the years some even lasting for over 22 years (<xref ref-type="bibr" rid="ref-32">Lecoq, 2003</xref>). The recent outbreak can be traced back to the 2018 cyclones coupled with the warm weather and heavy rainfall experienced at the end of 2019 (<xref ref-type="bibr" rid="ref-46">Roussi, 2020</xref>). In this outbreak, Kenya has experienced its worst invasion in 70 years where a large swarm occupied an area of about 2,400 square kilometers (<xref ref-type="bibr" rid="ref-46">Roussi, 2020</xref>).</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.15685/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>(A) and (C) are the images of desert locust. (B) Swarm of desert locust in a field in Baringo, Kenya (photo taken by Isaac Ruto).</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15685/fig-2.png"/>
+</fig>
+<p>Current outbreaks are worsened by the current state of political instability, under-financed control centers, the COVID-19 pandemic and poor early detection strategies (<xref ref-type="bibr" rid="ref-46">Roussi, 2020</xref>). Therefore, with the recent advances in technology and remote sensing, there is need to devise better and effective early sensing tools for arresting the situation before much damage is done.</p>
+</sec>
+<sec>
+<title>Losses caused by desert locusts</title>
+<p>At a local level, desert locusts can cause desertification due to the raged soils caused by depletion of vegetation cover. Development of irrigation schemes in SSA have also aggravated the situation by providing a favorable environment for breeding sites of the desert locusts, consequently leading to recurrent outbreaks (<xref ref-type="bibr" rid="ref-122">FAO, 1994</xref>). Desert locusts can migrate over very long distances attacking all types of vegetation cover hence posing great threat to agro-sylvo-pastoral production (<xref ref-type="bibr" rid="ref-32">Lecoq, 2003</xref>). In times of favorable weather conditions of high rainfall (favorable environment for laying eggs), outbreaks, upsurge and invasions usually occur threatening food security.</p>
+<p>On the flip side, insects have over the years been used as an alternative source of high-quality proteins, energy, fats and mineral elements. Together with migratory locusts, desert locusts are consumed for proteins and fats although research on its actual nutritive value has not been reported (<xref ref-type="bibr" rid="ref-39">Salama, 2020</xref>; <xref ref-type="bibr" rid="ref-37">Mariod, 2020</xref>). There is, therefore, need to investigate the actual nutritive value and the data obtained used to sensitize the society on the importance of such sources of food. Moreover, specific elements of the same can be used in fortification of staple foods like maize and rice in poor communities where malnutrition is rampant.</p>
+</sec>
+<sec>
+<title>Control of desert locusts</title>
+<p>Over the years, the control for desert locust outbreaks and invasion has been the use of organo-phosphorous insecticides such as the widely used chlorpyrifos. These compounds are not only harmful to humans and other living organisms but also pollute the environment contributing to the chlorofluorocarbon (CFCs) and global warming at large (<xref ref-type="bibr" rid="ref-17">Gillespie, Burnett &amp; Charnley, 2000</xref>). Therefore, researchers are advocating for better monitoring and alternative measures to synthetic pesticides to control these insects.</p>
+<p>First in the list of alternatives, are biopesticides. Research had shown that a fungus, <italic>Metarhizium anisopliae</italic> can kill desert locust by growing in the insect’s body. <xref ref-type="bibr" rid="ref-17">Gillespie, Burnett &amp; Charnley (2000)</xref> and his team reported that these entomopathogenic fungi kill the desert locust around day four and five of infection. Therefore, this bio control strategy although it is environmentally friendly, does not offer immediate results but can be used in combination with other control methods. Hence, further research on the appropriate combination of control strategies need to be done to establish the ones that will give optimal results.</p>
+<p>Recently, <xref ref-type="bibr" rid="ref-15">Galal &amp; Seufi (2020)</xref> characterized the microbial community present in the desert locust’s body. Using morphological data and molecular identification techniques, nine bacteria species were identified from the <italic>S. gregari</italic> adult body. The identified bacteria species were <italic>E. faecalis, L. paracasei Bacillus sp., S. epidermidis, Escherichia sp., Salmonella sp., Pluralibacter sp., Shimwellia spp</italic>; while one species was unclassified. However; further research on the role of the identified microbes on the survival of the locusts can give an insight on whether the said microbes can be used in the control of the locusts. In addition, further studies are needed to establish the inter-relationship between these microbes and the entomopathogenic fungi <italic>Metarhizium anisopliae</italic>.</p>
+<p>Another environmental friendly control strategy is the use of crude extracts from Jatropha (<italic>Jatropha curcas L</italic>.) and neem (<italic>Azadirachta indica A. Juss</italic>) which have been demonstrated to be toxic, antifeedant, and growth regulating compounds against nymph stage of the desert locusts (<xref ref-type="bibr" rid="ref-4">Bashir &amp; El Shafie, 2014</xref>). However, further investigation and fractionation of the extracts is required to characterize the specific compounds which are effective against desert locusts in these plants. There is also need to establish the effectiveness of these plant extracts on hopper stages of the locusts. Moreover, studies on the effect of combined extracts from both plants on the effect on the nymph and hopper stages of the locusts are yet to be reported.</p>
+</sec>
+</sec>
+<sec>
+<title>Gray leaf spot and turcicum leaf blight</title>
+<sec>
+<title>History of GLS and TLB to maize production</title>
+<p>Gray leaf spot (GLS) (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>) caused by <italic>Cercospora zea-maydis</italic> (<italic>C. zein-maydis</italic>) (<xref ref-type="bibr" rid="ref-54">Tehon &amp; Daniels, 1925</xref>), is a maize leaf disease that is a global threat to maize production. Molecular research shows that <italic>C. zea-maydis</italic> is mainly distributed in Brazil and African countries, and is predominant in the United States of America (<xref ref-type="bibr" rid="ref-61">Ward et al., 1999</xref>). In Kenya, GLS was first reported in 1993 in the Western region and has since spread to other maize growing areas in the country (<xref ref-type="bibr" rid="ref-10">Danson et al., 2008</xref>). Turcicum leaf blight (TLB) (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>), is distributed widely around the world and is caused by <italic>Helminthosporium turcicum</italic> affecting maize plants from seedling to harvest stages (<xref ref-type="bibr" rid="ref-25">Karavina, Mandumbu &amp; Mukaro, 2014</xref>). It is a serious problem in North Eastern United States, sub-Saharan Africa, and areas of China, Latin America, and India (<xref ref-type="bibr" rid="ref-123">Adipala, Takan &amp; Ogenga-latigo, 1995</xref>, <xref ref-type="bibr" rid="ref-13">Dharanendraswamy, 2003</xref>).</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.15685/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Photo of maize plants showing symptoms of Turcicum leaf blight (A) and (B) and Grey leaf spot, (C) and (D).</title>
+<p>Photo taken by Paul Njau at Naivasha, Kenya.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15685/fig-3.png"/>
+</fig>
+</sec>
+<sec>
+<title>Impact of GLS and TLB to maize production</title>
+<p>Documented yield losses attributed to GLS range from 11% to total yield loss in cases of severe infection (<xref ref-type="bibr" rid="ref-34">Liu et al., 2016</xref>). GLS disease is characterized by necrotic lesions leading to leaf senescence hence reducing the photosynthetic capacity of the plant. This reduced photosynthetic capacity is linked to poor grain filling and stalk lodging which ultimately lead to poor maize yield (<xref ref-type="bibr" rid="ref-16">Gethi et al., 2013</xref>).</p>
+<p>TLB is characterized by elliptical grey-green lesions which turn to tan with dark spots of sporulation as maturation continues and eventually leads to defoliation affecting grain yield as seen in GLS (<xref ref-type="bibr" rid="ref-124">Hooda et al., 2017</xref>). Yield losses range from 15% to 70% depending on the onset and severity of the infection (<xref ref-type="bibr" rid="ref-124">Hooda et al., 2017</xref>). Wet and humid weather conditions favor the spread and increase the severity of GLS and TLB (<xref ref-type="bibr" rid="ref-125">Jakhar et al., 2017</xref>). Crop yield losses threaten global food security especially in SSA where farming is the main source of livelihood.</p>
+</sec>
+<sec>
+<title>Control strategies for GLS and TLB</title>
+<p>The common control methods deployed for these two maize diseases are mainly cultural, chemical and host plant resistance. In the cultural approach, crop rotation and effective burying of the infected plants debris, have reduced the severity of infection in the subsequent round of planting. In addition, effective removal of the over-wintering infected debris, reduced the inoculum available for the next season hence reducing the infection pressure. Fungicides have also been used to control TLB and GLS though it’s less cost effective, leads to fungicide resistance and the continued use of chemicals has raised environmental concerns. Due to these drawbacks, cultural and chemical methods have proved to be uneconomical and unreliable especially for the poor small scale farmers.</p>
+<p>Host plant resistance therefore, remains the most viable and reliable method for the management of TLB and GLS. Breeders and researchers around the world have hence embarked on research aimed at identifying host resistant varieties for different biotic and abiotic stresses in different economically important crops. For instance, <xref ref-type="bibr" rid="ref-25">Karavina, Mandumbu &amp; Mukaro (2014)</xref>, identified three maize hybrid lines (053WH54, ZS225 and SR52) which were resistant to TLB diseases. In addition, GLS resistant genes were established in various researches (<xref ref-type="bibr" rid="ref-16">Gethi et al., 2013</xref>; <xref ref-type="bibr" rid="ref-28">Kuki et al., 2018</xref>; <xref ref-type="bibr" rid="ref-33">Lehmensiek et al., 2001</xref>).</p>
+<p>Due to increasing population and climate change, the demand for food is expected to increase. Therefore, there is need to search for more resistant maize lines for both biotic and abiotic stresses and give farmers a wide variety of maize lines. In recent decades, the invention of next-generation sequencing (NGS) technology and high throughput phenotyping platforms have paved ways for fast and effective means of identifying host resistance, molecular breeding and marker assisted selection. In addition, new biotechnological tools have made it possible to perform gene editing and produce superior breeds.</p>
+</sec>
+</sec>
+<sec>
+<title>Maize lethal necrosis</title>
+<sec>
+<title>History of MLN</title>
+<p>Maize lethal necrosis (MLN) (<xref ref-type="fig" rid="fig-4">Fig. 4</xref>) is a disease of maize that was first reported in Peru in 1973 and then in USA in 1976 (<xref ref-type="bibr" rid="ref-22">Hutchens, 1978</xref>). It is a viral disease caused by the synergistic interaction of <italic>Maize Chlorotic Mottle Virus</italic> (MCMV) and any of the viruses belonging to the <italic>potyviridae</italic> family (<xref ref-type="bibr" rid="ref-130">Eunice et al., 2021</xref>). The first report on MLN in the African continent was in Kenya in 2012 (<xref ref-type="bibr" rid="ref-60">Wangai et al., 2012</xref>). The disease was later reported in several other African countries (<xref ref-type="bibr" rid="ref-48">Semagn et al., 2015</xref>) including Uganda, Tanzania, Ethiopia, Rwanda, D.R Congo, and South Sudan (<xref ref-type="bibr" rid="ref-130">Eunice et al., 2021</xref>). These countries are known as MLN endemic countries.</p>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.15685/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Maize lethal necrosis.</title>
+<p>(A) MLN infected field under artificial inoculation at CIMMYT-KALRO MLN screening facility. (B) maize harvested from an MLN infected field in Kenya. Photo credit: Faith Njeru.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/15685/fig-4.png"/>
+</fig>
+<p><italic>Maize dwarf mosaic virus</italic> (MDMV) and <italic>wheat streak mosaic virus</italic> (WSMV) are the main potyviruses combining with MCMV to cause MLN in the USA (<xref ref-type="bibr" rid="ref-56">Uyemoto, Bockelman &amp; Claflin, 1980</xref>) while <italic>sugarcane mosaic virus</italic> (SCMV) has been implicated in MLN infections in Africa (<xref ref-type="bibr" rid="ref-36">Mahuku et al., 2015</xref>). Recently, a study by <xref ref-type="bibr" rid="ref-52">Stewart et al. (2017)</xref> showed the <italic>Johsongrass mosaic virus</italic> (JGMV) to cause MLN in co-infections with MCMV in East Africa. <italic>Maize yellow mosaic virus</italic> (MaYMV) has been discovered in deep sequencing studies in MLN-infected maize plants. However, it was shown that it does not cause MLN but it significantly enhances MLN symptoms such as stunting (<xref ref-type="bibr" rid="ref-51">Stewart &amp; Willie, 2021</xref>).</p>
+<p>Maize is the main natural host for MCMV; however, it has also been detected in millet, Johnsongrass, <italic>Digitaria</italic> sp., sedge, <italic>Setaria</italic> sp., and sugarcane (<xref ref-type="bibr" rid="ref-35">Mahuku, 2019</xref>). Common SCMV hosts reported in Africa include sugarcane, maize, sorghum, Kikuyu grass as well as other Poaceous plant species.</p>
+<p>A study conducted on the metagenomic analysis of viruses causing MLN in Kenya showed MCMV as the most prevalent virus in maize-growing regions in Kenya (<xref ref-type="bibr" rid="ref-57">Wamaitha et al., 2018</xref>). SCMV population in Kenya was shown to be diverse, consisting of numerous strains distantly related to isolates from other parts of the world (<xref ref-type="bibr" rid="ref-57">Wamaitha et al., 2018</xref>). Limited sequence divergence among MCMV isolates has been reported in population genetics studies (<xref ref-type="bibr" rid="ref-6">Braidwood et al., 2018</xref>). Phylogenetic analysis has shown similarity between MCMV isolates found in East Africa to those found in China (<xref ref-type="bibr" rid="ref-6">Braidwood et al., 2018</xref>).</p>
+</sec>
+<sec>
+<title>Losses caused by MLN on maize production</title>
+<p>Maize plants infected with MLN show more severe symptoms than plants infected with MCMV or SCMV alone (<xref ref-type="bibr" rid="ref-20">Gudero Mengesha, Kedir Mohammed &amp; Sultan Salo, 2019</xref>). MLN-infected plants show a wide range of symptoms depending on the maize variety, time of infection, and prevailing environmental conditions (<xref ref-type="bibr" rid="ref-38">Miano, 2014</xref>). The symptoms are: chlorotic mottle on leaves, developing from the base of young whorl leaves upward to the leaf tips; mild to severe leaf mottling; and necrosis (<xref ref-type="bibr" rid="ref-45">Prasanna et al., 2020</xref>). Necrosis of young leaves leads to a “dead heart” symptom, and plant death (<xref ref-type="bibr" rid="ref-60">Wangai et al., 2012</xref>). Severely affected plants have small cobs with little or no grain set (<xref ref-type="bibr" rid="ref-60">Wangai et al., 2012</xref>).</p>
+<p>Results from a community-based survey done by <xref ref-type="bibr" rid="ref-126">De Groote et al. (2016)</xref>, estimated the proportion of maize lost in the community, at 0.5 million tons per year, or 22% of the average annual production before MLN, with an estimated economic loss of $180 million (<xref ref-type="bibr" rid="ref-5">Beyene et al., 2017</xref>). The most affected region by MLN in maize production is Western Kenya with more than half of the farmers affected and with a 58% loss of maize (<xref ref-type="bibr" rid="ref-5">Beyene et al., 2017</xref>). Central and Eastern Kenya, had up to a third of the farmers affected and with 19% maize yield loss (<xref ref-type="bibr" rid="ref-5">Beyene et al., 2017</xref>). Many studies have estimated the losses due to MLN in different maize agro-ecological zones in Kenya to be between 23–100% (<xref ref-type="bibr" rid="ref-41">Njeru et al., 2022</xref>).</p>
+<p>Different studies have shown than MLN disease can completely wipe out maize plants leading to 100% loss in yield. This is especially devastating to millions of families and small holder farmers who depend on maize as a source of food and income. The effect of MLN is also felt by small and medium enterprises (SME’s) seed companies and processors (<xref ref-type="bibr" rid="ref-45">Prasanna et al., 2020</xref>). Demand for seed of commercial seed varieties declined when MLN was major epidemic with losses of sales for the companies (<xref ref-type="bibr" rid="ref-45">Prasanna et al., 2020</xref>).</p>
+<p>Due to the significant impact of MLN on the maize sector, International Maize and Wheat Improvement Center (CIMMYT) in collaboration with National Agricultural Research System (NARS) and National Plant protection Organization (NPPO) have put in place several mechanisms to prevent its further spread to the MLN non endemic countries where MLN/MCMV has not yet been reported (<xref ref-type="bibr" rid="ref-45">Prasanna et al., 2020</xref>). The mechanisms that have been put in place include diagnosis of MLN-causing viruses in maize seed, monitoring and surveillance of MLN across Africa, production and exchange of MLN pathogen free commercial maize seed (<xref ref-type="bibr" rid="ref-45">Prasanna et al., 2020</xref>).</p>
+</sec>
+<sec>
+<title>MLN epidemiology</title>
+<p>Sustainable control of plant diseases requires an understanding of the disease including the biology of the pathogens causing the disease, suitable environmental factors favoring host-pathogen interactions and vectors or any other means involved in the spread of the disease. Epidemiological studies on the spread of MLN have identified the spread of the disease from plant to plant and from field to field to be mainly through insect vectors (<xref ref-type="bibr" rid="ref-20">Gudero Mengesha, Kedir Mohammed &amp; Sultan Salo, 2019</xref>).</p>
+<p>Several insect vectors such as thrips, maize rootworms, leaf beetles and leaf hoppers have been associated with the spread of MCMV (<xref ref-type="bibr" rid="ref-20">Gudero Mengesha, Kedir Mohammed &amp; Sultan Salo, 2019</xref>). Aphids on the other hand are the main insect vectors associated with the spread of SCMV (<xref ref-type="bibr" rid="ref-7">Brault et al., 2010</xref>). Seed transmission of MCMV has been reported though at very low rates (0.03–0.33%). This may partly explain how MCMV has managed to travel across continents and countries. MLN has also been shown to be in the soil, irrigation water, and infected plant debris (<xref ref-type="bibr" rid="ref-26">Kinyungu et al., 2019</xref>; <xref ref-type="bibr" rid="ref-38">Miano, 2014</xref>).</p>
+</sec>
+<sec>
+<title>Disease diagnostics</title>
+<p>To detect MLN, you have to be able to detect both MCMV and SCMV (causative viruses for MLN). Commercial enzyme linked immunosorbent assay (ELISA) kits based on polyclonal antibodies are available for MCMV and SCMV detection. Monoclonal antibodies have also been developed and shown to have sensitive and specific detection of MCMV (<xref ref-type="bibr" rid="ref-127">Wu et al., 2013</xref>). Gene amplification techniques including reverse-transcriptase polymerase chain reaction (RT-PCR) (<xref ref-type="bibr" rid="ref-128">Awata et al., 2019</xref>) and reverse transcriptase loop mediated isothermal amplification (RT-LAMP) (<xref ref-type="bibr" rid="ref-129">Mwatuni et al., 2020</xref>) have been developed for MCMV and SCMV detection.</p>
+<p>Use of symptoms to tell the presence of MLN is challenging because symptoms caused by MLN viruses vary depending on the age of maize plant and environmental conditions. In addition, symptomless plants have been found to be MCMV positive. Therefore, diagnostic methods are significant to validate the presence of MCMV and SCMV.</p>
+</sec>
+<sec>
+<title>Control of MLN</title>
+<p>A study conducted by CIMMYT in collaboration with Kenya Agricultural and Livestock Research Organization (KALRO) between 2012 and 2014 found that, most of the maize germplasm had low levels of resistance to MLN (<xref ref-type="bibr" rid="ref-48">Semagn et al., 2015</xref>). Therefore, more than 95% of the inbred lines and hybrids grown by farmers in Kenya are susceptible to MLN (<xref ref-type="bibr" rid="ref-48">Semagn et al., 2015</xref>). With the continuous cultivation of maize throughout the year, this exacerbates the problem caused by MLN. Therefore, more research is needed to generate and release resistant hybrids to MLN.</p>
+<p>Breeding for resistance following the conventional method is time consuming and costly. Therefore, many researchers are applying genomic selection as a promising breeding tool to improve the efficiency and speed of the breeding process. MCMV resistance has been shown to occur in different chromosomal locations and five QTL for MCMV resistance have been found in chromosomes 3, 5, 6 and 10 (<xref ref-type="bibr" rid="ref-24">Jones et al., 2018</xref>).</p>
+<p>Both major QTL effects and multiple minor effects QTL for MCMV resistance were identified (<xref ref-type="bibr" rid="ref-24">Jones et al., 2018</xref>). Similar observations were made in a subsequent study by <xref ref-type="bibr" rid="ref-3">Awata et al. (2020)</xref> that identified QTL for resistance to MCMV in seven bi-parental populations where some QTL showed major effects in some populations and minor effects in other populations.</p>
+<p>To further understand the resistance mechanism of MCMV, <xref ref-type="bibr" rid="ref-24">Jones et al. (2018)</xref>, tested systemic leaf tissue from five inbred lines for the presence of MCMV and determined that ELISA responses for tissue of inoculated plants from the five lines and the susceptible control (Oh28) were similar. Therefore, only tolerance to MCMV have been identified rather than resistance. The responses of MCMV and SCMV viruses are not linked as the SCMV-resistant line Pa405 had no resistance to MCMV (<xref ref-type="bibr" rid="ref-24">Jones et al., 2018</xref>).</p>
+<p>MLN is a complex disease with multiple reservoirs and transmission pathways. There is need for continued investigation on the molecular basis for resistance to MLN, interactions between MCMV and SCMV for deployment of resistant varieties especially in areas where subsistent farmers’ depend on continuous maize crop for food.</p>
+</sec>
+</sec>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>Maize is a key cereal crop in Kenya and it associated with food security not only in Kenya but also in Sub-Saharan Africa. The average maize yield in Kenya is far below the global average because of biotic and abiotic stresses which puts a strain on production. Transboundary diseases and pests are significantly increasing putting a strain on food and income security of millions of small-holder farmers.</p>
+<p>In as much as these new diseases have previously been reported elsewhere, research is needed in Kenya so that the extent of the economic losses can be clearly defined and also new strategies to control and prevent these disease which are adaptable to the small holder setting in Kenya can be adapted.</p>
+<p>With the lifting of the ban on use and cultivation of GMO in Kenya on October 2022, it is expected that researchers will use this technology to fast-track the release of improved maize varieties resistant to pests and diseases.</p>
+<sec>
+<title>Future perspectives</title>
+<p>Maize is an important crop not only in Kenya but Sub-Saharan Africa at large. Therefore, the effect of biotic stresses has become a burden to especially the small-scale farmers. Hence, sustainable means of dealing with these are important for a food secure country. First, the available new technological advances and breeding methods should be applied to provide farmers with plant host resistance breeds and environmentally friendly control measures. Also, in most instances, these biotic stresses are detected too late. Improved technologies should therefore be used to develop early detection methods.</p>
+<p>There is also a need to build a regional collective response to invasive pests and trans-boundary diseases.</p>
+<p>Finally, there is a need to sensitize society on alternative crops to maize which is more tolerant to the pest and have superior nutritive value such as sorghum and millet.</p>
+</sec>
+</sec>
+</body>
+<back>
+<ack>
+<p>We would wish to acknowledge Dr. Erik Ohlson of Agricultural Research Service, US Department of Agriculture, corn, soybean and wheat quality research, Wooster, Ohio for reading the review article and giving his inputs and corrections and Dr. Alexander Mzula of Sokoine University of Agriculture (SUA) for his inputs and review of the article. The findings and conclusions of this study are those of the authors and do not necessarily represent the views of the funders.</p>
+</ack>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Faith Njeru</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">Angeline Wambua</xref> conceived and designed the experiments, analyzed the data, prepared figures and/or tables, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-3">
+<p><xref ref-type="contrib" rid="author-3">Edward Muge</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-4">
+<p><xref ref-type="contrib" rid="author-4">Geert Haesaert</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-5">
+<p><xref ref-type="contrib" rid="author-5">Jan Gettemans</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-6">
+<p><xref ref-type="contrib" rid="author-6">Gerald Misinzo</xref> conceived and designed the experiments, authored or reviewed drafts of the article, and approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>All data is available in the figures and text.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-123">
+<label>Adipala, Takan &amp; Ogenga-latigo (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Adipala</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Takan</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Ogenga-latigo</surname>
+<given-names>MW</given-names>
+</name>
+</person-group>
+<article-title>Effect of plant density of maize on the progress and spread of northern leaf blight from Exserohilum turcicum infested residue source</article-title>
+<source>European Journal of Plant Pathology</source>
+<year iso-8601-date="1995">1995</year>
+<volume>101</volume>
+<fpage>23</fpage>
+<lpage>33</lpage>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Awata et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Awata</surname>
+<given-names>LAO</given-names>
+</name>
+<name>
+<surname>Beyene</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Gowda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Suresh</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Jumbo</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Tongoona</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Prasanna</surname>
+<given-names>BM</given-names>
+</name>
+</person-group>
+<article-title>Genetic analysis of QTL for resistance to maize lethal necrosis in multiple mapping populations</article-title>
+<source>Genes</source>
+<year iso-8601-date="2020">2020</year>
+<volume>11</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.3390/genes11010032</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-128">
+<label>Awata et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Awata</surname>
+<given-names>LAO</given-names>
+</name>
+<name>
+<surname>Ifie</surname>
+<given-names>BE</given-names>
+</name>
+<name>
+<surname>Tongoona</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Danquah</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Jumbo</surname>
+<given-names>MB</given-names>
+</name>
+<name>
+<surname>Gowda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Marchelo-D'ragga</surname>
+<given-names>PW</given-names>
+</name>
+<name>
+<surname>Sitonik</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Suresh</surname>
+<given-names>LM</given-names>
+</name>
+</person-group>
+<article-title>Maize lethal necrosis and the molecular basis of variability in concentrations of the causal viruses in co-infected maize plant</article-title>
+<source>Journal of General and Molecular Virology</source>
+<year iso-8601-date="2019">2019</year>
+<volume>9</volume>
+<issue>1</issue>
+<pub-id pub-id-type="doi">10.5897/JGMV2019.0073</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-118">
+<label>Bateman et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bateman</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Day</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Luke</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Edgington</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ulrich</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Matthew</surname>
+<given-names>JWC</given-names>
+</name>
+</person-group>
+<article-title>Assessment of potential biopesticide options for managing fall armyworm (<italic>Spodoptera frugiperda</italic>) in Africa</article-title>
+<source>Journal of Applied Entomology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>142</volume>
+<fpage>805</fpage>
+<lpage>819</lpage>
+<pub-id pub-id-type="doi">10.1111/jen.12565</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Bashir &amp; El Shafie (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bashir</surname>
+<given-names>EM</given-names>
+</name>
+<name>
+<surname>El Shafie</surname>
+<given-names>HA</given-names>
+</name>
+</person-group>
+<article-title>Toxicity, antifeedant and growth regulating potential of three plant extracts against the desert locust Schistocerca gregaria Forskal (Orthoptera: Acrididae)</article-title>
+<source>Journal of Experimental Agriculture International</source>
+<year iso-8601-date="2014">2014</year>
+<volume>4</volume>
+<issue>8</issue>
+<fpage>959</fpage>
+<lpage>970</lpage>
+<pub-id pub-id-type="doi">10.9734/AJEA/2014/4855</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-119">
+<label>Baudron et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baudron</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Zaman-Allah</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Chaipa</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Chari</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Chinwada</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Understanding the factors influencing fall armyworm (<italic>Spodoptera Frugiperda</italic> J.E. Smith) damage in African smallholder maize fields and quantifying its impact on yield. A case study in Eastern Zimbabwe</article-title>
+<source>Crop Protection</source>
+<year iso-8601-date="2019">2019</year>
+<volume>120</volume>
+<fpage>141</fpage>
+<lpage>150</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cropro.2019.01.028</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-112">
+<label>Bernardi et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bernardi</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Salmeron</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Horikoshi</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Bernardi</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Dourado</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Carvalho</surname>
+<given-names>RA</given-names>
+</name>
+<name>
+<surname>Martinelli</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Head</surname>
+<given-names>GP</given-names>
+</name>
+<name>
+<surname>Omoto</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Cross-resistance between Cry1 proteins in fall armyworm (<italic>Spodoptera frugiperda</italic>) may affect the durability of current pyramided Bt maize hybrids in Brazil</article-title>
+<source>PLOS ONE</source>
+<volume>10</volume>
+<issue>10</issue><year iso-8601-date="2015">2015</year>
+<elocation-id>e0140130</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0140130</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Beyene et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Beyene</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Gowda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Stephen</surname>
+<given-names>LMS</given-names>
+</name>
+<name>
+<surname>Olsen</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Oikeh</surname>
+<given-names>SO</given-names>
+</name>
+<name>
+<surname>Juma</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Prasanna</surname>
+<given-names>BM</given-names>
+</name>
+</person-group>
+<article-title>Genetic analysis of tropical maize inbred lines for resistance to maize lethal necrosis disease</article-title>
+<source>Euphytica</source>
+<year iso-8601-date="2017">2017</year>
+<volume>213</volume>
+<issue>9</issue>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1007/s10681-017-2012-3</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Braidwood et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Braidwood</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Quito-Avila</surname>
+<given-names>DF</given-names>
+</name>
+<name>
+<surname>Cabanas</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Bressan</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Wangai</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Baulcombe</surname>
+<given-names>DC</given-names>
+</name>
+</person-group>
+<article-title>Maize chlorotic mottle virus exhibits low divergence between differentiated regional sub-populations</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2018">2018</year>
+<volume>8</volume>
+<issue>1</issue>
+<fpage>1173</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-018-19607-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Brault et al. (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brault</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Uzest</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Monsion</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Jacquot</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Blanc</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Aphids as transport devices for plant viruses</article-title>
+<source>Comptes Rendus Biologies</source>
+<year iso-8601-date="2010">2010</year>
+<volume>333</volume>
+<issue>6–7</issue>
+<fpage>524</fpage>
+<lpage>538</lpage>
+<pub-id pub-id-type="doi">10.1016/j.crvi.2010.04.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Burtet et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Burtet</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Bernardi</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Melo</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Pes</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Strahl</surname>
+<given-names>TT</given-names>
+</name>
+<name>
+<surname>Guedes</surname>
+<given-names>JVC</given-names>
+</name>
+</person-group>
+<article-title>Managing fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae), with Bt maize and insecticides in southern Brazil</article-title>
+<source>Pest Management Science</source>
+<year iso-8601-date="2017">2017</year>
+<volume>73</volume>
+<issue>12</issue>
+<fpage>2569</fpage>
+<lpage>2577</lpage>
+<pub-id pub-id-type="doi">10.1002/ps.4660</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Capinera (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Capinera</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Capinera</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<article-title>Fall armyworm, <italic>Spodoptera frugiperda</italic> (J.E. Smith) (Lepidoptera: Noctuidae)</article-title>
+<source>Encyclopedia of Entomology</source>
+<year iso-8601-date="2008">2008</year>
+<publisher-loc>Dordrecht</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<pub-id pub-id-type="doi">10.1007/978-1-4020-6359-6_3747</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Danson et al. (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Danson</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lagat</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kimani</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Kuria</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Quantitative trait loci (QTLs) for resistance to gray leaf spot and common rust diseases of maize</article-title>
+<source>African Journal of Biotechnology</source>
+<year iso-8601-date="2008">2008</year>
+<volume>7</volume>
+<issue>18</issue>
+<fpage>3247</fpage>
+<lpage>3254</lpage>
+</element-citation>
+</ref>
+<ref id="ref-11">
+<label>De Groote et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Groote</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Kimenju</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Munyua</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Palmas</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kassie</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Bruce</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Spread and impact of fall armyworm (Spodoptera frugiperda JE Smith) in maize production areas of Kenya</article-title>
+<source>Agriculture, Ecosystems &amp; Environment</source>
+<year iso-8601-date="2020">2020</year>
+<volume>292</volume>
+<issue>318</issue>
+<fpage>106804</fpage>
+<pub-id pub-id-type="doi">10.1016/j.agee.2019.106804</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-126">
+<label>De Groote et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>De Groote</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Oloo</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Tongruksawattana</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Das</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Community-survey based assessment of the geographic distribution and impact of maize lethal necrosis (MLN) disease in Kenya</article-title>
+<source>Crop Protection</source>
+<year iso-8601-date="2016">2016</year>
+<volume>82</volume>
+<fpage>30</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cropro.2015.12.003</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Devi (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Devi</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Fall armyworm threatens food security in southern Africa</article-title>
+<source>Lancet (London, England)</source>
+<year iso-8601-date="2018">2018</year>
+<volume>391</volume>
+<issue>10122</issue>
+<fpage>727</fpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(18)30431-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>Dharanendraswamy (2003)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Dharanendraswamy</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Studies on turcicum leaf blight of maize caused by Exserohilum turcicum</article-title>
+<year iso-8601-date="2003">2003</year>
+<comment>M.Sc. (Agri.) Thesis</comment>
+<publisher-loc>Dharwad</publisher-loc>
+<publisher-name>University of Agricultural Sciences</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-130">
+<label>Eunice et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Eunice</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Miano</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Mutitu</surname>
+<given-names>WM</given-names>
+</name>
+<name>
+<surname>Mutitu</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Macharia</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Status of maize lethal necrosis disease in seed production system in Kenya</article-title>
+<source>Cogent Food and Agriculture</source>
+<year iso-8601-date="2021">2021</year>
+<volume>7</volume>
+<issue>1</issue>
+<pub-id pub-id-type="doi">10.1080/23311932.2021.1918406</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-116">
+<label>Fallet et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fallet</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Bazagwira</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Guenat</surname>
+<given-names>JM</given-names>
+</name>
+<name>
+<surname>Bustos-Segura</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Karangwa</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Mukundwa</surname>
+<given-names>IP</given-names>
+</name>
+<name>
+<surname>Kajuga</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Degen</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Toepfer</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Turlings</surname>
+<given-names>TCJ</given-names>
+</name>
+</person-group>
+<article-title>Laboratory and field trials reveal the potential of a gel formulation of entomopathogenic nematodes for the biological control of fall armyworm caterpillars (<italic>Spodoptera frugiperda</italic>)</article-title>
+<source>Biological Control</source>
+<year iso-8601-date="2022">2022</year>
+<volume>176</volume>
+<fpage>105086</fpage>
+<pub-id pub-id-type="doi">10.1016/j.biocontrol.2022.105086</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-101">
+<label>FAO (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>FAO</collab>
+</person-group>
+<article-title>Faostat</article-title>
+<year iso-8601-date="2018">2018</year>
+<publisher-loc>Rome, Italy</publisher-loc>
+<publisher-name>Food and Agriculture Organization of the United Nations</publisher-name><uri>http://www.fao.org/faostat/en/#data</uri>
+</element-citation>
+</ref>
+<ref id="ref-122">
+<label>FAO (1994)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>FAO</collab>
+</person-group>
+<article-title>Faostat</article-title>
+<year iso-8601-date="1994">1994</year>
+<publisher-loc>Rome, Italy</publisher-loc>
+<publisher-name>Food and Agriculture Organization of the United Nations</publisher-name><uri>http://www.fao.org/faostat/en/#data</uri>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Galal &amp; Seufi (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Galal</surname>
+<given-names>FH</given-names>
+</name>
+<name>
+<surname>Seufi</surname>
+<given-names>AM</given-names>
+</name>
+</person-group>
+<article-title>Molecular characterization of cultivable bacteria associated with adult Schistocerca gregaria, using 16S rRNA</article-title>
+<source>Journal of Taibah University for Science</source>
+<year iso-8601-date="2020">2020</year>
+<volume>14</volume>
+<issue>1</issue>
+<fpage>605</fpage>
+<lpage>614</lpage>
+<pub-id pub-id-type="doi">10.1080/16583655.2020.1760537</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Gethi et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gethi</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Mukunya</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Githiri</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Nzuve</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title>Combining abilities of maize inbred lines for grey leaf spot (GLS), grain yield and selected agronomic traits in Kenya</article-title>
+<source>Journal of Plant Breeding and Crop Science</source>
+<year iso-8601-date="2013">2013</year>
+<volume>5</volume>
+<issue>3</issue>
+<fpage>41</fpage>
+<lpage>47</lpage>
+<pub-id pub-id-type="doi">10.5897/JPBCS12.056</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Gillespie, Burnett &amp; Charnley (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gillespie</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Burnett</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Charnley</surname>
+<given-names>AK</given-names>
+</name>
+</person-group>
+<article-title>The immune response of the desert locust Schistocerca gregaria during mycosis of the entomopathogenic fungus, Metarhizium anisopliae var acridum</article-title>
+<source>Journal of Insect Physiology</source>
+<year iso-8601-date="2000">2000</year>
+<volume>46</volume>
+<issue>4</issue>
+<fpage>429</fpage>
+<lpage>437</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-1910(99)00128-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-108">
+<label>Goergen et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Goergen</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>PL</given-names>
+</name>
+<name>
+<surname>Sankung</surname>
+<given-names>SB</given-names>
+</name>
+<name>
+<surname>Togola</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Tamò</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>First report of outbreaks of the fall armyworm <italic>Spodoptera frugiperda</italic> (JE Smith) (Lepidoptera, Noctuidae), a new alien invasive pest in west and central Africa</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2016">2016</year>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0165632</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Gudero Mengesha, Kedir Mohammed &amp; Sultan Salo (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gudero Mengesha</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Kedir Mohammed</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Sultan Salo</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Management of maize lethal necrosis disease through hand weeding and insecticide applications at Arba Minch in Southern Ethiopia</article-title>
+<source>Cogent Food &amp; Agriculture</source>
+<year iso-8601-date="2019">2019</year>
+<volume>5</volume>
+<issue>1</issue>
+<fpage>1705746</fpage>
+<pub-id pub-id-type="doi">10.1080/23311932.2019.1705746</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-115">
+<label>Guo et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Guo</surname>
+<given-names>ZM</given-names>
+</name>
+<name>
+<surname>Deng</surname>
+<given-names>XQ</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Yuan</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Wan</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>JH</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>KS</given-names>
+</name>
+</person-group>
+<article-title>Detection of insecticide sensitivity and target site mutations in field populations of Spodoptera frugiperda (Lepidoptera: Journal Noctuidae) in four regions of Hubei, Central China</article-title>
+<source>Acta Entomologica Sinica</source>
+<year iso-8601-date="2020">2020</year>
+<volume>63</volume>
+<fpage>582</fpage>
+<lpage>589</lpage>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Herrington et al. (2014)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Herrington</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Schuster</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ag.Bldg</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Lewis</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<source>Mycotoxin levels associated with Fall Armyworm (Spodoptera frugiperda) and Corn Earworm (Helicoverpa zea) Infested Corn</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Dallas, TX</publisher-loc>
+<publisher-name>ASA Southern Regional Branch</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-124">
+<label>Hooda et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hooda</surname>
+<given-names>KS</given-names>
+</name>
+<name>
+<surname>Khokhar</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Shekhar</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Karjagi</surname>
+<given-names>CG</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Mallikarjuna</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Yadav</surname>
+<given-names>OP</given-names>
+</name>
+</person-group>
+<article-title>Turcicum leaf blight—sustainable management of a re-emerging maize disease</article-title>
+<source>Journal of Plant Diseases and Protection</source>
+<year iso-8601-date="2017">2017</year>
+<comment>Springer Berlin Heidelberg</comment>
+<pub-id pub-id-type="doi">10.1007/s41348-016-0054-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-114">
+<label>Hruska (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hruska</surname>
+<given-names>AJ</given-names>
+</name>
+</person-group>
+<article-title>Fall armyworm (<italic>Spodoptera frugiperda</italic>) management by smallholders</article-title>
+<source>CABI Digital Library Reviews</source>
+<year iso-8601-date="2019">2019</year>
+<volume>14</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1079/PAVSNNR201914043</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>Hutchens (1978)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Hutchens</surname>
+<given-names>NJ</given-names>
+</name>
+</person-group>
+<article-title>Effect of cultural practices on control of maize chlorotic mottle virus and beetle larvae virus transmission studies</article-title>
+<year iso-8601-date="1978">1978</year>
+<publisher-name>Masters thesis. Kansas state University, Manhattan</publisher-name><uri>http://hdl.handle.net/2097/12573</uri>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>Indexmundi (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Indexmundi</collab>
+</person-group>
+<article-title>Kenya corn domestic consumption by year</article-title>
+<year iso-8601-date="2018">2018</year><uri>https://www.indexmundi.com/agriculture/?country=ke&amp;commodity=corn&amp;graph=domestic-consumption</uri>
+</element-citation>
+</ref>
+<ref id="ref-125">
+<label>Jakhar et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jakhar</surname>
+<given-names>DS</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Pargat Singh</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Ojha</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Turcicum leaf blight: a ubiquitous foliar disease of maize (<italic>Zea mays</italic> L.)</article-title>
+<source>International Journal of Current Microbiology and Applied Sciences</source>
+<year iso-8601-date="2017">2017</year>
+<volume>6</volume>
+<issue>3</issue>
+<fpage>825</fpage>
+<lpage>831</lpage>
+<pub-id pub-id-type="doi">10.20546/ijcmas.2017.603.097</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Jones et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Penning</surname>
+<given-names>BW</given-names>
+</name>
+<name>
+<surname>Jamann</surname>
+<given-names>TM</given-names>
+</name>
+<name>
+<surname>Glaubitz</surname>
+<given-names>JC</given-names>
+</name>
+<name>
+<surname>Romay</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Buckler</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Redinbaugh</surname>
+<given-names>MG</given-names>
+</name>
+</person-group>
+<article-title>Diverse chromosomal locations of quantitative trait loci for tolerance to maize chlorotic mottle virus in five maize populations</article-title>
+<source>Phytopathology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>108</volume>
+<issue>6</issue>
+<fpage>748</fpage>
+<lpage>758</lpage>
+<pub-id pub-id-type="doi">10.1094/PHYTO-09-17-0321-R</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-109">
+<label>Kansiime et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kansiime</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Mugambi</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Rwomushana</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Nunda</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Lamontagne-Godwin</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Rware</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Phiri</surname>
+<given-names>NA</given-names>
+</name>
+<name>
+<surname>Chipabika</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Ndlovu</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Day</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Farmer perception of fall armyworm (<italic>Spodoptera frugiderda</italic> J.E. Smith) and farm-level management practices in Zambia</article-title>
+<source>Pest Management Science</source>
+<year iso-8601-date="2019">2019</year>
+<volume>75</volume>
+<issue>10</issue>
+<fpage>2840</fpage>
+<lpage>2850</lpage>
+<pub-id pub-id-type="doi">10.1002/ps.5504</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Karavina, Mandumbu &amp; Mukaro (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Karavina</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Mandumbu</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Mukaro</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Evaluation of three-way maize (<italic>Zea mays</italic> L) hybrids for yield and resistance to maize streak virus and turcicum leaf blight diseases</article-title>
+<source>Journal of Animal and Plant Sciences</source>
+<year iso-8601-date="2014">2014</year>
+<volume>24</volume>
+<issue>1</issue>
+<fpage>216</fpage>
+<lpage>220</lpage>
+</element-citation>
+</ref>
+<ref id="ref-113">
+<label>Kasoma et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kasoma</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Shimelis</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Laing</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Shayanowako</surname>
+<given-names>AIT</given-names>
+</name>
+<name>
+<surname>Mathew</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Screening of inbred lines of tropical maize for resistance to fall armyworm, and for yield and yield-related traits</article-title>
+<source>Crop Protection</source>
+<year iso-8601-date="2020">2020</year>
+<volume>136</volume>
+<fpage>105218</fpage>
+<pub-id pub-id-type="doi">10.1016/j.cropro.2020.105218</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-121">
+<label>Kemunto et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kemunto</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Omuse</surname>
+<given-names>ER</given-names>
+</name>
+<name>
+<surname>Mfuti</surname>
+<given-names>DK</given-names>
+</name>
+<name>
+<surname>Tamiru</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hailu</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Rwiza</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Belayneh</surname>
+<given-names>YT</given-names>
+</name>
+<name>
+<surname>Subramanian</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Niassy</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Effect of rabbit urine on the larval behavior, larval mortality, egg hatchability, adult emergence and oviposition preference of the fall armyworm (<italic>Spodoptera frugiperda</italic> J.E. Smith)</article-title>
+<source>Agriculture</source>
+<year iso-8601-date="2022">2022</year>
+<volume>12</volume>
+<issue>8</issue>
+<fpage>1282</fpage>
+<comment>MDPI AG</comment>
+<pub-id pub-id-type="doi">10.3390/agriculture12081282</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Kinyungu et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kinyungu</surname>
+<given-names>TN</given-names>
+</name>
+<name>
+<surname>Muthomi</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Subramanian</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Miano</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Olubayo</surname>
+<given-names>FM</given-names>
+</name>
+<name>
+<surname>Maobe</surname>
+<given-names>MA</given-names>
+</name>
+</person-group>
+<article-title>Role of maize residues in transmission of maize chlorotic mottle virus and effect on yield</article-title>
+<source>International Journal of Biosciences</source>
+<year iso-8601-date="2019">2019</year>
+<volume>14</volume>
+<issue>4</issue>
+<fpage>338</fpage>
+<lpage>349</lpage>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Kuki et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kuki</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Scapim</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Rossi</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Mangolin</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Amaral Júnior</surname>
+<given-names>ATD</given-names>
+</name>
+<name>
+<surname>Pinto</surname>
+<given-names>RJB</given-names>
+</name>
+</person-group>
+<article-title>Genome wide association study for gray leaf spot resistance in tropical maize core</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2018">2018</year>
+<volume>13</volume>
+<issue>6</issue>
+<elocation-id>e0199539</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0199539</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Kumela et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kumela</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Simiyu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Sisay</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Likhayo</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Mendesil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Gohole</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Tefera</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Farmers’ knowledge, perceptions, and management practices of the new invasive pest, fall armyworm (Spodoptera frugiperda) in Ethiopia and Kenya</article-title>
+<source>International Journal of Pest Management</source>
+<year iso-8601-date="2019">2019</year>
+<volume>65</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1080/09670874.2017.1423129</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Kusia (2018)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Kusia</surname>
+<given-names>ES</given-names>
+</name>
+</person-group>
+<article-title>Characterization of Maize chlorotic mottle virus and Sugarcane mosaic virus causing maize lethal necrosis disease and spatial distribution of their alternative hosts in Kenya</article-title>
+<year iso-8601-date="2018">2018</year>
+<comment>Doctoral dissertation, JKUAT-PAUSTI</comment>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Lecoq (2003)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Lecoq</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<source>Desert locust threat to agricultural development and food security and FAO/international role in its control</source>
+<year iso-8601-date="2003">2003</year>
+<publisher-loc>Beirut</publisher-loc>
+<publisher-name>Arab Society for Plant Protection</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Lehmensiek et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lehmensiek</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Esterhuizen</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Van Staden</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Nelson</surname>
+<given-names>SW</given-names>
+</name>
+<name>
+<surname>Retief</surname>
+<given-names>AE</given-names>
+</name>
+</person-group>
+<article-title>Genetic mapping of gray leaf spot (GLS) resistance genes in maize</article-title>
+<source>Theoretical and Applied Genetics</source>
+<year iso-8601-date="2001">2001</year>
+<volume>103</volume>
+<issue>5</issue>
+<fpage>797</fpage>
+<lpage>803</lpage>
+<pub-id pub-id-type="doi">10.1007/s001220100599</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Liu et al. (2016)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Liu</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>YD</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>HY</given-names>
+</name>
+<name>
+<surname>Bi</surname>
+<given-names>YQ</given-names>
+</name>
+<name>
+<surname>Yu</surname>
+<given-names>LJ</given-names>
+</name>
+<name>
+<surname>Fan</surname>
+<given-names>XM</given-names>
+</name>
+<name>
+<surname>Tan</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Jeffers</surname>
+<given-names>DP</given-names>
+</name>
+<name>
+<surname>Kang</surname>
+<given-names>MS</given-names>
+</name>
+</person-group>
+<article-title>QTL mapping for gray leaf spot resistance in a tropical maize population</article-title>
+<source>Plant Disease</source>
+<year iso-8601-date="2016">2016</year>
+<volume>100</volume>
+<issue>2</issue>
+<fpage>304</fpage>
+<lpage>312</lpage>
+<pub-id pub-id-type="doi">10.1094/PDIS-08-14-0825-RE</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Mahuku (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mahuku</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>First report of maize chlorotic mottle virus and maize lethal necrosis on maize in Ethiopia</article-title>
+<source>Plant Disease</source>
+<year iso-8601-date="2019">2019</year>
+<volume>2014</volume>
+<issue>12</issue>
+<fpage>15</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1094/PDIS-04-15-0373-PDN</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Mahuku et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mahuku</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Lockhart</surname>
+<given-names>BE</given-names>
+</name>
+<name>
+<surname>Wanjala</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>MW</given-names>
+</name>
+<name>
+<surname>Kimunye</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Stewart</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Cassone</surname>
+<given-names>BJ</given-names>
+</name>
+<name>
+<surname>Sevgan</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Nyasani</surname>
+<given-names>JO</given-names>
+</name>
+<name>
+<surname>Kusia</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>PL</given-names>
+</name>
+<name>
+<surname>Niblett</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Kiggundu</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Asea</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Pappu</surname>
+<given-names>HR</given-names>
+</name>
+<name>
+<surname>Wangai</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Prasanna</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Redinbaugh</surname>
+<given-names>MG</given-names>
+</name>
+</person-group>
+<article-title>Maize lethal necrosis (MLN), an emerging threat to maize-based food security in Sub-Saharan Africa</article-title>
+<source>Phytopathology</source>
+<year iso-8601-date="2015">2015</year>
+<volume>105</volume>
+<issue>7</issue>
+<fpage>956</fpage>
+<lpage>965</lpage>
+<pub-id pub-id-type="doi">10.1094/PHYTO-12-14-0367-FI</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-106">
+<label>Marenya et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marenya</surname>
+<given-names>PP</given-names>
+</name>
+<name>
+<surname>Wanyama</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Alemu</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Woyengo</surname>
+<given-names>V</given-names>
+</name>
+</person-group>
+<article-title>Building resilient maize production systems with stress-adapted varieties: farmers’ priorities in Western Kenya</article-title>
+<source>Frontiers in Sustainable Food Systems</source>
+<year iso-8601-date="2022">2022</year>
+<volume>6</volume>
+<issue>June</issue>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.3389/fsufs.2022.702405</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-37">
+<label>Mariod (2020)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Mariod</surname>
+<given-names>AA</given-names>
+</name>
+</person-group>
+<article-title>Nutrient composition of desert locust (Schistocerca gregaria)</article-title>
+<source>African Edible Insects as Alternative Source of Food, Oil, Protein and Bioactive Components</source>
+<year iso-8601-date="2020">2020</year>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>257</fpage>
+<lpage>263</lpage>
+</element-citation>
+</ref>
+<ref id="ref-120">
+<label>Matova et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Matova</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Kamutando</surname>
+<given-names>CN</given-names>
+</name>
+<name>
+<surname>Magorokosho</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Kutywayo</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Gutsa</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Labuschagne</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Fall-armyworm invasion, control practices and resistance breeding in Sub-Saharan Africa</article-title>
+<source>Crop Science</source>
+<year iso-8601-date="2020">2020</year>
+<volume>60</volume>
+<issue>6</issue>
+<fpage>2951</fpage>
+<lpage>2970</lpage>
+<pub-id pub-id-type="doi">10.1002/csc2.20317</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-38">
+<label>Miano (2014)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Miano</surname>
+<given-names>DW</given-names>
+</name>
+</person-group>
+<source>Maize lethal necrosis disease: a real threat to food security in the eastern and central Africa region</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Kenya</publisher-loc>
+<publisher-name>University of Nairobi</publisher-name><uri>http://hdl.handle.net/11295/79053</uri>
+</element-citation>
+</ref>
+<ref id="ref-107">
+<label>Mutyambai et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mutyambai</surname>
+<given-names>DM</given-names>
+</name>
+<name>
+<surname>Niassy</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Calatayud</surname>
+<given-names>P-A</given-names>
+</name>
+<name>
+<surname>Subramanian</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Agronomic factors influencing fall armyworm (<italic>Spodoptera frugiperda</italic>) infestation and damage and its co-occurrence with stemborers in maize cropping systems in Kenya</article-title>
+<source>Insects</source>
+<year iso-8601-date="2022">2022</year>
+<volume>13</volume>
+<issue>3</issue>
+<fpage>266</fpage>
+<comment>MDPI AG</comment>
+<pub-id pub-id-type="doi">10.3390/insects13030266</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-129">
+<label>Mwatuni et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mwatuni</surname>
+<given-names>FM</given-names>
+</name>
+<name>
+<surname>Radinbaugh</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Ma</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Nyende</surname>
+<given-names>AB</given-names>
+</name>
+<name>
+<surname>Suresh</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Obare</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>A two-end point analysis reverse transcription loop-mediated isothermal amplification (RT-LAMP) assay for the detection of maize chlorotic mottle virus (MCMV)</article-title>
+<source>Journal of General and Molecular Virology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>10</volume>
+<issue>2</issue>
+<fpage>9</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.5897/jgmv2020.0077</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-40">
+<label>Nboyine et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nboyine</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Kusi</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Abudulai</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Badii</surname>
+<given-names>BK</given-names>
+</name>
+<name>
+<surname>Zakaria</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Adu</surname>
+<given-names>GB</given-names>
+</name>
+<name>
+<surname>Yahaya</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>A new pest, Spodoptera frugiperda (JE Smith), in tropical Africa: its seasonal dynamics and damage in maize fields in northern Ghana</article-title>
+<source>Crop Protection</source>
+<year iso-8601-date="2020">2020</year>
+<volume>127</volume>
+<fpage>104960</fpage>
+<pub-id pub-id-type="doi">10.1016/j.cropro.2019.104960</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-41">
+<label>Njeru et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Njeru</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Mwaura</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kusolwa</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Misinzo</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Maize production systems, farmers’ perception and current status of maize lethal necrosis in selected counties in Kenya</article-title>
+<source>All Life</source>
+<year iso-8601-date="2022">2022</year>
+<volume>15</volume>
+<issue>1</issue>
+<fpage>692</fpage>
+<lpage>705</lpage>
+<pub-id pub-id-type="doi">10.1080/26895293.2022.2085815</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-42">
+<label>Odendo, De Groote &amp; Odongo (2001)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Odendo</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>De Groote</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Odongo</surname>
+<given-names>OM</given-names>
+</name>
+</person-group>
+<article-title>Assessment of farmers’ preferences and constraints to maize production in moist midaltitude zone of Western Kenya</article-title>
+<year iso-8601-date="2001">2001</year><conf-name>Paper Presented at the 5th International Conference of the African Crop Science Society</conf-name>
+<fpage>21</fpage>
+<lpage>26</lpage>
+</element-citation>
+</ref>
+<ref id="ref-111">
+<label>Osabutey et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Osabutey</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Seo</surname>
+<given-names>BY</given-names>
+</name>
+<name>
+<surname>Kim</surname>
+<given-names>A-Y</given-names>
+</name>
+<name>
+<surname>Ha</surname>
+<given-names>TAT</given-names>
+</name>
+<name>
+<surname>Jung</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Goergen</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Owusu</surname>
+<given-names>EO</given-names>
+</name>
+<name>
+<surname>Lee</surname>
+<given-names>G-S</given-names>
+</name>
+<name>
+<surname>Koh</surname>
+<given-names>YH</given-names>
+</name>
+</person-group>
+<article-title>Identification of a fall armyworm (<italic>Spodoptera frugiperda</italic>)-specific gene and development of a rapid and sensitive loop-mediated isothermal amplification assay</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2022">2022</year>
+<volume>12</volume>
+<fpage>874</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-022-04871-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-44">
+<label>Prasanna et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Prasanna</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Huesing</surname>
+<given-names>JE</given-names>
+</name>
+<name>
+<surname>Peschke</surname>
+<given-names>VM</given-names>
+</name>
+<name>
+<surname>Eddy</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Fall armyworm in Africa: a guide for integrated pest management</article-title>
+<year iso-8601-date="2018">2018</year>
+<publisher-name>CIMMYT publications repository</publisher-name><uri>http://hdl.handle.net/10883/19204</uri>
+</element-citation>
+</ref>
+<ref id="ref-45">
+<label>Prasanna et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Prasanna</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Suresh</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Mwatuni</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Beyene</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Makumbi</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Gowda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Molnar</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Maize lethal necrosis (MLN): efforts toward containing the spread and impact of a devastating transboundary disease in sub-Saharan Africa</article-title>
+<source>Virus Research</source>
+<year iso-8601-date="2020">2020</year>
+<volume>282</volume>
+<fpage>197943</fpage>
+<pub-id pub-id-type="doi">10.1016/j.virusres.2020.197943</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-103">
+<label>Prasanna et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Prasanna</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Burgueño</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Beyene</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Makumbi</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Asea</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Woyengo</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Tarekegne</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Magorokosho</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Wegary</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Ndhlela</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Zaman-Allah</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Matova</surname>
+<given-names>PM</given-names>
+</name>
+<name>
+<surname>Mwansa</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Mashingaidze</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Fato</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Teklewold</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Vivek</surname>
+<given-names>BS</given-names>
+</name>
+<name>
+<surname>Zaidi</surname>
+<given-names>PH</given-names>
+</name>
+<name>
+<surname>Vinayan</surname>
+<given-names>MT</given-names>
+</name>
+<name>
+<surname>Patne</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Rakshit</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Kumar</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Jat</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>SB</given-names>
+</name>
+<name>
+<surname>Kuchanur</surname>
+<given-names>PH</given-names>
+</name>
+<name>
+<surname>Lohithaswa</surname>
+<given-names>HC</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>NK</given-names>
+</name>
+<name>
+<surname>Koirala</surname>
+<given-names>KB</given-names>
+</name>
+<name>
+<surname>Ahmed</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Vicente</surname>
+<given-names>FS</given-names>
+</name>
+<name>
+<surname>Dhliwayo</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Cairns</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Genetic trends in CIMMYT’s tropical maize breeding pipelines</article-title>
+<source>Scientific Reports</source>
+<year iso-8601-date="2022">2022</year>
+<volume>12</volume>
+<fpage>20110</fpage>
+<pub-id pub-id-type="doi">10.1038/s41598-022-24536-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-105">
+<label>Pratt, Constantine &amp; Murphy (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pratt</surname>
+<given-names>CF</given-names>
+</name>
+<name>
+<surname>Constantine</surname>
+<given-names>KL</given-names>
+</name>
+<name>
+<surname>Murphy</surname>
+<given-names>ST</given-names>
+</name>
+</person-group>
+<article-title>Economic impacts of invasive alien species on African smallholder livelihoods</article-title>
+<source>Global Food Security</source>
+<year iso-8601-date="2017">2017</year>
+<volume>14</volume>
+<fpage>31</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="doi">10.1016/j.gfs.2017.01.011</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-102">
+<label>Redinbaugh &amp; Stewart (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Redinbaugh</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Stewart</surname>
+<given-names>LR</given-names>
+</name>
+</person-group>
+<article-title>Maize lethal necrosis: an emerging, synergistic viral disease</article-title>
+<source>Annual Review of Virology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>5</volume>
+<issue>1</issue>
+<fpage>301</fpage>
+<lpage>322</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-virology-092917-043413</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-46">
+<label>Roussi (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Roussi</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>The battle to contain gigantic locust swarms</article-title>
+<source>Nature</source>
+<year iso-8601-date="2020">2020</year>
+<volume>579</volume>
+<issue>7799</issue>
+<fpage>330</fpage>
+<pub-id pub-id-type="doi">10.1038/d41586-020-00725-x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-47">
+<label>Rwomushana et al. (2018)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Rwomushana</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Bateman</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Beale</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Beseh</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Cameron</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Chiluba</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Tambo</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Fall armyworm: impacts and implications for Africa evidence note update, October 2018. Report to DFID</source>
+<year iso-8601-date="2018">2018</year>
+<publisher-loc>Wallingford</publisher-loc>
+<publisher-name>CABI</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-39">
+<label>Salama (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Salama</surname>
+<given-names>SM</given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Adam Mariod</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Nutrient composition and bioactive components of the migratory locust (<italic>Locusta migratoria</italic>)</article-title>
+<source>African Edible Insects As Alternative Source of Food, Oil, Protein and Bioactive Components</source>
+<year iso-8601-date="2020">2020</year>
+<publisher-loc>Cham</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<pub-id pub-id-type="doi">10.1007/978-3-030-32952-5_16</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-48">
+<label>Semagn et al. (2015)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Semagn</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Beyene</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Babu</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Nair</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Gowda</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Das</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Warburton</surname>
+<given-names>ML</given-names>
+</name>
+</person-group>
+<article-title>Quantitative trait loci mapping and molecular breeding for developing stress resilient maize for Sub-Saharan Africa</article-title>
+<source>Crop Science</source>
+<year iso-8601-date="2015">2015</year>
+<volume>55</volume>
+<issue>4</issue>
+<fpage>1449</fpage>
+<lpage>1459</lpage>
+<pub-id pub-id-type="doi">10.2135/cropsci2014.09.0646</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-104">
+<label>Shiferaw et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Shiferaw</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Prasanna</surname>
+<given-names>BM</given-names>
+</name>
+<name>
+<surname>Hellin</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bänziger</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Crops that feed the world 6. Past successes and future challenges to the role played by maize in global food security</article-title>
+<source>Food Security</source>
+<year iso-8601-date="2011">2011</year>
+<volume>3</volume>
+<fpage>307</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="doi">10.1007/s12571-011-0140-5</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-50">
+<label>Sisay et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sisay</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Simiyu</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Malusi</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Likhayo</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Mendesil</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Elibariki</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Tefera</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>First report of the fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae), natural enemies from Africa</article-title>
+<source>Journal of Applied Entomology</source>
+<year iso-8601-date="2018">2018</year>
+<volume>142</volume>
+<issue>8</issue>
+<fpage>800</fpage>
+<lpage>804</lpage>
+<pub-id pub-id-type="doi">10.1111/jen.12534</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-51">
+<label>Stewart &amp; Willie (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stewart</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Willie</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Maize yellow mosaic virus interacts with maize chlorotic mottle virus and sugarcane mosaic virus in mixed infections, but does not cause maize lethal necrosis</article-title>
+<source>Plant Disease</source>
+<year iso-8601-date="2021">2021</year>
+<volume>105</volume>
+<issue>10</issue>
+<fpage>3008</fpage>
+<lpage>3014</lpage>
+<pub-id pub-id-type="doi">10.1094/PDIS-09-20-2088-RE</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-52">
+<label>Stewart et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stewart</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Willie</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Wijeratne</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Redinbaugh</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Massawe</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Niblett</surname>
+<given-names>CL</given-names>
+</name>
+<name>
+<surname>Asiimwe</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Johnsongrass mosaic virus contributes to maize lethal necrosis in East Africa</article-title>
+<source>Plant Disease</source>
+<year iso-8601-date="2017">2017</year>
+<volume>101</volume>
+<issue>8</issue>
+<fpage>1455</fpage>
+<lpage>1462</lpage>
+<pub-id pub-id-type="doi">10.1094/PDIS-01-17-0136-RE</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-117">
+<label>Souza et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Souza</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Sanches</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Souza</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Faria</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Espinel-Correal</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Sihler</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Lopes</surname>
+<given-names>RB</given-names>
+</name>
+</person-group>
+<article-title>Within-host interactions of <italic>Metarhizium rileyi</italic> strains and nucleopolyhedroviruses in <italic>Spodoptera frugiperda</italic> and <italic>Anticarsia gemmatalis</italic> (Lepidoptera: Noctuidae)</article-title>
+<source>Journal of Invertebrate Pathology</source>
+<year iso-8601-date="2019">2019</year>
+<volume>162</volume>
+<fpage>10</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jip.2019.01.006</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-53">
+<label>Tambo et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tambo</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Kansiime</surname>
+<given-names>MK</given-names>
+</name>
+<name>
+<surname>Mugambi</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Rwomushana</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Kenis</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Day</surname>
+<given-names>RK</given-names>
+</name>
+<name>
+<surname>Lamontagne-Godwin</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Understanding smallholders’ responses to fall armyworm (Spodoptera frugiperda) invasion: evidence from five African countries</article-title>
+<source>Science of the Total Environment</source>
+<year iso-8601-date="2020">2020</year>
+<volume>740</volume>
+<issue>6</issue>
+<fpage>140015</fpage>
+<pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.140015</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-54">
+<label>Tehon &amp; Daniels (1925)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tehon</surname>
+<given-names>LR</given-names>
+</name>
+<name>
+<surname>Daniels</surname>
+<given-names>E</given-names>
+</name>
+</person-group>
+<article-title>Notes on the parasitic fungi of Illinois—II</article-title>
+<source>Mycologia</source>
+<year iso-8601-date="1925">1925</year>
+<volume>17</volume>
+<issue>6</issue>
+<fpage>240</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1080/00275514.1925.12020479</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-56">
+<label>Uyemoto, Bockelman &amp; Claflin (1980)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Uyemoto</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Bockelman</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Claflin</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title><italic>Severe outbreak of corn lethal necrosis disease</italic>. PDF</article-title>
+<year iso-8601-date="1980">1980</year>
+<publisher-loc>Manhattan</publisher-loc>
+<publisher-name>Department of Plant Pathology, Kansas State University Agricultural Experiment Station</publisher-name>
+<pub-id pub-id-type="doi">10.1094/PD-64-99</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-57">
+<label>Wamaitha et al. (2018)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wamaitha</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Nigam</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Maina</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Stomeo</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Wangai</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Njuguna</surname>
+<given-names>JN</given-names>
+</name>
+<name>
+<surname>Djikeng</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Metagenomic analysis of viruses associated with maize lethal necrosis in Kenya</article-title>
+<source>Virology Journal</source>
+<year iso-8601-date="2018">2018</year>
+<volume>15</volume>
+<issue>1</issue>
+<fpage>90</fpage>
+<pub-id pub-id-type="doi">10.1186/s12985-018-0999-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-58">
+<label>Wan et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wan</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>C-Y</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>H-X</given-names>
+</name>
+<name>
+<surname>Ren</surname>
+<given-names>Y-L</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>Z-Y</given-names>
+</name>
+<name>
+<surname>Xing</surname>
+<given-names>L-S</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Qiao</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>C-H</given-names>
+</name>
+<name>
+<surname>Xi</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>W-X</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>W-K</given-names>
+</name>
+<name>
+<surname>Qian</surname>
+<given-names>W-Q</given-names>
+</name>
+<name>
+<surname>Mckirdy</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wan</surname>
+<given-names>F-H</given-names>
+</name>
+</person-group>
+<article-title>Biology, invasion and management of the agricultural invader: fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae)</article-title>
+<source>Journal of Integrative Agriculture</source>
+<year iso-8601-date="2021">2021</year>
+<volume>20</volume>
+<issue>3</issue>
+<fpage>646</fpage>
+<lpage>663</lpage>
+<pub-id pub-id-type="doi">10.1016/S2095-3119(20)63367-6</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-59">
+<label>Wang et al. (2022)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>HH</given-names>
+</name>
+<name>
+<surname>Zhao</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Liang</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gu</surname>
+<given-names>SH</given-names>
+</name>
+</person-group>
+<article-title>Genetic architecture and insecticide resistance in Chinese populations of Spodoptera frugiperda</article-title>
+<source>Journal of Pest Science</source>
+<year iso-8601-date="2022">2022</year>
+<volume>96</volume>
+<issue>4</issue>
+<fpage>1595</fpage>
+<lpage>1610</lpage>
+<pub-id pub-id-type="doi">10.1007/s10340-022-01569-2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-60">
+<label>Wangai et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wangai</surname>
+<given-names>AW</given-names>
+</name>
+<name>
+<surname>Redinbaugh</surname>
+<given-names>MG</given-names>
+</name>
+<name>
+<surname>Kinyua</surname>
+<given-names>ZM</given-names>
+</name>
+<name>
+<surname>Miano</surname>
+<given-names>DW</given-names>
+</name>
+<name>
+<surname>Leley</surname>
+<given-names>PK</given-names>
+</name>
+<name>
+<surname>Kasina</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Jeffers</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title>First report of maize chlorotic mottle virus and maize lethal necrosis in Kenya</article-title>
+<source>Plant Disease</source>
+<year iso-8601-date="2012">2012</year>
+<volume>96</volume>
+<issue>10</issue>
+<fpage>1582</fpage>
+<pub-id pub-id-type="doi">10.1094/PDIS-06-12-0576-PDN</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-61">
+<label>Ward et al. (1999)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ward</surname>
+<given-names>JMJ</given-names>
+</name>
+<name>
+<surname>Stromberg</surname>
+<given-names>EL</given-names>
+</name>
+<name>
+<surname>Nowell</surname>
+<given-names>DC</given-names>
+</name>
+<name>
+<surname>Nutter</surname>
+<given-names>FW</given-names>
+</name>
+</person-group>
+<article-title>Gray leaf spot: a disease of global importance in maize production</article-title>
+<source>Plant disease</source>
+<year iso-8601-date="1999">1999</year>
+<volume>83</volume>
+<fpage>884</fpage>
+<lpage>895</lpage>
+<pub-id pub-id-type="doi">10.1094/PDIS.1999.83.10.884</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-63">
+<label>Wokorach et al. (2021)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wokorach</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Landschoot</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Anena</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Audenaert</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Echodu</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Haesaert</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Mycotoxin profile of staple grains in northern Uganda: understanding the level of human exposure and potential risks</article-title>
+<source>Food Control</source>
+<year iso-8601-date="2021">2021</year>
+<volume>122</volume>
+<issue>1</issue>
+<fpage>107813</fpage>
+<pub-id pub-id-type="doi">10.1016/j.foodcont.2020.107813</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-64">
+<label>Womack et al. (2020)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Womack</surname>
+<given-names>ED</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>WP</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>JS</given-names>
+</name>
+<name>
+<surname>Warburton</surname>
+<given-names>ML</given-names>
+</name>
+<name>
+<surname>Bhattramakki</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Hesler</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Mapping quantitative trait loci for resistance to fall armyworm (Lepidoptera: Noctuidae) leaf-feeding damage in maize inbred Mp705</article-title>
+<source>Journal of Economic Entomology</source>
+<year iso-8601-date="2020">2020</year>
+<volume>113</volume>
+<issue>2</issue>
+<fpage>956</fpage>
+<lpage>963</lpage>
+<pub-id pub-id-type="doi">10.1093/jee/toz357</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-127">
+<label>Wu et al. (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wu</surname>
+<given-names>J-X</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</name>
+<name>
+<surname>Qian</surname>
+<given-names>Y-J</given-names>
+</name>
+<name>
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhou</surname>
+<given-names>X-P</given-names>
+</name>
+</person-group>
+<article-title>Monoclonal antibody-based serological methods for maize chlorotic mottle virus detection in China</article-title>
+<source>Journal of Zhejiang University SCIENCE B (Biomed &amp; Biotechnol)</source>
+<year iso-8601-date="2013">2013</year>
+<volume>14</volume>
+<issue>7</issue>
+<fpage>555</fpage>
+<lpage>562</lpage>
+<pub-id pub-id-type="doi">10.1631/jzus.B1200275</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-65">
+<label>Zaman-allah et al. (2019)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zaman-allah</surname>
+<given-names>MA</given-names>
+</name>
+<name>
+<surname>Chaipa</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Chari</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Chnwada</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Understanding the factors influencing fall armyworm (Spodoptera frugiperda J. E. Smith) damage in African smallholder maize fields and quantifying its impact on yield. A case study in Eastern Zimbabwe</article-title>
+<source>Crop Protection</source>
+<year iso-8601-date="2019">2019</year>
+<volume>120</volume>
+<fpage>141</fpage>
+<lpage>150</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cropro.2019.01.028</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

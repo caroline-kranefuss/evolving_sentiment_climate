@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">peerj</journal-id>
+         <journal-id journal-id-type="pmc">peerj</journal-id>
+         <journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+         <journal-title-group>
+            <journal-title>PeerJ</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">PeerJ</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2167-8359</issn>
+         <publisher>
+            <publisher-name>PeerJ Inc.</publisher-name>
+            <publisher-loc>San Diego, USA</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">6130</article-id>
+         <article-id pub-id-type="doi">10.7717/peerj.6130</article-id>
+         <article-categories>
+            <subj-group subj-group-type="categories">
+               <subject>Biogeography</subject>
+               <subject>Genetics</subject>
+               <subject>Zoology</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Local persistence of Mann’s soft-haired mouse <italic>Abrothrix manni</italic> (Rodentia, Sigmodontinae) during Quaternary glaciations in southern Chile</article-title>
+         </title-group>
+         <contrib-group content-type="authors">
+            <contrib id="author-1" contrib-type="author" equal-contrib="yes" corresp="yes">
+               <name>
+                  <surname>Valdez</surname>
+                  <given-names>Lourdes</given-names>
+               </name>
+               <email>louvald@gmail.com</email>
+            </contrib>
+            <contrib id="author-2" contrib-type="author" equal-contrib="yes" corresp="yes">
+               <name>
+                  <surname>D’Elía</surname>
+                  <given-names>Guilermo</given-names>
+               </name>
+               <email>guille.delia@gmail.com</email>
+            </contrib>
+            <aff id="aff-1"> 
+               <institution>Instituto de Ciencias Ambientales y Evolutivas, Facultad de Ciencias, Universidad Austral de Chile</institution>, <city>Valdivia</city>, <country>Chile</country></aff>
+         </contrib-group>
+         <contrib-group content-type="editors">
+            <contrib contrib-type="editor">
+               <name>
+                  <surname>Morrone</surname>
+                  <given-names>Juan J.</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-18">
+            <day>18</day>
+            <month>12</month>
+            <year iso-8601-date="2018">2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <elocation-id>e6130</elocation-id>
+         <history>
+            <date date-type="received" iso-8601-date="2018-09-24">
+               <day>24</day>
+               <month>9</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+            <date date-type="accepted" iso-8601-date="2018-11-17">
+               <day>17</day>
+               <month>11</month>
+               <year iso-8601-date="2018">2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>©2018 Valdez and D’Elía</copyright-statement>
+            <copyright-year>2018</copyright-year>
+            <copyright-holder>Valdez and D’Elía</copyright-holder>
+            <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://peerj.com/articles/6130"/>
+         <abstract>
+            <p>Quaternary climatic oscillations have impacted Patagonian sigmodontine fauna, leaving traceable genetic footprints. In southern Chile, changes in the landscape included transitions to different vegetation formations as well as the extension of ice sheets. In this study, we focus on the Valdivian forest endemic and recently described sigmodontine species <italic>Abrothrix manni</italic>. We aim to assess the genetic structure of this species, testing for the existence of intraspecific lineages, and inferring the recent demographic history of the species. Analyses were based on the first 801 bp of the mitochondrial gene Cytocrhome-b from 49 individuals of <italic>A. manni</italic> collected at 10 localities that covers most part of its geographic distribution. Genealogical analyses recovered two main intraspecific lineages that are geographically segregated and present an intermediate site of secondary contact. Historical demography shows signal of recent population decrease. Based on these results, we proposed that current genetic diversity of <italic>A. manni</italic> differentiated in at least two distinct refugial areas in southern Chile. This scenario, in addition to be unique among those uncovered for the so far studied Valdivian forest rodents, is noteworthy because of the reduced geographic scale inhabited by the species.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <kwd>Lowland coastal refugium</kwd>
+            <kwd>Pleistocene</kwd>
+            <kwd>Patagonia</kwd>
+            <kwd>Phylogeography</kwd>
+            <kwd>Historical demography</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group id="fund-1">
+               <funding-source>Fondo Nacional de Desarrollo Científico y Tecnológico</funding-source>
+               <award-id>1180366</award-id>
+            </award-group>
+            <award-group id="fund-2">
+               <funding-source>Comisión Nacional de Investigación Científica y Tecnológica</funding-source>
+               <award-id>63140200</award-id>
+            </award-group>
+            <funding-statement>This work was supported by Fondo Nacional de Desarrollo Científico y Tecnológico 1180366 (Guillermo D’Elía) and Comisión Nacional de Investigación Científica y Tecnológica 63140200 (Lourdes Valdez). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+         </funding-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>Introduction</title>
+         <p>The southern cone of South America has been the setting of major climatic, tectonic and volcanic activity during the past several million years (<xref ref-type="bibr" rid="ref-21">Heusser, 1984</xref>; <xref ref-type="bibr" rid="ref-47">Rabassa, Heusser &amp; Rutter, 1990</xref>; <xref ref-type="bibr" rid="ref-31">McCulloch et al., 2000</xref>). The Quaternary period was marked by a complex sequence of glacial advances and retreats that dramatically altered Patagonian landscapes (<xref ref-type="bibr" rid="ref-7">Clapperton, 1994</xref>; <xref ref-type="bibr" rid="ref-31">McCulloch et al., 2000</xref>; <xref ref-type="bibr" rid="ref-25">Hulton et al., 2002</xref>). A “Great Patagonian Glaciation” (GPG) occurred approximately 1 MYA, followed by three major post-GPG glaciations during the Early and Middle Pleistocene. The most recent of these events was the Last Glacial Maximum (LGM), which began ∼20,000–18,000 YA and finished 14,000–10,000 YA (<xref ref-type="bibr" rid="ref-8">Coronato, Martínez &amp; Rabassa, 2004</xref>; <xref ref-type="bibr" rid="ref-42">Ponce et al., 2011</xref>). During the LGM, an ice sheet 1,800 km long built up along the axis of the southern Andes (<xref ref-type="bibr" rid="ref-31">McCulloch et al., 2000</xref>). In Southern Chile (south of 39°S) the ice sheet extended toward lowlands covering the eastern half of Los Ríos and Los Lagos Regions, including the south-east of Chiloe Island (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Biotic evidence, including pollen records and beetle remains, indicate that the vegetation type during the last millennia changed from Subantarctic parkland to woodland and Patagonian evergreen forests about 14,000–13,000 YA (<xref ref-type="bibr" rid="ref-23">Heusser et al., 1996</xref>; <xref ref-type="bibr" rid="ref-35">Moreno et al., 2001</xref>). Climatic events of this magnitude affected local abundance and distributional patterns of the local biota leaving traceable genetic footprints in several groups of organisms, which in turn allows identifying refugial areas, i.e., those of population persistence during Pleistocene glaciations, e.g., in trees (<xref ref-type="bibr" rid="ref-44">Premoli, Mathiasen &amp; Kitzberger, 2010</xref>; <xref ref-type="bibr" rid="ref-30">Mathiasen &amp; Premoli, 2010</xref>; <xref ref-type="bibr" rid="ref-57">Souto et al., 2015</xref>), fishes (<xref ref-type="bibr" rid="ref-72">Zemlak et al., 2008</xref>), crustaceans (<xref ref-type="bibr" rid="ref-71">Xu et al., 2009</xref>), frogs (<xref ref-type="bibr" rid="ref-38">Nuñez et al., 2011</xref>), lizards (<xref ref-type="bibr" rid="ref-63">Vera-Escalona et al., 2012</xref>; <xref ref-type="bibr" rid="ref-36">Muñoz Mendoza et al., 2017</xref>).</p>
+         <fig id="fig-1">
+            <object-id pub-id-type="doi">10.7717/peerj.6130/fig-1</object-id><label>Figure 1</label><caption>
+               <title>Study area for <italic>Abrothrix manni</italic>.</title>
+               <p>Map of south-central Chile and neighboring areas of Argentina depicting in pink the known distribution of <italic>Abrothrix manni</italic> (taken from <xref ref-type="bibr" rid="ref-13">D’Elía et al., 2015</xref>). Collecting localities of the specimens analyzed here are depicted with dots and numbered as in <xref ref-type="table" rid="table-1">Table 1</xref>. The dotted line indicates the area covered by the ice sheet during the LGM (sensu <xref ref-type="bibr" rid="ref-31">McCulloch et al., 2000</xref>). The tree to the left depicts the genealogical relationships, reconstructed via Bayesian inference, of 22 <italic>Cytb</italic> haplotypic classes of <italic>Abrothrix manni</italic>. Support values correspond to posterior probability and bootstrap proportion in a Maximum Likelihood analysis; number of specimens sharing each haplotype is given in parenthesis.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6130/fig-1.png"/>
+         </fig>
+         <p>Patagonian species have been differentially impacted by past climatic dynamics. Different demographic processes and trajectories (e.g., demographic or range expansion or stability, fragmentation, secondary contact) have been recorded in co-distributed species (<xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>; <xref ref-type="bibr" rid="ref-54">Sersic et al., 2011</xref>). A pattern of north-to-south postglacial colonization was commonly observed in Patagonian rodents (e.g., <italic>Eligmodontia morgani</italic> and <italic>Reithrodon auritus</italic>), although more complex processes were also reported, such as within-region differentiation and population persistence at putative refugia (<xref ref-type="bibr" rid="ref-6">Cañón et al., 2010</xref>; <xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>). Given this rather species-specific response to climatic oscillation in southern Chile and Argentina, it is of interest to explore phylogeographical patterns in additional lineages before any generalization be advanced about the effect of glaciations on the local fauna.</p>
+         <p>In this study, we focus on the recently described sigmodontine species <italic>Abrothrix manni</italic> (<xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta, 2015</xref>). Mann’s soft-haired mouse mainly distributes in the humid forests of north-western Patagonia, in the Chilean Regions of Los Ríos and Los Lagos, including northern Chiloe Island. From west to east, this species is present in the Pacific coast and reaches the Andes; it is also known from a single locality in Neuquén, Argentina (<xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta, 2015</xref>; <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Because <italic>A. manni</italic> was only recently described, information on its natural history is scarce as no ecological study has focused on it. Much of the available information on the life history of the species has been reported in the literature under <italic>A. sanborni</italic> or of purported hybrids between that species and <italic>A. hirta</italic> (referred earlier as <italic>A. longipilis</italic>; see <xref ref-type="bibr" rid="ref-59">Teta &amp; Pardiñas, 2014</xref>). Mann’s soft-haired mouse is active both day and night (<xref ref-type="bibr" rid="ref-33">Meserve et al., 1982</xref>). It feeds on fungi, moderate amounts of mature arthropods and larvae, plant foliage, seeds, and fruits (<xref ref-type="bibr" rid="ref-32">Meserve, Lang &amp; Patterson, 1988</xref>). <italic>A. manni</italic> breeds through the spring and summer (<xref ref-type="bibr" rid="ref-33">Meserve et al., 1982</xref>). Recording localities of <italic>A. manni</italic>, all laying in the temperate Valdivian rainforest, suggest that the species is a forest specialist.</p>
+         <p>Compared with most Patagonian mouse species, the geographic range of <italic>A. manni</italic> is noticeably smaller (e.g., <xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>; <xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta, 2015</xref>) and lies in an area that was highly impacted during the Quaternary period. Here, historical environment diversity ranges from more or less continuous ice cap to putative refugial areas for local biota. A lowland glacial refugium has been proposed along the coast north of the latitude 42°S (<xref ref-type="bibr" rid="ref-65">Victoriano et al., 2008</xref>; <xref ref-type="bibr" rid="ref-46">Quiroga &amp; Premoli, 2010</xref>; <xref ref-type="bibr" rid="ref-54">Sersic et al., 2011</xref>). Other co-distributed (at least partially) sigmodontine species in this area exhibit contrasting genetic footprints. For instance, within the area of sympatry with <italic>Abrothrix manni</italic>, populations of the co-generic <italic>A. olivacea</italic> belong to two distinct intraspecific lineages (<xref ref-type="bibr" rid="ref-49">Rodríguez-Serrano, Cancino &amp; Palma, 2006</xref>), while populations of <italic>Oligoryzomys longicaudatus</italic> are genetically homogeneous, without distinct lineages (<xref ref-type="bibr" rid="ref-41">Palma et al., 2005</xref>; <xref ref-type="bibr" rid="ref-39">Palma et al., 2012</xref>). This is also the case of continental populations of the pudu deer <italic>Pudu puda</italic> (<xref ref-type="bibr" rid="ref-18">Fuentes-Hurtado et al., 2011</xref>). Therefore, given that <italic>A. manni</italic> occurs in a geographic area that was directly affected by Pleistocene glaciations, and considering that the impact of glaciations was differential over species, we address here the phylogeographic pattern of <italic>A. manni.</italic> We aim to assess the species genetic structure, testing for the existence of intraspecific lineages, and inferring past demographic signals.</p>
+         <p>Theory predicts distinct patterns of genetic variation under distinct demographic and historical scenarios. The literature in this regard is vast (e.g., <xref ref-type="bibr" rid="ref-58">Tajima, 1989</xref>; <xref ref-type="bibr" rid="ref-55">Slatkin &amp; Hudson, 1991</xref>; <xref ref-type="bibr" rid="ref-17">Fu, 1996</xref>; <xref ref-type="bibr" rid="ref-70">Wakeley &amp; Hey, 1997</xref>; <xref ref-type="bibr" rid="ref-27">Kuhner, Yamato &amp; Felsenstein, 1998</xref>) and for a general review we refer the reader to <xref ref-type="bibr" rid="ref-2">Avise (2000)</xref> and <xref ref-type="bibr" rid="ref-26">Knowles &amp; Maddison (2002)</xref>.</p>
+         <p>In this study, we focus on the phylogeographical pattern as revealed by a <italic>Cytb</italic> gene genealogy and on genetic signals of demographic stability/expansion. The main expected signals of the persistence of <italic>A. manni</italic> in Valdivian forest during LGM are: (a) presence of well-supported allopatric clades, (b) multimodal mismatch distributions, (c) significant values of demographic indexes (F, D, hr, and SSD) (d) signals of demographic stability in absolute time calibrated skyline plots. Therewith, we hope to contribute filling the gap in the phylogeographic knowledge of one of the least studied areas of southern South America (<xref ref-type="bibr" rid="ref-4">Beheregaray, 2008</xref>).</p>
+      </sec>
+      <sec sec-type="materials|methods">
+         <title>Materials &amp; Methods</title>
+         <sec>
+            <title>Specimen sampling and data collection</title>
+            <p>Analyses were based on the first 801 bp of the mitochondrial gene Cytochrome-b (<italic>Cytb</italic>) from 49 individuals of <italic>Abrothrix manni</italic> collected at 10 localities along most part of its known distributional range (see <xref ref-type="fig" rid="fig-1">Fig. 1</xref> and <xref ref-type="table" rid="table-1">Table 1</xref>). Fieldwork and procedures with animals were were approved by the Servicio Agricola Ganadero (Permits number 1231/2017, 5611/2013, 2164, 5165) and the Comité de Bioética of the Universidad Austral de Chile (Nb. 311/2018). Nineteen sequences were downloaded from GenBank, while 30 were newly generated from specimens housed at the Colección de Mamíferos de la Universidad Austral de Chile (UACH). Unpublished sequences were generated following the protocol outlined by <xref ref-type="bibr" rid="ref-11">D’Elía &amp; Pardiñas (2004)</xref>; external DNA sequencing service was provided by Macrogen (Seoul, South Korea). All new DNA sequences were deposited at GenBank (see accession numbers in <xref ref-type="table" rid="table-1">Table 1</xref>).</p>
+            <table-wrap id="table-1">
+               <object-id pub-id-type="doi">10.7717/peerj.6130/table-1</object-id><label>Table 1</label><caption>
+                  <title>Specimens of <italic>Abrothrix manni</italic> studied with details of the <italic>Cytb</italic> sequence retrieved from each of them.</title>
+                  <p>Locality numbers are those depicted in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6130/table-1.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th>#</th>
+                           <th>Locality</th>
+                           <th>Specimen, GenBank accession, haplotype</th>
+                           <th>Reference</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>1</td>
+                           <td>Región de Los Ríos, San José de la Mariquina, Fundo San Martin; −39.649233, −73.19255</td>
+                           <td>UACH7300, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917358">MH917358</ext-link>, 4; UACH7289, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917347">MH917347</ext-link>, 4; UACH7291, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917349">MH917349</ext-link>, 1; UACH7292, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917350">MH917350</ext-link>, 2; UACH7293, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917351">MH917351</ext-link>, 1; UACH7294, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917352">MH917352</ext-link>, 5; UACH7295, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917353">MH917353</ext-link>, 5; UACH7296, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917354">MH917354</ext-link>, 5; UACH7297, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917355">MH917355</ext-link>, 4; UACH7298, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917356">MH917356</ext-link>, 4; UACH7299, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917357">MH917357</ext-link>, 5; UACH7301, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917359">MH917359</ext-link>, 5; UACH7302, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917360">MH917360</ext-link>, 5; UACH7303, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917361">MH917361</ext-link>, 5; UACH7304, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917362">MH917362</ext-link>, 5; UACH7305, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917363">MH917363</ext-link>, 3; UACH7306, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917364">MH917364</ext-link>, 5; UACH7879, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917348">MH917348</ext-link>, 4</td>
+                           <td>This paper</td>
+                        </tr>
+                        <tr>
+                           <td>2</td>
+                           <td>Región de Los Ríos, Valdivia, Curiñanco; −39.7502, −73.390383</td>
+                           <td>UACH7279, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917366">MH917366</ext-link>, 6; UACH7307, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917365">MH917365</ext-link>, 6</td>
+                           <td>This paper</td>
+                        </tr>
+                        <tr>
+                           <td>3</td>
+                           <td>Región de Los Ríos, Valdivia, El Arenal; −39.787367, −73.210909</td>
+                           <td>UACH8016, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917371">MH917371</ext-link>, 7</td>
+                           <td>This paper</td>
+                        </tr>
+                        <tr>
+                           <td>4</td>
+                           <td>Región de Los Ríos, Corral, Naguilan; −40.016108, −73.351585</td>
+                           <td>UACH7875, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917367">MH917367</ext-link>, 8; UACH7876, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917368">MH917368</ext-link>, 9; UACH7877, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917369">MH917369</ext-link>, 8; UACH7878, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917370">MH917370</ext-link>, 9</td>
+                           <td>This paper</td>
+                        </tr>
+                        <tr>
+                           <td>5</td>
+                           <td>Región de Los Ríos, Futrono, Cerro Huequecura; −40.192567, −72.254983</td>
+                           <td>UACH7284, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917342">MH917342</ext-link>, 12; UACH7285, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917343">MH917343</ext-link>, 13; UACH7287, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917345">MH917345</ext-link>, 11</td>
+                           <td>This paper</td>
+                        </tr>
+                        <tr>
+                           <td>6</td>
+                           <td>Región de Los Ríos, Futrono, Camino Llifen-Maihue, 400 m Oeste de Puente Blanco; −40.193067, −72.0076</td>
+                           <td>UACH7288, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917346">MH917346</ext-link>, 10; UACH7286, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=MH917344">MH917344</ext-link>, 1</td>
+                           <td>This paper</td>
+                        </tr>
+                        <tr>
+                           <td>7</td>
+                           <td>Región de Los Lagos, Parque Nacional Vicente Pérez Rosales, La Picada; −41.033333, −72.5</td>
+                           <td>ER74, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564046">GU564046</ext-link>, 15; ER75, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564047">GU564047</ext-link>, 1; ER76, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564048">GU564048</ext-link>, 1</td>
+                           <td><xref ref-type="bibr" rid="ref-40"> Palma, Cancino &amp; Rodríguez-Serrano (2010)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>8</td>
+                           <td>Región de Los Lagos, Pichiquillaipe, Parque Katalapi; −41.51965, −72.752183</td>
+                           <td>UACH7260, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=KP665999">KP665999</ext-link>, 17; UACH7280, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=KP665998">KP665998</ext-link>, 1; UACH7281, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=KP666001">KP666001</ext-link>, 1; UACH7282, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=KP666000">KP666000</ext-link>, 1</td>
+                           <td><xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta (2015)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>9</td>
+                           <td>Región de Los Lagos, Lago Tagua Tagua, Rampa Los Canelos; −41.5643, −72.172217</td>
+                           <td>UACH7283, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=KP666003">KP666003</ext-link>, 22</td>
+                           <td><xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta (2015)</xref></td>
+                        </tr>
+                        <tr>
+                           <td>10</td>
+                           <td>Región de Los Lagos, Chiloé, Senda Darwin; −41.883838, −73.663461</td>
+                           <td>ER48, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564049">GU564049</ext-link>, 20; ER49, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564050">GU564050</ext-link>, 2; ER53, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564052">GU564052</ext-link>, 2; ER55, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564053">GU564053</ext-link>, 2; ER61, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564054">GU564054</ext-link>, 2; ER62, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564055">GU564055</ext-link>, 2; ER63, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564056">GU564056</ext-link>, 2; ER67, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564057">GU564057</ext-link>, 2; ER68, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564058">GU564058</ext-link>, 2; ER52, <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/GU564051">GU564051</ext-link>, 2; UWBM79697, <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="https://www.ncbi.nlm.nih.gov/nucleotide?term=KP666002">KP666002</ext-link>, 19</td>
+                           <td><xref ref-type="bibr" rid="ref-40"> Palma, Cancino &amp; Rodríguez-Serrano (2010)</xref>, <xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta (2015)</xref></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+            </table-wrap>
+         </sec>
+         <sec>
+            <title>Alignment, molecular diversity, and genealogical reconstruction</title>
+            <p>Sequences were aligned using Clustal W (<xref ref-type="bibr" rid="ref-60">Thompson, Higgins &amp; Gibson, 1994</xref>) implemented in Mega 7 (<xref ref-type="bibr" rid="ref-28">Kumar, Stecher &amp; Tamura, 2016</xref>) to establish character primary homology. Haplotype and nucleotide diversity indexes were calculated using DNAsp (<xref ref-type="bibr" rid="ref-52">Rozas et al., 2017</xref>). Genetic distances (p-distances) were calculated using Mega 7. Genealogical analyses were based on a matrix containing one representative of each allelic class to speed up searches. Haplotype selection was conducted using DNAsp following a visual corroboration of the absence of segregating sites within haplotype classes. This was conducted observing branch length in a neighbor-joining tree constructed with Mega 7. Sequences of <italic>Cytb</italic> from <italic>Abrothrix andina</italic> (GenBank accession: <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/AF108671">AF108671</ext-link>), <italic>A. jelskii</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/M35714">M35714</ext-link>), <italic>A. lanosa</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/EU683432">EU683432</ext-link>), <italic>A. longipilis</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HM167785">HM167785</ext-link>), <italic>A. sanborni</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/KP666004">KP666004</ext-link>), and <italic>A. olivacea</italic> (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/HM167800">HM167800</ext-link>) were used to conform the outgroup. Best-fit model of nucleotide substitution for this dataset was determined based on maximum likelihood estimates of model parameters and Bayesian Information Criterion (BIC) using jModeltest2 (<xref ref-type="bibr" rid="ref-9">Darriba et al., 2012</xref>). The selected model was set in genealogical reconstruction using two approaches, maximum likelihood (ML) and Bayesian inference (BI). The ML tree was inferred using IQ-TREE (<xref ref-type="bibr" rid="ref-37">Nguyen et al., 2015</xref>) implemented in the IQ-TREE web server (<xref ref-type="bibr" rid="ref-61">Trifinopoulos et al., 2016</xref>); branch supports were calculated with the ultrafast bootstrap (<xref ref-type="bibr" rid="ref-34">Minh, Nguyen &amp; Von Haeseler, 2013</xref>). The BI analysis was conducted using MrBayes (<xref ref-type="bibr" rid="ref-51">Ronquist &amp; Huelsenbeck, 2003</xref>); four independent runs were conducted, each consisting of 20 × 10<sup>6</sup> MCMC iterations, where chains were sampled every 1,000 generations. Convergence among chains was corroborated by inspecting values (&lt;0.01) of the average standard deviation of split frequencies. The first 25% of the samples were discarded as burn-in; remaining trees, sampled well after stationarity was reached, were used to compute a consensus tree with posterior probability (PP) estimates for each clade.</p>
+         </sec>
+         <sec>
+            <title>Genetic structure and historical population analyses</title>
+            <p>The spatial partition of the observed genetic variation was evaluated using analysis of molecular variance (AMOVA) implemented in Arlequin 3.5 (<xref ref-type="bibr" rid="ref-15">Excoffier &amp; Lischer, 2010</xref>). Several haplotype arrangements were set <italic>a priori</italic> to test specific geographic and genealogical groupings. In a geographic arrangement, sequences were allocated in two groups, one containing northern sampling sites (localities numbers 1 to 6) and another group containing southern sites (localities 7 to 10). In a second arrangement, haplotypes were grouped according to the results of the genealogical analysis (see below). The amount of genetic variation attributable to differentiation among groups (FCT), among localities within groups (FSC), and among localities relative to the total sample (FST) was estimated.</p>
+            <p>Historical demography was assessed on the basis of the distribution of pair-wise differences and related tests using Arlequin 3.5. A multimodal mismatch distribution indicates that samples were drawn from a population in demographic equilibrium, while a unimodal curve is expected for populations that experienced a recent demographic expansion (<xref ref-type="bibr" rid="ref-50">Rogers &amp; Harpending, 1992</xref>). The smoothness of the mismatch distribution was quantified using the raggedness index (hr); a significant <italic>p</italic>-value indicates that the sample is drawn from a recently expanded population (<xref ref-type="bibr" rid="ref-20">Harpeding, 1994</xref>). The fit of observed data to a null model of stationary population size was tested via the sum of squares deviation (SSD) test. Also, Tajima’s D and Fu’s F were calculated; significant negative values, of both indexes, are indicative of recent population expansion (<xref ref-type="bibr" rid="ref-58">Tajima, 1989</xref>; <xref ref-type="bibr" rid="ref-17">Fu, 1996</xref>) In a different approach, coalescent-base Bayesian skyline plots (<xref ref-type="bibr" rid="ref-14">Drummond et al., 2005</xref>) were also conducted to estimate changes in the effective population size through time, using Beast2 (<xref ref-type="bibr" rid="ref-5">Bouckaert et al., 2014</xref>). Nucleotide substitution and frequencies for each group were estimated from the data; Bayesian Information Criterion was used to choose best-fitting models. The best clock model was selected using Model Selection v1.01 Beast package implemented in BEAST, which was a strict clock. Markov Chain Monte Carlo were let run for 10 M iterations logging trees every 1,000 iterations. Historical demographic plots were constructed using Tracer (<xref ref-type="bibr" rid="ref-48">Rambaut et al., 2018</xref>). Absolute time-scale was calculated using a substitution rate for <italic>Cytb</italic> gene of 0.0031, which was the estimated rate for this gene in the closely related species <italic>Abrothrix longipilis</italic> by <xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas (2010)</xref>. Six groups were set to test for signals of demographic change/stability using mismatch distributions, associated demographic tests and Bayesian skyline plots mentioned above. (1) Total sample, which includes the 49 <italic>Cytb</italic> sequences in the dataset; (2) clade A, which considers only the sequences included in this clade (see below); (3) clade B, including only sequences in this clade (see below), (4) northern range, containing all samples from localities 1–6, (5) southern range, with all samples from localities 7–10; and (6) eastern range, containing samples from localities near the Andes, 5–9).</p>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>Results</title>
+         <sec>
+            <title>Molecular diversity</title>
+            <p>The 49 sequences of <italic>Cytb</italic> of <italic>Abrothrix manni</italic> contain 46 variable sites that define 22 haplotypic classes (<xref ref-type="table" rid="table-1">Table 1</xref>). Nine haplotypes were found in more than one specimen. No single haplotype was found in more than one collection site; most sites (seven out of 10) exhibited more than one haplotype (<xref ref-type="table" rid="table-1">Table 1</xref>). Overall pairwise distance for the whole dataset is 1.2%. Sequence divergence among localities (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) ranged from 0.3% (between localities 3 and 9) to 1.8% (between locality pairs 1–2, 1–5, 1–3, and 2–3). Observed haplotype and nucleotide diversity values for the entire sample are Hd = 0.909 (SD = 0,025) and Pi: 0,01012.</p>
+         </sec>
+         <sec>
+            <title>Gene genealogy</title>
+            <p>The best model of molecular evolution for the dataset was HKY + G (−lnL = 3499.6757; BIC = 7447.304), which was implemented in both ML and BI analyses. Resulting topologies congruently recover, although without a strong support (Bayesian posterior probability: PP = 0.73; Bootstrap support: BT = 67%) the monophyly of <italic>A. manni.</italic> Haplotypes of <italic>A. manni</italic> form two main clades (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). The first one (clade A, hereafter) is composed by 10 haplotypes from 6 localities (1–6) covering the northern part of the study area; support values for this clade are low, PP = 0.8 and BT = 71. The second clade (clade B, hereafter), which is moderately supported (PP = 0.8, BT = 94), includes haplotypes from southern localities (7–10) and one haplotype from a specimen collected at locality 6. Thus, in the area of Llifen (locality 6) both main clades of <italic>A. manni</italic> overlap (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Haplotypes from clades A and B are, on average, 1.7% divergent. Mean divergence within each clade is low; 0.7% and 0.6% for clades A and B, respectively.</p>
+         </sec>
+         <sec>
+            <title>Genetic structure and historical demography</title>
+            <p>When grouping haplotypes according to a geographical criterion (localities 1–6 vs.7–10), AMOVA shows that 55.6% of the total variation in the data set is attributable to differences between these two geographic groups. The remaining percentage is due to differences among locality sites (21%) and within localities (23.4%). Fixation indexes were significant at these three levels (<xref ref-type="table" rid="table-2">Table 2</xref>). When analyzing the data set grouped according to gene genealogy, the AMOVA shows the same pattern, where the largest fraction of the observed variation is due to differences between groups (clades in this case). Here, a 2% increase was observed in the variation attributable to differences between clades (57.26%) over the mentioned difference between geographic groups (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+            <table-wrap id="table-2">
+               <object-id pub-id-type="doi">10.7717/peerj.6130/table-2</object-id><label>Table 2</label><caption>
+                  <title>Analysis of molecular variance.</title>
+                  <p>Results of analyses of molecular variance (AMOVA) for two arrangements of samples (for the definition of groups see ‘Materials and Methods’ and <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Percentage of variation among groups (AG), among populations within groups (APWG), and within populations (WP) are given.</p>
+               </caption>
+               <alternatives>
+                  <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6130/table-2.png"/>
+                  <table>
+                     <colgroup>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th/>
+                           <th/>
+                           <th align="center" colspan="3">Percentage of variation</th>
+                           <th align="center" colspan="3"><italic>F-statistics</italic></th>
+                        </tr>
+                        <tr>
+                           <th>Grouping criteria</th>
+                           <th>Group content (locality numbers)</th>
+                           <th>AG</th>
+                           <th>APWG</th>
+                           <th>WG</th>
+                           <th><italic>F</italic>sc</th>
+                           <th><italic>F</italic>st</th>
+                           <th><italic>F</italic>ct</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td rowspan="2">Geneaological</td>
+                           <td>G1: specimens from clade A</td>
+                           <td rowspan="2">57.26</td>
+                           <td rowspan="2">20.68</td>
+                           <td rowspan="2">22.06</td>
+                           <td rowspan="2">0.48<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                           <td rowspan="2">0.78<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                           <td rowspan="2">0.57<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                        </tr>
+                        <tr>
+                           <td>G2: specimens form clade B</td>
+                        </tr>
+                        <tr>
+                           <td rowspan="2">Geographic</td>
+                           <td>G1: specimens from northern localities (1–6)</td>
+                           <td rowspan="2">55.61</td>
+                           <td rowspan="2">21.05</td>
+                           <td rowspan="2">23.34</td>
+                           <td rowspan="2">0.47<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                           <td rowspan="2">0.77<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                           <td rowspan="2">0.56<xref ref-type="fn" rid="table-2fn1"><sup>*</sup></xref></td>
+                        </tr>
+                        <tr>
+                           <td>G2: specimens from Southern localities (7–10)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </alternatives>
+               <table-wrap-foot><fn id="table-2fn"><p><bold>Notes.</bold></p></fn><fn id="table-2fn1"><label>*</label><p>indicate <italic>p</italic>-values lower than 0.0001.</p></fn></table-wrap-foot>
+            </table-wrap>
+            <p>Historical demography of <italic>A. manni</italic>, assessed by means of four indexes, recovered contrasting signals for six different grouping of samples. When considering the whole dataset, half of the indexes recovered signals of demographic expansion (SSD and Hr), while the rest failed to do so (Tajima’s D and Fu’s Fs; see <xref ref-type="table" rid="table-2">Table 2</xref>). Further exploration of the overall signals led us to calculations per clade and geographic range. Estimations for clade A and northern range exhibited the same pattern as the total sample, with significant values of SSD and Hr (<xref ref-type="table" rid="table-2">Table 2</xref>). On the other hand, calculations for clade B and southern range failed to show signals of population expansion in most tests (<xref ref-type="table" rid="table-2">Table 2</xref>, <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Exceptions are marginally significant values of Fu’s F for clade B and highly significant negative Tajima’s D for southern range. Western localities (1–9) are sites that were probably covered by the ice sheet during the last glaciation (see dotted lines in <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Demographic tests based on mismatch distribution for this set of localities failed to recover signals of population expansion (<xref ref-type="table" rid="table-3">Table 3</xref>, <xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Finally, skyline plots helped understanding past demographic dynamics at the light of contradictory signals in demographic tests by showing that after an increase in the effective population size, a more recent decrease have occurred (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). This pattern was observed in all groups analyzed, being more evident when analyzing the total sample (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). Population size reductions would have taken place during the last 15,000–10,000 years. Skyline plot for the eastern range shows a gradual increment in the population effective size from ca. 100 KYA to 25 KYA and a more recent slight reduction in effective size (<xref ref-type="fig" rid="fig-3">Fig. 3F</xref>).</p>
+            <fig id="fig-2">
+               <object-id pub-id-type="doi">10.7717/peerj.6130/fig-2</object-id><label>Figure 2</label><caption>
+                  <title>Mismatch distribution for populations of <italic>Abrothrix manni</italic>.</title>
+                  <p>Frequency distribution of pair-wise differences among <italic>Cytb</italic> haplotype pairs of <italic>Abrothrix manni</italic> for (A) total sample; (B) clade A; (C) clade B; (D) northern range; (E) Southern range; (F) Eastern range,</p>
+               </caption>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6130/fig-2.png"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>Discussion</title>
+         <p>Patagonian sigmodontine species have differentially responded to historical climatic events. Many of these broadly distributed species lack significant phylogeographic breaks (<xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>). Fewer are the cases where allopatric clades were reported; among these are the Patagonian chinchilla mouse <italic>Euneomys chinchilloides</italic> (<xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>), the long-haired mouse <italic>Abrothrix hirta</italic> (<xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>) and the olive mouse <italic>Abrothrix olivacea</italic> (<xref ref-type="bibr" rid="ref-49">Rodríguez-Serrano, Cancino &amp; Palma, 2006</xref>; <xref ref-type="bibr" rid="ref-29">Lessa, D’Elía &amp; Pardiñas, 2010</xref>). Notice, however, that these species show phylogeographic structure over their large distributional ranges covering most of the open (the former) or open and forested (the last two) areas of Patagonia. Meanwhile the distributional range of <italic>Abrothrix manni</italic> is considerably smaller than that of the species mentioned above, including the co-generic and co-distributed <italic>A. hirta</italic> and <italic>A. olivacea</italic> (<xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta, 2015</xref>). Even so, <italic>A. manni</italic> exhibits a clear differentiation in two main clades that are essentially allopatric (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Interestingly, in our study area, which traditionally has been considered as large refugial area (<xref ref-type="bibr" rid="ref-67">Villagrán, 1991</xref>; <xref ref-type="bibr" rid="ref-69">Villagrán, Moreno &amp; Villa, 1995</xref>) no phylogeographic structure is found in other mammals, such as the olive mouse <italic>A. olivacea</italic> (<xref ref-type="bibr" rid="ref-49">Rodríguez-Serrano, Cancino &amp; Palma, 2006</xref>), the long-tailed mouse <italic>O. longicaudatus</italic> (<xref ref-type="bibr" rid="ref-41">Palma et al., 2005</xref>; <xref ref-type="bibr" rid="ref-39">Palma et al., 2012</xref>), the marsupial <italic>Dromiciops gliroides</italic> (sensu <xref ref-type="bibr" rid="ref-10">D’Elía, Hurtado &amp; D’Anatro, 2016</xref>; clade C in <xref ref-type="bibr" rid="ref-24">Himes, Gallardo &amp; Kenagy, 2008</xref>), and the pudu <italic>Pudu puda</italic> (<xref ref-type="bibr" rid="ref-18">Fuentes-Hurtado et al., 2011</xref>). Therefore, setting aside the limitations of the data analyzed in terms of loci and geographic coverage, the phylogeographic pattern found in <italic>A. manni</italic> is unique among the mammals studied to date in the Patagonian Valdivian forest.</p>
+         <table-wrap id="table-3">
+            <object-id pub-id-type="doi">10.7717/peerj.6130/table-3</object-id><label>Table 3</label><caption>
+               <title>Demographic history of <italic>Abrothrix manni</italic>.</title>
+               <p>Indexes of demographic history for four arrangements of samples of Abrothrix manni. Tajima’s D (D), Fu’s Fs (Fs), sum of squared deviation (SSD), Harpending’s raggedness index (Hr), and their respective <italic>p</italic>-values to the right. Values in bold are those that support demographic expansion.</p>
+            </caption>
+            <alternatives>
+               <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6130/table-3.png"/>
+               <table>
+                  <colgroup>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th/>
+                        <th>Group content</th>
+                        <th><italic>D</italic></th>
+                        <th><italic>p</italic></th>
+                        <th><italic>Fs</italic></th>
+                        <th><italic>p</italic></th>
+                        <th><italic>SSD</italic></th>
+                        <th><italic>p</italic></th>
+                        <th><italic>Hr</italic></th>
+                        <th><italic>p</italic></th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td>Total sample</td>
+                        <td>Samples from localities 1–10</td>
+                        <td>−0.35</td>
+                        <td>0.42</td>
+                        <td>−1.94</td>
+                        <td>0.28</td>
+                        <td><bold>0.32</bold></td>
+                        <td><bold>0.02</bold></td>
+                        <td><bold>0.06</bold></td>
+                        <td><bold>0.02</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Clade A</td>
+                        <td>Samples in clade A from localities 1–6</td>
+                        <td>−0.61</td>
+                        <td>0.31</td>
+                        <td>−1.59</td>
+                        <td>0.25</td>
+                        <td><bold>0.04</bold></td>
+                        <td><bold>∼0.00</bold></td>
+                        <td><bold>0.10</bold></td>
+                        <td><bold>∼0.00</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Clade B</td>
+                        <td>Samples in clade B from localities 6–10</td>
+                        <td>−1.39</td>
+                        <td>0.08</td>
+                        <td><bold>−22.84</bold></td>
+                        <td><bold>∼0.00</bold></td>
+                        <td>0.06</td>
+                        <td>0.09</td>
+                        <td>0.14</td>
+                        <td>0.06</td>
+                     </tr>
+                     <tr>
+                        <td>Northern range</td>
+                        <td>All samples from localities 1–6</td>
+                        <td>−1.02</td>
+                        <td>0.15</td>
+                        <td>−1.92</td>
+                        <td>0.22</td>
+                        <td><bold>0.03</bold></td>
+                        <td><bold>0.02</bold></td>
+                        <td><bold>0.08</bold></td>
+                        <td><bold>∼0.00</bold></td>
+                     </tr>
+                     <tr>
+                        <td>Southern range</td>
+                        <td>All samples from localities 7–10</td>
+                        <td><bold>−1.51</bold></td>
+                        <td><bold>0.05</bold></td>
+                        <td>1.27</td>
+                        <td>0.22</td>
+                        <td>0.02</td>
+                        <td>0.47</td>
+                        <td>0.078</td>
+                        <td>0.45</td>
+                     </tr>
+                     <tr>
+                        <td>Eastern range</td>
+                        <td>All samples from localities 5–9</td>
+                        <td>−0.86</td>
+                        <td>0.19</td>
+                        <td>−1.74</td>
+                        <td>0.20</td>
+                        <td>0.08</td>
+                        <td>0.08</td>
+                        <td>0.10</td>
+                        <td>0.06</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </alternatives>
+         </table-wrap>
+         <fig id="fig-3">
+            <object-id pub-id-type="doi">10.7717/peerj.6130/fig-3</object-id><label>Figure 3</label><caption>
+               <title>Bayesian skyline plots for populations of <italic>Abrothrix manni</italic>.</title>
+               <p>Bayesian skyline plots showing the change in effective population size (<italic>y</italic>-axis) through time (in thousand years; <italic>x</italic>-axis) for distinct samples of haplotypes of <italic>Abrothrix manni</italic>: (A) total sample; (B) clade A; (C) clade B; (D) northern range; (E) southern range; (F) eastern range.</p>
+            </caption>
+            <graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6130/fig-3.png"/>
+         </fig>
+         <p>The distributional area of <italic>A. manni</italic> has been highly impacted by the Quaternary climate oscillations. Environmental dynamics in this area include changes in the spatial configuration of forests (e.g., reduction, fragmentation, and expansion) and the extension of a glacial ice cap in pre-Andean and Andean areas during the LGM (<xref ref-type="bibr" rid="ref-69">Villagrán, Moreno &amp; Villa, 1995</xref>; <xref ref-type="bibr" rid="ref-22">Heusser, Heusser &amp; Lowell, 1999</xref>; <xref ref-type="bibr" rid="ref-31">McCulloch et al., 2000</xref>; <xref ref-type="bibr" rid="ref-42">Ponce et al., 2011</xref>). Having in mind that <italic>A. manni</italic> is a forest-dwelling species with a restricted geographic range, the uncovered phylogeographic pattern suggests a process of local differentiation in at least two areas that are latitudinally segregated, one in the north and another in the south of the species distribution. Determining the absolute time for the formation of the two main intraspecific lineages of <italic>A. manni</italic> remains a challenging task. However, considering the estimation of 0.6 MY as the crown age of the species (see <xref ref-type="fig" rid="fig-2">Fig. 2</xref> in <xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta, 2015</xref>; but note the error bar ranging from more than 1 MY to a few thousand years ago), it is possible that the two main lineages of <italic>A. manni</italic> may have diverged in the context of Pleistocene forest fragmentation occurring in the area (<xref ref-type="bibr" rid="ref-67">Villagrán, 1991</xref>; <xref ref-type="bibr" rid="ref-68">Villagrán &amp; Hinojosa, 1997</xref>; <xref ref-type="bibr" rid="ref-22">Heusser, Heusser &amp; Lowell, 1999</xref>). If, as hypothesized, both main mitochondrial lineages of <italic>A. manni</italic> differentiated in allopatry, it is necessary to propose an event of secondary contact after the differentiation of the northern and southern lineages of <italic>A. manni</italic>. Our sampling design detected a single intermediate locality of sympatry of these lineages (locality 6, <xref ref-type="table" rid="table-1">Table 1</xref>, <xref ref-type="fig" rid="fig-1">Fig. 1</xref>). Since there are not noteworthy discontinuities in the non-sampled area between the known areas of occupancy of both clades, we anticipate that more sites of contact might be found with a denser geographic coverage.</p>
+         <p>The existence of Pleistocene refugia in the Valdivian forest of North-Western Patagonia has been proposed in an increasing number of studies, including reptiles (<xref ref-type="bibr" rid="ref-65">Victoriano et al., 2008</xref>; <xref ref-type="bibr" rid="ref-63">Vera-Escalona et al., 2012</xref>; <xref ref-type="bibr" rid="ref-36">Muñoz Mendoza et al., 2017</xref>), amphibians (<xref ref-type="bibr" rid="ref-38">Nuñez et al., 2011</xref>), fishes (<xref ref-type="bibr" rid="ref-72">Zemlak et al., 2008</xref>; <xref ref-type="bibr" rid="ref-19">González-Wevar et al., 2015</xref>) and insects (<xref ref-type="bibr" rid="ref-71">Xu et al., 2009</xref>). An initial model of a single coastal refugium has been rapidly replaced by a more complex scenario of multiple refugia (<xref ref-type="bibr" rid="ref-43">Premoli, Kitzberger &amp; Veblen, 2000</xref>; <xref ref-type="bibr" rid="ref-45">Premoli et al., 2003</xref>; <xref ref-type="bibr" rid="ref-3">Azpilicueta, Marchelli &amp; Gallo, 2009</xref>; <xref ref-type="bibr" rid="ref-38">Nuñez et al., 2011</xref>; <xref ref-type="bibr" rid="ref-63">Vera-Escalona et al., 2012</xref>). In any case, palynological, palaeoclimatic and genetic data suggest that non-glaciated coastal areas from northern Chiloe up northwards were mainly forested during the LGM (<xref ref-type="bibr" rid="ref-67">Villagrán, 1991</xref>; <xref ref-type="bibr" rid="ref-68">Villagrán &amp; Hinojosa, 1997</xref>; <xref ref-type="bibr" rid="ref-22">Heusser, Heusser &amp; Lowell, 1999</xref>). Accordingly, several tree species, such as <italic>Nothofagus pumilio</italic>, <italic>N. oblicua</italic>, <italic>Podocarpus nubigena</italic>, and <italic>Euchryphia cordifolia</italic>, would have persisted not only in the coastal zone, but also near and at Los Andes (<xref ref-type="bibr" rid="ref-3">Azpilicueta, Marchelli &amp; Gallo, 2009</xref>; <xref ref-type="bibr" rid="ref-46">Quiroga &amp; Premoli, 2010</xref>; <xref ref-type="bibr" rid="ref-30">Mathiasen &amp; Premoli, 2010</xref>; <xref ref-type="bibr" rid="ref-53">Segovia, Pérez &amp; Hinojosa, 2012</xref>), some of them probably moving down and uphill during the Pleistocene and the Holocene (<xref ref-type="bibr" rid="ref-67">Villagrán, 1991</xref>; <xref ref-type="bibr" rid="ref-43">Premoli, Kitzberger &amp; Veblen, 2000</xref>). <xref ref-type="bibr" rid="ref-54">Sersic et al. (2011)</xref> identified two types of refugial areas in southern Chile, a peripheral glacial refugium along the western slopes of the Andes, and a lowland glacial refugium located in the Western Chilean Pacific coast. The first one is supported by genetic evidence of—among other plants and animal species—the sigmodontine mouse <italic>Loxodontomys micropus</italic> (<xref ref-type="bibr" rid="ref-6">Cañón et al., 2010</xref>; <xref ref-type="bibr" rid="ref-54">Sersic et al., 2011</xref>). On the other hand, another sigmodontine rodent, the olive mouse <italic>Abrothrix olivacea</italic>, supports the lowland coastal refugium (<xref ref-type="bibr" rid="ref-56">Smith, Kelt &amp; Patton, 2001</xref>). In addition, both coastal and Andean refugia has been also proposed for same species (<xref ref-type="bibr" rid="ref-45">Premoli et al., 2003</xref>; e.g., <xref ref-type="bibr" rid="ref-71">Xu et al., 2009</xref>; <xref ref-type="bibr" rid="ref-54">Sersic et al., 2011</xref>; <xref ref-type="bibr" rid="ref-38">Nuñez et al., 2011</xref>; <xref ref-type="bibr" rid="ref-63">Vera-Escalona et al., 2012</xref>). Whether the suggested refugia for <italic>A. manni</italic> were coastal and/or pre-Andean is uncertain. Both scenarios are plausible for either northern or southern refugium. Irrespective the precise location of refugial areas for northern and southern lineages, our results support the local persistence of <italic>A. manni</italic> during the LGM in its current general distributional area at the Valdivian forest. In line with this idea is the fact that neither demographic indexes nor mismatch distribution test for the six geographical groups of localities showed clear signals of recent population expansion; the eastern range (<xref ref-type="table" rid="table-3">Table 3</xref>) that considers localities that would have been covered by the ice sheet during the LGM (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>). In addition, the six groups analyzed (<xref ref-type="fig" rid="fig-3">Figs. 3A</xref>–<xref ref-type="fig" rid="fig-3">3E</xref>) show a general pattern of population reduction towards the present. Noteworthily, the eastern range group shows a trend of gradual increment in the effective population size between ca. 100 KYA to 25 KYA with a minor reduction towards the present (<xref ref-type="fig" rid="fig-3">Fig. 3F</xref>). In this regard, it is of interest in future studies to include more samples of <italic>A. manni</italic> from the eastern range, particularly from Argentina (i.e., east side of the Andes) to assess if the uncovered pattern changes.</p>
+         <p>In addition to the mainland area of Central-Southern Chile, the north-west half of the large Chiloe Island has been also proposed as a refugial area (<xref ref-type="bibr" rid="ref-66">Villagran, 1988</xref>). Due to sampling limitations we could not test here for demographic stability of populations of <italic>A. manni</italic> from Chiloe, but we observed that island genetic variants are closely related to those recovered in the mainland. This was also observed in the marine otter <italic>Lontra felina</italic> (<xref ref-type="bibr" rid="ref-64">Vianna et al., 2010</xref>), the pudu deer <italic>Pudu puda</italic> (<xref ref-type="bibr" rid="ref-18">Fuentes-Hurtado et al., 2011</xref>), the marsupial <italic>Dromicios gliroides</italic> (<xref ref-type="bibr" rid="ref-24">Himes, Gallardo &amp; Kenagy, 2008</xref>), and in the long-tailed mouse <italic>Oligoryzomys longicaudatus</italic> (<xref ref-type="bibr" rid="ref-41">Palma et al., 2005</xref>). These results are in line with well-known evidence showing that during Pleistocene glacial oscillations, the Chiloe Island remained connected with the mainland due to a drop in sea level (<xref ref-type="bibr" rid="ref-22">Heusser, Heusser &amp; Lowell, 1999</xref>).</p>
+         <p>In north-western Patagonia, different mammals show signals of demographic expansion within our study area. This is the case of <italic>Dromiciops gliroides</italic> (referred as clade C in <xref ref-type="bibr" rid="ref-24">Himes, Gallardo &amp; Kenagy, 2008</xref>), <italic>Abrothrix olivacea</italic> (<xref ref-type="bibr" rid="ref-56">Smith, Kelt &amp; Patton, 2001</xref>; but see <xref ref-type="bibr" rid="ref-49">Rodríguez-Serrano, Cancino &amp; Palma, 2006</xref>) and <italic>Oligoryzomys longicaudatus</italic> (<xref ref-type="bibr" rid="ref-39">Palma et al., 2012</xref>). Contrary to the mentioned species, <italic>A. manni</italic> fails to show signals of recent demographic expansion in both northern and southern portions of its distributional range (<xref ref-type="table" rid="table-3">Table 3</xref>). On the contrary, Bayesian skyline plots showed a temporal line with an increase in the effective population size followed by a reduction towards the present (<xref ref-type="fig" rid="fig-3">Fig. 3</xref>). This population decline was estimated as occurring about 15,000-10,000 YA. This is the approximate timing of the end of the last glaciation. Distinct processes could explain the inferred recent reduction in population sizes of Mann’s soft-haired mouse. One of this is a scenario where populations of <italic>A. manni</italic> have been negatively affected by interspecific competition with other species, likely sigmodontine rodents, which would have expanded in the area after glacial conditions retreated. Also, it is possible that the demographic reduction experienced by <italic>A. manni</italic> may have been caused by the wildfire that increased in Northern Patagonian forests ca. 11,000–8,500 YA (<xref ref-type="bibr" rid="ref-1">Abarzúa &amp; Moreno, 2008</xref>; <xref ref-type="bibr" rid="ref-62">Úbeda &amp; Sarricolea, 2016</xref>) and/or eruptions such as that of the regional volcanoes Mocho-Choshuenco and Puyehue-Cordón Caulle (<xref ref-type="bibr" rid="ref-16">Fontijn et al., 2016</xref>). For the moment, the understanding of the natural history of <italic>A. manni</italic> is much limited (see <xref ref-type="bibr" rid="ref-12">D’Elía, Pardiñas &amp; Teta, 2015</xref>); as such, the just posed suggestions needs to be further evaluated with additional genetic studies (allowing testing the reduction in population sizes) as well as with field studies.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>Conclusions</title>
+         <p>The genetic variation of the mitochondrial <italic>Cytb</italic> gene of <italic>Abrothrix manni</italic> supports a history of persistence during Quaternary oscillations in its restricted distributional area at the Valdivian forest of north-western Patagonia. This, however, does not imply that this mouse was not impacted by climatic changes; on the contrary, forest fragmentation would have caused a differentiation process that led to two divergent intraspecific lineages and the posterior secondary contact between them. These conclusions are noteworthy because of the reduced geographic scale inhabited by the species. They also imply that this small area may have harbored multiple Pleistocene refugia.</p>
+         <p>Finally, with this study, which constitutes the first description of the spatial distribution of the genetic variation and historical demography of the recently described Mann’s soft-haired mouse <italic>A. manni</italic>, we hope to contribute to the understanding of evolutionary history of the local fauna, particularly of the sigmodontine rodents.</p>
+      </sec>
+   </body>
+   <back>
+      <ack>
+         <p>We are grateful to Carola Cañón, Jonathan Guzmán, and Andrés Parada, for their contribution during fieldwork, and to Natali Hurtado for her help during figure production. We also thank Lázaro Guevara and an anonymous reviewer for their comments and suggestions on this manuscript.</p>
+      </ack>
+      <sec sec-type="additional-information">
+         <title>Additional Information and Declarations</title>
+         <fn-group content-type="competing-interests">
+            <title>Competing Interests</title><fn id="conflict-1" fn-type="conflict"><p>The authors declare there are no competing interests.</p></fn></fn-group>
+         <fn-group content-type="author-contributions">
+            <title>Author Contributions</title><fn id="contribution-1" fn-type="con"><p><xref ref-type="contrib" rid="author-1">Lourdes Valdez</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p></fn><fn id="contribution-2" fn-type="con"><p><xref ref-type="contrib" rid="author-2">Guilermo D’Elía</xref> conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Animal Ethics</title><fn id="addinfo-1"><p>The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers):</p>
+            <p>Comité de Bioética “Uso de Animales en la investigación” approved the research. The approval documentation number is 311/2018.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Field Study Permissions</title><fn id="addinfo-2"><p>The following information was supplied relating to field study approvals (i.e., approving body and any reference numbers):</p>
+            <p>Animal capture and collection were approved by the Servicio Nacional Ganadero de Chile (SAG) and the study was approved by the Comité de Bioética “Uso de animales en la Investigación”, Universidad Austral de Chile (UACh).</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>DNA Deposition</title><fn id="addinfo-3"><p>The following information was supplied regarding the deposition of DNA sequences:</p>
+            <p>The Cytochrome-b sequences described here are accessible via GenBank accession numbers <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/MH917342">MH917342</ext-link> to <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/ MH917371">MH917371</ext-link>.</p></fn></fn-group>
+         <fn-group content-type="other">
+            <title>Data Availability</title><fn id="addinfo-4"><p>The following information was supplied regarding data availability:</p>
+            <p>The alignment files are available at Dryad: doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5061/dryad.js7r696">10.5061/dryad.js7r696</ext-link>.</p></fn></fn-group>
+      </sec>
+      <ref-list content-type="authoryear">
+         <title>References</title>
+         <ref id="ref-1"><label>Abarzúa &amp; Moreno (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Abarzúa</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Moreno</surname>
+                     <given-names>PI</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Changing fire regimes in the temperate rainforest region of southern Chile over the last 16,000 yr</article-title>
+               <source>Quaternary Research</source>
+               <volume>69</volume>
+               <fpage>62</fpage>
+               <lpage>71</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.yqres.2007.09.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-2"><label>Avise (2000)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Avise</surname>
+                     <given-names>JC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <source>Phylogeography: the history and formation of species</source>
+               <publisher-name>Harvard University Press</publisher-name>
+               <publisher-loc>Cambridge</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="ref-3"><label>Azpilicueta, Marchelli &amp; Gallo (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Azpilicueta</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Marchelli</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Gallo</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>The effects of Quaternary Glaciations in Patagonia as evidenced by chloroplast DNA phylogeography of Southern beech <italic>Nothofagus obliqua</italic></article-title>
+               <source>Tree Genetics &amp; Genomes</source>
+               <volume>5</volume>
+               <fpage>561</fpage>
+               <lpage>571</lpage>
+               <pub-id pub-id-type="doi">10.1007/s11295-009-0209-x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-4"><label>Beheregaray (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Beheregaray</surname>
+                     <given-names>LB</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Twenty years of phylogeography: the state of the field and the challenges for the Southern Hemisphere</article-title>
+               <source>Molecular Ecology</source>
+               <volume>17</volume>
+               <fpage>3754</fpage>
+               <lpage>3774</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-294X.2008.03857.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-5"><label>Bouckaert et al. (2014)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bouckaert</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Heled</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Kühnert</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Vaughan</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Wu</surname>
+                     <given-names>C-H</given-names>
+                  </name>
+                  <name>
+                     <surname>Xie</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Suchard</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Rambaut</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Drummond</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>BEAST 2: a software platform for Bayesian evolutionary analysis</article-title>
+               <source>PLOS Computational Biology</source>
+               <volume>10</volume>
+               <fpage>e1003537</fpage>
+               <pub-id pub-id-type="doi">10.1371/journal.pcbi.1003537</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-6"><label>Cañón et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cañón</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Lessa</surname>
+                     <given-names>EP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Phylogeography of <italic>Loxodontomys micropus</italic> with comments on the alpha taxonomy of <italic>Loxodontomys</italic> (Cricetidae: Sigmodontinae)</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>91</volume>
+               <fpage>1449</fpage>
+               <lpage>1458</lpage>
+               <pub-id pub-id-type="doi">10.1644/10-MAMM-A-027.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-7"><label>Clapperton (1994)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Clapperton</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1994">1994</year>
+               <article-title>The quaternary glaciation of Chile: a review</article-title>
+               <source>Revista Chilena de Historia Natural</source>
+               <volume>67</volume>
+               <fpage>369</fpage>
+               <lpage>383</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-8"><label>Coronato, Martínez &amp; Rabassa (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Coronato</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Rabassa</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Glaciations in Argentine Patagonia, southern South America</article-title>
+               <source>Developments in Quaternary Science</source>
+               <volume>2</volume>
+               <fpage>49</fpage>
+               <lpage>67</lpage>
+               <pub-id pub-id-type="doi">10.1016/S1571-0866(04)80111-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-9"><label>Darriba et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Darriba</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Taboada</surname>
+                     <given-names>GL</given-names>
+                  </name>
+                  <name>
+                     <surname>Doallo</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Posada</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>jModelTest 2: more models, new heuristics and parallel computing</article-title>
+               <source>Nature methods</source>
+               <volume>9</volume>
+               <fpage>772</fpage>
+               <pub-id pub-id-type="doi">10.1038/nmeth.2109</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-10"><label>D’Elía, Hurtado &amp; D’Anatro (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Hurtado</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Anatro</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Alpha taxonomy of <italic>Dromiciops</italic> (Microbiotheriidae) with the description of 2 new species of monito del monte</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>97</volume>
+               <fpage>1136</fpage>
+               <lpage>1152</lpage>
+               <pub-id pub-id-type="doi">10.1644/BRB-201</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-11"><label>D’Elía &amp; Pardiñas (2004)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2004">2004</year>
+               <article-title>Systematics of Argentinean, Paraguayan, and Uruguayan swamp rats of the genus <italic>Scapteromys</italic> (Rodentia, Cricetidae, Sigmodontinae)</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>85</volume>
+               <fpage>897</fpage>
+               <lpage>910</lpage>
+               <pub-id pub-id-type="doi">10.1644/BRB-201</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-12"><label>D’Elía, Pardiñas &amp; Teta (2015)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Teta</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Tribe Abrotrichini</article-title>
+               <source>Mammals of South America, Volume 2: Rodents</source>
+               <publisher-name>The University of Chicago Press</publisher-name>
+               <publisher-loc>Chicago</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Patton</surname>
+                     <given-names>JL</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <fpage>107</fpage>
+               <lpage>138</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-13"><label>D’Elía et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Teta</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Upham</surname>
+                     <given-names>NS</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>BD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Description of a new soft-haired mouse, genus <italic>Abrothrix</italic> (Sigmodontinae), from the temperate Valdivian rainforest</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>96</volume>
+               <fpage>839</fpage>
+               <lpage>853</lpage>
+               <pub-id pub-id-type="doi">10.1093/jmammal/gyv103</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-14"><label>Drummond et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Drummond</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Rambaut</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Shapiro</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Pybus</surname>
+                     <given-names>OG</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Bayesian coalescent inference of past population dynamics from molecular sequences</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>22</volume>
+               <fpage>1185</fpage>
+               <lpage>1192</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msi103</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-15"><label>Excoffier &amp; Lischer (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Excoffier</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Lischer</surname>
+                     <given-names>HEL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows</article-title>
+               <source>Molecular Ecology Resources</source>
+               <volume>10</volume>
+               <fpage>564</fpage>
+               <lpage>567</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1755-0998.2010.02847.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-16"><label>Fontijn et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fontijn</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Rawson</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Van Daele</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Moernaut</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Abarzúa</surname>
+                     <given-names>AM</given-names>
+                  </name>
+                  <name>
+                     <surname>Heirman</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Bertrand</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Pyle</surname>
+                     <given-names>DM</given-names>
+                  </name>
+                  <name>
+                     <surname>Mather</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name>
+                     <surname>De Batist</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Naranjo</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Moreno</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Synchronisation of sedimentary records using tephra: a postglacial tephrochronological model for the Chilean Lake District</article-title>
+               <source>Quaternary Science Reviews</source>
+               <volume>137</volume>
+               <fpage>234</fpage>
+               <lpage>254</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.quascirev.2016.02.015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-17"><label>Fu (1996)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fu</surname>
+                     <given-names>Y</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>New statistical tests of neutrality for DNA samples from a population</article-title>
+               <source>Genetics</source>
+               <volume>143</volume>
+               <fpage>557</fpage>
+               <lpage>570</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-18"><label>Fuentes-Hurtado et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fuentes-Hurtado</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Marín</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>González-Acuña</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Verdugo</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Vidal</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Vianna</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Molecular divergence between insular and continental Pudu deer (<italic>Pudu puda</italic>) populations in the Chilean Patagonia</article-title>
+               <source>Studies on Neotropical Fauna and Environment</source>
+               <volume>46</volume>
+               <fpage>23</fpage>
+               <lpage>33</lpage>
+               <pub-id pub-id-type="doi">10.1080/01650521.2010.537906</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-19"><label>González-Wevar et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>González-Wevar</surname>
+                     <given-names>CA</given-names>
+                  </name>
+                  <name>
+                     <surname>Salinas</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Hüne</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Segovia</surname>
+                     <given-names>NI</given-names>
+                  </name>
+                  <name>
+                     <surname>Vargas-Chacoff</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Astorga</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Cañete</surname>
+                     <given-names>JI</given-names>
+                  </name>
+                  <name>
+                     <surname>Poulin</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>Phylogeography in <italic>Galaxias maculatus</italic> (Jenyns, 1848) along two biogeographical provinces in the Chilean Coast</article-title>
+               <source>PLOS ONE</source>
+               <volume>10</volume>
+               <fpage>1</fpage>
+               <lpage>20</lpage>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0131289</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-20"><label>Harpeding (1994)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harpeding</surname>
+                     <given-names>HC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1994">1994</year>
+               <article-title>Signature of ancient population growth in a low-resolution mitochondrial DNA mismatch distribution</article-title>
+               <source>Human Biology</source>
+               <volume>66</volume>
+               <fpage>591</fpage>
+               <lpage>600</lpage>
+               <pub-id pub-id-type="doi">10.1533/9781845691738.index</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-21"><label>Heusser (1984)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heusser</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1984">1984</year>
+               <article-title>Late-glacial-holocene climate of the Lake District of Chile</article-title>
+               <source>Quaternary Research</source>
+               <volume>22</volume>
+               <fpage>77</fpage>
+               <lpage>90</lpage>
+               <pub-id pub-id-type="doi">10.1016/0033-5894(84)90008-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-22"><label>Heusser, Heusser &amp; Lowell (1999)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heusser</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Heusser</surname>
+                     <given-names>LE</given-names>
+                  </name>
+                  <name>
+                     <surname>Lowell</surname>
+                     <given-names>TV</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1999">1999</year>
+               <article-title>Palaeoecology of the Southern Chilean Lake District—isla grande de chiloe during middle—late llanquihue glaciation and deglaciation</article-title>
+               <source>Geografiska Annaler</source>
+               <volume>81 A</volume>
+               <fpage>231</fpage>
+               <lpage>284</lpage>
+               <pub-id pub-id-type="doi">10.1111/1468-0459.00058</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-23"><label>Heusser et al. (1996)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Heusser</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Lowell</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Heusser</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name>
+                     <surname>Hauser</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Andersen</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name>
+                     <surname>Denton</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1996">1996</year>
+               <article-title>FulI-glacial-late-glacial palaeoclimate of the Southern Andes: evidence from pollen, beetle and glacial records</article-title>
+               <source>Journal of Auaternary Science</source>
+               <volume>11</volume>
+               <fpage>173</fpage>
+               <lpage>184</lpage>
+               <pub-id pub-id-type="doi">10.1002/(sici)1099-1417(199605/06)11:3&lt;173::aid-jqs237&gt;3.0.co;2-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-24"><label>Himes, Gallardo &amp; Kenagy (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Himes</surname>
+                     <given-names>CMT</given-names>
+                  </name>
+                  <name>
+                     <surname>Gallardo</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name>
+                     <surname>Kenagy</surname>
+                     <given-names>GJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Historical biogeography and post-glacial recolonization of South American temperate rain forest by the relictual marsupial <italic>Dromiciops gliroides</italic></article-title>
+               <source>Journal of Biogeography</source>
+               <volume>35</volume>
+               <fpage>1415</fpage>
+               <lpage>1424</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-2699.2008.01895.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-25"><label>Hulton et al. (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hulton</surname>
+                     <given-names>NR</given-names>
+                  </name>
+                  <name>
+                     <surname>Purves</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>McCulloch</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Sugden</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Bentley</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>The Last Glacial Maximum and deglaciation in southern South America</article-title>
+               <source>Quaternary Science Reviews</source>
+               <volume>21</volume>
+               <fpage>233</fpage>
+               <lpage>241</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0277-3791(01)00103-2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-26"><label>Knowles &amp; Maddison (2002)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Knowles</surname>
+                     <given-names>LL</given-names>
+                  </name>
+                  <name>
+                     <surname>Maddison</surname>
+                     <given-names>WP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2002">2002</year>
+               <article-title>Statistical phylogeography</article-title>
+               <source>Molecular Ecology</source>
+               <volume>11</volume>
+               <fpage>2623</fpage>
+               <lpage>2635</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-294X.2002.01637.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-27"><label>Kuhner, Yamato &amp; Felsenstein (1998)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kuhner</surname>
+                     <given-names>MK</given-names>
+                  </name>
+                  <name>
+                     <surname>Yamato</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Felsenstein</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1998">1998</year>
+               <article-title>Maximum likelihood estimation of population growth rates based on the coalescent</article-title>
+               <source>Genetics</source>
+               <volume>49</volume>
+               <fpage>429</fpage>
+               <lpage>434</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-28"><label>Kumar, Stecher &amp; Tamura (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kumar</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Stecher</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Tamura</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>33</volume>
+               <fpage>1870</fpage>
+               <lpage>1874</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msw054</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-29"><label>Lessa, D’Elía &amp; Pardiñas (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lessa</surname>
+                     <given-names>EP</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Genetic footprints of late Quaternary climate change in the diversity of Patagonian-Fueguian rodents</article-title>
+               <source>Molecular Ecology</source>
+               <volume>19</volume>
+               <fpage>3031</fpage>
+               <lpage>3037</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-294X.2010.04734.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-30"><label>Mathiasen &amp; Premoli (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mathiasen</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Premoli</surname>
+                     <given-names>AC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Out in the cold: genetic variation of <italic>Nothofagus pumilio</italic> (Nothofagaceae) provides evidence for latitudinally distinct evolutionary histories in austral South America</article-title>
+               <source>Molecular Ecology</source>
+               <volume>19</volume>
+               <fpage>371</fpage>
+               <lpage>385</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-294X.2009.04456.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-31"><label>McCulloch et al. (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McCulloch</surname>
+                     <given-names>RD</given-names>
+                  </name>
+                  <name>
+                     <surname>Bentley</surname>
+                     <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Purves</surname>
+                     <given-names>RS</given-names>
+                  </name>
+                  <name>
+                     <surname>Hulton</surname>
+                     <given-names>NRJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Sugden</surname>
+                     <given-names>DE</given-names>
+                  </name>
+                  <name>
+                     <surname>Clapperton</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Climatic inferences from glacial and palaeoecological evidence at the last glacial termination, southern South America</article-title>
+               <source>Journal of Quaternary Science</source>
+               <volume>15</volume>
+               <fpage>409</fpage>
+               <lpage>417</lpage>
+               <pub-id pub-id-type="doi">10.1002/1099-1417(200005)15:4&lt;409::AID-JQS539&gt;3.0.CO;2-#</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-32"><label>Meserve, Lang &amp; Patterson (1988)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Meserve</surname>
+                     <given-names>PL</given-names>
+                  </name>
+                  <name>
+                     <surname>Lang</surname>
+                     <given-names>BK</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>BD</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1988">1988</year>
+               <article-title>Trophic relationships of small mammals in a Chilean temperate forest</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>69</volume>
+               <fpage>721</fpage>
+               <lpage>730</lpage>
+               <pub-id pub-id-type="doi">10.2307/1381627</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-33"><label>Meserve et al. (1982)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Meserve</surname>
+                     <given-names>PL</given-names>
+                  </name>
+                  <name>
+                     <surname>Murúa</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Lopetegui</surname>
+                     <given-names>O</given-names>
+                  </name>
+                  <name>
+                     <surname>Rau</surname>
+                     <given-names>JR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1982">1982</year>
+               <article-title>Observations on the small mammal fauna of a primary temperate rain forest in southern Chile</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>63</volume>
+               <fpage>315</fpage>
+               <lpage>317</lpage>
+               <pub-id pub-id-type="doi">10.2307/1380646</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-34"><label>Minh, Nguyen &amp; Von Haeseler (2013)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Minh</surname>
+                     <given-names>BQ</given-names>
+                  </name>
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>MAT</given-names>
+                  </name>
+                  <name>
+                     <surname>Von Haeseler</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2013">2013</year>
+               <article-title>Ultrafast approximation for phylogenetic bootstrap</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>30</volume>
+               <fpage>1188</fpage>
+               <lpage>1195</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/mst024</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-35"><label>Moreno et al. (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Moreno</surname>
+                     <given-names>PI</given-names>
+                  </name>
+                  <name>
+                     <surname>Jacobson</surname>
+                     <given-names>GL</given-names>
+                  </name>
+                  <name>
+                     <surname>Lowell</surname>
+                     <given-names>TV</given-names>
+                  </name>
+                  <name>
+                     <surname>Denton</surname>
+                     <given-names>GH</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Interhemispheric climate links revealed by a late-glacial cooling episode in southern Chile</article-title>
+               <source>Nature</source>
+               <volume>409</volume>
+               <fpage>804</fpage>
+               <lpage>808</lpage>
+               <pub-id pub-id-type="doi">10.1038/35057252</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-36"><label>Muñoz Mendoza et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Muñoz Mendoza</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Panzera</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Méndez</surname>
+                     <given-names>TMA</given-names>
+                  </name>
+                  <name>
+                     <surname>Villalobos-Leiva</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sites</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Victoriano</surname>
+                     <given-names>PF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>Geography and past climate changes have shaped the evolution of a widespread lizard from the Chilean hotspot</article-title>
+               <source>Molecular Phylogenetics and Evolution</source>
+               <volume>116</volume>
+               <fpage>157</fpage>
+               <lpage>171</lpage>
+               <pub-id pub-id-type="doi">10.1016/J.YMPEV.2017.08.016</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-37"><label>Nguyen et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>L-T</given-names>
+                  </name>
+                  <name>
+                     <surname>Schmidt</surname>
+                     <given-names>HA</given-names>
+                  </name>
+                  <name>
+                     <surname>Von Haeseler</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Minh</surname>
+                     <given-names>BQ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>32</volume>
+               <fpage>268</fpage>
+               <lpage>274</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msu300</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-38"><label>Nuñez et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nuñez</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Wood</surname>
+                     <given-names>NK</given-names>
+                  </name>
+                  <name>
+                     <surname>Rabanal</surname>
+                     <given-names>FE</given-names>
+                  </name>
+                  <name>
+                     <surname>Fontanella</surname>
+                     <given-names>FM</given-names>
+                  </name>
+                  <name>
+                     <surname>Sites</surname>
+                     <given-names>JW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Amphibian phylogeography in the Antipodes: Refugia and postglacial colonization explain mitochondrial haplotype distribution in the Patagonian frog <italic>Eupsophus calcaratus</italic> (Cycloramphidae)</article-title>
+               <source>Molecular Phylogenetics and Evolution</source>
+               <volume>58</volume>
+               <fpage>343</fpage>
+               <lpage>352</lpage>
+               <pub-id pub-id-type="doi">10.1016/J.YMPEV.2010.11.026</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-39"><label>Palma et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palma</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Boric-Bargetto</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Torres-Pérez</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>CE</given-names>
+                  </name>
+                  <name>
+                     <surname>Yates</surname>
+                     <given-names>TL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Glaciation effects on the phylogeographic structure of <italic>Oligoryzomys longicaudatus</italic> (Rodentia: Sigmodontinae) in the Southern Andes</article-title>
+               <source>PLOS ONE</source>
+               <volume>7</volume>
+               <fpage>e32206</fpage>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0032206</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-40"><label> Palma, Cancino &amp; Rodríguez-Serrano (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palma</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Cancino</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Rodríguez-Serrano</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <article-title>Molecular systematics of Abrothrix longipilis (Rodentia: Cricetidae: Sigmodontinae) in Chile</article-title>
+               <source>Journal of Mammalogy</source>
+               <year iso-8601-date="2010">2010</year>
+               <volume>91</volume>
+               <issue>5</issue>
+               <fpage>1102</fpage>
+               <lpage>1111</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-41"><label>Palma et al. (2005)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palma</surname>
+                     <given-names>RE</given-names>
+                  </name>
+                  <name>
+                     <surname>Rivera-Milla</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Salazar-Bravo</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Torres-Pérez</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Marquet</surname>
+                     <given-names>PA</given-names>
+                  </name>
+                  <name>
+                     <surname>Spotorno</surname>
+                     <given-names>AE</given-names>
+                  </name>
+                  <name>
+                     <surname>Meynard</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name>
+                     <surname>Yates</surname>
+                     <given-names>TL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2005">2005</year>
+               <article-title>Phylogeography of Oligoryzomys longicaudatus (Rodentia: Sigmodontinae) in Temperate South America</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>86</volume>
+               <fpage>191</fpage>
+               <lpage>200</lpage>
+               <pub-id pub-id-type="doi">10.1644/1545-1542(2005)086&lt;0191:POOLRS&gt;2.0.CO;2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-42"><label>Ponce et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ponce</surname>
+                     <given-names>JF</given-names>
+                  </name>
+                  <name>
+                     <surname>Rabassa</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Coronato</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Borromei</surname>
+                     <given-names>AM</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Palaeogeographical evolution of the Atlantic coast of Pampa and Patagonia from the last glacial maximum to the Middle Holocene</article-title>
+               <source>Biological Journal of the Linnean Society</source>
+               <volume>103</volume>
+               <fpage>363</fpage>
+               <lpage>379</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1095-8312.2011.01653.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-43"><label>Premoli, Kitzberger &amp; Veblen (2000)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Premoli</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Kitzberger</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Veblen</surname>
+                     <given-names>TT</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2000">2000</year>
+               <article-title>Isozyme variation and recent biogeographical history of the long-lived conifer <italic>Fitzroya cupressoides</italic></article-title>
+               <source>Journal of Biogeography</source>
+               <volume>27</volume>
+               <fpage>251</fpage>
+               <lpage>260</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-2699.2000.00402.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-44"><label>Premoli, Mathiasen &amp; Kitzberger (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Premoli</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Mathiasen</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Kitzberger</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Southern-most <italic>Nothofagus</italic> trees enduring ice ages: genetic evidence and ecological niche retrodiction reveal high latitude (54 S) glacial refugia</article-title>
+               <source>Palaeogeography, Palaeoclimatology, Palaeoecology</source>
+               <volume>298</volume>
+               <fpage>247</fpage>
+               <lpage>256</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.palaeo.2010.09.030</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-45"><label>Premoli et al. (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Premoli</surname>
+                     <given-names>AC</given-names>
+                  </name>
+                  <name>
+                     <surname>Vergara</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Souto</surname>
+                     <given-names>CP</given-names>
+                  </name>
+                  <name>
+                     <surname>Lara</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Newton</surname>
+                     <given-names>AC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>Lowland valleys shelter the ancient conifer <italic>Fitzroya cupressoides</italic> in the Central Depression of southern Chile</article-title>
+               <source>Journal of the Royal Society of New Zealand</source>
+               <volume>33</volume>
+               <fpage>623</fpage>
+               <lpage>631</lpage>
+               <pub-id pub-id-type="doi">10.1080/03014223.2003.9517749</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-46"><label>Quiroga &amp; Premoli (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quiroga</surname>
+                     <given-names>MP</given-names>
+                  </name>
+                  <name>
+                     <surname>Premoli</surname>
+                     <given-names>AC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Genetic structure of <italic>Podocarpus nubigena</italic> (Podocarpaceae) provides evidence of Quaternary and ancient historical events</article-title>
+               <source>Palaeogeography, Palaeoclimatology, Palaeoecology</source>
+               <volume>285</volume>
+               <fpage>186</fpage>
+               <lpage>193</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.palaeo.2009.11.010</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-47"><label>Rabassa, Heusser &amp; Rutter (1990)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rabassa</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Heusser</surname>
+                     <given-names>CJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Rutter</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1990">1990</year>
+               <article-title>Late-glacial and holocene of Argentine Tierra del Fuego</article-title>
+               <source>Quaternary of South America and Antarctic Peninsula</source>
+               <volume>7</volume>
+               <fpage>327</fpage>
+               <lpage>351</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-48"><label>Rambaut et al. (2018)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rambaut</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Drummond</surname>
+                     <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Xie</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name>
+                     <surname>Baele</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Suchard</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2018">2018</year>
+               <article-title>Posterior summarisation in Bayesian phylogenetics using Tracer 1.7</article-title>
+               <source>Systematic Biology</source>
+               <volume>10</volume>
+               <fpage>901</fpage>
+               <lpage>904</lpage>
+               <pub-id pub-id-type="doi">10.1093/sysbio/syy032</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-49"><label>Rodríguez-Serrano, Cancino &amp; Palma (2006)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rodríguez-Serrano</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Cancino</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Palma</surname>
+                     <given-names>RE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2006">2006</year>
+               <article-title>Molecular phylogeography of <italic>Abrothrix olivaceus</italic> (Rodentia: Sigmodontinae) in Chile</article-title>
+               <source>Journal of Mammalogy</source>
+               <volume>87</volume>
+               <fpage>971</fpage>
+               <lpage>980</lpage>
+               <pub-id pub-id-type="doi">10.1644/05-MAMM-A-393R2.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-50"><label>Rogers &amp; Harpending (1992)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rogers</surname>
+                     <given-names>AR</given-names>
+                  </name>
+                  <name>
+                     <surname>Harpending</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1992">1992</year>
+               <article-title>Population growth makes waves in the distribution of pairwise genetic differences</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>9</volume>
+               <fpage>552</fpage>
+               <lpage>569</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-51"><label>Ronquist &amp; Huelsenbeck (2003)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ronquist</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name>
+                     <surname>Huelsenbeck</surname>
+                     <given-names>JP</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2003">2003</year>
+               <article-title>MrBayes 3: Bayesian phylogenetic inference under mixed models</article-title>
+               <source>Bioinformatics</source>
+               <volume>19</volume>
+               <fpage>1572</fpage>
+               <lpage>1574</lpage>
+               <pub-id pub-id-type="doi">10.1093/bioinformatics/btg180</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-52"><label>Rozas et al. (2017)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rozas</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferrer-Mata</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Sánchez-DelBarrio</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Guirao-Rico</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name>
+                     <surname>Librado</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Ramos-Onsins</surname>
+                     <given-names>SE</given-names>
+                  </name>
+                  <name>
+                     <surname>Sánchez-Gracia</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2017">2017</year>
+               <article-title>DnaSP 6: DNA sequence polymorphism analysis of large data sets</article-title>
+               <source>Molecular Biology and Evolution</source>
+               <volume>34</volume>
+               <fpage>3299</fpage>
+               <lpage>3302</lpage>
+               <pub-id pub-id-type="doi">10.1093/molbev/msx248</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-53"><label>Segovia, Pérez &amp; Hinojosa (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Segovia</surname>
+                     <given-names>RA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez</surname>
+                     <given-names>MF</given-names>
+                  </name>
+                  <name>
+                     <surname>Hinojosa</surname>
+                     <given-names>LF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Genetic evidence for glacial refugia of the temperate tree <italic>Eucryphia cordifolia</italic> (Cunoniaceae) in southern South America</article-title>
+               <source>American Journal of Botany</source>
+               <volume>99</volume>
+               <fpage>121</fpage>
+               <lpage>129</lpage>
+               <pub-id pub-id-type="doi">10.3732/ajb.1100013</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-54"><label>Sersic et al. (2011)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sersic</surname>
+                     <given-names>AN</given-names>
+                  </name>
+                  <name>
+                     <surname>Cosacov</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Cocucci</surname>
+                     <given-names>AA</given-names>
+                  </name>
+                  <name>
+                     <surname>Johnson</surname>
+                     <given-names>LA</given-names>
+                  </name>
+                  <name>
+                     <surname>Pozner</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name>
+                     <surname>Avila</surname>
+                     <given-names>LJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Sites Jr</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Morando</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2011">2011</year>
+               <article-title>Emerging phylogeographical patterns of plants and terrestrial vertebrates from Patagonia</article-title>
+               <source>Biological Journal of the Linnean Society</source>
+               <volume>103</volume>
+               <fpage>475</fpage>
+               <lpage>494</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1095-8312.2011.01656.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-55"><label>Slatkin &amp; Hudson (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Slatkin</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Hudson</surname>
+                     <given-names>RR</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Pairwise comparisons of mitochondrial DNA sequences in stable and exponentially growing populations</article-title>
+               <source>Genetics</source>
+               <volume>129</volume>
+               <fpage>555</fpage>
+               <lpage>562</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-56"><label>Smith, Kelt &amp; Patton (2001)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Smith</surname>
+                     <given-names>MF</given-names>
+                  </name>
+                  <name>
+                     <surname>Kelt</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                  <name>
+                     <surname>Patton</surname>
+                     <given-names>JL</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2001">2001</year>
+               <article-title>Testing models of diversification in mice in the <italic>Abrothrix olivaceus/xanthorhinus</italic> complex in Chile and Argentina</article-title>
+               <source>Molecular Ecology</source>
+               <volume>10</volume>
+               <fpage>397</fpage>
+               <lpage>405</lpage>
+               <pub-id pub-id-type="doi">10.1046/j.1365-294X.2001.01183.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-57"><label>Souto et al. (2015)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Souto</surname>
+                     <given-names>CP</given-names>
+                  </name>
+                  <name>
+                     <surname>Kitzberger</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name>
+                     <surname>Arbetman</surname>
+                     <given-names>MP</given-names>
+                  </name>
+                  <name>
+                     <surname>Premoli</surname>
+                     <given-names>AC</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2015">2015</year>
+               <article-title>How do cold-sensitive species endure ice ages? Phylogeographic and paleodistribution models of postglacial range expansion of the mesothermic drought-tolerant conifer <italic>Austrocedrus chilensis</italic></article-title>
+               <source>New Phytologist</source>
+               <volume>208</volume>
+               <fpage>960</fpage>
+               <lpage>972</lpage>
+               <pub-id pub-id-type="doi">10.1111/nph.13508</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-58"><label>Tajima (1989)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tajima</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1989">1989</year>
+               <article-title>Statistical method for testing the neutral mutation hypothesis by DNA polymorphism</article-title>
+               <source>Genetics</source>
+               <volume>123</volume>
+               <fpage>585</fpage>
+               <lpage>595</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-59"><label>Teta &amp; Pardiñas (2014)</label><element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Teta</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Pardiñas</surname>
+                     <given-names>UFJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2014">2014</year>
+               <article-title>Variación morfológica cualitativa y cuantitativa en <italic>Abrothrix longipilis</italic> (Cricetidae, Sigmodontinae) Mastozoología Neotropical</article-title>
+               <volume>121</volume>
+               <fpage>291</fpage>
+               <lpage>309</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-60"><label>Thompson, Higgins &amp; Gibson (1994)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thompson</surname>
+                     <given-names>JD</given-names>
+                  </name>
+                  <name>
+                     <surname>Higgins</surname>
+                     <given-names>DG</given-names>
+                  </name>
+                  <name>
+                     <surname>Gibson</surname>
+                     <given-names>TJ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1994">1994</year>
+               <article-title>CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice</article-title>
+               <source>Nucleic Acids Research</source>
+               <volume>22</volume>
+               <fpage>4673</fpage>
+               <lpage>4680</lpage>
+               <pub-id pub-id-type="doi">10.1093/nar/22.22.4673</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-61"><label>Trifinopoulos et al. (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Trifinopoulos</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Nguyen</surname>
+                     <given-names>L-T</given-names>
+                  </name>
+                  <name>
+                     <surname>Von Haeseler</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name>
+                     <surname>Minh</surname>
+                     <given-names>BQ</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis</article-title>
+               <source>Nucleic Acids Research</source>
+               <volume>44</volume>
+               <fpage>W232</fpage>
+               <lpage>W235</lpage>
+               <pub-id pub-id-type="doi">10.1093/nar/gkw256</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-62"><label>Úbeda &amp; Sarricolea (2016)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Úbeda</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name>
+                     <surname>Sarricolea</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2016">2016</year>
+               <article-title>Wildfires in Chile: a review</article-title>
+               <source>Global and Planetary Change</source>
+               <volume>146</volume>
+               <fpage>152</fpage>
+               <lpage>161</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.gloplacha.2016.10.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-63"><label>Vera-Escalona et al. (2012)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vera-Escalona</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name>
+                     <surname>D’Elía</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Gouin</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name>
+                     <surname>Fontanella</surname>
+                     <given-names>FM</given-names>
+                  </name>
+                  <name>
+                     <surname>Muñoz Mendoza</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Sites</surname>
+                     <given-names>JW</given-names>
+                  </name>
+                  <name>
+                     <surname>Victoriano</surname>
+                     <given-names>PF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2012">2012</year>
+               <article-title>Lizards on ice: evidence for multiple refugia in <italic>Liolaemus pictus</italic> (Liolaemidae) during the Last Glacial Maximum in the Southern Andean Beech Forests</article-title>
+               <source>PLOS ONE</source>
+               <volume>7</volume>
+               <fpage>e48358</fpage>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0048358</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-64"><label>Vianna et al. (2010)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Vianna</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name>
+                     <surname>Ayerdi</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Medina-Vogel</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name>
+                     <surname>Mangel</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Zeballos</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name>
+                     <surname>Apaza</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Faugeron</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2010">2010</year>
+               <article-title>Phylogeography of the marine otter (<italic>Lontra felina</italic>): Historical and contemporary factors determining its distribution</article-title>
+               <source>Journal of Heredity</source>
+               <volume>101</volume>
+               <fpage>676</fpage>
+               <lpage>689</lpage>
+               <pub-id pub-id-type="doi">10.1093/jhered/esq088</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-65"><label>Victoriano et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Victoriano</surname>
+                     <given-names>PF</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortiz</surname>
+                     <given-names>JC</given-names>
+                  </name>
+                  <name>
+                     <surname>Benavides</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name>
+                     <surname>Adams</surname>
+                     <given-names>BJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Sites Jr</surname>
+                     <given-names>JW</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Comparative phylogeography of codistributed species of Chilean <italic>Liolaemus</italic> (Squamata: Tropiduridae) from the central-southern Andean range</article-title>
+               <source>Molecular Ecology</source>
+               <volume>17</volume>
+               <fpage>2397</fpage>
+               <lpage>2416</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-294X.2008.03741.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-66"><label>Villagran (1988)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Villagran</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1988">1988</year>
+               <article-title>Late quaternary vegetation of southern Isla Grande de Chiloé, Chile</article-title>
+               <source>Quaternary Research</source>
+               <volume>29</volume>
+               <fpage>294</fpage>
+               <lpage>306</lpage>
+               <pub-id pub-id-type="doi">10.1016/0033-5894(88)90037-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-67"><label>Villagrán (1991)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Villagrán</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1991">1991</year>
+               <article-title>Historia de los bosques templados del sur de Chile durante el Tardiglacial y Postglacial</article-title>
+               <source>Revista Chilena de Historia Natural</source>
+               <volume>64</volume>
+               <fpage>447</fpage>
+               <lpage>460</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-68"><label>Villagrán &amp; Hinojosa (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Villagrán</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Hinojosa</surname>
+                     <given-names>LF</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Historia de los bosques del sur de Sudamérica, II: Análisis Fitogeográfico</article-title>
+               <source>Revista Chilena de Historia Natural</source>
+               <volume>70</volume>
+               <fpage>241</fpage>
+               <lpage>267</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-69"><label>Villagrán, Moreno &amp; Villa (1995)</label><element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Villagrán</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Moreno</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name>
+                     <surname>Villa</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1995">1995</year>
+               <article-title>Antecedentes palinológicos de la historia cuaternaria de los bosques chilenos</article-title>
+               <source>Ecología de los Bosques Nativos de Chile</source>
+               <publisher-name>Editorial Universitaria</publisher-name>
+               <publisher-loc>Santiago</publisher-loc>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Armesto</surname>
+                     <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Villagrn</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name>
+                     <surname>Arroyo</surname>
+                     <given-names>MTK</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="ref-70"><label>Wakeley &amp; Hey (1997)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wakeley</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Hey</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="1997">1997</year>
+               <article-title>Estimating ancestral population parameters</article-title>
+               <source>Genetics</source>
+               <volume>145</volume>
+               <fpage>847</fpage>
+               <lpage>855</lpage>
+            </element-citation>
+         </ref>
+         <ref id="ref-71"><label>Xu et al. (2009)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Xu</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez-Losada</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name>
+                     <surname>Jara</surname>
+                     <given-names>CG</given-names>
+                  </name>
+                  <name>
+                     <surname>Crandall</surname>
+                     <given-names>KA</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2009">2009</year>
+               <article-title>Pleistocene glaciation leaves deep signature on the freshwater crab <italic>Aegla alacalufi</italic> in Chilean Patagonia</article-title>
+               <source>Molecular Ecology</source>
+               <volume>18</volume>
+               <fpage>904</fpage>
+               <lpage>918</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-294X.2008.04070.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="ref-72"><label>Zemlak et al. (2008)</label><element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zemlak</surname>
+                     <given-names>TS</given-names>
+                  </name>
+                  <name>
+                     <surname>Habit</surname>
+                     <given-names>EM</given-names>
+                  </name>
+                  <name>
+                     <surname>Walde</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                     <surname>Battini</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name>
+                     <surname>Adams</surname>
+                     <given-names>EDM</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruzzante</surname>
+                     <given-names>DE</given-names>
+                  </name>
+               </person-group>
+               <year iso-8601-date="2008">2008</year>
+               <article-title>Across the southern Andes on fin: glacial refugia, drainage reversals and a secondary contact zone revealed by the phylogeographical signal of <italic>Galaxias platei</italic> in Patagonia</article-title>
+               <source>Molecular Ecology</source>
+               <volume>17</volume>
+               <fpage>5049</fpage>
+               <lpage>5061</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1365-294X.2008.03987.x</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">PeerJ</journal-id>
+<journal-id journal-id-type="nlm-ta">PeerJ</journal-id>
+<journal-id journal-id-type="publisher-id">PeerJ</journal-id>
+<journal-title-group>
+<journal-title>PeerJ</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2167-8359</issn>
+<publisher>
+<publisher-name>PeerJ Inc.</publisher-name>
+<publisher-loc>San Diego, USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">6128</article-id>
+<article-id pub-id-type="doi">10.7717/peerj.6128</article-id>
+<article-categories>
+<subj-group subj-group-type="categories">
+<subject>Biogeography</subject>
+<subject>Conservation Biology</subject>
+<subject>Paleontology</subject>
+<subject>Zoology</subject>
+<subject>Climate Change Biology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Niche modeling for the genus <italic>Pogona</italic> (Squamata: Agamidae) in Australia: predicting past (late Quaternary) and future (2070) areas of suitable habitat</article-title>
+</title-group>
+<contrib-group content-type="authors">
+<contrib id="author-1" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Rej</surname>
+<given-names>Julie E.</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1">1</xref>
+<xref ref-type="aff" rid="aff-2">2</xref>
+<email>jayrej@gmail.com</email>
+</contrib>
+<contrib id="author-2" contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0003-2790-6817</contrib-id>
+<name name-style="western">
+<surname>Joyner</surname>
+<given-names>T. Andrew</given-names>
+</name>
+<xref ref-type="aff" rid="aff-2">2</xref>
+</contrib>
+<aff id="aff-1"><label>1</label><institution>Department of Wildlife Ecology</institution>, <addr-line>The Wilds, Cumberland, OH</addr-line>, <country>USA</country></aff>
+<aff id="aff-2"><label>2</label><institution>Department of Geosciences, East Tennessee State University</institution>, <addr-line>Johnson City, TN</addr-line>, <country>USA</country></aff>
+</contrib-group>
+<contrib-group content-type="editors">
+<contrib contrib-type="editor">
+<name name-style="western">
+<surname>Roberts</surname>
+<given-names>David</given-names>
+</name>
+</contrib>
+</contrib-group>
+<pub-date pub-type="epub" date-type="pub" iso-8601-date="2018-12-17">
+<day>17</day>
+<month>12</month>
+<year iso-8601-date="2018">2018</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>e6128</elocation-id>
+<history>
+<date date-type="received" iso-8601-date="2018-03-16">
+<day>16</day>
+<month>3</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+<date date-type="accepted" iso-8601-date="2018-11-16">
+<day>16</day>
+<month>11</month>
+<year iso-8601-date="2018">2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2018 Rej and Joyner</copyright-statement>
+<copyright-year>2018</copyright-year>
+<copyright-holder>Rej and Joyner</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:type="simple" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="https://peerj.com/articles/6128"/>
+<abstract>
+<sec>
+<title>Background</title>
+<p>As the climate warms, many species of reptiles are at risk of habitat loss and ultimately extinction. Locations of suitable habitat in the past, present, and future were modeled for several lizard species using MaxEnt, incorporating climatic variables related to temperature and precipitation. In this study, we predict where there is currently suitable habitat for the genus <italic>Pogona</italic> and potential shifts in habitat suitability in the past and future.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>Georeferenced occurrence records were obtained from the Global Biodiversity Information Facility, climate variables (describing temperature and precipitation) were obtained from WorldClim, and a vegetation index was obtained from AVHRR satellite data. Matching climate variables were downloaded for three different past time periods (mid-Holocene, Last Glacial Maximum, and Last Interglacial) and two different future projections representative concentration pathways (RCPs 2.6 and 8.5). MaxEnt produced accuracy metrics, response curves, and probability surfaces. For each species, parameters were adjusted for the best possible output that was biologically informative.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>Model results predicted that in the past, there was little suitable habitat for <italic>P. henrylawsoni</italic> and <italic>P. microlepidota</italic> within the areas of their current range. Past areas of suitable habitat for <italic>P. barbata</italic> were predicted to be similar to the current prediction. <italic>Pogona minor</italic> and <italic>P. nullarbor</italic> were predicted to have had a more expansive range of suitable habitat in the past, which has reduced over time. <italic>P. vitticeps</italic> was predicted to have less suitable habitat in the past when examining the region of their known occurrence; however, there was predicted growth in suitable habitat in Western Australia. Both 2070 models predict a similar distribution of habitat; however, the model produced using the 2070 RCP 8.5 climate change projection showed a larger change, both in areas of suitable habitat gain and loss. In the future, <italic>P. henrylawsoni</italic> and <italic>P. microlepidota</italic> might gain suitable habitat, while the other four species could possibly suffer habitat loss.</p>
+</sec>
+<sec>
+<title>Discussion</title>
+<p>Based on the model results, <italic>P. henrylawsoni</italic> and <italic>P. microlepidota</italic> had minimal areas of suitable habitat during the Last Glacial Maximum, possibly due to changes in tolerance or data/model limitations, especially since genetic analyses for these species suggest a much earlier emergence. The predicted late Quaternary habitat results for all species of <italic>Pogona</italic> are conservative and should be compared to the fossil record which is not possible at the moment due to the current inability to identify fossil <italic>Pogona</italic> to the species level. <italic>P. nullarbor</italic> and <italic>P. vitticeps</italic> future models predict substantial habitat loss. <italic>P. nullarbor</italic> could potentially be considered vulnerable in the present since it already has a restricted range, and a conservation plan may need to be considered.</p>
+</sec>
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd><italic>Pogona</italic></kwd>
+<kwd>Agamidae</kwd>
+<kwd>Late quaternary</kwd>
+<kwd>Niche modeling</kwd>
+<kwd>Future 2070</kwd>
+<kwd>Squamate</kwd>
+<kwd>Conservation</kwd>
+<kwd>Climate change</kwd>
+<kwd>MaxEnt</kwd>
+<kwd>Australia</kwd>
+</kwd-group>
+<funding-group>
+<funding-statement>The authors received no funding for this work.</funding-statement>
+</funding-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>Reptiles are ectothermic tetrapods that are currently threatened by several global problems such as habitat loss, invasive species, environmental pollution, disease and parasitism, unsustainable use, and rising global temperatures (<xref ref-type="bibr" rid="ref-14">Gibbons et al., 2000</xref>; <xref ref-type="bibr" rid="ref-20">Hoffmann, Chown &amp; Clusella-Trullas, 2012</xref>). These threats appear to be of great danger to many reptile species and extinctions worldwide are expected; however, population declines can be difficult to detect (<xref ref-type="bibr" rid="ref-14">Gibbons et al., 2000</xref>). The limited dispersal abilities of reptiles cause them to be threatened by rapid environmental changes. Such is the case for many species of Australian lizards that are currently at risk of severe range restriction or even extinction (<xref ref-type="bibr" rid="ref-2">Brereton, Bennet &amp; Mansergh, 1995</xref>; <xref ref-type="bibr" rid="ref-14">Gibbons et al., 2000</xref>). Models predict future habitat change for several Australian skink species, and climate-driven changes may cause the extinction of the many threatened species (<xref ref-type="bibr" rid="ref-2">Brereton, Bennet &amp; Mansergh, 1995</xref>; <xref ref-type="bibr" rid="ref-12">Fordham et al., 2012</xref>).</p>
+<p>Climate shifts have often occurred over Earth’s vast history; as a result, many organisms experience changes in morphology, physiology, geographic location, and/or extinction in response to the changes. The squamate fossil record has been the subject of limited studies, and the effects of climate on past squamate populations are even less known (<xref ref-type="bibr" rid="ref-16">Gray, Reed &amp; McDowell, 2015</xref>). Currently, there is limited published work on the late Quaternary fossil history of Agamidae from Australia, and fossil remains of <italic>Pogona</italic> cannot be identified beyond the generic level with what is currently known about their skeletal morphology (<xref ref-type="bibr" rid="ref-16">Gray, Reed &amp; McDowell, 2015</xref>; <xref ref-type="bibr" rid="ref-15">Gray et al., 2017</xref>; <xref ref-type="bibr" rid="ref-32">Rej, 2017</xref>); however, our ongoing research of agamid osteology may help inform which species are present at particular localities across Australia.</p>
+<p><italic>Pogona</italic>, commonly known as the bearded dragon, is a genus of dragon lizard (Agamidae: Squamata), that is, distributed across Australia (<xref ref-type="bibr" rid="ref-34">Wilson &amp; Swan, 2013</xref>), and the effects of climate change on this group are yet to be examined. <italic>Pogona</italic> consists of six species and three (<italic>P. barbata</italic>, <italic>P. minor</italic>, and <italic>P. vitticeps</italic>) have an extensive range, while the other three (<italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic>) have an extremely restricted range (<xref ref-type="bibr" rid="ref-33">Uetz, Freed &amp; Hosek, 1995</xref>; <xref ref-type="bibr" rid="ref-34">Wilson &amp; Swan, 2013</xref>). The only species of <italic>Pogona</italic> currently listed on the IUCN Red List is <italic>P. barbata</italic>, which is listed as a species of least concern (<xref ref-type="bibr" rid="ref-21">Hutchinson, 2010</xref>). The remaining five species have yet to be evaluated. With this project, we hope to examine the current range of suitable habitat for each species of <italic>Pogona</italic>, potential habitat shifts in response to climate change in the future, and the potential past locations of suitable habitat during the late Quaternary. Analyzing the current and predicted suitable habitat range of each <italic>Pogona</italic> species may identify vulnerable species that should be considered for conservation efforts (<xref ref-type="bibr" rid="ref-2">Brereton, Bennet &amp; Mansergh, 1995</xref>).</p>
+<p>Estimating past habitats may be helpful for paleontology and evolutionary studies (<xref ref-type="bibr" rid="ref-24">Jurestovsky &amp; Joyner, 2017</xref>). We are interested in projecting potential past suitable habitat for two reasons. First, we are interested in examining overall trends in suitable habitat changes over a larger range of time. By examining the past projections, including periods that are cooler then today (mid-Holocene and Last Glacial Maximum) and periods that are warmer (Last Interglacial), we may be able to better interpret the future projections. Second, once fossil <italic>Pogona</italic> is identifiable to the species level, comparing the fossil localities with the past projections could potentially help with understanding past evolutionary changes in physiology and the bearded dragon’s ability to adapt to a changing environment, especially if the model does not match the fossil record.</p>
+<p>Each species of <italic>Pogona</italic> has its own distinct range (<xref ref-type="fig" rid="fig-1">Fig. 1</xref>) (<xref ref-type="bibr" rid="ref-34">Wilson &amp; Swan, 2013</xref>). <italic>Pogona barbata</italic> is found in the east and prefers a woodland to dry sclerophyll forest habitat; however, <italic>P. barbata</italic> is commonly seen around cities. <italic>P. henrylawsoni</italic> is found in the inland north-central region of Queensland, and their habitat is a treeless cracked clay plain with Mitchell grass as the only vegetation. <italic>P. microlepidota</italic> is restricted to the northwest of Kimberley in Western Australia, and prefers a woodland habitat with a more humid climate. <italic>P. minor</italic> is found in the west and prefers a woodland to shrubland habitat. <italic>P. nullarbor</italic> is restricted to the Nullarbor Plain and prefers a shrubland habitat with minimal to moderate humidity. <italic>P. vitticeps</italic> is found throughout the eastern interior of Australia, and it prefers a semi-arid to arid woodland habitat with low humidity.</p>
+<fig id="fig-1">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-1</object-id>
+<label>Figure 1</label>
+<caption>
+<title>Known distribution of <italic>Pogona</italic> georeferenced from <xref ref-type="bibr" rid="ref-34">Wilson &amp; Swan (2013)</xref>.</title>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-1.png"/>
+</fig>
+<p>In this study, we used MaxEnt (maximum entropy) v3.3.3 to predict past, current, and future habitat ranges for <italic>Pogona</italic>. For our projected models into the past and future, we are assuming that tolerance is the same as the modern species. MaxEnt is a general-purpose machine learning method, that is, well-suited for species distribution modeling (<xref ref-type="bibr" rid="ref-28">Phillips, Anderson &amp; Shapire, 2006</xref>). A higher area under the curve (AUC) value indicates better discrimination between suitable and unsuitable habitat predictions for species (<xref ref-type="bibr" rid="ref-9">Elith et al., 2006</xref>). MaxEnt only requires presence data, which is helpful since absence data are not common and are much more difficult to verify. Additionally, MaxEnt has been used in several previous studies to model other lizard groups across the globe for conservation purposes. In previous studies, climate variables relating to temperature and precipitation were used since they affect thermo-regulation and metabolism in reptiles. In this study, we use similar climatic variables.</p>
+</sec>
+<sec sec-type="materials|methods">
+<title>Materials and Methods</title>
+<p>Point data for each species of <italic>Pogona</italic> were downloaded from the Global Biodiversity Information Facility (GBIF) (<xref ref-type="bibr" rid="ref-13">GBIF, 2016</xref>). There are currently six recognized species; however, <italic>P. minor</italic> consists of three subspecies: <italic>P. minor minor</italic>, <italic>P. minor minima</italic>, and <italic>P. minor mitchelli</italic> (<xref ref-type="bibr" rid="ref-34">Wilson &amp; Swan, 2013</xref>). Some literature considers <italic>P. m. minima</italic> and <italic>P. m. mitchelli</italic> to be separate species (<xref ref-type="bibr" rid="ref-33">Uetz, Freed &amp; Hosek, 1995</xref>), and as a result, the point data that were available for these three subspecies of <italic>P. minor</italic> were slightly ambiguous. <italic>P. m. minima</italic> is restricted to the Houtman Abrolhos islands off the coast of Western Australia, <italic>P. m. mitchelli</italic> is found north of the Pilbara, and <italic>P. m. minor</italic> is found throughout the west, but does not overlap with <italic>P. m. minima</italic> or <italic>P. m. mitchelli</italic> (<xref ref-type="bibr" rid="ref-34">Wilson &amp; Swan, 2013</xref>); however, the point data showed overlap (<xref ref-type="fig" rid="fig-2">Fig. 2</xref>). Due to this overlap, <italic>P. m. minor</italic> data clearly contained <italic>P. m. minima</italic> and <italic>P. m. mitchelli</italic> records. For this study we did not analyze <italic>P. m. minima</italic> or <italic>P. m. mitchelli</italic> separately since their point data did not match the known distribution. Also, since <italic>P. m. minor</italic>’s point data overlapped with the other two, we considered the <italic>P. m. minor</italic> data to have contained points for all three subspecies, and we referred to the <italic>P. m. minor</italic> data collectively as <italic>P. minor</italic> in this study.</p>
+<fig id="fig-2">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-2</object-id>
+<label>Figure 2</label>
+<caption>
+<title>Point data for <italic>Pogona minor mitchelli</italic>, <italic>P. m. minima</italic>, and <italic>P. m. minor</italic>.</title>
+<p>(A) Distribution across Australia. (B) Distribution on Houtman Abrolhos islands and the lower west coast of Western Australia.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-2.png"/>
+</fig>
+<p>We removed points with no coordinates as well as points well beyond the known occurrence for each species. This resulted in 3,357 <italic>P. barbata</italic>, 34 <italic>P. henrylawsoni</italic>, 29 <italic>P. microlepidota</italic>, 2,548 <italic>P. minor</italic>, 105 <italic>P. nullarbor</italic>, and 3,826 <italic>P. vitticeps</italic> occurrence points. Using the Species Distribution Model (SDM) toolbox in ArcMap 10.4 (Esri, Redlands, CA, USA), each set of species point data was spatially rarefied to one km (<xref ref-type="bibr" rid="ref-3">Brown, 2014</xref>). Rarefied points were then divided into training and testing points. The size of the training feature subset was set to 80%, which resulted in a 20% testing subset.</p>
+<p>All climate data were downloaded from WorldClim (<xref ref-type="bibr" rid="ref-18">Hijmans et al., 2005</xref>). Current bioclimatic variables were downloaded at 30 arc seconds (approximately one km spatial resolution) and at 2.5 min (approximately five km spatial resolution). Future bioclimatic variables for the year 2070 were downloaded from WorldClim at one km from the CCSM4 global climate/circulation model (GCM) for representative concentration pathways (RCPs) 2.6 and 8.5. There are several different future predicted climate scenarios for 2070 based on greenhouse gas emissions (<xref ref-type="bibr" rid="ref-22">IPCC, 2013</xref>). The RCP 2.6 projection represented the best-case scenario where emissions will peak by 2020 then decline over time, while the RCP 8.5 projection represented the worst-case scenario in which gas emissions will continue to rise (<xref ref-type="bibr" rid="ref-23">IPCC, 2014</xref>). By selecting both, we projected future suitable habitat, considering either scenario and spanning the range of expected future climate change. Past bioclimatic variables for mid-Holocene (∼6,000 years ago), Last Glacial Maximum (∼21,500 years ago), and Last Interglacial (∼130,000–116,000 years ago) were also downloaded from WorldClim (<xref ref-type="bibr" rid="ref-18">Hijmans et al., 2005</xref>). Both mid-Holocene and Last Glacial Maximum data were downloaded from the CCSM4 GCM but at different resolution due to availability. Only the mid-Holocene was available at one km and the finest resolution available for Last Glacial Maximum was five km. Last Interglacial climate data were available from one model type and had a resolution of one km (<xref ref-type="bibr" rid="ref-27">Otto-Bliesner et al., 2006</xref>).</p>
+<p>For comparison, we downloaded past (mid-Holocene and Last Glacial Maximum) and future (2070 2.6 and 8.5 RCP) climate data from the MIROC earth system model (ESM) and the MPI ESM from WorlClim (<xref ref-type="bibr" rid="ref-18">Hijmans et al., 2005</xref>). Similar to the CCSM4 GCM data, resolution was one km for all data with the exception of Last Glacial Maximum which was downloaded at five km. In MaxEnt, models were developed for each of the three GCM’s (CCSM4 GCM, MIROC ESM, and MPI ESM) and the outputs were compared. The three GCM’s selected were the only downscaled and bias-corrected GCM’s available from WorldClim across all time periods (which include past and future climate data).</p>
+<p>For this study we selected six climatic variables: annual mean temperature (Bio 1), maximum temperature of the warmest month (Bio 5), minimum temperature of the coldest month (Bio 6), annual precipitation (Bio 12), precipitation of the wettest quarter (Bio 16), and precipitation of the driest quarter (Bio 17). We selected the three temperature variables because a reptile’s activity level and health are dependent on their overall body temperature (<xref ref-type="bibr" rid="ref-5">Cannon, 2003</xref>). When active, the optimal body temperature for <italic>Pogona</italic> ranges from 35 to 39 °C, and to maintain this body temperature <italic>Pogona</italic> will display a variety of behaviors to either heat up or cool down (<xref ref-type="bibr" rid="ref-5">Cannon, 2003</xref>; <xref ref-type="bibr" rid="ref-7">Doneley, 2006</xref>). If the <italic>Pogona</italic>’s body temperature falls too low, their risk of disease is greatly increased, and they cannot digest food properly (<xref ref-type="bibr" rid="ref-5">Cannon, 2003</xref>); however, in the winter months the daytime temperatures can drop to below 10 °C in the southern regions of Australia, resulting in brumation behavior, which is not only normal but a necessary stimulant for reproduction in early spring (<xref ref-type="bibr" rid="ref-7">Doneley, 2006</xref>). We also selected three precipitation variables because <italic>Pogona</italic> requires a very precise amount of humidity in their environment. Overall, <italic>Pogona</italic> is adapted to an arid and dry environment (<xref ref-type="bibr" rid="ref-5">Cannon, 2003</xref>), but species are exposed to seasonal rains and spend time in humid microhabitats (<xref ref-type="bibr" rid="ref-35">Wright, 2008</xref>). <italic>Pogona</italic> can develop a respiratory infection if exposure to humidity higher than 40% is prolonged (<xref ref-type="bibr" rid="ref-7">Doneley, 2006</xref>), but without moisture in the environment, dehydration will occur, causing improper nutrient absorption and constipation (<xref ref-type="bibr" rid="ref-35">Wright, 2008</xref>).</p>
+<p>Additionally, normalized difference vegetation index (NDVI) was included for comparison with a model using only the six climatic variables (<xref ref-type="bibr" rid="ref-17">Hay et al., 2006</xref>). A global NDVI variable was developed at ∼1 km resolution by the Trypanosomiasis and Land use in Africa research group using multi-year averaged AVHRR satellite data and made available upon request. Since vegetation coverage cannot be projected into the future or past, a comparison was done with and without NDVI. If the maps were similar, then the climate variables were considered a good predictor of occurrence in the past and future.</p>
+<p>In MaxEnt, several test models were developed to find the best combination of parameters for each species before projecting into the past and future. Parameters modified followed those proposed by <xref ref-type="bibr" rid="ref-26">Merow, Smith &amp; Silander (2013)</xref> as being more biologically informative and included bias correction, background data selection, regularization value selection, and output type. Before developing the MaxEnt models, both coordinate and sampling biases were corrected. To correct for coordinate (latitudinal) bias, we projected all data points (pre-rarefied) and variable rasters to an equal area projection, since geographic coordinate systems contain areal changes moving from the equator to the poles (<xref ref-type="bibr" rid="ref-10">Elith et al., 2011</xref>). To correct for sampling bias, we used the Gaussian kernel density of sampling localities tool from the SDM toolbox on each species’ set of rarefied points. The result is a reduction of the area where background points are sampled, with only areas within or near (∼55.66 km or 0.5 decimal degree, with some variance between species given the distance decay of the underlying density surface) current species locality records utilized for background sampling. The density estimation surface is a weighted surface based on the number of occurrence records per unit area and was used to correct for sampling bias when running the models. In MaxEnt, all samples were added as background points and point data only included localities where the species was likely to inhabit. Different regularization values were tested in MaxEnt for each species and selected based on AUC values and overall range output. We tested values 0.5, 1, 3, and 5, as suggested by <xref ref-type="bibr" rid="ref-4">Brown, Bennett &amp; French (2017)</xref>. Higher regularization values (i.e., &gt;1.0) are sometimes needed to reduce overfitting caused by lower regularization multiplier values (<xref ref-type="bibr" rid="ref-31">Radosavljevic &amp; Anderson, 2014</xref>). While we strived for the highest AUC, selecting a value that had a model output most accurate to the species known range was also important. Last, we selected raw output in MaxEnt since it does not rely on post-processing assumptions and is the best output type for projecting into the past and future (<xref ref-type="bibr" rid="ref-26">Merow, Smith &amp; Silander, 2013</xref>).</p>
+<p>In addition to adjusting parameters, response curves and variable jackknifes were created during the modeling process to assess overall variable importance and the range of variable influence. Once the parameters were determined for each species, five projection models were developed that predicted two future (2070 RCP 2.6 and RCP 8.5) and three past (Last Interglacial, mid-Holocene, and Last Glacial Maximum) climate scenarios. Original model projections of the two future time periods, mid-Holocene, and Last Glacial Maximum were developed using the CCSM4 GCM data. Subsequent models were developed using the MIROC ESM and the MPI ESM to compare with the CCSM4 GCM results. With all models complete, the predicted occurrences were then imported into ArcMap for final analysis and map processing. Maps were converted to binary and the raster calculator tool was used to find areas of suitable habitat gain and loss. Suitability thresholds were derived from natural data breaks, which varied by model and species based on logistic threshold output from MaxEnt. All map figures were then finalized in ArcMap, and the percentages listed in <xref ref-type="fig" rid="fig-3">Figs. 3</xref>–<xref ref-type="fig" rid="fig-8">8</xref> and <xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref> represent percent of occurrences predicted within each suitability level.</p>
+<fig id="fig-3">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-3</object-id>
+<label>Figure 3</label>
+<caption>
+<title>Result maps for <italic>Pogona barbata</italic>.</title>
+<p>(A) Test and train point distribution. (B) Current predicted areas of suitable habitat where highly suitable is &gt;39.9% of occurrences predicted, and low suitability is &lt;16.9% of occurrences predicted. (C) Future (2070 RCP 2.6) predicted change. (D) Future (2070 RCP 8.5) predicted change. (E) Past (mid-Holocene) predicted change. (F) Past (Last Glacial Maximum) predicted change. (G) Past (Last Interglacial) predicted change.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-3.png"/>
+</fig>
+<fig id="fig-4">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-4</object-id>
+<label>Figure 4</label>
+<caption>
+<title>Result maps for <italic>Pogona henrylawsoni</italic>.</title>
+<p>(A) Test and train point distribution. (B) Current predicted areas of suitable habitat where highly suitable is &gt;30.2% of occurrences predicted, and low suitability is &lt;7.8% of occurrences predicted. (C) Future (2070 RCP 2.6) predicted change. (D) Future (2070 RCP 8.5) predicted change. (E) Past (mid-Holocene) predicted change. (F) Past (Last Glacial Maximum) predicted change. (G) Past (Last Interglacial) predicted change.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-4.png"/>
+</fig>
+<fig id="fig-5">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-5</object-id>
+<label>Figure 5</label>
+<caption>
+<title>Result maps for <italic>Pogona microlepidota</italic>.</title>
+<p>(A) Test and train point distribution. (B) Current predicted areas of suitable habitat where highly suitable is &gt;34.9% of occurrences predicted, and low suitability is &lt;8.6% of occurrences predicted. (C) Future (2070 RCP 2.6) predicted change. (D) Future (2070 RCP 8.5) predicted change. (E) Past (mid-Holocene) predicted change. (F) Past (Last Glacial Maximum) predicted change. (G) Past (Last Interglacial) predicted change.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-5.png"/>
+</fig>
+<fig id="fig-6">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-6</object-id>
+<label>Figure 6</label>
+<caption>
+<title>Result maps for <italic>Pogona minor</italic>.</title>
+<p>(A) Test and train point distribution. (B) Current predicted areas of suitable habitat where highly suitable is &gt;28.6% of occurrences predicted, and low suitability is &lt;14.9% of occurrences predicted. (C) Future (2070 RCP 2.6) predicted change. (D) Future (2070 RCP 8.5) predicted change. (E) Past (mid-Holocene) predicted change. (F) Past (Last Glacial Maximum) predicted change. (G) Past (Last Interglacial) predicted change.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-6.png"/>
+</fig>
+<fig id="fig-7">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-7</object-id>
+<label>Figure 7</label>
+<caption>
+<title>Result maps for <italic>Pogona nullarbor</italic>.</title>
+<p>(A) Test and train point distribution. (B) Current predicted areas of suitable habitat where highly suitable is &gt;25.1% of occurrences predicted, and low suitability is &lt;5.5% of occurrences predicted. (C) Future (2070 RCP 2.6) predicted change. (D) Future (2070 RCP 8.5) predicted change. (E) Past (mid-Holocene) predicted change. (F) Past (Last Glacial Maximum) predicted change. (G) Past (Last Interglacial) predicted change.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-7.png"/>
+</fig>
+<fig id="fig-8">
+<object-id pub-id-type="doi">10.7717/peerj.6128/fig-8</object-id>
+<label>Figure 8</label>
+<caption>
+<title>Result maps for <italic>Pogona vitticeps</italic>.</title>
+<p>(A) Test and train point distribution. (B) Current predicted areas of suitable habitat where highly suitable is &gt;48.1% of occurrences predicted, and low suitability is &lt;20.9% of occurrences predicted. (C) Future (2070 RCP 2.6) predicted change. (D) Future (2070 RCP 8.5) predicted change. (E) Past (mid-Holocene) predicted change. (F) Past (Last Glacial Maximum) predicted change. (G) Past (Last Interglacial) predicted change.</p>
+</caption>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/fig-8.png"/>
+</fig>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<p><italic>Pogona</italic> species with the larger ranges (<italic>P. barbata</italic>, <italic>P. minor</italic>, and <italic>P. vitticeps</italic>) had AUC values in the 0.70–0.79 range with high commission rates, while smaller ranged species (<italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic>) had AUC values in the &gt;0.9 range with low commission rates (<xref ref-type="table" rid="table-1">Table 1</xref>). For both <italic>P. barbata</italic> and <italic>P. vitticeps</italic>, annual precipitation was the most important climatic variable when predicting suitable habitat, and both ranked maximum temperature during the warmest month and precipitation during the wettest quarter in their top three (<xref ref-type="table" rid="table-2">Table 2</xref>). <italic>P. henrylawsoni</italic> and <italic>P. nullarbor</italic> both ranked maximum temperature during the warmest month as the most important variable for predicting habitat, followed by annual precipitation as the second most important (<xref ref-type="table" rid="table-2">Table 2</xref>). <italic>P. microlepidota</italic> and <italic>P. minor</italic> selected annual temperature as the most important variable for predicting habitat, however, for <italic>P. minor</italic>, the value was much lower and precipitation during the driest quarter was nearly as important as annual temperature (<xref ref-type="table" rid="table-2">Table 2</xref>).</p>
+<table-wrap id="table-1">
+<object-id pub-id-type="doi">10.7717/peerj.6128/table-1</object-id>
+<label>Table 1</label>
+<caption>
+<title><italic>Pogona</italic> accuracy metrics.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/table-1.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th/>
+<th>Training AUC</th>
+<th>Testing AUC</th>
+<th>Omission (%)</th>
+<th>Commission (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><italic>Pogona barbata</italic></td>
+<td>0.773</td>
+<td>0.772</td>
+<td>1.2</td>
+<td>40.6</td>
+</tr>
+<tr>
+<td><italic>Pogona henrylawsoni</italic></td>
+<td>0.970</td>
+<td>0.981</td>
+<td>8.3</td>
+<td>8.7</td>
+</tr>
+<tr>
+<td><italic>Pogona microlepidota</italic></td>
+<td>0.984</td>
+<td>0.958</td>
+<td>6.2</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td><italic>Pogona minor</italic></td>
+<td>0.762</td>
+<td>0.752</td>
+<td>9.9</td>
+<td>59.2</td>
+</tr>
+<tr>
+<td><italic>Pogona nullarbor</italic></td>
+<td>0.989</td>
+<td>0.983</td>
+<td>9.8</td>
+<td>2.3</td>
+</tr>
+<tr>
+<td><italic>Pogona vitticeps</italic></td>
+<td>0.737</td>
+<td>0.716</td>
+<td>10</td>
+<td>49.1</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<table-wrap id="table-2">
+<object-id pub-id-type="doi">10.7717/peerj.6128/table-2</object-id>
+<label>Table 2</label>
+<caption>
+<title><italic>Pogona</italic> variable importance.</title>
+</caption>
+<alternatives>
+<graphic mimetype="image" mime-subtype="png" xlink:href="https://peerj.com/articles/6128/table-2.png"/>
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th/>
+<th>Variable</th>
+<th>Permutation importance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6"><italic>Pogona barbata</italic></td>
+<td>Bio 12</td>
+<td>45.9</td>
+</tr>
+<tr>
+<td>Bio 05</td>
+<td>34.2</td>
+</tr>
+<tr>
+<td>Bio 17</td>
+<td>19.2</td>
+</tr>
+<tr>
+<td>Bio 06</td>
+<td>0.7</td>
+</tr>
+<tr>
+<td>Bio 01</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bio 16</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="6"><italic>Pogona henrylawsoni</italic></td>
+<td>Bio 05</td>
+<td>41.8</td>
+</tr>
+<tr>
+<td>Bio 12</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Bio 17</td>
+<td>20.3</td>
+</tr>
+<tr>
+<td>Bio 16</td>
+<td>1.9</td>
+</tr>
+<tr>
+<td>Bio 01</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bio 06</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="6"><italic>Pogona microlepidota</italic></td>
+<td>Bio 01</td>
+<td>86.9</td>
+</tr>
+<tr>
+<td>Bio 05</td>
+<td>10.7</td>
+</tr>
+<tr>
+<td>Bio 17</td>
+<td>1.8</td>
+</tr>
+<tr>
+<td>Bio 16</td>
+<td>0.7</td>
+</tr>
+<tr>
+<td>Bio 06</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bio 12</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="6"><italic>Pogona minor</italic></td>
+<td>Bio 01</td>
+<td>37.4</td>
+</tr>
+<tr>
+<td>Bio 17</td>
+<td>32.4</td>
+</tr>
+<tr>
+<td>Bio 16</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Bio 06</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>Bio 12</td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>Bio 05</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td rowspan="6"><italic>Pogona nullarbor</italic></td>
+<td>Bio 05</td>
+<td>55.2</td>
+</tr>
+<tr>
+<td>Bio 12</td>
+<td>42.5</td>
+</tr>
+<tr>
+<td>Bio 16</td>
+<td>1.7</td>
+</tr>
+<tr>
+<td>Bio 17</td>
+<td>0.7</td>
+</tr>
+<tr>
+<td>Bio 01</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bio 06</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="6"><italic>Pogona vitticeps</italic></td>
+<td>Bio 12</td>
+<td>50.4</td>
+</tr>
+<tr>
+<td>Bio 17</td>
+<td>22.3</td>
+</tr>
+<tr>
+<td>Bio 05</td>
+<td>17.3</td>
+</tr>
+<tr>
+<td>Bio 06</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td>Bio 16</td>
+<td>4.4</td>
+</tr>
+<tr>
+<td>Bio 01</td>
+<td>1.1</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+</table-wrap>
+<p>When compared with the model that incorporated NDVI, the accuracy metrics were nearly identical (<xref ref-type="supplementary-material" rid="supp-8">Table S1</xref>), and the ranking of climatic variable results was very similar (<xref ref-type="supplementary-material" rid="supp-9">Table S2</xref>). The main differences were switches in rank between two variables with close permutation of importance values, for example, <italic>P. minor</italic> swapped the ranking of annual temperature and precipitation during the driest quarter (<xref ref-type="supplementary-material" rid="supp-9">Table S2</xref>). For most species, with the exception of <italic>P. henrylawsoni</italic>, NDVI ranked as fairly unimportant when predicting suitable habitat.</p>
+<p>Habitat was predicted as suitable for <italic>P. barbata</italic> along the east (<xref ref-type="fig" rid="fig-3">Fig. 3B</xref>); however, there were a few isolated regions predicted as suitable where <italic>P. barbata</italic> is not known to occur. These areas included Tasmania, central Australia, and the southwest region of Western Australia. Suitable habitat was predicted along the south coast, but there was no apparent habitat connection between the southwest and southeast corners. Future 2070 models predicted a reduction in suitable habitat for <italic>P. barbata</italic> primarily in the west region of their known range (<xref ref-type="fig" rid="fig-3">Figs. 3C</xref> and <xref ref-type="fig" rid="fig-3">3D</xref>). The future 2070 RCP 8.5 model predicted substantially more habitat reduction, primarily in the northwest region of <italic>P. barbata</italic>’s range. All past models predicted very small areas of habitat gain and loss primarily along the western and northern regions of <italic>P. barbata</italic>’s range (<xref ref-type="fig" rid="fig-3">Figs. 3E</xref>–<xref ref-type="fig" rid="fig-3">3G</xref>). The Last Glacial Maximum model predicted a small amount of habitat gain along the southern coast, which minimally connects the southeast and southwest corners (<xref ref-type="fig" rid="fig-3">Fig. 3F</xref>).</p>
+<p><italic>Pogona henrylawsoni</italic> had a predicted range of suitable habitat in the area they are found today (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>). Additionally, there were small isolated patches of predicted habitat in areas they are not known to occur, primarily in the central northwest region of Australia. Future 2070 models predicted suitable habitat increase which would connect the known range of <italic>P. henrylawsoni</italic> with the isolated patch of suitable habitat in the west; however, this connection is much weaker in the 2070 RCP 2.6 model (<xref ref-type="fig" rid="fig-4">Figs. 4C</xref> and <xref ref-type="fig" rid="fig-4">4D</xref>). The future 2070 RCP 8.5 model predicted substantially more suitable habitat and showed expansion across the majority of the north and throughout a large portion of the central east. The mid-Holocene model predicted very little suitable habitat, and the Last Glacial Maximum model predicted no suitable habitat within the known range for <italic>P. henrylawsoni</italic> (<xref ref-type="fig" rid="fig-4">Figs. 4E</xref> and <xref ref-type="fig" rid="fig-4">4F</xref>). The Last Interglacial model predicted suitable habitat in the northeast; however, this is well beyond the bounds of <italic>P. henrylawsoni</italic>’s modern range (<xref ref-type="fig" rid="fig-4">Fig. 4G</xref>).</p>
+<p>Predicted suitable habitat for <italic>P. microlepidota</italic> was along the northern coast of Australia (<xref ref-type="fig" rid="fig-5">Fig. 5B</xref>); however, <italic>P. microlepidota</italic> is only known to the western portion of this prediction. Future 2070 models predicted habitat expansion further inland, and the results of the 2070 RCP 8.5 model were slightly more extensive (<xref ref-type="fig" rid="fig-5">Figs. 5C</xref> and <xref ref-type="fig" rid="fig-5">5D</xref>). The mid-Holocene model predicted a slight loss in suitable habitat (<xref ref-type="fig" rid="fig-5">Fig. 5E</xref>), the Last Glacial Maximum model predicted massive loss with suitable habitat restricted to the coastal region of <italic>P. microlepidota</italic>’s known range (<xref ref-type="fig" rid="fig-5">Fig. 5F</xref>), and the Last Interglacial model predicted a slight gain in suitable habitat (<xref ref-type="fig" rid="fig-5">Fig. 5G</xref>).</p>
+<p>Suitable habitat for <italic>P. minor</italic> was predicted throughout most of Western Australia and included regions slightly beyond the known range, such as the Nullarbor and the eastern interior of Australia (<xref ref-type="fig" rid="fig-6">Fig. 6B</xref>). The future 2070 RCP 2.6 model predicted minimal loss of suitable habitat in the north and small patches in the interior of <italic>P. minor</italic>’s range (<xref ref-type="fig" rid="fig-6">Fig. 6C</xref>), but the future 2070 RCP 8.5 predicted a greater loss (<xref ref-type="fig" rid="fig-6">Fig. 6D</xref>). All past models predicted suitable habitat expansion to the north and east (<xref ref-type="fig" rid="fig-6">Figs. 6E</xref>–<xref ref-type="fig" rid="fig-6">6G</xref>). The mid-Holocene model predicted the least expansion, while the Last Glacial Maximum predicted the most. The mid-Holocene model also predicted a slight loss in suitable habitat in the central and eastern regions of <italic>P. minor</italic>’s range, while the Last Interglacial model predicted habitat loss in the west region.</p>
+<p><italic>Pogona nullarbor</italic> was predicted to occur in the Nullarbor Plain (<xref ref-type="fig" rid="fig-7">Fig. 7B</xref>). Additionally, there were a few isolated patches of predicted suitable habitat that fell outside of <italic>P. nullarbor</italic>’s range in the west, east, and on Tasmania. Future 2070 models predicted habitat loss in the north, and the 2070 RCP 8.5 model predicted greater loss (<xref ref-type="fig" rid="fig-7">Figs. 7C</xref> and <xref ref-type="fig" rid="fig-7">7D</xref>). All past models predicted suitable habitat gain expanding northward from <italic>P. nullarbor</italic>’s modern range (<xref ref-type="fig" rid="fig-7">Figs. 7E</xref>–<xref ref-type="fig" rid="fig-7">7G</xref>). The mid-Holocene model predicted the least amount of habitat gain, and the Last Glacial Maximum model predicted a small reduction in habitat along the south cost.</p>
+<p>Habitat was predicted as suitable throughout <italic>P. vitticeps</italic>’ known range, with the central region being considered highly suitable (<xref ref-type="fig" rid="fig-8">Fig. 8B</xref>). Additionally, the model predicted suitable habitat well beyond the known range of <italic>P. vitticeps</italic>, expanding into the west. Both future 2070 models predicted a reduction in suitable habitat in the north; however, the 2070 RCP 8.5 model predicted substantially more habitat loss (<xref ref-type="fig" rid="fig-8">Figs. 8C</xref> and <xref ref-type="fig" rid="fig-8">8D</xref>). The mid-Holocene model predicted a range of suitable habitat fairly similar to the modern prediction with the greatest amount of habitat gain in the northwest region (<xref ref-type="fig" rid="fig-8">Fig. 8E</xref>). Both the Last Glacial Maximum and Last Interglacial model predicted habitat loss in the northern portion of <italic>P. vitticeps</italic>’ known range; however, the Last Interglacial model also predicted an elongated strip of habitat gain to the northeast of <italic>P. vitticep</italic>’s modern range (<xref ref-type="fig" rid="fig-8">Figs. 8F</xref> and <xref ref-type="fig" rid="fig-8">8G</xref>). There was a substantial gain in habitat to the west in all past models; however, this is beyond the known range of <italic>P. vitticeps</italic>.</p>
+<p>For each species of <italic>Pogona</italic>, the current predicted habitat map closely matched with that of the NDVI model (<xref ref-type="supplementary-material" rid="supp-1">Fig. S1</xref>). The only species to show much of a difference was <italic>P. henrylawsoni</italic> (<xref ref-type="fig" rid="fig-4">Fig. 4B</xref>; <xref ref-type="supplementary-material" rid="supp-1">Fig. S1B</xref>). The predicted habitat range for <italic>P. henrylawsoni</italic> was more restricted and only included a portion of their known range when the NDVI variable was included. When comparing the CCSM4 GCM output with the MIROC and MPI ESM output, the results were similar for <italic>P. barbata</italic>, <italic>P. minor</italic>, and <italic>P. vitticeps</italic> (<xref ref-type="supplementary-material" rid="supp-2">Figs. S2</xref>–<xref ref-type="supplementary-material" rid="supp-4">S4</xref>). When examining the known range and surrounding areas for these three species, slight differences were observed such as areas of greater or less habitat gain/loss and shifts in isolated patches of habitat gain/loss. When comparing models for <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic>, results were also similar; however, a few projections predicted very different results (<xref ref-type="supplementary-material" rid="supp-5">Figs. S5</xref>–<xref ref-type="supplementary-material" rid="supp-7">S7</xref>). When comparing mid-Holocene output for <italic>P. henrylawsoni</italic>, both MIROC and MPI ESM predicted substantially less habitat loss (<xref ref-type="fig" rid="fig-4">Fig. 4E</xref>; <xref ref-type="supplementary-material" rid="supp-5">Figs. S5C</xref> and <xref ref-type="supplementary-material" rid="supp-5">S5G</xref>). The future 2070 RCP 8.5 MIROC ESM output for <italic>P. microlepidota</italic> predicted habitat loss rather then habitat gain (<xref ref-type="fig" rid="fig-5">Fig. 5D</xref>; <xref ref-type="supplementary-material" rid="supp-6">Figs. S6B</xref> and <xref ref-type="supplementary-material" rid="supp-6">S6F</xref>). The MPI ESM predicted almost no expansion in suitable habitat for <italic>P. nullarbor</italic> during the mid-Holocene, and MIROC ESM predicted a complete loss of all <italic>P. nullarbor</italic>’s suitable habitat with isolated habitat gains to the east and west during the Last Glacial Maximum (<xref ref-type="fig" rid="fig-7">Figs. 7E</xref> and <xref ref-type="fig" rid="fig-7">7F</xref>; <xref ref-type="supplementary-material" rid="supp-7">Figs. S7D</xref> and <xref ref-type="supplementary-material" rid="supp-7">S7G</xref>).</p>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>The model’s ability to predict areas of suitable habitat is not a perfect match with the known distribution of several species. For <italic>P. vitticeps</italic>, <italic>P. minor</italic>, and <italic>P. microlepidota</italic> suitable habitat is predicted beyond their known range. It is possible the climatic conditions are suitable for <italic>P. vitticeps</italic> in the west, for <italic>P. minor</italic> in the central east and Nullarbor, and for <italic>P. microlepidota</italic> along the north coast; however, there could be other factors such as dispersal ability and niche competition that are keeping these species restricted to their known ranges. For <italic>P. barbata</italic> and <italic>P. henrylawsoni</italic>, suitable habitat is predicted in isolated areas where the species do not occur, and while it is possible these regions could be climatically suitable for them, there is no physical way for the species to reach these locations.</p>
+<p>The AUC values for <italic>P. barbata</italic>, <italic>P. minor</italic>, and <italic>P. vitticeps</italic> are in the 0.7 range, which indicates a “good” model (<xref ref-type="bibr" rid="ref-8">Duan et al., 2014</xref>). <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic> have much higher AUC values, being in the 0.9 range, which indicates an “excellent” model. The extremely high AUC for <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic> could be due to the small sample size, and/or their very restricted distribution (<xref ref-type="bibr" rid="ref-29">Phillips et al., 2009</xref>); however, the resulting prediction is accurate since occurrence data for the species were well-sampled within their known habitat. A well-sampled dataset greatly reduces any bias associated with small sample sizes and is actually much better than models produced from very large, but poorly-sampled datasets (<xref ref-type="bibr" rid="ref-1">Bean, Stafford &amp; Brashares, 2012</xref>). While current prediction models for <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic> corroborated <xref ref-type="bibr" rid="ref-1">Bean, Stafford &amp; Brashares (2012)</xref>, comparisons of future and past GCM projections (i.e., CCSM4, MIROC, and MPI) indicated more variance than models for the other three species, which included a greater number of sample points over larger areas. Consequently, uncertainty of future and past climate projections for <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, and <italic>P. nullarbor</italic> should be considered, with a wider range of suitable habitats possible.</p>
+<p>The results of the current model and the model including NDVI are similar, confirming that the climate variables are a good indicator for predicting <italic>Pogona</italic> species occurrences, and can be used independent of NDVI to project future and past occurrences. In the past, <italic>P. barbata</italic> is predicted to have had a similar range in suitable habitat as the predicted current range. The fossil record for small mammals suggests a wetter central south Australian coast between 15,000 and 30,000 years ago which connected the southeast and southwest regions of Australia (<xref ref-type="bibr" rid="ref-25">Lundelius, 1983</xref>), and our results show a small potential of habitat connection for <italic>P. barbata</italic> during this time. Our results predict minimal suitable habitat for <italic>P. henrylawsoni</italic> and <italic>P. microlepidota</italic> during the Last Glacial Maximum; however, based on genetic studies, <italic>P. henrylawsoni</italic> is estimated to have emerged ∼2.5 million years ago, and <italic>P. microlepidota</italic> is estimated to have emerged ∼1.3 million years ago (<xref ref-type="bibr" rid="ref-6">Chen et al., 2012</xref>). Given this discrepancy, the model could have potentially failed to recognize suitable habitat, the species’ tolerance might have changed, or species could have occurred in areas outside of the modern continental boundary of Australia. During the Last Glacial Maximum, sea level was lower which left the continental shelf of Australia largely exposed (<xref ref-type="bibr" rid="ref-36">Yokoyama et al., 2001</xref>), and it is possible species such as <italic>P. microlepidota</italic>, were persisting in these exposed regions, especially since our results show them restricted to the coast.</p>
+<p>When examining the known ranges of <italic>Pogona</italic> species, <italic>P. minor</italic> and <italic>P. nullarbor</italic> are predicted to have had an expanded range of suitable habitat in the past, while <italic>P. vitticeps</italic> is predicted to have had a reduction in suitable habitat. If examining regions beyond the known range, <italic>P. vitticeps</italic> would have had substantial gains in suitable habitat in Western Australia; however, the likelihood of this species existing in the west is unknown. All predictions from the past models should be compared with the <italic>Pogona</italic> fossil record once possible. We are currently examining fossil <italic>Pogona</italic> along with other groups of agamids from Western Australia. Once our fossil specimens are identified to the species level, we will compare fossil localities with these past projections. Having actual fossil localities for species of <italic>Pogona</italic> could help improve the models and this information can potentially then be studied in other lizard groups, providing critical evidence for conservation efforts.</p>
+<p>The future 2070 model output for each <italic>Pogona</italic> species are similar between the RCP 2.6 (best-case scenario where emissions are reduced) and the RCP 8.5 (worst-case scenario where emissions will increase); however, the worst-case model results are more intensified with substantially more habitat loss and gain. In the future, <italic>P. henrylawsoni</italic> and <italic>P. microlepidota</italic> are the only species predicted to experience a gain in suitable habitat; however, it is unknown whether these lizards will expand their range due to factors such as competition and rates of dispersal. Given the best-case scenario, <italic>P. barbata</italic> and <italic>P. minor</italic> are predicted to lose a minimal amount of suitable habitat, and while the predicted loss in habitat is more substantial in the worst-case scenario, these two species should be of least concern.</p>
+<p><italic>Pogona vitticeps</italic> may lose a fair amount of habitat, especially given the worst-case scenario. Based on all projections, the best climatic conditions for suitable habitat within <italic>P. vitticeps</italic>’ known range are those of the modern and mid-Holocene. Their area of suitable habitat is predicted to have increased over the past 120,000 years but will decline in the future as the climate warms. <italic>P. nullarbor</italic> already has a restricted range which will only reduce further over time given either scenario. In the past, <italic>P. nullarbor</italic>’s predicted habitat was greater; however, their habitat area is shown to be in a decline over the past 20,000 years. This declining trend is then predicted to continue into the future. Currently, there is no IUCN status for <italic>P. nullarbor</italic> or <italic>P. vitticeps</italic>, but <italic>P. nullarbor</italic> should at least be considered vulnerable and a conservation plan may need to be considered in the future. <italic>P. vitticeps</italic> has a large population and an extensive range today, and while the models predict a potentially large loss in suitable habitat, this species does not need to be considered for a conservation plan yet; however, populations should be monitored if there is a decline through the next several decades. Overall, the genus <italic>Pogona</italic> is expected to survive into the future, and diversity will not be greatly impacted as long as greenhouse gas emissions are not higher than the scenarios used in this study.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusions</title>
+<p>MaxEnt is widely used for modeling potential habitat suitability during past, current, and future time periods, and has been used to model other lizard groups across the world. In this study, the genus <italic>Pogona</italic> was modeled to predict suitable habitat in the past, current, and future to gain an understanding of the different species’ potential responses to climate change. Models predicting areas of suitable habitat in the past should be compared to the <italic>Pogona</italic> fossil record once possible. If there is a difference between the fossil record and the predicted model, it could be due to a change in the lizard’s physiology as it adapts to the changing environment and climate, or it could be due to other factors such as niche partitioning. This evolutionary information would be of great value and could be used to improve the model’s ability to predict suitable habitat. Future models predict that <italic>P. henrylawsoni</italic> and <italic>P. microlepidota</italic> will gain suitable habitat, while the other four species are predicted to lose suitable habitat with <italic>P. nullarbor</italic> and <italic>P. vitticeps</italic> showing the most potential loss. <italic>P. nullarbor</italic> and <italic>P. vitticeps</italic> populations should be closely monitored for any signs of decline, and a conservation plan for <italic>P. nullarbor</italic> may need to be considered. The results of this study are only one set of potential habitat hypotheses and should be compared with other analyses not explored here such as molecular or phylogeographic data, population trends, extinctions of local populations, discovery of new populations, and additional modeling algorithms.</p>
+</sec>
+<sec sec-type="supplementary-material" id="supplemental-information">
+<title>Supplemental Information</title>
+<supplementary-material id="supp-1" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S1.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-1</object-id>
+<label>Supplemental Information 1</label>
+<caption>
+<title>Result maps with the inclusion of NDVI.</title>
+<p>(A) <italic>P. barbata</italic> where highly suitable is &gt; 41.83% of occurrences predicted, and low suitability is &lt; 18.01% of occurrences predicted. (B) <italic>P. henrylawsoni</italic> where highly suitable is &gt; 38.82% of occurrences predicted, and low suitability is &lt; 2.75% of occurrences predicted. (C) <italic>P. microlepidota</italic> where highly suitable is &gt; 16.08% of occurrences predicted, and low suitability is &lt; 3.92% of occurrences predicted. (D) <italic>P. minor</italic> where highly suitable is &gt; 21.96% of occurrences predicted, and low suitability is &lt; 11.37% of occurrences predicted. (E) <italic>P. nullarbor</italic> where highly suitable is &gt; 5.88% of occurrences predicted, and low suitability is &lt; 1.18% of occurrences predicted. (F) <italic>P. vitticeps</italic> where highly suitable is &gt; 39.68% of occurrences predicted, and low suitability is &lt; 18.92% of occurrences predicted.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-2" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S2.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-2</object-id>
+<label>Supplemental Information 2</label>
+<caption>
+<title>MIROC and MPI result maps for <italic>Pogona barbata</italic>.</title>
+<p>(A) MIROC Future (2070 RCP 2.6) predicted change. (B) MIROC Future (2070 RCP 8.5) predicted change. (C) MIROC Past (mid-Holocene) predicted change. (D) MIROC Past (Last Glacial Maximum) predicted change. (E) MPI Future (2070 RCP 2.6) predicted change. (F) MPI Future (2070 RCP 8.5) predicted change. (G) MPI Past (mid-Holocene) predicted change. (H) MPI Past (Last Glacial Maximum) predicted change.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-3" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S3.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-3</object-id>
+<label>Supplemental Information 3</label>
+<caption>
+<title>MIROC and MPI result maps for <italic>Pogona minor</italic>.</title>
+<p>(A) MIROC Future (2070 RCP 2.6) predicted change. (B) MIROC Future (2070 RCP 8.5) predicted change. (C) MIROC Past (mid-Holocene) predicted change. (D) MIROC Past (Last Glacial Maximum) predicted change. (E) MPI Future (2070 RCP 2.6) predicted change. (F) MPI Future (2070 RCP 8.5) predicted change. (G) MPI Past (mid-Holocene) predicted change. (H) MPI Past (Last Glacial Maximum) predicted change.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-4" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S4.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-4</object-id>
+<label>Supplemental Information 4</label>
+<caption>
+<title>MIROC and MPI result maps for <italic>Pogona vitticeps</italic>.</title>
+<p>(A) MIROC Future (2070 RCP 2.6) predicted change. (B) MIROC Future (2070 RCP 8.5) predicted change. (C) MIROC Past (mid-Holocene) predicted change. (D) MIROC Past (Last Glacial Maximum) predicted change. (E) MPI Future (2070 RCP 2.6) predicted change. (F) MPI Future (2070 RCP 8.5) predicted change. (G) MPI Past (mid-Holocene) predicted change. (H) MPI Past (Last Glacial Maximum) predicted change.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-5" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S5.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-5</object-id>
+<label>Supplemental Information 5</label>
+<caption>
+<title>MIROC and MPI result maps for <italic>Pogona henrylawsoni</italic>.</title>
+<p>(A) MIROC Future (2070 RCP 2.6) predicted change. (B) MIROC Future (2070 RCP 8.5) predicted change. (C) MIROC Past (mid-Holocene) predicted change. (D) MIROC Past (Last Glacial Maximum) predicted change. (E) MPI Future (2070 RCP 2.6) predicted change. (F) MPI Future (2070 RCP 8.5) predicted change. (G) MPI Past (mid-Holocene) predicted change. (H) MPI Past (Last Glacial Maximum) predicted change.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-6" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S6.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-6</object-id>
+<label>Supplemental Information 6</label>
+<caption>
+<title>MIROC and MPI result maps for <italic>Pogona microlepidota.</italic>.</title>
+<p>(A) MIROC Future (2070 RCP 2.6) predicted change. (B) MIROC Future (2070 RCP 8.5) predicted change. (C) MIROC Past (mid-Holocene) predicted change. (D) MIROC Past (Last Glacial Maximum) predicted change. (E) MPI Future (2070 RCP 2.6) predicted change. (F) MPI Future (2070 RCP 8.5) predicted change. (G) MPI Past (mid-Holocene) predicted change. (H) MPI Past (Last Glacial Maximum) predicted change.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-7" xlink:href="https://peerj.com/articles/6128/Supplemental_Figure_S7.png">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-7</object-id>
+<label>Supplemental Information 7</label>
+<caption>
+<title>MIROC and MPI result maps for <italic>Pogona nullarbor</italic>.</title>
+<p>(A) MIROC Future (2070 RCP 2.6) predicted change. (B) MIROC Future (2070 RCP 8.5) predicted change. (C) MIROC Past (mid-Holocene) predicted change. (D) MIROC Past (Last Glacial Maximum) predicted change. (E) MPI Future (2070 RCP 2.6) predicted change. (F) MPI Future (2070 RCP 8.5) predicted change. (G) MPI Past (mid-Holocene) predicted change. (H) MPI Past (Last Glacial Maximum) predicted change.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-8" xlink:href="https://peerj.com/articles/6128/Table_S1.docx">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-8</object-id>
+<label>Supplemental Information 8</label>
+<caption>
+<title><italic>Pogona</italic> accuracy metrics with the inclusion of NDVI.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-9" xlink:href="https://peerj.com/articles/6128/Table_S2.docx">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-9</object-id>
+<label>Supplemental Information 9</label>
+<caption>
+<title><italic>Pogona</italic> variable importance with the inclusion of NDVI.</title>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-10" xlink:href="https://peerj.com/articles/6128/Data_S1.csv">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-10</object-id>
+<label>Supplemental Information 10</label>
+<caption>
+<title>Train point raw data 1.</title>
+<p>Train longitude and latitude coordinates for <italic>Pogona</italic> species: <italic>P. barbata</italic>, <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, <italic>P. minor</italic>, <italic>P. nullarbor</italic>, and <italic>P. vitticeps</italic>.</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="supp-11" xlink:href="https://peerj.com/articles/6128/Data_S2.csv">
+<object-id pub-id-type="doi">10.7717/peerj.6128/supp-11</object-id>
+<label>Supplemental Information 11</label>
+<caption>
+<title>Test point raw data 2.</title>
+<p>Test longitude and latitude coordinates for <italic>Pogona</italic> species: <italic>P. barbata</italic>, <italic>P. henrylawsoni</italic>, <italic>P. microlepidota</italic>, <italic>P. minor</italic>, <italic>P. nullarbor</italic>, and <italic>P. vitticeps</italic>.</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<sec sec-type="additional-information">
+<title>Additional Information and Declarations</title>
+<fn-group content-type="competing-interests">
+<title>Competing Interests</title>
+<fn fn-type="conflict" id="conflict-1">
+<p>The authors declare that they have no competing interests.</p>
+</fn>
+</fn-group>
+<fn-group content-type="author-contributions">
+<title>Author Contributions</title>
+<fn fn-type="con" id="contribution-1">
+<p><xref ref-type="contrib" rid="author-1">Julie E. Rej</xref> conceived and designed the experiments, performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft.</p>
+</fn>
+<fn fn-type="con" id="contribution-2">
+<p><xref ref-type="contrib" rid="author-2">T. Andrew Joyner</xref> conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, approved the final draft.</p>
+</fn>
+</fn-group>
+<fn-group content-type="other">
+<title>Data Availability</title>
+<fn id="addinfo-1">
+<p>The following information was supplied regarding data availability:</p>
+<p>Rej, Julie (2018): ndvi_of_Australia.asc. figshare. Dataset. <uri xlink:href="https://doi.org/10.6084/m9.figshare.7115441.v1">https://doi.org/10.6084/m9.figshare.7115441.v1</uri>.</p>
+</fn>
+</fn-group>
+</sec>
+<ref-list content-type="authoryear">
+<title>References</title>
+<ref id="ref-1">
+<label>Bean, Stafford &amp; Brashares (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bean</surname>
+<given-names>WT</given-names>
+</name>
+<name>
+<surname>Stafford</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Brashares</surname>
+<given-names>JS</given-names>
+</name>
+</person-group>
+<article-title>The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models</article-title>
+<source>Ecography</source>
+<year iso-8601-date="2012">2012</year>
+<volume>35</volume>
+<issue>3</issue>
+<fpage>250</fpage>
+<lpage>258</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-0587.2011.06545.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-2">
+<label>Brereton, Bennet &amp; Mansergh (1995)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brereton</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Bennet</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mansergh</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Enhanced greenhouse climate change and its potential effect on selected fauna of south-eastern Australia: a trend analysis</article-title>
+<source>Biological Conservation</source>
+<year iso-8601-date="1995">1995</year>
+<volume>72</volume>
+<issue>3</issue>
+<fpage>339</fpage>
+<lpage>354</lpage>
+<pub-id pub-id-type="doi">10.1016/0006-3207(94)00016-j</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-3">
+<label>Brown (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>JL</given-names>
+</name>
+</person-group>
+<article-title>SDMtoolbox: a python-based GIS toolkit for landscape genetic, biogeographic, and species distribution model analyses</article-title>
+<source>Methods in Ecology and Evolution</source>
+<year iso-8601-date="2014">2014</year>
+<volume>5</volume>
+<issue>7</issue>
+<fpage>694</fpage>
+<lpage>700</lpage>
+<pub-id pub-id-type="doi">10.1111/2041-210x.12200</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-4">
+<label>Brown, Bennett &amp; French (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Bennett</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>French</surname>
+<given-names>CM</given-names>
+</name>
+</person-group>
+<article-title>SDMtoolbox 2.0: the next generation Python-based GIS toolkit for landscape genetic, biogeographic and species distribution model analyses</article-title>
+<source>PeerJ</source>
+<year iso-8601-date="2017">2017</year>
+<volume>5</volume>
+<elocation-id>e4095</elocation-id>
+<pub-id pub-id-type="doi">10.7717/peerj.4095</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-5">
+<label>Cannon (2003)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cannon</surname>
+<given-names>MJ</given-names>
+</name>
+</person-group>
+<article-title>Husbandry and veterinary aspects of the bearded dragon (<italic>Pogona spp</italic>.) in Australia</article-title>
+<source>Seminars in Avian and Exotic Pet Medicine</source>
+<year iso-8601-date="2003">2003</year>
+<volume>12</volume>
+<issue>4</issue>
+<fpage>205</fpage>
+<lpage>214</lpage>
+<pub-id pub-id-type="doi">10.1053/s1055-937x(03)00036-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-6">
+<label>Chen et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chen</surname>
+<given-names>IP</given-names>
+</name>
+<name>
+<surname>Stuart-Fox</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Hugall</surname>
+<given-names>AF</given-names>
+</name>
+<name>
+<surname>Symonds</surname>
+<given-names>MRE</given-names>
+</name>
+</person-group>
+<article-title>Sexual selection and the evolution of complex color patterns in dragon lizards</article-title>
+<source>Evolution</source>
+<year iso-8601-date="2012">2012</year>
+<volume>66</volume>
+<issue>11</issue>
+<fpage>3605</fpage>
+<lpage>3614</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1558-5646.2012.01698.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-7">
+<label>Doneley (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Doneley</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title>Caring for the bearded dragon</article-title>
+<source>Proceedings of the North American Veterinary Conference</source>
+<year iso-8601-date="2006">2006</year>
+<volume>20</volume>
+<fpage>1607</fpage>
+<lpage>1611</lpage>
+</element-citation>
+</ref>
+<ref id="ref-8">
+<label>Duan et al. (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Duan</surname>
+<given-names>R-Y</given-names>
+</name>
+<name>
+<surname>Kong</surname>
+<given-names>X-Q</given-names>
+</name>
+<name>
+<surname>Huang</surname>
+<given-names>M-Y</given-names>
+</name>
+<name>
+<surname>Fan</surname>
+<given-names>W-Y</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Z-G</given-names>
+</name>
+</person-group>
+<article-title>The predictive performance and stability of six species distribution models</article-title>
+<source>PLOS ONE</source>
+<year iso-8601-date="2014">2014</year>
+<volume>9</volume>
+<issue>11</issue>
+<elocation-id>e112764</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0112764</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-9">
+<label>Elith et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Elith</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Graham</surname>
+<given-names>CH</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Dudik</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ferrier</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Guisan</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Hijmans</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Huettmann</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Leathwick</surname>
+<given-names>JR</given-names>
+</name>
+<name>
+<surname>Lehman</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Lohmann</surname>
+<given-names>LG</given-names>
+</name>
+<name>
+<surname>Loiselle</surname>
+<given-names>BA</given-names>
+</name>
+<name>
+<surname>Manion</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Moritz</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Nakamura</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Nakazawa</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Overton</surname>
+<given-names>JMcCM</given-names>
+</name>
+<name>
+<surname>Peterson</surname>
+<given-names>AT</given-names>
+</name>
+<name>
+<surname>Philips</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Richardson</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Scachetti-Pereira</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Schapire</surname>
+<given-names>RE</given-names>
+</name>
+<name>
+<surname>Soberon</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Wisz</surname>
+<given-names>MS</given-names>
+</name>
+<name>
+<surname>Zimmermann</surname>
+<given-names>NE</given-names>
+</name>
+</person-group>
+<article-title>Novel methods improve prediction of species’ distributions from occurrence data</article-title>
+<source>Ecography</source>
+<year iso-8601-date="2006">2006</year>
+<volume>29</volume>
+<issue>2</issue>
+<fpage>129</fpage>
+<lpage>151</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2006.0906-7590.04596.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-10">
+<label>Elith et al. (2011)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Elith</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Hastie</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Dudik</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Chee</surname>
+<given-names>YE</given-names>
+</name>
+<name>
+<surname>Yates</surname>
+<given-names>CJ</given-names>
+</name>
+</person-group>
+<article-title>A statistical explanation cof MaxEnt for ecologists</article-title>
+<source>Diversity and Distributions</source>
+<year iso-8601-date="2011">2011</year>
+<volume>17</volume>
+<issue>1</issue>
+<fpage>43</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1472-4642.2010.00725.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-12">
+<label>Fordham et al. (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fordham</surname>
+<given-names>DA</given-names>
+</name>
+<name>
+<surname>Watts</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Delean</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Brook</surname>
+<given-names>BW</given-names>
+</name>
+<name>
+<surname>Heard</surname>
+<given-names>LMB</given-names>
+</name>
+<name>
+<surname>Bull</surname>
+<given-names>CM</given-names>
+</name>
+</person-group>
+<article-title>Managed relocation as an adaptation strategy for mitigating climate change threats to the persistence of an endangered lizard</article-title>
+<source>Global Change Biology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>18</volume>
+<issue>9</issue>
+<fpage>2743</fpage>
+<lpage>2755</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2486.2012.02742.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-13">
+<label>GBIF (2016)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>
+<institution>GBIF</institution>
+</collab>
+</person-group>
+<article-title>Backbone taxonomy. GBIF secretariat. Checklist dataset</article-title>
+<year iso-8601-date="2016">2016</year>
+<uri>http://doi.org/10.15468/39omei</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2017-04-20">20 April 2017</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-14">
+<label>Gibbons et al. (2000)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gibbons</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Scott</surname>
+<given-names>DE</given-names>
+</name>
+<name>
+<surname>Ryan</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Buhlmann</surname>
+<given-names>KA</given-names>
+</name>
+<name>
+<surname>Tuberville</surname>
+<given-names>TD</given-names>
+</name>
+<name>
+<surname>Metts</surname>
+<given-names>BS</given-names>
+</name>
+<name>
+<surname>Greene</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Mills</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Leiden</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Poppy</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Winne</surname>
+<given-names>CT</given-names>
+</name>
+</person-group>
+<article-title>The global decline of reptiles, déjà vu amphibians</article-title>
+<source>BioScience</source>
+<year iso-8601-date="2000">2000</year>
+<volume>50</volume>
+<issue>8</issue>
+<fpage>653</fpage>
+<lpage>666</lpage>
+<pub-id pub-id-type="doi">10.1641/0006-3568(2000)050[0653:tgdord]2.0.co;2</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-15">
+<label>Gray et al. (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Gray</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>McDowell</surname>
+<given-names>MC</given-names>
+</name>
+<name>
+<surname>Hutchinson</surname>
+<given-names>MN</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>MEH</given-names>
+</name>
+</person-group>
+<article-title>Geometric morphometrics provides an alternative approach for interpreting the affinity of fossil lizard jaws</article-title>
+<source>Journal of Herpetology</source>
+<year iso-8601-date="2017">2017</year>
+<volume>51</volume>
+<issue>3</issue>
+<fpage>375</fpage>
+<lpage>382</lpage>
+<pub-id pub-id-type="doi">10.1670/16-145</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-16">
+<label>Gray, Reed &amp; McDowell (2015)</label>
+<element-citation publication-type="conf-proc">
+<person-group person-group-type="author">
+<name>
+<surname>Gray</surname>
+<given-names>JA</given-names>
+</name>
+<name>
+<surname>Reed</surname>
+<given-names>EH</given-names>
+</name>
+<name>
+<surname>McDowell</surname>
+<given-names>MC</given-names>
+</name>
+</person-group>
+<article-title>Agamid (Reptilia: Squamata) assemblages from South Australia suggest differences between Pleistocene and modern distributions that reflect climate changes</article-title>
+<year iso-8601-date="2015">2015</year>
+<conf-name>75th Proceedings of the Society of Vertebrate Paleontology</conf-name>
+<conf-loc>Dallas</conf-loc>
+<fpage>135</fpage>
+</element-citation>
+</ref>
+<ref id="ref-17">
+<label>Hay et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hay</surname>
+<given-names>SI</given-names>
+</name>
+<name>
+<surname>Tatem</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Goetz</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Rogers</surname>
+<given-names>DJ</given-names>
+</name>
+</person-group>
+<article-title>Global environmental data for mapping infectious disease distribution</article-title>
+<source>Advances in Parasitology</source>
+<year iso-8601-date="2006">2006</year>
+<volume>62</volume>
+<fpage>37</fpage>
+<lpage>77</lpage>
+<pub-id pub-id-type="doi">10.1016/s0065-308x(05)62002-7</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-18">
+<label>Hijmans et al. (2005)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hijmans</surname>
+<given-names>RJ</given-names>
+</name>
+<name>
+<surname>Cameron</surname>
+<given-names>SE</given-names>
+</name>
+<name>
+<surname>Parra</surname>
+<given-names>JL</given-names>
+</name>
+<name>
+<surname>Jones</surname>
+<given-names>PG</given-names>
+</name>
+<name>
+<surname>Jarvis</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>
+<source>International Journal of Climatology</source>
+<year iso-8601-date="2005">2005</year>
+<volume>25</volume>
+<issue>15</issue>
+<fpage>1965</fpage>
+<lpage>1978</lpage>
+<pub-id pub-id-type="doi">10.1002/joc.1276</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-20">
+<label>Hoffmann, Chown &amp; Clusella-Trullas (2012)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hoffmann</surname>
+<given-names>AA</given-names>
+</name>
+<name>
+<surname>Chown</surname>
+<given-names>SL</given-names>
+</name>
+<name>
+<surname>Clusella-Trullas</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Upper thermal limits in terrestrial ectotherms: how constrained are they</article-title>
+<source>Function Ecology</source>
+<year iso-8601-date="2012">2012</year>
+<volume>27</volume>
+<issue>4</issue>
+<fpage>934</fpage>
+<lpage>949</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2435.2012.02036.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-21">
+<label>Hutchinson (2010)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hutchinson</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title><italic>Pogona barbata</italic></article-title>
+<source>The IUCN Red List of Threatened Species</source>
+<year iso-8601-date="2010">2010</year>
+<volume>2010</volume>
+<fpage>e.T170419A6780303</fpage>
+<pub-id pub-id-type="doi">10.2305/IUCN.UK.2010-4.RLTS.T170419A6780303.en</pub-id>
+<date-in-citation content-type="access-date" iso-8601-date="2017-05-01">1 May 2017</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-22">
+<label>IPCC (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>IPCC</institution>
+</collab>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Stocker</surname>
+<given-names>TF</given-names>
+</name>
+<name>
+<surname>Qin</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Plattner</surname>
+<given-names>G-K</given-names>
+</name>
+<name>
+<surname>Tignor</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Allen</surname>
+<given-names>SK</given-names>
+</name>
+<name>
+<surname>Boschung</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Nauels</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Xia</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Bex</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Midgley</surname>
+<given-names>PM</given-names>
+</name>
+</person-group>
+<source>The physical science basis. Contribution of working group I to the fifth assessment report of the intergovernmental panel on climate change</source>
+<year iso-8601-date="2013">2013</year>
+<publisher-loc>Cambridge, New York</publisher-loc>
+<publisher-name>Cambridge University Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-23">
+<label>IPCC (2014)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>
+<institution>IPCC</institution>
+</collab>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname>Field</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Barros</surname>
+<given-names>VR</given-names>
+</name>
+<name>
+<surname>Dokken</surname>
+<given-names>DJ</given-names>
+</name>
+<name>
+<surname>Mach</surname>
+<given-names>KJ</given-names>
+</name>
+<name>
+<surname>Mastrandrea</surname>
+<given-names>MD</given-names>
+</name>
+<name>
+<surname>Bilir</surname>
+<given-names>TE</given-names>
+</name>
+<name>
+<surname>Chatterjee</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Ebi</surname>
+<given-names>KL</given-names>
+</name>
+<name>
+<surname>Estrada</surname>
+<given-names>YO</given-names>
+</name>
+<name>
+<surname>Genova</surname>
+<given-names>RC</given-names>
+</name>
+<name>
+<surname>Girma</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Kissel</surname>
+<given-names>ES</given-names>
+</name>
+<name>
+<surname>Levy</surname>
+<given-names>AN</given-names>
+</name>
+<name>
+<surname>MacCracken</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Mastrandrea</surname>
+<given-names>PR</given-names>
+</name>
+<name>
+<surname>White</surname>
+<given-names>LL</given-names>
+</name>
+</person-group>
+<source>Impacts, adaptation, and vulnerability. Part 1: global and sectoral aspects. Contribution of working group ii to the fifth assessment report of the intergovernmental panel on climate change</source>
+<year iso-8601-date="2014">2014</year>
+<publisher-loc>Cambridge, New York</publisher-loc>
+<publisher-name>Cambridge University Press</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-24">
+<label>Jurestovsky &amp; Joyner (2017)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jurestovsky</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Joyner</surname>
+<given-names>TA</given-names>
+</name>
+</person-group>
+<article-title>Applications of Species distribution modeling for paleontology fossil detection: late Pleistocene models of saiga (Artiodactyla: Bovidae, <italic>Saiga tatarica</italic>)</article-title>
+<source>Paleobiodiversity and Palaeoenvironments</source>
+<year iso-8601-date="2017">2017</year>
+<volume>98</volume>
+<issue>2</issue>
+<fpage>277</fpage>
+<lpage>285</lpage>
+<pub-id pub-id-type="doi">10.1007/s12549-017-0298-8</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-25">
+<label>Lundelius (1983)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lundelius</surname>
+<given-names>EL</given-names>
+</name>
+</person-group>
+<article-title>Climatic implications of late Pleistocene and Holocene faunal associations in Australia</article-title>
+<source>Alcheringa: An Australasian Journal of Palaeontology</source>
+<year iso-8601-date="1983">1983</year>
+<volume>7</volume>
+<issue>2</issue>
+<fpage>125</fpage>
+<lpage>149</lpage>
+<pub-id pub-id-type="doi">10.1080/03115518308619624</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-26">
+<label>Merow, Smith &amp; Silander (2013)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Merow</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>MJ</given-names>
+</name>
+<name>
+<surname>Silander</surname>
+<given-names>JA</given-names>
+</name>
+</person-group>
+<article-title>A practical guide to MaxEnt for modeling species’ distributions: what it does, and why inputs and settings matter</article-title>
+<source>Ecography</source>
+<year iso-8601-date="2013">2013</year>
+<volume>36</volume>
+<issue>10</issue>
+<fpage>1058</fpage>
+<lpage>1069</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-0587.2013.07872.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-27">
+<label>Otto-Bliesner et al. (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Otto-Bliesner</surname>
+<given-names>BL</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Overpeck</surname>
+<given-names>JT</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>GH</given-names>
+</name>
+<name>
+<surname>Hu</surname>
+<given-names>A</given-names>
+</name>
+<collab>
+<institution>CAPE Last Interglacial Project members</institution>
+</collab>
+</person-group>
+<article-title>Simulating arctic climate warmth and icefield retreat in the last interglaciation</article-title>
+<source>Science</source>
+<year iso-8601-date="2006">2006</year>
+<volume>311</volume>
+<issue>5768</issue>
+<fpage>1751</fpage>
+<lpage>1753</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1120808</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-28">
+<label>Phillips, Anderson &amp; Shapire (2006)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Phillips</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>RP</given-names>
+</name>
+<name>
+<surname>Shapire</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Maximum entropy modeling of species geographic distribution</article-title>
+<source>Ecological Modelling</source>
+<year iso-8601-date="2006">2006</year>
+<volume>190</volume>
+<issue>3–4</issue>
+<fpage>231</fpage>
+<lpage>259</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ecolmodel.2005.03.026</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-29">
+<label>Phillips et al. (2009)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Phillips</surname>
+<given-names>SJ</given-names>
+</name>
+<name>
+<surname>Dudik</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Elith</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Graham</surname>
+<given-names>CH</given-names>
+</name>
+<name>
+<surname>Lehmann</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Leathwick</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Ferrier</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Sample selection bias and presence-only distribution models: implications for background and pseudo-absence data</article-title>
+<source>Ecological Society of America</source>
+<year iso-8601-date="2009">2009</year>
+<volume>19</volume>
+<issue>1</issue>
+<fpage>181</fpage>
+<lpage>197</lpage>
+<pub-id pub-id-type="doi">10.1890/07-2153.1</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-31">
+<label>Radosavljevic &amp; Anderson (2014)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Radosavljevic</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Anderson</surname>
+<given-names>RP</given-names>
+</name>
+</person-group>
+<article-title>Making better Maxentmodels of species distributions: complexity, overfitting and evaluation</article-title>
+<source>Journal of Biogeography</source>
+<year iso-8601-date="2014">2014</year>
+<volume>41</volume>
+<issue>4</issue>
+<fpage>629</fpage>
+<lpage>643</lpage>
+<pub-id pub-id-type="doi">10.1111/jbi.12227</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-32">
+<label>Rej (2017)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Rej</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Late quaternary dragon lizards (Agamidae: Squamata) from Western Australia</article-title>
+<year iso-8601-date="2017">2017</year>
+<comment>MS thesis, East Tennessee State University</comment>
+</element-citation>
+</ref>
+<ref id="ref-33">
+<label>Uetz, Freed &amp; Hosek (1995)</label>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Uetz</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Freed</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Hosek</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>The reptile database</article-title>
+<year iso-8601-date="1995">1995</year>
+<uri>http://www.reptile-database.org</uri>
+<date-in-citation content-type="access-date" iso-8601-date="2017-04-30">30 April 2017</date-in-citation>
+</element-citation>
+</ref>
+<ref id="ref-34">
+<label>Wilson &amp; Swan (2013)</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Wilson</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Swan</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<source>A complete guide to reptiles of Australia</source>
+<year iso-8601-date="2013">2013</year>
+<publisher-loc>Chatswood</publisher-loc>
+<publisher-name>New Holland Publishers</publisher-name>
+</element-citation>
+</ref>
+<ref id="ref-35">
+<label>Wright (2008)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wright</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Two common disorders of captive bearded dragons (<italic>Pogona vitticeps</italic>): nutritional secondary hyperparathyroidism and constipation</article-title>
+<source>Journal of Exotic Pet Medicine</source>
+<year iso-8601-date="2008">2008</year>
+<volume>17</volume>
+<issue>4</issue>
+<fpage>267</fpage>
+<lpage>272</lpage>
+<pub-id pub-id-type="doi">10.1053/j.jepm.2008.07.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ref-36">
+<label>Yokoyama et al. (2001)</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Yokoyama</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Purcell</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Lambeck</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Johnston</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Shore-line reconstruction around Australia during the last glacial maximum and late glacial stage</article-title>
+<source>Quaternary International</source>
+<year iso-8601-date="2001">2001</year>
+<volume>83–85</volume>
+<fpage>9</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="doi">10.1016/s1040-6182(01)00028-3</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>
