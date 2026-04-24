@@ -7,3 +7,5 @@ Is ngram_length in vocab needed? How do I add?
 TF = ((DTCM.T + .5) / (DTCM.T.max() + .5)) + .5 # Is this correct?
 
 What is DTM, is it different from DTCM?
+
+Is my TFIDF table complete? What do you mean by description of formula?
