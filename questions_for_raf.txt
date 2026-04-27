@@ -1,6 +1,4 @@
-- OHCO Structure (as delimitted column names): token_str, term_str, pos, pos_group, token_str, term_str
-- Columns (as delimitted column names, including `token_str`, `term_str`, `pos`, and `pos_group`): token_str and term_str are the multiindex; pos, pos_group, token_str, and term_str are the columns  
-^^ are these columns okay?
+
 
 Is ngram_length in vocab needed? How do I add?
 
@@ -22,4 +20,10 @@ Is my TFIDF table complete? What do you mean by description of formula? I attemp
 
 How do I do BOW_SENT? DOC_SENT? (IE did I do them right?)
 
+Mean topic weight of each doc or doc weight of ea topic?
+
 Thank you!
+
+
+Add TFIDF by Year - most significant words by year!! As opposed to most frequent.
+Can pull stuff out of existing notebooks!!! Ex LDA over time -- for riff section
