@@ -1,6 +1,6 @@
-# The Climate is Changing: How is Our Sentiment?
+# The Climate is Changing: How is Research?
 
-## Exploring Changing Sentiment in Climate Articles: 2013 to 2023
+## Exploring Trends in Climate Articles: 2013 to 2023
 This project explores a personal interest in climate literature over the past decade - I am curious what trends and changes by half-decade are observed. Will sentiment, urgency, length, and key words change due to increasing pressure on the climate and planet? Or, because science aims to remain unbiased, will little to no changes occur?
 
 
