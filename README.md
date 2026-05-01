@@ -9,7 +9,7 @@ research in climate and, while I plan to maintain an unbiased and professional t
 article I write, do feel an increasing sense of urgency as the climate warms more and more.
 
 
-## Corpus Descriptio
+## Corpus Description
 I dug in to creating a corpus but immediately encountered difficulties: most scientific
 journals publish PDFs, not JSONs, XMLs, or HTMLs. Through some digging, I found PeerJ, a
 journal that publishes every article in XML format, among others.
