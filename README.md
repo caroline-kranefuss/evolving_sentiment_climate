@@ -31,18 +31,6 @@ to comprise my corpus.
 ## Findings
 I began this project with a curiousity about how sentiment has evolved over time in climate change-based scientific literature. I observed some trends described in the sentiment analysis section of this document, but ultimately, hesitate to deem those the real findings of my project - so far as to have adapted the formal title of my project from Changing Sentiment to Changing Trends in Climate Research, which also reflects the greater scope of work this project ended up encompassing. I am taking this section to describe why.
 
-I begin with some photos of printed, color-coded sentences from the corpus that display words' and overall meanings' sentiments. I then examine how these sentiment assignments fit in a scientific context. For the sake of brevity, not every word discussed is displayed in the photos, but is seen in the corpus.
-
-![image.png](attachment:image.png)
-
-![image-2.png](attachment:image-2.png)
-
-![image-3.png](attachment:image-3.png)
-
-![image-4.png](attachment:image-4.png)
-
-![image-5.png](attachment:image-5.png)
-
 Of particular interest are the classification of mosquito, black, endemic, soil, and unpublished as negative words. Mosquitos are, of course, annoying to humans, but do play a crucial role in ecosystems; scientists generally believe no species has a positive or negative connation, though in literature, mosquitos may stand for irritating in a metaphor, and they do carry disease that can transmit to humans. Black is a tricky one: throughout literature, one can find references to black as a stand-in for darkness and sadness ('a black mood') but does this stem from racist motivations? (See Heathcliff's terrifying 'black' face described throughout Wuthering Heights as a demon or devil.) In the sentences I saw, black simply described the color of a fin - quite neutral. Soil can mean 'to dirty', so it gets negative sentiment, but as a noun referring to dirt, it is actually quite beneficial, or at the very least neutral! Finally, endemic means native of or to, which is in and of itself a neutral meaning. However, it can often refer to disease and I assume that is why it got classified as negative. Finally, a cheeky note that unpublished can stand in as a nod to the oft-stated "publish or perish" dilemma many scientists face. 
 
 Also of interest are the classification of perennial, tree, and dawn as positive words. A plant, specimen, or trend's perennial existence - as opposed to annual or shorter - is not necessarily a good thing. As noted above, scientists generally try to avoid assigning positive or negative meaning to these descriptors, as what is good for one instance is poor for another, so the application of sentiment here may not be entirely accurate. Trees are, of course, lovely things. They provide shade, filter carbon, serve as homes for legions of species... but they are also not "good" any more than a mosquito is "bad" - each just exists in its own place in an ecosystem. Finally, dawn has many a metaphorical meaning, most if not all positive, but, as per my refrain, is a neutral phenomenon in nature.
@@ -53,25 +41,17 @@ Because of these findings, I hesitate to assign real meaning to the sentiment an
 
 Ultimately, I found more trustworthy results in my TF-IDF work. The hypothesis I'd arrived with - that the field would have shifted from being more biologically-based to more technologically-based - was not rejected. 
 
-![image-6.png](attachment:image-6.png)
-
 For example, the TFIDFs for species and for soil are relatively the same, respectively, per year, showing that these are consistently-used terms in climate science, not an exception or development used or phased out year by year. At a very granular level, species and soil are both slightly more important in 2013 and decreases very slightly over the years, which could add credence to my hypothesis and prior findings that climate science has become slightly less biologically-based in favor of more technological, computer/man-made based explorations over the years, but in truth, this difference is too small to make meaningful conclusions or statistically significant ones, especially given that the corpus is relatively small and does not encompass the entirety of climate literature for any given year.
 
 
-![image-7.png](attachment:image-7.png)
-
 Exploring technological words like blockchain and technology yields similar results: a slight addition of credence to my hypothesis and prior findings but mostly statistically insignificant findings/consistency across the years. I am slightly surprised that blockchain has had such a similar TF-IDF in both 2013 and 2023, since it feels a more recent addition to climate science, but perhaps I am underestimating the technological proficiency of the field at the time (in 2013).
-
-
-![image-8.png](attachment:image-8.png)
-
 
 
 I finally explored words like computer, artifical, intelligence, machine, and learning. I did not expect great findings from this search since artifical and intelligence have a vastly different meaning when separate than when together (same for machine and learning) but thought it was worth a peek. Indeed, TF-IDF is nearly identical (often down to the ten-thousandth's place) for all three years. 
 
 A fascinating discovery was the fact that ai and ml still follow this pattern! I am curious about this, but perhaps I am digging for meaning where there is none here - AI and ML have been in development since before 2013 (though it did not become part of the public consciousness until after 2020 as far as I know), and climate science, with its massive datasets and forward-thinking nature, has always well-poised to take advantage of the latest advancements in science and technology alike.
 
-Finally, I explored terms with the highest TF-IDF per year. ![image-9.png](attachment:image-9.png)
+Finally, I explored terms with the highest TF-IDF per year.
 
 In 2013, those were 
 exudates,
